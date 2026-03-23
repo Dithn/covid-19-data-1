@@ -1,0 +1,929 @@
+entity,indicator,date,value
+Norway,Daily hospital occupancy,2020-03-08,0.0
+Norway,Daily hospital occupancy,2020-03-09,2.0
+Norway,Daily hospital occupancy,2020-03-10,8.0
+Norway,Daily hospital occupancy,2020-03-11,13.0
+Norway,Daily hospital occupancy,2020-03-12,23.0
+Norway,Daily hospital occupancy,2020-03-13,27.0
+Norway,Daily hospital occupancy,2020-03-14,35.0
+Norway,Daily hospital occupancy,2020-03-15,41.0
+Norway,Daily hospital occupancy,2020-03-16,50.0
+Norway,Daily hospital occupancy,2020-03-17,68.0
+Norway,Daily hospital occupancy,2020-03-18,82.0
+Norway,Daily hospital occupancy,2020-03-19,102.0
+Norway,Daily hospital occupancy,2020-03-20,130.0
+Norway,Daily hospital occupancy,2020-03-21,148.0
+Norway,Daily hospital occupancy,2020-03-22,169.0
+Norway,Daily hospital occupancy,2020-03-23,193.0
+Norway,Daily hospital occupancy,2020-03-24,212.0
+Norway,Daily hospital occupancy,2020-03-25,237.0
+Norway,Daily hospital occupancy,2020-03-26,266.0
+Norway,Daily hospital occupancy,2020-03-27,303.0
+Norway,Daily hospital occupancy,2020-03-28,291.0
+Norway,Daily hospital occupancy,2020-03-29,317.0
+Norway,Daily hospital occupancy,2020-03-30,321.0
+Norway,Daily hospital occupancy,2020-03-31,317.0
+Norway,Daily hospital occupancy,2020-04-01,325.0
+Norway,Daily hospital occupancy,2020-04-02,318.0
+Norway,Daily hospital occupancy,2020-04-03,318.0
+Norway,Daily hospital occupancy,2020-04-04,306.0
+Norway,Daily hospital occupancy,2020-04-05,310.0
+Norway,Daily hospital occupancy,2020-04-06,314.0
+Norway,Daily hospital occupancy,2020-04-07,277.0
+Norway,Daily hospital occupancy,2020-04-08,250.0
+Norway,Daily hospital occupancy,2020-04-09,252.0
+Norway,Daily hospital occupancy,2020-04-10,234.0
+Norway,Daily hospital occupancy,2020-04-11,214.0
+Norway,Daily hospital occupancy,2020-04-12,214.0
+Norway,Daily hospital occupancy,2020-04-13,204.0
+Norway,Daily hospital occupancy,2020-04-14,201.0
+Norway,Daily hospital occupancy,2020-04-15,190.0
+Norway,Daily hospital occupancy,2020-04-16,175.0
+Norway,Daily hospital occupancy,2020-04-17,165.0
+Norway,Daily hospital occupancy,2020-04-18,148.0
+Norway,Daily hospital occupancy,2020-04-19,153.0
+Norway,Daily hospital occupancy,2020-04-20,160.0
+Norway,Daily hospital occupancy,2020-04-21,144.0
+Norway,Daily hospital occupancy,2020-04-22,129.0
+Norway,Daily hospital occupancy,2020-04-23,123.0
+Norway,Daily hospital occupancy,2020-04-24,120.0
+Norway,Daily hospital occupancy,2020-04-25,114.0
+Norway,Daily hospital occupancy,2020-04-26,122.0
+Norway,Daily hospital occupancy,2020-04-27,125.0
+Norway,Daily hospital occupancy,2020-04-28,119.0
+Norway,Daily hospital occupancy,2020-04-29,114.0
+Norway,Daily hospital occupancy,2020-04-30,98.0
+Norway,Daily hospital occupancy,2020-05-01,82.0
+Norway,Daily hospital occupancy,2020-05-02,81.0
+Norway,Daily hospital occupancy,2020-05-03,80.0
+Norway,Daily hospital occupancy,2020-05-04,82.0
+Norway,Daily hospital occupancy,2020-05-05,71.0
+Norway,Daily hospital occupancy,2020-05-06,62.0
+Norway,Daily hospital occupancy,2020-05-07,63.0
+Norway,Daily hospital occupancy,2020-05-08,61.0
+Norway,Daily hospital occupancy,2020-05-09,59.0
+Norway,Daily hospital occupancy,2020-05-10,60.0
+Norway,Daily hospital occupancy,2020-05-11,59.0
+Norway,Daily hospital occupancy,2020-05-12,59.0
+Norway,Daily hospital occupancy,2020-05-13,61.0
+Norway,Daily hospital occupancy,2020-05-14,61.0
+Norway,Daily hospital occupancy,2020-05-15,58.0
+Norway,Daily hospital occupancy,2020-05-16,52.0
+Norway,Daily hospital occupancy,2020-05-17,52.0
+Norway,Daily hospital occupancy,2020-05-18,52.0
+Norway,Daily hospital occupancy,2020-05-19,51.0
+Norway,Daily hospital occupancy,2020-05-20,51.0
+Norway,Daily hospital occupancy,2020-05-21,41.0
+Norway,Daily hospital occupancy,2020-05-22,45.0
+Norway,Daily hospital occupancy,2020-05-23,35.0
+Norway,Daily hospital occupancy,2020-05-24,38.0
+Norway,Daily hospital occupancy,2020-05-25,40.0
+Norway,Daily hospital occupancy,2020-05-26,37.0
+Norway,Daily hospital occupancy,2020-05-27,36.0
+Norway,Daily hospital occupancy,2020-05-28,36.0
+Norway,Daily hospital occupancy,2020-05-29,30.0
+Norway,Daily hospital occupancy,2020-05-30,28.0
+Norway,Daily hospital occupancy,2020-05-31,28.0
+Norway,Daily hospital occupancy,2020-06-01,29.0
+Norway,Daily hospital occupancy,2020-06-02,32.0
+Norway,Daily hospital occupancy,2020-06-03,27.0
+Norway,Daily hospital occupancy,2020-06-04,29.0
+Norway,Daily hospital occupancy,2020-06-05,22.0
+Norway,Daily hospital occupancy,2020-06-06,21.0
+Norway,Daily hospital occupancy,2020-06-07,21.0
+Norway,Daily hospital occupancy,2020-06-08,21.0
+Norway,Daily hospital occupancy,2020-06-09,21.0
+Norway,Daily hospital occupancy,2020-06-10,18.0
+Norway,Daily hospital occupancy,2020-06-11,16.0
+Norway,Daily hospital occupancy,2020-06-12,16.0
+Norway,Daily hospital occupancy,2020-06-13,18.0
+Norway,Daily hospital occupancy,2020-06-15,18.0
+Norway,Daily hospital occupancy,2020-06-16,18.0
+Norway,Daily hospital occupancy,2020-06-17,18.0
+Norway,Daily hospital occupancy,2020-06-18,19.0
+Norway,Daily hospital occupancy,2020-06-19,17.0
+Norway,Daily hospital occupancy,2020-06-22,13.0
+Norway,Daily hospital occupancy,2020-06-23,12.0
+Norway,Daily hospital occupancy,2020-06-24,16.0
+Norway,Daily hospital occupancy,2020-06-25,18.0
+Norway,Daily hospital occupancy,2020-06-26,20.0
+Norway,Daily hospital occupancy,2020-06-29,18.0
+Norway,Daily hospital occupancy,2020-06-30,18.0
+Norway,Daily hospital occupancy,2020-07-01,17.0
+Norway,Daily hospital occupancy,2020-07-02,19.0
+Norway,Daily hospital occupancy,2020-07-03,15.0
+Norway,Daily hospital occupancy,2020-07-06,11.0
+Norway,Daily hospital occupancy,2020-07-07,9.0
+Norway,Daily hospital occupancy,2020-07-08,8.0
+Norway,Daily hospital occupancy,2020-07-09,8.0
+Norway,Daily hospital occupancy,2020-07-10,4.0
+Norway,Daily hospital occupancy,2020-07-13,7.0
+Norway,Daily hospital occupancy,2020-07-14,7.0
+Norway,Daily hospital occupancy,2020-07-15,5.0
+Norway,Daily hospital occupancy,2020-07-16,6.0
+Norway,Daily hospital occupancy,2020-07-17,8.0
+Norway,Daily hospital occupancy,2020-07-20,10.0
+Norway,Daily hospital occupancy,2020-07-21,7.0
+Norway,Daily hospital occupancy,2020-07-22,3.0
+Norway,Daily hospital occupancy,2020-07-23,3.0
+Norway,Daily hospital occupancy,2020-07-24,3.0
+Norway,Daily hospital occupancy,2020-07-27,7.0
+Norway,Daily hospital occupancy,2020-07-28,5.0
+Norway,Daily hospital occupancy,2020-07-29,6.0
+Norway,Daily hospital occupancy,2020-07-30,6.0
+Norway,Daily hospital occupancy,2020-07-31,3.0
+Norway,Daily hospital occupancy,2020-08-03,14.0
+Norway,Daily hospital occupancy,2020-08-04,12.0
+Norway,Daily hospital occupancy,2020-08-05,11.0
+Norway,Daily hospital occupancy,2020-08-06,14.0
+Norway,Daily hospital occupancy,2020-08-07,15.0
+Norway,Daily hospital occupancy,2020-08-10,16.0
+Norway,Daily hospital occupancy,2020-08-11,15.0
+Norway,Daily hospital occupancy,2020-08-12,15.0
+Norway,Daily hospital occupancy,2020-08-13,12.0
+Norway,Daily hospital occupancy,2020-08-14,8.0
+Norway,Daily hospital occupancy,2020-08-17,14.0
+Norway,Daily hospital occupancy,2020-08-18,12.0
+Norway,Daily hospital occupancy,2020-08-19,11.0
+Norway,Daily hospital occupancy,2020-08-20,10.0
+Norway,Daily hospital occupancy,2020-08-21,13.0
+Norway,Daily hospital occupancy,2020-08-24,17.0
+Norway,Daily hospital occupancy,2020-08-25,18.0
+Norway,Daily hospital occupancy,2020-08-26,17.0
+Norway,Daily hospital occupancy,2020-08-27,17.0
+Norway,Daily hospital occupancy,2020-08-28,16.0
+Norway,Daily hospital occupancy,2020-08-31,12.0
+Norway,Daily hospital occupancy,2020-09-01,11.0
+Norway,Daily hospital occupancy,2020-09-02,11.0
+Norway,Daily hospital occupancy,2020-09-03,13.0
+Norway,Daily hospital occupancy,2020-09-04,16.0
+Norway,Daily hospital occupancy,2020-09-07,15.0
+Norway,Daily hospital occupancy,2020-09-08,11.0
+Norway,Daily hospital occupancy,2020-09-09,14.0
+Norway,Daily hospital occupancy,2020-09-10,11.0
+Norway,Daily hospital occupancy,2020-09-11,16.0
+Norway,Daily hospital occupancy,2020-09-14,21.0
+Norway,Daily hospital occupancy,2020-09-15,18.0
+Norway,Daily hospital occupancy,2020-09-16,16.0
+Norway,Daily hospital occupancy,2020-09-17,20.0
+Norway,Daily hospital occupancy,2020-09-18,16.0
+Norway,Daily hospital occupancy,2020-09-21,23.0
+Norway,Daily hospital occupancy,2020-09-22,21.0
+Norway,Daily hospital occupancy,2020-09-23,19.0
+Norway,Daily hospital occupancy,2020-09-24,24.0
+Norway,Daily hospital occupancy,2020-09-25,19.0
+Norway,Daily hospital occupancy,2020-09-28,21.0
+Norway,Daily hospital occupancy,2020-09-29,24.0
+Norway,Daily hospital occupancy,2020-09-30,28.0
+Norway,Daily hospital occupancy,2020-10-01,25.0
+Norway,Daily hospital occupancy,2020-10-02,27.0
+Norway,Daily hospital occupancy,2020-10-05,25.0
+Norway,Daily hospital occupancy,2020-10-06,22.0
+Norway,Daily hospital occupancy,2020-10-07,25.0
+Norway,Daily hospital occupancy,2020-10-08,27.0
+Norway,Daily hospital occupancy,2020-10-09,23.0
+Norway,Daily hospital occupancy,2020-10-12,31.0
+Norway,Daily hospital occupancy,2020-10-13,27.0
+Norway,Daily hospital occupancy,2020-10-14,23.0
+Norway,Daily hospital occupancy,2020-10-15,24.0
+Norway,Daily hospital occupancy,2020-10-16,28.0
+Norway,Daily hospital occupancy,2020-10-19,28.0
+Norway,Daily hospital occupancy,2020-10-20,29.0
+Norway,Daily hospital occupancy,2020-10-21,36.0
+Norway,Daily hospital occupancy,2020-10-22,44.0
+Norway,Daily hospital occupancy,2020-10-23,44.0
+Norway,Daily hospital occupancy,2020-10-26,54.0
+Norway,Daily hospital occupancy,2020-10-27,51.0
+Norway,Daily hospital occupancy,2020-10-28,49.0
+Norway,Daily hospital occupancy,2020-10-29,47.0
+Norway,Daily hospital occupancy,2020-10-30,60.0
+Norway,Daily hospital occupancy,2020-10-31,60.0
+Norway,Daily hospital occupancy,2020-11-01,63.0
+Norway,Daily hospital occupancy,2020-11-02,64.0
+Norway,Daily hospital occupancy,2020-11-03,61.0
+Norway,Daily hospital occupancy,2020-11-04,70.0
+Norway,Daily hospital occupancy,2020-11-05,72.0
+Norway,Daily hospital occupancy,2020-11-06,88.0
+Norway,Daily hospital occupancy,2020-11-07,92.0
+Norway,Daily hospital occupancy,2020-11-08,96.0
+Norway,Daily hospital occupancy,2020-11-09,97.0
+Norway,Daily hospital occupancy,2020-11-10,104.0
+Norway,Daily hospital occupancy,2020-11-11,95.0
+Norway,Daily hospital occupancy,2020-11-12,110.0
+Norway,Daily hospital occupancy,2020-11-13,109.0
+Norway,Daily hospital occupancy,2020-11-14,117.0
+Norway,Daily hospital occupancy,2020-11-15,127.0
+Norway,Daily hospital occupancy,2020-11-16,135.0
+Norway,Daily hospital occupancy,2020-11-17,139.0
+Norway,Daily hospital occupancy,2020-11-18,143.0
+Norway,Daily hospital occupancy,2020-11-19,138.0
+Norway,Daily hospital occupancy,2020-11-20,127.0
+Norway,Daily hospital occupancy,2020-11-21,124.0
+Norway,Daily hospital occupancy,2020-11-22,129.0
+Norway,Daily hospital occupancy,2020-11-23,138.0
+Norway,Daily hospital occupancy,2020-11-24,128.0
+Norway,Daily hospital occupancy,2020-11-25,116.0
+Norway,Daily hospital occupancy,2020-11-26,123.0
+Norway,Daily hospital occupancy,2020-11-27,121.0
+Norway,Daily hospital occupancy,2020-11-28,118.0
+Norway,Daily hospital occupancy,2020-11-29,123.0
+Norway,Daily hospital occupancy,2020-11-30,129.0
+Norway,Daily hospital occupancy,2020-12-01,128.0
+Norway,Daily hospital occupancy,2020-12-02,128.0
+Norway,Daily hospital occupancy,2020-12-03,111.0
+Norway,Daily hospital occupancy,2020-12-04,128.0
+Norway,Daily hospital occupancy,2020-12-05,131.0
+Norway,Daily hospital occupancy,2020-12-06,132.0
+Norway,Daily hospital occupancy,2020-12-07,151.0
+Norway,Daily hospital occupancy,2020-12-08,139.0
+Norway,Daily hospital occupancy,2020-12-09,132.0
+Norway,Daily hospital occupancy,2020-12-10,136.0
+Norway,Daily hospital occupancy,2020-12-11,132.0
+Norway,Daily hospital occupancy,2020-12-12,118.0
+Norway,Daily hospital occupancy,2020-12-13,121.0
+Norway,Daily hospital occupancy,2020-12-14,133.0
+Norway,Daily hospital occupancy,2020-12-15,126.0
+Norway,Daily hospital occupancy,2020-12-16,133.0
+Norway,Daily hospital occupancy,2020-12-17,121.0
+Norway,Daily hospital occupancy,2020-12-18,122.0
+Norway,Daily hospital occupancy,2020-12-19,136.0
+Norway,Daily hospital occupancy,2020-12-20,138.0
+Norway,Daily hospital occupancy,2020-12-21,146.0
+Norway,Daily hospital occupancy,2020-12-22,138.0
+Norway,Daily hospital occupancy,2020-12-23,129.0
+Norway,Daily hospital occupancy,2020-12-24,123.0
+Norway,Daily hospital occupancy,2020-12-25,113.0
+Norway,Daily hospital occupancy,2020-12-26,112.0
+Norway,Daily hospital occupancy,2020-12-27,129.0
+Norway,Daily hospital occupancy,2020-12-28,141.0
+Norway,Daily hospital occupancy,2020-12-29,151.0
+Norway,Daily hospital occupancy,2020-12-30,145.0
+Norway,Daily hospital occupancy,2020-12-31,140.0
+Norway,Daily hospital occupancy,2021-01-01,126.0
+Norway,Daily hospital occupancy,2021-01-02,127.0
+Norway,Daily hospital occupancy,2021-01-03,128.0
+Norway,Daily hospital occupancy,2021-01-04,129.0
+Norway,Daily hospital occupancy,2021-01-05,133.0
+Norway,Daily hospital occupancy,2021-01-06,129.0
+Norway,Daily hospital occupancy,2021-01-07,127.0
+Norway,Daily hospital occupancy,2021-01-08,131.0
+Norway,Daily hospital occupancy,2021-01-09,125.0
+Norway,Daily hospital occupancy,2021-01-10,143.0
+Norway,Daily hospital occupancy,2021-01-11,147.0
+Norway,Daily hospital occupancy,2021-01-12,149.0
+Norway,Daily hospital occupancy,2021-01-13,156.0
+Norway,Daily hospital occupancy,2021-01-14,164.0
+Norway,Daily hospital occupancy,2021-01-15,158.0
+Norway,Daily hospital occupancy,2021-01-16,150.0
+Norway,Daily hospital occupancy,2021-01-17,158.0
+Norway,Daily hospital occupancy,2021-01-18,152.0
+Norway,Daily hospital occupancy,2021-01-19,132.0
+Norway,Daily hospital occupancy,2021-01-20,124.0
+Norway,Daily hospital occupancy,2021-01-21,125.0
+Norway,Daily hospital occupancy,2021-01-22,131.0
+Norway,Daily hospital occupancy,2021-01-23,129.0
+Norway,Daily hospital occupancy,2021-01-24,135.0
+Norway,Daily hospital occupancy,2021-01-25,135.0
+Norway,Daily hospital occupancy,2021-01-26,122.0
+Norway,Daily hospital occupancy,2021-01-27,120.0
+Norway,Daily hospital occupancy,2021-01-28,104.0
+Norway,Daily hospital occupancy,2021-01-29,99.0
+Norway,Daily hospital occupancy,2021-01-30,87.0
+Norway,Daily hospital occupancy,2021-01-31,90.0
+Norway,Daily hospital occupancy,2021-02-01,96.0
+Norway,Daily hospital occupancy,2021-02-02,94.0
+Norway,Daily hospital occupancy,2021-02-03,95.0
+Norway,Daily hospital occupancy,2021-02-04,94.0
+Norway,Daily hospital occupancy,2021-02-05,95.0
+Norway,Daily hospital occupancy,2021-02-06,85.0
+Norway,Daily hospital occupancy,2021-02-07,91.0
+Norway,Daily hospital occupancy,2021-02-08,91.0
+Norway,Daily hospital occupancy,2021-02-09,94.0
+Norway,Daily hospital occupancy,2021-02-10,88.0
+Norway,Daily hospital occupancy,2021-02-11,82.0
+Norway,Daily hospital occupancy,2021-02-12,80.0
+Norway,Daily hospital occupancy,2021-02-13,76.0
+Norway,Daily hospital occupancy,2021-02-14,85.0
+Norway,Daily hospital occupancy,2021-02-15,87.0
+Norway,Daily hospital occupancy,2021-02-16,79.0
+Norway,Daily hospital occupancy,2021-02-17,69.0
+Norway,Daily hospital occupancy,2021-02-18,72.0
+Norway,Daily hospital occupancy,2021-02-19,76.0
+Norway,Daily hospital occupancy,2021-02-20,79.0
+Norway,Daily hospital occupancy,2021-02-21,85.0
+Norway,Daily hospital occupancy,2021-02-22,93.0
+Norway,Daily hospital occupancy,2021-02-23,92.0
+Norway,Daily hospital occupancy,2021-02-24,95.0
+Norway,Daily hospital occupancy,2021-02-25,92.0
+Norway,Daily hospital occupancy,2021-02-26,93.0
+Norway,Daily hospital occupancy,2021-02-27,95.0
+Norway,Daily hospital occupancy,2021-02-28,95.0
+Norway,Daily hospital occupancy,2021-03-01,102.0
+Norway,Daily hospital occupancy,2021-03-02,109.0
+Norway,Daily hospital occupancy,2021-03-03,105.0
+Norway,Daily hospital occupancy,2021-03-04,111.0
+Norway,Daily hospital occupancy,2021-03-05,120.0
+Norway,Daily hospital occupancy,2021-03-06,130.0
+Norway,Daily hospital occupancy,2021-03-07,140.0
+Norway,Daily hospital occupancy,2021-03-08,147.0
+Norway,Daily hospital occupancy,2021-03-09,155.0
+Norway,Daily hospital occupancy,2021-03-10,161.0
+Norway,Daily hospital occupancy,2021-03-11,159.0
+Norway,Daily hospital occupancy,2021-03-12,161.0
+Norway,Daily hospital occupancy,2021-03-13,177.0
+Norway,Daily hospital occupancy,2021-03-14,200.0
+Norway,Daily hospital occupancy,2021-03-15,221.0
+Norway,Daily hospital occupancy,2021-03-16,224.0
+Norway,Daily hospital occupancy,2021-03-17,226.0
+Norway,Daily hospital occupancy,2021-03-18,225.0
+Norway,Daily hospital occupancy,2021-03-19,235.0
+Norway,Daily hospital occupancy,2021-03-20,233.0
+Norway,Daily hospital occupancy,2021-03-21,244.0
+Norway,Daily hospital occupancy,2021-03-22,266.0
+Norway,Daily hospital occupancy,2021-03-23,264.0
+Norway,Daily hospital occupancy,2021-03-24,267.0
+Norway,Daily hospital occupancy,2021-03-25,250.0
+Norway,Daily hospital occupancy,2021-03-26,260.0
+Norway,Daily hospital occupancy,2021-03-27,264.0
+Norway,Daily hospital occupancy,2021-03-28,275.0
+Norway,Daily hospital occupancy,2021-03-29,285.0
+Norway,Daily hospital occupancy,2021-03-30,288.0
+Norway,Daily hospital occupancy,2021-03-31,293.0
+Norway,Daily hospital occupancy,2021-04-01,287.0
+Norway,Daily hospital occupancy,2021-04-02,289.0
+Norway,Daily hospital occupancy,2021-04-03,306.0
+Norway,Daily hospital occupancy,2021-04-04,299.0
+Norway,Daily hospital occupancy,2021-04-05,295.0
+Norway,Daily hospital occupancy,2021-04-06,296.0
+Norway,Daily hospital occupancy,2021-04-07,307.0
+Norway,Daily hospital occupancy,2021-04-08,298.0
+Norway,Daily hospital occupancy,2021-04-09,281.0
+Norway,Daily hospital occupancy,2021-04-10,280.0
+Norway,Daily hospital occupancy,2021-04-11,276.0
+Norway,Daily hospital occupancy,2021-04-12,288.0
+Norway,Daily hospital occupancy,2021-04-13,269.0
+Norway,Daily hospital occupancy,2021-04-14,261.0
+Norway,Daily hospital occupancy,2021-04-15,245.0
+Norway,Daily hospital occupancy,2021-04-16,242.0
+Norway,Daily hospital occupancy,2021-04-17,220.0
+Norway,Daily hospital occupancy,2021-04-18,209.0
+Norway,Daily hospital occupancy,2021-04-19,221.0
+Norway,Daily hospital occupancy,2021-04-20,218.0
+Norway,Daily hospital occupancy,2021-04-21,212.0
+Norway,Daily hospital occupancy,2021-04-22,199.0
+Norway,Daily hospital occupancy,2021-04-23,194.0
+Norway,Daily hospital occupancy,2021-04-24,192.0
+Norway,Daily hospital occupancy,2021-04-25,200.0
+Norway,Daily hospital occupancy,2021-04-26,207.0
+Norway,Daily hospital occupancy,2021-04-27,206.0
+Norway,Daily hospital occupancy,2021-04-28,200.0
+Norway,Daily hospital occupancy,2021-04-29,186.0
+Norway,Daily hospital occupancy,2021-04-30,173.0
+Norway,Daily hospital occupancy,2021-05-01,160.0
+Norway,Daily hospital occupancy,2021-05-02,155.0
+Norway,Daily hospital occupancy,2021-05-03,153.0
+Norway,Daily hospital occupancy,2021-05-04,128.0
+Norway,Daily hospital occupancy,2021-05-05,109.0
+Norway,Daily hospital occupancy,2021-05-06,115.0
+Norway,Daily hospital occupancy,2021-05-07,114.0
+Norway,Daily hospital occupancy,2021-05-08,106.0
+Norway,Daily hospital occupancy,2021-05-09,110.0
+Norway,Daily hospital occupancy,2021-05-10,117.0
+Norway,Daily hospital occupancy,2021-05-11,114.0
+Norway,Daily hospital occupancy,2021-05-12,125.0
+Norway,Daily hospital occupancy,2021-05-13,112.0
+Norway,Daily hospital occupancy,2021-05-14,126.0
+Norway,Daily hospital occupancy,2021-05-15,110.0
+Norway,Daily hospital occupancy,2021-05-16,107.0
+Norway,Daily hospital occupancy,2021-05-17,101.0
+Norway,Daily hospital occupancy,2021-05-18,114.0
+Norway,Daily hospital occupancy,2021-05-19,110.0
+Norway,Daily hospital occupancy,2021-05-20,99.0
+Norway,Daily hospital occupancy,2021-05-21,92.0
+Norway,Daily hospital occupancy,2021-05-22,91.0
+Norway,Daily hospital occupancy,2021-05-23,95.0
+Norway,Daily hospital occupancy,2021-05-24,103.0
+Norway,Daily hospital occupancy,2021-05-25,109.0
+Norway,Daily hospital occupancy,2021-05-26,99.0
+Norway,Daily hospital occupancy,2021-05-27,88.0
+Norway,Daily hospital occupancy,2021-05-28,85.0
+Norway,Daily hospital occupancy,2021-05-29,81.0
+Norway,Daily hospital occupancy,2021-05-30,76.0
+Norway,Daily hospital occupancy,2021-05-31,71.0
+Norway,Daily hospital occupancy,2021-06-01,65.0
+Norway,Daily hospital occupancy,2021-06-02,63.0
+Norway,Daily hospital occupancy,2021-06-03,65.0
+Norway,Daily hospital occupancy,2021-06-04,63.0
+Norway,Daily hospital occupancy,2021-06-07,62.0
+Norway,Daily hospital occupancy,2021-06-08,61.0
+Norway,Daily hospital occupancy,2021-06-09,58.0
+Norway,Daily hospital occupancy,2021-06-10,55.0
+Norway,Daily hospital occupancy,2021-06-11,47.0
+Norway,Daily hospital occupancy,2021-06-14,47.0
+Norway,Daily hospital occupancy,2021-06-15,47.0
+Norway,Daily hospital occupancy,2021-06-16,45.0
+Norway,Daily hospital occupancy,2021-06-17,43.0
+Norway,Daily hospital occupancy,2021-06-18,39.0
+Norway,Daily hospital occupancy,2021-06-21,38.0
+Norway,Daily hospital occupancy,2021-06-22,34.0
+Norway,Daily hospital occupancy,2021-06-23,32.0
+Norway,Daily hospital occupancy,2021-06-24,33.0
+Norway,Daily hospital occupancy,2021-06-25,27.0
+Norway,Daily hospital occupancy,2021-06-28,25.0
+Norway,Daily hospital occupancy,2021-06-29,24.0
+Norway,Daily hospital occupancy,2021-06-30,22.0
+Norway,Daily hospital occupancy,2021-07-01,25.0
+Norway,Daily hospital occupancy,2021-07-02,28.0
+Norway,Daily hospital occupancy,2021-07-05,25.0
+Norway,Daily hospital occupancy,2021-07-06,28.0
+Norway,Daily hospital occupancy,2021-07-07,30.0
+Norway,Daily hospital occupancy,2021-07-08,24.0
+Norway,Daily hospital occupancy,2021-07-09,27.0
+Norway,Daily hospital occupancy,2021-07-12,26.0
+Norway,Daily hospital occupancy,2021-07-13,21.0
+Norway,Daily hospital occupancy,2021-07-14,20.0
+Norway,Daily hospital occupancy,2021-07-15,18.0
+Norway,Daily hospital occupancy,2021-07-16,17.0
+Norway,Daily hospital occupancy,2021-07-19,28.0
+Norway,Daily hospital occupancy,2021-07-20,24.0
+Norway,Daily hospital occupancy,2021-07-21,24.0
+Norway,Daily hospital occupancy,2021-07-22,21.0
+Norway,Daily hospital occupancy,2021-07-23,21.0
+Norway,Daily hospital occupancy,2021-07-26,24.0
+Norway,Daily hospital occupancy,2021-07-27,22.0
+Norway,Daily hospital occupancy,2021-07-28,21.0
+Norway,Daily hospital occupancy,2021-07-29,25.0
+Norway,Daily hospital occupancy,2021-07-30,17.0
+Norway,Daily hospital occupancy,2021-08-02,17.0
+Norway,Daily hospital occupancy,2021-08-03,19.0
+Norway,Daily hospital occupancy,2021-08-04,25.0
+Norway,Daily hospital occupancy,2021-08-05,30.0
+Norway,Daily hospital occupancy,2021-08-06,33.0
+Norway,Daily hospital occupancy,2021-08-09,25.0
+Norway,Daily hospital occupancy,2021-08-10,33.0
+Norway,Daily hospital occupancy,2021-08-11,32.0
+Norway,Daily hospital occupancy,2021-08-12,31.0
+Norway,Daily hospital occupancy,2021-08-13,25.0
+Norway,Daily hospital occupancy,2021-08-16,29.0
+Norway,Daily hospital occupancy,2021-08-17,32.0
+Norway,Daily hospital occupancy,2021-08-18,28.0
+Norway,Daily hospital occupancy,2021-08-19,32.0
+Norway,Daily hospital occupancy,2021-08-20,37.0
+Norway,Daily hospital occupancy,2021-08-23,53.0
+Norway,Daily hospital occupancy,2021-08-24,52.0
+Norway,Daily hospital occupancy,2021-08-25,56.0
+Norway,Daily hospital occupancy,2021-08-26,65.0
+Norway,Daily hospital occupancy,2021-08-27,60.0
+Norway,Daily hospital occupancy,2021-08-30,79.0
+Norway,Daily hospital occupancy,2021-08-31,89.0
+Norway,Daily hospital occupancy,2021-09-01,83.0
+Norway,Daily hospital occupancy,2021-09-02,89.0
+Norway,Daily hospital occupancy,2021-09-03,88.0
+Norway,Daily hospital occupancy,2021-09-06,94.0
+Norway,Daily hospital occupancy,2021-09-07,103.0
+Norway,Daily hospital occupancy,2021-09-08,97.0
+Norway,Daily hospital occupancy,2021-09-09,104.0
+Norway,Daily hospital occupancy,2021-09-10,116.0
+Norway,Daily hospital occupancy,2021-09-13,127.0
+Norway,Daily hospital occupancy,2021-09-14,105.0
+Norway,Daily hospital occupancy,2021-09-15,106.0
+Norway,Daily hospital occupancy,2021-09-16,97.0
+Norway,Daily hospital occupancy,2021-09-17,107.0
+Norway,Daily hospital occupancy,2021-09-20,122.0
+Norway,Daily hospital occupancy,2021-09-21,119.0
+Norway,Daily hospital occupancy,2021-09-22,113.0
+Norway,Daily hospital occupancy,2021-09-23,100.0
+Norway,Daily hospital occupancy,2021-09-24,96.0
+Norway,Daily hospital occupancy,2021-09-27,104.0
+Norway,Daily hospital occupancy,2021-09-28,97.0
+Norway,Daily hospital occupancy,2021-09-29,98.0
+Norway,Daily hospital occupancy,2021-09-30,93.0
+Norway,Daily hospital occupancy,2021-10-01,94.0
+Norway,Daily hospital occupancy,2021-10-04,97.0
+Norway,Daily hospital occupancy,2021-10-05,92.0
+Norway,Daily hospital occupancy,2021-10-06,90.0
+Norway,Daily hospital occupancy,2021-10-07,97.0
+Norway,Daily hospital occupancy,2021-10-08,105.0
+Norway,Daily hospital occupancy,2021-10-11,98.0
+Norway,Daily hospital occupancy,2021-10-12,93.0
+Norway,Daily hospital occupancy,2021-10-13,93.0
+Norway,Daily hospital occupancy,2021-10-14,95.0
+Norway,Daily hospital occupancy,2021-10-15,95.0
+Norway,Daily hospital occupancy,2021-10-18,99.0
+Norway,Daily hospital occupancy,2021-10-19,101.0
+Norway,Daily hospital occupancy,2021-10-20,118.0
+Norway,Daily hospital occupancy,2021-10-21,121.0
+Norway,Daily hospital occupancy,2021-10-22,121.0
+Norway,Daily hospital occupancy,2021-10-25,125.0
+Norway,Daily hospital occupancy,2021-10-26,106.0
+Norway,Daily hospital occupancy,2021-10-27,101.0
+Norway,Daily hospital occupancy,2021-10-28,107.0
+Norway,Daily hospital occupancy,2021-10-29,121.0
+Norway,Daily hospital occupancy,2021-11-01,168.0
+Norway,Daily hospital occupancy,2021-11-02,163.0
+Norway,Daily hospital occupancy,2021-11-03,167.0
+Norway,Daily hospital occupancy,2021-11-04,171.0
+Norway,Daily hospital occupancy,2021-11-05,173.0
+Norway,Daily hospital occupancy,2021-11-08,197.0
+Norway,Daily hospital occupancy,2021-11-09,187.0
+Norway,Daily hospital occupancy,2021-11-10,188.0
+Norway,Daily hospital occupancy,2021-11-11,184.0
+Norway,Daily hospital occupancy,2021-11-12,190.0
+Norway,Daily hospital occupancy,2021-11-15,225.0
+Norway,Daily hospital occupancy,2021-11-16,218.0
+Norway,Daily hospital occupancy,2021-11-17,219.0
+Norway,Daily hospital occupancy,2021-11-18,218.0
+Norway,Daily hospital occupancy,2021-11-19,222.0
+Norway,Daily hospital occupancy,2021-11-22,229.0
+Norway,Daily hospital occupancy,2021-11-23,235.0
+Norway,Daily hospital occupancy,2021-11-24,232.0
+Norway,Daily hospital occupancy,2021-11-25,227.0
+Norway,Daily hospital occupancy,2021-11-26,221.0
+Norway,Daily hospital occupancy,2021-11-29,250.0
+Norway,Daily hospital occupancy,2021-11-30,246.0
+Norway,Daily hospital occupancy,2021-12-01,257.0
+Norway,Daily hospital occupancy,2021-12-02,262.0
+Norway,Daily hospital occupancy,2021-12-03,262.0
+Norway,Daily hospital occupancy,2021-12-06,295.0
+Norway,Daily hospital occupancy,2021-12-07,320.0
+Norway,Daily hospital occupancy,2021-12-08,307.0
+Norway,Daily hospital occupancy,2021-12-09,316.0
+Norway,Daily hospital occupancy,2021-12-10,314.0
+Norway,Daily hospital occupancy,2021-12-11,307.0
+Norway,Daily hospital occupancy,2021-12-12,331.0
+Norway,Daily hospital occupancy,2021-12-13,358.0
+Norway,Daily hospital occupancy,2021-12-14,363.0
+Norway,Daily hospital occupancy,2021-12-15,375.0
+Norway,Daily hospital occupancy,2021-12-16,371.0
+Norway,Daily hospital occupancy,2021-12-17,383.0
+Norway,Daily hospital occupancy,2021-12-18,364.0
+Norway,Daily hospital occupancy,2021-12-19,356.0
+Norway,Daily hospital occupancy,2021-12-20,373.0
+Norway,Daily hospital occupancy,2021-12-21,337.0
+Norway,Daily hospital occupancy,2021-12-22,316.0
+Norway,Daily hospital occupancy,2021-12-23,311.0
+Norway,Daily hospital occupancy,2021-12-24,288.0
+Norway,Daily hospital occupancy,2021-12-25,283.0
+Norway,Daily hospital occupancy,2021-12-26,307.0
+Norway,Daily hospital occupancy,2021-12-27,328.0
+Norway,Daily hospital occupancy,2021-12-28,315.0
+Norway,Daily hospital occupancy,2021-12-29,323.0
+Norway,Daily hospital occupancy,2021-12-30,326.0
+Norway,Daily hospital occupancy,2021-12-31,312.0
+Norway,Daily hospital occupancy,2022-01-01,295.0
+Norway,Daily hospital occupancy,2022-01-02,314.0
+Norway,Daily hospital occupancy,2022-01-03,325.0
+Norway,Daily hospital occupancy,2022-01-04,304.0
+Norway,Daily hospital occupancy,2022-01-05,306.0
+Norway,Daily hospital occupancy,2022-01-06,295.0
+Norway,Daily hospital occupancy,2022-01-07,280.0
+Norway,Daily hospital occupancy,2022-01-08,246.0
+Norway,Daily hospital occupancy,2022-01-09,257.0
+Norway,Daily hospital occupancy,2022-01-10,270.0
+Norway,Daily hospital occupancy,2022-01-11,277.0
+Norway,Daily hospital occupancy,2022-01-12,264.0
+Norway,Daily hospital occupancy,2022-01-13,243.0
+Norway,Daily hospital occupancy,2022-01-14,252.0
+Norway,Daily hospital occupancy,2022-01-15,228.0
+Norway,Daily hospital occupancy,2022-01-16,231.0
+Norway,Daily hospital occupancy,2022-01-17,240.0
+Norway,Daily hospital occupancy,2022-01-18,238.0
+Norway,Daily hospital occupancy,2022-01-19,240.0
+Norway,Daily hospital occupancy,2022-01-20,249.0
+Norway,Daily hospital occupancy,2022-01-21,230.0
+Norway,Daily hospital occupancy,2022-01-22,224.0
+Norway,Daily hospital occupancy,2022-01-23,227.0
+Norway,Daily hospital occupancy,2022-01-24,255.0
+Norway,Daily hospital occupancy,2022-01-25,253.0
+Norway,Daily hospital occupancy,2022-01-26,245.0
+Norway,Daily hospital occupancy,2022-01-27,268.0
+Norway,Daily hospital occupancy,2022-01-28,263.0
+Norway,Daily hospital occupancy,2022-01-29,243.0
+Norway,Daily hospital occupancy,2022-01-30,230.0
+Norway,Daily hospital occupancy,2022-01-31,257.0
+Norway,Daily hospital occupancy,2022-02-01,267.0
+Norway,Daily hospital occupancy,2022-02-02,280.0
+Norway,Daily hospital occupancy,2022-02-03,279.0
+Norway,Daily hospital occupancy,2022-02-04,288.0
+Norway,Daily hospital occupancy,2022-02-05,279.0
+Norway,Daily hospital occupancy,2022-02-06,290.0
+Norway,Daily hospital occupancy,2022-02-07,314.0
+Norway,Daily hospital occupancy,2022-02-08,317.0
+Norway,Daily hospital occupancy,2022-02-09,326.0
+Norway,Daily hospital occupancy,2022-02-10,324.0
+Norway,Daily hospital occupancy,2022-02-11,328.0
+Norway,Daily hospital occupancy,2022-02-12,294.0
+Norway,Daily hospital occupancy,2022-02-13,329.0
+Norway,Daily hospital occupancy,2022-02-14,353.0
+Norway,Daily hospital occupancy,2022-02-15,382.0
+Norway,Daily hospital occupancy,2022-02-16,377.0
+Norway,Daily hospital occupancy,2022-02-17,402.0
+Norway,Daily hospital occupancy,2022-02-18,442.0
+Norway,Daily hospital occupancy,2022-02-21,509.0
+Norway,Daily hospital occupancy,2022-02-22,534.0
+Norway,Daily hospital occupancy,2022-02-23,528.0
+Norway,Daily hospital occupancy,2022-02-24,519.0
+Norway,Daily hospital occupancy,2022-02-25,525.0
+Norway,Daily hospital occupancy,2022-02-28,569.0
+Norway,Daily hospital occupancy,2022-03-01,572.0
+Norway,Daily hospital occupancy,2022-03-02,598.0
+Norway,Daily hospital occupancy,2022-03-03,575.0
+Norway,Daily hospital occupancy,2022-03-04,555.0
+Norway,Daily hospital occupancy,2022-03-07,634.0
+Norway,Daily hospital occupancy,2022-03-08,638.0
+Norway,Daily hospital occupancy,2022-03-09,617.0
+Norway,Daily hospital occupancy,2022-03-10,597.0
+Norway,Daily hospital occupancy,2022-03-11,611.0
+Norway,Daily hospital occupancy,2022-03-14,616.0
+Norway,Daily hospital occupancy,2022-03-15,578.0
+Norway,Daily hospital occupancy,2022-03-16,536.0
+Norway,Daily hospital occupancy,2022-03-17,524.0
+Norway,Daily hospital occupancy,2022-03-18,490.0
+Norway,Daily hospital occupancy,2022-03-21,480.0
+Norway,Daily hospital occupancy,2022-03-22,467.0
+Norway,Weekly new hospital admissions,2020-04-26,40.31869456533211
+Norway,Weekly new ICU admissions,2020-04-26,13.103575733732935
+Norway,Weekly new hospital admissions,2020-05-03,16.127477826132843
+Norway,Weekly new ICU admissions,2020-05-03,3.0239020923999056
+Norway,Weekly new hospital admissions,2020-05-10,17.135445190266147
+Norway,Weekly new ICU admissions,2020-05-10,4.031869456533205
+Norway,Weekly new hospital admissions,2020-05-17,11.08764100546633
+Norway,Weekly new ICU admissions,2020-05-17,3.0239020923999056
+Norway,Weekly new hospital admissions,2020-05-24,10.079673641333024
+Norway,Weekly new ICU admissions,2020-05-24,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-05-31,10.079673641333024
+Norway,Weekly new ICU admissions,2020-05-31,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-06-07,2.0159347282666005
+Norway,Weekly new ICU admissions,2020-06-07,0.0
+Norway,Weekly new hospital admissions,2020-06-14,8.063738913066418
+Norway,Weekly new ICU admissions,2020-06-14,4.031869456533205
+Norway,Weekly new hospital admissions,2020-06-21,7.055771548933118
+Norway,Weekly new ICU admissions,2020-06-21,2.0159347282666005
+Norway,Weekly new hospital admissions,2020-06-28,13.103575733732935
+Norway,Weekly new ICU admissions,2020-06-28,0.0
+Norway,Weekly new hospital admissions,2020-07-05,6.047804184799811
+Norway,Weekly new ICU admissions,2020-07-05,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-07-12,2.0159347282666005
+Norway,Weekly new ICU admissions,2020-07-12,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-07-19,8.063738913066418
+Norway,Weekly new ICU admissions,2020-07-19,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-07-26,3.0239020923999056
+Norway,Weekly new ICU admissions,2020-07-26,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-08-02,11.08764100546633
+Norway,Weekly new ICU admissions,2020-08-02,0.0
+Norway,Weekly new hospital admissions,2020-08-09,16.127477826132843
+Norway,Weekly new ICU admissions,2020-08-09,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-08-16,10.079673641333024
+Norway,Weekly new ICU admissions,2020-08-16,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-08-23,12.09560836959963
+Norway,Weekly new ICU admissions,2020-08-23,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-08-30,12.09560836959963
+Norway,Weekly new ICU admissions,2020-08-30,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-09-06,12.09560836959963
+Norway,Weekly new ICU admissions,2020-09-06,1.0079673641333002
+Norway,Weekly new hospital admissions,2020-09-13,20.159347282666054
+Norway,Weekly new ICU admissions,2020-09-13,2.0159347282666005
+Norway,Weekly new hospital admissions,2020-09-20,23.18324937506596
+Norway,Weekly new ICU admissions,2020-09-20,2.0159347282666005
+Norway,Weekly new hospital admissions,2020-09-27,15.11951046199954
+Norway,Weekly new ICU admissions,2020-09-27,3.0239020923999056
+Norway,Weekly new hospital admissions,2020-10-04,23.18324937506596
+Norway,Weekly new ICU admissions,2020-10-04,3.0239020923999056
+Norway,Weekly new hospital admissions,2020-10-11,32.254955652265686
+Norway,Weekly new ICU admissions,2020-10-11,2.0159347282666005
+Norway,Weekly new hospital admissions,2020-10-18,22.17528201093266
+Norway,Weekly new ICU admissions,2020-10-18,6.047804184799811
+Norway,Weekly new hospital admissions,2020-10-25,43.34259665773202
+Norway,Weekly new ICU admissions,2020-10-25,4.031869456533205
+Norway,Weekly new hospital admissions,2020-11-01,54.43023766319834
+Norway,Weekly new ICU admissions,2020-11-01,5.039836820666512
+Norway,Weekly new hospital admissions,2020-11-08,99.78876904919697
+Norway,Weekly new ICU admissions,2020-11-08,17.135445190266147
+Norway,Weekly new hospital admissions,2020-11-15,110.8764100546633
+Norway,Weekly new ICU admissions,2020-11-15,17.135445190266147
+Norway,Weekly new hospital admissions,2020-11-22,109.86844269053
+Norway,Weekly new ICU admissions,2020-11-22,24.191216739199263
+Norway,Weekly new hospital admissions,2020-11-29,95.75689959266374
+Norway,Weekly new ICU admissions,2020-11-29,14.111543097866235
+Norway,Weekly new hospital admissions,2020-12-06,111.8843774187966
+Norway,Weekly new ICU admissions,2020-12-06,19.151379918532747
+Norway,Weekly new hospital admissions,2020-12-13,82.65332385893083
+Norway,Weekly new ICU admissions,2020-12-13,20.159347282666054
+Norway,Weekly new hospital admissions,2020-12-20,99.78876904919697
+Norway,Weekly new ICU admissions,2020-12-20,14.111543097866235
+Norway,Weekly new hospital admissions,2020-12-27,78.6214544023976
+Norway,Weekly new ICU admissions,2020-12-27,14.111543097866235
+Norway,Weekly new hospital admissions,2021-01-03,98.78080168506366
+Norway,Weekly new ICU admissions,2021-01-03,11.08764100546633
+Norway,Weekly new hospital admissions,2021-01-10,91.72503013613054
+Norway,Weekly new ICU admissions,2021-01-10,22.17528201093266
+Norway,Weekly new hospital admissions,2021-01-17,90.71706277199723
+Norway,Weekly new ICU admissions,2021-01-17,15.11951046199954
+Norway,Weekly new hospital admissions,2021-01-24,91.72503013613054
+Norway,Weekly new ICU admissions,2021-01-24,14.111543097866235
+Norway,Weekly new hospital admissions,2021-01-31,48.382433478398525
+Norway,Weekly new ICU admissions,2021-01-31,10.079673641333024
+Norway,Weekly new hospital admissions,2021-02-07,34.27089038053229
+Norway,Weekly new ICU admissions,2021-02-07,10.079673641333024
+Norway,Weekly new hospital admissions,2021-02-14,46.366498750131925
+Norway,Weekly new ICU admissions,2021-02-14,8.063738913066418
+Norway,Weekly new hospital admissions,2021-02-21,62.493976576264764
+Norway,Weekly new ICU admissions,2021-02-21,8.063738913066418
+Norway,Weekly new hospital admissions,2021-02-28,74.58958494586439
+Norway,Weekly new ICU admissions,2021-02-28,12.09560836959963
+Norway,Weekly new hospital admissions,2021-03-07,105.8365732339968
+Norway,Weekly new ICU admissions,2021-03-07,18.143412554399447
+Norway,Weekly new hospital admissions,2021-03-14,174.37835399506136
+Norway,Weekly new ICU admissions,2021-03-14,30.23902092399908
+Norway,Weekly new hospital admissions,2021-03-21,230.82452638652632
+Norway,Weekly new ICU admissions,2021-03-21,47.374466114265225
+Norway,Weekly new hospital admissions,2021-03-28,208.64924437559364
+Norway,Weekly new ICU admissions,2021-03-28,55.43820502733165
+Norway,Weekly new hospital admissions,2021-04-04,211.67314646799358
+Norway,Weekly new ICU admissions,2021-04-04,55.43820502733165
+Norway,Weekly new hospital admissions,2021-04-11,201.5934728266605
+Norway,Weekly new ICU admissions,2021-04-11,32.254955652265686
+Norway,Weekly new hospital admissions,2021-04-18,172.36241926679475
+Norway,Weekly new ICU admissions,2021-04-18,34.27089038053229
+Norway,Weekly new hospital admissions,2021-04-25,134.05965942972927
+Norway,Weekly new ICU admissions,2021-04-25,29.23105355986578
+Norway,Weekly new hospital admissions,2021-05-02,71.56568285346448
+Norway,Weekly new ICU admissions,2021-05-02,14.111543097866235
+Norway,Weekly new hospital admissions,2021-05-09,71.56568285346448
+Norway,Weekly new ICU admissions,2021-05-09,12.09560836959963
+Norway,Weekly new hospital admissions,2021-05-16,65.51787866866468
+Norway,Weekly new ICU admissions,2021-05-16,13.103575733732935
+Norway,Weekly new hospital admissions,2021-05-23,61.48600921213147
+Norway,Weekly new ICU admissions,2021-05-23,14.111543097866235
+Norway,Weekly new hospital admissions,2021-05-30,51.40633557079843
+Norway,Weekly new ICU admissions,2021-05-30,10.079673641333024
+Norway,Weekly new hospital admissions,2021-06-06,50.39836820666514
+Norway,Weekly new ICU admissions,2021-06-06,8.063738913066418
+Norway,Weekly new hospital admissions,2021-06-13,29.23105355986578
+Norway,Weekly new ICU admissions,2021-06-13,3.0239020923999056
+Norway,Weekly new hospital admissions,2021-06-20,22.17528201093266
+Norway,Weekly new ICU admissions,2021-06-20,0.0
+Norway,Weekly new hospital admissions,2021-06-27,20.159347282666054
+Norway,Weekly new ICU admissions,2021-06-27,5.039836820666512
+Norway,Weekly new hospital admissions,2021-07-04,17.135445190266147
+Norway,Weekly new ICU admissions,2021-07-04,2.0159347282666005
+Norway,Weekly new hospital admissions,2021-07-11,18.143412554399447
+Norway,Weekly new ICU admissions,2021-07-11,5.039836820666512
+Norway,Weekly new hospital admissions,2021-07-18,18.143412554399447
+Norway,Weekly new ICU admissions,2021-07-18,5.039836820666512
+Norway,Weekly new hospital admissions,2021-07-25,19.151379918532747
+Norway,Weekly new ICU admissions,2021-07-25,3.0239020923999056
+Norway,Weekly new hospital admissions,2021-08-01,20.159347282666054
+Norway,Weekly new ICU admissions,2021-08-01,3.0239020923999056
+Norway,Weekly new hospital admissions,2021-08-08,34.27089038053229
+Norway,Weekly new ICU admissions,2021-08-08,6.047804184799811
+Norway,Weekly new hospital admissions,2021-08-15,36.2868251087989
+Norway,Weekly new ICU admissions,2021-08-15,3.0239020923999056
+Norway,Weekly new hospital admissions,2021-08-22,49.39040084253183
+Norway,Weekly new ICU admissions,2021-08-22,6.047804184799811
+Norway,Weekly new hospital admissions,2021-08-29,69.54974812519788
+Norway,Weekly new ICU admissions,2021-08-29,8.063738913066418
+Norway,Weekly new hospital admissions,2021-09-05,69.54974812519788
+Norway,Weekly new ICU admissions,2021-09-05,17.135445190266147
+Norway,Weekly new hospital admissions,2021-09-12,101.80470377746356
+Norway,Weekly new ICU admissions,2021-09-12,24.191216739199263
+Norway,Weekly new hospital admissions,2021-09-19,79.62942176653092
+Norway,Weekly new ICU admissions,2021-09-19,12.09560836959963
+Norway,Weekly new hospital admissions,2021-09-26,64.50991130453137
+Norway,Weekly new ICU admissions,2021-09-26,17.135445190266147
+Norway,Weekly new hospital admissions,2021-10-03,60.47804184799816
+Norway,Weekly new ICU admissions,2021-10-03,10.079673641333024
+Norway,Weekly new hospital admissions,2021-10-10,58.46210711973154
+Norway,Weekly new ICU admissions,2021-10-10,15.11951046199954
+Norway,Weekly new hospital admissions,2021-10-17,62.493976576264764
+Norway,Weekly new ICU admissions,2021-10-17,16.127477826132843
+Norway,Weekly new hospital admissions,2021-10-24,81.6453564947975
+Norway,Weekly new ICU admissions,2021-10-24,13.103575733732935
+Norway,Weekly new hospital admissions,2021-10-31,116.92421423946313
+Norway,Weekly new ICU admissions,2021-10-31,22.17528201093266
+Norway,Weekly new hospital admissions,2021-11-07,146.1552677993289
+Norway,Weekly new ICU admissions,2021-11-07,41.326661929465416
+Norway,Weekly new hospital admissions,2021-11-14,166.31461508199496
+Norway,Weekly new ICU admissions,2021-11-14,29.23105355986578
+Norway,Weekly new hospital admissions,2021-11-21,152.2030719841287
+Norway,Weekly new ICU admissions,2021-11-21,24.191216739199263
+Norway,Weekly new hospital admissions,2021-11-28,181.43412554399447
+Norway,Weekly new ICU admissions,2021-11-28,45.35853138599862
+Norway,Weekly new hospital admissions,2021-12-05,219.73688538106
+Norway,Weekly new ICU admissions,2021-12-05,45.35853138599862
+Norway,Weekly new hospital admissions,2021-12-12,228.8085916582597
+Norway,Weekly new ICU admissions,2021-12-12,71.56568285346448
+Norway,Weekly new hospital admissions,2021-12-19,257.03167785399216
+Norway,Weekly new ICU admissions,2021-12-19,63.50194394039807
+Norway,Weekly new hospital admissions,2021-12-26,200.58550546252724
+Norway,Weekly new ICU admissions,2021-12-26,52.41430293493174
+Norway,Weekly new hospital admissions,2022-01-02,190.50583182119425
+Norway,Weekly new ICU admissions,2022-01-02,40.31869456533211
+Norway,Weekly new hospital admissions,2022-01-09,151.19510461999542
+Norway,Weekly new ICU admissions,2022-01-09,33.262923016398986
+Norway,Weekly new hospital admissions,2022-01-16,121.96405106012962
+Norway,Weekly new ICU admissions,2022-01-16,18.143412554399447
+Norway,Weekly new hospital admissions,2022-01-23,159.25884353306185
+Norway,Weekly new ICU admissions,2022-01-23,24.191216739199263
+Norway,Weekly new hospital admissions,2022-01-30,230.82452638652632
+Norway,Weekly new ICU admissions,2022-01-30,20.159347282666054
+Norway,Weekly new hospital admissions,2022-02-06,247.9599715767925
+Norway,Weekly new ICU admissions,2022-02-06,21.16731464679936
+Norway,Weekly new hospital admissions,2022-02-13,324.56549125092346
+Norway,Weekly new ICU admissions,2022-02-13,17.135445190266147
+Norway,Weekly new hospital admissions,2022-02-20,457.6171833165194
+Norway,Weekly new ICU admissions,2022-02-20,40.31869456533211
+Norway,Weekly new hospital admissions,2022-02-27,541.2784745395836
+Norway,Weekly new ICU admissions,2022-02-27,39.3107272011988
+Norway,Weekly new hospital admissions,2022-03-06,561.4378218222497
+Norway,Weekly new ICU admissions,2022-03-06,64.50991130453137
+Norway,Weekly new hospital admissions,2022-03-13,552.36611554505
+Norway,Weekly new ICU admissions,2022-03-13,41.326661929465416
+Norway,Weekly new hospital admissions,2022-03-20,412.2586519305208
+Norway,Weekly new ICU admissions,2022-03-20,36.2868251087989
+Norway,Weekly new hospital admissions,2022-03-27,356.8204469031892
+Norway,Weekly new ICU admissions,2022-03-27,35.27885774466559
+Norway,Weekly new hospital admissions,2022-04-03,259.0476125822588
+Norway,Weekly new ICU admissions,2022-04-03,31.246988288132382
+Norway,Weekly new hospital admissions,2022-04-10,219.73688538106
+Norway,Weekly new ICU admissions,2022-04-10,24.191216739199263
+Norway,Weekly new hospital admissions,2022-04-17,165.30664771786167
+Norway,Weekly new ICU admissions,2022-04-17,14.111543097866235
+Norway,Weekly new hospital admissions,2022-04-24,142.1233983427957
+Norway,Weekly new ICU admissions,2022-04-24,20.159347282666054
+Norway,Weekly new hospital admissions,2022-05-01,81.6453564947975
+Norway,Weekly new ICU admissions,2022-05-01,11.08764100546633
+Norway,Weekly new hospital admissions,2022-05-08,79.62942176653092
+Norway,Weekly new ICU admissions,2022-05-08,10.079673641333024
+Norway,Weekly new hospital admissions,2022-05-15,90.71706277199723
+Norway,Weekly new ICU admissions,2022-05-15,7.055771548933118
+Norway,Weekly new hospital admissions,2022-05-22,81.6453564947975
+Norway,Weekly new ICU admissions,2022-05-22,7.055771548933118
+Norway,Weekly new hospital admissions,2022-05-29,91.72503013613054
+Norway,Weekly new ICU admissions,2022-05-29,13.103575733732935
+Norway,Weekly new hospital admissions,2022-06-05,108.86047532639668
+Norway,Weekly new ICU admissions,2022-06-05,11.08764100546633
+Norway,Weekly new hospital admissions,2022-06-12,167.32258244612825
+Norway,Weekly new ICU admissions,2022-06-12,9.071706277199723
+Norway,Weekly new hospital admissions,2022-06-19,238.88826529959275
+Norway,Weekly new ICU admissions,2022-06-19,20.159347282666054
+Norway,Weekly new hospital admissions,2022-06-26,335.65313225638977
+Norway,Weekly new ICU admissions,2022-06-26,27.21511883159917
+Norway,Weekly new hospital admissions,2022-07-03,381.0116636423885
+Norway,Weekly new ICU admissions,2022-07-03,27.21511883159917
+Norway,Weekly new hospital admissions,2022-07-10,343.7168711694562
+Norway,Weekly new ICU admissions,2022-07-10,28.223086195732474
+Norway,Weekly new hospital admissions,2022-07-17,297.35037241932434
+Norway,Weekly new ICU admissions,2022-07-17,22.17528201093266
+Norway,Weekly new hospital admissions,2022-07-24,215.70501592452683
+Norway,Weekly new ICU admissions,2022-07-24,21.16731464679936
+Norway,Weekly new hospital admissions,2022-07-31,237.88029793545942
+Norway,Weekly new ICU admissions,2022-07-31,23.18324937506596
+Norway,Weekly new hospital admissions,2022-08-07,189.4978644570609
+Norway,Weekly new ICU admissions,2022-08-07,21.16731464679936
+Norway,Weekly new hospital admissions,2022-08-14,214.69704856039345
+Norway,Weekly new ICU admissions,2022-08-14,19.151379918532747
+Norway,Weekly new hospital admissions,2022-08-21,135.06762679386256
+Norway,Weekly new ICU admissions,2022-08-21,10.079673641333024
+Norway,Weekly new hospital admissions,2020-03-15,50.39836820666514
+Norway,Weekly new ICU admissions,2020-03-15,11.08764100546633
+Norway,Weekly new hospital admissions,2020-03-22,189.4978644570609
+Norway,Weekly new ICU admissions,2020-03-22,44.35056402186532
+Norway,Weekly new hospital admissions,2020-03-29,290.2946008703912
+Norway,Weekly new ICU admissions,2020-03-29,77.61348703826431
+Norway,Weekly new hospital admissions,2020-04-05,198.56957073426062
+Norway,Weekly new ICU admissions,2020-04-05,36.2868251087989
+Norway,Weekly new hospital admissions,2020-04-12,91.72503013613054
+Norway,Weekly new ICU admissions,2020-04-12,12.09560836959963
+Norway,Weekly new hospital admissions,2020-04-19,66.52584603279797
+Norway,Weekly new ICU admissions,2020-04-19,15.11951046199954
+Norway,Weekly new hospital admissions,2022-08-28,111.8843774187966
+Norway,Weekly new ICU admissions,2022-08-28,11.08764100546633
+Norway,Weekly new hospital admissions,2022-09-04,97.77283432093034
+Norway,Weekly new ICU admissions,2022-09-04,10.079673641333024
+Norway,Weekly new hospital admissions,2022-09-11,107.85250796226342
+Norway,Weekly new ICU admissions,2022-09-11,10.079673641333024
+Norway,Weekly new hospital admissions,2022-09-18,88.70112804373063
+Norway,Weekly new ICU admissions,2022-09-18,11.08764100546633
+Norway,Weekly new hospital admissions,2022-09-25,97.77283432093034
+Norway,Weekly new ICU admissions,2022-09-25,7.055771548933118
+Norway,Weekly new hospital admissions,2022-10-02,104.82860586986348
+Norway,Weekly new ICU admissions,2022-10-02,8.063738913066418
+Norway,Weekly new hospital admissions,2022-10-09,101.80470377746356
+Norway,Weekly new ICU admissions,2022-10-09,7.055771548933118
+Norway,Weekly new hospital admissions,2022-10-16,117.9321816035964
+Norway,Weekly new ICU admissions,2022-10-16,10.079673641333024
+Norway,Weekly new hospital admissions,2022-10-23,120.95608369599633
+Norway,Weekly new ICU admissions,2022-10-23,11.08764100546633
+Norway,Weekly new hospital admissions,2022-10-30,152.2030719841287
+Norway,Weekly new ICU admissions,2022-10-30,7.055771548933118
+Norway,Weekly new hospital admissions,2022-11-06,181.43412554399447
+Norway,Weekly new ICU admissions,2022-11-06,8.063738913066418
+Norway,Weekly new hospital admissions,2022-11-13,80.63738913066422
+Norway,Weekly new ICU admissions,2022-11-13,7.055771548933118
+Norway,Weekly new hospital admissions,2020-03-08,2.0159347282666005
+Norway,Weekly new ICU admissions,2020-03-08,0.0
+Norway,Weekly new hospital admissions,2020-02-12,0.0
+Norway,Weekly new ICU admissions,2020-02-12,0.0
+Norway,Weekly new hospital admissions,2020-03-01,0.0
+Norway,Weekly new ICU admissions,2020-03-01,0.0

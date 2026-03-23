@@ -19,6 +19,8 @@ def read(source: str) -> pd.Series:
                 people_partly_vaccinated = clean_count(block.find_element_by_class_name("valueLabel").text)
             elif "2de dosis" in block.text and "%" not in block.text:
                 people_fully_vaccinated = clean_count(block.find_element_by_class_name("valueLabel").text)
+            elif "3de dosis" in block.text and "%" not in block.text:
+                total_boosters = clean_count(block.find_element_by_class_name("valueLabel").text)
 
     people_vaccinated = people_partly_vaccinated + people_fully_vaccinated
 
@@ -27,13 +29,11 @@ def read(source: str) -> pd.Series:
             "total_vaccinations": people_vaccinated + people_fully_vaccinated,
             "people_vaccinated": people_vaccinated,
             "people_fully_vaccinated": people_fully_vaccinated,
-            "date": set_date(),
+            "total_boosters": total_boosters,
+            "date": localdate("America/Paramaribo"),
         }
     )
 
-
-def set_date() -> str:
-    return localdate("America/Paramaribo")
 
 
 def enrich_location(ds: pd.Series) -> pd.Series:
@@ -53,18 +53,15 @@ def pipeline(ds: pd.Series) -> pd.Series:
 
 
 def main():
-    source = "https://datastudio.google.com/embed/u/0/reporting/1a7548f9-83d0-4516-8fe6-cacec6a293c4/page/igSUC"
+    source = "https://datastudio.google.com/u/0/reporting/d316df2b-49e0-4c3e-aa51-0900828d8cf5/page/igSUC"
     data = read(source).pipe(pipeline)
     increment(
         location=data["location"],
         total_vaccinations=data["total_vaccinations"],
         people_vaccinated=data["people_vaccinated"],
         people_fully_vaccinated=data["people_fully_vaccinated"],
+        total_boosters=data["total_boosters"],
         date=data["date"],
         source_url=data["source_url"],
         vaccine=data["vaccine"],
     )
-
-
-if __name__ == "__main__":
-    main()

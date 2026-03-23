@@ -1,31 +1,37 @@
-import os
+import logging
 import re
 from datetime import datetime, timedelta
 from urllib.error import HTTPError
-from cowidev.utils.clean.dates import clean_date_series
 
 import pandas as pd
 
-from cowidev.utils.clean import clean_date
-from cowidev.vax.utils.incremental import merge_with_current_data
-from cowidev.utils import paths
+from cowidev.utils import clean_count, clean_date_series, clean_date
+from cowidev.vax.utils.base import CountryVaxBase
 
 
-class Spain:
-    location: str = "Spain"
-    vaccine_mapping: dict = {
+# When checking which vaccines are listed, we want to ignore these columns
+COLUMNS_VAX_IGNORE = ["Dosis entregadas total (1)"]
+
+
+class Spain(CountryVaxBase):
+    location = "Spain"
+    vaccine_mapping = {
         "Pfizer": "Pfizer/BioNTech",
         "Moderna": "Moderna",
         "AstraZeneca": "Oxford/AstraZeneca",
         "Janssen": "Johnson&Johnson",
     }
-    _date_field_raw: str = "Fecha de la última vacuna registrada (2)"
-    _max_days_back: int = 20
+    _date_field_raw = "Fecha de la última vacuna registrada(1)"
+    _max_days_back = 70
 
     def read(self, last_update: str) -> pd.Series:
         return self._parse_data(last_update)
 
     def _parse_data(self, last_update: str):
+        """Goes back _max_days_back days to retrieve data.
+
+        Does not exceed `last_update` date.
+        """
         records = []
         for days in range(self._max_days_back):
             date_it = clean_date(datetime.now() - timedelta(days=days))
@@ -33,14 +39,18 @@ class Spain:
             # print(f"{date_it} > {last_update}?")
             if date_it > last_update:
                 source = self._get_source_url(date_it.replace("-", ""))
+                
                 try:
-                    df_ = pd.read_excel(source, index_col=0, parse_dates=[self._date_field_raw])
+                    df_1 = pd.read_excel(source, sheet_name="Comunicacion_1", index_col=0)
+                    df_2 = pd.read_excel(source, sheet_name="Comunicacion_2", index_col=0, parse_dates=[self._date_field_raw])
                 except HTTPError:
-                    print("No available!")
+                    # print(f"Date {date_it} not available!")
+                    print(f"Date {date_it} not available!")
                 else:
                     # print("Adding!")
-                    self._check_vaccine_names(df_)
-                    ds = self._parse_ds_data(df_, source)
+                    print(date_it, source)
+                    self._check_vaccine_names(df_1)
+                    ds = self._parse_data_day(df_1, df_2, source)
                     records.append(ds)
             else:
                 # print("End!")
@@ -50,32 +60,35 @@ class Spain:
         print("No data being added to Spain")
         return None
 
-    def _parse_ds_data(self, df: pd.DataFrame, source: str) -> pd.Series:
-        df.loc[~df.index.isin(["Sanidad Exterior"]), self._date_field_raw].dropna().max()
+    def _parse_data_day(self, df_1: pd.DataFrame, df_2: pd.DataFrame, source: str) -> pd.Series:
+        """Parse data for a single day"""
+        # Get data from Comunicacion_2
+        df_2.loc[~df_2.index.isin(["Sanidad Exterior"]), self._date_field_raw].dropna().max()
         data = {
-            "total_vaccinations": df.loc["Totales", "Dosis administradas (2)"].item(),
-            "people_vaccinated": df.loc["Totales", "Nº Personas con al menos 1 dosis"].item(),
-            "people_fully_vaccinated": df.loc["Totales", "Nº Personas vacunadas(pauta completada)"].item(),
+            "people_vaccinated": clean_count(df_2.loc["Totales", "Nº Personas con al menos 1 dosis"]),
+            "people_fully_vaccinated": clean_count(df_2.loc["Totales", "Nº Personas con pauta completa"]),
             "date": clean_date(
-                df.loc[
-                    ~df.index.isin(["Sanidad Exterior"]),
-                    "Fecha de la última vacuna registrada (2)",
+                df_2.loc[
+                    ~df_2.index.isin(["Sanidad Exterior"]),
+                    self._date_field_raw,
                 ]
                 .dropna()
                 .max()
             ),
             "source_url": source,
-            "vaccine": ", ".join(self._get_vaccine_names(df, translate=True)),
         }
-        col_boosters = "Nº Personas con dosis adicional"
-        if col_boosters in df.columns:
+        if (col_boosters := "Nº Personas con 1ª dosis de recuerdo(2)") in df_2.columns:
             # print("EEE")
-            data["total_boosters"] = df.loc["Totales", col_boosters].item()
+            data["total_boosters"] = clean_count(df_2.loc["Totales", col_boosters])
+
+        # Get data from Comunicacion_1
+        data["total_vaccinations"] = clean_count(round(df_1.loc["Totales", "Dosis administradas (2)*"]))
+        data["vaccine"] = ", ".join(self._get_vaccine_names(df_1, translate=True))
         return pd.Series(data=data)
 
     def _get_source_url(self, dt_str):
         return (
-            "https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/"
+            "https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/"
             f"Informe_Comunicacion_{dt_str}.ods"
         )
 
@@ -85,13 +98,13 @@ class Spain:
             return sorted(
                 [
                     self.vaccine_mapping[re.search(regex_vaccines, col).group(1)]
-                    for col in df.columns
+                    for col in df.columns if col not in COLUMNS_VAX_IGNORE
                     if re.match(regex_vaccines, col)
                 ]
             )
         else:
             return sorted(
-                [re.search(regex_vaccines, col).group(1) for col in df.columns if re.match(regex_vaccines, col)]
+                [re.search(regex_vaccines, col).group(1) for col in df.columns if re.match(regex_vaccines, col) and col not in COLUMNS_VAX_IGNORE]
             )
 
     def _check_vaccine_names(self, df: pd.DataFrame):
@@ -110,13 +123,11 @@ class Spain:
         return df.pipe(self.pipe_location)
 
     def export(self):
-        output_file = paths.out_vax(self.location)
-        last_update = pd.read_csv(output_file).date.astype(str).max()
+        last_update = self.load_datafile().date.astype(str).max()
         df = self.read(last_update)
         if df is not None:
             df = df.pipe(self.pipeline)
-            df = merge_with_current_data(df, output_file)
-            df.to_csv(output_file, index=False)
+            self.export_datafile(df, attach=True)
 
 
 def main():

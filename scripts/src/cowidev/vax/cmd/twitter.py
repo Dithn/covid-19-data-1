@@ -4,7 +4,7 @@ from joblib import Parallel, delayed
 
 from cowidev.vax.manual.twitter import __all__ as twitter_countries
 from cowidev.vax.manual.twitter.utils import TwitterAPI
-from cowidev.vax.cmd.utils import get_logger, print_eoe
+from cowidev.utils.log import get_logger, print_eoe
 
 
 # Logger

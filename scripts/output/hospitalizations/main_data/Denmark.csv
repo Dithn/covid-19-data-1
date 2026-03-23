@@ -1,0 +1,3545 @@
+date,indicator,value,entity
+2020-04-02,Daily hospital occupancy,527.0,Denmark
+2020-04-03,Daily hospital occupancy,511.0,Denmark
+2020-04-04,Daily hospital occupancy,498.0,Denmark
+2020-04-05,Daily hospital occupancy,490.0,Denmark
+2020-04-06,Daily hospital occupancy,488.0,Denmark
+2020-04-07,Daily hospital occupancy,466.0,Denmark
+2020-04-08,Daily hospital occupancy,446.0,Denmark
+2020-04-09,Daily hospital occupancy,427.0,Denmark
+2020-04-10,Daily hospital occupancy,398.0,Denmark
+2020-04-11,Daily hospital occupancy,402.0,Denmark
+2020-04-12,Daily hospital occupancy,391.0,Denmark
+2020-04-13,Daily hospital occupancy,381.0,Denmark
+2020-04-14,Daily hospital occupancy,374.0,Denmark
+2020-04-15,Daily hospital occupancy,355.0,Denmark
+2020-04-16,Daily hospital occupancy,341.0,Denmark
+2020-04-17,Daily hospital occupancy,337.0,Denmark
+2020-04-18,Daily hospital occupancy,304.0,Denmark
+2020-04-19,Daily hospital occupancy,303.0,Denmark
+2020-04-20,Daily hospital occupancy,321.0,Denmark
+2020-04-21,Daily hospital occupancy,315.0,Denmark
+2020-04-22,Daily hospital occupancy,309.0,Denmark
+2020-04-23,Daily hospital occupancy,303.0,Denmark
+2020-04-24,Daily hospital occupancy,303.0,Denmark
+2020-04-25,Daily hospital occupancy,276.0,Denmark
+2020-04-26,Daily hospital occupancy,273.0,Denmark
+2020-04-27,Daily hospital occupancy,293.0,Denmark
+2020-04-28,Daily hospital occupancy,271.0,Denmark
+2020-04-29,Daily hospital occupancy,254.0,Denmark
+2020-04-30,Daily hospital occupancy,236.0,Denmark
+2020-05-01,Daily hospital occupancy,229.0,Denmark
+2020-05-02,Daily hospital occupancy,214.0,Denmark
+2020-05-03,Daily hospital occupancy,225.0,Denmark
+2020-05-04,Daily hospital occupancy,228.0,Denmark
+2020-05-05,Daily hospital occupancy,209.0,Denmark
+2020-05-06,Daily hospital occupancy,190.0,Denmark
+2020-05-07,Daily hospital occupancy,178.0,Denmark
+2020-05-08,Daily hospital occupancy,183.0,Denmark
+2020-05-09,Daily hospital occupancy,169.0,Denmark
+2020-05-10,Daily hospital occupancy,174.0,Denmark
+2020-05-11,Daily hospital occupancy,173.0,Denmark
+2020-05-12,Daily hospital occupancy,151.0,Denmark
+2020-05-13,Daily hospital occupancy,138.0,Denmark
+2020-05-14,Daily hospital occupancy,128.0,Denmark
+2020-05-15,Daily hospital occupancy,120.0,Denmark
+2020-05-16,Daily hospital occupancy,115.0,Denmark
+2020-05-17,Daily hospital occupancy,113.0,Denmark
+2020-05-18,Daily hospital occupancy,118.0,Denmark
+2020-05-19,Daily hospital occupancy,115.0,Denmark
+2020-05-20,Daily hospital occupancy,103.0,Denmark
+2020-05-21,Daily hospital occupancy,100.0,Denmark
+2020-05-22,Daily hospital occupancy,100.0,Denmark
+2020-05-23,Daily hospital occupancy,102.0,Denmark
+2020-05-24,Daily hospital occupancy,100.0,Denmark
+2020-05-25,Daily hospital occupancy,102.0,Denmark
+2020-05-26,Daily hospital occupancy,97.0,Denmark
+2020-05-27,Daily hospital occupancy,91.0,Denmark
+2020-05-28,Daily hospital occupancy,96.0,Denmark
+2020-05-29,Daily hospital occupancy,93.0,Denmark
+2020-05-30,Daily hospital occupancy,87.0,Denmark
+2020-05-31,Daily hospital occupancy,85.0,Denmark
+2020-06-01,Daily hospital occupancy,88.0,Denmark
+2020-06-02,Daily hospital occupancy,86.0,Denmark
+2020-06-03,Daily hospital occupancy,82.0,Denmark
+2020-06-04,Daily hospital occupancy,76.0,Denmark
+2020-06-05,Daily hospital occupancy,66.0,Denmark
+2020-06-06,Daily hospital occupancy,68.0,Denmark
+2020-06-07,Daily hospital occupancy,65.0,Denmark
+2020-06-08,Daily hospital occupancy,66.0,Denmark
+2020-06-09,Daily hospital occupancy,59.0,Denmark
+2020-06-10,Daily hospital occupancy,57.0,Denmark
+2020-06-11,Daily hospital occupancy,51.0,Denmark
+2020-06-12,Daily hospital occupancy,51.0,Denmark
+2020-06-13,Daily hospital occupancy,47.0,Denmark
+2020-06-14,Daily hospital occupancy,49.0,Denmark
+2020-06-15,Daily hospital occupancy,46.0,Denmark
+2020-06-16,Daily hospital occupancy,43.0,Denmark
+2020-06-17,Daily hospital occupancy,39.0,Denmark
+2020-06-18,Daily hospital occupancy,38.0,Denmark
+2020-06-19,Daily hospital occupancy,37.0,Denmark
+2020-06-20,Daily hospital occupancy,39.0,Denmark
+2020-06-21,Daily hospital occupancy,38.0,Denmark
+2020-06-22,Daily hospital occupancy,37.0,Denmark
+2020-06-23,Daily hospital occupancy,32.0,Denmark
+2020-06-24,Daily hospital occupancy,33.0,Denmark
+2020-06-25,Daily hospital occupancy,36.0,Denmark
+2020-06-26,Daily hospital occupancy,31.0,Denmark
+2020-06-27,Daily hospital occupancy,29.0,Denmark
+2020-06-28,Daily hospital occupancy,30.0,Denmark
+2020-06-29,Daily hospital occupancy,35.0,Denmark
+2020-06-30,Daily hospital occupancy,32.0,Denmark
+2020-07-01,Daily hospital occupancy,29.0,Denmark
+2020-07-02,Daily hospital occupancy,29.0,Denmark
+2020-07-03,Daily hospital occupancy,27.0,Denmark
+2020-07-04,Daily hospital occupancy,26.0,Denmark
+2020-07-05,Daily hospital occupancy,24.0,Denmark
+2020-07-06,Daily hospital occupancy,23.0,Denmark
+2020-07-07,Daily hospital occupancy,17.0,Denmark
+2020-07-08,Daily hospital occupancy,18.0,Denmark
+2020-07-09,Daily hospital occupancy,18.0,Denmark
+2020-07-10,Daily hospital occupancy,17.0,Denmark
+2020-07-11,Daily hospital occupancy,15.0,Denmark
+2020-07-12,Daily hospital occupancy,18.0,Denmark
+2020-07-13,Daily hospital occupancy,18.0,Denmark
+2020-07-14,Daily hospital occupancy,17.0,Denmark
+2020-07-15,Daily hospital occupancy,19.0,Denmark
+2020-07-16,Daily hospital occupancy,17.0,Denmark
+2020-07-17,Daily hospital occupancy,20.0,Denmark
+2020-07-18,Daily hospital occupancy,16.0,Denmark
+2020-07-19,Daily hospital occupancy,19.0,Denmark
+2020-07-20,Daily hospital occupancy,18.0,Denmark
+2020-07-21,Daily hospital occupancy,18.0,Denmark
+2020-07-22,Daily hospital occupancy,16.0,Denmark
+2020-07-23,Daily hospital occupancy,19.0,Denmark
+2020-07-24,Daily hospital occupancy,16.0,Denmark
+2020-07-25,Daily hospital occupancy,17.0,Denmark
+2020-07-26,Daily hospital occupancy,23.0,Denmark
+2020-07-27,Daily hospital occupancy,23.0,Denmark
+2020-07-28,Daily hospital occupancy,22.0,Denmark
+2020-07-29,Daily hospital occupancy,21.0,Denmark
+2020-07-30,Daily hospital occupancy,18.0,Denmark
+2020-07-31,Daily hospital occupancy,18.0,Denmark
+2020-08-01,Daily hospital occupancy,16.0,Denmark
+2020-08-02,Daily hospital occupancy,20.0,Denmark
+2020-08-03,Daily hospital occupancy,24.0,Denmark
+2020-08-04,Daily hospital occupancy,24.0,Denmark
+2020-08-05,Daily hospital occupancy,23.0,Denmark
+2020-08-06,Daily hospital occupancy,24.0,Denmark
+2020-08-07,Daily hospital occupancy,25.0,Denmark
+2020-08-08,Daily hospital occupancy,21.0,Denmark
+2020-08-09,Daily hospital occupancy,20.0,Denmark
+2020-08-10,Daily hospital occupancy,23.0,Denmark
+2020-08-11,Daily hospital occupancy,20.0,Denmark
+2020-08-12,Daily hospital occupancy,16.0,Denmark
+2020-08-13,Daily hospital occupancy,13.0,Denmark
+2020-08-14,Daily hospital occupancy,14.0,Denmark
+2020-08-15,Daily hospital occupancy,14.0,Denmark
+2020-08-16,Daily hospital occupancy,12.0,Denmark
+2020-08-17,Daily hospital occupancy,16.0,Denmark
+2020-08-18,Daily hospital occupancy,18.0,Denmark
+2020-08-19,Daily hospital occupancy,16.0,Denmark
+2020-08-20,Daily hospital occupancy,20.0,Denmark
+2020-08-21,Daily hospital occupancy,22.0,Denmark
+2020-08-22,Daily hospital occupancy,22.0,Denmark
+2020-08-23,Daily hospital occupancy,19.0,Denmark
+2020-08-24,Daily hospital occupancy,20.0,Denmark
+2020-08-25,Daily hospital occupancy,21.0,Denmark
+2020-08-26,Daily hospital occupancy,19.0,Denmark
+2020-08-27,Daily hospital occupancy,19.0,Denmark
+2020-08-28,Daily hospital occupancy,21.0,Denmark
+2020-08-29,Daily hospital occupancy,21.0,Denmark
+2020-08-30,Daily hospital occupancy,21.0,Denmark
+2020-08-31,Daily hospital occupancy,23.0,Denmark
+2020-09-01,Daily hospital occupancy,20.0,Denmark
+2020-09-02,Daily hospital occupancy,15.0,Denmark
+2020-09-03,Daily hospital occupancy,17.0,Denmark
+2020-09-04,Daily hospital occupancy,18.0,Denmark
+2020-09-05,Daily hospital occupancy,16.0,Denmark
+2020-09-06,Daily hospital occupancy,27.0,Denmark
+2020-09-07,Daily hospital occupancy,29.0,Denmark
+2020-09-08,Daily hospital occupancy,28.0,Denmark
+2020-09-09,Daily hospital occupancy,30.0,Denmark
+2020-09-10,Daily hospital occupancy,35.0,Denmark
+2020-09-11,Daily hospital occupancy,44.0,Denmark
+2020-09-12,Daily hospital occupancy,43.0,Denmark
+2020-09-13,Daily hospital occupancy,47.0,Denmark
+2020-09-14,Daily hospital occupancy,50.0,Denmark
+2020-09-15,Daily hospital occupancy,55.0,Denmark
+2020-09-16,Daily hospital occupancy,51.0,Denmark
+2020-09-17,Daily hospital occupancy,60.0,Denmark
+2020-09-18,Daily hospital occupancy,58.0,Denmark
+2020-09-19,Daily hospital occupancy,62.0,Denmark
+2020-09-20,Daily hospital occupancy,67.0,Denmark
+2020-09-21,Daily hospital occupancy,75.0,Denmark
+2020-09-22,Daily hospital occupancy,79.0,Denmark
+2020-09-23,Daily hospital occupancy,78.0,Denmark
+2020-09-24,Daily hospital occupancy,95.0,Denmark
+2020-09-25,Daily hospital occupancy,101.0,Denmark
+2020-09-26,Daily hospital occupancy,97.0,Denmark
+2020-09-27,Daily hospital occupancy,95.0,Denmark
+2020-09-28,Daily hospital occupancy,110.0,Denmark
+2020-09-29,Daily hospital occupancy,107.0,Denmark
+2020-09-30,Daily hospital occupancy,102.0,Denmark
+2020-10-01,Daily hospital occupancy,109.0,Denmark
+2020-10-02,Daily hospital occupancy,106.0,Denmark
+2020-10-03,Daily hospital occupancy,105.0,Denmark
+2020-10-04,Daily hospital occupancy,105.0,Denmark
+2020-10-05,Daily hospital occupancy,120.0,Denmark
+2020-10-06,Daily hospital occupancy,124.0,Denmark
+2020-10-07,Daily hospital occupancy,116.0,Denmark
+2020-10-08,Daily hospital occupancy,115.0,Denmark
+2020-10-09,Daily hospital occupancy,106.0,Denmark
+2020-10-10,Daily hospital occupancy,103.0,Denmark
+2020-10-11,Daily hospital occupancy,102.0,Denmark
+2020-10-12,Daily hospital occupancy,107.0,Denmark
+2020-10-13,Daily hospital occupancy,103.0,Denmark
+2020-10-14,Daily hospital occupancy,104.0,Denmark
+2020-10-15,Daily hospital occupancy,104.0,Denmark
+2020-10-16,Daily hospital occupancy,110.0,Denmark
+2020-10-17,Daily hospital occupancy,110.0,Denmark
+2020-10-18,Daily hospital occupancy,119.0,Denmark
+2020-10-19,Daily hospital occupancy,129.0,Denmark
+2020-10-20,Daily hospital occupancy,128.0,Denmark
+2020-10-21,Daily hospital occupancy,122.0,Denmark
+2020-10-22,Daily hospital occupancy,124.0,Denmark
+2020-10-23,Daily hospital occupancy,125.0,Denmark
+2020-10-24,Daily hospital occupancy,120.0,Denmark
+2020-10-25,Daily hospital occupancy,127.0,Denmark
+2020-10-26,Daily hospital occupancy,145.0,Denmark
+2020-10-27,Daily hospital occupancy,137.0,Denmark
+2020-10-28,Daily hospital occupancy,136.0,Denmark
+2020-10-29,Daily hospital occupancy,139.0,Denmark
+2020-10-30,Daily hospital occupancy,144.0,Denmark
+2020-10-31,Daily hospital occupancy,147.0,Denmark
+2020-11-01,Daily hospital occupancy,156.0,Denmark
+2020-11-02,Daily hospital occupancy,174.0,Denmark
+2020-11-03,Daily hospital occupancy,169.0,Denmark
+2020-11-04,Daily hospital occupancy,184.0,Denmark
+2020-11-05,Daily hospital occupancy,182.0,Denmark
+2020-11-06,Daily hospital occupancy,191.0,Denmark
+2020-11-07,Daily hospital occupancy,187.0,Denmark
+2020-11-08,Daily hospital occupancy,188.0,Denmark
+2020-11-09,Daily hospital occupancy,196.0,Denmark
+2020-11-10,Daily hospital occupancy,211.0,Denmark
+2020-11-11,Daily hospital occupancy,216.0,Denmark
+2020-11-12,Daily hospital occupancy,239.0,Denmark
+2020-11-13,Daily hospital occupancy,236.0,Denmark
+2020-11-14,Daily hospital occupancy,243.0,Denmark
+2020-11-15,Daily hospital occupancy,259.0,Denmark
+2020-11-16,Daily hospital occupancy,267.0,Denmark
+2020-11-17,Daily hospital occupancy,259.0,Denmark
+2020-11-18,Daily hospital occupancy,248.0,Denmark
+2020-11-19,Daily hospital occupancy,255.0,Denmark
+2020-11-20,Daily hospital occupancy,244.0,Denmark
+2020-11-21,Daily hospital occupancy,237.0,Denmark
+2020-11-22,Daily hospital occupancy,254.0,Denmark
+2020-11-23,Daily hospital occupancy,261.0,Denmark
+2020-11-24,Daily hospital occupancy,255.0,Denmark
+2020-11-25,Daily hospital occupancy,251.0,Denmark
+2020-11-26,Daily hospital occupancy,244.0,Denmark
+2020-11-27,Daily hospital occupancy,254.0,Denmark
+2020-11-28,Daily hospital occupancy,249.0,Denmark
+2020-11-29,Daily hospital occupancy,256.0,Denmark
+2020-11-30,Daily hospital occupancy,259.0,Denmark
+2020-12-01,Daily hospital occupancy,254.0,Denmark
+2020-12-02,Daily hospital occupancy,266.0,Denmark
+2020-12-03,Daily hospital occupancy,267.0,Denmark
+2020-12-04,Daily hospital occupancy,293.0,Denmark
+2020-12-05,Daily hospital occupancy,279.0,Denmark
+2020-12-06,Daily hospital occupancy,302.0,Denmark
+2020-12-07,Daily hospital occupancy,328.0,Denmark
+2020-12-08,Daily hospital occupancy,354.0,Denmark
+2020-12-09,Daily hospital occupancy,349.0,Denmark
+2020-12-10,Daily hospital occupancy,342.0,Denmark
+2020-12-11,Daily hospital occupancy,361.0,Denmark
+2020-12-12,Daily hospital occupancy,371.0,Denmark
+2020-12-13,Daily hospital occupancy,390.0,Denmark
+2020-12-14,Daily hospital occupancy,429.0,Denmark
+2020-12-15,Daily hospital occupancy,439.0,Denmark
+2020-12-16,Daily hospital occupancy,493.0,Denmark
+2020-12-17,Daily hospital occupancy,516.0,Denmark
+2020-12-18,Daily hospital occupancy,568.0,Denmark
+2020-12-19,Daily hospital occupancy,606.0,Denmark
+2020-12-20,Daily hospital occupancy,661.0,Denmark
+2020-12-21,Daily hospital occupancy,713.0,Denmark
+2020-12-22,Daily hospital occupancy,723.0,Denmark
+2020-12-23,Daily hospital occupancy,720.0,Denmark
+2020-12-24,Daily hospital occupancy,724.0,Denmark
+2020-12-25,Daily hospital occupancy,726.0,Denmark
+2020-12-26,Daily hospital occupancy,776.0,Denmark
+2020-12-27,Daily hospital occupancy,817.0,Denmark
+2020-12-28,Daily hospital occupancy,872.0,Denmark
+2020-12-29,Daily hospital occupancy,900.0,Denmark
+2020-12-30,Daily hospital occupancy,926.0,Denmark
+2020-12-31,Daily hospital occupancy,879.0,Denmark
+2021-01-01,Daily hospital occupancy,885.0,Denmark
+2021-01-02,Daily hospital occupancy,944.0,Denmark
+2021-01-03,Daily hospital occupancy,937.0,Denmark
+2021-01-04,Daily hospital occupancy,964.0,Denmark
+2021-01-05,Daily hospital occupancy,942.0,Denmark
+2021-01-06,Daily hospital occupancy,886.0,Denmark
+2021-01-07,Daily hospital occupancy,861.0,Denmark
+2021-01-08,Daily hospital occupancy,864.0,Denmark
+2021-01-09,Daily hospital occupancy,833.0,Denmark
+2021-01-10,Daily hospital occupancy,875.0,Denmark
+2021-01-11,Daily hospital occupancy,920.0,Denmark
+2021-01-12,Daily hospital occupancy,917.0,Denmark
+2021-01-13,Daily hospital occupancy,859.0,Denmark
+2021-01-14,Daily hospital occupancy,839.0,Denmark
+2021-01-15,Daily hospital occupancy,792.0,Denmark
+2021-01-16,Daily hospital occupancy,779.0,Denmark
+2021-01-17,Daily hospital occupancy,799.0,Denmark
+2021-01-18,Daily hospital occupancy,817.0,Denmark
+2021-01-19,Daily hospital occupancy,792.0,Denmark
+2021-01-20,Daily hospital occupancy,771.0,Denmark
+2021-01-21,Daily hospital occupancy,745.0,Denmark
+2021-01-22,Daily hospital occupancy,745.0,Denmark
+2021-01-23,Daily hospital occupancy,703.0,Denmark
+2021-01-24,Daily hospital occupancy,725.0,Denmark
+2021-01-25,Daily hospital occupancy,738.0,Denmark
+2021-01-26,Daily hospital occupancy,684.0,Denmark
+2021-01-27,Daily hospital occupancy,666.0,Denmark
+2021-01-28,Daily hospital occupancy,611.0,Denmark
+2021-01-29,Daily hospital occupancy,583.0,Denmark
+2021-01-30,Daily hospital occupancy,541.0,Denmark
+2021-01-31,Daily hospital occupancy,529.0,Denmark
+2021-02-01,Daily hospital occupancy,544.0,Denmark
+2021-02-02,Daily hospital occupancy,504.0,Denmark
+2021-02-03,Daily hospital occupancy,482.0,Denmark
+2021-02-04,Daily hospital occupancy,444.0,Denmark
+2021-02-05,Daily hospital occupancy,405.0,Denmark
+2021-02-06,Daily hospital occupancy,382.0,Denmark
+2021-02-07,Daily hospital occupancy,378.0,Denmark
+2021-02-08,Daily hospital occupancy,400.0,Denmark
+2021-02-09,Daily hospital occupancy,371.0,Denmark
+2021-02-10,Daily hospital occupancy,370.0,Denmark
+2021-02-11,Daily hospital occupancy,357.0,Denmark
+2021-02-12,Daily hospital occupancy,337.0,Denmark
+2021-02-13,Daily hospital occupancy,308.0,Denmark
+2021-02-14,Daily hospital occupancy,309.0,Denmark
+2021-02-15,Daily hospital occupancy,315.0,Denmark
+2021-02-16,Daily hospital occupancy,298.0,Denmark
+2021-02-17,Daily hospital occupancy,280.0,Denmark
+2021-02-18,Daily hospital occupancy,269.0,Denmark
+2021-02-19,Daily hospital occupancy,264.0,Denmark
+2021-02-20,Daily hospital occupancy,248.0,Denmark
+2021-02-21,Daily hospital occupancy,248.0,Denmark
+2021-02-22,Daily hospital occupancy,254.0,Denmark
+2021-02-23,Daily hospital occupancy,247.0,Denmark
+2021-02-24,Daily hospital occupancy,238.0,Denmark
+2021-02-25,Daily hospital occupancy,235.0,Denmark
+2021-02-26,Daily hospital occupancy,231.0,Denmark
+2021-02-27,Daily hospital occupancy,217.0,Denmark
+2021-02-28,Daily hospital occupancy,231.0,Denmark
+2021-03-01,Daily hospital occupancy,243.0,Denmark
+2021-03-02,Daily hospital occupancy,232.0,Denmark
+2021-03-03,Daily hospital occupancy,225.0,Denmark
+2021-03-04,Daily hospital occupancy,217.0,Denmark
+2021-03-05,Daily hospital occupancy,215.0,Denmark
+2021-03-06,Daily hospital occupancy,211.0,Denmark
+2021-03-07,Daily hospital occupancy,224.0,Denmark
+2021-03-08,Daily hospital occupancy,234.0,Denmark
+2021-03-09,Daily hospital occupancy,221.0,Denmark
+2021-03-10,Daily hospital occupancy,230.0,Denmark
+2021-03-11,Daily hospital occupancy,222.0,Denmark
+2021-03-12,Daily hospital occupancy,225.0,Denmark
+2021-03-13,Daily hospital occupancy,213.0,Denmark
+2021-03-14,Daily hospital occupancy,217.0,Denmark
+2021-03-15,Daily hospital occupancy,211.0,Denmark
+2021-03-16,Daily hospital occupancy,207.0,Denmark
+2021-03-17,Daily hospital occupancy,196.0,Denmark
+2021-03-18,Daily hospital occupancy,195.0,Denmark
+2021-03-19,Daily hospital occupancy,191.0,Denmark
+2021-03-20,Daily hospital occupancy,179.0,Denmark
+2021-03-21,Daily hospital occupancy,184.0,Denmark
+2021-03-22,Daily hospital occupancy,192.0,Denmark
+2021-03-23,Daily hospital occupancy,214.0,Denmark
+2021-03-24,Daily hospital occupancy,216.0,Denmark
+2021-03-25,Daily hospital occupancy,214.0,Denmark
+2021-03-26,Daily hospital occupancy,207.0,Denmark
+2021-03-27,Daily hospital occupancy,192.0,Denmark
+2021-03-28,Daily hospital occupancy,200.0,Denmark
+2021-03-29,Daily hospital occupancy,216.0,Denmark
+2021-03-30,Daily hospital occupancy,226.0,Denmark
+2021-03-31,Daily hospital occupancy,218.0,Denmark
+2021-04-01,Daily hospital occupancy,211.0,Denmark
+2021-04-02,Daily hospital occupancy,211.0,Denmark
+2021-04-03,Daily hospital occupancy,215.0,Denmark
+2021-04-04,Daily hospital occupancy,211.0,Denmark
+2021-04-05,Daily hospital occupancy,220.0,Denmark
+2021-04-06,Daily hospital occupancy,219.0,Denmark
+2021-04-07,Daily hospital occupancy,237.0,Denmark
+2021-04-08,Daily hospital occupancy,237.0,Denmark
+2021-04-09,Daily hospital occupancy,221.0,Denmark
+2021-04-10,Daily hospital occupancy,208.0,Denmark
+2021-04-11,Daily hospital occupancy,211.0,Denmark
+2021-04-12,Daily hospital occupancy,207.0,Denmark
+2021-04-13,Daily hospital occupancy,197.0,Denmark
+2021-04-14,Daily hospital occupancy,204.0,Denmark
+2021-04-15,Daily hospital occupancy,191.0,Denmark
+2021-04-16,Daily hospital occupancy,185.0,Denmark
+2021-04-17,Daily hospital occupancy,173.0,Denmark
+2021-04-18,Daily hospital occupancy,181.0,Denmark
+2021-04-19,Daily hospital occupancy,199.0,Denmark
+2021-04-20,Daily hospital occupancy,194.0,Denmark
+2021-04-21,Daily hospital occupancy,191.0,Denmark
+2021-04-22,Daily hospital occupancy,191.0,Denmark
+2021-04-23,Daily hospital occupancy,190.0,Denmark
+2021-04-24,Daily hospital occupancy,177.0,Denmark
+2021-04-25,Daily hospital occupancy,181.0,Denmark
+2021-04-26,Daily hospital occupancy,177.0,Denmark
+2021-04-27,Daily hospital occupancy,172.0,Denmark
+2021-04-28,Daily hospital occupancy,181.0,Denmark
+2021-04-29,Daily hospital occupancy,173.0,Denmark
+2021-04-30,Daily hospital occupancy,176.0,Denmark
+2021-05-01,Daily hospital occupancy,174.0,Denmark
+2021-05-02,Daily hospital occupancy,179.0,Denmark
+2021-05-03,Daily hospital occupancy,184.0,Denmark
+2021-05-04,Daily hospital occupancy,163.0,Denmark
+2021-05-05,Daily hospital occupancy,161.0,Denmark
+2021-05-06,Daily hospital occupancy,156.0,Denmark
+2021-05-07,Daily hospital occupancy,157.0,Denmark
+2021-05-08,Daily hospital occupancy,143.0,Denmark
+2021-05-09,Daily hospital occupancy,150.0,Denmark
+2021-05-10,Daily hospital occupancy,153.0,Denmark
+2021-05-11,Daily hospital occupancy,165.0,Denmark
+2021-05-12,Daily hospital occupancy,158.0,Denmark
+2021-05-13,Daily hospital occupancy,154.0,Denmark
+2021-05-14,Daily hospital occupancy,163.0,Denmark
+2021-05-15,Daily hospital occupancy,162.0,Denmark
+2021-05-16,Daily hospital occupancy,164.0,Denmark
+2021-05-17,Daily hospital occupancy,173.0,Denmark
+2021-05-18,Daily hospital occupancy,166.0,Denmark
+2021-05-19,Daily hospital occupancy,163.0,Denmark
+2021-05-20,Daily hospital occupancy,160.0,Denmark
+2021-05-21,Daily hospital occupancy,143.0,Denmark
+2021-05-22,Daily hospital occupancy,146.0,Denmark
+2021-05-23,Daily hospital occupancy,139.0,Denmark
+2021-05-24,Daily hospital occupancy,143.0,Denmark
+2021-05-25,Daily hospital occupancy,148.0,Denmark
+2021-05-26,Daily hospital occupancy,148.0,Denmark
+2021-05-27,Daily hospital occupancy,149.0,Denmark
+2021-05-28,Daily hospital occupancy,143.0,Denmark
+2021-05-29,Daily hospital occupancy,144.0,Denmark
+2021-05-30,Daily hospital occupancy,148.0,Denmark
+2021-05-31,Daily hospital occupancy,153.0,Denmark
+2021-06-01,Daily hospital occupancy,155.0,Denmark
+2021-06-02,Daily hospital occupancy,157.0,Denmark
+2021-06-03,Daily hospital occupancy,143.0,Denmark
+2021-06-04,Daily hospital occupancy,145.0,Denmark
+2021-06-05,Daily hospital occupancy,134.0,Denmark
+2021-06-06,Daily hospital occupancy,138.0,Denmark
+2021-06-07,Daily hospital occupancy,137.0,Denmark
+2021-06-08,Daily hospital occupancy,124.0,Denmark
+2021-06-09,Daily hospital occupancy,122.0,Denmark
+2021-06-10,Daily hospital occupancy,120.0,Denmark
+2021-06-11,Daily hospital occupancy,111.0,Denmark
+2021-06-12,Daily hospital occupancy,99.0,Denmark
+2021-06-13,Daily hospital occupancy,98.0,Denmark
+2021-06-14,Daily hospital occupancy,102.0,Denmark
+2021-06-15,Daily hospital occupancy,101.0,Denmark
+2021-06-16,Daily hospital occupancy,93.0,Denmark
+2021-06-17,Daily hospital occupancy,84.0,Denmark
+2021-06-18,Daily hospital occupancy,84.0,Denmark
+2021-06-19,Daily hospital occupancy,76.0,Denmark
+2021-06-20,Daily hospital occupancy,80.0,Denmark
+2021-06-21,Daily hospital occupancy,82.0,Denmark
+2021-06-22,Daily hospital occupancy,67.0,Denmark
+2021-06-23,Daily hospital occupancy,64.0,Denmark
+2021-06-24,Daily hospital occupancy,68.0,Denmark
+2021-06-25,Daily hospital occupancy,65.0,Denmark
+2021-06-26,Daily hospital occupancy,63.0,Denmark
+2021-06-27,Daily hospital occupancy,66.0,Denmark
+2021-06-28,Daily hospital occupancy,65.0,Denmark
+2021-06-29,Daily hospital occupancy,62.0,Denmark
+2021-06-30,Daily hospital occupancy,55.0,Denmark
+2021-07-01,Daily hospital occupancy,52.0,Denmark
+2021-07-02,Daily hospital occupancy,48.0,Denmark
+2021-07-03,Daily hospital occupancy,43.0,Denmark
+2021-07-04,Daily hospital occupancy,39.0,Denmark
+2021-07-05,Daily hospital occupancy,40.0,Denmark
+2021-07-06,Daily hospital occupancy,43.0,Denmark
+2021-07-07,Daily hospital occupancy,39.0,Denmark
+2021-07-08,Daily hospital occupancy,38.0,Denmark
+2021-07-09,Daily hospital occupancy,35.0,Denmark
+2021-07-10,Daily hospital occupancy,28.0,Denmark
+2021-07-11,Daily hospital occupancy,29.0,Denmark
+2021-07-12,Daily hospital occupancy,37.0,Denmark
+2021-07-13,Daily hospital occupancy,47.0,Denmark
+2021-07-14,Daily hospital occupancy,51.0,Denmark
+2021-07-15,Daily hospital occupancy,51.0,Denmark
+2021-07-16,Daily hospital occupancy,53.0,Denmark
+2021-07-17,Daily hospital occupancy,55.0,Denmark
+2021-07-18,Daily hospital occupancy,53.0,Denmark
+2021-07-19,Daily hospital occupancy,50.0,Denmark
+2021-07-20,Daily hospital occupancy,50.0,Denmark
+2021-07-21,Daily hospital occupancy,55.0,Denmark
+2021-07-22,Daily hospital occupancy,57.0,Denmark
+2021-07-23,Daily hospital occupancy,55.0,Denmark
+2021-07-24,Daily hospital occupancy,56.0,Denmark
+2021-07-25,Daily hospital occupancy,59.0,Denmark
+2021-07-26,Daily hospital occupancy,60.0,Denmark
+2021-07-27,Daily hospital occupancy,61.0,Denmark
+2021-07-28,Daily hospital occupancy,64.0,Denmark
+2021-07-29,Daily hospital occupancy,57.0,Denmark
+2021-07-30,Daily hospital occupancy,56.0,Denmark
+2021-07-31,Daily hospital occupancy,54.0,Denmark
+2021-08-01,Daily hospital occupancy,57.0,Denmark
+2021-08-02,Daily hospital occupancy,54.0,Denmark
+2021-08-03,Daily hospital occupancy,62.0,Denmark
+2021-08-04,Daily hospital occupancy,59.0,Denmark
+2021-08-05,Daily hospital occupancy,62.0,Denmark
+2021-08-06,Daily hospital occupancy,69.0,Denmark
+2021-08-07,Daily hospital occupancy,67.0,Denmark
+2021-08-08,Daily hospital occupancy,80.0,Denmark
+2021-08-09,Daily hospital occupancy,83.0,Denmark
+2021-08-10,Daily hospital occupancy,85.0,Denmark
+2021-08-11,Daily hospital occupancy,103.0,Denmark
+2021-08-12,Daily hospital occupancy,113.0,Denmark
+2021-08-13,Daily hospital occupancy,101.0,Denmark
+2021-08-14,Daily hospital occupancy,94.0,Denmark
+2021-08-15,Daily hospital occupancy,107.0,Denmark
+2021-08-16,Daily hospital occupancy,117.0,Denmark
+2021-08-17,Daily hospital occupancy,101.0,Denmark
+2021-08-18,Daily hospital occupancy,105.0,Denmark
+2021-08-19,Daily hospital occupancy,116.0,Denmark
+2021-08-20,Daily hospital occupancy,115.0,Denmark
+2021-08-21,Daily hospital occupancy,115.0,Denmark
+2021-08-22,Daily hospital occupancy,124.0,Denmark
+2021-08-23,Daily hospital occupancy,131.0,Denmark
+2021-08-24,Daily hospital occupancy,131.0,Denmark
+2021-08-25,Daily hospital occupancy,133.0,Denmark
+2021-08-26,Daily hospital occupancy,127.0,Denmark
+2021-08-27,Daily hospital occupancy,126.0,Denmark
+2021-08-28,Daily hospital occupancy,124.0,Denmark
+2021-08-29,Daily hospital occupancy,129.0,Denmark
+2021-08-30,Daily hospital occupancy,142.0,Denmark
+2021-08-31,Daily hospital occupancy,147.0,Denmark
+2021-09-01,Daily hospital occupancy,134.0,Denmark
+2021-09-02,Daily hospital occupancy,132.0,Denmark
+2021-09-03,Daily hospital occupancy,137.0,Denmark
+2021-09-04,Daily hospital occupancy,121.0,Denmark
+2021-09-05,Daily hospital occupancy,124.0,Denmark
+2021-09-06,Daily hospital occupancy,125.0,Denmark
+2021-09-07,Daily hospital occupancy,123.0,Denmark
+2021-09-08,Daily hospital occupancy,128.0,Denmark
+2021-09-09,Daily hospital occupancy,132.0,Denmark
+2021-09-10,Daily hospital occupancy,132.0,Denmark
+2021-09-11,Daily hospital occupancy,124.0,Denmark
+2021-09-12,Daily hospital occupancy,125.0,Denmark
+2021-09-13,Daily hospital occupancy,125.0,Denmark
+2021-09-14,Daily hospital occupancy,117.0,Denmark
+2021-09-15,Daily hospital occupancy,116.0,Denmark
+2021-09-16,Daily hospital occupancy,102.0,Denmark
+2021-09-17,Daily hospital occupancy,105.0,Denmark
+2021-09-18,Daily hospital occupancy,97.0,Denmark
+2021-09-19,Daily hospital occupancy,98.0,Denmark
+2021-09-20,Daily hospital occupancy,99.0,Denmark
+2021-09-21,Daily hospital occupancy,96.0,Denmark
+2021-09-22,Daily hospital occupancy,89.0,Denmark
+2021-09-23,Daily hospital occupancy,87.0,Denmark
+2021-09-24,Daily hospital occupancy,87.0,Denmark
+2021-09-25,Daily hospital occupancy,77.0,Denmark
+2021-09-26,Daily hospital occupancy,85.0,Denmark
+2021-09-27,Daily hospital occupancy,95.0,Denmark
+2021-09-28,Daily hospital occupancy,93.0,Denmark
+2021-09-29,Daily hospital occupancy,89.0,Denmark
+2021-09-30,Daily hospital occupancy,93.0,Denmark
+2021-10-01,Daily hospital occupancy,83.0,Denmark
+2021-10-02,Daily hospital occupancy,85.0,Denmark
+2021-10-03,Daily hospital occupancy,82.0,Denmark
+2021-10-04,Daily hospital occupancy,86.0,Denmark
+2021-10-05,Daily hospital occupancy,87.0,Denmark
+2021-10-06,Daily hospital occupancy,95.0,Denmark
+2021-10-07,Daily hospital occupancy,98.0,Denmark
+2021-10-08,Daily hospital occupancy,88.0,Denmark
+2021-10-09,Daily hospital occupancy,77.0,Denmark
+2021-10-10,Daily hospital occupancy,83.0,Denmark
+2021-10-11,Daily hospital occupancy,89.0,Denmark
+2021-10-12,Daily hospital occupancy,89.0,Denmark
+2021-10-13,Daily hospital occupancy,91.0,Denmark
+2021-10-14,Daily hospital occupancy,90.0,Denmark
+2021-10-15,Daily hospital occupancy,105.0,Denmark
+2021-10-16,Daily hospital occupancy,110.0,Denmark
+2021-10-17,Daily hospital occupancy,120.0,Denmark
+2021-10-18,Daily hospital occupancy,121.0,Denmark
+2021-10-19,Daily hospital occupancy,120.0,Denmark
+2021-10-20,Daily hospital occupancy,126.0,Denmark
+2021-10-21,Daily hospital occupancy,132.0,Denmark
+2021-10-22,Daily hospital occupancy,144.0,Denmark
+2021-10-23,Daily hospital occupancy,156.0,Denmark
+2021-10-24,Daily hospital occupancy,167.0,Denmark
+2021-10-25,Daily hospital occupancy,186.0,Denmark
+2021-10-26,Daily hospital occupancy,213.0,Denmark
+2021-10-27,Daily hospital occupancy,200.0,Denmark
+2021-10-28,Daily hospital occupancy,212.0,Denmark
+2021-10-29,Daily hospital occupancy,221.0,Denmark
+2021-10-30,Daily hospital occupancy,219.0,Denmark
+2021-10-31,Daily hospital occupancy,233.0,Denmark
+2021-11-01,Daily hospital occupancy,248.0,Denmark
+2021-11-02,Daily hospital occupancy,255.0,Denmark
+2021-11-03,Daily hospital occupancy,264.0,Denmark
+2021-11-04,Daily hospital occupancy,246.0,Denmark
+2021-11-05,Daily hospital occupancy,263.0,Denmark
+2021-11-06,Daily hospital occupancy,277.0,Denmark
+2021-11-07,Daily hospital occupancy,282.0,Denmark
+2021-11-08,Daily hospital occupancy,303.0,Denmark
+2021-11-09,Daily hospital occupancy,315.0,Denmark
+2021-11-10,Daily hospital occupancy,319.0,Denmark
+2021-11-11,Daily hospital occupancy,307.0,Denmark
+2021-11-12,Daily hospital occupancy,316.0,Denmark
+2021-11-13,Daily hospital occupancy,319.0,Denmark
+2021-11-14,Daily hospital occupancy,346.0,Denmark
+2021-11-15,Daily hospital occupancy,356.0,Denmark
+2021-11-16,Daily hospital occupancy,371.0,Denmark
+2021-11-17,Daily hospital occupancy,369.0,Denmark
+2021-11-18,Daily hospital occupancy,362.0,Denmark
+2021-11-19,Daily hospital occupancy,378.0,Denmark
+2021-11-20,Daily hospital occupancy,386.0,Denmark
+2021-11-21,Daily hospital occupancy,414.0,Denmark
+2021-11-22,Daily hospital occupancy,438.0,Denmark
+2021-11-23,Daily hospital occupancy,444.0,Denmark
+2021-11-24,Daily hospital occupancy,435.0,Denmark
+2021-11-25,Daily hospital occupancy,411.0,Denmark
+2021-11-26,Daily hospital occupancy,426.0,Denmark
+2021-11-27,Daily hospital occupancy,418.0,Denmark
+2021-11-28,Daily hospital occupancy,435.0,Denmark
+2021-11-29,Daily hospital occupancy,446.0,Denmark
+2021-11-30,Daily hospital occupancy,433.0,Denmark
+2021-12-01,Daily hospital occupancy,439.0,Denmark
+2021-12-02,Daily hospital occupancy,427.0,Denmark
+2021-12-03,Daily hospital occupancy,449.0,Denmark
+2021-12-04,Daily hospital occupancy,434.0,Denmark
+2021-12-05,Daily hospital occupancy,447.0,Denmark
+2021-12-06,Daily hospital occupancy,468.0,Denmark
+2021-12-07,Daily hospital occupancy,465.0,Denmark
+2021-12-08,Daily hospital occupancy,461.0,Denmark
+2021-12-09,Daily hospital occupancy,460.0,Denmark
+2021-12-10,Daily hospital occupancy,472.0,Denmark
+2021-12-11,Daily hospital occupancy,455.0,Denmark
+2021-12-12,Daily hospital occupancy,468.0,Denmark
+2021-12-13,Daily hospital occupancy,487.0,Denmark
+2021-12-14,Daily hospital occupancy,498.0,Denmark
+2021-12-15,Daily hospital occupancy,508.0,Denmark
+2021-12-16,Daily hospital occupancy,517.0,Denmark
+2021-12-17,Daily hospital occupancy,518.0,Denmark
+2021-12-18,Daily hospital occupancy,533.0,Denmark
+2021-12-19,Daily hospital occupancy,560.0,Denmark
+2021-12-20,Daily hospital occupancy,581.0,Denmark
+2021-12-21,Daily hospital occupancy,554.0,Denmark
+2021-12-22,Daily hospital occupancy,553.0,Denmark
+2021-12-23,Daily hospital occupancy,570.0,Denmark
+2021-12-24,Daily hospital occupancy,538.0,Denmark
+2021-12-25,Daily hospital occupancy,522.0,Denmark
+2021-12-26,Daily hospital occupancy,579.0,Denmark
+2021-12-27,Daily hospital occupancy,608.0,Denmark
+2021-12-28,Daily hospital occupancy,666.0,Denmark
+2021-12-29,Daily hospital occupancy,675.0,Denmark
+2021-12-30,Daily hospital occupancy,665.0,Denmark
+2021-12-31,Daily hospital occupancy,641.0,Denmark
+2022-01-01,Daily hospital occupancy,647.0,Denmark
+2022-01-02,Daily hospital occupancy,709.0,Denmark
+2022-01-03,Daily hospital occupancy,770.0,Denmark
+2022-01-04,Daily hospital occupancy,794.0,Denmark
+2022-01-05,Daily hospital occupancy,784.0,Denmark
+2022-01-06,Daily hospital occupancy,756.0,Denmark
+2022-01-07,Daily hospital occupancy,755.0,Denmark
+2022-01-08,Daily hospital occupancy,730.0,Denmark
+2022-01-09,Daily hospital occupancy,723.0,Denmark
+2022-01-10,Daily hospital occupancy,777.0,Denmark
+2022-01-11,Daily hospital occupancy,754.0,Denmark
+2022-01-12,Daily hospital occupancy,751.0,Denmark
+2022-01-13,Daily hospital occupancy,755.0,Denmark
+2022-01-14,Daily hospital occupancy,757.0,Denmark
+2022-01-15,Daily hospital occupancy,711.0,Denmark
+2022-01-16,Daily hospital occupancy,734.0,Denmark
+2022-01-17,Daily hospital occupancy,802.0,Denmark
+2022-01-18,Daily hospital occupancy,810.0,Denmark
+2022-01-19,Daily hospital occupancy,821.0,Denmark
+2022-01-20,Daily hospital occupancy,825.0,Denmark
+2022-01-21,Daily hospital occupancy,813.0,Denmark
+2022-01-22,Daily hospital occupancy,781.0,Denmark
+2022-01-23,Daily hospital occupancy,813.0,Denmark
+2022-01-24,Daily hospital occupancy,894.0,Denmark
+2022-01-25,Daily hospital occupancy,918.0,Denmark
+2022-01-26,Daily hospital occupancy,938.0,Denmark
+2022-01-27,Daily hospital occupancy,955.0,Denmark
+2022-01-28,Daily hospital occupancy,967.0,Denmark
+2022-01-29,Daily hospital occupancy,922.0,Denmark
+2022-01-30,Daily hospital occupancy,948.0,Denmark
+2022-01-31,Daily hospital occupancy,1028.0,Denmark
+2022-02-01,Daily hospital occupancy,1070.0,Denmark
+2022-02-02,Daily hospital occupancy,1092.0,Denmark
+2022-02-03,Daily hospital occupancy,1116.0,Denmark
+2022-02-04,Daily hospital occupancy,1156.0,Denmark
+2022-02-05,Daily hospital occupancy,1138.0,Denmark
+2022-02-06,Daily hospital occupancy,1203.0,Denmark
+2022-02-07,Daily hospital occupancy,1294.0,Denmark
+2022-02-08,Daily hospital occupancy,1315.0,Denmark
+2022-02-09,Daily hospital occupancy,1332.0,Denmark
+2022-02-10,Daily hospital occupancy,1354.0,Denmark
+2022-02-11,Daily hospital occupancy,1370.0,Denmark
+2022-02-12,Daily hospital occupancy,1316.0,Denmark
+2022-02-13,Daily hospital occupancy,1356.0,Denmark
+2022-02-14,Daily hospital occupancy,1465.0,Denmark
+2022-02-15,Daily hospital occupancy,1523.0,Denmark
+2022-02-16,Daily hospital occupancy,1498.0,Denmark
+2022-02-17,Daily hospital occupancy,1604.0,Denmark
+2022-02-18,Daily hospital occupancy,1615.0,Denmark
+2022-02-19,Daily hospital occupancy,1546.0,Denmark
+2022-02-20,Daily hospital occupancy,1587.0,Denmark
+2022-02-21,Daily hospital occupancy,1717.0,Denmark
+2022-02-22,Daily hospital occupancy,1759.0,Denmark
+2022-02-23,Daily hospital occupancy,1721.0,Denmark
+2022-02-24,Daily hospital occupancy,1746.0,Denmark
+2022-02-25,Daily hospital occupancy,1762.0,Denmark
+2022-02-26,Daily hospital occupancy,1572.0,Denmark
+2022-02-27,Daily hospital occupancy,1643.0,Denmark
+2022-02-28,Daily hospital occupancy,1751.0,Denmark
+2022-03-01,Daily hospital occupancy,1734.0,Denmark
+2022-03-02,Daily hospital occupancy,1666.0,Denmark
+2022-03-03,Daily hospital occupancy,1623.0,Denmark
+2022-03-04,Daily hospital occupancy,1602.0,Denmark
+2022-03-05,Daily hospital occupancy,1535.0,Denmark
+2022-03-06,Daily hospital occupancy,1556.0,Denmark
+2022-03-07,Daily hospital occupancy,1644.0,Denmark
+2022-03-08,Daily hospital occupancy,1602.0,Denmark
+2022-03-09,Daily hospital occupancy,1603.0,Denmark
+2022-03-10,Daily hospital occupancy,1567.0,Denmark
+2022-03-11,Daily hospital occupancy,1541.0,Denmark
+2022-03-12,Daily hospital occupancy,1395.0,Denmark
+2022-03-13,Daily hospital occupancy,1464.0,Denmark
+2022-03-14,Daily hospital occupancy,1567.0,Denmark
+2022-03-15,Daily hospital occupancy,1531.0,Denmark
+2022-03-16,Daily hospital occupancy,1503.0,Denmark
+2022-03-17,Daily hospital occupancy,1453.0,Denmark
+2022-03-18,Daily hospital occupancy,1414.0,Denmark
+2022-03-19,Daily hospital occupancy,1296.0,Denmark
+2022-03-20,Daily hospital occupancy,1327.0,Denmark
+2022-03-21,Daily hospital occupancy,1408.0,Denmark
+2022-03-22,Daily hospital occupancy,1357.0,Denmark
+2022-03-23,Daily hospital occupancy,1297.0,Denmark
+2022-03-24,Daily hospital occupancy,1324.0,Denmark
+2022-03-25,Daily hospital occupancy,1283.0,Denmark
+2022-03-26,Daily hospital occupancy,1159.0,Denmark
+2022-03-27,Daily hospital occupancy,1182.0,Denmark
+2022-03-28,Daily hospital occupancy,1213.0,Denmark
+2022-03-29,Daily hospital occupancy,1220.0,Denmark
+2022-03-30,Daily hospital occupancy,1189.0,Denmark
+2022-03-31,Daily hospital occupancy,1162.0,Denmark
+2022-04-01,Daily hospital occupancy,1099.0,Denmark
+2022-04-02,Daily hospital occupancy,1003.0,Denmark
+2022-04-03,Daily hospital occupancy,1021.0,Denmark
+2022-04-04,Daily hospital occupancy,1064.0,Denmark
+2022-04-05,Daily hospital occupancy,1062.0,Denmark
+2022-04-06,Daily hospital occupancy,1026.0,Denmark
+2022-04-07,Daily hospital occupancy,989.0,Denmark
+2022-04-08,Daily hospital occupancy,961.0,Denmark
+2022-04-09,Daily hospital occupancy,851.0,Denmark
+2022-04-10,Daily hospital occupancy,876.0,Denmark
+2022-04-11,Daily hospital occupancy,923.0,Denmark
+2022-04-12,Daily hospital occupancy,886.0,Denmark
+2022-04-13,Daily hospital occupancy,845.0,Denmark
+2022-04-14,Daily hospital occupancy,786.0,Denmark
+2022-04-15,Daily hospital occupancy,785.0,Denmark
+2022-04-16,Daily hospital occupancy,783.0,Denmark
+2022-04-17,Daily hospital occupancy,787.0,Denmark
+2022-04-18,Daily hospital occupancy,792.0,Denmark
+2022-04-19,Daily hospital occupancy,843.0,Denmark
+2022-04-20,Daily hospital occupancy,820.0,Denmark
+2022-04-21,Daily hospital occupancy,771.0,Denmark
+2022-04-22,Daily hospital occupancy,761.0,Denmark
+2022-04-23,Daily hospital occupancy,700.0,Denmark
+2022-04-24,Daily hospital occupancy,713.0,Denmark
+2022-04-25,Daily hospital occupancy,747.0,Denmark
+2022-04-26,Daily hospital occupancy,733.0,Denmark
+2022-04-27,Daily hospital occupancy,717.0,Denmark
+2022-04-28,Daily hospital occupancy,685.0,Denmark
+2022-04-29,Daily hospital occupancy,646.0,Denmark
+2022-04-30,Daily hospital occupancy,583.0,Denmark
+2022-05-01,Daily hospital occupancy,601.0,Denmark
+2022-05-02,Daily hospital occupancy,632.0,Denmark
+2022-05-03,Daily hospital occupancy,586.0,Denmark
+2022-05-04,Daily hospital occupancy,568.0,Denmark
+2022-05-05,Daily hospital occupancy,539.0,Denmark
+2022-05-06,Daily hospital occupancy,491.0,Denmark
+2022-05-07,Daily hospital occupancy,459.0,Denmark
+2022-05-08,Daily hospital occupancy,466.0,Denmark
+2022-05-09,Daily hospital occupancy,512.0,Denmark
+2022-05-10,Daily hospital occupancy,500.0,Denmark
+2022-05-11,Daily hospital occupancy,483.0,Denmark
+2022-05-12,Daily hospital occupancy,463.0,Denmark
+2022-05-13,Daily hospital occupancy,428.0,Denmark
+2022-05-14,Daily hospital occupancy,402.0,Denmark
+2022-05-15,Daily hospital occupancy,417.0,Denmark
+2022-05-16,Daily hospital occupancy,448.0,Denmark
+2022-05-17,Daily hospital occupancy,425.0,Denmark
+2022-05-18,Daily hospital occupancy,433.0,Denmark
+2022-05-19,Daily hospital occupancy,383.0,Denmark
+2022-05-20,Daily hospital occupancy,324.0,Denmark
+2022-05-21,Daily hospital occupancy,304.0,Denmark
+2022-05-22,Daily hospital occupancy,286.0,Denmark
+2022-05-23,Daily hospital occupancy,332.0,Denmark
+2022-05-24,Daily hospital occupancy,319.0,Denmark
+2022-05-25,Daily hospital occupancy,294.0,Denmark
+2022-05-26,Daily hospital occupancy,269.0,Denmark
+2022-05-27,Daily hospital occupancy,270.0,Denmark
+2022-05-28,Daily hospital occupancy,248.0,Denmark
+2022-05-29,Daily hospital occupancy,246.0,Denmark
+2022-05-30,Daily hospital occupancy,268.0,Denmark
+2022-05-31,Daily hospital occupancy,259.0,Denmark
+2022-06-01,Daily hospital occupancy,241.0,Denmark
+2022-06-02,Daily hospital occupancy,245.0,Denmark
+2022-06-03,Daily hospital occupancy,234.0,Denmark
+2022-06-04,Daily hospital occupancy,240.0,Denmark
+2022-06-05,Daily hospital occupancy,234.0,Denmark
+2022-06-06,Daily hospital occupancy,231.0,Denmark
+2022-06-07,Daily hospital occupancy,228.0,Denmark
+2022-06-08,Daily hospital occupancy,222.0,Denmark
+2022-06-09,Daily hospital occupancy,220.0,Denmark
+2022-06-10,Daily hospital occupancy,199.0,Denmark
+2022-06-11,Daily hospital occupancy,199.0,Denmark
+2022-06-12,Daily hospital occupancy,213.0,Denmark
+2022-06-13,Daily hospital occupancy,222.0,Denmark
+2022-06-14,Daily hospital occupancy,228.0,Denmark
+2022-06-15,Daily hospital occupancy,219.0,Denmark
+2022-06-16,Daily hospital occupancy,229.0,Denmark
+2022-06-17,Daily hospital occupancy,226.0,Denmark
+2022-06-18,Daily hospital occupancy,225.0,Denmark
+2022-06-19,Daily hospital occupancy,229.0,Denmark
+2022-06-20,Daily hospital occupancy,245.0,Denmark
+2022-06-21,Daily hospital occupancy,241.0,Denmark
+2022-06-22,Daily hospital occupancy,249.0,Denmark
+2022-06-23,Daily hospital occupancy,265.0,Denmark
+2022-06-24,Daily hospital occupancy,277.0,Denmark
+2022-06-25,Daily hospital occupancy,269.0,Denmark
+2022-06-26,Daily hospital occupancy,274.0,Denmark
+2022-06-27,Daily hospital occupancy,293.0,Denmark
+2022-06-28,Daily hospital occupancy,307.0,Denmark
+2022-06-29,Daily hospital occupancy,307.0,Denmark
+2022-06-30,Daily hospital occupancy,307.0,Denmark
+2022-07-01,Daily hospital occupancy,290.0,Denmark
+2022-07-02,Daily hospital occupancy,288.0,Denmark
+2022-07-03,Daily hospital occupancy,303.0,Denmark
+2022-07-04,Daily hospital occupancy,333.0,Denmark
+2022-07-05,Daily hospital occupancy,325.0,Denmark
+2022-07-06,Daily hospital occupancy,313.0,Denmark
+2022-07-07,Daily hospital occupancy,337.0,Denmark
+2022-07-08,Daily hospital occupancy,325.0,Denmark
+2022-07-09,Daily hospital occupancy,323.0,Denmark
+2022-07-10,Daily hospital occupancy,345.0,Denmark
+2022-07-11,Daily hospital occupancy,382.0,Denmark
+2022-07-12,Daily hospital occupancy,388.0,Denmark
+2022-07-13,Daily hospital occupancy,384.0,Denmark
+2022-07-14,Daily hospital occupancy,423.0,Denmark
+2022-07-15,Daily hospital occupancy,433.0,Denmark
+2022-07-16,Daily hospital occupancy,427.0,Denmark
+2022-07-17,Daily hospital occupancy,423.0,Denmark
+2022-07-18,Daily hospital occupancy,475.0,Denmark
+2022-07-19,Daily hospital occupancy,509.0,Denmark
+2022-07-20,Daily hospital occupancy,518.0,Denmark
+2022-07-21,Daily hospital occupancy,523.0,Denmark
+2022-07-22,Daily hospital occupancy,503.0,Denmark
+2022-07-23,Daily hospital occupancy,511.0,Denmark
+2022-07-24,Daily hospital occupancy,522.0,Denmark
+2022-07-25,Daily hospital occupancy,546.0,Denmark
+2022-07-26,Daily hospital occupancy,546.0,Denmark
+2022-07-27,Daily hospital occupancy,512.0,Denmark
+2022-07-28,Daily hospital occupancy,482.0,Denmark
+2022-07-29,Daily hospital occupancy,472.0,Denmark
+2022-07-30,Daily hospital occupancy,419.0,Denmark
+2022-07-31,Daily hospital occupancy,441.0,Denmark
+2022-08-01,Daily hospital occupancy,487.0,Denmark
+2022-08-02,Daily hospital occupancy,464.0,Denmark
+2022-08-03,Daily hospital occupancy,443.0,Denmark
+2022-08-04,Daily hospital occupancy,436.0,Denmark
+2022-08-05,Daily hospital occupancy,424.0,Denmark
+2022-08-06,Daily hospital occupancy,398.0,Denmark
+2022-08-07,Daily hospital occupancy,405.0,Denmark
+2022-08-08,Daily hospital occupancy,435.0,Denmark
+2022-08-09,Daily hospital occupancy,427.0,Denmark
+2022-08-10,Daily hospital occupancy,414.0,Denmark
+2022-08-11,Daily hospital occupancy,421.0,Denmark
+2022-08-12,Daily hospital occupancy,412.0,Denmark
+2022-08-14,Daily hospital occupancy,368.0,Denmark
+2022-08-15,Daily hospital occupancy,438.0,Denmark
+2022-08-16,Daily hospital occupancy,432.0,Denmark
+2022-08-17,Daily hospital occupancy,430.0,Denmark
+2022-08-18,Daily hospital occupancy,421.0,Denmark
+2022-08-19,Daily hospital occupancy,408.0,Denmark
+2022-08-20,Daily hospital occupancy,383.0,Denmark
+2022-08-21,Daily hospital occupancy,386.0,Denmark
+2022-08-22,Daily hospital occupancy,404.0,Denmark
+2022-08-23,Daily hospital occupancy,383.0,Denmark
+2022-08-24,Daily hospital occupancy,370.0,Denmark
+2022-08-25,Daily hospital occupancy,353.0,Denmark
+2022-08-26,Daily hospital occupancy,346.0,Denmark
+2022-08-27,Daily hospital occupancy,321.0,Denmark
+2022-08-28,Daily hospital occupancy,330.0,Denmark
+2022-08-29,Daily hospital occupancy,351.0,Denmark
+2022-08-30,Daily hospital occupancy,340.0,Denmark
+2022-08-31,Daily hospital occupancy,305.0,Denmark
+2022-09-01,Daily hospital occupancy,289.0,Denmark
+2022-09-02,Daily hospital occupancy,285.0,Denmark
+2022-09-03,Daily hospital occupancy,290.0,Denmark
+2022-09-04,Daily hospital occupancy,281.0,Denmark
+2022-09-05,Daily hospital occupancy,292.0,Denmark
+2022-09-06,Daily hospital occupancy,295.0,Denmark
+2022-09-07,Daily hospital occupancy,293.0,Denmark
+2022-09-08,Daily hospital occupancy,280.0,Denmark
+2022-09-09,Daily hospital occupancy,285.0,Denmark
+2022-09-10,Daily hospital occupancy,264.0,Denmark
+2022-09-11,Daily hospital occupancy,255.0,Denmark
+2022-09-12,Daily hospital occupancy,280.0,Denmark
+2022-09-13,Daily hospital occupancy,278.0,Denmark
+2022-09-14,Daily hospital occupancy,278.0,Denmark
+2022-09-15,Daily hospital occupancy,280.0,Denmark
+2022-09-16,Daily hospital occupancy,283.0,Denmark
+2022-09-17,Daily hospital occupancy,253.0,Denmark
+2022-09-18,Daily hospital occupancy,275.0,Denmark
+2022-09-19,Daily hospital occupancy,302.0,Denmark
+2022-09-20,Daily hospital occupancy,316.0,Denmark
+2022-09-21,Daily hospital occupancy,314.0,Denmark
+2022-09-22,Daily hospital occupancy,308.0,Denmark
+2022-09-23,Daily hospital occupancy,316.0,Denmark
+2022-09-24,Daily hospital occupancy,312.0,Denmark
+2022-09-25,Daily hospital occupancy,330.0,Denmark
+2022-09-26,Daily hospital occupancy,376.0,Denmark
+2022-09-27,Daily hospital occupancy,384.0,Denmark
+2022-09-28,Daily hospital occupancy,386.0,Denmark
+2022-09-29,Daily hospital occupancy,387.0,Denmark
+2022-09-30,Daily hospital occupancy,396.0,Denmark
+2022-10-01,Daily hospital occupancy,372.0,Denmark
+2022-10-02,Daily hospital occupancy,400.0,Denmark
+2022-10-03,Daily hospital occupancy,434.0,Denmark
+2022-10-04,Daily hospital occupancy,433.0,Denmark
+2022-10-05,Daily hospital occupancy,425.0,Denmark
+2022-10-06,Daily hospital occupancy,418.0,Denmark
+2022-10-07,Daily hospital occupancy,429.0,Denmark
+2022-10-08,Daily hospital occupancy,417.0,Denmark
+2022-10-09,Daily hospital occupancy,417.0,Denmark
+2022-10-10,Daily hospital occupancy,456.0,Denmark
+2022-10-11,Daily hospital occupancy,496.0,Denmark
+2022-10-12,Daily hospital occupancy,504.0,Denmark
+2022-10-13,Daily hospital occupancy,507.0,Denmark
+2022-10-14,Daily hospital occupancy,502.0,Denmark
+2022-10-15,Daily hospital occupancy,473.0,Denmark
+2022-10-16,Daily hospital occupancy,501.0,Denmark
+2022-10-17,Daily hospital occupancy,548.0,Denmark
+2022-10-18,Daily hospital occupancy,537.0,Denmark
+2022-10-19,Daily hospital occupancy,510.0,Denmark
+2022-10-20,Daily hospital occupancy,488.0,Denmark
+2022-10-21,Daily hospital occupancy,477.0,Denmark
+2022-10-22,Daily hospital occupancy,471.0,Denmark
+2022-10-23,Daily hospital occupancy,489.0,Denmark
+2022-10-24,Daily hospital occupancy,521.0,Denmark
+2022-10-25,Daily hospital occupancy,531.0,Denmark
+2022-10-26,Daily hospital occupancy,510.0,Denmark
+2022-10-27,Daily hospital occupancy,484.0,Denmark
+2022-10-28,Daily hospital occupancy,475.0,Denmark
+2022-10-29,Daily hospital occupancy,450.0,Denmark
+2022-10-30,Daily hospital occupancy,463.0,Denmark
+2022-10-31,Daily hospital occupancy,465.0,Denmark
+2022-11-01,Daily hospital occupancy,465.0,Denmark
+2022-11-02,Daily hospital occupancy,427.0,Denmark
+2022-11-03,Daily hospital occupancy,417.0,Denmark
+2022-11-04,Daily hospital occupancy,408.0,Denmark
+2022-11-05,Daily hospital occupancy,360.0,Denmark
+2022-11-06,Daily hospital occupancy,350.0,Denmark
+2022-11-07,Daily hospital occupancy,368.0,Denmark
+2022-11-08,Daily hospital occupancy,335.0,Denmark
+2022-11-09,Daily hospital occupancy,339.0,Denmark
+2022-11-10,Daily hospital occupancy,326.0,Denmark
+2022-11-11,Daily hospital occupancy,320.0,Denmark
+2022-11-12,Daily hospital occupancy,302.0,Denmark
+2022-11-13,Daily hospital occupancy,302.0,Denmark
+2022-11-14,Daily hospital occupancy,317.0,Denmark
+2022-11-15,Daily hospital occupancy,292.0,Denmark
+2022-11-16,Daily hospital occupancy,293.0,Denmark
+2022-11-17,Daily hospital occupancy,273.0,Denmark
+2022-11-18,Daily hospital occupancy,266.0,Denmark
+2022-11-19,Daily hospital occupancy,256.0,Denmark
+2022-11-20,Daily hospital occupancy,261.0,Denmark
+2022-11-21,Daily hospital occupancy,273.0,Denmark
+2022-11-22,Daily hospital occupancy,276.0,Denmark
+2022-11-23,Daily hospital occupancy,248.0,Denmark
+2022-11-24,Daily hospital occupancy,252.0,Denmark
+2022-11-25,Daily hospital occupancy,267.0,Denmark
+2022-11-26,Daily hospital occupancy,253.0,Denmark
+2022-11-27,Daily hospital occupancy,260.0,Denmark
+2022-11-28,Daily hospital occupancy,286.0,Denmark
+2022-11-29,Daily hospital occupancy,312.0,Denmark
+2022-11-30,Daily hospital occupancy,328.0,Denmark
+2022-12-01,Daily hospital occupancy,325.0,Denmark
+2022-12-02,Daily hospital occupancy,325.0,Denmark
+2022-12-03,Daily hospital occupancy,314.0,Denmark
+2022-12-04,Daily hospital occupancy,329.0,Denmark
+2022-12-05,Daily hospital occupancy,361.0,Denmark
+2022-12-06,Daily hospital occupancy,382.0,Denmark
+2022-12-08,Daily hospital occupancy,372.0,Denmark
+2022-12-09,Daily hospital occupancy,366.0,Denmark
+2022-12-10,Daily hospital occupancy,351.0,Denmark
+2022-12-11,Daily hospital occupancy,374.0,Denmark
+2022-12-12,Daily hospital occupancy,416.0,Denmark
+2022-12-13,Daily hospital occupancy,425.0,Denmark
+2022-12-14,Daily hospital occupancy,409.0,Denmark
+2022-12-15,Daily hospital occupancy,452.0,Denmark
+2022-12-16,Daily hospital occupancy,435.0,Denmark
+2022-12-17,Daily hospital occupancy,445.0,Denmark
+2022-12-18,Daily hospital occupancy,461.0,Denmark
+2022-12-19,Daily hospital occupancy,488.0,Denmark
+2022-12-20,Daily hospital occupancy,525.0,Denmark
+2022-12-21,Daily hospital occupancy,530.0,Denmark
+2022-12-22,Daily hospital occupancy,546.0,Denmark
+2022-12-23,Daily hospital occupancy,506.0,Denmark
+2022-12-24,Daily hospital occupancy,497.0,Denmark
+2022-12-25,Daily hospital occupancy,500.0,Denmark
+2022-12-26,Daily hospital occupancy,573.0,Denmark
+2022-12-27,Daily hospital occupancy,606.0,Denmark
+2022-12-28,Daily hospital occupancy,612.0,Denmark
+2023-01-04,Daily hospital occupancy,647.0,Denmark
+2023-01-05,Daily hospital occupancy,626.0,Denmark
+2023-01-06,Daily hospital occupancy,594.0,Denmark
+2023-01-07,Daily hospital occupancy,549.0,Denmark
+2023-01-08,Daily hospital occupancy,545.0,Denmark
+2023-01-09,Daily hospital occupancy,563.0,Denmark
+2023-01-10,Daily hospital occupancy,528.0,Denmark
+2023-01-11,Daily hospital occupancy,484.0,Denmark
+2023-01-12,Daily hospital occupancy,457.0,Denmark
+2023-01-13,Daily hospital occupancy,450.0,Denmark
+2023-01-14,Daily hospital occupancy,415.0,Denmark
+2023-01-15,Daily hospital occupancy,428.0,Denmark
+2023-01-16,Daily hospital occupancy,443.0,Denmark
+2023-01-17,Daily hospital occupancy,401.0,Denmark
+2023-01-18,Daily hospital occupancy,363.0,Denmark
+2023-01-19,Daily hospital occupancy,332.0,Denmark
+2023-01-20,Daily hospital occupancy,290.0,Denmark
+2023-01-21,Daily hospital occupancy,279.0,Denmark
+2023-01-22,Daily hospital occupancy,281.0,Denmark
+2023-01-23,Daily hospital occupancy,292.0,Denmark
+2023-01-24,Daily hospital occupancy,278.0,Denmark
+2023-01-25,Daily hospital occupancy,258.0,Denmark
+2023-01-26,Daily hospital occupancy,239.0,Denmark
+2023-01-27,Daily hospital occupancy,225.0,Denmark
+2023-01-28,Daily hospital occupancy,215.0,Denmark
+2023-01-29,Daily hospital occupancy,204.0,Denmark
+2023-01-30,Daily hospital occupancy,211.0,Denmark
+2023-01-31,Daily hospital occupancy,218.0,Denmark
+2023-02-01,Daily hospital occupancy,211.0,Denmark
+2023-02-03,Daily hospital occupancy,202.0,Denmark
+2023-02-04,Daily hospital occupancy,194.0,Denmark
+2023-02-05,Daily hospital occupancy,196.0,Denmark
+2023-02-06,Daily hospital occupancy,207.0,Denmark
+2023-02-07,Daily hospital occupancy,206.0,Denmark
+2023-02-08,Daily hospital occupancy,208.0,Denmark
+2023-02-09,Daily hospital occupancy,205.0,Denmark
+2023-02-10,Daily hospital occupancy,215.0,Denmark
+2023-02-11,Daily hospital occupancy,203.0,Denmark
+2023-02-12,Daily hospital occupancy,205.0,Denmark
+2023-02-13,Daily hospital occupancy,214.0,Denmark
+2023-02-14,Daily hospital occupancy,205.0,Denmark
+2023-02-15,Daily hospital occupancy,201.0,Denmark
+2023-02-16,Daily hospital occupancy,196.0,Denmark
+2023-02-17,Daily hospital occupancy,185.0,Denmark
+2023-02-18,Daily hospital occupancy,179.0,Denmark
+2023-02-19,Daily hospital occupancy,197.0,Denmark
+2023-02-20,Daily hospital occupancy,209.0,Denmark
+2023-02-21,Daily hospital occupancy,205.0,Denmark
+2023-02-22,Daily hospital occupancy,198.0,Denmark
+2023-02-23,Daily hospital occupancy,199.0,Denmark
+2023-02-24,Daily hospital occupancy,199.0,Denmark
+2023-02-25,Daily hospital occupancy,192.0,Denmark
+2023-02-26,Daily hospital occupancy,182.0,Denmark
+2023-02-27,Daily hospital occupancy,195.0,Denmark
+2023-02-28,Daily hospital occupancy,177.0,Denmark
+2023-03-01,Daily hospital occupancy,173.0,Denmark
+2023-03-02,Daily hospital occupancy,174.0,Denmark
+2023-03-03,Daily hospital occupancy,177.0,Denmark
+2023-03-04,Daily hospital occupancy,167.0,Denmark
+2023-03-05,Daily hospital occupancy,179.0,Denmark
+2023-03-06,Daily hospital occupancy,189.0,Denmark
+2023-03-07,Daily hospital occupancy,183.0,Denmark
+2023-03-08,Daily hospital occupancy,203.0,Denmark
+2023-03-09,Daily hospital occupancy,199.0,Denmark
+2023-03-10,Daily hospital occupancy,184.0,Denmark
+2023-03-12,Daily hospital occupancy,178.0,Denmark
+2023-03-13,Daily hospital occupancy,151.0,Denmark
+2023-03-14,Daily hospital occupancy,185.0,Denmark
+2023-03-15,Daily hospital occupancy,210.0,Denmark
+2023-03-16,Daily hospital occupancy,224.0,Denmark
+2023-03-17,Daily hospital occupancy,241.0,Denmark
+2023-03-18,Daily hospital occupancy,235.0,Denmark
+2023-03-19,Daily hospital occupancy,269.0,Denmark
+2023-03-20,Daily hospital occupancy,277.0,Denmark
+2023-03-21,Daily hospital occupancy,304.0,Denmark
+2023-03-22,Daily hospital occupancy,314.0,Denmark
+2023-03-23,Daily hospital occupancy,297.0,Denmark
+2023-03-24,Daily hospital occupancy,305.0,Denmark
+2023-03-25,Daily hospital occupancy,131.0,Denmark
+2023-03-26,Daily hospital occupancy,137.0,Denmark
+2023-03-27,Daily hospital occupancy,149.0,Denmark
+2023-03-28,Daily hospital occupancy,347.0,Denmark
+2023-03-29,Daily hospital occupancy,343.0,Denmark
+2023-03-30,Daily hospital occupancy,336.0,Denmark
+2023-03-31,Daily hospital occupancy,316.0,Denmark
+2023-04-01,Daily hospital occupancy,302.0,Denmark
+2023-04-02,Daily hospital occupancy,328.0,Denmark
+2023-04-03,Daily hospital occupancy,346.0,Denmark
+2023-04-04,Daily hospital occupancy,341.0,Denmark
+2023-04-05,Daily hospital occupancy,335.0,Denmark
+2023-04-06,Daily hospital occupancy,310.0,Denmark
+2023-04-07,Daily hospital occupancy,327.0,Denmark
+2023-04-08,Daily hospital occupancy,342.0,Denmark
+2023-04-09,Daily hospital occupancy,357.0,Denmark
+2023-04-10,Daily hospital occupancy,372.0,Denmark
+2023-04-11,Daily hospital occupancy,404.0,Denmark
+2023-04-12,Daily hospital occupancy,371.0,Denmark
+2023-04-13,Daily hospital occupancy,375.0,Denmark
+2023-04-14,Daily hospital occupancy,367.0,Denmark
+2023-04-16,Daily hospital occupancy,343.0,Denmark
+2023-04-17,Daily hospital occupancy,386.0,Denmark
+2023-04-18,Daily hospital occupancy,342.0,Denmark
+2023-04-19,Daily hospital occupancy,312.0,Denmark
+2023-04-20,Daily hospital occupancy,302.0,Denmark
+2023-04-21,Daily hospital occupancy,290.0,Denmark
+2023-04-23,Daily hospital occupancy,265.0,Denmark
+2023-04-24,Daily hospital occupancy,309.0,Denmark
+2023-04-25,Daily hospital occupancy,311.0,Denmark
+2023-04-26,Daily hospital occupancy,310.0,Denmark
+2023-04-27,Daily hospital occupancy,307.0,Denmark
+2023-04-28,Daily hospital occupancy,293.0,Denmark
+2023-04-29,Daily hospital occupancy,261.0,Denmark
+2023-04-30,Daily hospital occupancy,283.0,Denmark
+2023-05-01,Daily hospital occupancy,301.0,Denmark
+2023-05-02,Daily hospital occupancy,291.0,Denmark
+2023-05-03,Daily hospital occupancy,295.0,Denmark
+2023-05-04,Daily hospital occupancy,264.0,Denmark
+2023-05-05,Daily hospital occupancy,275.0,Denmark
+2023-05-06,Daily hospital occupancy,259.0,Denmark
+2023-05-07,Daily hospital occupancy,268.0,Denmark
+2023-05-08,Daily hospital occupancy,294.0,Denmark
+2023-05-09,Daily hospital occupancy,300.0,Denmark
+2023-05-10,Daily hospital occupancy,303.0,Denmark
+2023-05-11,Daily hospital occupancy,290.0,Denmark
+2023-05-12,Daily hospital occupancy,280.0,Denmark
+2023-05-13,Daily hospital occupancy,254.0,Denmark
+2023-05-14,Daily hospital occupancy,257.0,Denmark
+2023-05-15,Daily hospital occupancy,272.0,Denmark
+2023-05-16,Daily hospital occupancy,260.0,Denmark
+2023-05-17,Daily hospital occupancy,230.0,Denmark
+2023-05-22,Daily hospital occupancy,134.0,Denmark
+2023-05-23,Daily hospital occupancy,204.0,Denmark
+2023-05-24,Daily hospital occupancy,198.0,Denmark
+2023-05-25,Daily hospital occupancy,195.0,Denmark
+2023-05-26,Daily hospital occupancy,177.0,Denmark
+2023-05-27,Daily hospital occupancy,181.0,Denmark
+2023-05-28,Daily hospital occupancy,170.0,Denmark
+2023-05-29,Daily hospital occupancy,180.0,Denmark
+2023-05-30,Daily hospital occupancy,184.0,Denmark
+2023-05-31,Daily hospital occupancy,168.0,Denmark
+2023-06-01,Daily hospital occupancy,148.0,Denmark
+2023-06-02,Daily hospital occupancy,140.0,Denmark
+2023-06-03,Daily hospital occupancy,137.0,Denmark
+2023-06-04,Daily hospital occupancy,133.0,Denmark
+2023-06-05,Daily hospital occupancy,140.0,Denmark
+2023-06-06,Daily hospital occupancy,122.0,Denmark
+2023-06-07,Daily hospital occupancy,122.0,Denmark
+2023-06-08,Daily hospital occupancy,110.0,Denmark
+2023-06-09,Daily hospital occupancy,107.0,Denmark
+2023-06-10,Daily hospital occupancy,103.0,Denmark
+2023-06-11,Daily hospital occupancy,102.0,Denmark
+2023-06-12,Daily hospital occupancy,106.0,Denmark
+2023-06-13,Daily hospital occupancy,97.0,Denmark
+2020-03-10,Weekly new hospital admissions,34.0,Denmark
+2020-03-11,Weekly new hospital admissions,43.0,Denmark
+2020-03-12,Weekly new hospital admissions,60.0,Denmark
+2020-03-13,Weekly new hospital admissions,85.0,Denmark
+2020-03-14,Weekly new hospital admissions,105.0,Denmark
+2020-03-15,Weekly new hospital admissions,135.0,Denmark
+2020-03-16,Weekly new hospital admissions,171.0,Denmark
+2020-03-17,Weekly new hospital admissions,203.0,Denmark
+2020-03-18,Weekly new hospital admissions,240.0,Denmark
+2020-03-19,Weekly new hospital admissions,272.0,Denmark
+2020-03-20,Weekly new hospital admissions,310.0,Denmark
+2020-03-21,Weekly new hospital admissions,320.0,Denmark
+2020-03-22,Weekly new hospital admissions,329.0,Denmark
+2020-03-23,Weekly new hospital admissions,369.0,Denmark
+2020-03-24,Weekly new hospital admissions,403.0,Denmark
+2020-03-25,Weekly new hospital admissions,446.0,Denmark
+2020-03-26,Weekly new hospital admissions,474.0,Denmark
+2020-03-27,Weekly new hospital admissions,497.0,Denmark
+2020-03-28,Weekly new hospital admissions,546.0,Denmark
+2020-03-29,Weekly new hospital admissions,555.0,Denmark
+2020-03-30,Weekly new hospital admissions,538.0,Denmark
+2020-03-31,Weekly new hospital admissions,508.0,Denmark
+2020-04-01,Weekly new hospital admissions,478.0,Denmark
+2020-04-02,Weekly new hospital admissions,472.0,Denmark
+2020-04-03,Weekly new hospital admissions,457.0,Denmark
+2020-04-04,Weekly new hospital admissions,417.0,Denmark
+2020-04-05,Weekly new hospital admissions,401.0,Denmark
+2020-04-06,Weekly new hospital admissions,383.0,Denmark
+2020-04-07,Weekly new hospital admissions,388.0,Denmark
+2020-04-08,Weekly new hospital admissions,356.0,Denmark
+2020-04-09,Weekly new hospital admissions,318.0,Denmark
+2020-04-10,Weekly new hospital admissions,279.0,Denmark
+2020-04-11,Weekly new hospital admissions,267.0,Denmark
+2020-04-12,Weekly new hospital admissions,259.0,Denmark
+2020-04-13,Weekly new hospital admissions,239.0,Denmark
+2020-04-14,Weekly new hospital admissions,227.0,Denmark
+2020-04-15,Weekly new hospital admissions,229.0,Denmark
+2020-04-16,Weekly new hospital admissions,228.0,Denmark
+2020-04-17,Weekly new hospital admissions,222.0,Denmark
+2020-04-18,Weekly new hospital admissions,218.0,Denmark
+2020-04-19,Weekly new hospital admissions,224.0,Denmark
+2020-04-20,Weekly new hospital admissions,227.0,Denmark
+2020-04-21,Weekly new hospital admissions,221.0,Denmark
+2020-04-22,Weekly new hospital admissions,220.0,Denmark
+2020-04-23,Weekly new hospital admissions,219.0,Denmark
+2020-04-24,Weekly new hospital admissions,214.0,Denmark
+2020-04-25,Weekly new hospital admissions,214.0,Denmark
+2020-04-26,Weekly new hospital admissions,207.0,Denmark
+2020-04-27,Weekly new hospital admissions,195.0,Denmark
+2020-04-28,Weekly new hospital admissions,172.0,Denmark
+2020-04-29,Weekly new hospital admissions,158.0,Denmark
+2020-04-30,Weekly new hospital admissions,142.0,Denmark
+2020-05-01,Weekly new hospital admissions,136.0,Denmark
+2020-05-02,Weekly new hospital admissions,133.0,Denmark
+2020-05-03,Weekly new hospital admissions,123.0,Denmark
+2020-05-04,Weekly new hospital admissions,116.0,Denmark
+2020-05-05,Weekly new hospital admissions,118.0,Denmark
+2020-05-06,Weekly new hospital admissions,109.0,Denmark
+2020-05-07,Weekly new hospital admissions,108.0,Denmark
+2020-05-08,Weekly new hospital admissions,101.0,Denmark
+2020-05-09,Weekly new hospital admissions,87.0,Denmark
+2020-05-10,Weekly new hospital admissions,81.0,Denmark
+2020-05-11,Weekly new hospital admissions,75.0,Denmark
+2020-05-12,Weekly new hospital admissions,66.0,Denmark
+2020-05-13,Weekly new hospital admissions,66.0,Denmark
+2020-05-14,Weekly new hospital admissions,64.0,Denmark
+2020-05-15,Weekly new hospital admissions,72.0,Denmark
+2020-05-16,Weekly new hospital admissions,67.0,Denmark
+2020-05-17,Weekly new hospital admissions,61.0,Denmark
+2020-05-18,Weekly new hospital admissions,67.0,Denmark
+2020-05-19,Weekly new hospital admissions,67.0,Denmark
+2020-05-20,Weekly new hospital admissions,68.0,Denmark
+2020-05-21,Weekly new hospital admissions,61.0,Denmark
+2020-05-22,Weekly new hospital admissions,57.0,Denmark
+2020-05-23,Weekly new hospital admissions,63.0,Denmark
+2020-05-24,Weekly new hospital admissions,61.0,Denmark
+2020-05-25,Weekly new hospital admissions,53.0,Denmark
+2020-05-26,Weekly new hospital admissions,56.0,Denmark
+2020-05-27,Weekly new hospital admissions,56.0,Denmark
+2020-05-28,Weekly new hospital admissions,55.0,Denmark
+2020-05-29,Weekly new hospital admissions,51.0,Denmark
+2020-05-30,Weekly new hospital admissions,47.0,Denmark
+2020-05-31,Weekly new hospital admissions,49.0,Denmark
+2020-06-01,Weekly new hospital admissions,48.0,Denmark
+2020-06-02,Weekly new hospital admissions,43.0,Denmark
+2020-06-03,Weekly new hospital admissions,39.0,Denmark
+2020-06-04,Weekly new hospital admissions,40.0,Denmark
+2020-06-05,Weekly new hospital admissions,40.0,Denmark
+2020-06-06,Weekly new hospital admissions,35.0,Denmark
+2020-06-07,Weekly new hospital admissions,35.0,Denmark
+2020-06-08,Weekly new hospital admissions,34.0,Denmark
+2020-06-09,Weekly new hospital admissions,29.0,Denmark
+2020-06-10,Weekly new hospital admissions,27.0,Denmark
+2020-06-11,Weekly new hospital admissions,22.0,Denmark
+2020-06-12,Weekly new hospital admissions,19.0,Denmark
+2020-06-13,Weekly new hospital admissions,22.0,Denmark
+2020-06-14,Weekly new hospital admissions,20.0,Denmark
+2020-06-15,Weekly new hospital admissions,20.0,Denmark
+2020-06-16,Weekly new hospital admissions,26.0,Denmark
+2020-06-17,Weekly new hospital admissions,30.0,Denmark
+2020-06-18,Weekly new hospital admissions,34.0,Denmark
+2020-06-19,Weekly new hospital admissions,32.0,Denmark
+2020-06-20,Weekly new hospital admissions,31.0,Denmark
+2020-06-21,Weekly new hospital admissions,33.0,Denmark
+2020-06-22,Weekly new hospital admissions,35.0,Denmark
+2020-06-23,Weekly new hospital admissions,32.0,Denmark
+2020-06-24,Weekly new hospital admissions,33.0,Denmark
+2020-06-25,Weekly new hospital admissions,33.0,Denmark
+2020-06-26,Weekly new hospital admissions,30.0,Denmark
+2020-06-27,Weekly new hospital admissions,30.0,Denmark
+2020-06-28,Weekly new hospital admissions,32.0,Denmark
+2020-06-29,Weekly new hospital admissions,29.0,Denmark
+2020-07-01,Weekly new hospital admissions,27.0,Denmark
+2020-07-02,Weekly new hospital admissions,25.0,Denmark
+2020-07-03,Weekly new hospital admissions,23.0,Denmark
+2020-07-05,Weekly new hospital admissions,25.0,Denmark
+2020-07-06,Weekly new hospital admissions,25.0,Denmark
+2020-07-07,Weekly new hospital admissions,21.0,Denmark
+2020-07-08,Weekly new hospital admissions,19.0,Denmark
+2020-07-09,Weekly new hospital admissions,20.0,Denmark
+2020-07-10,Weekly new hospital admissions,19.0,Denmark
+2020-07-11,Weekly new hospital admissions,21.0,Denmark
+2020-07-12,Weekly new hospital admissions,19.0,Denmark
+2020-07-14,Weekly new hospital admissions,19.0,Denmark
+2020-07-15,Weekly new hospital admissions,22.0,Denmark
+2020-07-16,Weekly new hospital admissions,22.0,Denmark
+2020-07-17,Weekly new hospital admissions,23.0,Denmark
+2020-07-18,Weekly new hospital admissions,22.0,Denmark
+2020-07-19,Weekly new hospital admissions,19.0,Denmark
+2020-07-20,Weekly new hospital admissions,22.0,Denmark
+2020-07-21,Weekly new hospital admissions,20.0,Denmark
+2020-07-22,Weekly new hospital admissions,19.0,Denmark
+2020-07-23,Weekly new hospital admissions,20.0,Denmark
+2020-07-24,Weekly new hospital admissions,18.0,Denmark
+2020-07-25,Weekly new hospital admissions,21.0,Denmark
+2020-07-26,Weekly new hospital admissions,22.0,Denmark
+2020-07-27,Weekly new hospital admissions,21.0,Denmark
+2020-07-28,Weekly new hospital admissions,21.0,Denmark
+2020-07-29,Weekly new hospital admissions,24.0,Denmark
+2020-07-30,Weekly new hospital admissions,27.0,Denmark
+2020-07-31,Weekly new hospital admissions,28.0,Denmark
+2020-08-01,Weekly new hospital admissions,27.0,Denmark
+2020-08-02,Weekly new hospital admissions,26.0,Denmark
+2020-08-03,Weekly new hospital admissions,30.0,Denmark
+2020-08-04,Weekly new hospital admissions,33.0,Denmark
+2020-08-05,Weekly new hospital admissions,33.0,Denmark
+2020-08-06,Weekly new hospital admissions,32.0,Denmark
+2020-08-07,Weekly new hospital admissions,34.0,Denmark
+2020-08-08,Weekly new hospital admissions,33.0,Denmark
+2020-08-09,Weekly new hospital admissions,34.0,Denmark
+2020-08-10,Weekly new hospital admissions,31.0,Denmark
+2020-08-11,Weekly new hospital admissions,29.0,Denmark
+2020-08-12,Weekly new hospital admissions,25.0,Denmark
+2020-08-13,Weekly new hospital admissions,24.0,Denmark
+2020-08-14,Weekly new hospital admissions,24.0,Denmark
+2020-08-15,Weekly new hospital admissions,23.0,Denmark
+2020-08-16,Weekly new hospital admissions,25.0,Denmark
+2020-08-17,Weekly new hospital admissions,29.0,Denmark
+2020-08-18,Weekly new hospital admissions,27.0,Denmark
+2020-08-19,Weekly new hospital admissions,29.0,Denmark
+2020-08-20,Weekly new hospital admissions,34.0,Denmark
+2020-08-21,Weekly new hospital admissions,34.0,Denmark
+2020-08-22,Weekly new hospital admissions,35.0,Denmark
+2020-08-23,Weekly new hospital admissions,34.0,Denmark
+2020-08-24,Weekly new hospital admissions,28.0,Denmark
+2020-08-25,Weekly new hospital admissions,31.0,Denmark
+2020-08-26,Weekly new hospital admissions,33.0,Denmark
+2020-08-27,Weekly new hospital admissions,26.0,Denmark
+2020-08-28,Weekly new hospital admissions,25.0,Denmark
+2020-08-29,Weekly new hospital admissions,24.0,Denmark
+2020-08-30,Weekly new hospital admissions,24.0,Denmark
+2020-08-31,Weekly new hospital admissions,28.0,Denmark
+2020-09-01,Weekly new hospital admissions,25.0,Denmark
+2020-09-02,Weekly new hospital admissions,22.0,Denmark
+2020-09-03,Weekly new hospital admissions,24.0,Denmark
+2020-09-04,Weekly new hospital admissions,28.0,Denmark
+2020-09-05,Weekly new hospital admissions,39.0,Denmark
+2020-09-06,Weekly new hospital admissions,44.0,Denmark
+2020-09-07,Weekly new hospital admissions,45.0,Denmark
+2020-09-08,Weekly new hospital admissions,50.0,Denmark
+2020-09-09,Weekly new hospital admissions,59.0,Denmark
+2020-09-10,Weekly new hospital admissions,70.0,Denmark
+2020-09-11,Weekly new hospital admissions,73.0,Denmark
+2020-09-12,Weekly new hospital admissions,77.0,Denmark
+2020-09-13,Weekly new hospital admissions,78.0,Denmark
+2020-09-14,Weekly new hospital admissions,84.0,Denmark
+2020-09-15,Weekly new hospital admissions,91.0,Denmark
+2020-09-16,Weekly new hospital admissions,98.0,Denmark
+2020-09-17,Weekly new hospital admissions,96.0,Denmark
+2020-09-18,Weekly new hospital admissions,98.0,Denmark
+2020-09-19,Weekly new hospital admissions,105.0,Denmark
+2020-09-20,Weekly new hospital admissions,114.0,Denmark
+2020-09-21,Weekly new hospital admissions,121.0,Denmark
+2020-09-22,Weekly new hospital admissions,122.0,Denmark
+2020-09-23,Weekly new hospital admissions,126.0,Denmark
+2020-09-24,Weekly new hospital admissions,140.0,Denmark
+2020-09-25,Weekly new hospital admissions,145.0,Denmark
+2020-09-26,Weekly new hospital admissions,133.0,Denmark
+2020-09-27,Weekly new hospital admissions,134.0,Denmark
+2020-09-28,Weekly new hospital admissions,135.0,Denmark
+2020-09-29,Weekly new hospital admissions,135.0,Denmark
+2020-09-30,Weekly new hospital admissions,130.0,Denmark
+2020-10-01,Weekly new hospital admissions,127.0,Denmark
+2020-10-02,Weekly new hospital admissions,128.0,Denmark
+2020-10-03,Weekly new hospital admissions,127.0,Denmark
+2020-10-04,Weekly new hospital admissions,127.0,Denmark
+2020-10-05,Weekly new hospital admissions,136.0,Denmark
+2020-10-06,Weekly new hospital admissions,132.0,Denmark
+2020-10-07,Weekly new hospital admissions,129.0,Denmark
+2020-10-08,Weekly new hospital admissions,115.0,Denmark
+2020-10-09,Weekly new hospital admissions,110.0,Denmark
+2020-10-10,Weekly new hospital admissions,113.0,Denmark
+2020-10-11,Weekly new hospital admissions,107.0,Denmark
+2020-10-12,Weekly new hospital admissions,101.0,Denmark
+2020-10-13,Weekly new hospital admissions,108.0,Denmark
+2020-10-14,Weekly new hospital admissions,112.0,Denmark
+2020-10-15,Weekly new hospital admissions,124.0,Denmark
+2020-10-16,Weekly new hospital admissions,128.0,Denmark
+2020-10-17,Weekly new hospital admissions,129.0,Denmark
+2020-10-18,Weekly new hospital admissions,139.0,Denmark
+2020-10-19,Weekly new hospital admissions,139.0,Denmark
+2020-10-20,Weekly new hospital admissions,141.0,Denmark
+2020-10-21,Weekly new hospital admissions,146.0,Denmark
+2020-10-22,Weekly new hospital admissions,143.0,Denmark
+2020-10-23,Weekly new hospital admissions,150.0,Denmark
+2020-10-24,Weekly new hospital admissions,157.0,Denmark
+2020-10-25,Weekly new hospital admissions,159.0,Denmark
+2020-10-26,Weekly new hospital admissions,166.0,Denmark
+2020-10-27,Weekly new hospital admissions,181.0,Denmark
+2020-10-28,Weekly new hospital admissions,186.0,Denmark
+2020-10-29,Weekly new hospital admissions,205.0,Denmark
+2020-10-30,Weekly new hospital admissions,213.0,Denmark
+2020-10-31,Weekly new hospital admissions,231.0,Denmark
+2020-11-01,Weekly new hospital admissions,241.0,Denmark
+2020-11-02,Weekly new hospital admissions,250.0,Denmark
+2020-11-03,Weekly new hospital admissions,257.0,Denmark
+2020-11-04,Weekly new hospital admissions,279.0,Denmark
+2020-11-05,Weekly new hospital admissions,288.0,Denmark
+2020-11-06,Weekly new hospital admissions,287.0,Denmark
+2020-11-07,Weekly new hospital admissions,275.0,Denmark
+2020-11-08,Weekly new hospital admissions,277.0,Denmark
+2020-11-09,Weekly new hospital admissions,293.0,Denmark
+2020-11-10,Weekly new hospital admissions,289.0,Denmark
+2020-11-11,Weekly new hospital admissions,283.0,Denmark
+2020-11-12,Weekly new hospital admissions,269.0,Denmark
+2020-11-13,Weekly new hospital admissions,276.0,Denmark
+2020-11-14,Weekly new hospital admissions,281.0,Denmark
+2020-11-15,Weekly new hospital admissions,275.0,Denmark
+2020-11-16,Weekly new hospital admissions,270.0,Denmark
+2020-11-17,Weekly new hospital admissions,293.0,Denmark
+2020-11-18,Weekly new hospital admissions,293.0,Denmark
+2020-11-19,Weekly new hospital admissions,302.0,Denmark
+2020-11-20,Weekly new hospital admissions,304.0,Denmark
+2020-11-21,Weekly new hospital admissions,301.0,Denmark
+2020-11-22,Weekly new hospital admissions,308.0,Denmark
+2020-11-23,Weekly new hospital admissions,304.0,Denmark
+2020-11-24,Weekly new hospital admissions,284.0,Denmark
+2020-11-25,Weekly new hospital admissions,286.0,Denmark
+2020-11-26,Weekly new hospital admissions,289.0,Denmark
+2020-11-27,Weekly new hospital admissions,277.0,Denmark
+2020-11-28,Weekly new hospital admissions,277.0,Denmark
+2020-11-29,Weekly new hospital admissions,272.0,Denmark
+2020-11-30,Weekly new hospital admissions,269.0,Denmark
+2020-12-01,Weekly new hospital admissions,279.0,Denmark
+2020-12-02,Weekly new hospital admissions,281.0,Denmark
+2020-12-03,Weekly new hospital admissions,292.0,Denmark
+2020-12-04,Weekly new hospital admissions,319.0,Denmark
+2020-12-05,Weekly new hospital admissions,356.0,Denmark
+2020-12-06,Weekly new hospital admissions,391.0,Denmark
+2020-12-07,Weekly new hospital admissions,438.0,Denmark
+2020-12-08,Weekly new hospital admissions,450.0,Denmark
+2020-12-09,Weekly new hospital admissions,475.0,Denmark
+2020-12-10,Weekly new hospital admissions,519.0,Denmark
+2020-12-11,Weekly new hospital admissions,557.0,Denmark
+2020-12-12,Weekly new hospital admissions,573.0,Denmark
+2020-12-13,Weekly new hospital admissions,607.0,Denmark
+2020-12-14,Weekly new hospital admissions,643.0,Denmark
+2020-12-15,Weekly new hospital admissions,728.0,Denmark
+2020-12-16,Weekly new hospital admissions,792.0,Denmark
+2020-12-17,Weekly new hospital admissions,839.0,Denmark
+2020-12-18,Weekly new hospital admissions,893.0,Denmark
+2020-12-19,Weekly new hospital admissions,962.0,Denmark
+2020-12-20,Weekly new hospital admissions,987.0,Denmark
+2020-12-21,Weekly new hospital admissions,1042.0,Denmark
+2020-12-22,Weekly new hospital admissions,1043.0,Denmark
+2020-12-23,Weekly new hospital admissions,1057.0,Denmark
+2020-12-24,Weekly new hospital admissions,1032.0,Denmark
+2020-12-25,Weekly new hospital admissions,1051.0,Denmark
+2020-12-26,Weekly new hospital admissions,1043.0,Denmark
+2020-12-27,Weekly new hospital admissions,1053.0,Denmark
+2020-12-28,Weekly new hospital admissions,1080.0,Denmark
+2020-12-29,Weekly new hospital admissions,1075.0,Denmark
+2020-12-30,Weekly new hospital admissions,1049.0,Denmark
+2020-12-31,Weekly new hospital admissions,1049.0,Denmark
+2021-01-01,Weekly new hospital admissions,1030.0,Denmark
+2021-01-02,Weekly new hospital admissions,1023.0,Denmark
+2021-01-03,Weekly new hospital admissions,1000.0,Denmark
+2021-01-04,Weekly new hospital admissions,948.0,Denmark
+2021-01-05,Weekly new hospital admissions,910.0,Denmark
+2021-01-06,Weekly new hospital admissions,917.0,Denmark
+2021-01-07,Weekly new hospital admissions,935.0,Denmark
+2021-01-08,Weekly new hospital admissions,905.0,Denmark
+2021-01-09,Weekly new hospital admissions,881.0,Denmark
+2021-01-10,Weekly new hospital admissions,873.0,Denmark
+2021-01-11,Weekly new hospital admissions,839.0,Denmark
+2021-01-12,Weekly new hospital admissions,832.0,Denmark
+2021-01-13,Weekly new hospital admissions,804.0,Denmark
+2021-01-14,Weekly new hospital admissions,753.0,Denmark
+2021-01-15,Weekly new hospital admissions,736.0,Denmark
+2021-01-16,Weekly new hospital admissions,701.0,Denmark
+2021-01-17,Weekly new hospital admissions,675.0,Denmark
+2021-01-18,Weekly new hospital admissions,680.0,Denmark
+2021-01-19,Weekly new hospital admissions,689.0,Denmark
+2021-01-20,Weekly new hospital admissions,650.0,Denmark
+2021-01-21,Weekly new hospital admissions,651.0,Denmark
+2021-01-22,Weekly new hospital admissions,630.0,Denmark
+2021-01-23,Weekly new hospital admissions,610.0,Denmark
+2021-01-24,Weekly new hospital admissions,590.0,Denmark
+2021-01-25,Weekly new hospital admissions,535.0,Denmark
+2021-01-26,Weekly new hospital admissions,478.0,Denmark
+2021-01-27,Weekly new hospital admissions,469.0,Denmark
+2021-01-28,Weekly new hospital admissions,431.0,Denmark
+2021-01-29,Weekly new hospital admissions,400.0,Denmark
+2021-01-30,Weekly new hospital admissions,371.0,Denmark
+2021-01-31,Weekly new hospital admissions,351.0,Denmark
+2021-02-01,Weekly new hospital admissions,325.0,Denmark
+2021-02-02,Weekly new hospital admissions,313.0,Denmark
+2021-02-03,Weekly new hospital admissions,285.0,Denmark
+2021-02-04,Weekly new hospital admissions,267.0,Denmark
+2021-02-05,Weekly new hospital admissions,259.0,Denmark
+2021-02-06,Weekly new hospital admissions,250.0,Denmark
+2021-02-07,Weekly new hospital admissions,240.0,Denmark
+2021-02-08,Weekly new hospital admissions,228.0,Denmark
+2021-02-09,Weekly new hospital admissions,231.0,Denmark
+2021-02-10,Weekly new hospital admissions,237.0,Denmark
+2021-02-11,Weekly new hospital admissions,230.0,Denmark
+2021-02-12,Weekly new hospital admissions,210.0,Denmark
+2021-02-13,Weekly new hospital admissions,223.0,Denmark
+2021-02-14,Weekly new hospital admissions,213.0,Denmark
+2021-02-15,Weekly new hospital admissions,206.0,Denmark
+2021-02-16,Weekly new hospital admissions,186.0,Denmark
+2021-02-17,Weekly new hospital admissions,173.0,Denmark
+2021-02-18,Weekly new hospital admissions,182.0,Denmark
+2021-02-19,Weekly new hospital admissions,193.0,Denmark
+2021-02-20,Weekly new hospital admissions,184.0,Denmark
+2021-02-21,Weekly new hospital admissions,185.0,Denmark
+2021-02-22,Weekly new hospital admissions,188.0,Denmark
+2021-02-23,Weekly new hospital admissions,194.0,Denmark
+2021-02-24,Weekly new hospital admissions,205.0,Denmark
+2021-02-25,Weekly new hospital admissions,204.0,Denmark
+2021-02-26,Weekly new hospital admissions,198.0,Denmark
+2021-02-27,Weekly new hospital admissions,201.0,Denmark
+2021-02-28,Weekly new hospital admissions,202.0,Denmark
+2021-03-01,Weekly new hospital admissions,195.0,Denmark
+2021-03-02,Weekly new hospital admissions,206.0,Denmark
+2021-03-03,Weekly new hospital admissions,203.0,Denmark
+2021-03-04,Weekly new hospital admissions,200.0,Denmark
+2021-03-05,Weekly new hospital admissions,197.0,Denmark
+2021-03-06,Weekly new hospital admissions,213.0,Denmark
+2021-03-07,Weekly new hospital admissions,217.0,Denmark
+2021-03-08,Weekly new hospital admissions,219.0,Denmark
+2021-03-09,Weekly new hospital admissions,217.0,Denmark
+2021-03-10,Weekly new hospital admissions,218.0,Denmark
+2021-03-11,Weekly new hospital admissions,219.0,Denmark
+2021-03-12,Weekly new hospital admissions,216.0,Denmark
+2021-03-13,Weekly new hospital admissions,204.0,Denmark
+2021-03-14,Weekly new hospital admissions,203.0,Denmark
+2021-03-15,Weekly new hospital admissions,206.0,Denmark
+2021-03-16,Weekly new hospital admissions,207.0,Denmark
+2021-03-17,Weekly new hospital admissions,204.0,Denmark
+2021-03-18,Weekly new hospital admissions,202.0,Denmark
+2021-03-19,Weekly new hospital admissions,202.0,Denmark
+2021-03-20,Weekly new hospital admissions,194.0,Denmark
+2021-03-21,Weekly new hospital admissions,201.0,Denmark
+2021-03-22,Weekly new hospital admissions,217.0,Denmark
+2021-03-23,Weekly new hospital admissions,205.0,Denmark
+2021-03-24,Weekly new hospital admissions,209.0,Denmark
+2021-03-25,Weekly new hospital admissions,222.0,Denmark
+2021-03-26,Weekly new hospital admissions,234.0,Denmark
+2021-03-27,Weekly new hospital admissions,250.0,Denmark
+2021-03-28,Weekly new hospital admissions,251.0,Denmark
+2021-03-29,Weekly new hospital admissions,256.0,Denmark
+2021-03-30,Weekly new hospital admissions,266.0,Denmark
+2021-03-31,Weekly new hospital admissions,280.0,Denmark
+2021-04-01,Weekly new hospital admissions,273.0,Denmark
+2021-04-02,Weekly new hospital admissions,276.0,Denmark
+2021-04-03,Weekly new hospital admissions,268.0,Denmark
+2021-04-04,Weekly new hospital admissions,263.0,Denmark
+2021-04-05,Weekly new hospital admissions,239.0,Denmark
+2021-04-06,Weekly new hospital admissions,248.0,Denmark
+2021-04-07,Weekly new hospital admissions,233.0,Denmark
+2021-04-08,Weekly new hospital admissions,231.0,Denmark
+2021-04-09,Weekly new hospital admissions,228.0,Denmark
+2021-04-10,Weekly new hospital admissions,225.0,Denmark
+2021-04-11,Weekly new hospital admissions,221.0,Denmark
+2021-04-12,Weekly new hospital admissions,229.0,Denmark
+2021-04-13,Weekly new hospital admissions,215.0,Denmark
+2021-04-14,Weekly new hospital admissions,211.0,Denmark
+2021-04-15,Weekly new hospital admissions,212.0,Denmark
+2021-04-16,Weekly new hospital admissions,207.0,Denmark
+2021-04-17,Weekly new hospital admissions,214.0,Denmark
+2021-04-18,Weekly new hospital admissions,226.0,Denmark
+2021-04-19,Weekly new hospital admissions,235.0,Denmark
+2021-04-20,Weekly new hospital admissions,241.0,Denmark
+2021-04-21,Weekly new hospital admissions,244.0,Denmark
+2021-04-22,Weekly new hospital admissions,237.0,Denmark
+2021-04-23,Weekly new hospital admissions,240.0,Denmark
+2021-04-24,Weekly new hospital admissions,236.0,Denmark
+2021-04-25,Weekly new hospital admissions,214.0,Denmark
+2021-04-26,Weekly new hospital admissions,198.0,Denmark
+2021-04-27,Weekly new hospital admissions,203.0,Denmark
+2021-04-28,Weekly new hospital admissions,205.0,Denmark
+2021-04-29,Weekly new hospital admissions,216.0,Denmark
+2021-04-30,Weekly new hospital admissions,206.0,Denmark
+2021-05-01,Weekly new hospital admissions,200.0,Denmark
+2021-05-02,Weekly new hospital admissions,213.0,Denmark
+2021-05-03,Weekly new hospital admissions,215.0,Denmark
+2021-05-04,Weekly new hospital admissions,201.0,Denmark
+2021-05-05,Weekly new hospital admissions,191.0,Denmark
+2021-05-06,Weekly new hospital admissions,178.0,Denmark
+2021-05-07,Weekly new hospital admissions,197.0,Denmark
+2021-05-08,Weekly new hospital admissions,207.0,Denmark
+2021-05-09,Weekly new hospital admissions,206.0,Denmark
+2021-05-10,Weekly new hospital admissions,225.0,Denmark
+2021-05-11,Weekly new hospital admissions,220.0,Denmark
+2021-05-12,Weekly new hospital admissions,236.0,Denmark
+2021-05-13,Weekly new hospital admissions,248.0,Denmark
+2021-05-14,Weekly new hospital admissions,253.0,Denmark
+2021-05-15,Weekly new hospital admissions,249.0,Denmark
+2021-05-16,Weekly new hospital admissions,253.0,Denmark
+2021-05-17,Weekly new hospital admissions,232.0,Denmark
+2021-05-18,Weekly new hospital admissions,234.0,Denmark
+2021-05-19,Weekly new hospital admissions,233.0,Denmark
+2021-05-20,Weekly new hospital admissions,217.0,Denmark
+2021-05-21,Weekly new hospital admissions,215.0,Denmark
+2021-05-22,Weekly new hospital admissions,207.0,Denmark
+2021-05-23,Weekly new hospital admissions,204.0,Denmark
+2021-05-24,Weekly new hospital admissions,200.0,Denmark
+2021-05-25,Weekly new hospital admissions,206.0,Denmark
+2021-05-26,Weekly new hospital admissions,199.0,Denmark
+2021-05-27,Weekly new hospital admissions,214.0,Denmark
+2021-05-28,Weekly new hospital admissions,204.0,Denmark
+2021-05-29,Weekly new hospital admissions,206.0,Denmark
+2021-05-30,Weekly new hospital admissions,198.0,Denmark
+2021-05-31,Weekly new hospital admissions,212.0,Denmark
+2021-06-01,Weekly new hospital admissions,211.0,Denmark
+2021-06-02,Weekly new hospital admissions,205.0,Denmark
+2021-06-03,Weekly new hospital admissions,194.0,Denmark
+2021-06-04,Weekly new hospital admissions,184.0,Denmark
+2021-06-05,Weekly new hospital admissions,173.0,Denmark
+2021-06-06,Weekly new hospital admissions,167.0,Denmark
+2021-06-07,Weekly new hospital admissions,156.0,Denmark
+2021-06-08,Weekly new hospital admissions,142.0,Denmark
+2021-06-09,Weekly new hospital admissions,147.0,Denmark
+2021-06-10,Weekly new hospital admissions,138.0,Denmark
+2021-06-11,Weekly new hospital admissions,130.0,Denmark
+2021-06-12,Weekly new hospital admissions,126.0,Denmark
+2021-06-13,Weekly new hospital admissions,131.0,Denmark
+2021-06-14,Weekly new hospital admissions,123.0,Denmark
+2021-06-15,Weekly new hospital admissions,120.0,Denmark
+2021-06-16,Weekly new hospital admissions,101.0,Denmark
+2021-06-17,Weekly new hospital admissions,91.0,Denmark
+2021-06-18,Weekly new hospital admissions,88.0,Denmark
+2021-06-19,Weekly new hospital admissions,90.0,Denmark
+2021-06-20,Weekly new hospital admissions,83.0,Denmark
+2021-06-21,Weekly new hospital admissions,71.0,Denmark
+2021-06-22,Weekly new hospital admissions,67.0,Denmark
+2021-06-23,Weekly new hospital admissions,66.0,Denmark
+2021-06-24,Weekly new hospital admissions,67.0,Denmark
+2021-06-25,Weekly new hospital admissions,63.0,Denmark
+2021-06-26,Weekly new hospital admissions,57.0,Denmark
+2021-06-27,Weekly new hospital admissions,50.0,Denmark
+2021-06-28,Weekly new hospital admissions,47.0,Denmark
+2021-06-29,Weekly new hospital admissions,42.0,Denmark
+2021-06-30,Weekly new hospital admissions,40.0,Denmark
+2021-07-01,Weekly new hospital admissions,43.0,Denmark
+2021-07-02,Weekly new hospital admissions,42.0,Denmark
+2021-07-03,Weekly new hospital admissions,39.0,Denmark
+2021-07-04,Weekly new hospital admissions,39.0,Denmark
+2021-07-05,Weekly new hospital admissions,46.0,Denmark
+2021-07-06,Weekly new hospital admissions,50.0,Denmark
+2021-07-07,Weekly new hospital admissions,50.0,Denmark
+2021-07-08,Weekly new hospital admissions,51.0,Denmark
+2021-07-09,Weekly new hospital admissions,52.0,Denmark
+2021-07-10,Weekly new hospital admissions,57.0,Denmark
+2021-07-11,Weekly new hospital admissions,65.0,Denmark
+2021-07-12,Weekly new hospital admissions,70.0,Denmark
+2021-07-13,Weekly new hospital admissions,82.0,Denmark
+2021-07-14,Weekly new hospital admissions,89.0,Denmark
+2021-07-15,Weekly new hospital admissions,93.0,Denmark
+2021-07-16,Weekly new hospital admissions,101.0,Denmark
+2021-07-17,Weekly new hospital admissions,102.0,Denmark
+2021-07-18,Weekly new hospital admissions,101.0,Denmark
+2021-07-19,Weekly new hospital admissions,104.0,Denmark
+2021-07-20,Weekly new hospital admissions,99.0,Denmark
+2021-07-21,Weekly new hospital admissions,98.0,Denmark
+2021-07-22,Weekly new hospital admissions,96.0,Denmark
+2021-07-23,Weekly new hospital admissions,94.0,Denmark
+2021-07-24,Weekly new hospital admissions,93.0,Denmark
+2021-07-25,Weekly new hospital admissions,99.0,Denmark
+2021-07-26,Weekly new hospital admissions,98.0,Denmark
+2021-07-27,Weekly new hospital admissions,108.0,Denmark
+2021-07-28,Weekly new hospital admissions,110.0,Denmark
+2021-07-29,Weekly new hospital admissions,113.0,Denmark
+2021-07-30,Weekly new hospital admissions,121.0,Denmark
+2021-07-31,Weekly new hospital admissions,123.0,Denmark
+2021-08-01,Weekly new hospital admissions,116.0,Denmark
+2021-08-02,Weekly new hospital admissions,111.0,Denmark
+2021-08-03,Weekly new hospital admissions,105.0,Denmark
+2021-08-04,Weekly new hospital admissions,101.0,Denmark
+2021-08-05,Weekly new hospital admissions,109.0,Denmark
+2021-08-06,Weekly new hospital admissions,106.0,Denmark
+2021-08-07,Weekly new hospital admissions,118.0,Denmark
+2021-08-08,Weekly new hospital admissions,123.0,Denmark
+2021-08-09,Weekly new hospital admissions,136.0,Denmark
+2021-08-10,Weekly new hospital admissions,147.0,Denmark
+2021-08-11,Weekly new hospital admissions,166.0,Denmark
+2021-08-12,Weekly new hospital admissions,166.0,Denmark
+2021-08-13,Weekly new hospital admissions,170.0,Denmark
+2021-08-14,Weekly new hospital admissions,173.0,Denmark
+2021-08-15,Weekly new hospital admissions,188.0,Denmark
+2021-08-16,Weekly new hospital admissions,193.0,Denmark
+2021-08-17,Weekly new hospital admissions,191.0,Denmark
+2021-08-18,Weekly new hospital admissions,194.0,Denmark
+2021-08-19,Weekly new hospital admissions,200.0,Denmark
+2021-08-20,Weekly new hospital admissions,207.0,Denmark
+2021-08-21,Weekly new hospital admissions,221.0,Denmark
+2021-08-22,Weekly new hospital admissions,224.0,Denmark
+2021-08-23,Weekly new hospital admissions,219.0,Denmark
+2021-08-24,Weekly new hospital admissions,226.0,Denmark
+2021-08-25,Weekly new hospital admissions,224.0,Denmark
+2021-08-26,Weekly new hospital admissions,220.0,Denmark
+2021-08-27,Weekly new hospital admissions,228.0,Denmark
+2021-08-28,Weekly new hospital admissions,216.0,Denmark
+2021-08-29,Weekly new hospital admissions,200.0,Denmark
+2021-08-30,Weekly new hospital admissions,213.0,Denmark
+2021-08-31,Weekly new hospital admissions,208.0,Denmark
+2021-09-01,Weekly new hospital admissions,205.0,Denmark
+2021-09-02,Weekly new hospital admissions,205.0,Denmark
+2021-09-03,Weekly new hospital admissions,186.0,Denmark
+2021-09-04,Weekly new hospital admissions,185.0,Denmark
+2021-09-05,Weekly new hospital admissions,189.0,Denmark
+2021-09-06,Weekly new hospital admissions,180.0,Denmark
+2021-09-07,Weekly new hospital admissions,181.0,Denmark
+2021-09-08,Weekly new hospital admissions,175.0,Denmark
+2021-09-09,Weekly new hospital admissions,174.0,Denmark
+2021-09-10,Weekly new hospital admissions,176.0,Denmark
+2021-09-11,Weekly new hospital admissions,161.0,Denmark
+2021-09-12,Weekly new hospital admissions,156.0,Denmark
+2021-09-13,Weekly new hospital admissions,149.0,Denmark
+2021-09-14,Weekly new hospital admissions,129.0,Denmark
+2021-09-15,Weekly new hospital admissions,120.0,Denmark
+2021-09-16,Weekly new hospital admissions,109.0,Denmark
+2021-09-17,Weekly new hospital admissions,100.0,Denmark
+2021-09-18,Weekly new hospital admissions,98.0,Denmark
+2021-09-19,Weekly new hospital admissions,90.0,Denmark
+2021-09-20,Weekly new hospital admissions,84.0,Denmark
+2021-09-21,Weekly new hospital admissions,87.0,Denmark
+2021-09-22,Weekly new hospital admissions,84.0,Denmark
+2021-09-23,Weekly new hospital admissions,79.0,Denmark
+2021-09-24,Weekly new hospital admissions,80.0,Denmark
+2021-09-25,Weekly new hospital admissions,83.0,Denmark
+2021-09-26,Weekly new hospital admissions,93.0,Denmark
+2021-09-27,Weekly new hospital admissions,89.0,Denmark
+2021-09-28,Weekly new hospital admissions,85.0,Denmark
+2021-09-29,Weekly new hospital admissions,91.0,Denmark
+2021-09-30,Weekly new hospital admissions,94.0,Denmark
+2021-10-01,Weekly new hospital admissions,102.0,Denmark
+2021-10-02,Weekly new hospital admissions,96.0,Denmark
+2021-10-03,Weekly new hospital admissions,85.0,Denmark
+2021-10-04,Weekly new hospital admissions,91.0,Denmark
+2021-10-05,Weekly new hospital admissions,104.0,Denmark
+2021-10-06,Weekly new hospital admissions,108.0,Denmark
+2021-10-07,Weekly new hospital admissions,105.0,Denmark
+2021-10-08,Weekly new hospital admissions,96.0,Denmark
+2021-10-09,Weekly new hospital admissions,106.0,Denmark
+2021-10-10,Weekly new hospital admissions,113.0,Denmark
+2021-10-11,Weekly new hospital admissions,112.0,Denmark
+2021-10-12,Weekly new hospital admissions,104.0,Denmark
+2021-10-13,Weekly new hospital admissions,119.0,Denmark
+2021-10-14,Weekly new hospital admissions,133.0,Denmark
+2021-10-15,Weekly new hospital admissions,153.0,Denmark
+2021-10-16,Weekly new hospital admissions,160.0,Denmark
+2021-10-17,Weekly new hospital admissions,165.0,Denmark
+2021-10-18,Weekly new hospital admissions,183.0,Denmark
+2021-10-19,Weekly new hospital admissions,191.0,Denmark
+2021-10-20,Weekly new hospital admissions,192.0,Denmark
+2021-10-21,Weekly new hospital admissions,203.0,Denmark
+2021-10-22,Weekly new hospital admissions,213.0,Denmark
+2021-10-23,Weekly new hospital admissions,224.0,Denmark
+2021-10-24,Weekly new hospital admissions,249.0,Denmark
+2021-10-25,Weekly new hospital admissions,250.0,Denmark
+2021-10-26,Weekly new hospital admissions,265.0,Denmark
+2021-10-27,Weekly new hospital admissions,280.0,Denmark
+2021-10-28,Weekly new hospital admissions,287.0,Denmark
+2021-10-29,Weekly new hospital admissions,293.0,Denmark
+2021-10-30,Weekly new hospital admissions,301.0,Denmark
+2021-10-31,Weekly new hospital admissions,302.0,Denmark
+2021-11-01,Weekly new hospital admissions,329.0,Denmark
+2021-11-02,Weekly new hospital admissions,349.0,Denmark
+2021-11-03,Weekly new hospital admissions,348.0,Denmark
+2021-11-04,Weekly new hospital admissions,369.0,Denmark
+2021-11-05,Weekly new hospital admissions,368.0,Denmark
+2021-11-06,Weekly new hospital admissions,368.0,Denmark
+2021-11-07,Weekly new hospital admissions,378.0,Denmark
+2021-11-08,Weekly new hospital admissions,378.0,Denmark
+2021-11-09,Weekly new hospital admissions,373.0,Denmark
+2021-11-10,Weekly new hospital admissions,391.0,Denmark
+2021-11-11,Weekly new hospital admissions,396.0,Denmark
+2021-11-12,Weekly new hospital admissions,426.0,Denmark
+2021-11-13,Weekly new hospital admissions,447.0,Denmark
+2021-11-14,Weekly new hospital admissions,458.0,Denmark
+2021-11-15,Weekly new hospital admissions,485.0,Denmark
+2021-11-16,Weekly new hospital admissions,517.0,Denmark
+2021-11-17,Weekly new hospital admissions,526.0,Denmark
+2021-11-18,Weekly new hospital admissions,539.0,Denmark
+2021-11-19,Weekly new hospital admissions,538.0,Denmark
+2021-11-20,Weekly new hospital admissions,558.0,Denmark
+2021-11-21,Weekly new hospital admissions,562.0,Denmark
+2021-11-22,Weekly new hospital admissions,560.0,Denmark
+2021-11-23,Weekly new hospital admissions,557.0,Denmark
+2021-11-24,Weekly new hospital admissions,551.0,Denmark
+2021-11-25,Weekly new hospital admissions,555.0,Denmark
+2021-11-26,Weekly new hospital admissions,567.0,Denmark
+2021-11-27,Weekly new hospital admissions,557.0,Denmark
+2021-11-28,Weekly new hospital admissions,563.0,Denmark
+2021-11-29,Weekly new hospital admissions,559.0,Denmark
+2021-11-30,Weekly new hospital admissions,572.0,Denmark
+2021-12-01,Weekly new hospital admissions,583.0,Denmark
+2021-12-02,Weekly new hospital admissions,587.0,Denmark
+2021-12-03,Weekly new hospital admissions,600.0,Denmark
+2021-12-04,Weekly new hospital admissions,618.0,Denmark
+2021-12-05,Weekly new hospital admissions,621.0,Denmark
+2021-12-06,Weekly new hospital admissions,649.0,Denmark
+2021-12-07,Weekly new hospital admissions,650.0,Denmark
+2021-12-08,Weekly new hospital admissions,669.0,Denmark
+2021-12-09,Weekly new hospital admissions,666.0,Denmark
+2021-12-10,Weekly new hospital admissions,683.0,Denmark
+2021-12-11,Weekly new hospital admissions,672.0,Denmark
+2021-12-12,Weekly new hospital admissions,686.0,Denmark
+2021-12-13,Weekly new hospital admissions,695.0,Denmark
+2021-12-14,Weekly new hospital admissions,707.0,Denmark
+2021-12-15,Weekly new hospital admissions,742.0,Denmark
+2021-12-16,Weekly new hospital admissions,772.0,Denmark
+2021-12-17,Weekly new hospital admissions,782.0,Denmark
+2021-12-18,Weekly new hospital admissions,807.0,Denmark
+2021-12-19,Weekly new hospital admissions,810.0,Denmark
+2021-12-20,Weekly new hospital admissions,811.0,Denmark
+2021-12-21,Weekly new hospital admissions,836.0,Denmark
+2021-12-22,Weekly new hospital admissions,843.0,Denmark
+2021-12-23,Weekly new hospital admissions,868.0,Denmark
+2021-12-24,Weekly new hospital admissions,831.0,Denmark
+2021-12-25,Weekly new hospital admissions,848.0,Denmark
+2021-12-26,Weekly new hospital admissions,862.0,Denmark
+2021-12-27,Weekly new hospital admissions,919.0,Denmark
+2021-12-28,Weekly new hospital admissions,960.0,Denmark
+2021-12-29,Weekly new hospital admissions,1000.0,Denmark
+2021-12-30,Weekly new hospital admissions,1031.0,Denmark
+2021-12-31,Weekly new hospital admissions,1062.0,Denmark
+2022-01-01,Weekly new hospital admissions,1114.0,Denmark
+2022-01-02,Weekly new hospital admissions,1185.0,Denmark
+2022-01-03,Weekly new hospital admissions,1230.0,Denmark
+2022-01-04,Weekly new hospital admissions,1242.0,Denmark
+2022-01-05,Weekly new hospital admissions,1218.0,Denmark
+2022-01-06,Weekly new hospital admissions,1224.0,Denmark
+2022-01-07,Weekly new hospital admissions,1251.0,Denmark
+2022-01-08,Weekly new hospital admissions,1208.0,Denmark
+2022-01-09,Weekly new hospital admissions,1186.0,Denmark
+2022-01-10,Weekly new hospital admissions,1159.0,Denmark
+2022-01-11,Weekly new hospital admissions,1183.0,Denmark
+2022-01-12,Weekly new hospital admissions,1216.0,Denmark
+2022-01-13,Weekly new hospital admissions,1252.0,Denmark
+2022-01-14,Weekly new hospital admissions,1293.0,Denmark
+2022-01-15,Weekly new hospital admissions,1331.0,Denmark
+2022-01-16,Weekly new hospital admissions,1377.0,Denmark
+2022-01-17,Weekly new hospital admissions,1440.0,Denmark
+2022-01-18,Weekly new hospital admissions,1483.0,Denmark
+2022-01-19,Weekly new hospital admissions,1517.0,Denmark
+2022-01-20,Weekly new hospital admissions,1532.0,Denmark
+2022-01-21,Weekly new hospital admissions,1578.0,Denmark
+2022-01-22,Weekly new hospital admissions,1628.0,Denmark
+2022-01-23,Weekly new hospital admissions,1670.0,Denmark
+2022-01-24,Weekly new hospital admissions,1714.0,Denmark
+2022-01-25,Weekly new hospital admissions,1765.0,Denmark
+2022-01-26,Weekly new hospital admissions,1833.0,Denmark
+2022-01-27,Weekly new hospital admissions,1914.0,Denmark
+2022-01-28,Weekly new hospital admissions,1947.0,Denmark
+2022-01-29,Weekly new hospital admissions,1966.0,Denmark
+2022-01-30,Weekly new hospital admissions,1972.0,Denmark
+2022-01-31,Weekly new hospital admissions,2010.0,Denmark
+2022-02-01,Weekly new hospital admissions,2058.0,Denmark
+2022-02-02,Weekly new hospital admissions,2133.0,Denmark
+2022-02-03,Weekly new hospital admissions,2174.0,Denmark
+2022-02-04,Weekly new hospital admissions,2276.0,Denmark
+2022-02-05,Weekly new hospital admissions,2337.0,Denmark
+2022-02-06,Weekly new hospital admissions,2404.0,Denmark
+2022-02-07,Weekly new hospital admissions,2512.0,Denmark
+2022-02-08,Weekly new hospital admissions,2577.0,Denmark
+2022-02-09,Weekly new hospital admissions,2648.0,Denmark
+2022-02-10,Weekly new hospital admissions,2706.0,Denmark
+2022-02-11,Weekly new hospital admissions,2747.0,Denmark
+2022-02-12,Weekly new hospital admissions,2744.0,Denmark
+2022-02-13,Weekly new hospital admissions,2785.0,Denmark
+2022-02-14,Weekly new hospital admissions,2813.0,Denmark
+2022-02-15,Weekly new hospital admissions,2844.0,Denmark
+2022-02-16,Weekly new hospital admissions,2858.0,Denmark
+2022-02-17,Weekly new hospital admissions,2911.0,Denmark
+2022-02-18,Weekly new hospital admissions,2896.0,Denmark
+2022-02-19,Weekly new hospital admissions,2905.0,Denmark
+2022-02-20,Weekly new hospital admissions,2898.0,Denmark
+2022-02-21,Weekly new hospital admissions,2907.0,Denmark
+2022-02-22,Weekly new hospital admissions,2868.0,Denmark
+2022-02-23,Weekly new hospital admissions,2801.0,Denmark
+2022-02-24,Weekly new hospital admissions,2730.0,Denmark
+2022-02-25,Weekly new hospital admissions,2691.0,Denmark
+2022-02-26,Weekly new hospital admissions,2632.0,Denmark
+2022-02-27,Weekly new hospital admissions,2546.0,Denmark
+2022-02-28,Weekly new hospital admissions,2473.0,Denmark
+2022-03-01,Weekly new hospital admissions,2410.0,Denmark
+2022-03-02,Weekly new hospital admissions,2321.0,Denmark
+2022-03-03,Weekly new hospital admissions,2241.0,Denmark
+2022-03-04,Weekly new hospital admissions,2241.0,Denmark
+2022-03-05,Weekly new hospital admissions,2210.0,Denmark
+2022-03-06,Weekly new hospital admissions,2184.0,Denmark
+2022-03-07,Weekly new hospital admissions,2081.0,Denmark
+2022-03-08,Weekly new hospital admissions,2019.0,Denmark
+2022-03-09,Weekly new hospital admissions,2001.0,Denmark
+2022-03-10,Weekly new hospital admissions,1935.0,Denmark
+2022-03-11,Weekly new hospital admissions,1828.0,Denmark
+2022-03-12,Weekly new hospital admissions,1811.0,Denmark
+2022-03-13,Weekly new hospital admissions,1756.0,Denmark
+2022-03-14,Weekly new hospital admissions,1734.0,Denmark
+2022-03-15,Weekly new hospital admissions,1699.0,Denmark
+2022-03-16,Weekly new hospital admissions,1644.0,Denmark
+2022-03-17,Weekly new hospital admissions,1618.0,Denmark
+2022-03-18,Weekly new hospital admissions,1556.0,Denmark
+2022-03-19,Weekly new hospital admissions,1527.0,Denmark
+2022-03-20,Weekly new hospital admissions,1491.0,Denmark
+2022-03-21,Weekly new hospital admissions,1419.0,Denmark
+2022-03-22,Weekly new hospital admissions,1365.0,Denmark
+2022-03-23,Weekly new hospital admissions,1375.0,Denmark
+2022-03-24,Weekly new hospital admissions,1312.0,Denmark
+2022-03-25,Weekly new hospital admissions,1282.0,Denmark
+2022-03-26,Weekly new hospital admissions,1223.0,Denmark
+2022-03-27,Weekly new hospital admissions,1187.0,Denmark
+2022-03-28,Weekly new hospital admissions,1151.0,Denmark
+2022-03-29,Weekly new hospital admissions,1111.0,Denmark
+2022-03-30,Weekly new hospital admissions,1028.0,Denmark
+2022-03-31,Weekly new hospital admissions,1015.0,Denmark
+2022-04-01,Weekly new hospital admissions,993.0,Denmark
+2022-04-02,Weekly new hospital admissions,979.0,Denmark
+2022-04-03,Weekly new hospital admissions,969.0,Denmark
+2022-04-04,Weekly new hospital admissions,941.0,Denmark
+2022-04-05,Weekly new hospital admissions,926.0,Denmark
+2022-04-06,Weekly new hospital admissions,910.0,Denmark
+2022-04-07,Weekly new hospital admissions,881.0,Denmark
+2022-04-08,Weekly new hospital admissions,859.0,Denmark
+2022-04-09,Weekly new hospital admissions,859.0,Denmark
+2022-04-10,Weekly new hospital admissions,843.0,Denmark
+2022-04-11,Weekly new hospital admissions,810.0,Denmark
+2022-04-12,Weekly new hospital admissions,776.0,Denmark
+2022-04-13,Weekly new hospital admissions,754.0,Denmark
+2022-04-14,Weekly new hospital admissions,723.0,Denmark
+2022-04-15,Weekly new hospital admissions,695.0,Denmark
+2022-04-16,Weekly new hospital admissions,681.0,Denmark
+2022-04-17,Weekly new hospital admissions,680.0,Denmark
+2022-04-18,Weekly new hospital admissions,647.0,Denmark
+2022-04-19,Weekly new hospital admissions,642.0,Denmark
+2022-04-20,Weekly new hospital admissions,628.0,Denmark
+2022-04-21,Weekly new hospital admissions,637.0,Denmark
+2022-04-22,Weekly new hospital admissions,634.0,Denmark
+2022-04-23,Weekly new hospital admissions,607.0,Denmark
+2022-04-24,Weekly new hospital admissions,588.0,Denmark
+2022-04-25,Weekly new hospital admissions,589.0,Denmark
+2022-04-26,Weekly new hospital admissions,575.0,Denmark
+2022-04-27,Weekly new hospital admissions,536.0,Denmark
+2022-04-28,Weekly new hospital admissions,507.0,Denmark
+2022-04-29,Weekly new hospital admissions,487.0,Denmark
+2022-04-30,Weekly new hospital admissions,481.0,Denmark
+2022-05-01,Weekly new hospital admissions,458.0,Denmark
+2022-05-02,Weekly new hospital admissions,428.0,Denmark
+2022-05-03,Weekly new hospital admissions,402.0,Denmark
+2022-05-04,Weekly new hospital admissions,397.0,Denmark
+2022-05-05,Weekly new hospital admissions,381.0,Denmark
+2022-05-06,Weekly new hospital admissions,378.0,Denmark
+2022-05-07,Weekly new hospital admissions,365.0,Denmark
+2022-05-08,Weekly new hospital admissions,365.0,Denmark
+2022-05-09,Weekly new hospital admissions,359.0,Denmark
+2022-05-10,Weekly new hospital admissions,349.0,Denmark
+2022-05-11,Weekly new hospital admissions,327.0,Denmark
+2022-05-12,Weekly new hospital admissions,320.0,Denmark
+2022-05-13,Weekly new hospital admissions,298.0,Denmark
+2022-05-14,Weekly new hospital admissions,286.0,Denmark
+2022-05-15,Weekly new hospital admissions,277.0,Denmark
+2022-05-16,Weekly new hospital admissions,275.0,Denmark
+2022-05-17,Weekly new hospital admissions,260.0,Denmark
+2022-05-18,Weekly new hospital admissions,258.0,Denmark
+2022-05-19,Weekly new hospital admissions,262.0,Denmark
+2022-05-20,Weekly new hospital admissions,253.0,Denmark
+2022-05-21,Weekly new hospital admissions,263.0,Denmark
+2022-05-22,Weekly new hospital admissions,248.0,Denmark
+2022-05-23,Weekly new hospital admissions,239.0,Denmark
+2022-05-24,Weekly new hospital admissions,229.0,Denmark
+2022-05-25,Weekly new hospital admissions,233.0,Denmark
+2022-05-26,Weekly new hospital admissions,208.0,Denmark
+2022-05-27,Weekly new hospital admissions,207.0,Denmark
+2022-05-28,Weekly new hospital admissions,192.0,Denmark
+2022-05-29,Weekly new hospital admissions,198.0,Denmark
+2022-05-30,Weekly new hospital admissions,187.0,Denmark
+2022-05-31,Weekly new hospital admissions,187.0,Denmark
+2022-06-01,Weekly new hospital admissions,178.0,Denmark
+2022-06-02,Weekly new hospital admissions,187.0,Denmark
+2022-06-03,Weekly new hospital admissions,193.0,Denmark
+2022-06-04,Weekly new hospital admissions,191.0,Denmark
+2022-06-05,Weekly new hospital admissions,200.0,Denmark
+2022-06-06,Weekly new hospital admissions,197.0,Denmark
+2022-06-07,Weekly new hospital admissions,205.0,Denmark
+2022-06-08,Weekly new hospital admissions,205.0,Denmark
+2022-06-09,Weekly new hospital admissions,206.0,Denmark
+2022-06-10,Weekly new hospital admissions,208.0,Denmark
+2022-06-11,Weekly new hospital admissions,225.0,Denmark
+2022-06-12,Weekly new hospital admissions,220.0,Denmark
+2022-06-13,Weekly new hospital admissions,249.0,Denmark
+2022-06-14,Weekly new hospital admissions,262.0,Denmark
+2022-06-15,Weekly new hospital admissions,266.0,Denmark
+2022-06-16,Weekly new hospital admissions,285.0,Denmark
+2022-06-17,Weekly new hospital admissions,290.0,Denmark
+2022-06-18,Weekly new hospital admissions,306.0,Denmark
+2022-06-19,Weekly new hospital admissions,316.0,Denmark
+2022-06-20,Weekly new hospital admissions,309.0,Denmark
+2022-06-21,Weekly new hospital admissions,336.0,Denmark
+2022-06-22,Weekly new hospital admissions,381.0,Denmark
+2022-06-23,Weekly new hospital admissions,398.0,Denmark
+2022-06-24,Weekly new hospital admissions,433.0,Denmark
+2022-06-25,Weekly new hospital admissions,436.0,Denmark
+2022-06-26,Weekly new hospital admissions,464.0,Denmark
+2022-06-27,Weekly new hospital admissions,499.0,Denmark
+2022-06-28,Weekly new hospital admissions,506.0,Denmark
+2022-06-29,Weekly new hospital admissions,506.0,Denmark
+2022-06-30,Weekly new hospital admissions,507.0,Denmark
+2022-07-01,Weekly new hospital admissions,503.0,Denmark
+2022-07-02,Weekly new hospital admissions,507.0,Denmark
+2022-07-03,Weekly new hospital admissions,503.0,Denmark
+2022-07-04,Weekly new hospital admissions,501.0,Denmark
+2022-07-05,Weekly new hospital admissions,495.0,Denmark
+2022-07-06,Weekly new hospital admissions,501.0,Denmark
+2022-07-07,Weekly new hospital admissions,525.0,Denmark
+2022-07-08,Weekly new hospital admissions,556.0,Denmark
+2022-07-09,Weekly new hospital admissions,573.0,Denmark
+2022-07-10,Weekly new hospital admissions,594.0,Denmark
+2022-07-11,Weekly new hospital admissions,627.0,Denmark
+2022-07-12,Weekly new hospital admissions,659.0,Denmark
+2022-07-13,Weekly new hospital admissions,709.0,Denmark
+2022-07-14,Weekly new hospital admissions,723.0,Denmark
+2022-07-15,Weekly new hospital admissions,721.0,Denmark
+2022-07-16,Weekly new hospital admissions,734.0,Denmark
+2022-07-17,Weekly new hospital admissions,756.0,Denmark
+2022-07-18,Weekly new hospital admissions,792.0,Denmark
+2022-07-19,Weekly new hospital admissions,804.0,Denmark
+2022-07-20,Weekly new hospital admissions,797.0,Denmark
+2022-07-21,Weekly new hospital admissions,797.0,Denmark
+2022-07-22,Weekly new hospital admissions,802.0,Denmark
+2022-07-23,Weekly new hospital admissions,790.0,Denmark
+2022-07-24,Weekly new hospital admissions,756.0,Denmark
+2022-07-25,Weekly new hospital admissions,701.0,Denmark
+2022-07-26,Weekly new hospital admissions,667.0,Denmark
+2022-07-27,Weekly new hospital admissions,616.0,Denmark
+2022-07-28,Weekly new hospital admissions,594.0,Denmark
+2022-07-29,Weekly new hospital admissions,582.0,Denmark
+2022-07-30,Weekly new hospital admissions,581.0,Denmark
+2022-07-31,Weekly new hospital admissions,582.0,Denmark
+2022-08-01,Weekly new hospital admissions,576.0,Denmark
+2022-08-02,Weekly new hospital admissions,567.0,Denmark
+2022-08-03,Weekly new hospital admissions,574.0,Denmark
+2022-08-04,Weekly new hospital admissions,574.0,Denmark
+2022-08-05,Weekly new hospital admissions,564.0,Denmark
+2022-08-06,Weekly new hospital admissions,546.0,Denmark
+2022-08-07,Weekly new hospital admissions,536.0,Denmark
+2022-08-08,Weekly new hospital admissions,511.0,Denmark
+2022-08-09,Weekly new hospital admissions,516.0,Denmark
+2022-08-10,Weekly new hospital admissions,520.0,Denmark
+2022-08-11,Weekly new hospital admissions,514.0,Denmark
+2022-08-12,Weekly new hospital admissions,508.0,Denmark
+2022-08-13,Weekly new hospital admissions,539.0,Denmark
+2022-08-14,Weekly new hospital admissions,551.0,Denmark
+2022-08-15,Weekly new hospital admissions,590.0,Denmark
+2022-08-16,Weekly new hospital admissions,607.0,Denmark
+2022-08-17,Weekly new hospital admissions,599.0,Denmark
+2022-08-18,Weekly new hospital admissions,595.0,Denmark
+2022-08-19,Weekly new hospital admissions,577.0,Denmark
+2022-08-20,Weekly new hospital admissions,540.0,Denmark
+2022-08-21,Weekly new hospital admissions,503.0,Denmark
+2022-08-22,Weekly new hospital admissions,450.0,Denmark
+2022-08-23,Weekly new hospital admissions,411.0,Denmark
+2022-08-24,Weekly new hospital admissions,396.0,Denmark
+2022-08-25,Weekly new hospital admissions,389.0,Denmark
+2022-08-26,Weekly new hospital admissions,392.0,Denmark
+2022-08-27,Weekly new hospital admissions,388.0,Denmark
+2022-08-28,Weekly new hospital admissions,386.0,Denmark
+2022-08-29,Weekly new hospital admissions,389.0,Denmark
+2022-08-30,Weekly new hospital admissions,366.0,Denmark
+2022-08-31,Weekly new hospital admissions,346.0,Denmark
+2022-09-01,Weekly new hospital admissions,323.0,Denmark
+2022-09-02,Weekly new hospital admissions,313.0,Denmark
+2022-09-03,Weekly new hospital admissions,304.0,Denmark
+2022-09-04,Weekly new hospital admissions,298.0,Denmark
+2022-09-05,Weekly new hospital admissions,296.0,Denmark
+2022-09-06,Weekly new hospital admissions,310.0,Denmark
+2022-09-07,Weekly new hospital admissions,324.0,Denmark
+2022-09-08,Weekly new hospital admissions,331.0,Denmark
+2022-09-09,Weekly new hospital admissions,323.0,Denmark
+2022-09-10,Weekly new hospital admissions,313.0,Denmark
+2022-09-11,Weekly new hospital admissions,316.0,Denmark
+2022-09-12,Weekly new hospital admissions,319.0,Denmark
+2022-09-13,Weekly new hospital admissions,326.0,Denmark
+2022-09-14,Weekly new hospital admissions,317.0,Denmark
+2022-09-15,Weekly new hospital admissions,313.0,Denmark
+2022-09-16,Weekly new hospital admissions,306.0,Denmark
+2022-09-17,Weekly new hospital admissions,321.0,Denmark
+2022-09-18,Weekly new hospital admissions,335.0,Denmark
+2022-09-19,Weekly new hospital admissions,349.0,Denmark
+2022-09-20,Weekly new hospital admissions,356.0,Denmark
+2022-09-21,Weekly new hospital admissions,375.0,Denmark
+2022-09-22,Weekly new hospital admissions,389.0,Denmark
+2022-09-23,Weekly new hospital admissions,423.0,Denmark
+2022-09-24,Weekly new hospital admissions,439.0,Denmark
+2022-09-25,Weekly new hospital admissions,465.0,Denmark
+2022-09-26,Weekly new hospital admissions,491.0,Denmark
+2022-09-27,Weekly new hospital admissions,520.0,Denmark
+2022-09-28,Weekly new hospital admissions,529.0,Denmark
+2022-09-29,Weekly new hospital admissions,553.0,Denmark
+2022-09-30,Weekly new hospital admissions,566.0,Denmark
+2022-10-01,Weekly new hospital admissions,582.0,Denmark
+2022-10-02,Weekly new hospital admissions,584.0,Denmark
+2022-10-03,Weekly new hospital admissions,596.0,Denmark
+2022-10-04,Weekly new hospital admissions,610.0,Denmark
+2022-10-05,Weekly new hospital admissions,620.0,Denmark
+2022-10-06,Weekly new hospital admissions,624.0,Denmark
+2022-10-07,Weekly new hospital admissions,632.0,Denmark
+2022-10-08,Weekly new hospital admissions,634.0,Denmark
+2022-10-09,Weekly new hospital admissions,631.0,Denmark
+2022-10-10,Weekly new hospital admissions,668.0,Denmark
+2022-10-11,Weekly new hospital admissions,685.0,Denmark
+2022-10-12,Weekly new hospital admissions,696.0,Denmark
+2022-10-13,Weekly new hospital admissions,705.0,Denmark
+2022-10-14,Weekly new hospital admissions,723.0,Denmark
+2022-10-15,Weekly new hospital admissions,742.0,Denmark
+2022-10-16,Weekly new hospital admissions,765.0,Denmark
+2022-10-17,Weekly new hospital admissions,722.0,Denmark
+2022-10-18,Weekly new hospital admissions,704.0,Denmark
+2022-10-19,Weekly new hospital admissions,696.0,Denmark
+2022-10-20,Weekly new hospital admissions,689.0,Denmark
+2022-10-21,Weekly new hospital admissions,655.0,Denmark
+2022-10-22,Weekly new hospital admissions,636.0,Denmark
+2022-10-23,Weekly new hospital admissions,620.0,Denmark
+2022-10-24,Weekly new hospital admissions,611.0,Denmark
+2022-10-25,Weekly new hospital admissions,581.0,Denmark
+2022-10-26,Weekly new hospital admissions,571.0,Denmark
+2022-10-27,Weekly new hospital admissions,552.0,Denmark
+2022-10-28,Weekly new hospital admissions,540.0,Denmark
+2022-10-29,Weekly new hospital admissions,512.0,Denmark
+2022-10-30,Weekly new hospital admissions,467.0,Denmark
+2022-10-31,Weekly new hospital admissions,443.0,Denmark
+2022-11-01,Weekly new hospital admissions,420.0,Denmark
+2022-11-02,Weekly new hospital admissions,392.0,Denmark
+2022-11-03,Weekly new hospital admissions,378.0,Denmark
+2022-11-04,Weekly new hospital admissions,353.0,Denmark
+2022-11-05,Weekly new hospital admissions,332.0,Denmark
+2022-11-06,Weekly new hospital admissions,333.0,Denmark
+2022-11-07,Weekly new hospital admissions,317.0,Denmark
+2022-11-08,Weekly new hospital admissions,315.0,Denmark
+2022-11-09,Weekly new hospital admissions,295.0,Denmark
+2022-11-10,Weekly new hospital admissions,282.0,Denmark
+2022-11-11,Weekly new hospital admissions,285.0,Denmark
+2022-11-12,Weekly new hospital admissions,282.0,Denmark
+2022-11-13,Weekly new hospital admissions,279.0,Denmark
+2022-11-14,Weekly new hospital admissions,269.0,Denmark
+2022-11-15,Weekly new hospital admissions,253.0,Denmark
+2022-11-16,Weekly new hospital admissions,263.0,Denmark
+2022-11-17,Weekly new hospital admissions,257.0,Denmark
+2022-11-18,Weekly new hospital admissions,248.0,Denmark
+2022-11-19,Weekly new hospital admissions,246.0,Denmark
+2022-11-20,Weekly new hospital admissions,246.0,Denmark
+2022-11-21,Weekly new hospital admissions,239.0,Denmark
+2022-11-22,Weekly new hospital admissions,249.0,Denmark
+2022-11-23,Weekly new hospital admissions,246.0,Denmark
+2022-11-24,Weekly new hospital admissions,265.0,Denmark
+2022-11-25,Weekly new hospital admissions,277.0,Denmark
+2022-11-26,Weekly new hospital admissions,290.0,Denmark
+2022-11-27,Weekly new hospital admissions,300.0,Denmark
+2022-11-28,Weekly new hospital admissions,340.0,Denmark
+2022-11-29,Weekly new hospital admissions,364.0,Denmark
+2022-11-30,Weekly new hospital admissions,385.0,Denmark
+2022-12-01,Weekly new hospital admissions,399.0,Denmark
+2022-12-02,Weekly new hospital admissions,414.0,Denmark
+2022-12-03,Weekly new hospital admissions,431.0,Denmark
+2022-12-04,Weekly new hospital admissions,444.0,Denmark
+2022-12-05,Weekly new hospital admissions,448.0,Denmark
+2022-12-06,Weekly new hospital admissions,460.0,Denmark
+2022-12-07,Weekly new hospital admissions,472.0,Denmark
+2022-12-08,Weekly new hospital admissions,476.0,Denmark
+2022-12-09,Weekly new hospital admissions,482.0,Denmark
+2022-12-10,Weekly new hospital admissions,497.0,Denmark
+2022-12-11,Weekly new hospital admissions,524.0,Denmark
+2022-12-12,Weekly new hospital admissions,544.0,Denmark
+2022-12-13,Weekly new hospital admissions,556.0,Denmark
+2022-12-14,Weekly new hospital admissions,603.0,Denmark
+2022-12-15,Weekly new hospital admissions,625.0,Denmark
+2022-12-16,Weekly new hospital admissions,663.0,Denmark
+2022-12-17,Weekly new hospital admissions,680.0,Denmark
+2022-12-18,Weekly new hospital admissions,699.0,Denmark
+2022-12-19,Weekly new hospital admissions,741.0,Denmark
+2022-12-20,Weekly new hospital admissions,779.0,Denmark
+2022-12-21,Weekly new hospital admissions,788.0,Denmark
+2022-12-22,Weekly new hospital admissions,823.0,Denmark
+2022-12-23,Weekly new hospital admissions,834.0,Denmark
+2022-12-24,Weekly new hospital admissions,830.0,Denmark
+2022-12-25,Weekly new hospital admissions,840.0,Denmark
+2022-12-26,Weekly new hospital admissions,801.0,Denmark
+2022-12-27,Weekly new hospital admissions,811.0,Denmark
+2022-12-28,Weekly new hospital admissions,825.0,Denmark
+2022-12-29,Weekly new hospital admissions,830.0,Denmark
+2022-12-30,Weekly new hospital admissions,815.0,Denmark
+2022-12-31,Weekly new hospital admissions,820.0,Denmark
+2023-01-01,Weekly new hospital admissions,804.0,Denmark
+2023-01-02,Weekly new hospital admissions,823.0,Denmark
+2023-01-03,Weekly new hospital admissions,806.0,Denmark
+2023-01-04,Weekly new hospital admissions,765.0,Denmark
+2023-01-05,Weekly new hospital admissions,733.0,Denmark
+2023-01-06,Weekly new hospital admissions,721.0,Denmark
+2023-01-07,Weekly new hospital admissions,687.0,Denmark
+2023-01-08,Weekly new hospital admissions,644.0,Denmark
+2023-01-09,Weekly new hospital admissions,588.0,Denmark
+2023-01-10,Weekly new hospital admissions,530.0,Denmark
+2023-01-11,Weekly new hospital admissions,493.0,Denmark
+2023-01-12,Weekly new hospital admissions,452.0,Denmark
+2023-01-13,Weekly new hospital admissions,412.0,Denmark
+2023-01-14,Weekly new hospital admissions,395.0,Denmark
+2023-01-15,Weekly new hospital admissions,391.0,Denmark
+2023-01-16,Weekly new hospital admissions,377.0,Denmark
+2023-01-17,Weekly new hospital admissions,345.0,Denmark
+2023-01-18,Weekly new hospital admissions,313.0,Denmark
+2023-01-19,Weekly new hospital admissions,289.0,Denmark
+2023-01-20,Weekly new hospital admissions,265.0,Denmark
+2023-01-21,Weekly new hospital admissions,251.0,Denmark
+2023-01-22,Weekly new hospital admissions,229.0,Denmark
+2023-01-23,Weekly new hospital admissions,197.0,Denmark
+2023-01-24,Weekly new hospital admissions,190.0,Denmark
+2023-01-25,Weekly new hospital admissions,179.0,Denmark
+2023-01-26,Weekly new hospital admissions,161.0,Denmark
+2023-01-27,Weekly new hospital admissions,159.0,Denmark
+2023-01-28,Weekly new hospital admissions,155.0,Denmark
+2023-01-29,Weekly new hospital admissions,146.0,Denmark
+2023-01-30,Weekly new hospital admissions,155.0,Denmark
+2023-01-31,Weekly new hospital admissions,158.0,Denmark
+2023-02-01,Weekly new hospital admissions,165.0,Denmark
+2023-02-02,Weekly new hospital admissions,168.0,Denmark
+2023-02-03,Weekly new hospital admissions,171.0,Denmark
+2023-02-04,Weekly new hospital admissions,171.0,Denmark
+2023-02-05,Weekly new hospital admissions,178.0,Denmark
+2023-02-06,Weekly new hospital admissions,183.0,Denmark
+2023-02-07,Weekly new hospital admissions,192.0,Denmark
+2023-02-08,Weekly new hospital admissions,187.0,Denmark
+2023-02-09,Weekly new hospital admissions,188.0,Denmark
+2023-02-10,Weekly new hospital admissions,189.0,Denmark
+2023-02-11,Weekly new hospital admissions,193.0,Denmark
+2023-02-12,Weekly new hospital admissions,184.0,Denmark
+2023-02-13,Weekly new hospital admissions,184.0,Denmark
+2023-02-14,Weekly new hospital admissions,177.0,Denmark
+2023-02-15,Weekly new hospital admissions,184.0,Denmark
+2023-02-16,Weekly new hospital admissions,181.0,Denmark
+2023-02-17,Weekly new hospital admissions,179.0,Denmark
+2023-02-18,Weekly new hospital admissions,189.0,Denmark
+2023-02-19,Weekly new hospital admissions,194.0,Denmark
+2023-02-20,Weekly new hospital admissions,187.0,Denmark
+2023-02-21,Weekly new hospital admissions,185.0,Denmark
+2023-02-22,Weekly new hospital admissions,184.0,Denmark
+2023-02-23,Weekly new hospital admissions,196.0,Denmark
+2023-02-24,Weekly new hospital admissions,197.0,Denmark
+2023-02-25,Weekly new hospital admissions,186.0,Denmark
+2023-02-26,Weekly new hospital admissions,186.0,Denmark
+2023-02-27,Weekly new hospital admissions,192.0,Denmark
+2023-02-28,Weekly new hospital admissions,193.0,Denmark
+2023-03-01,Weekly new hospital admissions,195.0,Denmark
+2023-03-02,Weekly new hospital admissions,196.0,Denmark
+2023-03-03,Weekly new hospital admissions,196.0,Denmark
+2023-03-04,Weekly new hospital admissions,209.0,Denmark
+2023-03-05,Weekly new hospital admissions,218.0,Denmark
+2023-03-06,Weekly new hospital admissions,233.0,Denmark
+2023-03-07,Weekly new hospital admissions,251.0,Denmark
+2023-03-08,Weekly new hospital admissions,260.0,Denmark
+2023-03-09,Weekly new hospital admissions,255.0,Denmark
+2023-03-10,Weekly new hospital admissions,265.0,Denmark
+2023-03-11,Weekly new hospital admissions,268.0,Denmark
+2023-03-12,Weekly new hospital admissions,254.0,Denmark
+2023-03-13,Weekly new hospital admissions,257.0,Denmark
+2023-03-14,Weekly new hospital admissions,267.0,Denmark
+2023-03-15,Weekly new hospital admissions,303.0,Denmark
+2023-03-16,Weekly new hospital admissions,336.0,Denmark
+2023-03-17,Weekly new hospital admissions,361.0,Denmark
+2023-03-18,Weekly new hospital admissions,384.0,Denmark
+2023-03-19,Weekly new hospital admissions,424.0,Denmark
+2023-03-20,Weekly new hospital admissions,450.0,Denmark
+2023-03-21,Weekly new hospital admissions,468.0,Denmark
+2023-03-22,Weekly new hospital admissions,459.0,Denmark
+2023-03-23,Weekly new hospital admissions,455.0,Denmark
+2023-03-24,Weekly new hospital admissions,466.0,Denmark
+2023-03-25,Weekly new hospital admissions,474.0,Denmark
+2023-03-26,Weekly new hospital admissions,474.0,Denmark
+2023-03-27,Weekly new hospital admissions,488.0,Denmark
+2023-03-28,Weekly new hospital admissions,474.0,Denmark
+2023-03-29,Weekly new hospital admissions,479.0,Denmark
+2023-03-30,Weekly new hospital admissions,469.0,Denmark
+2023-03-31,Weekly new hospital admissions,456.0,Denmark
+2023-04-01,Weekly new hospital admissions,460.0,Denmark
+2023-04-02,Weekly new hospital admissions,455.0,Denmark
+2023-04-03,Weekly new hospital admissions,439.0,Denmark
+2023-04-04,Weekly new hospital admissions,443.0,Denmark
+2023-04-05,Weekly new hospital admissions,433.0,Denmark
+2023-04-06,Weekly new hospital admissions,458.0,Denmark
+2023-04-07,Weekly new hospital admissions,467.0,Denmark
+2023-04-08,Weekly new hospital admissions,470.0,Denmark
+2023-04-09,Weekly new hospital admissions,490.0,Denmark
+2023-04-10,Weekly new hospital admissions,481.0,Denmark
+2023-04-11,Weekly new hospital admissions,490.0,Denmark
+2023-04-12,Weekly new hospital admissions,508.0,Denmark
+2023-04-13,Weekly new hospital admissions,504.0,Denmark
+2023-04-14,Weekly new hospital admissions,499.0,Denmark
+2023-04-15,Weekly new hospital admissions,479.0,Denmark
+2023-04-16,Weekly new hospital admissions,458.0,Denmark
+2023-04-17,Weekly new hospital admissions,451.0,Denmark
+2023-04-18,Weekly new hospital admissions,425.0,Denmark
+2023-04-19,Weekly new hospital admissions,404.0,Denmark
+2023-04-20,Weekly new hospital admissions,394.0,Denmark
+2023-04-21,Weekly new hospital admissions,391.0,Denmark
+2023-04-22,Weekly new hospital admissions,383.0,Denmark
+2023-04-23,Weekly new hospital admissions,383.0,Denmark
+2023-04-24,Weekly new hospital admissions,389.0,Denmark
+2023-04-25,Weekly new hospital admissions,396.0,Denmark
+2023-04-26,Weekly new hospital admissions,373.0,Denmark
+2023-04-27,Weekly new hospital admissions,371.0,Denmark
+2023-04-28,Weekly new hospital admissions,349.0,Denmark
+2023-04-29,Weekly new hospital admissions,341.0,Denmark
+2023-04-30,Weekly new hospital admissions,325.0,Denmark
+2023-05-01,Weekly new hospital admissions,319.0,Denmark
+2023-05-02,Weekly new hospital admissions,311.0,Denmark
+2023-05-03,Weekly new hospital admissions,325.0,Denmark
+2023-05-04,Weekly new hospital admissions,312.0,Denmark
+2023-05-05,Weekly new hospital admissions,308.0,Denmark
+2023-05-06,Weekly new hospital admissions,310.0,Denmark
+2023-05-07,Weekly new hospital admissions,327.0,Denmark
+2023-05-08,Weekly new hospital admissions,330.0,Denmark
+2023-05-09,Weekly new hospital admissions,337.0,Denmark
+2023-05-10,Weekly new hospital admissions,341.0,Denmark
+2023-05-11,Weekly new hospital admissions,348.0,Denmark
+2023-05-12,Weekly new hospital admissions,350.0,Denmark
+2023-05-13,Weekly new hospital admissions,346.0,Denmark
+2023-05-14,Weekly new hospital admissions,330.0,Denmark
+2023-05-15,Weekly new hospital admissions,323.0,Denmark
+2023-05-16,Weekly new hospital admissions,301.0,Denmark
+2023-05-17,Weekly new hospital admissions,272.0,Denmark
+2023-05-18,Weekly new hospital admissions,250.0,Denmark
+2023-05-19,Weekly new hospital admissions,248.0,Denmark
+2023-05-20,Weekly new hospital admissions,238.0,Denmark
+2023-05-21,Weekly new hospital admissions,240.0,Denmark
+2023-05-22,Weekly new hospital admissions,212.0,Denmark
+2023-05-23,Weekly new hospital admissions,203.0,Denmark
+2023-05-24,Weekly new hospital admissions,205.0,Denmark
+2023-05-25,Weekly new hospital admissions,198.0,Denmark
+2023-05-26,Weekly new hospital admissions,182.0,Denmark
+2023-05-27,Weekly new hospital admissions,170.0,Denmark
+2023-05-28,Weekly new hospital admissions,149.0,Denmark
+2023-05-29,Weekly new hospital admissions,143.0,Denmark
+2023-05-30,Weekly new hospital admissions,142.0,Denmark
+2023-05-31,Weekly new hospital admissions,135.0,Denmark
+2023-06-01,Weekly new hospital admissions,127.0,Denmark
+2023-06-02,Weekly new hospital admissions,124.0,Denmark
+2023-06-03,Weekly new hospital admissions,126.0,Denmark
+2023-06-04,Weekly new hospital admissions,120.0,Denmark
+2023-06-05,Weekly new hospital admissions,113.0,Denmark
+2023-06-06,Weekly new hospital admissions,105.0,Denmark
+2023-06-07,Weekly new hospital admissions,99.0,Denmark
+2023-06-08,Weekly new hospital admissions,98.0,Denmark
+2023-06-09,Weekly new hospital admissions,94.0,Denmark
+2023-06-10,Weekly new hospital admissions,94.0,Denmark
+2023-06-11,Weekly new hospital admissions,92.0,Denmark
+2023-06-12,Weekly new hospital admissions,89.0,Denmark
+2020-02-24,Daily ICU occupancy,0.0,Denmark
+2020-02-25,Daily ICU occupancy,0.0,Denmark
+2020-02-26,Daily ICU occupancy,0.0,Denmark
+2020-02-27,Daily ICU occupancy,0.0,Denmark
+2020-02-28,Daily ICU occupancy,0.0,Denmark
+2020-02-29,Daily ICU occupancy,0.0,Denmark
+2020-03-01,Daily ICU occupancy,0.0,Denmark
+2020-03-02,Daily ICU occupancy,0.0,Denmark
+2020-03-03,Daily ICU occupancy,0.0,Denmark
+2020-03-04,Daily ICU occupancy,0.0,Denmark
+2020-03-05,Daily ICU occupancy,0.0,Denmark
+2020-03-06,Daily ICU occupancy,0.0,Denmark
+2020-03-07,Daily ICU occupancy,0.0,Denmark
+2020-03-08,Daily ICU occupancy,0.0,Denmark
+2020-03-09,Daily ICU occupancy,0.0,Denmark
+2020-03-10,Daily ICU occupancy,0.0,Denmark
+2020-03-11,Daily ICU occupancy,2.0,Denmark
+2020-03-12,Daily ICU occupancy,3.0,Denmark
+2020-03-13,Daily ICU occupancy,4.0,Denmark
+2020-03-14,Daily ICU occupancy,3.0,Denmark
+2020-03-15,Daily ICU occupancy,2.0,Denmark
+2020-03-16,Daily ICU occupancy,10.0,Denmark
+2020-03-17,Daily ICU occupancy,18.0,Denmark
+2020-03-18,Daily ICU occupancy,24.0,Denmark
+2020-03-19,Daily ICU occupancy,30.0,Denmark
+2020-03-20,Daily ICU occupancy,37.0,Denmark
+2020-03-21,Daily ICU occupancy,42.0,Denmark
+2020-03-22,Daily ICU occupancy,46.0,Denmark
+2020-03-23,Daily ICU occupancy,55.0,Denmark
+2020-03-24,Daily ICU occupancy,69.0,Denmark
+2020-03-25,Daily ICU occupancy,87.0,Denmark
+2020-03-26,Daily ICU occupancy,94.0,Denmark
+2020-03-27,Daily ICU occupancy,109.0,Denmark
+2020-03-28,Daily ICU occupancy,121.0,Denmark
+2020-03-29,Daily ICU occupancy,131.0,Denmark
+2020-03-30,Daily ICU occupancy,137.0,Denmark
+2020-03-31,Daily ICU occupancy,145.0,Denmark
+2020-04-01,Daily ICU occupancy,146.0,Denmark
+2020-04-02,Daily ICU occupancy,153.0,Denmark
+2020-04-03,Daily ICU occupancy,143.0,Denmark
+2020-04-04,Daily ICU occupancy,142.0,Denmark
+2020-04-05,Daily ICU occupancy,144.0,Denmark
+2020-04-06,Daily ICU occupancy,139.0,Denmark
+2020-04-07,Daily ICU occupancy,127.0,Denmark
+2020-04-08,Daily ICU occupancy,127.0,Denmark
+2020-04-09,Daily ICU occupancy,120.0,Denmark
+2020-04-10,Daily ICU occupancy,113.0,Denmark
+2020-04-11,Daily ICU occupancy,106.0,Denmark
+2020-04-12,Daily ICU occupancy,104.0,Denmark
+2020-04-13,Daily ICU occupancy,100.0,Denmark
+2020-04-14,Daily ICU occupancy,93.0,Denmark
+2020-04-15,Daily ICU occupancy,89.0,Denmark
+2020-04-16,Daily ICU occupancy,92.0,Denmark
+2020-04-17,Daily ICU occupancy,93.0,Denmark
+2020-04-18,Daily ICU occupancy,87.0,Denmark
+2020-04-19,Daily ICU occupancy,84.0,Denmark
+2020-04-20,Daily ICU occupancy,84.0,Denmark
+2020-04-21,Daily ICU occupancy,81.0,Denmark
+2020-04-22,Daily ICU occupancy,80.0,Denmark
+2020-04-23,Daily ICU occupancy,74.0,Denmark
+2020-04-24,Daily ICU occupancy,69.0,Denmark
+2020-04-25,Daily ICU occupancy,70.0,Denmark
+2020-04-26,Daily ICU occupancy,70.0,Denmark
+2020-04-27,Daily ICU occupancy,72.0,Denmark
+2020-04-28,Daily ICU occupancy,66.0,Denmark
+2020-04-29,Daily ICU occupancy,66.0,Denmark
+2020-04-30,Daily ICU occupancy,62.0,Denmark
+2020-05-01,Daily ICU occupancy,61.0,Denmark
+2020-05-02,Daily ICU occupancy,60.0,Denmark
+2020-05-03,Daily ICU occupancy,62.0,Denmark
+2020-05-04,Daily ICU occupancy,57.0,Denmark
+2020-05-05,Daily ICU occupancy,49.0,Denmark
+2020-05-06,Daily ICU occupancy,46.0,Denmark
+2020-05-07,Daily ICU occupancy,43.0,Denmark
+2020-05-08,Daily ICU occupancy,42.0,Denmark
+2020-05-09,Daily ICU occupancy,39.0,Denmark
+2020-05-10,Daily ICU occupancy,40.0,Denmark
+2020-05-11,Daily ICU occupancy,43.0,Denmark
+2020-05-12,Daily ICU occupancy,43.0,Denmark
+2020-05-13,Daily ICU occupancy,37.0,Denmark
+2020-05-14,Daily ICU occupancy,35.0,Denmark
+2020-05-15,Daily ICU occupancy,32.0,Denmark
+2020-05-16,Daily ICU occupancy,28.0,Denmark
+2020-05-17,Daily ICU occupancy,27.0,Denmark
+2020-05-18,Daily ICU occupancy,26.0,Denmark
+2020-05-19,Daily ICU occupancy,25.0,Denmark
+2020-05-20,Daily ICU occupancy,25.0,Denmark
+2020-05-21,Daily ICU occupancy,25.0,Denmark
+2020-05-22,Daily ICU occupancy,23.0,Denmark
+2020-05-23,Daily ICU occupancy,19.0,Denmark
+2020-05-24,Daily ICU occupancy,21.0,Denmark
+2020-05-25,Daily ICU occupancy,20.0,Denmark
+2020-05-26,Daily ICU occupancy,23.0,Denmark
+2020-05-27,Daily ICU occupancy,22.0,Denmark
+2020-05-28,Daily ICU occupancy,20.0,Denmark
+2020-05-29,Daily ICU occupancy,18.0,Denmark
+2020-05-30,Daily ICU occupancy,20.0,Denmark
+2020-05-31,Daily ICU occupancy,20.0,Denmark
+2020-06-01,Daily ICU occupancy,20.0,Denmark
+2020-06-02,Daily ICU occupancy,21.0,Denmark
+2020-06-03,Daily ICU occupancy,20.0,Denmark
+2020-06-04,Daily ICU occupancy,17.0,Denmark
+2020-06-05,Daily ICU occupancy,17.0,Denmark
+2020-06-06,Daily ICU occupancy,15.0,Denmark
+2020-06-07,Daily ICU occupancy,15.0,Denmark
+2020-06-08,Daily ICU occupancy,16.0,Denmark
+2020-06-09,Daily ICU occupancy,15.0,Denmark
+2020-06-10,Daily ICU occupancy,17.0,Denmark
+2020-06-11,Daily ICU occupancy,14.0,Denmark
+2020-06-12,Daily ICU occupancy,14.0,Denmark
+2020-06-13,Daily ICU occupancy,11.0,Denmark
+2020-06-14,Daily ICU occupancy,11.0,Denmark
+2020-06-15,Daily ICU occupancy,10.0,Denmark
+2020-06-16,Daily ICU occupancy,9.0,Denmark
+2020-06-17,Daily ICU occupancy,6.0,Denmark
+2020-06-18,Daily ICU occupancy,6.0,Denmark
+2020-06-19,Daily ICU occupancy,6.0,Denmark
+2020-06-20,Daily ICU occupancy,6.0,Denmark
+2020-06-21,Daily ICU occupancy,6.0,Denmark
+2020-06-22,Daily ICU occupancy,7.0,Denmark
+2020-06-23,Daily ICU occupancy,8.0,Denmark
+2020-06-24,Daily ICU occupancy,8.0,Denmark
+2020-06-25,Daily ICU occupancy,9.0,Denmark
+2020-06-26,Daily ICU occupancy,11.0,Denmark
+2020-06-27,Daily ICU occupancy,11.0,Denmark
+2020-06-28,Daily ICU occupancy,11.0,Denmark
+2020-06-29,Daily ICU occupancy,9.0,Denmark
+2020-06-30,Daily ICU occupancy,10.0,Denmark
+2020-07-01,Daily ICU occupancy,11.0,Denmark
+2020-07-02,Daily ICU occupancy,9.0,Denmark
+2020-07-03,Daily ICU occupancy,6.0,Denmark
+2020-07-04,Daily ICU occupancy,6.0,Denmark
+2020-07-05,Daily ICU occupancy,6.0,Denmark
+2020-07-06,Daily ICU occupancy,7.0,Denmark
+2020-07-07,Daily ICU occupancy,5.0,Denmark
+2020-07-08,Daily ICU occupancy,5.0,Denmark
+2020-07-09,Daily ICU occupancy,5.0,Denmark
+2020-07-10,Daily ICU occupancy,4.0,Denmark
+2020-07-11,Daily ICU occupancy,4.0,Denmark
+2020-07-12,Daily ICU occupancy,4.0,Denmark
+2020-07-13,Daily ICU occupancy,6.0,Denmark
+2020-07-14,Daily ICU occupancy,6.0,Denmark
+2020-07-15,Daily ICU occupancy,6.0,Denmark
+2020-07-16,Daily ICU occupancy,5.0,Denmark
+2020-07-17,Daily ICU occupancy,5.0,Denmark
+2020-07-18,Daily ICU occupancy,5.0,Denmark
+2020-07-19,Daily ICU occupancy,5.0,Denmark
+2020-07-20,Daily ICU occupancy,3.0,Denmark
+2020-07-21,Daily ICU occupancy,4.0,Denmark
+2020-07-22,Daily ICU occupancy,4.0,Denmark
+2020-07-23,Daily ICU occupancy,3.0,Denmark
+2020-07-24,Daily ICU occupancy,3.0,Denmark
+2020-07-25,Daily ICU occupancy,3.0,Denmark
+2020-07-26,Daily ICU occupancy,3.0,Denmark
+2020-07-27,Daily ICU occupancy,3.0,Denmark
+2020-07-28,Daily ICU occupancy,3.0,Denmark
+2020-07-29,Daily ICU occupancy,3.0,Denmark
+2020-07-30,Daily ICU occupancy,3.0,Denmark
+2020-07-31,Daily ICU occupancy,3.0,Denmark
+2020-08-01,Daily ICU occupancy,3.0,Denmark
+2020-08-02,Daily ICU occupancy,3.0,Denmark
+2020-08-03,Daily ICU occupancy,2.0,Denmark
+2020-08-04,Daily ICU occupancy,3.0,Denmark
+2020-08-05,Daily ICU occupancy,2.0,Denmark
+2020-08-06,Daily ICU occupancy,2.0,Denmark
+2020-08-07,Daily ICU occupancy,2.0,Denmark
+2020-08-08,Daily ICU occupancy,2.0,Denmark
+2020-08-09,Daily ICU occupancy,2.0,Denmark
+2020-08-10,Daily ICU occupancy,2.0,Denmark
+2020-08-11,Daily ICU occupancy,2.0,Denmark
+2020-08-12,Daily ICU occupancy,1.0,Denmark
+2020-08-13,Daily ICU occupancy,1.0,Denmark
+2020-08-14,Daily ICU occupancy,1.0,Denmark
+2020-08-15,Daily ICU occupancy,1.0,Denmark
+2020-08-16,Daily ICU occupancy,1.0,Denmark
+2020-08-17,Daily ICU occupancy,1.0,Denmark
+2020-08-18,Daily ICU occupancy,1.0,Denmark
+2020-08-19,Daily ICU occupancy,1.0,Denmark
+2020-08-20,Daily ICU occupancy,1.0,Denmark
+2020-08-21,Daily ICU occupancy,1.0,Denmark
+2020-08-22,Daily ICU occupancy,1.0,Denmark
+2020-08-23,Daily ICU occupancy,1.0,Denmark
+2020-08-24,Daily ICU occupancy,3.0,Denmark
+2020-08-25,Daily ICU occupancy,3.0,Denmark
+2020-08-26,Daily ICU occupancy,3.0,Denmark
+2020-08-27,Daily ICU occupancy,2.0,Denmark
+2020-08-28,Daily ICU occupancy,2.0,Denmark
+2020-08-29,Daily ICU occupancy,4.0,Denmark
+2020-08-30,Daily ICU occupancy,4.0,Denmark
+2020-08-31,Daily ICU occupancy,4.0,Denmark
+2020-09-01,Daily ICU occupancy,4.0,Denmark
+2020-09-02,Daily ICU occupancy,4.0,Denmark
+2020-09-03,Daily ICU occupancy,3.0,Denmark
+2020-09-04,Daily ICU occupancy,3.0,Denmark
+2020-09-05,Daily ICU occupancy,3.0,Denmark
+2020-09-06,Daily ICU occupancy,4.0,Denmark
+2020-09-07,Daily ICU occupancy,3.0,Denmark
+2020-09-08,Daily ICU occupancy,3.0,Denmark
+2020-09-09,Daily ICU occupancy,5.0,Denmark
+2020-09-10,Daily ICU occupancy,5.0,Denmark
+2020-09-11,Daily ICU occupancy,7.0,Denmark
+2020-09-12,Daily ICU occupancy,4.0,Denmark
+2020-09-13,Daily ICU occupancy,4.0,Denmark
+2020-09-14,Daily ICU occupancy,4.0,Denmark
+2020-09-15,Daily ICU occupancy,3.0,Denmark
+2020-09-16,Daily ICU occupancy,3.0,Denmark
+2020-09-17,Daily ICU occupancy,3.0,Denmark
+2020-09-18,Daily ICU occupancy,3.0,Denmark
+2020-09-19,Daily ICU occupancy,4.0,Denmark
+2020-09-20,Daily ICU occupancy,9.0,Denmark
+2020-09-21,Daily ICU occupancy,12.0,Denmark
+2020-09-22,Daily ICU occupancy,14.0,Denmark
+2020-09-23,Daily ICU occupancy,15.0,Denmark
+2020-09-24,Daily ICU occupancy,14.0,Denmark
+2020-09-25,Daily ICU occupancy,16.0,Denmark
+2020-09-26,Daily ICU occupancy,17.0,Denmark
+2020-09-27,Daily ICU occupancy,17.0,Denmark
+2020-09-28,Daily ICU occupancy,17.0,Denmark
+2020-09-29,Daily ICU occupancy,15.0,Denmark
+2020-09-30,Daily ICU occupancy,15.0,Denmark
+2020-10-01,Daily ICU occupancy,13.0,Denmark
+2020-10-02,Daily ICU occupancy,17.0,Denmark
+2020-10-03,Daily ICU occupancy,17.0,Denmark
+2020-10-04,Daily ICU occupancy,18.0,Denmark
+2020-10-05,Daily ICU occupancy,17.0,Denmark
+2020-10-06,Daily ICU occupancy,15.0,Denmark
+2020-10-07,Daily ICU occupancy,15.0,Denmark
+2020-10-08,Daily ICU occupancy,17.0,Denmark
+2020-10-09,Daily ICU occupancy,18.0,Denmark
+2020-10-10,Daily ICU occupancy,20.0,Denmark
+2020-10-11,Daily ICU occupancy,19.0,Denmark
+2020-10-12,Daily ICU occupancy,19.0,Denmark
+2020-10-13,Daily ICU occupancy,19.0,Denmark
+2020-10-14,Daily ICU occupancy,17.0,Denmark
+2020-10-15,Daily ICU occupancy,17.0,Denmark
+2020-10-16,Daily ICU occupancy,16.0,Denmark
+2020-10-17,Daily ICU occupancy,16.0,Denmark
+2020-10-18,Daily ICU occupancy,17.0,Denmark
+2020-10-19,Daily ICU occupancy,18.0,Denmark
+2020-10-20,Daily ICU occupancy,15.0,Denmark
+2020-10-21,Daily ICU occupancy,16.0,Denmark
+2020-10-22,Daily ICU occupancy,17.0,Denmark
+2020-10-23,Daily ICU occupancy,18.0,Denmark
+2020-10-24,Daily ICU occupancy,17.0,Denmark
+2020-10-25,Daily ICU occupancy,18.0,Denmark
+2020-10-26,Daily ICU occupancy,17.0,Denmark
+2020-10-27,Daily ICU occupancy,19.0,Denmark
+2020-10-28,Daily ICU occupancy,18.0,Denmark
+2020-10-29,Daily ICU occupancy,17.0,Denmark
+2020-10-30,Daily ICU occupancy,17.0,Denmark
+2020-10-31,Daily ICU occupancy,19.0,Denmark
+2020-11-01,Daily ICU occupancy,19.0,Denmark
+2020-11-02,Daily ICU occupancy,23.0,Denmark
+2020-11-03,Daily ICU occupancy,22.0,Denmark
+2020-11-04,Daily ICU occupancy,24.0,Denmark
+2020-11-05,Daily ICU occupancy,24.0,Denmark
+2020-11-06,Daily ICU occupancy,23.0,Denmark
+2020-11-07,Daily ICU occupancy,29.0,Denmark
+2020-11-08,Daily ICU occupancy,30.0,Denmark
+2020-11-09,Daily ICU occupancy,33.0,Denmark
+2020-11-10,Daily ICU occupancy,33.0,Denmark
+2020-11-11,Daily ICU occupancy,40.0,Denmark
+2020-11-12,Daily ICU occupancy,43.0,Denmark
+2020-11-13,Daily ICU occupancy,40.0,Denmark
+2020-11-14,Daily ICU occupancy,41.0,Denmark
+2020-11-15,Daily ICU occupancy,45.0,Denmark
+2020-11-16,Daily ICU occupancy,44.0,Denmark
+2020-11-17,Daily ICU occupancy,41.0,Denmark
+2020-11-18,Daily ICU occupancy,43.0,Denmark
+2020-11-19,Daily ICU occupancy,41.0,Denmark
+2020-11-20,Daily ICU occupancy,39.0,Denmark
+2020-11-21,Daily ICU occupancy,40.0,Denmark
+2020-11-22,Daily ICU occupancy,39.0,Denmark
+2020-11-23,Daily ICU occupancy,41.0,Denmark
+2020-11-24,Daily ICU occupancy,40.0,Denmark
+2020-11-25,Daily ICU occupancy,42.0,Denmark
+2020-11-26,Daily ICU occupancy,42.0,Denmark
+2020-11-27,Daily ICU occupancy,46.0,Denmark
+2020-11-28,Daily ICU occupancy,42.0,Denmark
+2020-11-29,Daily ICU occupancy,43.0,Denmark
+2020-11-30,Daily ICU occupancy,44.0,Denmark
+2020-12-01,Daily ICU occupancy,38.0,Denmark
+2020-12-02,Daily ICU occupancy,36.0,Denmark
+2020-12-03,Daily ICU occupancy,38.0,Denmark
+2020-12-04,Daily ICU occupancy,40.0,Denmark
+2020-12-05,Daily ICU occupancy,39.0,Denmark
+2020-12-06,Daily ICU occupancy,42.0,Denmark
+2020-12-07,Daily ICU occupancy,43.0,Denmark
+2020-12-08,Daily ICU occupancy,42.0,Denmark
+2020-12-09,Daily ICU occupancy,39.0,Denmark
+2020-12-10,Daily ICU occupancy,40.0,Denmark
+2020-12-11,Daily ICU occupancy,48.0,Denmark
+2020-12-12,Daily ICU occupancy,54.0,Denmark
+2020-12-13,Daily ICU occupancy,58.0,Denmark
+2020-12-14,Daily ICU occupancy,61.0,Denmark
+2020-12-15,Daily ICU occupancy,68.0,Denmark
+2020-12-16,Daily ICU occupancy,68.0,Denmark
+2020-12-17,Daily ICU occupancy,76.0,Denmark
+2020-12-18,Daily ICU occupancy,79.0,Denmark
+2020-12-19,Daily ICU occupancy,86.0,Denmark
+2020-12-20,Daily ICU occupancy,87.0,Denmark
+2020-12-21,Daily ICU occupancy,87.0,Denmark
+2020-12-22,Daily ICU occupancy,83.0,Denmark
+2020-12-23,Daily ICU occupancy,91.0,Denmark
+2020-12-24,Daily ICU occupancy,97.0,Denmark
+2020-12-25,Daily ICU occupancy,98.0,Denmark
+2020-12-26,Daily ICU occupancy,96.0,Denmark
+2020-12-27,Daily ICU occupancy,102.0,Denmark
+2020-12-28,Daily ICU occupancy,113.0,Denmark
+2020-12-29,Daily ICU occupancy,128.0,Denmark
+2020-12-30,Daily ICU occupancy,136.0,Denmark
+2020-12-31,Daily ICU occupancy,132.0,Denmark
+2021-01-01,Daily ICU occupancy,129.0,Denmark
+2021-01-02,Daily ICU occupancy,136.0,Denmark
+2021-01-03,Daily ICU occupancy,136.0,Denmark
+2021-01-04,Daily ICU occupancy,140.0,Denmark
+2021-01-05,Daily ICU occupancy,141.0,Denmark
+2021-01-06,Daily ICU occupancy,137.0,Denmark
+2021-01-07,Daily ICU occupancy,134.0,Denmark
+2021-01-08,Daily ICU occupancy,138.0,Denmark
+2021-01-09,Daily ICU occupancy,132.0,Denmark
+2021-01-10,Daily ICU occupancy,138.0,Denmark
+2021-01-11,Daily ICU occupancy,138.0,Denmark
+2021-01-12,Daily ICU occupancy,135.0,Denmark
+2021-01-13,Daily ICU occupancy,137.0,Denmark
+2021-01-14,Daily ICU occupancy,128.0,Denmark
+2021-01-15,Daily ICU occupancy,129.0,Denmark
+2021-01-16,Daily ICU occupancy,137.0,Denmark
+2021-01-17,Daily ICU occupancy,131.0,Denmark
+2021-01-18,Daily ICU occupancy,132.0,Denmark
+2021-01-19,Daily ICU occupancy,132.0,Denmark
+2021-01-20,Daily ICU occupancy,132.0,Denmark
+2021-01-21,Daily ICU occupancy,136.0,Denmark
+2021-01-22,Daily ICU occupancy,130.0,Denmark
+2021-01-23,Daily ICU occupancy,125.0,Denmark
+2021-01-24,Daily ICU occupancy,124.0,Denmark
+2021-01-25,Daily ICU occupancy,123.0,Denmark
+2021-01-26,Daily ICU occupancy,119.0,Denmark
+2021-01-27,Daily ICU occupancy,112.0,Denmark
+2021-01-28,Daily ICU occupancy,113.0,Denmark
+2021-01-29,Daily ICU occupancy,103.0,Denmark
+2021-01-30,Daily ICU occupancy,102.0,Denmark
+2021-01-31,Daily ICU occupancy,98.0,Denmark
+2021-02-01,Daily ICU occupancy,94.0,Denmark
+2021-02-02,Daily ICU occupancy,93.0,Denmark
+2021-02-03,Daily ICU occupancy,91.0,Denmark
+2021-02-04,Daily ICU occupancy,86.0,Denmark
+2021-02-05,Daily ICU occupancy,82.0,Denmark
+2021-02-06,Daily ICU occupancy,78.0,Denmark
+2021-02-07,Daily ICU occupancy,76.0,Denmark
+2021-02-08,Daily ICU occupancy,73.0,Denmark
+2021-02-09,Daily ICU occupancy,74.0,Denmark
+2021-02-10,Daily ICU occupancy,74.0,Denmark
+2021-02-11,Daily ICU occupancy,69.0,Denmark
+2021-02-12,Daily ICU occupancy,68.0,Denmark
+2021-02-13,Daily ICU occupancy,64.0,Denmark
+2021-02-14,Daily ICU occupancy,65.0,Denmark
+2021-02-15,Daily ICU occupancy,68.0,Denmark
+2021-02-16,Daily ICU occupancy,63.0,Denmark
+2021-02-17,Daily ICU occupancy,57.0,Denmark
+2021-02-18,Daily ICU occupancy,57.0,Denmark
+2021-02-19,Daily ICU occupancy,51.0,Denmark
+2021-02-20,Daily ICU occupancy,51.0,Denmark
+2021-02-21,Daily ICU occupancy,53.0,Denmark
+2021-02-22,Daily ICU occupancy,51.0,Denmark
+2021-02-23,Daily ICU occupancy,48.0,Denmark
+2021-02-24,Daily ICU occupancy,47.0,Denmark
+2021-02-25,Daily ICU occupancy,45.0,Denmark
+2021-02-26,Daily ICU occupancy,43.0,Denmark
+2021-02-27,Daily ICU occupancy,44.0,Denmark
+2021-02-28,Daily ICU occupancy,41.0,Denmark
+2021-03-01,Daily ICU occupancy,44.0,Denmark
+2021-03-02,Daily ICU occupancy,39.0,Denmark
+2021-03-03,Daily ICU occupancy,34.0,Denmark
+2021-03-04,Daily ICU occupancy,30.0,Denmark
+2021-03-05,Daily ICU occupancy,31.0,Denmark
+2021-03-06,Daily ICU occupancy,33.0,Denmark
+2021-03-07,Daily ICU occupancy,37.0,Denmark
+2021-03-08,Daily ICU occupancy,38.0,Denmark
+2021-03-09,Daily ICU occupancy,38.0,Denmark
+2021-03-10,Daily ICU occupancy,43.0,Denmark
+2021-03-11,Daily ICU occupancy,44.0,Denmark
+2021-03-12,Daily ICU occupancy,38.0,Denmark
+2021-03-13,Daily ICU occupancy,39.0,Denmark
+2021-03-14,Daily ICU occupancy,39.0,Denmark
+2021-03-15,Daily ICU occupancy,40.0,Denmark
+2021-03-16,Daily ICU occupancy,43.0,Denmark
+2021-03-17,Daily ICU occupancy,41.0,Denmark
+2021-03-18,Daily ICU occupancy,38.0,Denmark
+2021-03-19,Daily ICU occupancy,38.0,Denmark
+2021-03-20,Daily ICU occupancy,40.0,Denmark
+2021-03-21,Daily ICU occupancy,40.0,Denmark
+2021-03-22,Daily ICU occupancy,42.0,Denmark
+2021-03-23,Daily ICU occupancy,46.0,Denmark
+2021-03-24,Daily ICU occupancy,46.0,Denmark
+2021-03-25,Daily ICU occupancy,44.0,Denmark
+2021-03-26,Daily ICU occupancy,40.0,Denmark
+2021-03-27,Daily ICU occupancy,41.0,Denmark
+2021-03-28,Daily ICU occupancy,43.0,Denmark
+2021-03-29,Daily ICU occupancy,41.0,Denmark
+2021-03-30,Daily ICU occupancy,41.0,Denmark
+2021-03-31,Daily ICU occupancy,43.0,Denmark
+2021-04-01,Daily ICU occupancy,39.0,Denmark
+2021-04-02,Daily ICU occupancy,41.0,Denmark
+2021-04-03,Daily ICU occupancy,39.0,Denmark
+2021-04-04,Daily ICU occupancy,39.0,Denmark
+2021-04-05,Daily ICU occupancy,40.0,Denmark
+2021-04-06,Daily ICU occupancy,38.0,Denmark
+2021-04-07,Daily ICU occupancy,34.0,Denmark
+2021-04-08,Daily ICU occupancy,37.0,Denmark
+2021-04-09,Daily ICU occupancy,37.0,Denmark
+2021-04-10,Daily ICU occupancy,38.0,Denmark
+2021-04-11,Daily ICU occupancy,38.0,Denmark
+2021-04-12,Daily ICU occupancy,40.0,Denmark
+2021-04-13,Daily ICU occupancy,39.0,Denmark
+2021-04-14,Daily ICU occupancy,41.0,Denmark
+2021-04-15,Daily ICU occupancy,37.0,Denmark
+2021-04-16,Daily ICU occupancy,36.0,Denmark
+2021-04-17,Daily ICU occupancy,40.0,Denmark
+2021-04-18,Daily ICU occupancy,35.0,Denmark
+2021-04-19,Daily ICU occupancy,36.0,Denmark
+2021-04-20,Daily ICU occupancy,38.0,Denmark
+2021-04-21,Daily ICU occupancy,41.0,Denmark
+2021-04-22,Daily ICU occupancy,44.0,Denmark
+2021-04-23,Daily ICU occupancy,42.0,Denmark
+2021-04-24,Daily ICU occupancy,40.0,Denmark
+2021-04-25,Daily ICU occupancy,40.0,Denmark
+2021-04-26,Daily ICU occupancy,39.0,Denmark
+2021-04-27,Daily ICU occupancy,36.0,Denmark
+2021-04-28,Daily ICU occupancy,32.0,Denmark
+2021-04-29,Daily ICU occupancy,30.0,Denmark
+2021-04-30,Daily ICU occupancy,35.0,Denmark
+2021-05-01,Daily ICU occupancy,37.0,Denmark
+2021-05-02,Daily ICU occupancy,37.0,Denmark
+2021-05-03,Daily ICU occupancy,42.0,Denmark
+2021-05-04,Daily ICU occupancy,43.0,Denmark
+2021-05-05,Daily ICU occupancy,40.0,Denmark
+2021-05-06,Daily ICU occupancy,34.0,Denmark
+2021-05-07,Daily ICU occupancy,31.0,Denmark
+2021-05-08,Daily ICU occupancy,30.0,Denmark
+2021-05-09,Daily ICU occupancy,31.0,Denmark
+2021-05-10,Daily ICU occupancy,27.0,Denmark
+2021-05-11,Daily ICU occupancy,32.0,Denmark
+2021-05-12,Daily ICU occupancy,29.0,Denmark
+2021-05-13,Daily ICU occupancy,36.0,Denmark
+2021-05-14,Daily ICU occupancy,33.0,Denmark
+2021-05-15,Daily ICU occupancy,33.0,Denmark
+2021-05-16,Daily ICU occupancy,32.0,Denmark
+2021-05-17,Daily ICU occupancy,29.0,Denmark
+2021-05-18,Daily ICU occupancy,31.0,Denmark
+2021-05-19,Daily ICU occupancy,33.0,Denmark
+2021-05-20,Daily ICU occupancy,33.0,Denmark
+2021-05-21,Daily ICU occupancy,31.0,Denmark
+2021-05-22,Daily ICU occupancy,32.0,Denmark
+2021-05-23,Daily ICU occupancy,35.0,Denmark
+2021-05-24,Daily ICU occupancy,37.0,Denmark
+2021-05-25,Daily ICU occupancy,36.0,Denmark
+2021-05-26,Daily ICU occupancy,36.0,Denmark
+2021-05-27,Daily ICU occupancy,36.0,Denmark
+2021-05-28,Daily ICU occupancy,33.0,Denmark
+2021-05-29,Daily ICU occupancy,33.0,Denmark
+2021-05-30,Daily ICU occupancy,32.0,Denmark
+2021-05-31,Daily ICU occupancy,34.0,Denmark
+2021-06-01,Daily ICU occupancy,36.0,Denmark
+2021-06-02,Daily ICU occupancy,37.0,Denmark
+2021-06-03,Daily ICU occupancy,34.0,Denmark
+2021-06-04,Daily ICU occupancy,32.0,Denmark
+2021-06-05,Daily ICU occupancy,30.0,Denmark
+2021-06-06,Daily ICU occupancy,29.0,Denmark
+2021-06-07,Daily ICU occupancy,27.0,Denmark
+2021-06-08,Daily ICU occupancy,27.0,Denmark
+2021-06-09,Daily ICU occupancy,27.0,Denmark
+2021-06-10,Daily ICU occupancy,22.0,Denmark
+2021-06-11,Daily ICU occupancy,23.0,Denmark
+2021-06-12,Daily ICU occupancy,20.0,Denmark
+2021-06-13,Daily ICU occupancy,20.0,Denmark
+2021-06-14,Daily ICU occupancy,20.0,Denmark
+2021-06-15,Daily ICU occupancy,19.0,Denmark
+2021-06-16,Daily ICU occupancy,20.0,Denmark
+2021-06-17,Daily ICU occupancy,19.0,Denmark
+2021-06-18,Daily ICU occupancy,20.0,Denmark
+2021-06-19,Daily ICU occupancy,20.0,Denmark
+2021-06-20,Daily ICU occupancy,19.0,Denmark
+2021-06-21,Daily ICU occupancy,17.0,Denmark
+2021-06-22,Daily ICU occupancy,18.0,Denmark
+2021-06-23,Daily ICU occupancy,15.0,Denmark
+2021-06-24,Daily ICU occupancy,16.0,Denmark
+2021-06-25,Daily ICU occupancy,17.0,Denmark
+2021-06-26,Daily ICU occupancy,17.0,Denmark
+2021-06-27,Daily ICU occupancy,17.0,Denmark
+2021-06-28,Daily ICU occupancy,14.0,Denmark
+2021-06-29,Daily ICU occupancy,14.0,Denmark
+2021-06-30,Daily ICU occupancy,12.0,Denmark
+2021-07-01,Daily ICU occupancy,12.0,Denmark
+2021-07-02,Daily ICU occupancy,11.0,Denmark
+2021-07-03,Daily ICU occupancy,10.0,Denmark
+2021-07-04,Daily ICU occupancy,9.0,Denmark
+2021-07-05,Daily ICU occupancy,9.0,Denmark
+2021-07-06,Daily ICU occupancy,8.0,Denmark
+2021-07-07,Daily ICU occupancy,9.0,Denmark
+2021-07-08,Daily ICU occupancy,8.0,Denmark
+2021-07-09,Daily ICU occupancy,9.0,Denmark
+2021-07-10,Daily ICU occupancy,9.0,Denmark
+2021-07-11,Daily ICU occupancy,9.0,Denmark
+2021-07-12,Daily ICU occupancy,9.0,Denmark
+2021-07-13,Daily ICU occupancy,10.0,Denmark
+2021-07-14,Daily ICU occupancy,12.0,Denmark
+2021-07-15,Daily ICU occupancy,11.0,Denmark
+2021-07-16,Daily ICU occupancy,11.0,Denmark
+2021-07-17,Daily ICU occupancy,10.0,Denmark
+2021-07-18,Daily ICU occupancy,10.0,Denmark
+2021-07-19,Daily ICU occupancy,9.0,Denmark
+2021-07-20,Daily ICU occupancy,10.0,Denmark
+2021-07-21,Daily ICU occupancy,12.0,Denmark
+2021-07-22,Daily ICU occupancy,13.0,Denmark
+2021-07-23,Daily ICU occupancy,11.0,Denmark
+2021-07-24,Daily ICU occupancy,10.0,Denmark
+2021-07-25,Daily ICU occupancy,10.0,Denmark
+2021-07-26,Daily ICU occupancy,10.0,Denmark
+2021-07-27,Daily ICU occupancy,10.0,Denmark
+2021-07-28,Daily ICU occupancy,10.0,Denmark
+2021-07-29,Daily ICU occupancy,10.0,Denmark
+2021-07-30,Daily ICU occupancy,8.0,Denmark
+2021-07-31,Daily ICU occupancy,8.0,Denmark
+2021-08-01,Daily ICU occupancy,8.0,Denmark
+2021-08-02,Daily ICU occupancy,8.0,Denmark
+2021-08-03,Daily ICU occupancy,8.0,Denmark
+2021-08-04,Daily ICU occupancy,8.0,Denmark
+2021-08-05,Daily ICU occupancy,9.0,Denmark
+2021-08-06,Daily ICU occupancy,12.0,Denmark
+2021-08-07,Daily ICU occupancy,12.0,Denmark
+2021-08-08,Daily ICU occupancy,13.0,Denmark
+2021-08-09,Daily ICU occupancy,13.0,Denmark
+2021-08-10,Daily ICU occupancy,14.0,Denmark
+2021-08-11,Daily ICU occupancy,18.0,Denmark
+2021-08-12,Daily ICU occupancy,16.0,Denmark
+2021-08-13,Daily ICU occupancy,14.0,Denmark
+2021-08-14,Daily ICU occupancy,16.0,Denmark
+2021-08-15,Daily ICU occupancy,15.0,Denmark
+2021-08-16,Daily ICU occupancy,15.0,Denmark
+2021-08-17,Daily ICU occupancy,15.0,Denmark
+2021-08-18,Daily ICU occupancy,16.0,Denmark
+2021-08-19,Daily ICU occupancy,15.0,Denmark
+2021-08-20,Daily ICU occupancy,16.0,Denmark
+2021-08-21,Daily ICU occupancy,15.0,Denmark
+2021-08-22,Daily ICU occupancy,20.0,Denmark
+2021-08-23,Daily ICU occupancy,18.0,Denmark
+2021-08-24,Daily ICU occupancy,20.0,Denmark
+2021-08-25,Daily ICU occupancy,21.0,Denmark
+2021-08-26,Daily ICU occupancy,19.0,Denmark
+2021-08-27,Daily ICU occupancy,19.0,Denmark
+2021-08-28,Daily ICU occupancy,19.0,Denmark
+2021-08-29,Daily ICU occupancy,19.0,Denmark
+2021-08-30,Daily ICU occupancy,22.0,Denmark
+2021-08-31,Daily ICU occupancy,21.0,Denmark
+2021-09-01,Daily ICU occupancy,25.0,Denmark
+2021-09-02,Daily ICU occupancy,25.0,Denmark
+2021-09-03,Daily ICU occupancy,26.0,Denmark
+2021-09-04,Daily ICU occupancy,26.0,Denmark
+2021-09-05,Daily ICU occupancy,26.0,Denmark
+2021-09-06,Daily ICU occupancy,26.0,Denmark
+2021-09-07,Daily ICU occupancy,26.0,Denmark
+2021-09-08,Daily ICU occupancy,28.0,Denmark
+2021-09-09,Daily ICU occupancy,28.0,Denmark
+2021-09-10,Daily ICU occupancy,29.0,Denmark
+2021-09-11,Daily ICU occupancy,32.0,Denmark
+2021-09-12,Daily ICU occupancy,32.0,Denmark
+2021-09-13,Daily ICU occupancy,30.0,Denmark
+2021-09-14,Daily ICU occupancy,30.0,Denmark
+2021-09-15,Daily ICU occupancy,28.0,Denmark
+2021-09-16,Daily ICU occupancy,26.0,Denmark
+2021-09-17,Daily ICU occupancy,24.0,Denmark
+2021-09-18,Daily ICU occupancy,23.0,Denmark
+2021-09-19,Daily ICU occupancy,23.0,Denmark
+2021-09-20,Daily ICU occupancy,22.0,Denmark
+2021-09-21,Daily ICU occupancy,22.0,Denmark
+2021-09-22,Daily ICU occupancy,22.0,Denmark
+2021-09-23,Daily ICU occupancy,18.0,Denmark
+2021-09-24,Daily ICU occupancy,17.0,Denmark
+2021-09-25,Daily ICU occupancy,18.0,Denmark
+2021-09-26,Daily ICU occupancy,17.0,Denmark
+2021-09-27,Daily ICU occupancy,18.0,Denmark
+2021-09-28,Daily ICU occupancy,15.0,Denmark
+2021-09-29,Daily ICU occupancy,16.0,Denmark
+2021-09-30,Daily ICU occupancy,18.0,Denmark
+2021-10-01,Daily ICU occupancy,15.0,Denmark
+2021-10-02,Daily ICU occupancy,12.0,Denmark
+2021-10-03,Daily ICU occupancy,12.0,Denmark
+2021-10-04,Daily ICU occupancy,12.0,Denmark
+2021-10-05,Daily ICU occupancy,13.0,Denmark
+2021-10-06,Daily ICU occupancy,11.0,Denmark
+2021-10-07,Daily ICU occupancy,11.0,Denmark
+2021-10-08,Daily ICU occupancy,14.0,Denmark
+2021-10-09,Daily ICU occupancy,17.0,Denmark
+2021-10-10,Daily ICU occupancy,15.0,Denmark
+2021-10-11,Daily ICU occupancy,17.0,Denmark
+2021-10-12,Daily ICU occupancy,17.0,Denmark
+2021-10-13,Daily ICU occupancy,18.0,Denmark
+2021-10-14,Daily ICU occupancy,16.0,Denmark
+2021-10-15,Daily ICU occupancy,14.0,Denmark
+2021-10-16,Daily ICU occupancy,15.0,Denmark
+2021-10-17,Daily ICU occupancy,15.0,Denmark
+2021-10-18,Daily ICU occupancy,13.0,Denmark
+2021-10-19,Daily ICU occupancy,15.0,Denmark
+2021-10-20,Daily ICU occupancy,11.0,Denmark
+2021-10-21,Daily ICU occupancy,14.0,Denmark
+2021-10-22,Daily ICU occupancy,16.0,Denmark
+2021-10-23,Daily ICU occupancy,16.0,Denmark
+2021-10-24,Daily ICU occupancy,19.0,Denmark
+2021-10-25,Daily ICU occupancy,20.0,Denmark
+2021-10-26,Daily ICU occupancy,22.0,Denmark
+2021-10-27,Daily ICU occupancy,23.0,Denmark
+2021-10-28,Daily ICU occupancy,24.0,Denmark
+2021-10-29,Daily ICU occupancy,28.0,Denmark
+2021-10-30,Daily ICU occupancy,26.0,Denmark
+2021-10-31,Daily ICU occupancy,24.0,Denmark
+2021-11-01,Daily ICU occupancy,29.0,Denmark
+2021-11-02,Daily ICU occupancy,32.0,Denmark
+2021-11-03,Daily ICU occupancy,30.0,Denmark
+2021-11-04,Daily ICU occupancy,31.0,Denmark
+2021-11-05,Daily ICU occupancy,35.0,Denmark
+2021-11-06,Daily ICU occupancy,36.0,Denmark
+2021-11-07,Daily ICU occupancy,40.0,Denmark
+2021-11-08,Daily ICU occupancy,36.0,Denmark
+2021-11-09,Daily ICU occupancy,39.0,Denmark
+2021-11-10,Daily ICU occupancy,39.0,Denmark
+2021-11-11,Daily ICU occupancy,41.0,Denmark
+2021-11-12,Daily ICU occupancy,43.0,Denmark
+2021-11-13,Daily ICU occupancy,38.0,Denmark
+2021-11-14,Daily ICU occupancy,40.0,Denmark
+2021-11-15,Daily ICU occupancy,40.0,Denmark
+2021-11-16,Daily ICU occupancy,44.0,Denmark
+2021-11-17,Daily ICU occupancy,47.0,Denmark
+2021-11-18,Daily ICU occupancy,50.0,Denmark
+2021-11-19,Daily ICU occupancy,48.0,Denmark
+2021-11-20,Daily ICU occupancy,50.0,Denmark
+2021-11-21,Daily ICU occupancy,51.0,Denmark
+2021-11-22,Daily ICU occupancy,50.0,Denmark
+2021-11-23,Daily ICU occupancy,49.0,Denmark
+2021-11-24,Daily ICU occupancy,49.0,Denmark
+2021-11-25,Daily ICU occupancy,48.0,Denmark
+2021-11-26,Daily ICU occupancy,53.0,Denmark
+2021-11-27,Daily ICU occupancy,50.0,Denmark
+2021-11-28,Daily ICU occupancy,51.0,Denmark
+2021-11-29,Daily ICU occupancy,60.0,Denmark
+2021-11-30,Daily ICU occupancy,60.0,Denmark
+2021-12-01,Daily ICU occupancy,61.0,Denmark
+2021-12-02,Daily ICU occupancy,57.0,Denmark
+2021-12-03,Daily ICU occupancy,57.0,Denmark
+2021-12-04,Daily ICU occupancy,58.0,Denmark
+2021-12-05,Daily ICU occupancy,58.0,Denmark
+2021-12-06,Daily ICU occupancy,65.0,Denmark
+2021-12-07,Daily ICU occupancy,66.0,Denmark
+2021-12-08,Daily ICU occupancy,66.0,Denmark
+2021-12-09,Daily ICU occupancy,67.0,Denmark
+2021-12-10,Daily ICU occupancy,65.0,Denmark
+2021-12-11,Daily ICU occupancy,60.0,Denmark
+2021-12-12,Daily ICU occupancy,65.0,Denmark
+2021-12-13,Daily ICU occupancy,64.0,Denmark
+2021-12-14,Daily ICU occupancy,70.0,Denmark
+2021-12-15,Daily ICU occupancy,66.0,Denmark
+2021-12-16,Daily ICU occupancy,61.0,Denmark
+2021-12-17,Daily ICU occupancy,63.0,Denmark
+2021-12-18,Daily ICU occupancy,65.0,Denmark
+2021-12-19,Daily ICU occupancy,63.0,Denmark
+2021-12-20,Daily ICU occupancy,66.0,Denmark
+2021-12-21,Daily ICU occupancy,67.0,Denmark
+2021-12-22,Daily ICU occupancy,66.0,Denmark
+2021-12-23,Daily ICU occupancy,72.0,Denmark
+2021-12-24,Daily ICU occupancy,74.0,Denmark
+2021-12-25,Daily ICU occupancy,73.0,Denmark
+2021-12-26,Daily ICU occupancy,71.0,Denmark
+2021-12-27,Daily ICU occupancy,70.0,Denmark
+2021-12-28,Daily ICU occupancy,71.0,Denmark
+2021-12-29,Daily ICU occupancy,77.0,Denmark
+2021-12-30,Daily ICU occupancy,75.0,Denmark
+2021-12-31,Daily ICU occupancy,73.0,Denmark
+2022-01-01,Daily ICU occupancy,73.0,Denmark
+2022-01-02,Daily ICU occupancy,76.0,Denmark
+2022-01-03,Daily ICU occupancy,73.0,Denmark
+2022-01-04,Daily ICU occupancy,77.0,Denmark
+2022-01-05,Daily ICU occupancy,80.0,Denmark
+2022-01-06,Daily ICU occupancy,82.0,Denmark
+2022-01-07,Daily ICU occupancy,78.0,Denmark
+2022-01-08,Daily ICU occupancy,78.0,Denmark
+2022-01-09,Daily ICU occupancy,77.0,Denmark
+2022-01-10,Daily ICU occupancy,74.0,Denmark
+2022-01-11,Daily ICU occupancy,73.0,Denmark
+2022-01-12,Daily ICU occupancy,73.0,Denmark
+2022-01-13,Daily ICU occupancy,64.0,Denmark
+2022-01-14,Daily ICU occupancy,60.0,Denmark
+2022-01-15,Daily ICU occupancy,59.0,Denmark
+2022-01-16,Daily ICU occupancy,59.0,Denmark
+2022-01-17,Daily ICU occupancy,52.0,Denmark
+2022-01-18,Daily ICU occupancy,49.0,Denmark
+2022-01-19,Daily ICU occupancy,50.0,Denmark
+2022-01-20,Daily ICU occupancy,49.0,Denmark
+2022-01-21,Daily ICU occupancy,44.0,Denmark
+2022-01-22,Daily ICU occupancy,45.0,Denmark
+2022-01-23,Daily ICU occupancy,42.0,Denmark
+2022-01-24,Daily ICU occupancy,43.0,Denmark
+2022-01-25,Daily ICU occupancy,44.0,Denmark
+2022-01-26,Daily ICU occupancy,40.0,Denmark
+2022-01-27,Daily ICU occupancy,37.0,Denmark
+2022-01-28,Daily ICU occupancy,33.0,Denmark
+2022-01-29,Daily ICU occupancy,35.0,Denmark
+2022-01-30,Daily ICU occupancy,31.0,Denmark
+2022-01-31,Daily ICU occupancy,32.0,Denmark
+2022-02-01,Daily ICU occupancy,28.0,Denmark
+2022-02-02,Daily ICU occupancy,26.0,Denmark
+2022-02-03,Daily ICU occupancy,27.0,Denmark
+2022-02-04,Daily ICU occupancy,33.0,Denmark
+2022-02-05,Daily ICU occupancy,31.0,Denmark
+2022-02-06,Daily ICU occupancy,34.0,Denmark
+2022-02-07,Daily ICU occupancy,31.0,Denmark
+2022-02-08,Daily ICU occupancy,39.0,Denmark
+2022-02-09,Daily ICU occupancy,34.0,Denmark
+2022-02-10,Daily ICU occupancy,33.0,Denmark
+2022-02-11,Daily ICU occupancy,32.0,Denmark
+2022-02-12,Daily ICU occupancy,30.0,Denmark
+2022-02-13,Daily ICU occupancy,25.0,Denmark
+2022-02-14,Daily ICU occupancy,25.0,Denmark
+2022-02-15,Daily ICU occupancy,31.0,Denmark
+2022-02-16,Daily ICU occupancy,31.0,Denmark
+2022-02-17,Daily ICU occupancy,31.0,Denmark
+2022-02-18,Daily ICU occupancy,33.0,Denmark
+2022-02-19,Daily ICU occupancy,37.0,Denmark
+2022-02-20,Daily ICU occupancy,40.0,Denmark
+2022-02-21,Daily ICU occupancy,44.0,Denmark
+2022-02-22,Daily ICU occupancy,34.0,Denmark
+2022-02-23,Daily ICU occupancy,36.0,Denmark
+2022-02-24,Daily ICU occupancy,37.0,Denmark
+2022-02-25,Daily ICU occupancy,45.0,Denmark
+2022-02-26,Daily ICU occupancy,45.0,Denmark
+2022-02-27,Daily ICU occupancy,48.0,Denmark
+2022-02-28,Daily ICU occupancy,42.0,Denmark
+2022-03-01,Daily ICU occupancy,48.0,Denmark
+2022-03-02,Daily ICU occupancy,42.0,Denmark
+2022-03-03,Daily ICU occupancy,42.0,Denmark
+2022-03-04,Daily ICU occupancy,34.0,Denmark
+2022-03-05,Daily ICU occupancy,35.0,Denmark
+2022-03-06,Daily ICU occupancy,37.0,Denmark
+2022-03-07,Daily ICU occupancy,37.0,Denmark
+2022-03-08,Daily ICU occupancy,27.0,Denmark
+2022-03-09,Daily ICU occupancy,29.0,Denmark
+2022-03-10,Daily ICU occupancy,26.0,Denmark
+2022-03-11,Daily ICU occupancy,28.0,Denmark
+2022-03-12,Daily ICU occupancy,28.0,Denmark
+2022-03-13,Daily ICU occupancy,25.0,Denmark
+2022-03-14,Daily ICU occupancy,26.0,Denmark
+2022-03-15,Daily ICU occupancy,26.0,Denmark
+2022-03-16,Daily ICU occupancy,26.0,Denmark
+2022-03-17,Daily ICU occupancy,29.0,Denmark
+2022-03-18,Daily ICU occupancy,27.0,Denmark
+2022-03-19,Daily ICU occupancy,27.0,Denmark
+2022-03-20,Daily ICU occupancy,23.0,Denmark
+2022-03-21,Daily ICU occupancy,24.0,Denmark
+2022-03-22,Daily ICU occupancy,27.0,Denmark
+2022-03-23,Daily ICU occupancy,24.0,Denmark
+2022-03-24,Daily ICU occupancy,20.0,Denmark
+2022-03-25,Daily ICU occupancy,19.0,Denmark
+2022-03-26,Daily ICU occupancy,25.0,Denmark
+2022-03-27,Daily ICU occupancy,25.0,Denmark
+2022-03-28,Daily ICU occupancy,26.0,Denmark
+2022-03-29,Daily ICU occupancy,22.0,Denmark
+2022-03-30,Daily ICU occupancy,22.0,Denmark
+2022-03-31,Daily ICU occupancy,24.0,Denmark
+2022-04-01,Daily ICU occupancy,22.0,Denmark
+2022-04-02,Daily ICU occupancy,21.0,Denmark
+2022-04-03,Daily ICU occupancy,19.0,Denmark
+2022-04-04,Daily ICU occupancy,18.0,Denmark
+2022-04-05,Daily ICU occupancy,19.0,Denmark
+2022-04-06,Daily ICU occupancy,16.0,Denmark
+2022-04-07,Daily ICU occupancy,18.0,Denmark
+2022-04-08,Daily ICU occupancy,16.0,Denmark
+2022-04-09,Daily ICU occupancy,18.0,Denmark
+2022-04-10,Daily ICU occupancy,18.0,Denmark
+2022-04-11,Daily ICU occupancy,22.0,Denmark
+2022-04-12,Daily ICU occupancy,17.0,Denmark
+2022-04-13,Daily ICU occupancy,17.0,Denmark
+2022-04-14,Daily ICU occupancy,15.0,Denmark
+2022-04-15,Daily ICU occupancy,16.0,Denmark
+2022-04-16,Daily ICU occupancy,16.0,Denmark
+2022-04-17,Daily ICU occupancy,14.0,Denmark
+2022-04-18,Daily ICU occupancy,14.0,Denmark
+2022-04-19,Daily ICU occupancy,16.0,Denmark
+2022-04-20,Daily ICU occupancy,17.0,Denmark
+2022-04-21,Daily ICU occupancy,17.0,Denmark
+2022-04-22,Daily ICU occupancy,15.0,Denmark
+2022-04-23,Daily ICU occupancy,15.0,Denmark
+2022-04-24,Daily ICU occupancy,15.0,Denmark
+2022-04-25,Daily ICU occupancy,15.0,Denmark
+2022-04-26,Daily ICU occupancy,13.0,Denmark
+2022-04-27,Daily ICU occupancy,13.0,Denmark
+2022-04-28,Daily ICU occupancy,10.0,Denmark
+2022-04-29,Daily ICU occupancy,10.0,Denmark
+2022-04-30,Daily ICU occupancy,12.0,Denmark
+2022-05-01,Daily ICU occupancy,9.0,Denmark
+2022-05-02,Daily ICU occupancy,8.0,Denmark
+2022-05-03,Daily ICU occupancy,5.0,Denmark
+2022-05-04,Daily ICU occupancy,4.0,Denmark
+2022-05-05,Daily ICU occupancy,5.0,Denmark
+2022-05-06,Daily ICU occupancy,5.0,Denmark
+2022-05-07,Daily ICU occupancy,6.0,Denmark
+2022-05-08,Daily ICU occupancy,8.0,Denmark
+2022-05-09,Daily ICU occupancy,10.0,Denmark
+2022-05-10,Daily ICU occupancy,13.0,Denmark
+2022-05-11,Daily ICU occupancy,10.0,Denmark
+2022-05-12,Daily ICU occupancy,12.0,Denmark
+2022-05-13,Daily ICU occupancy,12.0,Denmark
+2022-05-14,Daily ICU occupancy,11.0,Denmark
+2022-05-15,Daily ICU occupancy,13.0,Denmark
+2022-05-16,Daily ICU occupancy,13.0,Denmark
+2022-05-17,Daily ICU occupancy,13.0,Denmark
+2022-05-18,Daily ICU occupancy,11.0,Denmark
+2022-05-19,Daily ICU occupancy,8.0,Denmark
+2022-05-20,Daily ICU occupancy,8.0,Denmark
+2022-05-21,Daily ICU occupancy,9.0,Denmark
+2022-05-22,Daily ICU occupancy,9.0,Denmark
+2022-05-23,Daily ICU occupancy,10.0,Denmark
+2022-05-24,Daily ICU occupancy,10.0,Denmark
+2022-05-25,Daily ICU occupancy,11.0,Denmark
+2022-05-26,Daily ICU occupancy,14.0,Denmark
+2022-05-27,Daily ICU occupancy,14.0,Denmark
+2022-05-28,Daily ICU occupancy,12.0,Denmark
+2022-05-29,Daily ICU occupancy,13.0,Denmark
+2022-05-30,Daily ICU occupancy,13.0,Denmark
+2022-05-31,Daily ICU occupancy,13.0,Denmark
+2022-06-01,Daily ICU occupancy,15.0,Denmark
+2022-06-02,Daily ICU occupancy,14.0,Denmark
+2022-06-03,Daily ICU occupancy,10.0,Denmark
+2022-06-04,Daily ICU occupancy,10.0,Denmark
+2022-06-05,Daily ICU occupancy,10.0,Denmark
+2022-06-06,Daily ICU occupancy,10.0,Denmark
+2022-06-07,Daily ICU occupancy,9.0,Denmark
+2022-06-08,Daily ICU occupancy,8.0,Denmark
+2022-06-09,Daily ICU occupancy,8.0,Denmark
+2022-06-10,Daily ICU occupancy,9.0,Denmark
+2022-06-11,Daily ICU occupancy,9.0,Denmark
+2022-06-12,Daily ICU occupancy,9.0,Denmark
+2022-06-13,Daily ICU occupancy,9.0,Denmark
+2022-06-14,Daily ICU occupancy,9.0,Denmark
+2022-06-15,Daily ICU occupancy,8.0,Denmark
+2022-06-16,Daily ICU occupancy,6.0,Denmark
+2022-06-17,Daily ICU occupancy,7.0,Denmark
+2022-06-18,Daily ICU occupancy,6.0,Denmark
+2022-06-19,Daily ICU occupancy,5.0,Denmark
+2022-06-20,Daily ICU occupancy,4.0,Denmark
+2022-06-21,Daily ICU occupancy,6.0,Denmark
+2022-06-22,Daily ICU occupancy,6.0,Denmark
+2022-06-23,Daily ICU occupancy,8.0,Denmark
+2022-06-24,Daily ICU occupancy,9.0,Denmark
+2022-06-25,Daily ICU occupancy,10.0,Denmark
+2022-06-26,Daily ICU occupancy,11.0,Denmark
+2022-06-27,Daily ICU occupancy,12.0,Denmark
+2022-06-28,Daily ICU occupancy,12.0,Denmark
+2022-06-29,Daily ICU occupancy,12.0,Denmark
+2022-06-30,Daily ICU occupancy,12.0,Denmark
+2022-07-01,Daily ICU occupancy,12.0,Denmark
+2022-07-02,Daily ICU occupancy,12.0,Denmark
+2022-07-03,Daily ICU occupancy,12.0,Denmark
+2022-07-04,Daily ICU occupancy,12.0,Denmark
+2022-07-05,Daily ICU occupancy,9.0,Denmark
+2022-07-06,Daily ICU occupancy,10.0,Denmark
+2022-07-07,Daily ICU occupancy,12.0,Denmark
+2022-07-08,Daily ICU occupancy,15.0,Denmark
+2022-07-09,Daily ICU occupancy,15.0,Denmark
+2022-07-10,Daily ICU occupancy,15.0,Denmark
+2022-07-11,Daily ICU occupancy,14.0,Denmark
+2022-07-12,Daily ICU occupancy,17.0,Denmark
+2022-07-13,Daily ICU occupancy,16.0,Denmark
+2022-07-14,Daily ICU occupancy,19.0,Denmark
+2022-07-15,Daily ICU occupancy,18.0,Denmark
+2022-07-16,Daily ICU occupancy,17.0,Denmark
+2022-07-17,Daily ICU occupancy,16.0,Denmark
+2022-07-18,Daily ICU occupancy,13.0,Denmark
+2022-07-19,Daily ICU occupancy,14.0,Denmark
+2022-07-20,Daily ICU occupancy,12.0,Denmark
+2022-07-21,Daily ICU occupancy,10.0,Denmark
+2022-07-22,Daily ICU occupancy,13.0,Denmark
+2022-07-23,Daily ICU occupancy,14.0,Denmark
+2022-07-24,Daily ICU occupancy,15.0,Denmark
+2022-07-25,Daily ICU occupancy,16.0,Denmark
+2022-07-26,Daily ICU occupancy,17.0,Denmark
+2022-07-27,Daily ICU occupancy,17.0,Denmark
+2022-07-28,Daily ICU occupancy,17.0,Denmark
+2022-07-29,Daily ICU occupancy,17.0,Denmark
+2022-07-30,Daily ICU occupancy,17.0,Denmark
+2022-07-31,Daily ICU occupancy,17.0,Denmark
+2022-08-01,Daily ICU occupancy,17.0,Denmark
+2022-08-02,Daily ICU occupancy,17.0,Denmark
+2022-08-03,Daily ICU occupancy,20.0,Denmark
+2022-08-04,Daily ICU occupancy,20.0,Denmark
+2022-08-05,Daily ICU occupancy,18.0,Denmark
+2022-08-06,Daily ICU occupancy,17.0,Denmark
+2022-08-07,Daily ICU occupancy,16.0,Denmark
+2022-08-08,Daily ICU occupancy,13.0,Denmark
+2022-08-09,Daily ICU occupancy,14.0,Denmark
+2022-08-10,Daily ICU occupancy,16.0,Denmark
+2022-08-11,Daily ICU occupancy,16.0,Denmark
+2022-08-12,Daily ICU occupancy,16.0,Denmark
+2022-08-13,Daily ICU occupancy,16.0,Denmark
+2022-08-14,Daily ICU occupancy,16.0,Denmark
+2022-08-15,Daily ICU occupancy,18.0,Denmark
+2022-08-16,Daily ICU occupancy,18.0,Denmark
+2022-08-17,Daily ICU occupancy,17.0,Denmark
+2022-08-18,Daily ICU occupancy,13.0,Denmark
+2022-08-19,Daily ICU occupancy,12.0,Denmark
+2022-08-20,Daily ICU occupancy,12.0,Denmark
+2022-08-21,Daily ICU occupancy,12.0,Denmark
+2022-08-22,Daily ICU occupancy,13.0,Denmark
+2022-08-23,Daily ICU occupancy,12.0,Denmark
+2022-08-24,Daily ICU occupancy,18.0,Denmark
+2022-08-25,Daily ICU occupancy,14.0,Denmark
+2022-08-26,Daily ICU occupancy,13.0,Denmark
+2022-08-27,Daily ICU occupancy,15.0,Denmark
+2022-08-28,Daily ICU occupancy,17.0,Denmark
+2022-08-29,Daily ICU occupancy,19.0,Denmark
+2022-08-30,Daily ICU occupancy,15.0,Denmark
+2022-08-31,Daily ICU occupancy,9.0,Denmark
+2022-09-01,Daily ICU occupancy,9.0,Denmark
+2022-09-02,Daily ICU occupancy,7.0,Denmark
+2022-09-03,Daily ICU occupancy,7.0,Denmark
+2022-09-04,Daily ICU occupancy,7.0,Denmark
+2022-09-05,Daily ICU occupancy,7.0,Denmark
+2022-09-06,Daily ICU occupancy,8.0,Denmark
+2022-09-07,Daily ICU occupancy,7.0,Denmark
+2022-09-08,Daily ICU occupancy,6.0,Denmark
+2022-09-09,Daily ICU occupancy,7.0,Denmark
+2022-09-10,Daily ICU occupancy,7.0,Denmark
+2022-09-11,Daily ICU occupancy,7.0,Denmark
+2022-09-12,Daily ICU occupancy,6.0,Denmark
+2022-09-13,Daily ICU occupancy,9.0,Denmark
+2022-09-14,Daily ICU occupancy,9.0,Denmark
+2022-09-15,Daily ICU occupancy,8.0,Denmark
+2022-09-16,Daily ICU occupancy,8.0,Denmark
+2022-09-17,Daily ICU occupancy,8.0,Denmark
+2022-09-18,Daily ICU occupancy,8.0,Denmark
+2022-09-19,Daily ICU occupancy,10.0,Denmark
+2022-09-20,Daily ICU occupancy,7.0,Denmark
+2022-09-21,Daily ICU occupancy,6.0,Denmark
+2022-09-22,Daily ICU occupancy,6.0,Denmark
+2022-09-23,Daily ICU occupancy,9.0,Denmark
+2022-09-24,Daily ICU occupancy,8.0,Denmark
+2022-09-25,Daily ICU occupancy,7.0,Denmark
+2022-09-26,Daily ICU occupancy,4.0,Denmark
+2022-09-27,Daily ICU occupancy,6.0,Denmark
+2022-09-28,Daily ICU occupancy,8.0,Denmark
+2022-09-29,Daily ICU occupancy,8.0,Denmark
+2022-09-30,Daily ICU occupancy,11.0,Denmark
+2022-10-01,Daily ICU occupancy,11.0,Denmark
+2022-10-02,Daily ICU occupancy,11.0,Denmark
+2022-10-03,Daily ICU occupancy,9.0,Denmark
+2022-10-04,Daily ICU occupancy,10.0,Denmark
+2022-10-05,Daily ICU occupancy,10.0,Denmark
+2022-10-06,Daily ICU occupancy,13.0,Denmark
+2022-10-07,Daily ICU occupancy,17.0,Denmark
+2022-10-08,Daily ICU occupancy,17.0,Denmark
+2022-10-09,Daily ICU occupancy,17.0,Denmark
+2022-10-10,Daily ICU occupancy,18.0,Denmark
+2022-10-11,Daily ICU occupancy,18.0,Denmark
+2022-10-12,Daily ICU occupancy,18.0,Denmark
+2022-10-13,Daily ICU occupancy,14.0,Denmark
+2022-10-14,Daily ICU occupancy,14.0,Denmark
+2022-10-15,Daily ICU occupancy,15.0,Denmark
+2022-10-16,Daily ICU occupancy,16.0,Denmark
+2022-10-17,Daily ICU occupancy,17.0,Denmark
+2022-10-18,Daily ICU occupancy,20.0,Denmark
+2022-10-19,Daily ICU occupancy,17.0,Denmark
+2022-10-20,Daily ICU occupancy,16.0,Denmark
+2022-10-21,Daily ICU occupancy,16.0,Denmark
+2022-10-22,Daily ICU occupancy,15.0,Denmark
+2022-10-23,Daily ICU occupancy,14.0,Denmark
+2022-10-24,Daily ICU occupancy,12.0,Denmark
+2022-10-25,Daily ICU occupancy,12.0,Denmark
+2022-10-26,Daily ICU occupancy,13.0,Denmark
+2022-10-27,Daily ICU occupancy,14.0,Denmark
+2022-10-28,Daily ICU occupancy,11.0,Denmark
+2022-10-29,Daily ICU occupancy,13.0,Denmark
+2022-10-30,Daily ICU occupancy,15.0,Denmark
+2022-10-31,Daily ICU occupancy,18.0,Denmark
+2022-11-01,Daily ICU occupancy,17.0,Denmark
+2022-11-02,Daily ICU occupancy,15.0,Denmark
+2022-11-03,Daily ICU occupancy,16.0,Denmark
+2022-11-04,Daily ICU occupancy,13.0,Denmark
+2022-11-05,Daily ICU occupancy,13.0,Denmark
+2022-11-06,Daily ICU occupancy,13.0,Denmark
+2022-11-07,Daily ICU occupancy,12.0,Denmark
+2022-11-08,Daily ICU occupancy,13.0,Denmark
+2022-11-09,Daily ICU occupancy,13.0,Denmark
+2022-11-10,Daily ICU occupancy,13.0,Denmark
+2022-11-11,Daily ICU occupancy,13.0,Denmark
+2022-11-12,Daily ICU occupancy,13.0,Denmark
+2022-11-13,Daily ICU occupancy,13.0,Denmark
+2022-11-14,Daily ICU occupancy,12.0,Denmark
+2022-11-15,Daily ICU occupancy,8.0,Denmark
+2022-11-16,Daily ICU occupancy,9.0,Denmark
+2022-11-17,Daily ICU occupancy,10.0,Denmark
+2022-11-18,Daily ICU occupancy,11.0,Denmark
+2022-11-19,Daily ICU occupancy,10.0,Denmark
+2022-11-20,Daily ICU occupancy,9.0,Denmark
+2022-11-21,Daily ICU occupancy,8.0,Denmark
+2022-11-22,Daily ICU occupancy,10.0,Denmark
+2022-11-23,Daily ICU occupancy,8.0,Denmark
+2022-11-24,Daily ICU occupancy,9.0,Denmark
+2022-11-25,Daily ICU occupancy,11.0,Denmark
+2022-11-26,Daily ICU occupancy,9.0,Denmark
+2022-11-27,Daily ICU occupancy,10.0,Denmark
+2022-11-28,Daily ICU occupancy,8.0,Denmark
+2022-11-29,Daily ICU occupancy,8.0,Denmark
+2022-11-30,Daily ICU occupancy,7.0,Denmark
+2022-12-01,Daily ICU occupancy,9.0,Denmark
+2022-12-02,Daily ICU occupancy,10.0,Denmark
+2022-12-03,Daily ICU occupancy,8.0,Denmark
+2022-12-04,Daily ICU occupancy,10.0,Denmark
+2022-12-05,Daily ICU occupancy,8.0,Denmark
+2022-12-06,Daily ICU occupancy,9.0,Denmark
+2022-12-07,Daily ICU occupancy,9.0,Denmark
+2022-12-08,Daily ICU occupancy,10.0,Denmark
+2022-12-09,Daily ICU occupancy,9.0,Denmark
+2022-12-10,Daily ICU occupancy,10.0,Denmark
+2022-12-11,Daily ICU occupancy,10.0,Denmark
+2022-12-12,Daily ICU occupancy,10.0,Denmark
+2022-12-13,Daily ICU occupancy,8.0,Denmark
+2022-12-14,Daily ICU occupancy,11.0,Denmark
+2022-12-15,Daily ICU occupancy,13.0,Denmark
+2022-12-16,Daily ICU occupancy,16.0,Denmark
+2022-12-17,Daily ICU occupancy,12.0,Denmark
+2022-12-18,Daily ICU occupancy,12.0,Denmark
+2022-12-19,Daily ICU occupancy,13.0,Denmark
+2022-12-20,Daily ICU occupancy,16.0,Denmark
+2022-12-21,Daily ICU occupancy,18.0,Denmark
+2022-12-22,Daily ICU occupancy,16.0,Denmark
+2022-12-23,Daily ICU occupancy,18.0,Denmark
+2022-12-24,Daily ICU occupancy,18.0,Denmark
+2022-12-25,Daily ICU occupancy,18.0,Denmark
+2022-12-26,Daily ICU occupancy,18.0,Denmark
+2022-12-27,Daily ICU occupancy,21.0,Denmark
+2022-12-28,Daily ICU occupancy,22.0,Denmark
+2022-12-29,Daily ICU occupancy,22.0,Denmark
+2022-12-30,Daily ICU occupancy,22.0,Denmark
+2022-12-31,Daily ICU occupancy,22.0,Denmark
+2023-01-01,Daily ICU occupancy,22.0,Denmark
+2023-01-02,Daily ICU occupancy,22.0,Denmark
+2023-01-03,Daily ICU occupancy,22.0,Denmark
+2023-01-04,Daily ICU occupancy,18.0,Denmark
+2023-01-05,Daily ICU occupancy,18.0,Denmark
+2023-01-06,Daily ICU occupancy,17.0,Denmark
+2023-01-07,Daily ICU occupancy,14.0,Denmark
+2023-01-08,Daily ICU occupancy,15.0,Denmark
+2023-01-09,Daily ICU occupancy,18.0,Denmark
+2023-01-10,Daily ICU occupancy,14.0,Denmark
+2023-01-11,Daily ICU occupancy,15.0,Denmark
+2023-01-12,Daily ICU occupancy,14.0,Denmark
+2023-01-13,Daily ICU occupancy,15.0,Denmark
+2023-01-14,Daily ICU occupancy,15.0,Denmark
+2023-01-15,Daily ICU occupancy,15.0,Denmark
+2023-01-16,Daily ICU occupancy,15.0,Denmark
+2023-01-17,Daily ICU occupancy,17.0,Denmark
+2023-01-18,Daily ICU occupancy,16.0,Denmark
+2023-01-19,Daily ICU occupancy,18.0,Denmark
+2023-01-20,Daily ICU occupancy,18.0,Denmark
+2023-01-21,Daily ICU occupancy,20.0,Denmark
+2023-01-22,Daily ICU occupancy,20.0,Denmark
+2023-01-23,Daily ICU occupancy,19.0,Denmark
+2023-01-24,Daily ICU occupancy,18.0,Denmark
+2023-01-25,Daily ICU occupancy,21.0,Denmark
+2023-01-26,Daily ICU occupancy,19.0,Denmark
+2023-01-27,Daily ICU occupancy,18.0,Denmark
+2023-01-28,Daily ICU occupancy,18.0,Denmark
+2023-01-29,Daily ICU occupancy,17.0,Denmark
+2023-01-30,Daily ICU occupancy,17.0,Denmark
+2023-01-31,Daily ICU occupancy,19.0,Denmark
+2023-02-01,Daily ICU occupancy,19.0,Denmark
+2023-02-02,Daily ICU occupancy,19.0,Denmark
+2023-02-03,Daily ICU occupancy,15.0,Denmark
+2023-02-04,Daily ICU occupancy,14.0,Denmark
+2023-02-05,Daily ICU occupancy,14.0,Denmark
+2023-02-06,Daily ICU occupancy,13.0,Denmark
+2023-02-07,Daily ICU occupancy,13.0,Denmark
+2023-02-08,Daily ICU occupancy,13.0,Denmark
+2023-02-09,Daily ICU occupancy,13.0,Denmark
+2023-02-10,Daily ICU occupancy,14.0,Denmark
+2023-02-11,Daily ICU occupancy,14.0,Denmark
+2023-02-12,Daily ICU occupancy,12.0,Denmark
+2023-02-13,Daily ICU occupancy,11.0,Denmark
+2023-02-14,Daily ICU occupancy,12.0,Denmark
+2023-02-15,Daily ICU occupancy,13.0,Denmark
+2023-02-16,Daily ICU occupancy,11.0,Denmark
+2023-02-17,Daily ICU occupancy,12.0,Denmark
+2023-02-18,Daily ICU occupancy,8.0,Denmark
+2023-02-19,Daily ICU occupancy,7.0,Denmark
+2023-02-20,Daily ICU occupancy,7.0,Denmark
+2023-02-21,Daily ICU occupancy,9.0,Denmark
+2023-02-22,Daily ICU occupancy,7.0,Denmark
+2023-02-23,Daily ICU occupancy,8.0,Denmark
+2023-02-24,Daily ICU occupancy,8.0,Denmark
+2023-02-25,Daily ICU occupancy,7.0,Denmark
+2023-02-26,Daily ICU occupancy,5.0,Denmark
+2023-02-27,Daily ICU occupancy,7.0,Denmark
+2023-02-28,Daily ICU occupancy,6.0,Denmark
+2023-03-01,Daily ICU occupancy,6.0,Denmark
+2023-03-02,Daily ICU occupancy,5.0,Denmark
+2023-03-03,Daily ICU occupancy,8.0,Denmark
+2023-03-04,Daily ICU occupancy,9.0,Denmark
+2023-03-05,Daily ICU occupancy,7.0,Denmark
+2023-03-06,Daily ICU occupancy,9.0,Denmark
+2023-03-07,Daily ICU occupancy,6.0,Denmark
+2023-03-08,Daily ICU occupancy,6.0,Denmark
+2023-03-09,Daily ICU occupancy,8.0,Denmark
+2023-03-10,Daily ICU occupancy,4.0,Denmark
+2023-03-11,Daily ICU occupancy,5.0,Denmark
+2023-03-12,Daily ICU occupancy,5.0,Denmark
+2023-03-13,Daily ICU occupancy,5.0,Denmark
+2023-03-14,Daily ICU occupancy,5.0,Denmark
+2023-03-15,Daily ICU occupancy,7.0,Denmark
+2023-03-16,Daily ICU occupancy,7.0,Denmark
+2023-03-17,Daily ICU occupancy,7.0,Denmark
+2023-03-18,Daily ICU occupancy,7.0,Denmark
+2023-03-19,Daily ICU occupancy,6.0,Denmark
+2023-03-20,Daily ICU occupancy,6.0,Denmark
+2023-03-21,Daily ICU occupancy,9.0,Denmark
+2023-03-22,Daily ICU occupancy,11.0,Denmark
+2023-03-23,Daily ICU occupancy,9.0,Denmark
+2023-03-24,Daily ICU occupancy,9.0,Denmark
+2023-03-25,Daily ICU occupancy,3.0,Denmark
+2023-03-26,Daily ICU occupancy,4.0,Denmark
+2023-03-27,Daily ICU occupancy,5.0,Denmark
+2023-03-28,Daily ICU occupancy,11.0,Denmark
+2023-03-29,Daily ICU occupancy,11.0,Denmark
+2023-03-30,Daily ICU occupancy,10.0,Denmark
+2023-03-31,Daily ICU occupancy,7.0,Denmark
+2023-04-01,Daily ICU occupancy,9.0,Denmark
+2023-04-02,Daily ICU occupancy,10.0,Denmark
+2023-04-03,Daily ICU occupancy,13.0,Denmark
+2023-04-04,Daily ICU occupancy,10.0,Denmark
+2023-04-05,Daily ICU occupancy,10.0,Denmark
+2023-04-06,Daily ICU occupancy,11.0,Denmark
+2023-04-07,Daily ICU occupancy,10.0,Denmark
+2023-04-08,Daily ICU occupancy,9.0,Denmark
+2023-04-09,Daily ICU occupancy,9.0,Denmark
+2023-04-10,Daily ICU occupancy,9.0,Denmark
+2023-04-11,Daily ICU occupancy,9.0,Denmark
+2023-04-12,Daily ICU occupancy,12.0,Denmark
+2023-04-13,Daily ICU occupancy,11.0,Denmark
+2023-04-14,Daily ICU occupancy,9.0,Denmark
+2023-04-15,Daily ICU occupancy,7.0,Denmark
+2023-04-16,Daily ICU occupancy,7.0,Denmark
+2023-04-17,Daily ICU occupancy,5.0,Denmark
+2023-04-18,Daily ICU occupancy,4.0,Denmark
+2023-04-19,Daily ICU occupancy,6.0,Denmark
+2023-04-20,Daily ICU occupancy,6.0,Denmark
+2023-04-21,Daily ICU occupancy,4.0,Denmark
+2023-04-22,Daily ICU occupancy,5.0,Denmark
+2023-04-23,Daily ICU occupancy,5.0,Denmark
+2023-04-24,Daily ICU occupancy,13.0,Denmark
+2023-04-25,Daily ICU occupancy,9.0,Denmark
+2023-04-26,Daily ICU occupancy,9.0,Denmark
+2023-04-27,Daily ICU occupancy,9.0,Denmark
+2023-04-28,Daily ICU occupancy,7.0,Denmark
+2023-04-29,Daily ICU occupancy,6.0,Denmark
+2023-04-30,Daily ICU occupancy,6.0,Denmark
+2023-05-01,Daily ICU occupancy,5.0,Denmark
+2023-05-02,Daily ICU occupancy,10.0,Denmark
+2023-05-03,Daily ICU occupancy,11.0,Denmark
+2023-05-04,Daily ICU occupancy,9.0,Denmark
+2023-05-05,Daily ICU occupancy,9.0,Denmark
+2023-05-06,Daily ICU occupancy,8.0,Denmark
+2023-05-07,Daily ICU occupancy,8.0,Denmark
+2023-05-08,Daily ICU occupancy,11.0,Denmark
+2023-05-09,Daily ICU occupancy,9.0,Denmark
+2023-05-10,Daily ICU occupancy,10.0,Denmark
+2023-05-11,Daily ICU occupancy,10.0,Denmark
+2023-05-12,Daily ICU occupancy,10.0,Denmark
+2023-05-13,Daily ICU occupancy,7.0,Denmark
+2023-05-14,Daily ICU occupancy,5.0,Denmark
+2023-05-15,Daily ICU occupancy,5.0,Denmark
+2023-05-16,Daily ICU occupancy,5.0,Denmark
+2023-05-17,Daily ICU occupancy,6.0,Denmark
+2023-05-18,Daily ICU occupancy,6.0,Denmark
+2023-05-19,Daily ICU occupancy,6.0,Denmark
+2023-05-20,Daily ICU occupancy,6.0,Denmark
+2023-05-21,Daily ICU occupancy,6.0,Denmark
+2023-05-22,Daily ICU occupancy,6.0,Denmark
+2023-05-23,Daily ICU occupancy,6.0,Denmark
+2023-05-24,Daily ICU occupancy,8.0,Denmark
+2023-05-25,Daily ICU occupancy,8.0,Denmark
+2023-05-26,Daily ICU occupancy,9.0,Denmark
+2023-05-27,Daily ICU occupancy,8.0,Denmark
+2023-05-28,Daily ICU occupancy,4.0,Denmark
+2023-05-29,Daily ICU occupancy,5.0,Denmark
+2023-05-30,Daily ICU occupancy,6.0,Denmark
+2023-05-31,Daily ICU occupancy,6.0,Denmark
+2023-06-01,Daily ICU occupancy,5.0,Denmark
+2023-06-02,Daily ICU occupancy,4.0,Denmark
+2023-06-03,Daily ICU occupancy,4.0,Denmark
+2023-06-04,Daily ICU occupancy,4.0,Denmark
+2023-06-05,Daily ICU occupancy,4.0,Denmark
+2023-06-06,Daily ICU occupancy,4.0,Denmark
+2023-06-07,Daily ICU occupancy,5.0,Denmark
+2023-06-08,Daily ICU occupancy,3.0,Denmark
+2023-06-09,Daily ICU occupancy,2.0,Denmark
+2023-06-10,Daily ICU occupancy,4.0,Denmark
+2023-06-11,Daily ICU occupancy,4.0,Denmark
+2023-06-12,Daily ICU occupancy,3.0,Denmark

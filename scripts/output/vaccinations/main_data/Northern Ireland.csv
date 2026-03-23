@@ -1,324 +1,896 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
-Northern Ireland,2021-01-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,91954.0,78005.0,13949.0,
-Northern Ireland,2021-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,99475.0,84187.0,15288.0,
-Northern Ireland,2021-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,109257.0,91417.0,17840.0,
-Northern Ireland,2021-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,121711.0,102701.0,19010.0,
-Northern Ireland,2021-01-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,133831.0,114567.0,19264.0,
-Northern Ireland,2021-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,137380.0,117906.0,19474.0,
-Northern Ireland,2021-01-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,140561.0,120387.0,20174.0,
-Northern Ireland,2021-01-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,146733.0,125717.0,21016.0,
-Northern Ireland,2021-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,154436.0,132857.0,21579.0,
-Northern Ireland,2021-01-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,160396.0,138436.0,21960.0,
-Northern Ireland,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,166538.0,144212.0,22326.0,
-Northern Ireland,2021-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,173549.0,151039.0,22510.0,
-Northern Ireland,2021-01-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,177026.0,154366.0,22660.0,
-Northern Ireland,2021-01-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,178331.0,155644.0,22687.0,
-Northern Ireland,2021-01-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,182355.0,159642.0,22713.0,
-Northern Ireland,2021-01-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,186112.0,163317.0,22795.0,
-Northern Ireland,2021-01-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,191050.0,168140.0,22910.0,
-Northern Ireland,2021-01-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,199211.0,175284.0,23927.0,
-Northern Ireland,2021-01-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,220201.0,196131.0,24070.0,
-Northern Ireland,2021-01-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,228211.0,204065.0,24146.0,
-Northern Ireland,2021-01-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,238924.0,214601.0,24323.0,
-Northern Ireland,2021-01-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,246421.0,221809.0,24612.0,
-Northern Ireland,2021-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,258311.0,233429.0,24882.0,
-Northern Ireland,2021-02-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,271826.0,246671.0,25155.0,
-Northern Ireland,2021-02-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,289274.0,263735.0,25539.0,
-Northern Ireland,2021-02-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,301279.0,275232.0,26047.0,
-Northern Ireland,2021-02-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,316420.0,289889.0,26531.0,
-Northern Ireland,2021-02-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,323122.0,295915.0,27207.0,
-Northern Ireland,2021-02-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,330941.0,303478.0,27463.0,
-Northern Ireland,2021-02-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,345195.0,317606.0,27589.0,
-Northern Ireland,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,361430.0,333658.0,27772.0,
-Northern Ireland,2021-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,381894.0,353757.0,28137.0,
-Northern Ireland,2021-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,401966.0,373414.0,28552.0,
-Northern Ireland,2021-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,416708.0,387771.0,28937.0,
-Northern Ireland,2021-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,420077.0,391101.0,28976.0,
-Northern Ireland,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,426248.0,397243.0,29005.0,
-Northern Ireland,2021-02-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,438708.0,409507.0,29201.0,
-Northern Ireland,2021-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,447685.0,418209.0,29476.0,
-Northern Ireland,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,457581.0,427569.0,30012.0,
-Northern Ireland,2021-02-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,466524.0,436143.0,30381.0,
-Northern Ireland,2021-02-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,473670.0,442917.0,30753.0,
-Northern Ireland,2021-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,488826.0,458030.0,30796.0,
-Northern Ireland,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,499206.0,468129.0,31077.0,
-Northern Ireland,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,509580.0,478235.0,31345.0,
-Northern Ireland,2021-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,523230.0,491593.0,31637.0,
-Northern Ireland,2021-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,537086.0,505188.0,31898.0,
-Northern Ireland,2021-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,548294.0,515678.0,32616.0,
-Northern Ireland,2021-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,553661.0,520996.0,32665.0,
-Northern Ireland,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,558597.0,525400.0,33197.0,
-Northern Ireland,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,572759.0,537389.0,35370.0,
-Northern Ireland,2021-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,582881.0,545019.0,37862.0,
-Northern Ireland,2021-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,596860.0,556721.0,40139.0,
-Northern Ireland,2021-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,609798.0,568011.0,41787.0,
-Northern Ireland,2021-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,619315.0,577219.0,42096.0,
-Northern Ireland,2021-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,625144.0,582914.0,42230.0,
-Northern Ireland,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,631654.0,588803.0,42851.0,
-Northern Ireland,2021-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,641121.0,596527.0,44594.0,
-Northern Ireland,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,648028.0,601101.0,46927.0,
-Northern Ireland,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,655643.0,606695.0,48948.0,
-Northern Ireland,2021-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,664029.0,614629.0,49400.0,
-Northern Ireland,2021-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,671514.0,621462.0,50052.0,
-Northern Ireland,2021-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,677602.0,625195.0,52407.0,
-Northern Ireland,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,684097.0,629461.0,54636.0,
-Northern Ireland,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,692264.0,634019.0,58245.0,
-Northern Ireland,2021-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,704747.0,640801.0,63946.0,
-Northern Ireland,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,713392.0,646190.0,67202.0,
-Northern Ireland,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,726290.0,655581.0,70709.0,
-Northern Ireland,2021-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,738286.0,662973.0,75313.0,
-Northern Ireland,2021-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,746254.0,667758.0,78496.0,
-Northern Ireland,2021-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,776211.0,687528.0,88683.0,
-Northern Ireland,2021-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,776211.0,687528.0,88683.0,
-Northern Ireland,2021-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,791117.0,694863.0,96254.0,
-Northern Ireland,2021-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,808241.0,703334.0,104907.0,
-Northern Ireland,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,825310.0,711673.0,113637.0,
-Northern Ireland,2021-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,839609.0,719260.0,120349.0,
-Northern Ireland,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,850041.0,726589.0,123452.0,
-Northern Ireland,2021-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,855488.0,730471.0,125017.0,
-Northern Ireland,2021-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,872751.0,740729.0,132022.0,
-Northern Ireland,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,887598.0,749112.0,138486.0,
-Northern Ireland,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,901766.0,756013.0,145753.0,
-Northern Ireland,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,918459.0,765005.0,153454.0,
-Northern Ireland,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,932502.0,772240.0,160262.0,
-Northern Ireland,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,939591.0,777108.0,162483.0,
-Northern Ireland,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,943750.0,779932.0,163818.0,
-Northern Ireland,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,950868.0,785494.0,165374.0,
-Northern Ireland,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,958783.0,790860.0,167923.0,
-Northern Ireland,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,973182.0,799410.0,173772.0,
-Northern Ireland,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,987819.0,806005.0,181814.0,
-Northern Ireland,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1003165.0,813468.0,189697.0,
-Northern Ireland,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1014642.0,820032.0,194610.0,
-Northern Ireland,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1025912.0,826412.0,199500.0,
-Northern Ireland,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1042365.0,831895.0,210470.0,
-Northern Ireland,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1062178.0,838049.0,224129.0,
-Northern Ireland,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1081565.0,844284.0,237281.0,
-Northern Ireland,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1100577.0,850103.0,250474.0,
-Northern Ireland,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1118743.0,855826.0,262917.0,
-Northern Ireland,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1128654.0,860313.0,268341.0,
-Northern Ireland,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1137331.0,863712.0,273619.0,
-Northern Ireland,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1152820.0,869342.0,283478.0,
-Northern Ireland,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1174847.0,876290.0,298557.0,
-Northern Ireland,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1195663.0,883813.0,311850.0,
-Northern Ireland,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1221153.0,892787.0,328366.0,
-Northern Ireland,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1237267.0,898858.0,338409.0,
-Northern Ireland,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1247931.0,905736.0,342195.0,
-Northern Ireland,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1259478.0,912444.0,347034.0,
-Northern Ireland,2021-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1275695.0,919292.0,356403.0,
-Northern Ireland,2021-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1344863.0,927326.0,417537.0,
-Northern Ireland,2021-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1354660.0,932426.0,422234.0,
-Northern Ireland,2021-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1364658.0,937782.0,426876.0,
-Northern Ireland,2021-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1374895.0,943022.0,431873.0,
-Northern Ireland,2021-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1381581.0,944694.0,436887.0,
-Northern Ireland,2021-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1397087.0,950778.0,446309.0,
-Northern Ireland,2021-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1416826.0,957063.0,459763.0,
-Northern Ireland,2021-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1436817.0,963315.0,473502.0,
-Northern Ireland,2021-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1450283.0,968386.0,481897.0,
-Northern Ireland,2021-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1460425.0,972597.0,487828.0,
-Northern Ireland,2021-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1470135.0,976582.0,493553.0,
-Northern Ireland,2021-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1485125.0,982038.0,503087.0,
-Northern Ireland,2021-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1501023.0,986008.0,515015.0,
-Northern Ireland,2021-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1515760.0,989569.0,526191.0,
-Northern Ireland,2021-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1530025.0,992682.0,537343.0,
-Northern Ireland,2021-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1541028.0,994753.0,546275.0,
-Northern Ireland,2021-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1548336.0,995905.0,552431.0,
-Northern Ireland,2021-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1556832.0,997605.0,559227.0,
-Northern Ireland,2021-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1568045.0,1000928.0,567117.0,
-Northern Ireland,2021-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1579129.0,1004070.0,575059.0,
-Northern Ireland,2021-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1592566.0,1008589.0,583977.0,
-Northern Ireland,2021-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1604801.0,1011836.0,592965.0,
-Northern Ireland,2021-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1616351.0,1014048.0,602303.0,
-Northern Ireland,2021-05-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1624153.0,1017941.0,606212.0,
-Northern Ireland,2021-05-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1634089.0,1022025.0,612064.0,
-Northern Ireland,2021-05-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1647207.0,1026443.0,620764.0,
-Northern Ireland,2021-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1660981.0,1030811.0,630170.0,
-Northern Ireland,2021-05-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1674026.0,1034143.0,639883.0,
-Northern Ireland,2021-05-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1686410.0,1037892.0,648518.0,
-Northern Ireland,2021-05-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1695321.0,1040697.0,654624.0,
-Northern Ireland,2021-05-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1702304.0,1044147.0,658157.0,
-Northern Ireland,2021-05-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1709840.0,1048350.0,661490.0,
-Northern Ireland,2021-05-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1720107.0,1053150.0,666957.0,
-Northern Ireland,2021-06-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1737125.0,1061550.0,675575.0,
-Northern Ireland,2021-06-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1758173.0,1073775.0,684398.0,
-Northern Ireland,2021-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1771123.0,1078917.0,692206.0,
-Northern Ireland,2021-06-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1782596.0,1083278.0,699318.0,
-Northern Ireland,2021-06-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1790718.0,1087136.0,703582.0,
-Northern Ireland,2021-06-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1800814.0,1090693.0,710121.0,
-Northern Ireland,2021-06-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1814278.0,1094478.0,719800.0,
-Northern Ireland,2021-06-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1826614.0,1098614.0,728000.0,
-Northern Ireland,2021-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1837819.0,1101629.0,736190.0,
-Northern Ireland,2021-06-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1849169.0,1105767.0,743402.0,
-Northern Ireland,2021-06-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1862979.0,1113159.0,749820.0,
-Northern Ireland,2021-06-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1863947.0,1113591.0,750356.0,
-Northern Ireland,2021-06-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1863947.0,1113591.0,750356.0,
-Northern Ireland,2021-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1878171.0,1115747.0,762424.0,
-Northern Ireland,2021-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1899610.0,1126677.0,772933.0,
-Northern Ireland,2021-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1911239.0,1128670.0,782569.0,
-Northern Ireland,2021-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1922617.0,1132546.0,790071.0,
-Northern Ireland,2021-06-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1932702.0,1135308.0,797394.0,
-Northern Ireland,2021-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1941162.0,1137778.0,803384.0,
-Northern Ireland,2021-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1951243.0,1140838.0,810405.0,
-Northern Ireland,2021-06-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1960401.0,1143223.0,817178.0,
-Northern Ireland,2021-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1971061.0,1147153.0,823908.0,
-Northern Ireland,2021-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1980708.0,1150202.0,830506.0,
-Northern Ireland,2021-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1988884.0,1152720.0,836164.0,
-Northern Ireland,2021-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1996954.0,1155288.0,841666.0,
-Northern Ireland,2021-06-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2003117.0,1157491.0,845626.0,
-Northern Ireland,2021-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2010028.0,1160024.0,850004.0,
-Northern Ireland,2021-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2018191.0,1162455.0,855736.0,
-Northern Ireland,2021-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2027724.0,1164792.0,862932.0,
-Northern Ireland,2021-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2038058.0,1166842.0,871216.0,
-Northern Ireland,2021-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2046141.0,1168739.0,877402.0,
-Northern Ireland,2021-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2054420.0,1170556.0,883864.0,
-Northern Ireland,2021-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2061988.0,1171653.0,890335.0,
-Northern Ireland,2021-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2070574.0,1173365.0,897209.0,
-Northern Ireland,2021-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2079758.0,1175151.0,904607.0,
-Northern Ireland,2021-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2089386.0,1177136.0,912250.0,
-Northern Ireland,2021-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2099174.0,1179096.0,920078.0,
-Northern Ireland,2021-07-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2107863.0,1181008.0,926855.0,
-Northern Ireland,2021-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2115735.0,1182772.0,932963.0,
-Northern Ireland,2021-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2122962.0,1184485.0,938477.0,
-Northern Ireland,2021-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2127703.0,1185689.0,942014.0,
-Northern Ireland,2021-07-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2168431.0,1185869.0,982562.0,
-Northern Ireland,2021-07-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2175663.0,1187005.0,988658.0,
-Northern Ireland,2021-07-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2184162.0,1188669.0,995493.0,
-Northern Ireland,2021-07-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2192707.0,1191038.0,1001669.0,
-Northern Ireland,2021-07-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2195815.0,1192181.0,1003634.0,
-Northern Ireland,2021-07-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2200579.0,1193854.0,1006725.0,
-Northern Ireland,2021-07-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2204177.0,1195271.0,1008906.0,
-Northern Ireland,2021-07-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2208466.0,1196995.0,1011471.0,
-Northern Ireland,2021-07-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2215383.0,1198692.0,1016691.0,
-Northern Ireland,2021-07-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2224108.0,1201462.0,1022646.0,
-Northern Ireland,2021-07-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2239652.0,1209145.0,1030507.0,
-Northern Ireland,2021-07-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2248598.0,1212236.0,1036362.0,
-Northern Ireland,2021-07-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2255519.0,1215254.0,1040265.0,
-Northern Ireland,2021-07-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2262641.0,1218732.0,1043909.0,
-Northern Ireland,2021-08-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2267984.0,1219389.0,1048595.0,
-Northern Ireland,2021-08-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2276708.0,1220430.0,1056278.0,
-Northern Ireland,2021-08-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2284540.0,1221743.0,1062797.0,
-Northern Ireland,2021-08-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2292163.0,1223303.0,1068860.0,
-Northern Ireland,2021-08-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2298017.0,1224675.0,1073342.0,
-Northern Ireland,2021-08-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2310931.0,1231106.0,1079825.0,
-Northern Ireland,2021-08-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2316713.0,1232450.0,1084263.0,
-Northern Ireland,2021-08-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2322659.0,1233437.0,1089222.0,
-Northern Ireland,2021-08-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2335798.0,1240811.0,1094987.0,
-Northern Ireland,2021-08-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2343361.0,1243125.0,1100236.0,
-Northern Ireland,2021-08-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2349717.0,1244812.0,1104905.0,
-Northern Ireland,2021-08-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2356600.0,1246907.0,1109693.0,
-Northern Ireland,2021-08-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2362361.0,1248417.0,1113944.0,
-Northern Ireland,2021-08-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2366260.0,1249579.0,1116681.0,
-Northern Ireland,2021-08-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2371369.0,1251182.0,1120187.0,
-Northern Ireland,2021-08-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2376682.0,1252746.0,1123936.0,
-Northern Ireland,2021-08-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2384396.0,1255312.0,1129084.0,
-Northern Ireland,2021-08-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2389725.0,1256779.0,1132946.0,
-Northern Ireland,2021-08-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2395542.0,1258640.0,1136902.0,
-Northern Ireland,2021-08-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2401296.0,1260373.0,1140923.0,
-Northern Ireland,2021-08-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2408221.0,1264515.0,1143706.0,
-Northern Ireland,2021-08-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2414189.0,1268173.0,1146016.0,
-Northern Ireland,2021-08-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2417807.0,1270066.0,1147741.0,
-Northern Ireland,2021-08-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2422194.0,1272071.0,1150123.0,
-Northern Ireland,2021-08-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2428676.0,1275554.0,1153122.0,
-Northern Ireland,2021-08-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2434651.0,1279093.0,1155558.0,
-Northern Ireland,2021-08-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2438420.0,1281246.0,1157174.0,
-Northern Ireland,2021-08-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2440759.0,1282410.0,1158349.0,
-Northern Ireland,2021-08-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2442855.0,1283099.0,1159756.0,
-Northern Ireland,2021-08-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2445876.0,1284443.0,1161433.0,
-Northern Ireland,2021-08-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2449587.0,1286025.0,1163562.0,
-Northern Ireland,2021-09-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2452955.0,1287633.0,1165322.0,
-Northern Ireland,2021-09-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2456256.0,1288682.0,1167574.0,
-Northern Ireland,2021-09-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2459543.0,1290060.0,1169483.0,
-Northern Ireland,2021-09-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2462140.0,1291010.0,1171130.0,
-Northern Ireland,2021-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2465965.0,1291944.0,1174021.0,
-Northern Ireland,2021-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2470155.0,1292837.0,1177318.0,
-Northern Ireland,2021-09-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2475196.0,1293709.0,1181487.0,
-Northern Ireland,2021-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2479883.0,1294896.0,1184987.0,
-Northern Ireland,2021-09-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2484598.0,1296071.0,1188527.0,
-Northern Ireland,2021-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2489473.0,1296830.0,1192643.0,
-Northern Ireland,2021-09-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2492097.0,1297228.0,1194869.0,
-Northern Ireland,2021-09-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2493882.0,1297882.0,1196000.0,
-Northern Ireland,2021-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2496461.0,1298956.0,1197505.0,
-Northern Ireland,2021-09-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2498979.0,1300383.0,1198596.0,
-Northern Ireland,2021-09-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2501234.0,1302069.0,1199165.0,
-Northern Ireland,2021-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2503795.0,1303889.0,1199906.0,
-Northern Ireland,2021-09-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2505001.0,1304565.0,1200436.0,
-Northern Ireland,2021-09-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2505605.0,1304999.0,1200606.0,
-Northern Ireland,2021-09-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2506630.0,1305556.0,1201074.0,
-Northern Ireland,2021-09-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2507983.0,1306326.0,1201657.0,
-Northern Ireland,2021-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2509133.0,1306822.0,1202311.0,
-Northern Ireland,2021-09-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2510683.0,1307566.0,1203117.0,
-Northern Ireland,2021-09-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2512101.0,1308437.0,1203664.0,
-Northern Ireland,2021-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2513246.0,1309240.0,1204006.0,
-Northern Ireland,2021-09-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2514352.0,1309914.0,1204438.0,
-Northern Ireland,2021-09-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2515477.0,1310435.0,1205042.0,
-Northern Ireland,2021-09-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2517345.0,1311183.0,1206162.0,
-Northern Ireland,2021-09-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2518771.0,1311852.0,1206919.0,
-Northern Ireland,2021-09-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2520419.0,1312618.0,1207801.0,
-Northern Ireland,2021-09-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2526802.0,1313395.0,1208665.0,4742.0
-Northern Ireland,2021-10-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2528747.0,1313692.0,1209561.0,5494.0
-Northern Ireland,2021-10-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2530463.0,1313809.0,1210458.0,6196.0
-Northern Ireland,2021-10-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2533146.0,1313979.0,1211686.0,7481.0
-Northern Ireland,2021-10-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2536408.0,1314284.0,1213124.0,9000.0
-Northern Ireland,2021-10-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2539912.0,1314491.0,1214464.0,10957.0
-Northern Ireland,2021-10-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2542757.0,1314779.0,1215311.0,12667.0
-Northern Ireland,2021-10-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2545973.0,1315167.0,1216564.0,14242.0
-Northern Ireland,2021-10-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2548548.0,1315458.0,1217565.0,15525.0
-Northern Ireland,2021-10-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2550278.0,1315513.0,1218509.0,16256.0
-Northern Ireland,2021-10-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2552545.0,1315593.0,1219098.0,17854.0
-Northern Ireland,2021-10-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2556457.0,1315825.0,1219960.0,20672.0
-Northern Ireland,2021-10-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2561250.0,1316225.0,1221045.0,23980.0
-Northern Ireland,2021-10-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2564092.0,1316528.0,1221785.0,25779.0
-Northern Ireland,2021-10-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2569617.0,1317005.0,1223097.0,29515.0
-Northern Ireland,2021-10-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2571933.0,1317277.0,1223799.0,30857.0
-Northern Ireland,2021-10-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2573372.0,1317336.0,1224459.0,31577.0
-Northern Ireland,2021-10-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2575125.0,1317506.0,1224810.0,32809.0
-Northern Ireland,2021-10-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2578675.0,1317991.0,1225250.0,35434.0
-Northern Ireland,2021-10-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2593676.0,1318733.0,1233927.0,41016.0
-Northern Ireland,2021-10-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2599370.0,1319098.0,1235242.0,45030.0
-Northern Ireland,2021-10-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2606061.0,1319509.0,1237115.0,49437.0
-Northern Ireland,2021-10-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2611178.0,1320056.0,1238076.0,53046.0
-Northern Ireland,2021-10-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2614760.0,1320807.0,1238606.0,55347.0
-Northern Ireland,2021-10-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2618520.0,1321327.0,1239213.0,57980.0
-Northern Ireland,2021-10-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2625815.0,1322277.0,1239986.0,63552.0
-Northern Ireland,2021-10-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2634021.0,1323733.0,1240821.0,69467.0
-Northern Ireland,2021-10-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2643224.0,1325287.0,1241684.0,76253.0
-Northern Ireland,2021-10-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2650769.0,1327040.0,1242418.0,81311.0
-Northern Ireland,2021-10-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2656176.0,1328007.0,1243091.0,85078.0
-Northern Ireland,2021-10-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2659609.0,1328814.0,1243641.0,87154.0
-Northern Ireland,2021-10-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2663473.0,1329419.0,1244076.0,89978.0
-Northern Ireland,2021-11-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2672447.0,1329893.0,1244920.0,97634.0
-Northern Ireland,2021-11-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2682730.0,1330594.0,1245772.0,106364.0
-Northern Ireland,2021-11-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2694799.0,1331683.0,1246319.0,116797.0
-Northern Ireland,2021-11-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2707819.0,1333577.0,1247566.0,126676.0
-Northern Ireland,2021-11-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2715731.0,1334246.0,1248555.0,132930.0
-Northern Ireland,2021-11-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2722452.0,1334763.0,1248919.0,138770.0
-Northern Ireland,2021-11-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2728343.0,1335654.0,1249719.0,142970.0
-Northern Ireland,2021-11-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2741091.0,1337018.0,1250850.0,153223.0
-Northern Ireland,2021-11-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2756029.0,1338808.0,1251729.0,165492.0
-Northern Ireland,2021-11-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2773870.0,1340618.0,1252813.0,180439.0
-Northern Ireland,2021-11-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2790786.0,1342676.0,1254145.0,193965.0
-Northern Ireland,2021-11-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2801975.0,1343471.0,1254811.0,203693.0
-Northern Ireland,2021-11-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2808111.0,1343956.0,1255108.0,209047.0
-Northern Ireland,2021-11-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2814862.0,1344980.0,1255645.0,214237.0
-Northern Ireland,2021-11-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2831525.0,1347213.0,1256509.0,227803.0
-Northern Ireland,2021-11-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2849592.0,1349159.0,1257405.0,243028.0
-Northern Ireland,2021-11-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2871669.0,1351919.0,1258632.0,261118.0
-Northern Ireland,2021-11-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2890873.0,1354392.0,1259572.0,276909.0
-Northern Ireland,2021-11-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2902394.0,1355374.0,1260274.0,286746.0
-Northern Ireland,2021-11-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2907848.0,1355785.0,1260708.0,291355.0
-Northern Ireland,2021-11-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2916048.0,1356343.0,1261448.0,298257.0
-Northern Ireland,2021-11-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2933054.0,1357693.0,1262592.0,312769.0
-Northern Ireland,2021-11-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2952297.0,1359404.0,1263765.0,329128.0
-Northern Ireland,2021-11-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2970478.0,1360946.0,1265081.0,344451.0
-Northern Ireland,2021-11-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2986203.0,1362366.0,1266367.0,357470.0
-Northern Ireland,2021-11-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2986203.0,1362366.0,1266367.0,357470.0
-Northern Ireland,2021-11-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2986203.0,1362366.0,1266367.0,357470.0
-Northern Ireland,2021-11-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3012036.0,1367181.0,1270186.0,374669.0
-Northern Ireland,2021-11-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3030662.0,1368796.0,1271490.0,390376.0
-Northern Ireland,2021-11-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3048854.0,1370570.0,1272784.0,405500.0
-Northern Ireland,2021-12-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3068005.0,1372426.0,1274046.0,421533.0
-Northern Ireland,2021-12-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3085767.0,1374040.0,1275441.0,436286.0
-Northern Ireland,2021-12-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3094393.0,1374981.0,1276190.0,443222.0
-Northern Ireland,2021-12-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3094393.0,1374981.0,1276190.0,443222.0
-Northern Ireland,2021-12-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3121608.0,1378135.0,1278405.0,465068.0
-Northern Ireland,2021-12-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3133807.0,1379165.0,1279456.0,475186.0
-Northern Ireland,2021-12-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3149534.0,1380512.0,1280350.0,488672.0
+Northern Ireland,2021-01-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,91954,78005,13949,
+Northern Ireland,2021-01-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,99475,84187,15288,
+Northern Ireland,2021-01-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,109257,91417,17840,
+Northern Ireland,2021-01-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,121711,102701,19010,
+Northern Ireland,2021-01-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,133831,114567,19264,
+Northern Ireland,2021-01-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,137380,117906,19474,
+Northern Ireland,2021-01-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,140561,120387,20174,
+Northern Ireland,2021-01-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,146733,125717,21016,
+Northern Ireland,2021-01-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,154436,132857,21579,
+Northern Ireland,2021-01-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,160396,138436,21960,
+Northern Ireland,2021-01-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,166538,144212,22326,
+Northern Ireland,2021-01-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,173549,151039,22510,
+Northern Ireland,2021-01-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,177026,154366,22660,
+Northern Ireland,2021-01-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,178331,155644,22687,
+Northern Ireland,2021-01-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,182355,159642,22713,
+Northern Ireland,2021-01-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,186112,163317,22795,
+Northern Ireland,2021-01-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,191050,168140,22910,
+Northern Ireland,2021-01-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,199211,175284,23927,
+Northern Ireland,2021-01-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,220201,196131,24070,
+Northern Ireland,2021-01-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,228211,204065,24146,
+Northern Ireland,2021-01-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,238924,214601,24323,
+Northern Ireland,2021-01-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,246421,221809,24612,
+Northern Ireland,2021-02-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,258311,233429,24882,
+Northern Ireland,2021-02-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,271826,246671,25155,
+Northern Ireland,2021-02-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,289274,263735,25539,
+Northern Ireland,2021-02-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,301279,275232,26047,
+Northern Ireland,2021-02-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,316420,289889,26531,
+Northern Ireland,2021-02-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,323122,295915,27207,
+Northern Ireland,2021-02-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,330941,303478,27463,
+Northern Ireland,2021-02-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,345195,317606,27589,
+Northern Ireland,2021-02-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,361430,333658,27772,
+Northern Ireland,2021-02-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,381894,353757,28137,
+Northern Ireland,2021-02-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,401966,373414,28552,
+Northern Ireland,2021-02-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,416708,387771,28937,
+Northern Ireland,2021-02-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,420077,391101,28976,
+Northern Ireland,2021-02-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,426248,397243,29005,
+Northern Ireland,2021-02-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,438708,409507,29201,
+Northern Ireland,2021-02-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,447685,418209,29476,
+Northern Ireland,2021-02-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,457581,427569,30012,
+Northern Ireland,2021-02-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,466524,436143,30381,
+Northern Ireland,2021-02-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,473670,442917,30753,
+Northern Ireland,2021-02-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,476816,446009,,
+Northern Ireland,2021-02-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,488826,458030,30796,
+Northern Ireland,2021-02-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,499206,468129,31077,
+Northern Ireland,2021-02-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,509580,478235,31345,
+Northern Ireland,2021-02-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,523230,491593,31637,
+Northern Ireland,2021-02-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,537086,505188,31898,
+Northern Ireland,2021-02-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,548294,515678,32616,
+Northern Ireland,2021-02-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,553661,520996,32665,
+Northern Ireland,2021-02-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,558597,525400,33197,
+Northern Ireland,2021-03-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,572759,537389,35370,
+Northern Ireland,2021-03-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,582881,545019,37862,
+Northern Ireland,2021-03-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,596860,556721,40139,
+Northern Ireland,2021-03-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,609798,568011,41787,
+Northern Ireland,2021-03-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,619315,577219,42096,
+Northern Ireland,2021-03-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,625144,582914,42230,
+Northern Ireland,2021-03-07,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,631654,588803,42851,
+Northern Ireland,2021-03-08,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,641121,596527,44594,
+Northern Ireland,2021-03-09,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,648028,601101,46927,
+Northern Ireland,2021-03-10,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,655643,606695,48948,
+Northern Ireland,2021-03-11,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,664029,614629,49400,
+Northern Ireland,2021-03-12,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,671514,621462,50052,
+Northern Ireland,2021-03-13,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,677602,625195,52407,
+Northern Ireland,2021-03-14,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,684097,629461,54636,
+Northern Ireland,2021-03-15,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,692264,634019,58245,
+Northern Ireland,2021-03-16,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,704747,640801,63946,
+Northern Ireland,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,713392,646190,67202,
+Northern Ireland,2021-03-18,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,726290,655581,70709,
+Northern Ireland,2021-03-19,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,738286,662973,75313,
+Northern Ireland,2021-03-20,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,746254,667758,78496,
+Northern Ireland,2021-03-21,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,776211,687528,88683,
+Northern Ireland,2021-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,791117,694863,96254,
+Northern Ireland,2021-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,808241,703334,104907,
+Northern Ireland,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,825310,711673,113637,
+Northern Ireland,2021-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,839609,719260,120349,
+Northern Ireland,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,850041,726589,123452,
+Northern Ireland,2021-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,855488,730471,125017,
+Northern Ireland,2021-03-29,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,872751,740729,132022,
+Northern Ireland,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,887598,749112,138486,
+Northern Ireland,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,901766,756013,145753,
+Northern Ireland,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,918459,765005,153454,
+Northern Ireland,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,932502,772240,160262,
+Northern Ireland,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,939591,777108,162483,
+Northern Ireland,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,943750,779932,163818,
+Northern Ireland,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,950868,785494,165374,
+Northern Ireland,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,958783,790860,167923,
+Northern Ireland,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,973182,799410,173772,
+Northern Ireland,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,987819,806005,181814,
+Northern Ireland,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1003165,813468,189697,
+Northern Ireland,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1014642,820032,194610,
+Northern Ireland,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1025912,826412,199500,
+Northern Ireland,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1042365,831895,210470,
+Northern Ireland,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1062178,838049,224129,
+Northern Ireland,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1081565,844284,237281,
+Northern Ireland,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1100577,850103,250474,
+Northern Ireland,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1118743,855826,262917,
+Northern Ireland,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1128654,860313,268341,
+Northern Ireland,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1137331,863712,273619,
+Northern Ireland,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1152820,869342,283478,
+Northern Ireland,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1174847,876290,298557,
+Northern Ireland,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1195663,883813,311850,
+Northern Ireland,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1221153,892787,328366,
+Northern Ireland,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1237267,898858,338409,
+Northern Ireland,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1247931,905736,342195,
+Northern Ireland,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1259478,912444,347034,
+Northern Ireland,2021-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1275695,919292,356403,
+Northern Ireland,2021-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1295125,,367469,
+Northern Ireland,2021-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1312891,,377302,
+Northern Ireland,2021-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1344863,927326,417537,
+Northern Ireland,2021-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1354660,932426,422234,
+Northern Ireland,2021-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1364658,937782,426876,
+Northern Ireland,2021-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1374895,943022,431873,
+Northern Ireland,2021-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1381581,944694,436887,
+Northern Ireland,2021-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1397087,950778,446309,
+Northern Ireland,2021-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1416826,957063,459763,
+Northern Ireland,2021-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1436817,963315,473502,
+Northern Ireland,2021-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1450283,968386,481897,
+Northern Ireland,2021-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1460425,972597,487828,
+Northern Ireland,2021-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1470135,976582,493553,
+Northern Ireland,2021-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1485125,982038,503087,
+Northern Ireland,2021-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1501023,986008,515015,
+Northern Ireland,2021-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1515760,989569,526191,
+Northern Ireland,2021-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1530025,992682,537343,
+Northern Ireland,2021-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1541028,994753,546275,
+Northern Ireland,2021-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1548336,995905,552431,
+Northern Ireland,2021-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1556832,997605,559227,
+Northern Ireland,2021-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1568045,1000928,567117,
+Northern Ireland,2021-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1579129,1004070,575059,
+Northern Ireland,2021-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1592566,1008589,583977,
+Northern Ireland,2021-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1604801,1011836,592965,
+Northern Ireland,2021-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1616351,1014048,602303,
+Northern Ireland,2021-05-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1624153,1017941,606212,
+Northern Ireland,2021-05-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1634089,1022025,612064,
+Northern Ireland,2021-05-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1647207,1026443,620764,
+Northern Ireland,2021-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1660981,1030811,630170,
+Northern Ireland,2021-05-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1674026,1034143,639883,
+Northern Ireland,2021-05-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1686410,1037892,648518,
+Northern Ireland,2021-05-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1695321,1040697,654624,
+Northern Ireland,2021-05-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1702304,1044147,658157,
+Northern Ireland,2021-05-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1709840,1048350,661490,
+Northern Ireland,2021-05-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1720107,1053150,666957,
+Northern Ireland,2021-06-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1737125,1061550,675575,
+Northern Ireland,2021-06-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1758173,1073775,684398,
+Northern Ireland,2021-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1771123,1078917,692206,
+Northern Ireland,2021-06-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1782596,1083278,699318,
+Northern Ireland,2021-06-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1790718,1087136,703582,
+Northern Ireland,2021-06-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1800814,1090693,710121,
+Northern Ireland,2021-06-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1814278,1094478,719800,
+Northern Ireland,2021-06-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1826614,1098614,728000,
+Northern Ireland,2021-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1837819,1101629,736190,
+Northern Ireland,2021-06-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1849169,1105767,743402,
+Northern Ireland,2021-06-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1862979,1113159,749820,
+Northern Ireland,2021-06-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1863947,1113591,750356,
+Northern Ireland,2021-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1878171,1115747,762424,
+Northern Ireland,2021-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1899610,1126677,772933,
+Northern Ireland,2021-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1911239,1128670,782569,
+Northern Ireland,2021-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1922617,1132546,790071,
+Northern Ireland,2021-06-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1932702,1135308,797394,
+Northern Ireland,2021-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1941162,1137778,803384,
+Northern Ireland,2021-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1951243,1140838,810405,
+Northern Ireland,2021-06-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1960401,1143223,817178,
+Northern Ireland,2021-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1971061,1147153,823908,
+Northern Ireland,2021-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1980708,1150202,830506,
+Northern Ireland,2021-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1988884,1152720,836164,
+Northern Ireland,2021-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,1996954,1155288,841666,
+Northern Ireland,2021-06-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2003117,1157491,845626,
+Northern Ireland,2021-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2010028,1160024,850004,
+Northern Ireland,2021-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2018191,1162455,855736,
+Northern Ireland,2021-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2027724,1164792,862932,
+Northern Ireland,2021-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2038058,1166842,871216,
+Northern Ireland,2021-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2046141,1168739,877402,
+Northern Ireland,2021-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2054420,1170556,883864,
+Northern Ireland,2021-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2061988,1171653,890335,
+Northern Ireland,2021-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2070574,1173365,897209,
+Northern Ireland,2021-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2079758,1175151,904607,
+Northern Ireland,2021-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2089386,1177136,912250,
+Northern Ireland,2021-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2099174,1179096,920078,
+Northern Ireland,2021-07-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2107863,1181008,926855,
+Northern Ireland,2021-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2115735,1182772,932963,
+Northern Ireland,2021-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2122962,1184485,938477,
+Northern Ireland,2021-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2127703,1185689,942014,
+Northern Ireland,2021-07-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2130073,,943778,
+Northern Ireland,2021-07-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2137591,,950145,
+Northern Ireland,2021-07-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2145799,,957236,
+Northern Ireland,2021-07-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2153395,,963532,
+Northern Ireland,2021-07-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,973998,
+Northern Ireland,2021-07-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,978587,
+Northern Ireland,2021-07-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2168431,1185869,982562,
+Northern Ireland,2021-07-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2175663,1187005,988658,
+Northern Ireland,2021-07-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2184162,1188669,995493,
+Northern Ireland,2021-07-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2192707,1191038,1001669,
+Northern Ireland,2021-07-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2195815,1192181,1003634,
+Northern Ireland,2021-07-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2200579,1193854,1006725,
+Northern Ireland,2021-07-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2204177,1195271,1008906,
+Northern Ireland,2021-07-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2208466,1196995,1011471,
+Northern Ireland,2021-07-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2215383,1198692,1016691,
+Northern Ireland,2021-07-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2224108,1201462,1022646,
+Northern Ireland,2021-07-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2239652,1209145,1030507,
+Northern Ireland,2021-07-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2248598,1212236,1036362,
+Northern Ireland,2021-07-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2255519,1215254,1040265,
+Northern Ireland,2021-07-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2262641,1218732,1043909,
+Northern Ireland,2021-08-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2267984,1219389,1048595,
+Northern Ireland,2021-08-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2276708,1220430,1056278,
+Northern Ireland,2021-08-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2284540,1221743,1062797,
+Northern Ireland,2021-08-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2292163,1223303,1068860,
+Northern Ireland,2021-08-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2298017,1224675,1073342,
+Northern Ireland,2021-08-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2310931,1231106,1079825,
+Northern Ireland,2021-08-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2316713,1232450,1084263,
+Northern Ireland,2021-08-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2322659,1233437,1089222,
+Northern Ireland,2021-08-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2335798,1240811,1094987,
+Northern Ireland,2021-08-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2343361,1243125,1100236,
+Northern Ireland,2021-08-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2349717,1244812,1104905,
+Northern Ireland,2021-08-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2356600,1246907,1109693,
+Northern Ireland,2021-08-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2362361,1248417,1113944,
+Northern Ireland,2021-08-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2366260,1249579,1116681,
+Northern Ireland,2021-08-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2371369,1251182,1120187,
+Northern Ireland,2021-08-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2376682,1252746,1123936,
+Northern Ireland,2021-08-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2384396,1255312,1129084,
+Northern Ireland,2021-08-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2389725,1256779,1132946,
+Northern Ireland,2021-08-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2395542,1258640,1136902,
+Northern Ireland,2021-08-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2401296,1260373,1140923,
+Northern Ireland,2021-08-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2408221,1264515,1143706,
+Northern Ireland,2021-08-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2414189,1268173,1146016,
+Northern Ireland,2021-08-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2417807,1270066,1147741,
+Northern Ireland,2021-08-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2422194,1272071,1150123,
+Northern Ireland,2021-08-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2428676,1275554,1153122,
+Northern Ireland,2021-08-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2434651,1279093,1155558,
+Northern Ireland,2021-08-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2438420,1281246,1157174,
+Northern Ireland,2021-08-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2440759,1282410,1158349,
+Northern Ireland,2021-08-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2442855,1283099,1159756,
+Northern Ireland,2021-08-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2445876,1284443,1161433,
+Northern Ireland,2021-08-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2449587,1286025,1163562,
+Northern Ireland,2021-09-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2452955,1287633,1165322,
+Northern Ireland,2021-09-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2456256,1288682,1167574,
+Northern Ireland,2021-09-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2459543,1290060,1169483,
+Northern Ireland,2021-09-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2462140,1291010,1171130,
+Northern Ireland,2021-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2465965,1291944,1174021,
+Northern Ireland,2021-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2470155,1292837,1177318,
+Northern Ireland,2021-09-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2475196,1293709,1181487,
+Northern Ireland,2021-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2479883,1294896,1184987,
+Northern Ireland,2021-09-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2484598,1296071,1188527,
+Northern Ireland,2021-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2489473,1296830,1192643,
+Northern Ireland,2021-09-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2492097,1297228,1194869,
+Northern Ireland,2021-09-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2493882,1297882,1196000,
+Northern Ireland,2021-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2496461,1298956,1197505,
+Northern Ireland,2021-09-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2498979,1300383,1198596,
+Northern Ireland,2021-09-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2501234,1302069,1199165,
+Northern Ireland,2021-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2503795,1303889,1199906,
+Northern Ireland,2021-09-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2505001,1304565,1200436,
+Northern Ireland,2021-09-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2505605,1304999,1200606,
+Northern Ireland,2021-09-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2506630,1305556,1201074,
+Northern Ireland,2021-09-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2507983,1306326,1201657,
+Northern Ireland,2021-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2509133,1306822,1202311,
+Northern Ireland,2021-09-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2510683,1307566,1203117,
+Northern Ireland,2021-09-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2512101,1308437,1203664,
+Northern Ireland,2021-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2513246,1309240,1204006,
+Northern Ireland,2021-09-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2514352,1309914,1204438,
+Northern Ireland,2021-09-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2515477,1310435,1205042,
+Northern Ireland,2021-09-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2517345,1311183,1206162,
+Northern Ireland,2021-09-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2518771,1311852,1206919,
+Northern Ireland,2021-09-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2520419,1312618,1207801,
+Northern Ireland,2021-09-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2526802,1313395,1208665,4742
+Northern Ireland,2021-10-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2528747,1313692,1209561,5494
+Northern Ireland,2021-10-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2530463,1313809,1210458,6196
+Northern Ireland,2021-10-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2533146,1313979,1211686,7481
+Northern Ireland,2021-10-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2536408,1314284,1213124,9000
+Northern Ireland,2021-10-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2539912,1314491,1214464,10957
+Northern Ireland,2021-10-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2542757,1314779,1215311,12667
+Northern Ireland,2021-10-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2545973,1315167,1216564,14242
+Northern Ireland,2021-10-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2548548,1315458,1217565,15525
+Northern Ireland,2021-10-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2550278,1315513,1218509,16256
+Northern Ireland,2021-10-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2552545,1315593,1219098,17854
+Northern Ireland,2021-10-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2556457,1315825,1219960,20672
+Northern Ireland,2021-10-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2561250,1316225,1221045,23980
+Northern Ireland,2021-10-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2564092,1316528,1221785,25779
+Northern Ireland,2021-10-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2569617,1317005,1223097,29515
+Northern Ireland,2021-10-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2571933,1317277,1223799,30857
+Northern Ireland,2021-10-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2573372,1317336,1224459,31577
+Northern Ireland,2021-10-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2575125,1317506,1224810,32809
+Northern Ireland,2021-10-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2578675,1317991,1225250,35434
+Northern Ireland,2021-10-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2593676,1318733,1233927,41016
+Northern Ireland,2021-10-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2599370,1319098,1235242,45030
+Northern Ireland,2021-10-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2606061,1319509,1237115,49437
+Northern Ireland,2021-10-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2611178,1320056,1238076,53046
+Northern Ireland,2021-10-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2614760,1320807,1238606,55347
+Northern Ireland,2021-10-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2618520,1321327,1239213,57980
+Northern Ireland,2021-10-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2625815,1322277,1239986,63552
+Northern Ireland,2021-10-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2634021,1323733,1240821,69467
+Northern Ireland,2021-10-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2643224,1325287,1241684,76253
+Northern Ireland,2021-10-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2650769,1327040,1242418,81311
+Northern Ireland,2021-10-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2656176,1328007,1243091,85078
+Northern Ireland,2021-10-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2659609,1328814,1243641,87154
+Northern Ireland,2021-10-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2663473,1329419,1244076,89978
+Northern Ireland,2021-11-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2672447,1329893,1244920,97634
+Northern Ireland,2021-11-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2682730,1330594,1245772,106364
+Northern Ireland,2021-11-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2694799,1331683,1246319,116797
+Northern Ireland,2021-11-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2707819,1333577,1247566,126676
+Northern Ireland,2021-11-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2715731,1334246,1248555,132930
+Northern Ireland,2021-11-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2722452,1334763,1248919,138770
+Northern Ireland,2021-11-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2728343,1335654,1249719,142970
+Northern Ireland,2021-11-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2741091,1337018,1250850,153223
+Northern Ireland,2021-11-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2756029,1338808,1251729,165492
+Northern Ireland,2021-11-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2773870,1340618,1252813,180439
+Northern Ireland,2021-11-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2790786,1342676,1254145,193965
+Northern Ireland,2021-11-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2801975,1343471,1254811,203693
+Northern Ireland,2021-11-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2808111,1343956,1255108,209047
+Northern Ireland,2021-11-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2814862,1344980,1255645,214237
+Northern Ireland,2021-11-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2831525,1347213,1256509,227803
+Northern Ireland,2021-11-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2849592,1349159,1257405,243028
+Northern Ireland,2021-11-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2871669,1351919,1258632,261118
+Northern Ireland,2021-11-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2890873,1354392,1259572,276909
+Northern Ireland,2021-11-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2902394,1355374,1260274,286746
+Northern Ireland,2021-11-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2907848,1355785,1260708,291355
+Northern Ireland,2021-11-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2916048,1356343,1261448,298257
+Northern Ireland,2021-11-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2933054,1357693,1262592,312769
+Northern Ireland,2021-11-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2952297,1359404,1263765,329128
+Northern Ireland,2021-11-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2970478,1360946,1265081,344451
+Northern Ireland,2021-11-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,2986203,1362366,1266367,357470
+Northern Ireland,2021-11-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3012036,1367181,1270186,374669
+Northern Ireland,2021-11-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3030662,1368796,1271490,390376
+Northern Ireland,2021-11-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3048854,1370570,1272784,405500
+Northern Ireland,2021-12-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3068005,1372426,1274046,421533
+Northern Ireland,2021-12-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3085767,1374040,1275441,436286
+Northern Ireland,2021-12-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3094393,1374981,1276190,443222
+Northern Ireland,2021-12-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3121608,1378135,1278405,465068
+Northern Ireland,2021-12-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3133807,1379165,1279456,475186
+Northern Ireland,2021-12-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3149534,1380512,1280350,488672
+Northern Ireland,2021-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3166599,1382138,1281400,503061
+Northern Ireland,2021-12-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3182222,1383679,1282373,516170
+Northern Ireland,2021-12-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3195368,1384734,1283220,527414
+Northern Ireland,2021-12-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3203049,1385295,1283759,533995
+Northern Ireland,2021-12-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3212726,1386231,1284350,542145
+Northern Ireland,2021-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3238116,1387504,1285566,565046
+Northern Ireland,2021-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3262441,1388472,1286401,587568
+Northern Ireland,2021-12-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3292432,1389588,1287587,615257
+Northern Ireland,2021-12-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3318864,1390570,1288937,639357
+Northern Ireland,2021-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3337740,1391506,1289809,656425
+Northern Ireland,2021-12-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3349001,1392084,1290378,666539
+Northern Ireland,2021-12-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3364925,1392640,1290988,681297
+Northern Ireland,2021-12-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3396177,1393753,1292111,710313
+Northern Ireland,2021-12-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3428802,1394545,1293141,741116
+Northern Ireland,2021-12-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3455229,1395685,1294004,765540
+Northern Ireland,2021-12-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3471215,1396240,1294487,780488
+Northern Ireland,2021-12-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3474000,1396280,1294510,783210
+Northern Ireland,2021-12-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3474003,1396280,1294511,783212
+Northern Ireland,2021-12-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3476927,1396406,1294604,785917
+Northern Ireland,2021-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3483874,1396997,1294883,791994
+Northern Ireland,2021-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3492932,1397846,1295315,799771
+Northern Ireland,2021-12-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3504889,1398342,1295873,810674
+Northern Ireland,2021-12-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3516996,1398978,1296369,821649
+Northern Ireland,2021-12-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3520286,1399070,1296530,824686
+Northern Ireland,2022-01-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3521404,1399141,1296598,825665
+Northern Ireland,2022-01-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3525262,1399465,1296881,828916
+Northern Ireland,2022-01-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3530777,1399866,1297302,833609
+Northern Ireland,2022-01-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3538916,1400386,1297911,840619
+Northern Ireland,2022-01-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3550883,1404156,1299712,847015
+Northern Ireland,2022-01-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3560914,1404659,1300341,855914
+Northern Ireland,2022-01-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3569851,1405300,1300880,863671
+Northern Ireland,2022-01-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3578297,1406273,1301486,870538
+Northern Ireland,2022-01-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3585875,1406701,1301888,877286
+Northern Ireland,2022-01-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3593453,1407324,1302313,883816
+Northern Ireland,2022-01-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3602749,1407989,1302751,892009
+Northern Ireland,2022-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3609748,1408771,1303385,897592
+Northern Ireland,2022-01-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3615907,1409340,1303859,902708
+Northern Ireland,2022-01-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3619404,1409769,1304426,905209
+Northern Ireland,2022-01-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3621591,1410134,1304935,906522
+Northern Ireland,2022-01-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3626762,1410711,1305436,910615
+Northern Ireland,2022-01-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3631717,1411207,1305939,914571
+Northern Ireland,2022-01-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3636745,1411390,1306569,918786
+Northern Ireland,2022-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3641579,1411775,1307126,922678
+Northern Ireland,2022-01-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3645986,1412236,1307824,925926
+Northern Ireland,2022-01-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3648134,1412596,1308483,927055
+Northern Ireland,2022-01-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3650097,1412998,1309176,927923
+Northern Ireland,2022-01-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3652360,1413205,1309523,929632
+Northern Ireland,2022-01-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3655138,1413414,1309950,931774
+Northern Ireland,2022-01-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3658341,1413723,1310551,934067
+Northern Ireland,2022-01-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3661792,1414119,1311200,936473
+Northern Ireland,2022-01-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3664503,1414381,1311651,938471
+Northern Ireland,2022-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3666997,1414856,1312352,939789
+Northern Ireland,2022-01-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3668413,1415088,1312791,940534
+Northern Ireland,2022-01-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3670010,1415247,1313053,941710
+Northern Ireland,2022-02-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3672192,1415435,1313301,943456
+Northern Ireland,2022-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3674504,1415603,1313737,945164
+Northern Ireland,2022-02-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3677195,1415803,1314171,947221
+Northern Ireland,2022-02-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3679414,1416041,1314566,948807
+Northern Ireland,2022-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3681497,1416330,1315115,950052
+Northern Ireland,2022-02-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3683432,,1315589,951109
+Northern Ireland,2022-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3685799,,1315857,953015
+Northern Ireland,2022-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3687994,,1316088,954800
+Northern Ireland,2022-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3689383,1416430,1316118,956835
+Northern Ireland,2022-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3692713,1416915,1316848,958950
+Northern Ireland,2022-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3695024,1417043,1317351,960630
+Northern Ireland,2022-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3696474,1417219,1317835,961420
+Northern Ireland,2022-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3697878,1417450,1318333,962095
+Northern Ireland,2022-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3700149,1417577,1318651,963921
+Northern Ireland,2022-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3702230,1417690,1318967,965573
+Northern Ireland,2022-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3704849,1417838,1319392,967619
+Northern Ireland,2022-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3707112,1418010,1319781,969321
+Northern Ireland,2022-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3709114,1418179,1320348,970587
+Northern Ireland,2022-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3710681,1418401,1320782,971498
+Northern Ireland,2022-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3711837,1418571,1321170,972096
+Northern Ireland,2022-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3712897,1418651,1321321,972925
+Northern Ireland,2022-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3714525,1418700,1321556,974269
+Northern Ireland,2022-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3716310,1418814,1321815,975681
+Northern Ireland,2022-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3717887,1418879,1322035,976973
+Northern Ireland,2022-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3719679,1419017,1322318,978344
+Northern Ireland,2022-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3721026,1419186,1322762,979078
+Northern Ireland,2022-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3722351,1419403,1323252,979696
+Northern Ireland,2022-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3723619,1419504,1323494,980621
+Northern Ireland,2022-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3724892,1419613,1323808,981471
+Northern Ireland,2022-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3726565,1419844,1324026,982695
+Northern Ireland,2022-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3729334,1420205,1324461,984668
+Northern Ireland,2022-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3730426,1420435,1324798,985193
+Northern Ireland,2022-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3731329,1420690,1325060,985579
+Northern Ireland,2022-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3732407,1420794,1325295,986318
+Northern Ireland,2022-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3733444,1420922,1325530,986992
+Northern Ireland,2022-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3734761,1421015,1325764,987982
+Northern Ireland,2022-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3736057,1421173,1326066,988818
+Northern Ireland,2022-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3737072,1421281,1326291,989500
+Northern Ireland,2022-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3738776,1421473,1326668,990635
+Northern Ireland,2022-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3739611,1421701,1326950,990960
+Northern Ireland,2022-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3740874,1421783,1327156,991935
+Northern Ireland,2022-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3741872,1421829,1327321,992722
+Northern Ireland,2022-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3743081,1421939,1327592,993550
+Northern Ireland,2022-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3743741,1422113,1327778,993850
+Northern Ireland,2022-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3744997,1422287,1328098,994612
+Northern Ireland,2022-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3745922,1422472,1328424,995026
+Northern Ireland,2022-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3746755,1422676,1328723,995356
+Northern Ireland,2022-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3747793,1422733,1328826,996234
+Northern Ireland,2022-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3749186,1422837,1329117,997232
+Northern Ireland,2022-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3750470,1422973,1329366,998131
+Northern Ireland,2022-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3751130,1423030,1329507,998593
+Northern Ireland,2022-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3752248,1423155,1329735,999358
+Northern Ireland,2022-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3753328,1423330,1330150,999848
+Northern Ireland,2022-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3754122,1423531,1330423,1000168
+Northern Ireland,2022-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3754751,1423609,1330523,1000619
+Northern Ireland,2022-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3755378,1423637,1330731,1001010
+Northern Ireland,2022-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3756449,1423736,1331065,1001648
+Northern Ireland,2022-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3757322,1423833,1331316,1002173
+Northern Ireland,2022-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3758510,1423971,1331620,1002919
+Northern Ireland,2022-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3759747,1424174,1332048,1003525
+Northern Ireland,2022-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3760869,1424390,1332445,1004034
+Northern Ireland,2022-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3761362,1424446,1332518,1004398
+Northern Ireland,2022-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3762021,1424494,1332643,1004884
+Northern Ireland,2022-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3763001,1424623,1332892,1005486
+Northern Ireland,2022-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3764307,1424750,1333193,1006364
+Northern Ireland,2022-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3765429,1424870,1333395,1007164
+Northern Ireland,2022-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3766488,1425046,1333738,1007704
+Northern Ireland,2022-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3767535,,1334120,1008130
+Northern Ireland,2022-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3768325,,1334230,1008777
+Northern Ireland,2022-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3769548,,1334363,1009817
+Northern Ireland,2022-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3771657,,1334653,1011487
+Northern Ireland,2022-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3773454,,1334942,1012832
+Northern Ireland,2022-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3774809,,1335234,1013732
+Northern Ireland,2022-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3775645,,1335488,1014188
+Northern Ireland,2022-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3775878,,1335541,1014354
+Northern Ireland,2022-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3776362,,1335694,1014651
+Northern Ireland,2022-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3778302,,1336122,1015972
+Northern Ireland,2022-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3780111,,1336351,1017450
+Northern Ireland,2022-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3782183,,1336698,1019018
+Northern Ireland,2022-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3783719,,1337171,1019822
+Northern Ireland,2022-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3785468,,1337614,1020969
+Northern Ireland,2022-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3787804,,1337716,1023139
+Northern Ireland,2022-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3793542,,1337798,1028798
+Northern Ireland,2022-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3801467,,1338080,1036256
+Northern Ireland,2022-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3808794,,1338383,1043230
+Northern Ireland,2022-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3812925,,1338607,1047043
+Northern Ireland,2022-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3814969,,1339060,1048436
+Northern Ireland,2022-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3816070,,1339390,1049069
+Northern Ireland,2022-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3816828,,1339495,1049704
+Northern Ireland,2022-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3820609,,1339618,1053378
+Northern Ireland,2022-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3827348,,1339801,1059919
+Northern Ireland,2022-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3834092,,1340023,1066360
+Northern Ireland,2022-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3838795,,1340226,
+Northern Ireland,2022-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3843028,,1340611,
+Northern Ireland,2022-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3844297,,1340910,
+Northern Ireland,2022-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3849794,,1341034,
+Northern Ireland,2022-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3856588,,1341213,
+Northern Ireland,2022-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3863607,,1341367,
+Northern Ireland,2022-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3870382,,1341571,
+Northern Ireland,2022-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3874879,,1341739,
+Northern Ireland,2022-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3876739,,,
+Northern Ireland,2022-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3877971,,,
+Northern Ireland,2022-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3881679,,,
+Northern Ireland,2022-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3886574,,,
+Northern Ireland,2022-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3891101,,,
+Northern Ireland,2022-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3896855,,,
+Northern Ireland,2022-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3900701,,,
+Northern Ireland,2022-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3902942,,,
+Northern Ireland,2022-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3903611,1425186,1342023,
+Northern Ireland,2022-05-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3906474,1425248,1342239,
+Northern Ireland,2022-05-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3908650,1425303,1342393,
+Northern Ireland,2022-05-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3910234,1425401,1342872,
+Northern Ireland,2022-05-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3911076,1425478,1343182,
+Northern Ireland,2022-05-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3912553,1425511,1343300,
+Northern Ireland,2022-05-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3914382,1425532,1343351,
+Northern Ireland,2022-06-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3916724,1425584,1343622,
+Northern Ireland,2022-06-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3917129,1425601,1343749,
+Northern Ireland,2022-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3917360,1425621,1343804,
+Northern Ireland,2022-06-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3917951,1425668,1344051,
+Northern Ireland,2022-06-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3918427,1425684,1344288,
+Northern Ireland,2022-06-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3919616,1425712,1344371,
+Northern Ireland,2022-06-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3920553,1425728,1344443,
+Northern Ireland,2022-06-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3921583,1425764,1344630,
+Northern Ireland,2022-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3923204,1425802,1344851,
+Northern Ireland,2022-06-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3924201,1425841,1345044,
+Northern Ireland,2022-06-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3925866,1425990,1345716,
+Northern Ireland,2022-06-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3926605,1426056,1346061,
+Northern Ireland,2022-06-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3927645,1426106,1346157,
+Northern Ireland,2022-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3928122,,1346210,
+Northern Ireland,2022-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3929108,1426118,1346469,
+Northern Ireland,2022-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3930161,1426150,1346661,
+Northern Ireland,2022-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3930927,1426191,1346844,
+Northern Ireland,2022-06-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3931874,,1347256,
+Northern Ireland,2022-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3932539,,1347589,
+Northern Ireland,2022-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3933144,1426225,1347837,
+Northern Ireland,2022-06-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3933705,1426250,1347909,
+Northern Ireland,2022-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3934623,1426291,1348065,
+Northern Ireland,2022-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3935406,1426334,1348246,
+Northern Ireland,2022-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3936086,1426391,1348375,
+Northern Ireland,2022-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3937283,1426560,1348852,
+Northern Ireland,2022-06-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3937834,1426603,1349116,
+Northern Ireland,2022-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3938385,1426658,1349176,
+Northern Ireland,2022-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3938819,1426689,1349252,
+Northern Ireland,2022-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3939573,1426718,1349443,
+Northern Ireland,2022-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3940423,1426768,1349651,
+Northern Ireland,2022-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3941416,1426821,1349933,
+Northern Ireland,2022-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3942592,1426972,1350339,
+Northern Ireland,2022-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3943223,1427009,1350571,
+Northern Ireland,2022-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3943754,1427019,1350670,
+Northern Ireland,2022-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3944181,1427048,1350739,
+Northern Ireland,2022-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3944843,1427074,1350883,
+Northern Ireland,2022-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3945395,1427081,1351002,
+Northern Ireland,2022-07-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3946398,1427150,1351271,
+Northern Ireland,2022-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3947303,1427241,1351577,
+Northern Ireland,2022-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3947482,1427246,1351648,
+Northern Ireland,2022-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3947703,1427250,1351660,
+Northern Ireland,2022-07-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3947708,1427251,1351662,
+Northern Ireland,2022-07-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3948045,1427260,1351744,
+Northern Ireland,2022-07-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3948584,1427344,1351868,
+Northern Ireland,2022-07-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3949076,1427373,1352001,
+Northern Ireland,2022-07-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3949987,1427477,1352340,
+Northern Ireland,2022-07-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3950287,1427503,1352441,
+Northern Ireland,2022-07-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3950561,1427517,1352479,
+Northern Ireland,2022-07-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3950802,1427550,1352530,
+Northern Ireland,2022-07-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3951434,1427579,1352674,
+Northern Ireland,2022-07-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3953464,1427759,1353249,
+Northern Ireland,2022-07-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3953626,1427769,1353274,
+Northern Ireland,2022-07-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3953918,1427794,1353333,
+Northern Ireland,2022-07-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3954287,1427823,1353438,
+Northern Ireland,2022-07-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3954811,1427859,1353584,
+Northern Ireland,2022-07-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3955174,1427929,1353658,
+Northern Ireland,2022-07-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3955846,1428001,1353869,
+Northern Ireland,2022-07-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3956128,,1353952,
+Northern Ireland,2022-08-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3956323,1428014,1353987,
+Northern Ireland,2022-08-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3956543,1428037,1354009,
+Northern Ireland,2022-08-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3957402,1428417,1354183,
+Northern Ireland,2022-08-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3957944,1428471,1354324,
+Northern Ireland,2022-08-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3958248,1428480,1354390,
+Northern Ireland,2022-08-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3958792,1428560,,
+Northern Ireland,2022-08-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3959024,,,
+Northern Ireland,2022-08-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3959161,,1354547,
+Northern Ireland,2022-08-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3959406,,1354591,
+Northern Ireland,2022-08-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3959615,1428566,1354645,
+Northern Ireland,2022-08-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3959963,,1354709,
+Northern Ireland,2022-08-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3960125,1428576,1354745,
+Northern Ireland,2022-08-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3960545,,,
+Northern Ireland,2022-08-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3960645,,,
+Northern Ireland,2022-08-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3960733,1428592,1354857,
+Northern Ireland,2022-08-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3960856,,1354871,
+Northern Ireland,2022-08-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3961160,,1354915,
+Northern Ireland,2022-08-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3961436,,1354949,
+Northern Ireland,2022-08-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3961525,,1354956,
+Northern Ireland,2022-08-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962014,,1355109,
+Northern Ireland,2022-08-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962077,,1355122,
+Northern Ireland,2022-08-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962204,,1355139,
+Northern Ireland,2022-08-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962335,,1355163,
+Northern Ireland,2022-08-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962547,,1355188,
+Northern Ireland,2022-08-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962794,1428597,1355221,
+Northern Ireland,2022-08-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3962995,1428601,1355262,
+Northern Ireland,2022-08-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3963437,1428659,1355420,
+Northern Ireland,2022-08-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3963483,1428666,1355423,
+Northern Ireland,2022-08-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3963536,1428674,1355438,
+Northern Ireland,2022-08-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3963712,1428705,1355479,
+Northern Ireland,2022-08-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3963984,1428746,1355552,
+Northern Ireland,2022-09-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3964215,1428766,1355603,
+Northern Ireland,2022-09-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3964374,1428781,1355630,
+Northern Ireland,2022-09-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3964643,1428813,1355733,
+Northern Ireland,2022-09-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3964804,1428823,1355763,
+Northern Ireland,2022-09-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3964992,1428844,1355796,
+Northern Ireland,2022-09-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3965087,,1355803,
+Northern Ireland,2022-09-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3965259,1428852,1355828,
+Northern Ireland,2022-09-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3965415,,1355833,
+Northern Ireland,2022-09-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3965566,1428862,1355848,
+Northern Ireland,2022-09-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3965860,,1355983,
+Northern Ireland,2022-09-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3965908,,1356012,
+Northern Ireland,2022-09-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966031,1428888,1356058,
+Northern Ireland,2022-09-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966201,1428916,1356071,
+Northern Ireland,2022-09-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966325,1428926,1356089,
+Northern Ireland,2022-09-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966506,1428941,1356112,
+Northern Ireland,2022-09-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966604,1428947,1356124,
+Northern Ireland,2022-09-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966863,1428989,1356238,
+Northern Ireland,2022-09-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3966991,1428999,1356251,
+Northern Ireland,2022-09-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3967065,1429000,1356252,
+Northern Ireland,2022-09-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3967835,1429044,1356276,
+Northern Ireland,2022-09-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3968751,1429050,1356298,
+Northern Ireland,2022-09-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3970497,1429058,1356319,
+Northern Ireland,2022-09-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3972158,1429074,1356340,
+Northern Ireland,2022-09-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3973252,1429104,1356445,
+Northern Ireland,2022-09-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3973937,1429105,1356459,1070629
+Northern Ireland,2022-09-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3976219,,1356463,1075896
+Northern Ireland,2022-09-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3978819,1429106,1356466,1088139
+Northern Ireland,2022-09-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3984096,1429124,1356501,1102412
+Northern Ireland,2022-09-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3988329,,1356513,1113883
+Northern Ireland,2022-09-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3991490,1429124,1356520,1122116
+Northern Ireland,2022-10-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3996327,1429157,1356650,1150571
+Northern Ireland,2022-10-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,3997196,1429164,1356678,1153875
+Northern Ireland,2022-10-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4003308,1429168,1356688,1168534
+Northern Ireland,2022-10-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4011566,1429176,1356697,1196953
+Northern Ireland,2022-10-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4021284,1429196,1356717,1231203
+Northern Ireland,2022-10-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4032059,1429209,1356735,1252552
+Northern Ireland,2022-10-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4040614,1429223,1356750,1268803
+Northern Ireland,2022-10-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4053621,1429292,1356921,1327433
+Northern Ireland,2022-10-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4055089,1429301,,1330891
+Northern Ireland,2022-10-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4063194,1429315,,1346723
+Northern Ireland,2022-10-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4076658,1429346,1356943,1374119
+Northern Ireland,2022-10-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4086425,1429350,1356969,1409919
+Northern Ireland,2022-10-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4098060,1429377,1356986,1443303
+Northern Ireland,2022-10-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4107822,1429385,1356995,1465590
+Northern Ireland,2022-10-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4123998,1429423,1357126,1533785
+Northern Ireland,2022-10-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4125691,1429429,1357144,1537941
+Northern Ireland,2022-10-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4136314,1429456,1357179,1552897
+Northern Ireland,2022-10-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4149134,1429479,1357204,1580134
+Northern Ireland,2022-10-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4163657,1429513,1357232,1617114
+Northern Ireland,2022-10-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4177603,1429526,1357254,1649534
+Northern Ireland,2022-10-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4187402,1429549,1357290,1665044
+Northern Ireland,2022-10-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4199909,1429581,1357365,1715297
+Northern Ireland,2022-10-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4201621,1429599,1357383,1716195
+Northern Ireland,2022-10-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4215955,1429622,1357397,1728308
+Northern Ireland,2022-10-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4231268,1429656,1357422,1750654
+Northern Ireland,2022-10-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4240158,1429679,1357438,1780692
+Northern Ireland,2022-10-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4253267,1429703,1357470,1806915
+Northern Ireland,2022-10-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4262825,1429705,1357479,1818431
+Northern Ireland,2022-10-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4267368,1429720,1357571,1840522
+Northern Ireland,2022-10-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4267368,1429720,1357571,1841208
+Northern Ireland,2022-10-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4277894,,1357590,1849195
+Northern Ireland,2022-11-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4286771,,1357600,1860419
+Northern Ireland,2022-11-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4296203,,1357624,1871605
+Northern Ireland,2022-11-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4304223,,1357648,1881415
+Northern Ireland,2022-11-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4309964,,1357660,1890009
+Northern Ireland,2022-11-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4315604,,1357730,1908056
+Northern Ireland,2022-11-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4316151,,1357740,1908683
+Northern Ireland,2022-11-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4322402,,1357748,1919150
+Northern Ireland,2022-11-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4331712,,1357753,1932941
+Northern Ireland,2022-11-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4340966,,1357778,1946672
+Northern Ireland,2022-11-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4349466,,1357789,1961517
+Northern Ireland,2022-11-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4356234,,1357793,1970147
+Northern Ireland,2022-11-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4363603,,1357865,1992699
+Northern Ireland,2022-11-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4364964,,1357867,1993643
+Northern Ireland,2022-11-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4371591,,1357867,1998483
+Northern Ireland,2022-11-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4379839,,1357873,2006552
+Northern Ireland,2022-11-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4388224,,1357897,2018731
+Northern Ireland,2022-11-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4388224,,1357897,2025844
+Northern Ireland,2022-11-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4400114,,1357976,2032107
+Northern Ireland,2022-11-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4402011,,1358013,2038146
+Northern Ireland,2022-11-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4402431,,1358026,2038888
+Northern Ireland,2022-11-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4406800,,1358040,2044333
+Northern Ireland,2022-11-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4411845,,1358044,2050805
+Northern Ireland,2022-11-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4417869,,1358051,2056430
+Northern Ireland,2022-11-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4417869,,1358051,2060957
+Northern Ireland,2022-11-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4422209,,1358058,2065380
+Northern Ireland,2022-11-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4425424,,1358079,2068419
+Northern Ireland,2022-11-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4427279,,1358119,2068625
+Northern Ireland,2022-11-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4427756,,1358125,2070892
+Northern Ireland,2022-11-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4430269,,1358130,2075707
+Northern Ireland,2022-11-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4433610,,1358142,2081001
+Northern Ireland,2022-12-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4437266,,1358159,2083908
+Northern Ireland,2022-12-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4437266,,1358159,2085762
+Northern Ireland,2022-12-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4437266,,1358159,2086391
+Northern Ireland,2022-12-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4437266,,1358159,2086490
+Northern Ireland,2022-12-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4437266,,1358159,2088042
+Northern Ireland,2022-12-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4448027,,1358219,2091210
+Northern Ireland,2022-12-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4450275,,1358225,2094603
+Northern Ireland,2022-12-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4452802,,1358317,2096801
+Northern Ireland,2022-12-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4452802,,1358317,
+Northern Ireland,2022-12-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4455370,,,2098250
+Northern Ireland,2022-12-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4455513,,,2098346
+Northern Ireland,2022-12-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4456565,,1359828,2099702
+Northern Ireland,2022-12-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4458200,,1359839,2101526
+Northern Ireland,2022-12-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4459771,,,2103372
+Northern Ireland,2022-12-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4461464,,,2104973
+Northern Ireland,2022-12-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4462408,,,2106039
+Northern Ireland,2022-12-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4462914,,,2106789
+Northern Ireland,2022-12-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4463004,,,2106933
+Northern Ireland,2022-12-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4463994,,,2107794
+Northern Ireland,2022-12-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4465150,,1359859,2108779
+Northern Ireland,2022-12-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4466163,,1359865,2109317
+Northern Ireland,2022-12-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4466769,,1359870,2109744
+Northern Ireland,2022-12-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4467183,,1359872,2109948
+Northern Ireland,2022-12-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,1359872,
+Northern Ireland,2022-12-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4467204,,1359873,2109987
+Northern Ireland,2022-12-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4467204,,1359873,2109990
+Northern Ireland,2022-12-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4467222,,1359873,2109998
+Northern Ireland,2022-12-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4467706,,1359886,2110209
+Northern Ireland,2022-12-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4468140,,1359891,2110498
+Northern Ireland,2022-12-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4468597,,,2110724
+Northern Ireland,2022-12-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4468643,,,2110787
+Northern Ireland,2023-01-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4468643,,1359893,2110791
+Northern Ireland,2023-01-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4468686,,1359893,2110807
+Northern Ireland,2023-01-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4469288,,,2111133
+Northern Ireland,2023-01-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4470026,,,2111555
+Northern Ireland,2023-01-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4470848,,,2112043
+Northern Ireland,2023-01-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4471353,1429732,1359895,2112620
+Northern Ireland,2023-01-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4472013,,1359965,2113378
+Northern Ireland,2023-01-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4472037,,1359972,2113398
+Northern Ireland,2023-01-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4472682,1429758,1359975,2113998
+Northern Ireland,2023-01-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4473244,1429761,1359978,2114554
+Northern Ireland,2023-01-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4474138,1429812,1360007,2115224
+Northern Ireland,2023-01-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4475024,1429833,1360019,2115968
+Northern Ireland,2023-01-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4475625,1429852,1360036,2116514
+Northern Ireland,2023-01-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4476225,1429868,1360068,2116970
+Northern Ireland,2023-01-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4476407,1429890,1360076,2117029
+Northern Ireland,2023-01-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4476786,1429895,1360082,2117420
+Northern Ireland,2023-01-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4478018,1429936,1360107,2117712
+Northern Ireland,2023-01-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4478018,1429936,1360107,2117991
+Northern Ireland,2023-01-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4478559,1429944,1360107,2118249
+Northern Ireland,2023-01-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4478987,1429948,1360114,2118631
+Northern Ireland,2023-01-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4479429,,1360148,2118844
+Northern Ireland,2023-01-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4479477,1429965,1360153,2118853
+Northern Ireland,2023-01-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4479703,1429968,1360159,2119055
+Northern Ireland,2023-01-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4480002,1429972,1360170,2119284
+Northern Ireland,2023-01-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4480271,1429980,1360178,2119488
+Northern Ireland,2023-01-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4480507,1429983,1360181,2119667
+Northern Ireland,2023-01-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4480707,1429992,1360185,2119904
+Northern Ireland,2023-01-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4480950,1430005,1360209,2120125
+Northern Ireland,2023-01-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4480992,1430009,1360215,2120161
+Northern Ireland,2023-01-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4481114,1430016,1360216,2120342
+Northern Ireland,2023-01-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4481396,1430024,1360232,2120544
+Northern Ireland,2023-02-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4481570,1430032,1360236,2120620
+Northern Ireland,2023-02-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4481788,1430043,1360240,2120692
+Northern Ireland,2023-02-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,,2120860
+Northern Ireland,2023-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4482004,1430069,1360264,2120867
+Northern Ireland,2023-02-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4482226,1430073,1360269,2120987
+Northern Ireland,2023-02-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4482457,1430079,1360272,2121108
+Northern Ireland,2023-02-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4482621,1430083,1360275,2121209
+Northern Ireland,2023-02-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4482714,1430088,1360281,2121283
+Northern Ireland,2023-02-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4482899,1430094,1360282,2121358
+Northern Ireland,2023-02-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483032,1430106,1360300,2121484
+Northern Ireland,2023-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483060,1430112,1360302,2121504
+Northern Ireland,2023-02-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483177,1430117,1360307,2121576
+Northern Ireland,2023-02-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483351,1430123,1360310,2121606
+Northern Ireland,2023-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483438,1430129,1360314,2121651
+Northern Ireland,2023-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483485,1430134,1360323,2121679
+Northern Ireland,2023-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483577,1430140,1360327,2121742
+Northern Ireland,2023-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483680,1430151,,2121798
+Northern Ireland,2023-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483686,1430153,1360343,2121803
+Northern Ireland,2023-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483715,1430156,1360351,2121814
+Northern Ireland,2023-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483753,1430158,1360353,2121821
+Northern Ireland,2023-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483857,1430161,1360358,2121847
+Northern Ireland,2023-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4483974,1430163,1360361,2121868
+Northern Ireland,2023-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484056,1430163,1360366,2121917
+Northern Ireland,2023-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484103,1430166,1360381,2121956
+Northern Ireland,2023-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484119,1430167,1360387,2121956
+Northern Ireland,2023-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484169,1430168,1360389,2121974
+Northern Ireland,2023-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484281,1430173,1360406,2122011
+Northern Ireland,2023-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484330,1430179,1360415,2122038
+Northern Ireland,2023-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484406,1430183,1360420,2122052
+Northern Ireland,2023-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484434,1430183,1360422,2122073
+Northern Ireland,2023-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,1430186,,2122101
+Northern Ireland,2023-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484490,1430189,1360432,2122102
+Northern Ireland,2023-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484525,1430195,1360438,2122117
+Northern Ireland,2023-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484591,1430201,1360447,2122129
+Northern Ireland,2023-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484642,1430211,1360453,2122152
+Northern Ireland,2023-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484812,1430215,1360456,2122157
+Northern Ireland,2023-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4484812,1430215,1360456,
+Northern Ireland,2023-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,1360480,
+Northern Ireland,2023-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485110,,1360482,
+Northern Ireland,2023-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485276,1430218,1360485,
+Northern Ireland,2023-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485356,1430220,1360494,
+Northern Ireland,2023-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485489,1430223,1360494,
+Northern Ireland,2023-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485531,1430223,1360496,
+Northern Ireland,2023-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485532,1430223,1360496,
+Northern Ireland,2023-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485532,1430223,1360496,2122160
+Northern Ireland,2023-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485655,1430228,1360510,
+Northern Ireland,2023-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485682,1430233,1360521,2122193
+Northern Ireland,2023-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485762,1430234,1360527,2122218
+Northern Ireland,2023-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485946,1430240,1360538,2122283
+Northern Ireland,2023-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4485977,1430240,1360540,2122285
+Northern Ireland,2023-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486033,1430241,1360550,2122303
+Northern Ireland,2023-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486186,,1360565,
+Northern Ireland,2023-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486186,1430247,1360566,2122345
+Northern Ireland,2023-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486202,1430251,1360571,2122346
+Northern Ireland,2023-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486274,1430255,1360579,2122352
+Northern Ireland,2023-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486384,1430256,1360581,2122361
+Northern Ireland,2023-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486411,1430256,1360586,2122363
+Northern Ireland,2023-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486445,1430260,1360587,2122364
+Northern Ireland,2023-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486478,1430273,1360597,2122374
+Northern Ireland,2023-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486483,1430274,1360601,2122374
+Northern Ireland,2023-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486521,1430278,1360607,2122397
+Northern Ireland,2023-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486539,1430280,1360610,2122403
+Northern Ireland,2023-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486721,1430288,1360613,2122573
+Northern Ireland,2023-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486827,1430293,1360620,2122649
+Northern Ireland,2023-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486924,1430304,1360628,
+Northern Ireland,2023-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486929,1430305,1360632,
+Northern Ireland,2023-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4486929,1430305,1360633,2122675
+Northern Ireland,2023-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4487330,,1360639,2123067
+Northern Ireland,2023-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4487336,1430307,1360646,
+Northern Ireland,2023-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4488433,1430307,1360648,2124145
+Northern Ireland,2023-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4489179,,1360662,2124880
+Northern Ireland,2023-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4489325,1430313,1360663,2125014
+Northern Ireland,2023-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4489330,1430316,1360666,2125014
+Northern Ireland,2023-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4490401,1430322,1360667,2126077
+Northern Ireland,2023-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4494204,1430323,1360668,2129870
+Northern Ireland,2023-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4503312,1430325,1360670,2138966
+Northern Ireland,2023-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4505436,1430326,1360674,2141057
+Northern Ireland,2023-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4507538,1430336,1360690,2143133
+Northern Ireland,2023-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4507784,1430336,1360693,2143376
+Northern Ireland,2023-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4510262,1430338,1360696,2145793
+Northern Ireland,2023-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4515676,1430341,1360706,2151187
+Northern Ireland,2023-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4522136,1430383,1360720,2157593
+Northern Ireland,2023-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4532220,1430451,1360725,
+Northern Ireland,2023-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4532781,1430551,1360762,
+Northern Ireland,2023-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4532791,1430554,1360769,
+Northern Ireland,2023-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4532984,1430563,1360782,
+Northern Ireland,2023-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4533337,1430564,1360785,
+Northern Ireland,2023-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4535990,1430567,1360785,
+Northern Ireland,2023-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4540687,1430638,1360824,
+Northern Ireland,2023-05-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4545167,,1360869,
+Northern Ireland,2023-05-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4546889,,1360871,
+Northern Ireland,2023-05-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4547134,,1360887,
+Northern Ireland,2023-05-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4547371,1430662,1360893,
+Northern Ireland,2023-05-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4547749,1430662,1360895,
+Northern Ireland,2023-05-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4550614,1430668,1360908,
+Northern Ireland,2023-05-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4554823,1430671,1360909,
+Northern Ireland,2023-05-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4557492,1430672,1360909,2192456
+Northern Ireland,2023-05-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4559294,1430675,,2194268
+Northern Ireland,2023-05-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4560185,,,2195151
+Northern Ireland,2023-05-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4560207,,1360910,2195173
+Northern Ireland,2023-05-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4563222,,1360915,2198178
+Northern Ireland,2023-05-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4566940,,1360917,2201892
+Northern Ireland,2023-05-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4570037,,1360917,
+Northern Ireland,2023-05-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4570037,,1360917,2204986
+Northern Ireland,2023-05-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4575349,,1360923,2210291
+Northern Ireland,2023-05-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4576344,,1360930,2211278
+Northern Ireland,2023-05-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4576545,,,2211474
+Northern Ireland,2023-05-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4578066,,,2213049
+Northern Ireland,2023-05-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4579809,1430677,1360930,2214762
+Northern Ireland,2023-05-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4582229,1430677,1360931,2217230
+Northern Ireland,2023-05-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4584676,1430677,1360933,2219618
+Northern Ireland,2023-05-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4585503,1430677,1360935,2220452
+Northern Ireland,2023-05-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,1360943,2220571
+Northern Ireland,2023-05-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4585632,1430677,1360944,2220571
+Northern Ireland,2023-05-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4585843,1430677,1360944,2220782
+Northern Ireland,2023-05-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4587560,1430677,,2222497
+Northern Ireland,2023-05-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4589120,,,2224026
+Northern Ireland,2023-06-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4590115,,,2225050
+Northern Ireland,2023-06-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4590552,,,2225486
+Northern Ireland,2023-06-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4591111,,,2226034
+Northern Ireland,2023-06-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4591112,,,2226036
+Northern Ireland,2023-06-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4591939,,,2226862
+Northern Ireland,2023-06-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4593196,,,2228120
+Northern Ireland,2023-06-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4593806,,,2228729
+Northern Ireland,2023-06-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4594480,,,2229413
+Northern Ireland,2023-06-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4595064,,1360945,2230001
+Northern Ireland,2023-06-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,,1360952,
+Northern Ireland,2023-06-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4595095,1430677,1360953,2230025
+Northern Ireland,2023-06-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4595353,1430677,1360954,2230282
+Northern Ireland,2023-06-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4596037,1430679,1360957,2230990
+Northern Ireland,2023-06-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4596588,1430679,1360957,2231512
+Northern Ireland,2023-06-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4597009,1430679,1360957,2231933
+Northern Ireland,2023-06-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4597550,1430679,1360957,2232474
+Northern Ireland,2023-06-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4597592,,1360959,2232512
+Northern Ireland,2023-06-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4597635,1430679,1360961,2232555
+Northern Ireland,2023-06-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4597829,1430680,1360965,2232744
+Northern Ireland,2023-06-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4598068,1430681,1360966,2232981
+Northern Ireland,2023-06-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4598373,1430682,1360966,2233284
+Northern Ireland,2023-06-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4598578,1430682,1360966,2233486
+Northern Ireland,2023-06-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4598843,1430683,1360966,2233754
+Northern Ireland,2023-06-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4598923,,1360984,2233814
+Northern Ireland,2023-06-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4598977,1430683,1360985,2233869
+Northern Ireland,2023-06-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4599220,,1360985,2234111
+Northern Ireland,2023-06-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4599494,,1360986,2234384
+Northern Ireland,2023-06-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4599720,1430683,1360987,2234611
+Northern Ireland,2023-06-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4599891,1430683,1360987,
+Northern Ireland,2023-06-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600237,1430686,,
+Northern Ireland,2023-07-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,,1430686,,
+Northern Ireland,2023-07-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600240,,1360992,
+Northern Ireland,2023-07-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600266,,1360992,
+Northern Ireland,2023-07-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600341,,1360993,
+Northern Ireland,2023-07-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600402,,,
+Northern Ireland,2023-07-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600458,,1360994,
+Northern Ireland,2023-07-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600463,,1360994,
+Northern Ireland,2023-07-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600463,1430688,1361000,
+Northern Ireland,2023-07-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600465,1430688,1361001,
+Northern Ireland,2023-07-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.data.gov.uk/details/vaccinations,4600649,1430694,1361003,

@@ -3,6 +3,7 @@ import pandas as pd
 
 
 def get_hosp(data_file: str):
+    # TODO: Change input to be non-grapher file
     hosp = pd.read_csv(data_file)
     hosp = hosp.rename(
         columns={

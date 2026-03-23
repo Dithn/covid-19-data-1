@@ -4,12 +4,6 @@ activate_links <- function(txt) {
 }
 
 HTML_CODE <- readLines("input/block_base.html", warn = FALSE) %>% paste0(collapse = "\n")
-HTML_CODE <- str_replace_all(HTML_CODE, "\\{update_time\\}", update_time)
-HTML_CODE <- str_replace_all(HTML_CODE, "\\{world_population_covered_anytime\\}", world_population_covered_anytime)
-HTML_CODE <- str_replace_all(HTML_CODE, "\\{world_population_covered_1d\\}", world_population_covered_1d)
-HTML_CODE <- str_replace_all(HTML_CODE, "\\{date_1d\\}", date_1d)
-HTML_CODE <- str_replace_all(HTML_CODE, "\\{world_population_covered_7d\\}", world_population_covered_7d)
-HTML_CODE <- str_replace_all(HTML_CODE, "\\{date_7d\\}", date_7d)
 
 country_lookup <- fread("../../input/iso/iso3166_1_alpha_3_codes.csv")
 
@@ -20,14 +14,12 @@ html_data[, Country := Entity %>% str_replace(" - .*", "")]
 setorder(html_data, Country, `General source label`)
 
 countries <- unique(html_data$Country)
-stopifnot(length(countries) == length(copy_paste_annotation))
 
 html_add <- function(new_code) {
     HTML_CODE <<- paste0(HTML_CODE, new_code, "\n")
 }
 
-index <- sprintf('<p>This is the list of the %s countries for which we have data.<br>At the very bottom of this post, you can also find the list of countries for which we have attempted to collect data but could not find official sources.<br>You can download the full dataset alongside the detailed source descriptions <a href="https://github.com/owid/covid-19-data/tree/master/public/data/">on GitHub</a>.<br>Or else click to jump to the detailed source description and the latest data for that country:</p>',
-                 length(countries))
+index <- sprintf('<p>This is the list of the %s countries for which we have data.<br>You can download the full dataset alongside the detailed source descriptions <a href="https://github.com/owid/covid-19-data/tree/master/public/data/">on GitHub</a>.<br>Or else click to jump to the detailed source description and the latest data for that country:</p>', length(countries))
 
 table_countries <- str_replace_all(str_to_lower(countries), " ", "-")
 table_countries <- sprintf('<td><a href="#%s">%s</a></td>', table_countries, countries)
@@ -79,14 +71,8 @@ for (c in countries) {
                          str_replace_all(activate_links(row$`Detailed description`), "\n", "<br>")))
     }
 
-    # if (any(country_rows$`Number of observations` > 7)) {
-    #     html_add(paste0(
-    #         '<iframe src="https://ourworldindata.org/grapher/daily-tests-per-thousand-people-smoothed-7-day?tab=chart&country=',
-    #         ccode, '" style="width: 100%; height: 600px; border: 0px none;"></iframe>'))
-    # }
-
     html_add("")
 
 }
 
-writeLines(HTML_CODE, "source_table.html")
+writeLines(HTML_CODE, "../../output/testing/source_table.html")

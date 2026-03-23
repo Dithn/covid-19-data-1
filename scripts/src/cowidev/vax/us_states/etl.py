@@ -5,13 +5,13 @@ from glob import glob
 import requests
 import pandas as pd
 
-from cowidev.utils.utils import get_project_dir
+from cowidev import PATHS
 from cowidev.vax.utils.utils import make_monotonic
 
 
 class USStatesETL:
     source_url: str = "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data"
-    cdc_data_path: str = os.path.join(get_project_dir(), "scripts", "input", "cdc", "vaccinations")
+    cdc_data_path: str = PATHS.INTERNAL_INPUT_CDC_VAX_DIR
 
     def extract(self):
         self._download_data()
@@ -42,11 +42,17 @@ class USStatesETL:
                 "Administered_Dose2_Recip",
                 "Administered_Dose2",
             ],
+            "total_boosters": ["additional_doses"],
+            "total_boosters_2": ["Second_Booster"],
+            "total_boosters_biv": ["Bivalent_Booster"],
+            "single_shots": ["Series_Complete_Janssen"],
         }
         # Mapping
         for k, v in variable_matching.items():
             for cdc_variable in v:
                 if cdc_variable in df.columns:
+                    # if k == "total_boosters":
+                    #     print(k, cdc_variable, filepath)
                     df = df.rename(columns={cdc_variable: k})
                     break
             if k not in df.columns:
@@ -58,6 +64,7 @@ class USStatesETL:
     def transform(self, df: pd.DataFrame):
         return (
             df.pipe(pipe_rename_cols)
+            .pipe(pipe_total_boosters)
             .pipe(pipe_monotonic_by_state)
             .pipe(pipe_per_capita)
             .pipe(pipe_smoothed)
@@ -78,6 +85,24 @@ class USStatesETL:
         self.load(df, output_path)
 
 
+def pipe_total_boosters(df: pd.DataFrame):
+    dfg = df.groupby("location")
+    dfs = []
+    for df_ in dfg:
+        df_ = df_[1].sort_values("date")
+        df_ = df_.assign(
+            total_boosters=df_["total_vaccinations"]
+            - df_["people_vaccinated"]
+            - df_["people_fully_vaccinated"]
+            + df_["single_shots"].ffill()
+        )
+        dfs.append(df_)
+    df = pd.concat(dfs, ignore_index=True)
+    df.loc[df.date < "2021-08-27", "total_boosters"] = pd.NA
+    df.loc[df.total_boosters < 0, "total_boosters"] = pd.NA
+    return df
+
+
 def pipe_rename_cols(df):
     col_dict = {
         "Date": "date",
@@ -91,9 +116,10 @@ def pipe_per_capita(df):
     df["total_vaccinations_per_hundred"] = df.total_vaccinations.div(df.Census2019).mul(100)
     df["people_vaccinated_per_hundred"] = df.people_vaccinated.div(df.Census2019).mul(100)
     df["distributed_per_hundred"] = df.total_distributed.div(df.Census2019).mul(100)
+    df["total_boosters_per_hundred"] = df.total_boosters.div(df.Census2019).mul(100)
     for var in df.columns:
         if "per_hundred" in var:
-            df.loc[df[var].notnull(), var] = df[var].round(2)
+            df.loc[df[var].notnull(), var] = df.loc[df[var].notnull(), var].astype(float).round(2)
     return df
 
 
@@ -142,6 +168,8 @@ def pipe_select_columns(df: pd.DataFrame) -> pd.DataFrame:
             "daily_vaccinations",
             "daily_vaccinations_per_million",
             "share_doses_used",
+            "total_boosters",
+            "total_boosters_per_hundred",
         ]
     ]
 
@@ -154,3 +182,7 @@ def pipe_checks(df: pd.DataFrame) -> pd.DataFrame:
 def run_etl(output_path: str):
     etl = USStatesETL()
     etl.run(output_path)
+
+
+if __name__ == "__main__":
+    run_etl("here.csv")

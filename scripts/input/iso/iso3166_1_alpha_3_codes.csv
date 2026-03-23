@@ -27,7 +27,7 @@ BGR,Bulgaria
 BHR,Bahrain
 BHS,Bahamas
 BIH,Bosnia and Herzegovina
-BLM,Saint Barthélemy
+BLM,Saint Barthelemy
 BLR,Belarus
 BLZ,Belize
 BMU,Bermuda
@@ -77,6 +77,7 @@ FJI,Fiji
 FLK,Falkland Islands
 FRA,France
 FRO,Faeroe Islands
+FRO,Faroe Islands
 FSM,Micronesia (country)
 GAB,Gabon
 GBR,United Kingdom
@@ -181,13 +182,13 @@ PLW,Palau
 PNG,Papua New Guinea
 POL,Poland
 PRI,Puerto Rico
-PRK,Democratic People's Republic of Korea
+PRK,North Korea
 PRT,Portugal
 PRY,Paraguay
 PSE,Palestine
 PYF,French Polynesia
 QAT,Qatar
-REU,Réunion
+REU,Reunion
 ROU,Romania
 RUS,Russia
 RWA,Rwanda
@@ -223,6 +224,7 @@ TJK,Tajikistan
 TKL,Tokelau
 TKM,Turkmenistan
 TLS,Timor
+TLS,East Timor
 TON,Tonga
 TTO,Trinidad and Tobago
 TUN,Tunisia
@@ -254,6 +256,7 @@ OWID_ASI,Asia
 OWID_CYN,Northern Cyprus
 OWID_ENG,England
 OWID_EUN,European Union
+OWID_EUN,European Union (27)
 OWID_EUR,Europe
 OWID_INT,International
 OWID_KOS,Kosovo
@@ -268,3 +271,7 @@ OWID_HIC,High income
 OWID_UMC,Upper middle income
 OWID_LMC,Lower middle income
 OWID_LIC,Low income
+OWID_HIC,High-income countries
+OWID_UMC,Upper-middle-income countries
+OWID_LMC,Lower-middle-income countries
+OWID_LIC,Low-income countries

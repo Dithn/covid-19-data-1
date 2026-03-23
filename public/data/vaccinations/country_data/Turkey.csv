@@ -1,329 +1,634 @@
-total_vaccinations,date,location,source_url,vaccine,people_vaccinated,people_fully_vaccinated,total_boosters
-0,2021-01-13,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-279452,2021-01-14,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-616652,2021-01-15,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-676903,2021-01-16,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-706451,2021-01-17,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-832412,2021-01-18,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-950635,2021-01-19,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1052493,2021-01-20,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1120258,2021-01-21,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1202212,2021-01-22,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1226883,2021-01-23,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1244653,2021-01-24,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1302753,2021-01-25,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1410273,2021-01-26,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1522580,2021-01-27,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1697575,2021-01-28,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1928351,2021-01-29,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1960860,2021-01-30,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-1986237,2021-01-31,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2136299,2021-02-01,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2229233,2021-02-02,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2343280,2021-02-03,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2500806,2021-02-04,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2559802,2021-02-05,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2601717,2021-02-06,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2610496,2021-02-07,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2664203,2021-02-08,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2732709,2021-02-09,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2795116,2021-02-10,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-2846125,2021-02-11,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,,,
-3404354,2021-02-12,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,3067822,336532,
-3709896,2021-02-13,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,3253005,456891,
-3825101,2021-02-14,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,3336164,488937,
-4182027,2021-02-15,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,3608148,573879,
-4630784,2021-02-16,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,3984622,646162,
-5223602,2021-02-17,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,4477432,746170,
-5895295,2021-02-18,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,5028179,867116,
-6361699,2021-02-19,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,5384983,976716,
-6533510,2021-02-20,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,5503094,1030416,
-6571830,2021-02-21,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,5517993,1053837,
-6837302,2021-02-22,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,5738471,1098831,
-7289498,2021-02-23,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6106522,1182976,
-7619695,2021-02-24,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6352410,1267285,
-7979726,2021-02-25,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6582239,1397487,
-8298805,2021-02-26,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6745147,1553658,
-8514775,2021-02-27,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6854642,1660133,
-8547875,2021-02-28,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6869923,1677952,
-8774718,2021-03-01,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,6975558,1799160,
-9073640,2021-03-02,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7123722,1949918,
-9317546,2021-03-03,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7240515,2077031,
-9560038,2021-03-04,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7353536,2206502,
-9756289,2021-03-05,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7446337,2309952,
-9883607,2021-03-06,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7509923,2373684,
-9917348,2021-03-07,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7524943,2392405,
-10001980,2021-03-08,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7565023,2436957,
-10222994,2021-03-09,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7676519,2546475,
-10360283,2021-03-10,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7745480,2614803,
-10502494,2021-03-11,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7807838,2694656,
-10742277,2021-03-12,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7858565,2883712,
-10923284,2021-03-13,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7887544,3035740,
-10992095,2021-03-14,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7892795,3099300,
-11261612,2021-03-15,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7911946,3349666,
-11696296,2021-03-16,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7948320,3747976,
-12142245,2021-03-17,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7977222,4165023,
-12431482,2021-03-18,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,7991510,4439972,
-12844577,2021-03-19,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,8007734,4836843,
-13029754,2021-03-20,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,8016078,5013676,
-13057722,2021-03-21,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,8017698,5040024,
-13265952,2021-03-22,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,8045789,5220163,
-13589167,2021-03-23,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,8091685,5497482,
-13969867,2021-03-24,Turkey,https://covid19asi.saglik.gov.tr/,Sinovac,8133043,5836824,
-14227410,2021-03-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",8163156,6064254,
-14491247,2021-03-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",8195554,6295693,
-14652659,2021-03-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",8217124,6435535,
-14949260,2021-03-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",8370872,6578388,
-15301462,2021-03-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",8614368,6687094,
-15834787,2021-03-31,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",8994454,6840333,
-16148683,2021-04-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",9206500,6942183,
-16317170,2021-04-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",9313746,7003424,
-16602919,2021-04-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",9478896,7124023,
-16683067,2021-04-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",9546643,7136424,
-16993574,2021-04-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",9796506,7197068,
-17367875,2021-04-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",10088238,7279637,
-17704888,2021-04-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",10359390,7345498,
-18089783,2021-04-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",10627037,7462746,
-18320384,2021-04-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",10777451,7542933,
-18445354,2021-04-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",10865731,7579623,
-18494796,2021-04-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",10907432,7587364,
-18728978,2021-04-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",11108847,7620131,
-19062758,2021-04-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",11388406,7674352,
-19272675,2021-04-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",11556291,7716384,
-19445269,2021-04-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",11708135,7737134,
-19811774,2021-04-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12038403,7773371,
-19937359,2021-04-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12151728,7785631,
-19970215,2021-04-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12182430,7787785,
-20075504,2021-04-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12260361,7815143,
-20283227,2021-04-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12426580,7856647,
-20477685,2021-04-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12590582,7887103,
-20728975,2021-04-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12796678,7932297,
-20887427,2021-04-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",12940482,7946945,
-21068403,2021-04-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13114373,7954030,
-21130963,2021-04-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13171984,7958979,
-21394785,2021-04-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13287707,8107078,
-21678461,2021-04-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13383037,8295424,
-22132803,2021-04-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13512810,8619993,
-22568172,2021-04-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13646398,8921774,
-22816891,2021-04-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13712254,9104637,
-22899046,2021-05-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13752107,9146939,
-23006734,2021-05-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13800405,9206329,
-23294477,2021-05-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",13933868,9360609,
-23729113,2021-05-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14132161,9596952,
-24103883,2021-05-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14264014,9839869,
-24467719,2021-05-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14391595,10076124,
-24691044,2021-05-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14476881,10214163,
-24853353,2021-05-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14545524,10307829,
-24918773,2021-05-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14585980,10332793,
-25018078,2021-05-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14618167,10399911,
-25178674,2021-05-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14660551,10518123,
-25348875,2021-05-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14711273,10637602,
-25402277,2021-05-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14732527,10669750,
-25561998,2021-05-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14814316,10747682,
-25687427,2021-05-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14895052,10792375,
-25772743,2021-05-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14947740,10825003,
-25950934,2021-05-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",14986982,10963952,
-26537163,2021-05-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",15202819,11334344,
-26821460,2021-05-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",15366071,11455389,
-27083374,2021-05-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",15511277,11572097,
-27745400,2021-05-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",15871547,11873853,
-27818947,2021-05-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",15919759,11899188,
-28048727,2021-05-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16045835,12002892,
-28161235,2021-05-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16115588,12045647,
-28397847,2021-05-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16255095,12142752,
-28511333,2021-05-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16320454,12190879,
-28605453,2021-05-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16377100,12228353,
-28730177,2021-05-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16452864,12277313,
-28802681,2021-05-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16498868,12303813,
-28960961,2021-05-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16551775,12409186,
-29171543,2021-05-31,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16628831,12542712,
-29375685,2021-06-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16740180,12635505,
-29657059,2021-06-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",16924374,12732685,
-30129259,2021-06-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",17234801,12894458,
-30318510,2021-06-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",17346890,12971620,
-30576062,2021-06-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",17515705,13060357,
-30857320,2021-06-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",17699837,13157483,
-31246323,2021-06-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",17987842,13258481,
-31589838,2021-06-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",18239386,13350452,
-31987341,2021-06-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",18538800,13448541,
-32507572,2021-06-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",18967237,13540335,
-32952991,2021-06-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",19349257,13603734,
-33428162,2021-06-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",19761182,13666980,
-34052689,2021-06-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",20318690,13733999,
-34778165,2021-06-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",20963316,13814849,
-36241225,2021-06-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",22268007,13973218,
-37739099,2021-06-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",23654078,14085021,
-39446201,2021-06-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",25225946,14220255,
-40619152,2021-06-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",26301413,14317739,
-41194790,2021-06-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",26824612,14370178,
-42613378,2021-06-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",28123248,14490130,
-43629179,2021-06-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",29052236,14576943,
-44080123,2021-06-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",29462165,14617958,
-44951168,2021-06-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",30267732,14683436,
-45831738,2021-06-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",31090069,14741669,
-46633976,2021-06-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",31838965,14795011,
-47079628,2021-06-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",32233753,14845875,
-47773102,2021-06-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",32857375,14915727,
-48938717,2021-06-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",33934402,15004315,
-49401445,2021-06-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",34344798,15056647,
-50608142,2021-06-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",35091645,15217656,298841
-51212188,2021-07-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",35315962,15336829,559397
-52104718,2021-07-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",35673239,15522900,908579
-52479924,2021-07-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",35828964,15625651,1025309
-53226310,2021-07-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",36084241,15779136,1362933
-54148190,2021-07-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",36416034,15962069,1770087
-55004225,2021-07-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",36736718,16140197,2127310
-55808670,2021-07-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",37028443,16347747,2432480
-56646457,2021-07-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",37318116,16639474,2688867
-57248834,2021-07-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",37530250,16893992,2824592
-57583424,2021-07-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",37644385,17070834,2868205
-58155459,2021-07-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",37811142,17350100,2994217
-59087644,2021-07-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38090164,17808050,3189430
-60047995,2021-07-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38337720,18356412,3353863
-61011929,2021-07-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38538814,19018721,3454394
-62378829,2021-07-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38786421,20013130,3579278
-62537504,2021-07-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38808936,20139223,3589345
-63070377,2021-07-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38900715,20552887,3616775
-63432446,2021-07-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",38965125,20832201,3635120
-63860891,2021-07-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39038614,21162757,3659520
-63929646,2021-07-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39047910,21217144,3664592
-64438877,2021-07-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39145657,21598476,3694744
-65102892,2021-07-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39277100,22097661,3728131
-65329543,2021-07-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39320939,22267239,3741365
-65783297,2021-07-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39413330,22597613,3772354
-66806525,2021-07-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39597116,23273023,3936386
-68082990,2021-07-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",39836563,24108507,4137920
-69240538,2021-07-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",40071797,24830627,4338114
-70436741,2021-07-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",40330955,25566171,4539615
-71842834,2021-07-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",40661999,26437993,4742842
-72929642,2021-07-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",40929557,27133225,4866860
-73272667,2021-07-31,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41012715,27355633,4904319
-73493059,2021-08-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41062834,27472822,4957403
-73887381,2021-08-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41165345,27655792,5066244
-74330222,2021-08-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41303951,27831923,5194348
-74335704,2021-08-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41306343,27834147,5195214
-74512881,2021-08-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41346860,27921501,5244520
-75102478,2021-08-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41490596,28250858,5361024
-75674278,2021-08-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41632116,28572955,5469207
-76029390,2021-08-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41726338,28777993,5525059
-76602059,2021-08-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",41874764,29098283,5629012
-78265217,2021-08-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",42333084,30045631,5886502
-79639120,2021-08-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",42732950,30819342,6086828
-81436011,2021-08-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",43304840,31782995,6348176
-82021528,2021-08-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",43493299,32095253,6432976
-82865497,2021-08-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",43784866,32546912,6533719
-83338627,2021-08-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",43946656,32807818,6584153
-84055687,2021-08-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",44187137,33140399,6728151
-85004270,2021-08-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",44522947,33557585,6923738
-86413722,2021-08-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",45025676,34128107,7259939
-87195574,2021-08-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",45304742,34446015,7444817
-88059440,2021-08-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",45636614,34791602,7631224
-88443350,2021-08-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",45796679,34963740,7682931
-88760525,2021-08-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",45936819,35099244,7724462
-89651157,2021-08-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",46317869,35408683,7924605
-90405737,2021-08-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",46649044,35672814,8083879
-91081547,2021-08-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",46949549,35908553,8223445
-91747545,2021-08-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",47247097,36145891,8354557
-92391003,2021-08-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",47528894,36388775,8473334
-92710374,2021-08-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",47675684,36521647,8513043
-93004856,2021-08-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",47797199,36636290,8571367
-93318338,2021-08-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",47929111,36765581,8623646
-94167554,2021-08-31,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",48271065,37089601,8806888
-94873884,2021-09-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",48563507,37368108,8942269
-95565306,2021-09-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",48854935,37645172,9065199
-96378383,2021-09-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",49197925,37976800,9203658
-96761208,2021-09-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",49376328,38141442,9243438
-97113297,2021-09-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",49551529,38288329,9273439
-97981595,2021-09-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",49946816,38628745,9406034
-98828646,2021-09-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",50324643,38978541,9525462
-99582607,2021-09-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",50648789,39298396,9635422
-100267925,2021-09-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",50930700,39599848,9737377
-101048667,2021-09-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",51234095,39963236,9851336
-101454754,2021-09-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",51411717,40158373,9884664
-101748658,2021-09-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",51536013,40305712,9906933
-102431607,2021-09-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",51780811,40635924,10014872
-103001616,2021-09-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",51979208,40921431,10100977
-103526811,2021-09-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52153868,41182546,10190397
-104020938,2021-09-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52315108,41435326,10270504
-104593216,2021-09-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52497989,41739242,10355985
-104894094,2021-09-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52601310,41902917,10389867
-105110950,2021-09-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52672498,42024517,10413935
-105611261,2021-09-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52824748,42286431,10500082
-106066262,2021-09-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",52956452,42536503,10573307
-106492764,2021-09-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53076143,42774152,10642469
-106893726,2021-09-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53185113,43002194,10706419
-107380295,2021-09-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53317014,43285677,10777604
-107641923,2021-09-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53390829,43439793,10811301
-107840404,2021-09-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53443024,43560247,10837133
-108305902,2021-09-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53556013,43813987,10935902
-108734111,2021-09-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53658331,44059772,11016008
-109495613,2021-09-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53840659,44498344,11156610
-109925744,2021-10-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53941450,44758512,11225782
-110159938,2021-10-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",53997429,44910311,11252198
-110333793,2021-10-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54038516,45023309,11271968
-110745658,2021-10-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54140738,45258194,11346726
-111078323,2021-10-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54214776,45454130,11409417
-111391198,2021-10-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54284532,45638744,11467922
-111674310,2021-10-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54347957,45807085,11519268
-112037763,2021-10-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54427081,46030897,11579785
-112225352,2021-10-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54467941,46156214,11601197
-112360409,2021-10-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54497626,46245192,11617591
-112666626,2021-10-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54565515,46435265,11665846
-112941094,2021-10-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54624841,46617072,11699181
-113183300,2021-10-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54679606,46775005,11728689
-113418257,2021-10-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54734206,46926728,11757323
-113709533,2021-10-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54799554,47119099,11790880
-113862236,2021-10-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54833779,47226488,11801969
-113971512,2021-10-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54858848,47303190,11809474
-114207634,2021-10-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54914321,47450026,11843287
-114425692,2021-10-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",54966932,47585869,11872891
-114620510,2021-10-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55013831,47704367,11902312
-114807774,2021-10-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55059732,47817661,11930381
-115040699,2021-10-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55115287,47962680,11962732
-115164597,2021-10-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55144241,48043489,11976867
-115255712,2021-10-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55164675,48100346,11990691
-115480511,2021-10-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55214596,48218503,12047412
-115674594,2021-10-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55256541,48319754,12098299
-115861861,2021-10-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55297093,48418126,12146642
-116023796,2021-10-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55332860,48505748,12185188
-116123219,2021-10-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55355972,48563435,12203812
-116210213,2021-10-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55375923,48614256,12220034
-116280951,2021-10-31,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55392343,48655853,12232755
-116486234,2021-11-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55437166,48758456,12290612
-116663497,2021-11-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55477173,48846431,12339893
-116831329,2021-11-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55513911,48927418,12390000
-117008424,2021-11-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55549947,49007760,12450717
-117223420,2021-11-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55591906,49107343,12524171
-117311720,2021-11-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55610309,49155101,12546310
-117378532,2021-11-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55625504,49190536,12562492
-117562317,2021-11-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55663530,49270114,12628673
-117723821,2021-11-09,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55697102,49341966,12684753
-117866846,2021-11-10,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55726882,49405070,12734894
-118029902,2021-11-11,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55757564,49472726,12799612
-118219170,2021-11-12,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55793328,49554129,12871713
-118302677,2021-11-13,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55810636,49594716,12897325
-118367035,2021-11-14,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55824402,49626098,12916535
-118559680,2021-11-15,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55867039,49707889,12984752
-118727805,2021-11-16,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55904542,49777801,13045462
-118883070,2021-11-17,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55939336,49842072,13101662
-119029798,2021-11-18,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",55972966,49904400,13152432
-119200467,2021-11-19,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56011115,49979995,13209357
-119272284,2021-11-20,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56026218,50012340,13233726
-119327719,2021-11-21,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56038139,50037605,13251975
-119473872,2021-11-22,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56067208,50093635,13313029
-119602103,2021-11-23,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56093801,50144041,13364261
-119726075,2021-11-24,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56119518,50192722,13413835
-119844933,2021-11-25,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56144078,50240356,13460499
-119987705,2021-11-26,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56173117,50298544,13516044
-120058425,2021-11-27,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56188582,50329638,13540205
-120114498,2021-11-28,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56201040,50354168,13559290
-120261629,2021-11-29,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56232602,50409060,13619967
-120390651,2021-11-30,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56261687,50458355,13670609
-120516813,2021-12-01,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56288895,50505240,13722678
-120640853,2021-12-02,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56314900,50550332,13775621
-120788673,2021-12-03,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56346149,50605933,13836591
-120857540,2021-12-04,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56360977,50632985,13863578
-120910438,2021-12-05,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56371961,50653666,13884811
-121042428,2021-12-06,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56398458,50698978,13944992
-121160790,2021-12-07,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56422378,50740424,13997988
-121276848,2021-12-08,Turkey,https://covid19asi.saglik.gov.tr/,"Pfizer/BioNTech, Sinovac",56445351,50780761,14050736
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Turkey,2021-01-13,Sinovac,https://covid19asi.saglik.gov.tr/,0,,,
+Turkey,2021-01-14,Sinovac,https://covid19asi.saglik.gov.tr/,279452,,,
+Turkey,2021-01-15,Sinovac,https://covid19asi.saglik.gov.tr/,616652,,,
+Turkey,2021-01-16,Sinovac,https://covid19asi.saglik.gov.tr/,676903,,,
+Turkey,2021-01-17,Sinovac,https://covid19asi.saglik.gov.tr/,706451,,,
+Turkey,2021-01-18,Sinovac,https://covid19asi.saglik.gov.tr/,832412,,,
+Turkey,2021-01-19,Sinovac,https://covid19asi.saglik.gov.tr/,950635,,,
+Turkey,2021-01-20,Sinovac,https://covid19asi.saglik.gov.tr/,1052493,,,
+Turkey,2021-01-21,Sinovac,https://covid19asi.saglik.gov.tr/,1120258,,,
+Turkey,2021-01-22,Sinovac,https://covid19asi.saglik.gov.tr/,1202212,,,
+Turkey,2021-01-23,Sinovac,https://covid19asi.saglik.gov.tr/,1226883,,,
+Turkey,2021-01-24,Sinovac,https://covid19asi.saglik.gov.tr/,1244653,,,
+Turkey,2021-01-25,Sinovac,https://covid19asi.saglik.gov.tr/,1302753,,,
+Turkey,2021-01-26,Sinovac,https://covid19asi.saglik.gov.tr/,1410273,,,
+Turkey,2021-01-27,Sinovac,https://covid19asi.saglik.gov.tr/,1522580,,,
+Turkey,2021-01-28,Sinovac,https://covid19asi.saglik.gov.tr/,1697575,,,
+Turkey,2021-01-29,Sinovac,https://covid19asi.saglik.gov.tr/,1928351,,,
+Turkey,2021-01-30,Sinovac,https://covid19asi.saglik.gov.tr/,1960860,,,
+Turkey,2021-01-31,Sinovac,https://covid19asi.saglik.gov.tr/,1986237,,,
+Turkey,2021-02-01,Sinovac,https://covid19asi.saglik.gov.tr/,2136299,,,
+Turkey,2021-02-02,Sinovac,https://covid19asi.saglik.gov.tr/,2229233,,,
+Turkey,2021-02-03,Sinovac,https://covid19asi.saglik.gov.tr/,2343280,,,
+Turkey,2021-02-04,Sinovac,https://covid19asi.saglik.gov.tr/,2500806,,,
+Turkey,2021-02-05,Sinovac,https://covid19asi.saglik.gov.tr/,2559802,,,
+Turkey,2021-02-06,Sinovac,https://covid19asi.saglik.gov.tr/,2601717,,,
+Turkey,2021-02-07,Sinovac,https://covid19asi.saglik.gov.tr/,2610496,,,
+Turkey,2021-02-08,Sinovac,https://covid19asi.saglik.gov.tr/,2664203,,,
+Turkey,2021-02-09,Sinovac,https://covid19asi.saglik.gov.tr/,2732709,,,
+Turkey,2021-02-10,Sinovac,https://covid19asi.saglik.gov.tr/,2795116,,,
+Turkey,2021-02-11,Sinovac,https://covid19asi.saglik.gov.tr/,2846125,,,
+Turkey,2021-02-12,Sinovac,https://covid19asi.saglik.gov.tr/,3404354,3067822,336532,
+Turkey,2021-02-13,Sinovac,https://covid19asi.saglik.gov.tr/,3709896,3253005,456891,
+Turkey,2021-02-14,Sinovac,https://covid19asi.saglik.gov.tr/,3825101,3336164,488937,
+Turkey,2021-02-15,Sinovac,https://covid19asi.saglik.gov.tr/,4182027,3608148,573879,
+Turkey,2021-02-16,Sinovac,https://covid19asi.saglik.gov.tr/,4630784,3984622,646162,
+Turkey,2021-02-17,Sinovac,https://covid19asi.saglik.gov.tr/,5223602,4477432,746170,
+Turkey,2021-02-18,Sinovac,https://covid19asi.saglik.gov.tr/,5895295,5028179,867116,
+Turkey,2021-02-19,Sinovac,https://covid19asi.saglik.gov.tr/,6361699,5384983,976716,
+Turkey,2021-02-20,Sinovac,https://covid19asi.saglik.gov.tr/,6533510,5503094,1030416,
+Turkey,2021-02-21,Sinovac,https://covid19asi.saglik.gov.tr/,6571830,5517993,1053837,
+Turkey,2021-02-22,Sinovac,https://covid19asi.saglik.gov.tr/,6837302,5738471,1098831,
+Turkey,2021-02-23,Sinovac,https://covid19asi.saglik.gov.tr/,7289498,6106522,1182976,
+Turkey,2021-02-24,Sinovac,https://covid19asi.saglik.gov.tr/,7619695,6352410,1267285,
+Turkey,2021-02-25,Sinovac,https://covid19asi.saglik.gov.tr/,7979726,6582239,1397487,
+Turkey,2021-02-26,Sinovac,https://covid19asi.saglik.gov.tr/,8298805,6745147,1553658,
+Turkey,2021-02-27,Sinovac,https://covid19asi.saglik.gov.tr/,8514775,6854642,1660133,
+Turkey,2021-02-28,Sinovac,https://covid19asi.saglik.gov.tr/,8547875,6869923,1677952,
+Turkey,2021-03-01,Sinovac,https://covid19asi.saglik.gov.tr/,8774718,6975558,1799160,
+Turkey,2021-03-02,Sinovac,https://covid19asi.saglik.gov.tr/,9073640,7123722,1949918,
+Turkey,2021-03-03,Sinovac,https://covid19asi.saglik.gov.tr/,9317546,7240515,2077031,
+Turkey,2021-03-04,Sinovac,https://covid19asi.saglik.gov.tr/,9560038,7353536,2206502,
+Turkey,2021-03-05,Sinovac,https://covid19asi.saglik.gov.tr/,9756289,7446337,2309952,
+Turkey,2021-03-06,Sinovac,https://covid19asi.saglik.gov.tr/,9883607,7509923,2373684,
+Turkey,2021-03-07,Sinovac,https://covid19asi.saglik.gov.tr/,9917348,7524943,2392405,
+Turkey,2021-03-08,Sinovac,https://covid19asi.saglik.gov.tr/,10001980,7565023,2436957,
+Turkey,2021-03-09,Sinovac,https://covid19asi.saglik.gov.tr/,10222994,7676519,2546475,
+Turkey,2021-03-10,Sinovac,https://covid19asi.saglik.gov.tr/,10360283,7745480,2614803,
+Turkey,2021-03-11,Sinovac,https://covid19asi.saglik.gov.tr/,10502494,7807838,2694656,
+Turkey,2021-03-12,Sinovac,https://covid19asi.saglik.gov.tr/,10742277,7858565,2883712,
+Turkey,2021-03-13,Sinovac,https://covid19asi.saglik.gov.tr/,10923284,7887544,3035740,
+Turkey,2021-03-14,Sinovac,https://covid19asi.saglik.gov.tr/,10992095,7892795,3099300,
+Turkey,2021-03-15,Sinovac,https://covid19asi.saglik.gov.tr/,11261612,7911946,3349666,
+Turkey,2021-03-16,Sinovac,https://covid19asi.saglik.gov.tr/,11696296,7948320,3747976,
+Turkey,2021-03-17,Sinovac,https://covid19asi.saglik.gov.tr/,12142245,7977222,4165023,
+Turkey,2021-03-18,Sinovac,https://covid19asi.saglik.gov.tr/,12431482,7991510,4439972,
+Turkey,2021-03-19,Sinovac,https://covid19asi.saglik.gov.tr/,12844577,8007734,4836843,
+Turkey,2021-03-20,Sinovac,https://covid19asi.saglik.gov.tr/,13029754,8016078,5013676,
+Turkey,2021-03-21,Sinovac,https://covid19asi.saglik.gov.tr/,13057722,8017698,5040024,
+Turkey,2021-03-22,Sinovac,https://covid19asi.saglik.gov.tr/,13265952,8045789,5220163,
+Turkey,2021-03-23,Sinovac,https://covid19asi.saglik.gov.tr/,13589167,8091685,5497482,
+Turkey,2021-03-24,Sinovac,https://covid19asi.saglik.gov.tr/,13969867,8133043,5836824,
+Turkey,2021-03-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,14227410,8163156,6064254,
+Turkey,2021-03-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,14491247,8195554,6295693,
+Turkey,2021-03-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,14652659,8217124,6435535,
+Turkey,2021-03-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,14949260,8370872,6578388,
+Turkey,2021-03-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,15301462,8614368,6687094,
+Turkey,2021-03-31,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,15834787,8994454,6840333,
+Turkey,2021-04-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,16148683,9206500,6942183,
+Turkey,2021-04-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,16317170,9313746,7003424,
+Turkey,2021-04-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,16602919,9478896,7124023,
+Turkey,2021-04-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,16683067,9546643,7136424,
+Turkey,2021-04-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,16993574,9796506,7197068,
+Turkey,2021-04-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,17367875,10088238,7279637,
+Turkey,2021-04-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,17704888,10359390,7345498,
+Turkey,2021-04-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,18089783,10627037,7462746,
+Turkey,2021-04-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,18320384,10777451,7542933,
+Turkey,2021-04-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,18445354,10865731,7579623,
+Turkey,2021-04-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,18494796,10907432,7587364,
+Turkey,2021-04-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,18728978,11108847,7620131,
+Turkey,2021-04-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,19062758,11388406,7674352,
+Turkey,2021-04-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,19272675,11556291,7716384,
+Turkey,2021-04-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,19445269,11708135,7737134,
+Turkey,2021-04-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,19811774,12038403,7773371,
+Turkey,2021-04-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,19937359,12151728,7785631,
+Turkey,2021-04-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,19970215,12182430,7787785,
+Turkey,2021-04-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,20075504,12260361,7815143,
+Turkey,2021-04-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,20283227,12426580,7856647,
+Turkey,2021-04-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,20477685,12590582,7887103,
+Turkey,2021-04-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,20728975,12796678,7932297,
+Turkey,2021-04-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,20887427,12940482,7946945,
+Turkey,2021-04-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,21068403,13114373,7954030,
+Turkey,2021-04-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,21130963,13171984,7958979,
+Turkey,2021-04-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,21394785,13287707,8107078,
+Turkey,2021-04-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,21678461,13383037,8295424,
+Turkey,2021-04-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,22132803,13512810,8619993,
+Turkey,2021-04-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,22568172,13646398,8921774,
+Turkey,2021-04-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,22816891,13712254,9104637,
+Turkey,2021-05-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,22899046,13752107,9146939,
+Turkey,2021-05-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,23006734,13800405,9206329,
+Turkey,2021-05-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,23294477,13933868,9360609,
+Turkey,2021-05-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,23729113,14132161,9596952,
+Turkey,2021-05-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,24103883,14264014,9839869,
+Turkey,2021-05-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,24467719,14391595,10076124,
+Turkey,2021-05-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,24691044,14476881,10214163,
+Turkey,2021-05-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,24853353,14545524,10307829,
+Turkey,2021-05-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,24918773,14585980,10332793,
+Turkey,2021-05-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25018078,14618167,10399911,
+Turkey,2021-05-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25178674,14660551,10518123,
+Turkey,2021-05-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25348875,14711273,10637602,
+Turkey,2021-05-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25402277,14732527,10669750,
+Turkey,2021-05-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25561998,14814316,10747682,
+Turkey,2021-05-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25687427,14895052,10792375,
+Turkey,2021-05-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25772743,14947740,10825003,
+Turkey,2021-05-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,25950934,14986982,10963952,
+Turkey,2021-05-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,26537163,15202819,11334344,
+Turkey,2021-05-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,26821460,15366071,11455389,
+Turkey,2021-05-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,27083374,15511277,11572097,
+Turkey,2021-05-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,27745400,15871547,11873853,
+Turkey,2021-05-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,27818947,15919759,11899188,
+Turkey,2021-05-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28048727,16045835,12002892,
+Turkey,2021-05-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28161235,16115588,12045647,
+Turkey,2021-05-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28397847,16255095,12142752,
+Turkey,2021-05-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28511333,16320454,12190879,
+Turkey,2021-05-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28605453,16377100,12228353,
+Turkey,2021-05-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28730177,16452864,12277313,
+Turkey,2021-05-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28802681,16498868,12303813,
+Turkey,2021-05-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,28960961,16551775,12409186,
+Turkey,2021-05-31,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,29171543,16628831,12542712,
+Turkey,2021-06-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,29375685,16740180,12635505,
+Turkey,2021-06-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,29657059,16924374,12732685,
+Turkey,2021-06-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,30129259,17234801,12894458,
+Turkey,2021-06-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,30318510,17346890,12971620,
+Turkey,2021-06-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,30576062,17515705,13060357,
+Turkey,2021-06-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,30857320,17699837,13157483,
+Turkey,2021-06-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,31246323,17987842,13258481,
+Turkey,2021-06-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,31589838,18239386,13350452,
+Turkey,2021-06-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,31987341,18538800,13448541,
+Turkey,2021-06-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,32507572,18967237,13540335,
+Turkey,2021-06-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,32952991,19349257,13603734,
+Turkey,2021-06-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,33428162,19761182,13666980,
+Turkey,2021-06-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,34052689,20318690,13733999,
+Turkey,2021-06-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,34778165,20963316,13814849,
+Turkey,2021-06-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,36241225,22268007,13973218,
+Turkey,2021-06-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,37739099,23654078,14085021,
+Turkey,2021-06-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,39446201,25225946,14220255,
+Turkey,2021-06-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,40619152,26301413,14317739,
+Turkey,2021-06-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,41194790,26824612,14370178,
+Turkey,2021-06-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,42613378,28123248,14490130,
+Turkey,2021-06-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,43629179,29052236,14576943,
+Turkey,2021-06-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,44080123,29462165,14617958,
+Turkey,2021-06-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,44951168,30267732,14683436,
+Turkey,2021-06-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,45831738,31090069,14741669,
+Turkey,2021-06-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,46633976,31838965,14795011,
+Turkey,2021-06-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,47079628,32233753,14845875,
+Turkey,2021-06-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,47773102,32857375,14915727,
+Turkey,2021-06-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,48938717,33934402,15004315,
+Turkey,2021-06-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,49401445,34344798,15056647,
+Turkey,2021-06-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,50608142,35091645,15217656,298841
+Turkey,2021-07-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,51212188,35315962,15336829,559397
+Turkey,2021-07-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,52104718,35673239,15522900,908579
+Turkey,2021-07-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,52479924,35828964,15625651,1025309
+Turkey,2021-07-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,53226310,36084241,15779136,1362933
+Turkey,2021-07-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,54148190,36416034,15962069,1770087
+Turkey,2021-07-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,55004225,36736718,16140197,2127310
+Turkey,2021-07-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,55808670,37028443,16347747,2432480
+Turkey,2021-07-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,56646457,37318116,16639474,2688867
+Turkey,2021-07-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,57248834,37530250,16893992,2824592
+Turkey,2021-07-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,57583424,37644385,17070834,2868205
+Turkey,2021-07-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,58155459,37811142,17350100,2994217
+Turkey,2021-07-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,59087644,38090164,17808050,3189430
+Turkey,2021-07-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,60047995,38337720,18356412,3353863
+Turkey,2021-07-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,61011929,38538814,19018721,3454394
+Turkey,2021-07-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,62378829,38786421,20013130,3579278
+Turkey,2021-07-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,62537504,38808936,20139223,3589345
+Turkey,2021-07-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,63070377,38900715,20552887,3616775
+Turkey,2021-07-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,63432446,38965125,20832201,3635120
+Turkey,2021-07-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,63860891,39038614,21162757,3659520
+Turkey,2021-07-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,63929646,39047910,21217144,3664592
+Turkey,2021-07-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,64438877,39145657,21598476,3694744
+Turkey,2021-07-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,65102892,39277100,22097661,3728131
+Turkey,2021-07-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,65329543,39320939,22267239,3741365
+Turkey,2021-07-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,65783297,39413330,22597613,3772354
+Turkey,2021-07-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,66806525,39597116,23273023,3936386
+Turkey,2021-07-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,68082990,39836563,24108507,4137920
+Turkey,2021-07-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,69240538,40071797,24830627,4338114
+Turkey,2021-07-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,70436741,40330955,25566171,4539615
+Turkey,2021-07-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,71842834,40661999,26437993,4742842
+Turkey,2021-07-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,72929642,40929557,27133225,4866860
+Turkey,2021-07-31,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,73272667,41012715,27355633,4904319
+Turkey,2021-08-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,73493059,41062834,27472822,4957403
+Turkey,2021-08-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,73887381,41165345,27655792,5066244
+Turkey,2021-08-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,74330222,41303951,27831923,5194348
+Turkey,2021-08-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,74335704,41306343,27834147,5195214
+Turkey,2021-08-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,74512881,41346860,27921501,5244520
+Turkey,2021-08-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,75102478,41490596,28250858,5361024
+Turkey,2021-08-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,75674278,41632116,28572955,5469207
+Turkey,2021-08-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,76029390,41726338,28777993,5525059
+Turkey,2021-08-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,76602059,41874764,29098283,5629012
+Turkey,2021-08-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,78265217,42333084,30045631,5886502
+Turkey,2021-08-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,79639120,42732950,30819342,6086828
+Turkey,2021-08-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,81436011,43304840,31782995,6348176
+Turkey,2021-08-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,82021528,43493299,32095253,6432976
+Turkey,2021-08-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,82865497,43784866,32546912,6533719
+Turkey,2021-08-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,83338627,43946656,32807818,6584153
+Turkey,2021-08-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,84055687,44187137,33140399,6728151
+Turkey,2021-08-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,85004270,44522947,33557585,6923738
+Turkey,2021-08-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,86413722,45025676,34128107,7259939
+Turkey,2021-08-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,87195574,45304742,34446015,7444817
+Turkey,2021-08-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,88059440,45636614,34791602,7631224
+Turkey,2021-08-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,88443350,45796679,34963740,7682931
+Turkey,2021-08-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,88760525,45936819,35099244,7724462
+Turkey,2021-08-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,89651157,46317869,35408683,7924605
+Turkey,2021-08-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,90405737,46649044,35672814,8083879
+Turkey,2021-08-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,91081547,46949549,35908553,8223445
+Turkey,2021-08-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,91747545,47247097,36145891,8354557
+Turkey,2021-08-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,92391003,47528894,36388775,8473334
+Turkey,2021-08-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,92710374,47675684,36521647,8513043
+Turkey,2021-08-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,93004856,47797199,36636290,8571367
+Turkey,2021-08-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,93318338,47929111,36765581,8623646
+Turkey,2021-08-31,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,94167554,48271065,37089601,8806888
+Turkey,2021-09-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,94873884,48563507,37368108,8942269
+Turkey,2021-09-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,95565306,48854935,37645172,9065199
+Turkey,2021-09-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,96378383,49197925,37976800,9203658
+Turkey,2021-09-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,96761208,49376328,38141442,9243438
+Turkey,2021-09-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,97113297,49551529,38288329,9273439
+Turkey,2021-09-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,97981595,49946816,38628745,9406034
+Turkey,2021-09-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,98828646,50324643,38978541,9525462
+Turkey,2021-09-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,99582607,50648789,39298396,9635422
+Turkey,2021-09-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,100267925,50930700,39599848,9737377
+Turkey,2021-09-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,101048667,51234095,39963236,9851336
+Turkey,2021-09-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,101454754,51411717,40158373,9884664
+Turkey,2021-09-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,101748658,51536013,40305712,9906933
+Turkey,2021-09-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,102431607,51780811,40635924,10014872
+Turkey,2021-09-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,103001616,51979208,40921431,10100977
+Turkey,2021-09-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,103526811,52153868,41182546,10190397
+Turkey,2021-09-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,104020938,52315108,41435326,10270504
+Turkey,2021-09-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,104593216,52497989,41739242,10355985
+Turkey,2021-09-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,104894094,52601310,41902917,10389867
+Turkey,2021-09-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,105110950,52672498,42024517,10413935
+Turkey,2021-09-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,105611261,52824748,42286431,10500082
+Turkey,2021-09-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,106066262,52956452,42536503,10573307
+Turkey,2021-09-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,106492764,53076143,42774152,10642469
+Turkey,2021-09-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,106893726,53185113,43002194,10706419
+Turkey,2021-09-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,107380295,53317014,43285677,10777604
+Turkey,2021-09-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,107641923,53390829,43439793,10811301
+Turkey,2021-09-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,107840404,53443024,43560247,10837133
+Turkey,2021-09-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,108305902,53556013,43813987,10935902
+Turkey,2021-09-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,108734111,53658331,44059772,11016008
+Turkey,2021-09-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,109495613,53840659,44498344,11156610
+Turkey,2021-10-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,109925744,53941450,44758512,11225782
+Turkey,2021-10-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,110159938,53997429,44910311,11252198
+Turkey,2021-10-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,110333793,54038516,45023309,11271968
+Turkey,2021-10-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,110745658,54140738,45258194,11346726
+Turkey,2021-10-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,111078323,54214776,45454130,11409417
+Turkey,2021-10-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,111391198,54284532,45638744,11467922
+Turkey,2021-10-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,111674310,54347957,45807085,11519268
+Turkey,2021-10-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,112037763,54427081,46030897,11579785
+Turkey,2021-10-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,112225352,54467941,46156214,11601197
+Turkey,2021-10-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,112360409,54497626,46245192,11617591
+Turkey,2021-10-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,112666626,54565515,46435265,11665846
+Turkey,2021-10-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,112941094,54624841,46617072,11699181
+Turkey,2021-10-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,113183300,54679606,46775005,11728689
+Turkey,2021-10-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,113418257,54734206,46926728,11757323
+Turkey,2021-10-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,113709533,54799554,47119099,11790880
+Turkey,2021-10-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,113862236,54833779,47226488,11801969
+Turkey,2021-10-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,113971512,54858848,47303190,11809474
+Turkey,2021-10-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,114207634,54914321,47450026,11843287
+Turkey,2021-10-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,114425692,54966932,47585869,11872891
+Turkey,2021-10-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,114620510,55013831,47704367,11902312
+Turkey,2021-10-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,114807774,55059732,47817661,11930381
+Turkey,2021-10-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,115040699,55115287,47962680,11962732
+Turkey,2021-10-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,115164597,55144241,48043489,11976867
+Turkey,2021-10-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,115255712,55164675,48100346,11990691
+Turkey,2021-10-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,115480511,55214596,48218503,12047412
+Turkey,2021-10-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,115674594,55256541,48319754,12098299
+Turkey,2021-10-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,115861861,55297093,48418126,12146642
+Turkey,2021-10-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116023796,55332860,48505748,12185188
+Turkey,2021-10-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116123219,55355972,48563435,12203812
+Turkey,2021-10-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116210213,55375923,48614256,12220034
+Turkey,2021-10-31,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116280951,55392343,48655853,12232755
+Turkey,2021-11-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116486234,55437166,48758456,12290612
+Turkey,2021-11-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116663497,55477173,48846431,12339893
+Turkey,2021-11-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,116831329,55513911,48927418,12390000
+Turkey,2021-11-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117008424,55549947,49007760,12450717
+Turkey,2021-11-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117223420,55591906,49107343,12524171
+Turkey,2021-11-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117311720,55610309,49155101,12546310
+Turkey,2021-11-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117378532,55625504,49190536,12562492
+Turkey,2021-11-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117562317,55663530,49270114,12628673
+Turkey,2021-11-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117723821,55697102,49341966,12684753
+Turkey,2021-11-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,117866846,55726882,49405070,12734894
+Turkey,2021-11-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118029902,55757564,49472726,12799612
+Turkey,2021-11-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118219170,55793328,49554129,12871713
+Turkey,2021-11-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118302677,55810636,49594716,12897325
+Turkey,2021-11-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118367035,55824402,49626098,12916535
+Turkey,2021-11-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118559680,55867039,49707889,12984752
+Turkey,2021-11-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118727805,55904542,49777801,13045462
+Turkey,2021-11-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,118883070,55939336,49842072,13101662
+Turkey,2021-11-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119029798,55972966,49904400,13152432
+Turkey,2021-11-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119200467,56011115,49979995,13209357
+Turkey,2021-11-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119272284,56026218,50012340,13233726
+Turkey,2021-11-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119327719,56038139,50037605,13251975
+Turkey,2021-11-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119473872,56067208,50093635,13313029
+Turkey,2021-11-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119602103,56093801,50144041,13364261
+Turkey,2021-11-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119726075,56119518,50192722,13413835
+Turkey,2021-11-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119844933,56144078,50240356,13460499
+Turkey,2021-11-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,119987705,56173117,50298544,13516044
+Turkey,2021-11-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120058425,56188582,50329638,13540205
+Turkey,2021-11-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120114498,56201040,50354168,13559290
+Turkey,2021-11-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120261629,56232602,50409060,13619967
+Turkey,2021-11-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120390651,56261687,50458355,13670609
+Turkey,2021-12-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120516813,56288895,50505240,13722678
+Turkey,2021-12-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120640853,56314900,50550332,13775621
+Turkey,2021-12-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120788673,56346149,50605933,13836591
+Turkey,2021-12-04,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120857540,56360977,50632985,13863578
+Turkey,2021-12-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,120910438,56371961,50653666,13884811
+Turkey,2021-12-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121042428,56398458,50698978,13944992
+Turkey,2021-12-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121160790,56422378,50740424,13997988
+Turkey,2021-12-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121276848,56445351,50780761,14050736
+Turkey,2021-12-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121394026,56468112,50821293,14104621
+Turkey,2021-12-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121532728,56494740,50871127,14166861
+Turkey,2021-12-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121600540,56507792,50896427,14196321
+Turkey,2021-12-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121655651,56517947,50916147,14221557
+Turkey,2021-12-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121804033,56544501,50961533,14297999
+Turkey,2021-12-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,121935289,56569332,51003175,14362782
+Turkey,2021-12-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,122037127,56588506,51036485,14412136
+Turkey,2021-12-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,122393466,56610525,51073891,14709050
+Turkey,2021-12-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,123144781,56636507,51119629,15388645
+Turkey,2021-12-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,123625349,56649405,51142896,15833048
+Turkey,2021-12-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,124058691,56660272,51161679,16236740
+Turkey,2021-12-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,124912525,56684204,51202223,17026098
+Turkey,2021-12-21,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,125761472,56708402,51242632,17810438
+Turkey,2021-12-22,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,126565703,56731257,51282294,18552152
+Turkey,2021-12-23,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,127285128,56753275,51321064,19210789
+Turkey,2021-12-24,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,127994715,56777545,51365908,19851262
+Turkey,2021-12-25,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,128349256,56789326,51387150,20172780
+Turkey,2021-12-26,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,128654886,56799280,51405278,20450328
+Turkey,2021-12-27,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,129332845,56823081,51447094,21062670
+Turkey,2021-12-28,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,129972508,56845477,51487225,21639806
+Turkey,2021-12-29,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,130571857,56867625,51527171,22177061
+Turkey,2021-12-30,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,131134774,56890943,51565713,22678118
+Turkey,2021-12-31,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,131646005,56914268,51604894,23126843
+Turkey,2022-01-01,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,131930475,56925363,51621727,23383385
+Turkey,2022-01-02,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,132215015,56936303,51638889,23639823
+Turkey,2022-01-03,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,132897714,56960334,51677320,24260060
+Turkey,2022-01-05,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,134195065,57009739,51756893,25428433
+Turkey,2022-01-06,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,134863259,57036087,51798496,26028676
+Turkey,2022-01-07,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,135618050,57067961,51847785,26702304
+Turkey,2022-01-08,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,135997933,57086572,51872868,27038493
+Turkey,2022-01-09,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,136281040,57101293,51893771,27285976
+Turkey,2022-01-10,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,136898878,57130601,51937001,27831276
+Turkey,2022-01-11,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,137428160,57157272,51976752,28294136
+Turkey,2022-01-12,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,137891835,57182206,52016406,28693223
+Turkey,2022-01-13,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,138326318,57205214,52051409,29069695
+Turkey,2022-01-14,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,138826560,57232010,52092874,29501676
+Turkey,2022-01-15,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,139071821,57245214,52112351,29714256
+Turkey,2022-01-16,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,139230188,57253263,52126002,29850923
+Turkey,2022-01-17,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,139578409,57271832,52155792,30150785
+Turkey,2022-01-18,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,139865637,57288097,52182212,30395328
+Turkey,2022-01-19,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,140087559,57300231,52201758,30585570
+Turkey,2022-01-20,"Pfizer/BioNTech, Sinovac",https://covid19asi.saglik.gov.tr/,140311232,57312984,52222180,30776068
+Turkey,2022-01-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,140556373,57325861,52244190,30986322
+Turkey,2022-01-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,140665664,57331624,52253904,31080136
+Turkey,2022-01-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,140743552,57336203,52262703,31144646
+Turkey,2022-01-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,140938758,57349728,52282544,31306486
+Turkey,2022-01-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141098118,57361027,52299996,31437095
+Turkey,2022-01-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141252329,57371915,52317284,31563130
+Turkey,2022-01-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141416957,57383642,52335677,31697638
+Turkey,2022-01-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141612186,57396805,52357621,31857760
+Turkey,2022-01-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141703801,57402431,52367432,31933938
+Turkey,2022-01-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141778517,57407159,52375810,31995548
+Turkey,2022-01-31,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,141981790,57422636,52399906,32159248
+Turkey,2022-02-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,142171571,57437044,52422425,32312102
+Turkey,2022-02-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,142348958,57451069,52443629,32454260
+Turkey,2022-02-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,142522697,57464203,52464047,32594447
+Turkey,2022-02-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,142735468,57480352,52489431,32765685
+Turkey,2022-02-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,142833393,57486690,52500475,32846228
+Turkey,2022-02-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,142910046,57491657,52509065,32909324
+Turkey,2022-02-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,143125638,57505252,52530366,33090020
+Turkey,2022-02-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,143303935,57517069,52548851,33238015
+Turkey,2022-02-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,143478985,57528865,52566932,33383188
+Turkey,2022-02-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,143645420,57540072,52585057,33520291
+Turkey,2022-02-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,143845934,57553305,52606514,33686115
+Turkey,2022-02-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,143940936,57559910,52616197,33764829
+Turkey,2022-02-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144007120,57564527,52623391,33819202
+Turkey,2022-02-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144173367,57576058,52640859,33956450
+Turkey,2022-02-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144326883,57586821,52657210,34082852
+Turkey,2022-02-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144476562,57596845,52672756,34206961
+Turkey,2022-02-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144599375,57605406,52685959,34308010
+Turkey,2022-02-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144730193,57614902,52701325,34413966
+Turkey,2022-02-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144799530,57619810,52709583,34470137
+Turkey,2022-02-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144850157,57623451,52715583,34511123
+Turkey,2022-02-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,144999620,57634087,52732078,34633455
+Turkey,2022-02-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145128369,57643606,52746699,34738064
+Turkey,2022-02-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145243896,57652077,52760079,34831740
+Turkey,2022-02-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145344212,57659736,52771929,34912547
+Turkey,2022-02-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145454202,57668314,52786023,34999865
+Turkey,2022-02-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145503292,57672341,52792845,35038106
+Turkey,2022-02-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145537442,57675034,52797530,35064878
+Turkey,2022-02-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145631632,57682903,52809698,35139031
+Turkey,2022-03-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145719490,57690044,52821088,35208358
+Turkey,2022-03-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145801884,57696907,52832010,35272967
+Turkey,2022-03-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145870323,57702481,52841206,35326636
+Turkey,2022-03-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145943346,57708290,52851442,35383614
+Turkey,2022-03-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145972393,57710714,52855894,35405785
+Turkey,2022-03-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,145990177,57712192,52858604,35419381
+Turkey,2022-03-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146048178,57717026,52866807,35464345
+Turkey,2022-03-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146097881,57721404,52874017,35502460
+Turkey,2022-03-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146144478,57725502,52880970,35538006
+Turkey,2022-03-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146183069,57729220,52886909,35566940
+Turkey,2022-03-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146222195,57732735,52893442,35596018
+Turkey,2022-03-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146235452,57733973,52895872,35605607
+Turkey,2022-03-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146243976,57734779,52897465,35611732
+Turkey,2022-03-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146273906,57737917,52902566,35633423
+Turkey,2022-03-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146304093,57740810,52907403,35655880
+Turkey,2022-03-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146336317,57743879,52912588,35679850
+Turkey,2022-03-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146377975,57747211,52918230,35712534
+Turkey,2022-03-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146421935,57750663,52924123,35747149
+Turkey,2022-03-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146435701,57752216,52926256,35757229
+Turkey,2022-03-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146446575,57753041,52927949,35765585
+Turkey,2022-03-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146503050,57756278,52934131,35812641
+Turkey,2022-03-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146561848,57759605,52939958,35862285
+Turkey,2022-03-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146618996,57762885,52945494,35910617
+Turkey,2022-03-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146675886,57765818,52950698,35959370
+Turkey,2022-03-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146733931,57768992,52956116,36008823
+Turkey,2022-03-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146751309,57770305,52958300,36022704
+Turkey,2022-03-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146762564,57770999,52959745,36031820
+Turkey,2022-03-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146823531,57773691,52964480,36085360
+Turkey,2022-03-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146881913,57776278,52968985,36136650
+Turkey,2022-03-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146940492,57778898,52973497,36188097
+Turkey,2022-03-31,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,146995383,57781315,52977660,36236408
+Turkey,2022-04-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147070173,57785259,52984321,36300593
+Turkey,2022-04-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147097462,57786876,52986694,36323892
+Turkey,2022-04-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147122340,57788419,52989037,36344884
+Turkey,2022-04-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147147731,57790237,52991940,36365554
+Turkey,2022-04-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147171659,57791874,52994461,36385324
+Turkey,2022-04-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147197855,57793814,52997699,36406342
+Turkey,2022-04-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147206133,57794538,52999118,36412477
+Turkey,2022-04-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147211194,57794926,52999855,36416413
+Turkey,2022-04-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147235102,57796702,53002640,36435760
+Turkey,2022-04-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147257592,57798438,53005218,36453936
+Turkey,2022-04-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147279922,57800090,53007739,36472093
+Turkey,2022-04-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147301011,57801926,53010344,36488741
+Turkey,2022-04-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147333131,57804686,53014873,36513572
+Turkey,2022-04-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147351467,57806052,53016951,36528464
+Turkey,2022-04-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147369656,57807483,53019032,36543141
+Turkey,2022-04-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147386767,57808773,53020913,36557081
+Turkey,2022-04-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147402858,57810012,53022686,36570160
+Turkey,2022-04-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147423229,57811832,53025218,36586179
+Turkey,2022-04-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147426248,57812094,53025688,36588466
+Turkey,2022-04-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147441608,57813302,53027406,36600900
+Turkey,2022-04-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147455844,57814672,53029128,36612044
+Turkey,2022-04-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147470087,57815915,53030738,36623434
+Turkey,2022-04-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147482673,57817045,53032270,36633358
+Turkey,2022-04-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147495274,57818414,53034037,36642823
+Turkey,2022-04-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147498664,57818874,53034655,36645135
+Turkey,2022-05-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147499821,57818995,53034869,36645957
+Turkey,2022-05-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147501398,57819148,53035172,36647078
+Turkey,2022-05-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147503141,57819293,53035458,36648390
+Turkey,2022-05-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147505412,57819472,53035817,36650123
+Turkey,2022-05-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147520160,57820690,53037607,36661863
+Turkey,2022-05-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147536047,57822233,53039684,36674130
+Turkey,2022-05-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147540208,57822768,53040431,36677009
+Turkey,2022-05-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147542401,57823012,53040762,36678627
+Turkey,2022-05-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147560229,57824444,53042663,36693122
+Turkey,2022-05-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147576861,57825933,53044519,36706409
+Turkey,2022-05-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147592145,57827296,53046297,36718552
+Turkey,2022-05-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147606278,57828630,53047991,36729657
+Turkey,2022-05-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147620847,57830007,53049922,36740918
+Turkey,2022-05-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147623608,57830467,53050434,36742707
+Turkey,2022-05-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147625535,57830726,53050727,36744082
+Turkey,2022-05-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147638328,57832015,53052226,36754087
+Turkey,2022-05-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147650166,57833176,53053751,36763239
+Turkey,2022-05-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147661034,57834305,53055016,36771713
+Turkey,2022-05-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147663432,57834671,53055541,36773220
+Turkey,2022-05-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147677323,57836357,53057831,36783135
+Turkey,2022-05-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147678580,57836527,53058053,36784000
+Turkey,2022-05-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147687693,57837603,53059422,36790668
+Turkey,2022-05-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147697010,57838738,53060701,36797571
+Turkey,2022-05-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147705146,57839717,53061776,36803653
+Turkey,2022-05-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147711493,57840555,53062844,36808094
+Turkey,2022-05-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147717865,57841428,53063994,36812443
+Turkey,2022-05-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147719809,57841732,53064473,36813604
+Turkey,2022-05-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147720907,57841876,53064752,36814279
+Turkey,2022-05-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147728185,57842849,53066241,36819095
+Turkey,2022-05-31,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147734958,57843685,53067556,36823717
+Turkey,2022-06-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147781738,57850805,53077814,36853119
+Turkey,2022-06-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147785589,57851486,53078735,36855368
+Turkey,2022-06-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147789639,57852170,53079737,36857732
+Turkey,2022-06-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147792806,57852730,53080538,36859538
+Turkey,2022-06-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147796295,57853298,53081449,36861548
+Turkey,2022-06-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147797138,57853442,53081718,36861978
+Turkey,2022-06-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147797537,57853512,53081826,36862199
+Turkey,2022-06-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147800941,57854139,53082621,36864181
+Turkey,2022-06-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147804002,57854722,53083368,36865912
+Turkey,2022-06-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147807384,57855345,53084085,36867954
+Turkey,2022-06-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147810465,57855891,53084761,36869813
+Turkey,2022-06-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147813734,57856500,53085544,36871690
+Turkey,2022-06-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147814534,57856676,53085724,36872134
+Turkey,2022-06-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147818598,57857304,53086539,36874755
+Turkey,2022-06-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147822027,57857831,53087211,36876985
+Turkey,2022-06-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147825439,57858289,53087739,36879411
+Turkey,2022-06-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147828801,57858728,53088281,36881792
+Turkey,2022-07-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147833636,57859392,53089113,36885131
+Turkey,2022-07-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147834278,57859471,53089222,36885585
+Turkey,2022-07-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147839557,57860003,53089939,36889615
+Turkey,2022-07-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147844749,57860529,53090611,36893609
+Turkey,2022-07-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147851838,57861075,53091198,36899565
+Turkey,2022-07-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147857274,57861505,53091777,36903992
+Turkey,2022-07-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147861309,57861902,53092235,36907172
+Turkey,2022-07-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147875499,57861997,53092337,36921165
+Turkey,2022-07-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,147935562,57862251,53092630,36980681
+Turkey,2022-07-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148020063,57862625,53093089,37064349
+Turkey,2022-07-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148117265,57863181,53093707,37160377
+Turkey,2022-07-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148218087,57863787,53094407,37259893
+Turkey,2022-07-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148309125,57864399,53095028,37349698
+Turkey,2022-07-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148376835,57864852,53095452,37416531
+Turkey,2022-07-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148434633,57865181,53095812,37473640
+Turkey,2022-07-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148603312,57866638,53097261,37639413
+Turkey,2022-07-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,148803395,57868289,53098738,37836368
+Turkey,2022-07-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149016479,57869962,53100342,38046175
+Turkey,2022-07-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149219611,57871753,53101995,38245863
+Turkey,2022-07-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149440133,57873729,53103997,38462407
+Turkey,2022-07-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149510602,57874397,53104692,38531513
+Turkey,2022-07-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149563323,57874843,53105133,38583347
+Turkey,2022-07-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149772979,57876767,53106992,38789220
+Turkey,2022-07-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,149964366,57878740,53108899,38976727
+Turkey,2022-07-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150142703,57880649,53110871,39151183
+Turkey,2022-07-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150301720,57882553,53112754,39306413
+Turkey,2022-07-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150453133,57884377,53114750,39454006
+Turkey,2022-07-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150496193,57884846,53115227,39496120
+Turkey,2022-07-31,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150530369,57885216,53115583,39529570
+Turkey,2022-08-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150662956,57886857,53117131,39658968
+Turkey,2022-08-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150781180,57888416,53118677,39774087
+Turkey,2022-08-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150892690,57889918,53120250,39882522
+Turkey,2022-08-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,150990977,57891491,53121833,39977653
+Turkey,2022-08-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151089853,57893122,53123370,40073361
+Turkey,2022-08-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151114930,57893532,53123772,40097626
+Turkey,2022-08-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151133348,57893779,53124036,40115533
+Turkey,2022-08-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151222037,57895168,53125350,40201519
+Turkey,2022-08-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151300951,57896782,53126813,40277356
+Turkey,2022-08-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151377524,57898165,53128263,40351096
+Turkey,2022-08-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151449592,57899514,53129483,40420595
+Turkey,2022-08-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151523007,57900813,53130772,40491422
+Turkey,2022-08-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151541132,57901189,53131148,40508795
+Turkey,2022-08-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151552957,57901432,53131375,40520150
+Turkey,2022-08-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151610456,57902559,53132590,40575307
+Turkey,2022-08-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151661619,57903744,53133786,40624089
+Turkey,2022-08-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151708298,57904833,53135008,40668457
+Turkey,2022-08-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151749807,57905916,53136221,40707670
+Turkey,2022-08-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151787363,57906968,53137408,40742987
+Turkey,2022-08-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151796112,57907220,53137739,40751153
+Turkey,2022-08-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151802459,57907377,53137947,40757135
+Turkey,2022-08-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151836431,57908303,53139048,40789080
+Turkey,2022-08-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151869115,57909227,53140134,40819754
+Turkey,2022-08-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151899198,57910228,53141233,40847737
+Turkey,2022-08-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151924922,57910986,53142069,40871867
+Turkey,2022-08-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151951291,57911969,53143131,40896191
+Turkey,2022-08-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151957308,57912183,53143421,40901704
+Turkey,2022-08-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151961166,57912319,53143609,40905238
+Turkey,2022-08-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151984505,57913112,53144548,40926845
+Turkey,2022-08-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,151989203,57913328,53144855,40931020
+Turkey,2022-08-31,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152010807,57914125,53145838,40950844
+Turkey,2022-09-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152031115,57914793,53146691,40969631
+Turkey,2022-09-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152050973,57915726,53147833,40987414
+Turkey,2022-09-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152056551,57915985,53148187,40992379
+Turkey,2022-09-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152059687,57916105,53148374,40995208
+Turkey,2022-09-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152077632,57916913,53149309,41011410
+Turkey,2022-09-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152094461,57917772,53150223,41026466
+Turkey,2022-09-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152110410,57918470,53151076,41040864
+Turkey,2022-09-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152125788,57919237,53151919,41054632
+Turkey,2022-09-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152140261,57919951,53152754,41067556
+Turkey,2022-09-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152143933,57920139,53152957,41070837
+Turkey,2022-09-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152146127,57920266,53153091,41072770
+Turkey,2022-09-12,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152158566,57920944,53153731,41083891
+Turkey,2022-09-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152170810,57921623,53154382,41094805
+Turkey,2022-09-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152183121,57922275,53155097,41105749
+Turkey,2022-09-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152194025,57922800,53155677,41115548
+Turkey,2022-09-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152204324,57923451,53156342,41124531
+Turkey,2022-09-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152207222,57923580,53156559,41127083
+Turkey,2022-09-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152209055,57923650,53156652,41128753
+Turkey,2022-09-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152220486,57924134,53157251,41139101
+Turkey,2022-09-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152230610,57924615,53157748,41148247
+Turkey,2022-09-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152240857,57925071,53158270,41157516
+Turkey,2022-09-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152250192,57925499,53158823,41165870
+Turkey,2022-09-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152259900,57925973,53159417,41174510
+Turkey,2022-09-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152262747,57926134,53159603,41177010
+Turkey,2022-09-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152264336,57926194,53159684,41178458
+Turkey,2022-09-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152274590,57926644,53160172,41187774
+Turkey,2022-09-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152284195,57927109,53160684,41196402
+Turkey,2022-09-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152294946,57927516,53161153,41206277
+Turkey,2022-09-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152305100,57927889,53161598,41215613
+Turkey,2022-09-30,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152315295,57928376,53162154,41224765
+Turkey,2022-10-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152317553,57928495,53162320,41226738
+Turkey,2022-10-02,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152318861,57928561,53162396,41227904
+Turkey,2022-10-03,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152329103,57929076,53162959,41237068
+Turkey,2022-10-04,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152338569,57929614,53163571,41245384
+Turkey,2022-10-05,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152347744,57930038,53164007,41253699
+Turkey,2022-10-06,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152355645,57930348,53164426,41260871
+Turkey,2022-10-07,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152363561,57930744,53164849,41267968
+Turkey,2022-10-08,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152365572,57930829,53164980,41269763
+Turkey,2022-10-09,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152366798,57930884,53165045,41270869
+Turkey,2022-10-10,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152374837,57931293,53165414,41278130
+Turkey,2022-10-11,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152381745,57931643,53165778,41284324
+Turkey,2022-10-13,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152396067,57932348,53166520,41297199
+Turkey,2022-10-14,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152402737,57932679,53166929,41303129
+Turkey,2022-10-15,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152404335,57932798,53167065,41304472
+Turkey,2022-10-16,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152405372,57932853,53167127,41305392
+Turkey,2022-10-17,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152412690,57933234,53167551,41311905
+Turkey,2022-10-18,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152419471,57933569,53167945,41317957
+Turkey,2022-10-19,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152425561,57933894,53168308,41323359
+Turkey,2022-10-20,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152431317,57934222,53168646,41328449
+Turkey,2022-10-21,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152437381,57934582,53169122,41333677
+Turkey,2022-10-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152438632,57934659,53169234,41334739
+Turkey,2022-10-23,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152439487,57934697,53169292,41335498
+Turkey,2022-10-24,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152445442,57935031,53169685,41340726
+Turkey,2022-10-25,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152450818,57935331,53170042,41345445
+Turkey,2022-10-26,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152455950,57935611,53170385,41349954
+Turkey,2022-10-27,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152461142,57935904,53170729,41354509
+Turkey,2022-10-28,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152464422,57936117,53170982,41357323
+Turkey,2022-10-29,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152465212,57936171,53171054,41357987
+Turkey,2022-10-31,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152469836,57936443,53171374,41362019
+Turkey,2022-11-01,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152475057,57936783,53171790,41366484
+Turkey,2022-11-22,"Pfizer/BioNTech, Sinovac, Turkovac",https://covid19asi.saglik.gov.tr/,152543341,57941051,53176961,41425329

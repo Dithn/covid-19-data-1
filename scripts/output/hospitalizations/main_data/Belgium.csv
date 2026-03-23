@@ -1,0 +1,3622 @@
+date,indicator,value,entity
+2020-03-06,Daily hospital occupancy,1.0,Belgium
+2020-03-07,Daily hospital occupancy,0.0,Belgium
+2020-03-08,Daily hospital occupancy,0.0,Belgium
+2020-03-09,Daily hospital occupancy,1.0,Belgium
+2020-03-10,Daily hospital occupancy,7.0,Belgium
+2020-03-11,Daily hospital occupancy,14.0,Belgium
+2020-03-12,Daily hospital occupancy,64.0,Belgium
+2020-03-13,Daily hospital occupancy,101.0,Belgium
+2020-03-14,Daily hospital occupancy,184.0,Belgium
+2020-03-15,Daily hospital occupancy,263.0,Belgium
+2020-03-16,Daily hospital occupancy,370.0,Belgium
+2020-03-17,Daily hospital occupancy,493.0,Belgium
+2020-03-18,Daily hospital occupancy,646.0,Belgium
+2020-03-19,Daily hospital occupancy,840.0,Belgium
+2020-03-20,Daily hospital occupancy,1108.0,Belgium
+2020-03-21,Daily hospital occupancy,1384.0,Belgium
+2020-03-22,Daily hospital occupancy,1661.0,Belgium
+2020-03-23,Daily hospital occupancy,1883.0,Belgium
+2020-03-24,Daily hospital occupancy,2204.0,Belgium
+2020-03-25,Daily hospital occupancy,2721.0,Belgium
+2020-03-26,Daily hospital occupancy,3111.0,Belgium
+2020-03-27,Daily hospital occupancy,3649.0,Belgium
+2020-03-28,Daily hospital occupancy,4088.0,Belgium
+2020-03-29,Daily hospital occupancy,4536.0,Belgium
+2020-03-30,Daily hospital occupancy,4897.0,Belgium
+2020-03-31,Daily hospital occupancy,4988.0,Belgium
+2020-04-01,Daily hospital occupancy,5219.0,Belgium
+2020-04-02,Daily hospital occupancy,5398.0,Belgium
+2020-04-03,Daily hospital occupancy,5562.0,Belgium
+2020-04-04,Daily hospital occupancy,5531.0,Belgium
+2020-04-05,Daily hospital occupancy,5620.0,Belgium
+2020-04-06,Daily hospital occupancy,5759.0,Belgium
+2020-04-07,Daily hospital occupancy,5710.0,Belgium
+2020-04-08,Daily hospital occupancy,5620.0,Belgium
+2020-04-09,Daily hospital occupancy,5640.0,Belgium
+2020-04-10,Daily hospital occupancy,5663.0,Belgium
+2020-04-11,Daily hospital occupancy,5538.0,Belgium
+2020-04-12,Daily hospital occupancy,5542.0,Belgium
+2020-04-13,Daily hospital occupancy,5554.0,Belgium
+2020-04-14,Daily hospital occupancy,5532.0,Belgium
+2020-04-15,Daily hospital occupancy,5331.0,Belgium
+2020-04-16,Daily hospital occupancy,5181.0,Belgium
+2020-04-17,Daily hospital occupancy,5088.0,Belgium
+2020-04-18,Daily hospital occupancy,4889.0,Belgium
+2020-04-19,Daily hospital occupancy,4940.0,Belgium
+2020-04-20,Daily hospital occupancy,4996.0,Belgium
+2020-04-21,Daily hospital occupancy,4765.0,Belgium
+2020-04-22,Daily hospital occupancy,4527.0,Belgium
+2020-04-23,Daily hospital occupancy,4353.0,Belgium
+2020-04-24,Daily hospital occupancy,4195.0,Belgium
+2020-04-25,Daily hospital occupancy,3957.0,Belgium
+2020-04-26,Daily hospital occupancy,3968.0,Belgium
+2020-04-27,Daily hospital occupancy,3976.0,Belgium
+2020-04-28,Daily hospital occupancy,3733.0,Belgium
+2020-04-29,Daily hospital occupancy,3609.0,Belgium
+2020-04-30,Daily hospital occupancy,3386.0,Belgium
+2020-05-01,Daily hospital occupancy,3109.0,Belgium
+2020-05-02,Daily hospital occupancy,3080.0,Belgium
+2020-05-03,Daily hospital occupancy,3044.0,Belgium
+2020-05-04,Daily hospital occupancy,3080.0,Belgium
+2020-05-05,Daily hospital occupancy,2868.0,Belgium
+2020-05-06,Daily hospital occupancy,2699.0,Belgium
+2020-05-07,Daily hospital occupancy,2555.0,Belgium
+2020-05-08,Daily hospital occupancy,2381.0,Belgium
+2020-05-09,Daily hospital occupancy,2222.0,Belgium
+2020-05-10,Daily hospital occupancy,2222.0,Belgium
+2020-05-11,Daily hospital occupancy,2230.0,Belgium
+2020-05-12,Daily hospital occupancy,2085.0,Belgium
+2020-05-13,Daily hospital occupancy,1966.0,Belgium
+2020-05-14,Daily hospital occupancy,1862.0,Belgium
+2020-05-15,Daily hospital occupancy,1750.0,Belgium
+2020-05-16,Daily hospital occupancy,1625.0,Belgium
+2020-05-17,Daily hospital occupancy,1614.0,Belgium
+2020-05-18,Daily hospital occupancy,1630.0,Belgium
+2020-05-19,Daily hospital occupancy,1527.0,Belgium
+2020-05-20,Daily hospital occupancy,1448.0,Belgium
+2020-05-21,Daily hospital occupancy,1388.0,Belgium
+2020-05-22,Daily hospital occupancy,1360.0,Belgium
+2020-05-23,Daily hospital occupancy,1296.0,Belgium
+2020-05-24,Daily hospital occupancy,1306.0,Belgium
+2020-05-25,Daily hospital occupancy,1304.0,Belgium
+2020-05-26,Daily hospital occupancy,1150.0,Belgium
+2020-05-27,Daily hospital occupancy,1050.0,Belgium
+2020-05-28,Daily hospital occupancy,939.0,Belgium
+2020-05-29,Daily hospital occupancy,892.0,Belgium
+2020-05-30,Daily hospital occupancy,823.0,Belgium
+2020-05-31,Daily hospital occupancy,818.0,Belgium
+2020-06-01,Daily hospital occupancy,821.0,Belgium
+2020-06-02,Daily hospital occupancy,821.0,Belgium
+2020-06-03,Daily hospital occupancy,739.0,Belgium
+2020-06-04,Daily hospital occupancy,702.0,Belgium
+2020-06-05,Daily hospital occupancy,647.0,Belgium
+2020-06-06,Daily hospital occupancy,573.0,Belgium
+2020-06-07,Daily hospital occupancy,576.0,Belgium
+2020-06-08,Daily hospital occupancy,575.0,Belgium
+2020-06-09,Daily hospital occupancy,527.0,Belgium
+2020-06-10,Daily hospital occupancy,484.0,Belgium
+2020-06-11,Daily hospital occupancy,479.0,Belgium
+2020-06-12,Daily hospital occupancy,425.0,Belgium
+2020-06-13,Daily hospital occupancy,395.0,Belgium
+2020-06-14,Daily hospital occupancy,400.0,Belgium
+2020-06-15,Daily hospital occupancy,395.0,Belgium
+2020-06-16,Daily hospital occupancy,371.0,Belgium
+2020-06-17,Daily hospital occupancy,344.0,Belgium
+2020-06-18,Daily hospital occupancy,340.0,Belgium
+2020-06-19,Daily hospital occupancy,308.0,Belgium
+2020-06-20,Daily hospital occupancy,292.0,Belgium
+2020-06-21,Daily hospital occupancy,295.0,Belgium
+2020-06-22,Daily hospital occupancy,293.0,Belgium
+2020-06-23,Daily hospital occupancy,281.0,Belgium
+2020-06-24,Daily hospital occupancy,268.0,Belgium
+2020-06-25,Daily hospital occupancy,256.0,Belgium
+2020-06-26,Daily hospital occupancy,247.0,Belgium
+2020-06-27,Daily hospital occupancy,237.0,Belgium
+2020-06-28,Daily hospital occupancy,237.0,Belgium
+2020-06-29,Daily hospital occupancy,244.0,Belgium
+2020-06-30,Daily hospital occupancy,222.0,Belgium
+2020-07-01,Daily hospital occupancy,203.0,Belgium
+2020-07-02,Daily hospital occupancy,187.0,Belgium
+2020-07-03,Daily hospital occupancy,168.0,Belgium
+2020-07-04,Daily hospital occupancy,170.0,Belgium
+2020-07-05,Daily hospital occupancy,170.0,Belgium
+2020-07-06,Daily hospital occupancy,169.0,Belgium
+2020-07-07,Daily hospital occupancy,178.0,Belgium
+2020-07-08,Daily hospital occupancy,165.0,Belgium
+2020-07-09,Daily hospital occupancy,160.0,Belgium
+2020-07-10,Daily hospital occupancy,143.0,Belgium
+2020-07-11,Daily hospital occupancy,132.0,Belgium
+2020-07-12,Daily hospital occupancy,130.0,Belgium
+2020-07-13,Daily hospital occupancy,138.0,Belgium
+2020-07-14,Daily hospital occupancy,147.0,Belgium
+2020-07-15,Daily hospital occupancy,150.0,Belgium
+2020-07-16,Daily hospital occupancy,147.0,Belgium
+2020-07-17,Daily hospital occupancy,145.0,Belgium
+2020-07-18,Daily hospital occupancy,161.0,Belgium
+2020-07-19,Daily hospital occupancy,168.0,Belgium
+2020-07-20,Daily hospital occupancy,181.0,Belgium
+2020-07-21,Daily hospital occupancy,172.0,Belgium
+2020-07-22,Daily hospital occupancy,191.0,Belgium
+2020-07-23,Daily hospital occupancy,203.0,Belgium
+2020-07-24,Daily hospital occupancy,218.0,Belgium
+2020-07-25,Daily hospital occupancy,210.0,Belgium
+2020-07-26,Daily hospital occupancy,211.0,Belgium
+2020-07-27,Daily hospital occupancy,222.0,Belgium
+2020-07-28,Daily hospital occupancy,232.0,Belgium
+2020-07-29,Daily hospital occupancy,263.0,Belgium
+2020-07-30,Daily hospital occupancy,267.0,Belgium
+2020-07-31,Daily hospital occupancy,253.0,Belgium
+2020-08-01,Daily hospital occupancy,259.0,Belgium
+2020-08-02,Daily hospital occupancy,271.0,Belgium
+2020-08-03,Daily hospital occupancy,290.0,Belgium
+2020-08-04,Daily hospital occupancy,265.0,Belgium
+2020-08-05,Daily hospital occupancy,293.0,Belgium
+2020-08-06,Daily hospital occupancy,278.0,Belgium
+2020-08-07,Daily hospital occupancy,285.0,Belgium
+2020-08-08,Daily hospital occupancy,281.0,Belgium
+2020-08-09,Daily hospital occupancy,285.0,Belgium
+2020-08-10,Daily hospital occupancy,312.0,Belgium
+2020-08-11,Daily hospital occupancy,307.0,Belgium
+2020-08-12,Daily hospital occupancy,301.0,Belgium
+2020-08-13,Daily hospital occupancy,309.0,Belgium
+2020-08-14,Daily hospital occupancy,312.0,Belgium
+2020-08-15,Daily hospital occupancy,309.0,Belgium
+2020-08-16,Daily hospital occupancy,337.0,Belgium
+2020-08-17,Daily hospital occupancy,341.0,Belgium
+2020-08-18,Daily hospital occupancy,335.0,Belgium
+2020-08-19,Daily hospital occupancy,334.0,Belgium
+2020-08-20,Daily hospital occupancy,303.0,Belgium
+2020-08-21,Daily hospital occupancy,314.0,Belgium
+2020-08-22,Daily hospital occupancy,310.0,Belgium
+2020-08-23,Daily hospital occupancy,312.0,Belgium
+2020-08-24,Daily hospital occupancy,320.0,Belgium
+2020-08-25,Daily hospital occupancy,282.0,Belgium
+2020-08-26,Daily hospital occupancy,260.0,Belgium
+2020-08-27,Daily hospital occupancy,257.0,Belgium
+2020-08-28,Daily hospital occupancy,252.0,Belgium
+2020-08-29,Daily hospital occupancy,230.0,Belgium
+2020-08-30,Daily hospital occupancy,233.0,Belgium
+2020-08-31,Daily hospital occupancy,243.0,Belgium
+2020-09-01,Daily hospital occupancy,226.0,Belgium
+2020-09-02,Daily hospital occupancy,221.0,Belgium
+2020-09-03,Daily hospital occupancy,209.0,Belgium
+2020-09-04,Daily hospital occupancy,215.0,Belgium
+2020-09-05,Daily hospital occupancy,215.0,Belgium
+2020-09-06,Daily hospital occupancy,223.0,Belgium
+2020-09-07,Daily hospital occupancy,235.0,Belgium
+2020-09-08,Daily hospital occupancy,260.0,Belgium
+2020-09-09,Daily hospital occupancy,250.0,Belgium
+2020-09-10,Daily hospital occupancy,249.0,Belgium
+2020-09-11,Daily hospital occupancy,254.0,Belgium
+2020-09-12,Daily hospital occupancy,260.0,Belgium
+2020-09-13,Daily hospital occupancy,293.0,Belgium
+2020-09-14,Daily hospital occupancy,318.0,Belgium
+2020-09-15,Daily hospital occupancy,315.0,Belgium
+2020-09-16,Daily hospital occupancy,353.0,Belgium
+2020-09-17,Daily hospital occupancy,371.0,Belgium
+2020-09-18,Daily hospital occupancy,392.0,Belgium
+2020-09-19,Daily hospital occupancy,421.0,Belgium
+2020-09-20,Daily hospital occupancy,432.0,Belgium
+2020-09-21,Daily hospital occupancy,490.0,Belgium
+2020-09-22,Daily hospital occupancy,505.0,Belgium
+2020-09-23,Daily hospital occupancy,550.0,Belgium
+2020-09-24,Daily hospital occupancy,602.0,Belgium
+2020-09-25,Daily hospital occupancy,620.0,Belgium
+2020-09-26,Daily hospital occupancy,626.0,Belgium
+2020-09-27,Daily hospital occupancy,654.0,Belgium
+2020-09-28,Daily hospital occupancy,708.0,Belgium
+2020-09-29,Daily hospital occupancy,716.0,Belgium
+2020-09-30,Daily hospital occupancy,739.0,Belgium
+2020-10-01,Daily hospital occupancy,773.0,Belgium
+2020-10-02,Daily hospital occupancy,789.0,Belgium
+2020-10-03,Daily hospital occupancy,819.0,Belgium
+2020-10-04,Daily hospital occupancy,866.0,Belgium
+2020-10-05,Daily hospital occupancy,937.0,Belgium
+2020-10-06,Daily hospital occupancy,952.0,Belgium
+2020-10-07,Daily hospital occupancy,1050.0,Belgium
+2020-10-08,Daily hospital occupancy,1110.0,Belgium
+2020-10-09,Daily hospital occupancy,1191.0,Belgium
+2020-10-10,Daily hospital occupancy,1260.0,Belgium
+2020-10-11,Daily hospital occupancy,1334.0,Belgium
+2020-10-12,Daily hospital occupancy,1473.0,Belgium
+2020-10-13,Daily hospital occupancy,1622.0,Belgium
+2020-10-14,Daily hospital occupancy,1778.0,Belgium
+2020-10-15,Daily hospital occupancy,1951.0,Belgium
+2020-10-16,Daily hospital occupancy,2099.0,Belgium
+2020-10-17,Daily hospital occupancy,2267.0,Belgium
+2020-10-18,Daily hospital occupancy,2497.0,Belgium
+2020-10-19,Daily hospital occupancy,2773.0,Belgium
+2020-10-20,Daily hospital occupancy,2977.0,Belgium
+2020-10-21,Daily hospital occupancy,3275.0,Belgium
+2020-10-22,Daily hospital occupancy,3649.0,Belgium
+2020-10-23,Daily hospital occupancy,4056.0,Belgium
+2020-10-24,Daily hospital occupancy,4408.0,Belgium
+2020-10-25,Daily hospital occupancy,4825.0,Belgium
+2020-10-26,Daily hospital occupancy,5268.0,Belgium
+2020-10-27,Daily hospital occupancy,5548.0,Belgium
+2020-10-28,Daily hospital occupancy,5924.0,Belgium
+2020-10-29,Daily hospital occupancy,6187.0,Belgium
+2020-10-30,Daily hospital occupancy,6439.0,Belgium
+2020-10-31,Daily hospital occupancy,6502.0,Belgium
+2020-11-01,Daily hospital occupancy,6824.0,Belgium
+2020-11-02,Daily hospital occupancy,7233.0,Belgium
+2020-11-03,Daily hospital occupancy,7461.0,Belgium
+2020-11-04,Daily hospital occupancy,7411.0,Belgium
+2020-11-05,Daily hospital occupancy,7290.0,Belgium
+2020-11-06,Daily hospital occupancy,7224.0,Belgium
+2020-11-07,Daily hospital occupancy,6895.0,Belgium
+2020-11-08,Daily hospital occupancy,6955.0,Belgium
+2020-11-09,Daily hospital occupancy,7221.0,Belgium
+2020-11-10,Daily hospital occupancy,7058.0,Belgium
+2020-11-11,Daily hospital occupancy,6879.0,Belgium
+2020-11-12,Daily hospital occupancy,7010.0,Belgium
+2020-11-13,Daily hospital occupancy,6762.0,Belgium
+2020-11-14,Daily hospital occupancy,6505.0,Belgium
+2020-11-15,Daily hospital occupancy,6518.0,Belgium
+2020-11-16,Daily hospital occupancy,6580.0,Belgium
+2020-11-17,Daily hospital occupancy,6240.0,Belgium
+2020-11-18,Daily hospital occupancy,5930.0,Belgium
+2020-11-19,Daily hospital occupancy,5651.0,Belgium
+2020-11-20,Daily hospital occupancy,5418.0,Belgium
+2020-11-21,Daily hospital occupancy,5017.0,Belgium
+2020-11-22,Daily hospital occupancy,5025.0,Belgium
+2020-11-23,Daily hospital occupancy,5076.0,Belgium
+2020-11-24,Daily hospital occupancy,4783.0,Belgium
+2020-11-25,Daily hospital occupancy,4570.0,Belgium
+2020-11-26,Daily hospital occupancy,4376.0,Belgium
+2020-11-27,Daily hospital occupancy,4215.0,Belgium
+2020-11-28,Daily hospital occupancy,3994.0,Belgium
+2020-11-29,Daily hospital occupancy,3989.0,Belgium
+2020-11-30,Daily hospital occupancy,4014.0,Belgium
+2020-12-01,Daily hospital occupancy,3707.0,Belgium
+2020-12-02,Daily hospital occupancy,3590.0,Belgium
+2020-12-03,Daily hospital occupancy,3417.0,Belgium
+2020-12-04,Daily hospital occupancy,3341.0,Belgium
+2020-12-05,Daily hospital occupancy,3163.0,Belgium
+2020-12-06,Daily hospital occupancy,3210.0,Belgium
+2020-12-07,Daily hospital occupancy,3272.0,Belgium
+2020-12-08,Daily hospital occupancy,3136.0,Belgium
+2020-12-09,Daily hospital occupancy,3034.0,Belgium
+2020-12-10,Daily hospital occupancy,2961.0,Belgium
+2020-12-11,Daily hospital occupancy,2896.0,Belgium
+2020-12-12,Daily hospital occupancy,2770.0,Belgium
+2020-12-13,Daily hospital occupancy,2861.0,Belgium
+2020-12-14,Daily hospital occupancy,2888.0,Belgium
+2020-12-15,Daily hospital occupancy,2772.0,Belgium
+2020-12-16,Daily hospital occupancy,2707.0,Belgium
+2020-12-17,Daily hospital occupancy,2683.0,Belgium
+2020-12-18,Daily hospital occupancy,2616.0,Belgium
+2020-12-19,Daily hospital occupancy,2523.0,Belgium
+2020-12-20,Daily hospital occupancy,2538.0,Belgium
+2020-12-21,Daily hospital occupancy,2610.0,Belgium
+2020-12-22,Daily hospital occupancy,2557.0,Belgium
+2020-12-23,Daily hospital occupancy,2467.0,Belgium
+2020-12-24,Daily hospital occupancy,2447.0,Belgium
+2020-12-25,Daily hospital occupancy,2282.0,Belgium
+2020-12-26,Daily hospital occupancy,2286.0,Belgium
+2020-12-27,Daily hospital occupancy,2359.0,Belgium
+2020-12-28,Daily hospital occupancy,2440.0,Belgium
+2020-12-29,Daily hospital occupancy,2417.0,Belgium
+2020-12-30,Daily hospital occupancy,2333.0,Belgium
+2020-12-31,Daily hospital occupancy,2187.0,Belgium
+2021-01-01,Daily hospital occupancy,2081.0,Belgium
+2021-01-02,Daily hospital occupancy,2122.0,Belgium
+2021-01-03,Daily hospital occupancy,2185.0,Belgium
+2021-01-04,Daily hospital occupancy,2226.0,Belgium
+2021-01-05,Daily hospital occupancy,2130.0,Belgium
+2021-01-06,Daily hospital occupancy,2076.0,Belgium
+2021-01-07,Daily hospital occupancy,2018.0,Belgium
+2021-01-08,Daily hospital occupancy,1996.0,Belgium
+2021-01-09,Daily hospital occupancy,1927.0,Belgium
+2021-01-10,Daily hospital occupancy,1955.0,Belgium
+2021-01-11,Daily hospital occupancy,2020.0,Belgium
+2021-01-12,Daily hospital occupancy,1966.0,Belgium
+2021-01-13,Daily hospital occupancy,1943.0,Belgium
+2021-01-14,Daily hospital occupancy,1915.0,Belgium
+2021-01-15,Daily hospital occupancy,1883.0,Belgium
+2021-01-16,Daily hospital occupancy,1828.0,Belgium
+2021-01-17,Daily hospital occupancy,1892.0,Belgium
+2021-01-18,Daily hospital occupancy,1974.0,Belgium
+2021-01-19,Daily hospital occupancy,1960.0,Belgium
+2021-01-20,Daily hospital occupancy,1938.0,Belgium
+2021-01-21,Daily hospital occupancy,1941.0,Belgium
+2021-01-22,Daily hospital occupancy,1923.0,Belgium
+2021-01-23,Daily hospital occupancy,1888.0,Belgium
+2021-01-24,Daily hospital occupancy,1923.0,Belgium
+2021-01-25,Daily hospital occupancy,1954.0,Belgium
+2021-01-26,Daily hospital occupancy,1928.0,Belgium
+2021-01-27,Daily hospital occupancy,1850.0,Belgium
+2021-01-28,Daily hospital occupancy,1819.0,Belgium
+2021-01-29,Daily hospital occupancy,1810.0,Belgium
+2021-01-30,Daily hospital occupancy,1760.0,Belgium
+2021-01-31,Daily hospital occupancy,1788.0,Belgium
+2021-02-01,Daily hospital occupancy,1852.0,Belgium
+2021-02-02,Daily hospital occupancy,1794.0,Belgium
+2021-02-03,Daily hospital occupancy,1785.0,Belgium
+2021-02-04,Daily hospital occupancy,1751.0,Belgium
+2021-02-05,Daily hospital occupancy,1737.0,Belgium
+2021-02-06,Daily hospital occupancy,1650.0,Belgium
+2021-02-07,Daily hospital occupancy,1678.0,Belgium
+2021-02-08,Daily hospital occupancy,1698.0,Belgium
+2021-02-09,Daily hospital occupancy,1674.0,Belgium
+2021-02-10,Daily hospital occupancy,1652.0,Belgium
+2021-02-11,Daily hospital occupancy,1642.0,Belgium
+2021-02-12,Daily hospital occupancy,1634.0,Belgium
+2021-02-13,Daily hospital occupancy,1567.0,Belgium
+2021-02-14,Daily hospital occupancy,1598.0,Belgium
+2021-02-15,Daily hospital occupancy,1632.0,Belgium
+2021-02-16,Daily hospital occupancy,1600.0,Belgium
+2021-02-17,Daily hospital occupancy,1610.0,Belgium
+2021-02-18,Daily hospital occupancy,1588.0,Belgium
+2021-02-19,Daily hospital occupancy,1607.0,Belgium
+2021-02-20,Daily hospital occupancy,1567.0,Belgium
+2021-02-21,Daily hospital occupancy,1619.0,Belgium
+2021-02-22,Daily hospital occupancy,1721.0,Belgium
+2021-02-23,Daily hospital occupancy,1711.0,Belgium
+2021-02-24,Daily hospital occupancy,1749.0,Belgium
+2021-02-25,Daily hospital occupancy,1759.0,Belgium
+2021-02-26,Daily hospital occupancy,1838.0,Belgium
+2021-02-27,Daily hospital occupancy,1835.0,Belgium
+2021-02-28,Daily hospital occupancy,1896.0,Belgium
+2021-03-01,Daily hospital occupancy,1937.0,Belgium
+2021-03-02,Daily hospital occupancy,1902.0,Belgium
+2021-03-03,Daily hospital occupancy,1900.0,Belgium
+2021-03-04,Daily hospital occupancy,1905.0,Belgium
+2021-03-05,Daily hospital occupancy,1915.0,Belgium
+2021-03-06,Daily hospital occupancy,1880.0,Belgium
+2021-03-07,Daily hospital occupancy,1938.0,Belgium
+2021-03-08,Daily hospital occupancy,1994.0,Belgium
+2021-03-09,Daily hospital occupancy,1963.0,Belgium
+2021-03-10,Daily hospital occupancy,1943.0,Belgium
+2021-03-11,Daily hospital occupancy,1910.0,Belgium
+2021-03-12,Daily hospital occupancy,1915.0,Belgium
+2021-03-13,Daily hospital occupancy,1905.0,Belgium
+2021-03-14,Daily hospital occupancy,2013.0,Belgium
+2021-03-15,Daily hospital occupancy,2112.0,Belgium
+2021-03-16,Daily hospital occupancy,2085.0,Belgium
+2021-03-17,Daily hospital occupancy,2123.0,Belgium
+2021-03-18,Daily hospital occupancy,2142.0,Belgium
+2021-03-19,Daily hospital occupancy,2153.0,Belgium
+2021-03-20,Daily hospital occupancy,2160.0,Belgium
+2021-03-21,Daily hospital occupancy,2249.0,Belgium
+2021-03-22,Daily hospital occupancy,2372.0,Belgium
+2021-03-23,Daily hospital occupancy,2402.0,Belgium
+2021-03-24,Daily hospital occupancy,2452.0,Belgium
+2021-03-25,Daily hospital occupancy,2493.0,Belgium
+2021-03-26,Daily hospital occupancy,2503.0,Belgium
+2021-03-27,Daily hospital occupancy,2568.0,Belgium
+2021-03-28,Daily hospital occupancy,2693.0,Belgium
+2021-03-29,Daily hospital occupancy,2820.0,Belgium
+2021-03-30,Daily hospital occupancy,2868.0,Belgium
+2021-03-31,Daily hospital occupancy,2938.0,Belgium
+2021-04-01,Daily hospital occupancy,2959.0,Belgium
+2021-04-02,Daily hospital occupancy,3026.0,Belgium
+2021-04-03,Daily hospital occupancy,2911.0,Belgium
+2021-04-04,Daily hospital occupancy,2923.0,Belgium
+2021-04-05,Daily hospital occupancy,3055.0,Belgium
+2021-04-06,Daily hospital occupancy,3167.0,Belgium
+2021-04-07,Daily hospital occupancy,3164.0,Belgium
+2021-04-08,Daily hospital occupancy,3129.0,Belgium
+2021-04-09,Daily hospital occupancy,3117.0,Belgium
+2021-04-10,Daily hospital occupancy,3022.0,Belgium
+2021-04-11,Daily hospital occupancy,3085.0,Belgium
+2021-04-12,Daily hospital occupancy,3215.0,Belgium
+2021-04-13,Daily hospital occupancy,3130.0,Belgium
+2021-04-14,Daily hospital occupancy,3049.0,Belgium
+2021-04-15,Daily hospital occupancy,3032.0,Belgium
+2021-04-16,Daily hospital occupancy,3015.0,Belgium
+2021-04-17,Daily hospital occupancy,2910.0,Belgium
+2021-04-18,Daily hospital occupancy,3000.0,Belgium
+2021-04-19,Daily hospital occupancy,3140.0,Belgium
+2021-04-20,Daily hospital occupancy,3103.0,Belgium
+2021-04-21,Daily hospital occupancy,3078.0,Belgium
+2021-04-22,Daily hospital occupancy,2989.0,Belgium
+2021-04-23,Daily hospital occupancy,2943.0,Belgium
+2021-04-24,Daily hospital occupancy,2846.0,Belgium
+2021-04-25,Daily hospital occupancy,2883.0,Belgium
+2021-04-26,Daily hospital occupancy,2951.0,Belgium
+2021-04-27,Daily hospital occupancy,2858.0,Belgium
+2021-04-28,Daily hospital occupancy,2809.0,Belgium
+2021-04-29,Daily hospital occupancy,2776.0,Belgium
+2021-04-30,Daily hospital occupancy,2707.0,Belgium
+2021-05-01,Daily hospital occupancy,2593.0,Belgium
+2021-05-02,Daily hospital occupancy,2648.0,Belgium
+2021-05-03,Daily hospital occupancy,2760.0,Belgium
+2021-05-04,Daily hospital occupancy,2605.0,Belgium
+2021-05-05,Daily hospital occupancy,2481.0,Belgium
+2021-05-06,Daily hospital occupancy,2402.0,Belgium
+2021-05-07,Daily hospital occupancy,2307.0,Belgium
+2021-05-08,Daily hospital occupancy,2167.0,Belgium
+2021-05-09,Daily hospital occupancy,2172.0,Belgium
+2021-05-10,Daily hospital occupancy,2253.0,Belgium
+2021-05-11,Daily hospital occupancy,2108.0,Belgium
+2021-05-12,Daily hospital occupancy,2025.0,Belgium
+2021-05-13,Daily hospital occupancy,1912.0,Belgium
+2021-05-14,Daily hospital occupancy,1917.0,Belgium
+2021-05-15,Daily hospital occupancy,1804.0,Belgium
+2021-05-16,Daily hospital occupancy,1802.0,Belgium
+2021-05-17,Daily hospital occupancy,1857.0,Belgium
+2021-05-18,Daily hospital occupancy,1753.0,Belgium
+2021-05-19,Daily hospital occupancy,1702.0,Belgium
+2021-05-20,Daily hospital occupancy,1640.0,Belgium
+2021-05-21,Daily hospital occupancy,1600.0,Belgium
+2021-05-22,Daily hospital occupancy,1491.0,Belgium
+2021-05-23,Daily hospital occupancy,1501.0,Belgium
+2021-05-24,Daily hospital occupancy,1532.0,Belgium
+2021-05-25,Daily hospital occupancy,1547.0,Belgium
+2021-05-26,Daily hospital occupancy,1463.0,Belgium
+2021-05-27,Daily hospital occupancy,1366.0,Belgium
+2021-05-28,Daily hospital occupancy,1290.0,Belgium
+2021-05-29,Daily hospital occupancy,1206.0,Belgium
+2021-05-30,Daily hospital occupancy,1219.0,Belgium
+2021-05-31,Daily hospital occupancy,1232.0,Belgium
+2021-06-01,Daily hospital occupancy,1159.0,Belgium
+2021-06-02,Daily hospital occupancy,1124.0,Belgium
+2021-06-03,Daily hospital occupancy,1063.0,Belgium
+2021-06-04,Daily hospital occupancy,1007.0,Belgium
+2021-06-05,Daily hospital occupancy,978.0,Belgium
+2021-06-06,Daily hospital occupancy,967.0,Belgium
+2021-06-07,Daily hospital occupancy,968.0,Belgium
+2021-06-08,Daily hospital occupancy,888.0,Belgium
+2021-06-09,Daily hospital occupancy,852.0,Belgium
+2021-06-10,Daily hospital occupancy,817.0,Belgium
+2021-06-11,Daily hospital occupancy,770.0,Belgium
+2021-06-12,Daily hospital occupancy,721.0,Belgium
+2021-06-13,Daily hospital occupancy,702.0,Belgium
+2021-06-14,Daily hospital occupancy,723.0,Belgium
+2021-06-15,Daily hospital occupancy,651.0,Belgium
+2021-06-16,Daily hospital occupancy,592.0,Belgium
+2021-06-17,Daily hospital occupancy,552.0,Belgium
+2021-06-18,Daily hospital occupancy,492.0,Belgium
+2021-06-19,Daily hospital occupancy,458.0,Belgium
+2021-06-20,Daily hospital occupancy,459.0,Belgium
+2021-06-21,Daily hospital occupancy,471.0,Belgium
+2021-06-22,Daily hospital occupancy,450.0,Belgium
+2021-06-23,Daily hospital occupancy,439.0,Belgium
+2021-06-24,Daily hospital occupancy,422.0,Belgium
+2021-06-25,Daily hospital occupancy,382.0,Belgium
+2021-06-26,Daily hospital occupancy,347.0,Belgium
+2021-06-27,Daily hospital occupancy,338.0,Belgium
+2021-06-28,Daily hospital occupancy,339.0,Belgium
+2021-06-29,Daily hospital occupancy,328.0,Belgium
+2021-06-30,Daily hospital occupancy,303.0,Belgium
+2021-07-01,Daily hospital occupancy,274.0,Belgium
+2021-07-02,Daily hospital occupancy,272.0,Belgium
+2021-07-03,Daily hospital occupancy,252.0,Belgium
+2021-07-04,Daily hospital occupancy,258.0,Belgium
+2021-07-05,Daily hospital occupancy,256.0,Belgium
+2021-07-06,Daily hospital occupancy,251.0,Belgium
+2021-07-07,Daily hospital occupancy,256.0,Belgium
+2021-07-08,Daily hospital occupancy,252.0,Belgium
+2021-07-09,Daily hospital occupancy,240.0,Belgium
+2021-07-10,Daily hospital occupancy,227.0,Belgium
+2021-07-11,Daily hospital occupancy,230.0,Belgium
+2021-07-12,Daily hospital occupancy,234.0,Belgium
+2021-07-13,Daily hospital occupancy,241.0,Belgium
+2021-07-14,Daily hospital occupancy,241.0,Belgium
+2021-07-15,Daily hospital occupancy,253.0,Belgium
+2021-07-16,Daily hospital occupancy,240.0,Belgium
+2021-07-17,Daily hospital occupancy,242.0,Belgium
+2021-07-18,Daily hospital occupancy,248.0,Belgium
+2021-07-19,Daily hospital occupancy,267.0,Belgium
+2021-07-20,Daily hospital occupancy,266.0,Belgium
+2021-07-21,Daily hospital occupancy,280.0,Belgium
+2021-07-22,Daily hospital occupancy,289.0,Belgium
+2021-07-23,Daily hospital occupancy,274.0,Belgium
+2021-07-24,Daily hospital occupancy,271.0,Belgium
+2021-07-25,Daily hospital occupancy,288.0,Belgium
+2021-07-26,Daily hospital occupancy,305.0,Belgium
+2021-07-27,Daily hospital occupancy,308.0,Belgium
+2021-07-28,Daily hospital occupancy,311.0,Belgium
+2021-07-29,Daily hospital occupancy,318.0,Belgium
+2021-07-30,Daily hospital occupancy,320.0,Belgium
+2021-07-31,Daily hospital occupancy,325.0,Belgium
+2021-08-01,Daily hospital occupancy,343.0,Belgium
+2021-08-02,Daily hospital occupancy,365.0,Belgium
+2021-08-03,Daily hospital occupancy,369.0,Belgium
+2021-08-04,Daily hospital occupancy,367.0,Belgium
+2021-08-05,Daily hospital occupancy,367.0,Belgium
+2021-08-06,Daily hospital occupancy,383.0,Belgium
+2021-08-07,Daily hospital occupancy,397.0,Belgium
+2021-08-08,Daily hospital occupancy,426.0,Belgium
+2021-08-09,Daily hospital occupancy,462.0,Belgium
+2021-08-10,Daily hospital occupancy,465.0,Belgium
+2021-08-11,Daily hospital occupancy,454.0,Belgium
+2021-08-12,Daily hospital occupancy,475.0,Belgium
+2021-08-13,Daily hospital occupancy,496.0,Belgium
+2021-08-14,Daily hospital occupancy,495.0,Belgium
+2021-08-15,Daily hospital occupancy,513.0,Belgium
+2021-08-16,Daily hospital occupancy,550.0,Belgium
+2021-08-17,Daily hospital occupancy,570.0,Belgium
+2021-08-18,Daily hospital occupancy,592.0,Belgium
+2021-08-19,Daily hospital occupancy,608.0,Belgium
+2021-08-20,Daily hospital occupancy,583.0,Belgium
+2021-08-21,Daily hospital occupancy,594.0,Belgium
+2021-08-22,Daily hospital occupancy,619.0,Belgium
+2021-08-23,Daily hospital occupancy,652.0,Belgium
+2021-08-24,Daily hospital occupancy,635.0,Belgium
+2021-08-25,Daily hospital occupancy,619.0,Belgium
+2021-08-26,Daily hospital occupancy,602.0,Belgium
+2021-08-27,Daily hospital occupancy,596.0,Belgium
+2021-08-28,Daily hospital occupancy,611.0,Belgium
+2021-08-29,Daily hospital occupancy,631.0,Belgium
+2021-08-30,Daily hospital occupancy,677.0,Belgium
+2021-08-31,Daily hospital occupancy,667.0,Belgium
+2021-09-01,Daily hospital occupancy,661.0,Belgium
+2021-09-02,Daily hospital occupancy,657.0,Belgium
+2021-09-03,Daily hospital occupancy,683.0,Belgium
+2021-09-04,Daily hospital occupancy,669.0,Belgium
+2021-09-05,Daily hospital occupancy,687.0,Belgium
+2021-09-06,Daily hospital occupancy,725.0,Belgium
+2021-09-07,Daily hospital occupancy,702.0,Belgium
+2021-09-08,Daily hospital occupancy,704.0,Belgium
+2021-09-09,Daily hospital occupancy,709.0,Belgium
+2021-09-10,Daily hospital occupancy,703.0,Belgium
+2021-09-11,Daily hospital occupancy,675.0,Belgium
+2021-09-12,Daily hospital occupancy,681.0,Belgium
+2021-09-13,Daily hospital occupancy,702.0,Belgium
+2021-09-14,Daily hospital occupancy,699.0,Belgium
+2021-09-15,Daily hospital occupancy,683.0,Belgium
+2021-09-16,Daily hospital occupancy,703.0,Belgium
+2021-09-17,Daily hospital occupancy,713.0,Belgium
+2021-09-18,Daily hospital occupancy,696.0,Belgium
+2021-09-19,Daily hospital occupancy,709.0,Belgium
+2021-09-20,Daily hospital occupancy,727.0,Belgium
+2021-09-21,Daily hospital occupancy,684.0,Belgium
+2021-09-22,Daily hospital occupancy,688.0,Belgium
+2021-09-23,Daily hospital occupancy,691.0,Belgium
+2021-09-24,Daily hospital occupancy,662.0,Belgium
+2021-09-25,Daily hospital occupancy,646.0,Belgium
+2021-09-26,Daily hospital occupancy,667.0,Belgium
+2021-09-27,Daily hospital occupancy,700.0,Belgium
+2021-09-28,Daily hospital occupancy,702.0,Belgium
+2021-09-29,Daily hospital occupancy,699.0,Belgium
+2021-09-30,Daily hospital occupancy,714.0,Belgium
+2021-10-01,Daily hospital occupancy,703.0,Belgium
+2021-10-02,Daily hospital occupancy,697.0,Belgium
+2021-10-03,Daily hospital occupancy,704.0,Belgium
+2021-10-04,Daily hospital occupancy,734.0,Belgium
+2021-10-05,Daily hospital occupancy,748.0,Belgium
+2021-10-06,Daily hospital occupancy,730.0,Belgium
+2021-10-07,Daily hospital occupancy,733.0,Belgium
+2021-10-08,Daily hospital occupancy,725.0,Belgium
+2021-10-09,Daily hospital occupancy,692.0,Belgium
+2021-10-10,Daily hospital occupancy,706.0,Belgium
+2021-10-11,Daily hospital occupancy,744.0,Belgium
+2021-10-12,Daily hospital occupancy,766.0,Belgium
+2021-10-13,Daily hospital occupancy,782.0,Belgium
+2021-10-14,Daily hospital occupancy,793.0,Belgium
+2021-10-15,Daily hospital occupancy,824.0,Belgium
+2021-10-16,Daily hospital occupancy,832.0,Belgium
+2021-10-17,Daily hospital occupancy,856.0,Belgium
+2021-10-18,Daily hospital occupancy,919.0,Belgium
+2021-10-19,Daily hospital occupancy,947.0,Belgium
+2021-10-20,Daily hospital occupancy,997.0,Belgium
+2021-10-21,Daily hospital occupancy,1038.0,Belgium
+2021-10-22,Daily hospital occupancy,1115.0,Belgium
+2021-10-23,Daily hospital occupancy,1121.0,Belgium
+2021-10-24,Daily hospital occupancy,1175.0,Belgium
+2021-10-25,Daily hospital occupancy,1302.0,Belgium
+2021-10-26,Daily hospital occupancy,1325.0,Belgium
+2021-10-27,Daily hospital occupancy,1392.0,Belgium
+2021-10-28,Daily hospital occupancy,1435.0,Belgium
+2021-10-29,Daily hospital occupancy,1544.0,Belgium
+2021-10-30,Daily hospital occupancy,1564.0,Belgium
+2021-10-31,Daily hospital occupancy,1626.0,Belgium
+2021-11-01,Daily hospital occupancy,1698.0,Belgium
+2021-11-02,Daily hospital occupancy,1803.0,Belgium
+2021-11-03,Daily hospital occupancy,1866.0,Belgium
+2021-11-04,Daily hospital occupancy,1909.0,Belgium
+2021-11-05,Daily hospital occupancy,1939.0,Belgium
+2021-11-06,Daily hospital occupancy,1882.0,Belgium
+2021-11-07,Daily hospital occupancy,1955.0,Belgium
+2021-11-08,Daily hospital occupancy,2078.0,Belgium
+2021-11-09,Daily hospital occupancy,2152.0,Belgium
+2021-11-10,Daily hospital occupancy,2279.0,Belgium
+2021-11-11,Daily hospital occupancy,2308.0,Belgium
+2021-11-12,Daily hospital occupancy,2407.0,Belgium
+2021-11-13,Daily hospital occupancy,2407.0,Belgium
+2021-11-14,Daily hospital occupancy,2496.0,Belgium
+2021-11-15,Daily hospital occupancy,2667.0,Belgium
+2021-11-16,Daily hospital occupancy,2709.0,Belgium
+2021-11-17,Daily hospital occupancy,2839.0,Belgium
+2021-11-18,Daily hospital occupancy,2897.0,Belgium
+2021-11-19,Daily hospital occupancy,2990.0,Belgium
+2021-11-20,Daily hospital occupancy,3005.0,Belgium
+2021-11-21,Daily hospital occupancy,3173.0,Belgium
+2021-11-22,Daily hospital occupancy,3325.0,Belgium
+2021-11-23,Daily hospital occupancy,3367.0,Belgium
+2021-11-24,Daily hospital occupancy,3439.0,Belgium
+2021-11-25,Daily hospital occupancy,3489.0,Belgium
+2021-11-26,Daily hospital occupancy,3493.0,Belgium
+2021-11-27,Daily hospital occupancy,3441.0,Belgium
+2021-11-28,Daily hospital occupancy,3546.0,Belgium
+2021-11-29,Daily hospital occupancy,3698.0,Belgium
+2021-11-30,Daily hospital occupancy,3750.0,Belgium
+2021-12-01,Daily hospital occupancy,3729.0,Belgium
+2021-12-02,Daily hospital occupancy,3708.0,Belgium
+2021-12-03,Daily hospital occupancy,3613.0,Belgium
+2021-12-04,Daily hospital occupancy,3534.0,Belgium
+2021-12-05,Daily hospital occupancy,3579.0,Belgium
+2021-12-06,Daily hospital occupancy,3662.0,Belgium
+2021-12-07,Daily hospital occupancy,3554.0,Belgium
+2021-12-08,Daily hospital occupancy,3513.0,Belgium
+2021-12-09,Daily hospital occupancy,3448.0,Belgium
+2021-12-10,Daily hospital occupancy,3364.0,Belgium
+2021-12-11,Daily hospital occupancy,3281.0,Belgium
+2021-12-12,Daily hospital occupancy,3288.0,Belgium
+2021-12-13,Daily hospital occupancy,3382.0,Belgium
+2021-12-14,Daily hospital occupancy,3262.0,Belgium
+2021-12-15,Daily hospital occupancy,3120.0,Belgium
+2021-12-16,Daily hospital occupancy,2970.0,Belgium
+2021-12-17,Daily hospital occupancy,2833.0,Belgium
+2021-12-18,Daily hospital occupancy,2648.0,Belgium
+2021-12-19,Daily hospital occupancy,2619.0,Belgium
+2021-12-20,Daily hospital occupancy,2645.0,Belgium
+2021-12-21,Daily hospital occupancy,2452.0,Belgium
+2021-12-22,Daily hospital occupancy,2322.0,Belgium
+2021-12-23,Daily hospital occupancy,2198.0,Belgium
+2021-12-24,Daily hospital occupancy,2052.0,Belgium
+2021-12-25,Daily hospital occupancy,1923.0,Belgium
+2021-12-26,Daily hospital occupancy,1945.0,Belgium
+2021-12-27,Daily hospital occupancy,1960.0,Belgium
+2021-12-28,Daily hospital occupancy,1901.0,Belgium
+2021-12-29,Daily hospital occupancy,1868.0,Belgium
+2021-12-30,Daily hospital occupancy,1806.0,Belgium
+2021-12-31,Daily hospital occupancy,1761.0,Belgium
+2022-01-01,Daily hospital occupancy,1704.0,Belgium
+2022-01-02,Daily hospital occupancy,1764.0,Belgium
+2022-01-03,Daily hospital occupancy,1865.0,Belgium
+2022-01-04,Daily hospital occupancy,1894.0,Belgium
+2022-01-05,Daily hospital occupancy,1884.0,Belgium
+2022-01-06,Daily hospital occupancy,1879.0,Belgium
+2022-01-07,Daily hospital occupancy,1892.0,Belgium
+2022-01-08,Daily hospital occupancy,1857.0,Belgium
+2022-01-09,Daily hospital occupancy,1887.0,Belgium
+2022-01-10,Daily hospital occupancy,1962.0,Belgium
+2022-01-11,Daily hospital occupancy,1998.0,Belgium
+2022-01-12,Daily hospital occupancy,2022.0,Belgium
+2022-01-13,Daily hospital occupancy,2040.0,Belgium
+2022-01-14,Daily hospital occupancy,2106.0,Belgium
+2022-01-15,Daily hospital occupancy,2092.0,Belgium
+2022-01-16,Daily hospital occupancy,2178.0,Belgium
+2022-01-17,Daily hospital occupancy,2323.0,Belgium
+2022-01-18,Daily hospital occupancy,2416.0,Belgium
+2022-01-19,Daily hospital occupancy,2570.0,Belgium
+2022-01-20,Daily hospital occupancy,2732.0,Belgium
+2022-01-21,Daily hospital occupancy,2851.0,Belgium
+2022-01-22,Daily hospital occupancy,2909.0,Belgium
+2022-01-23,Daily hospital occupancy,3039.0,Belgium
+2022-01-24,Daily hospital occupancy,3299.0,Belgium
+2022-01-25,Daily hospital occupancy,3438.0,Belgium
+2022-01-26,Daily hospital occupancy,3583.0,Belgium
+2022-01-27,Daily hospital occupancy,3695.0,Belgium
+2022-01-28,Daily hospital occupancy,3824.0,Belgium
+2022-01-29,Daily hospital occupancy,3746.0,Belgium
+2022-01-30,Daily hospital occupancy,3839.0,Belgium
+2022-01-31,Daily hospital occupancy,4081.0,Belgium
+2022-02-01,Daily hospital occupancy,4160.0,Belgium
+2022-02-02,Daily hospital occupancy,4212.0,Belgium
+2022-02-03,Daily hospital occupancy,4239.0,Belgium
+2022-02-04,Daily hospital occupancy,4252.0,Belgium
+2022-02-05,Daily hospital occupancy,4008.0,Belgium
+2022-02-06,Daily hospital occupancy,4141.0,Belgium
+2022-02-07,Daily hospital occupancy,4329.0,Belgium
+2022-02-08,Daily hospital occupancy,4187.0,Belgium
+2022-02-09,Daily hospital occupancy,4086.0,Belgium
+2022-02-10,Daily hospital occupancy,3922.0,Belgium
+2022-02-11,Daily hospital occupancy,3843.0,Belgium
+2022-02-12,Daily hospital occupancy,3599.0,Belgium
+2022-02-13,Daily hospital occupancy,3632.0,Belgium
+2022-02-14,Daily hospital occupancy,3654.0,Belgium
+2022-02-15,Daily hospital occupancy,3504.0,Belgium
+2022-02-16,Daily hospital occupancy,3350.0,Belgium
+2022-02-17,Daily hospital occupancy,3253.0,Belgium
+2022-02-18,Daily hospital occupancy,3131.0,Belgium
+2022-02-19,Daily hospital occupancy,2931.0,Belgium
+2022-02-20,Daily hospital occupancy,2914.0,Belgium
+2022-02-21,Daily hospital occupancy,3000.0,Belgium
+2022-02-22,Daily hospital occupancy,2817.0,Belgium
+2022-02-23,Daily hospital occupancy,2720.0,Belgium
+2022-02-24,Daily hospital occupancy,2602.0,Belgium
+2022-02-25,Daily hospital occupancy,2503.0,Belgium
+2022-02-26,Daily hospital occupancy,2322.0,Belgium
+2022-02-27,Daily hospital occupancy,2291.0,Belgium
+2022-02-28,Daily hospital occupancy,2322.0,Belgium
+2022-03-01,Daily hospital occupancy,2187.0,Belgium
+2022-03-02,Daily hospital occupancy,2130.0,Belgium
+2022-03-03,Daily hospital occupancy,2108.0,Belgium
+2022-03-04,Daily hospital occupancy,2051.0,Belgium
+2022-03-05,Daily hospital occupancy,1921.0,Belgium
+2022-03-06,Daily hospital occupancy,1980.0,Belgium
+2022-03-07,Daily hospital occupancy,2069.0,Belgium
+2022-03-08,Daily hospital occupancy,2008.0,Belgium
+2022-03-09,Daily hospital occupancy,2010.0,Belgium
+2022-03-10,Daily hospital occupancy,1970.0,Belgium
+2022-03-11,Daily hospital occupancy,1938.0,Belgium
+2022-03-12,Daily hospital occupancy,1922.0,Belgium
+2022-03-13,Daily hospital occupancy,1999.0,Belgium
+2022-03-14,Daily hospital occupancy,2145.0,Belgium
+2022-03-15,Daily hospital occupancy,2218.0,Belgium
+2022-03-16,Daily hospital occupancy,2248.0,Belgium
+2022-03-17,Daily hospital occupancy,2263.0,Belgium
+2022-03-18,Daily hospital occupancy,2280.0,Belgium
+2022-03-19,Daily hospital occupancy,2222.0,Belgium
+2022-03-20,Daily hospital occupancy,2320.0,Belgium
+2022-03-21,Daily hospital occupancy,2435.0,Belgium
+2022-03-22,Daily hospital occupancy,2511.0,Belgium
+2022-03-23,Daily hospital occupancy,2590.0,Belgium
+2022-03-24,Daily hospital occupancy,2628.0,Belgium
+2022-03-25,Daily hospital occupancy,2680.0,Belgium
+2022-03-26,Daily hospital occupancy,2593.0,Belgium
+2022-03-27,Daily hospital occupancy,2700.0,Belgium
+2022-03-28,Daily hospital occupancy,2856.0,Belgium
+2022-03-29,Daily hospital occupancy,2904.0,Belgium
+2022-03-30,Daily hospital occupancy,2920.0,Belgium
+2022-03-31,Daily hospital occupancy,2979.0,Belgium
+2022-04-01,Daily hospital occupancy,3026.0,Belgium
+2022-04-02,Daily hospital occupancy,2865.0,Belgium
+2022-04-03,Daily hospital occupancy,2973.0,Belgium
+2022-04-04,Daily hospital occupancy,3084.0,Belgium
+2022-04-05,Daily hospital occupancy,3055.0,Belgium
+2022-04-06,Daily hospital occupancy,3012.0,Belgium
+2022-04-07,Daily hospital occupancy,3102.0,Belgium
+2022-04-08,Daily hospital occupancy,3141.0,Belgium
+2022-04-09,Daily hospital occupancy,3024.0,Belgium
+2022-04-10,Daily hospital occupancy,3069.0,Belgium
+2022-04-11,Daily hospital occupancy,3197.0,Belgium
+2022-04-12,Daily hospital occupancy,3189.0,Belgium
+2022-04-13,Daily hospital occupancy,3199.0,Belgium
+2022-04-14,Daily hospital occupancy,3163.0,Belgium
+2022-04-15,Daily hospital occupancy,3028.0,Belgium
+2022-04-16,Daily hospital occupancy,2902.0,Belgium
+2022-04-17,Daily hospital occupancy,2948.0,Belgium
+2022-04-18,Daily hospital occupancy,3079.0,Belgium
+2022-04-19,Daily hospital occupancy,3188.0,Belgium
+2022-04-20,Daily hospital occupancy,3086.0,Belgium
+2022-04-21,Daily hospital occupancy,2975.0,Belgium
+2022-04-22,Daily hospital occupancy,2845.0,Belgium
+2022-04-23,Daily hospital occupancy,2656.0,Belgium
+2022-04-24,Daily hospital occupancy,2715.0,Belgium
+2022-04-25,Daily hospital occupancy,2766.0,Belgium
+2022-04-26,Daily hospital occupancy,2638.0,Belgium
+2022-04-27,Daily hospital occupancy,2570.0,Belgium
+2022-04-28,Daily hospital occupancy,2450.0,Belgium
+2022-04-29,Daily hospital occupancy,2331.0,Belgium
+2022-04-30,Daily hospital occupancy,2183.0,Belgium
+2022-05-01,Daily hospital occupancy,2189.0,Belgium
+2022-05-02,Daily hospital occupancy,2252.0,Belgium
+2022-05-03,Daily hospital occupancy,2124.0,Belgium
+2022-05-04,Daily hospital occupancy,2041.0,Belgium
+2022-05-05,Daily hospital occupancy,2017.0,Belgium
+2022-05-06,Daily hospital occupancy,1948.0,Belgium
+2022-05-07,Daily hospital occupancy,1837.0,Belgium
+2022-05-08,Daily hospital occupancy,1859.0,Belgium
+2022-05-09,Daily hospital occupancy,1891.0,Belgium
+2022-05-10,Daily hospital occupancy,1847.0,Belgium
+2022-05-11,Daily hospital occupancy,1711.0,Belgium
+2022-05-12,Daily hospital occupancy,1680.0,Belgium
+2022-05-13,Daily hospital occupancy,1602.0,Belgium
+2022-05-14,Daily hospital occupancy,1508.0,Belgium
+2022-05-15,Daily hospital occupancy,1523.0,Belgium
+2022-05-16,Daily hospital occupancy,1512.0,Belgium
+2022-05-17,Daily hospital occupancy,1462.0,Belgium
+2022-05-18,Daily hospital occupancy,1399.0,Belgium
+2022-05-19,Daily hospital occupancy,1340.0,Belgium
+2022-05-20,Daily hospital occupancy,1304.0,Belgium
+2022-05-21,Daily hospital occupancy,1199.0,Belgium
+2022-05-22,Daily hospital occupancy,1211.0,Belgium
+2022-05-23,Daily hospital occupancy,1240.0,Belgium
+2022-05-24,Daily hospital occupancy,1158.0,Belgium
+2022-05-25,Daily hospital occupancy,1092.0,Belgium
+2022-05-26,Daily hospital occupancy,1044.0,Belgium
+2022-05-27,Daily hospital occupancy,1026.0,Belgium
+2022-05-28,Daily hospital occupancy,941.0,Belgium
+2022-05-29,Daily hospital occupancy,937.0,Belgium
+2022-05-30,Daily hospital occupancy,946.0,Belgium
+2022-05-31,Daily hospital occupancy,943.0,Belgium
+2022-06-01,Daily hospital occupancy,909.0,Belgium
+2022-06-02,Daily hospital occupancy,874.0,Belgium
+2022-06-03,Daily hospital occupancy,855.0,Belgium
+2022-06-04,Daily hospital occupancy,802.0,Belgium
+2022-06-05,Daily hospital occupancy,829.0,Belgium
+2022-06-06,Daily hospital occupancy,867.0,Belgium
+2022-06-07,Daily hospital occupancy,934.0,Belgium
+2022-06-08,Daily hospital occupancy,894.0,Belgium
+2022-06-09,Daily hospital occupancy,882.0,Belgium
+2022-06-10,Daily hospital occupancy,879.0,Belgium
+2022-06-11,Daily hospital occupancy,804.0,Belgium
+2022-06-12,Daily hospital occupancy,818.0,Belgium
+2022-06-13,Daily hospital occupancy,883.0,Belgium
+2022-06-14,Daily hospital occupancy,877.0,Belgium
+2022-06-15,Daily hospital occupancy,861.0,Belgium
+2022-06-16,Daily hospital occupancy,885.0,Belgium
+2022-06-17,Daily hospital occupancy,869.0,Belgium
+2022-06-18,Daily hospital occupancy,873.0,Belgium
+2022-06-19,Daily hospital occupancy,933.0,Belgium
+2022-06-20,Daily hospital occupancy,1016.0,Belgium
+2022-06-21,Daily hospital occupancy,1082.0,Belgium
+2022-06-22,Daily hospital occupancy,1089.0,Belgium
+2022-06-23,Daily hospital occupancy,1082.0,Belgium
+2022-06-24,Daily hospital occupancy,1099.0,Belgium
+2022-06-25,Daily hospital occupancy,1167.0,Belgium
+2022-06-26,Daily hospital occupancy,1192.0,Belgium
+2022-06-27,Daily hospital occupancy,1289.0,Belgium
+2022-06-28,Daily hospital occupancy,1307.0,Belgium
+2022-06-29,Daily hospital occupancy,1354.0,Belgium
+2022-06-30,Daily hospital occupancy,1349.0,Belgium
+2022-07-01,Daily hospital occupancy,1426.0,Belgium
+2022-07-02,Daily hospital occupancy,1419.0,Belgium
+2022-07-03,Daily hospital occupancy,1474.0,Belgium
+2022-07-04,Daily hospital occupancy,1537.0,Belgium
+2022-07-05,Daily hospital occupancy,1534.0,Belgium
+2022-07-06,Daily hospital occupancy,1580.0,Belgium
+2022-07-07,Daily hospital occupancy,1660.0,Belgium
+2022-07-08,Daily hospital occupancy,1690.0,Belgium
+2022-07-09,Daily hospital occupancy,1710.0,Belgium
+2022-07-10,Daily hospital occupancy,1831.0,Belgium
+2022-07-11,Daily hospital occupancy,1986.0,Belgium
+2022-07-12,Daily hospital occupancy,2072.0,Belgium
+2022-07-13,Daily hospital occupancy,2095.0,Belgium
+2022-07-14,Daily hospital occupancy,2172.0,Belgium
+2022-07-15,Daily hospital occupancy,2196.0,Belgium
+2022-07-16,Daily hospital occupancy,2174.0,Belgium
+2022-07-17,Daily hospital occupancy,2264.0,Belgium
+2022-07-18,Daily hospital occupancy,2327.0,Belgium
+2022-07-19,Daily hospital occupancy,2229.0,Belgium
+2022-07-20,Daily hospital occupancy,2218.0,Belgium
+2022-07-21,Daily hospital occupancy,2146.0,Belgium
+2022-07-22,Daily hospital occupancy,2202.0,Belgium
+2022-07-23,Daily hospital occupancy,2170.0,Belgium
+2022-07-24,Daily hospital occupancy,2211.0,Belgium
+2022-07-25,Daily hospital occupancy,2292.0,Belgium
+2022-07-26,Daily hospital occupancy,2187.0,Belgium
+2022-07-27,Daily hospital occupancy,2059.0,Belgium
+2022-07-28,Daily hospital occupancy,1996.0,Belgium
+2022-07-29,Daily hospital occupancy,1901.0,Belgium
+2022-07-30,Daily hospital occupancy,1816.0,Belgium
+2022-07-31,Daily hospital occupancy,1859.0,Belgium
+2022-08-01,Daily hospital occupancy,1899.0,Belgium
+2022-08-02,Daily hospital occupancy,1871.0,Belgium
+2022-08-03,Daily hospital occupancy,1806.0,Belgium
+2022-08-04,Daily hospital occupancy,1764.0,Belgium
+2022-08-05,Daily hospital occupancy,1689.0,Belgium
+2022-08-06,Daily hospital occupancy,1605.0,Belgium
+2022-08-07,Daily hospital occupancy,1615.0,Belgium
+2022-08-08,Daily hospital occupancy,1646.0,Belgium
+2022-08-09,Daily hospital occupancy,1524.0,Belgium
+2022-08-10,Daily hospital occupancy,1394.0,Belgium
+2022-08-11,Daily hospital occupancy,1343.0,Belgium
+2022-08-12,Daily hospital occupancy,1311.0,Belgium
+2022-08-13,Daily hospital occupancy,1260.0,Belgium
+2022-08-14,Daily hospital occupancy,1273.0,Belgium
+2022-08-15,Daily hospital occupancy,1315.0,Belgium
+2022-08-16,Daily hospital occupancy,1300.0,Belgium
+2022-08-17,Daily hospital occupancy,1233.0,Belgium
+2022-08-18,Daily hospital occupancy,1172.0,Belgium
+2022-08-19,Daily hospital occupancy,1130.0,Belgium
+2022-08-20,Daily hospital occupancy,1072.0,Belgium
+2022-08-21,Daily hospital occupancy,1093.0,Belgium
+2022-08-22,Daily hospital occupancy,1106.0,Belgium
+2022-08-23,Daily hospital occupancy,1034.0,Belgium
+2022-08-24,Daily hospital occupancy,986.0,Belgium
+2022-08-25,Daily hospital occupancy,953.0,Belgium
+2022-08-26,Daily hospital occupancy,910.0,Belgium
+2022-08-27,Daily hospital occupancy,828.0,Belgium
+2022-08-28,Daily hospital occupancy,834.0,Belgium
+2022-08-29,Daily hospital occupancy,867.0,Belgium
+2022-08-30,Daily hospital occupancy,812.0,Belgium
+2022-08-31,Daily hospital occupancy,798.0,Belgium
+2022-09-01,Daily hospital occupancy,763.0,Belgium
+2022-09-02,Daily hospital occupancy,738.0,Belgium
+2022-09-03,Daily hospital occupancy,728.0,Belgium
+2022-09-04,Daily hospital occupancy,733.0,Belgium
+2022-09-05,Daily hospital occupancy,779.0,Belgium
+2022-09-06,Daily hospital occupancy,716.0,Belgium
+2022-09-07,Daily hospital occupancy,757.0,Belgium
+2022-09-08,Daily hospital occupancy,739.0,Belgium
+2022-09-09,Daily hospital occupancy,710.0,Belgium
+2022-09-10,Daily hospital occupancy,677.0,Belgium
+2022-09-11,Daily hospital occupancy,688.0,Belgium
+2022-09-12,Daily hospital occupancy,713.0,Belgium
+2022-09-13,Daily hospital occupancy,686.0,Belgium
+2022-09-14,Daily hospital occupancy,692.0,Belgium
+2022-09-15,Daily hospital occupancy,713.0,Belgium
+2022-09-16,Daily hospital occupancy,702.0,Belgium
+2022-09-17,Daily hospital occupancy,667.0,Belgium
+2022-09-18,Daily hospital occupancy,663.0,Belgium
+2022-09-19,Daily hospital occupancy,684.0,Belgium
+2022-09-20,Daily hospital occupancy,706.0,Belgium
+2022-09-21,Daily hospital occupancy,721.0,Belgium
+2022-09-22,Daily hospital occupancy,737.0,Belgium
+2022-09-23,Daily hospital occupancy,752.0,Belgium
+2022-09-24,Daily hospital occupancy,796.0,Belgium
+2022-09-25,Daily hospital occupancy,845.0,Belgium
+2022-09-26,Daily hospital occupancy,929.0,Belgium
+2022-09-27,Daily hospital occupancy,979.0,Belgium
+2022-09-28,Daily hospital occupancy,1042.0,Belgium
+2022-09-29,Daily hospital occupancy,1081.0,Belgium
+2022-09-30,Daily hospital occupancy,1173.0,Belgium
+2022-10-01,Daily hospital occupancy,1161.0,Belgium
+2022-10-02,Daily hospital occupancy,1232.0,Belgium
+2022-10-03,Daily hospital occupancy,1315.0,Belgium
+2022-10-04,Daily hospital occupancy,1354.0,Belgium
+2022-10-05,Daily hospital occupancy,1387.0,Belgium
+2022-10-06,Daily hospital occupancy,1430.0,Belgium
+2022-10-07,Daily hospital occupancy,1471.0,Belgium
+2022-10-08,Daily hospital occupancy,1454.0,Belgium
+2022-10-09,Daily hospital occupancy,1502.0,Belgium
+2022-10-10,Daily hospital occupancy,1547.0,Belgium
+2022-10-11,Daily hospital occupancy,1487.0,Belgium
+2022-10-12,Daily hospital occupancy,1511.0,Belgium
+2022-10-13,Daily hospital occupancy,1488.0,Belgium
+2022-10-14,Daily hospital occupancy,1527.0,Belgium
+2022-10-15,Daily hospital occupancy,1447.0,Belgium
+2022-10-16,Daily hospital occupancy,1473.0,Belgium
+2022-10-17,Daily hospital occupancy,1524.0,Belgium
+2022-10-18,Daily hospital occupancy,1549.0,Belgium
+2022-10-19,Daily hospital occupancy,1526.0,Belgium
+2022-10-20,Daily hospital occupancy,1509.0,Belgium
+2022-10-21,Daily hospital occupancy,1489.0,Belgium
+2022-10-22,Daily hospital occupancy,1441.0,Belgium
+2022-10-23,Daily hospital occupancy,1465.0,Belgium
+2022-10-24,Daily hospital occupancy,1431.0,Belgium
+2022-10-25,Daily hospital occupancy,1346.0,Belgium
+2022-10-26,Daily hospital occupancy,1266.0,Belgium
+2022-10-27,Daily hospital occupancy,1218.0,Belgium
+2022-10-28,Daily hospital occupancy,1155.0,Belgium
+2022-10-29,Daily hospital occupancy,1030.0,Belgium
+2022-10-30,Daily hospital occupancy,1050.0,Belgium
+2022-10-31,Daily hospital occupancy,1078.0,Belgium
+2022-11-01,Daily hospital occupancy,981.0,Belgium
+2022-11-02,Daily hospital occupancy,963.0,Belgium
+2022-11-03,Daily hospital occupancy,899.0,Belgium
+2022-11-04,Daily hospital occupancy,833.0,Belgium
+2022-11-05,Daily hospital occupancy,813.0,Belgium
+2022-11-06,Daily hospital occupancy,814.0,Belgium
+2022-11-07,Daily hospital occupancy,840.0,Belgium
+2022-11-08,Daily hospital occupancy,798.0,Belgium
+2022-11-09,Daily hospital occupancy,796.0,Belgium
+2022-11-10,Daily hospital occupancy,810.0,Belgium
+2022-11-11,Daily hospital occupancy,776.0,Belgium
+2022-11-12,Daily hospital occupancy,757.0,Belgium
+2022-11-13,Daily hospital occupancy,780.0,Belgium
+2022-11-14,Daily hospital occupancy,791.0,Belgium
+2022-11-15,Daily hospital occupancy,724.0,Belgium
+2022-11-16,Daily hospital occupancy,696.0,Belgium
+2022-11-17,Daily hospital occupancy,653.0,Belgium
+2022-11-18,Daily hospital occupancy,672.0,Belgium
+2022-11-19,Daily hospital occupancy,654.0,Belgium
+2022-11-20,Daily hospital occupancy,669.0,Belgium
+2022-11-21,Daily hospital occupancy,709.0,Belgium
+2022-11-22,Daily hospital occupancy,714.0,Belgium
+2022-11-23,Daily hospital occupancy,736.0,Belgium
+2022-11-24,Daily hospital occupancy,762.0,Belgium
+2022-11-25,Daily hospital occupancy,790.0,Belgium
+2022-11-26,Daily hospital occupancy,797.0,Belgium
+2022-11-27,Daily hospital occupancy,839.0,Belgium
+2022-11-28,Daily hospital occupancy,872.0,Belgium
+2022-11-29,Daily hospital occupancy,928.0,Belgium
+2022-11-30,Daily hospital occupancy,957.0,Belgium
+2022-12-01,Daily hospital occupancy,974.0,Belgium
+2022-12-02,Daily hospital occupancy,1011.0,Belgium
+2022-12-03,Daily hospital occupancy,996.0,Belgium
+2022-12-04,Daily hospital occupancy,1039.0,Belgium
+2022-12-05,Daily hospital occupancy,1124.0,Belgium
+2022-12-06,Daily hospital occupancy,1176.0,Belgium
+2022-12-07,Daily hospital occupancy,1203.0,Belgium
+2022-12-08,Daily hospital occupancy,1242.0,Belgium
+2022-12-09,Daily hospital occupancy,1272.0,Belgium
+2022-12-10,Daily hospital occupancy,1318.0,Belgium
+2022-12-11,Daily hospital occupancy,1387.0,Belgium
+2022-12-12,Daily hospital occupancy,1496.0,Belgium
+2022-12-13,Daily hospital occupancy,1495.0,Belgium
+2022-12-14,Daily hospital occupancy,1583.0,Belgium
+2022-12-15,Daily hospital occupancy,1619.0,Belgium
+2022-12-16,Daily hospital occupancy,1706.0,Belgium
+2022-12-17,Daily hospital occupancy,1763.0,Belgium
+2022-12-18,Daily hospital occupancy,1844.0,Belgium
+2022-12-19,Daily hospital occupancy,1960.0,Belgium
+2022-12-20,Daily hospital occupancy,1964.0,Belgium
+2022-12-21,Daily hospital occupancy,2010.0,Belgium
+2022-12-22,Daily hospital occupancy,1999.0,Belgium
+2022-12-23,Daily hospital occupancy,1994.0,Belgium
+2022-12-24,Daily hospital occupancy,1898.0,Belgium
+2022-12-25,Daily hospital occupancy,1950.0,Belgium
+2022-12-26,Daily hospital occupancy,1971.0,Belgium
+2022-12-27,Daily hospital occupancy,1955.0,Belgium
+2022-12-28,Daily hospital occupancy,1948.0,Belgium
+2022-12-29,Daily hospital occupancy,1852.0,Belgium
+2022-12-30,Daily hospital occupancy,1789.0,Belgium
+2022-12-31,Daily hospital occupancy,1671.0,Belgium
+2023-01-01,Daily hospital occupancy,1691.0,Belgium
+2023-01-02,Daily hospital occupancy,1699.0,Belgium
+2023-01-03,Daily hospital occupancy,1594.0,Belgium
+2023-01-04,Daily hospital occupancy,1492.0,Belgium
+2023-01-05,Daily hospital occupancy,1391.0,Belgium
+2023-01-06,Daily hospital occupancy,1317.0,Belgium
+2023-01-07,Daily hospital occupancy,1227.0,Belgium
+2023-01-08,Daily hospital occupancy,1226.0,Belgium
+2023-01-09,Daily hospital occupancy,1204.0,Belgium
+2023-01-10,Daily hospital occupancy,1086.0,Belgium
+2023-01-11,Daily hospital occupancy,1031.0,Belgium
+2023-01-12,Daily hospital occupancy,958.0,Belgium
+2023-01-13,Daily hospital occupancy,909.0,Belgium
+2023-01-14,Daily hospital occupancy,881.0,Belgium
+2023-01-15,Daily hospital occupancy,866.0,Belgium
+2023-01-16,Daily hospital occupancy,893.0,Belgium
+2023-01-17,Daily hospital occupancy,857.0,Belgium
+2023-01-18,Daily hospital occupancy,801.0,Belgium
+2023-01-19,Daily hospital occupancy,743.0,Belgium
+2023-01-20,Daily hospital occupancy,727.0,Belgium
+2023-01-21,Daily hospital occupancy,661.0,Belgium
+2023-01-22,Daily hospital occupancy,656.0,Belgium
+2023-01-23,Daily hospital occupancy,683.0,Belgium
+2023-01-24,Daily hospital occupancy,663.0,Belgium
+2023-01-25,Daily hospital occupancy,651.0,Belgium
+2023-01-26,Daily hospital occupancy,674.0,Belgium
+2023-01-27,Daily hospital occupancy,691.0,Belgium
+2023-01-28,Daily hospital occupancy,709.0,Belgium
+2023-01-29,Daily hospital occupancy,741.0,Belgium
+2023-01-30,Daily hospital occupancy,795.0,Belgium
+2023-01-31,Daily hospital occupancy,808.0,Belgium
+2023-02-01,Daily hospital occupancy,830.0,Belgium
+2023-02-02,Daily hospital occupancy,865.0,Belgium
+2023-02-03,Daily hospital occupancy,885.0,Belgium
+2023-02-04,Daily hospital occupancy,872.0,Belgium
+2023-02-05,Daily hospital occupancy,918.0,Belgium
+2023-02-06,Daily hospital occupancy,949.0,Belgium
+2023-02-07,Daily hospital occupancy,950.0,Belgium
+2023-02-08,Daily hospital occupancy,977.0,Belgium
+2023-02-09,Daily hospital occupancy,974.0,Belgium
+2023-02-10,Daily hospital occupancy,1011.0,Belgium
+2023-02-11,Daily hospital occupancy,1010.0,Belgium
+2023-02-12,Daily hospital occupancy,1070.0,Belgium
+2023-02-13,Daily hospital occupancy,1164.0,Belgium
+2023-02-14,Daily hospital occupancy,1215.0,Belgium
+2023-02-15,Daily hospital occupancy,1231.0,Belgium
+2023-02-16,Daily hospital occupancy,1261.0,Belgium
+2023-02-17,Daily hospital occupancy,1295.0,Belgium
+2023-02-18,Daily hospital occupancy,1323.0,Belgium
+2023-02-19,Daily hospital occupancy,1388.0,Belgium
+2023-02-20,Daily hospital occupancy,1483.0,Belgium
+2023-02-21,Daily hospital occupancy,1540.0,Belgium
+2023-02-22,Daily hospital occupancy,1589.0,Belgium
+2023-02-23,Daily hospital occupancy,1642.0,Belgium
+2023-02-24,Daily hospital occupancy,1613.0,Belgium
+2023-02-25,Daily hospital occupancy,1612.0,Belgium
+2023-02-26,Daily hospital occupancy,1654.0,Belgium
+2023-02-27,Daily hospital occupancy,1728.0,Belgium
+2023-02-28,Daily hospital occupancy,1735.0,Belgium
+2023-03-01,Daily hospital occupancy,1760.0,Belgium
+2023-03-02,Daily hospital occupancy,1713.0,Belgium
+2023-03-03,Daily hospital occupancy,1725.0,Belgium
+2023-03-04,Daily hospital occupancy,1744.0,Belgium
+2023-03-05,Daily hospital occupancy,1846.0,Belgium
+2023-03-06,Daily hospital occupancy,1953.0,Belgium
+2023-03-07,Daily hospital occupancy,1981.0,Belgium
+2023-03-08,Daily hospital occupancy,2100.0,Belgium
+2023-03-09,Daily hospital occupancy,2117.0,Belgium
+2023-03-10,Daily hospital occupancy,2131.0,Belgium
+2023-03-11,Daily hospital occupancy,2182.0,Belgium
+2023-03-12,Daily hospital occupancy,2269.0,Belgium
+2023-03-13,Daily hospital occupancy,2346.0,Belgium
+2023-03-14,Daily hospital occupancy,2347.0,Belgium
+2023-03-15,Daily hospital occupancy,2329.0,Belgium
+2023-03-16,Daily hospital occupancy,2329.0,Belgium
+2023-03-17,Daily hospital occupancy,2279.0,Belgium
+2023-03-18,Daily hospital occupancy,2231.0,Belgium
+2023-03-19,Daily hospital occupancy,2319.0,Belgium
+2023-03-20,Daily hospital occupancy,2347.0,Belgium
+2023-03-21,Daily hospital occupancy,2237.0,Belgium
+2023-03-22,Daily hospital occupancy,2146.0,Belgium
+2023-03-23,Daily hospital occupancy,2106.0,Belgium
+2023-03-24,Daily hospital occupancy,2059.0,Belgium
+2023-03-25,Daily hospital occupancy,1923.0,Belgium
+2023-03-26,Daily hospital occupancy,1997.0,Belgium
+2023-03-27,Daily hospital occupancy,2040.0,Belgium
+2023-03-28,Daily hospital occupancy,1954.0,Belgium
+2023-03-29,Daily hospital occupancy,1904.0,Belgium
+2023-03-30,Daily hospital occupancy,1823.0,Belgium
+2023-03-31,Daily hospital occupancy,1773.0,Belgium
+2023-04-01,Daily hospital occupancy,1665.0,Belgium
+2023-04-02,Daily hospital occupancy,1685.0,Belgium
+2023-04-03,Daily hospital occupancy,1649.0,Belgium
+2023-04-04,Daily hospital occupancy,1507.0,Belgium
+2023-04-05,Daily hospital occupancy,1434.0,Belgium
+2023-04-06,Daily hospital occupancy,1393.0,Belgium
+2023-04-07,Daily hospital occupancy,1300.0,Belgium
+2023-04-08,Daily hospital occupancy,1225.0,Belgium
+2023-04-09,Daily hospital occupancy,1236.0,Belgium
+2023-04-10,Daily hospital occupancy,1314.0,Belgium
+2023-04-11,Daily hospital occupancy,1349.0,Belgium
+2023-04-12,Daily hospital occupancy,1330.0,Belgium
+2023-04-13,Daily hospital occupancy,1306.0,Belgium
+2023-04-14,Daily hospital occupancy,1262.0,Belgium
+2023-04-15,Daily hospital occupancy,1199.0,Belgium
+2023-04-16,Daily hospital occupancy,1199.0,Belgium
+2023-04-17,Daily hospital occupancy,1223.0,Belgium
+2023-04-18,Daily hospital occupancy,1184.0,Belgium
+2023-04-19,Daily hospital occupancy,1132.0,Belgium
+2023-04-20,Daily hospital occupancy,1061.0,Belgium
+2023-04-21,Daily hospital occupancy,1022.0,Belgium
+2023-04-22,Daily hospital occupancy,989.0,Belgium
+2023-04-23,Daily hospital occupancy,987.0,Belgium
+2023-04-24,Daily hospital occupancy,999.0,Belgium
+2023-04-25,Daily hospital occupancy,960.0,Belgium
+2023-04-26,Daily hospital occupancy,948.0,Belgium
+2023-04-27,Daily hospital occupancy,909.0,Belgium
+2023-04-28,Daily hospital occupancy,861.0,Belgium
+2023-04-29,Daily hospital occupancy,806.0,Belgium
+2023-04-30,Daily hospital occupancy,807.0,Belgium
+2023-05-01,Daily hospital occupancy,815.0,Belgium
+2023-05-02,Daily hospital occupancy,830.0,Belgium
+2023-05-03,Daily hospital occupancy,768.0,Belgium
+2023-05-04,Daily hospital occupancy,738.0,Belgium
+2023-05-05,Daily hospital occupancy,692.0,Belgium
+2023-05-06,Daily hospital occupancy,675.0,Belgium
+2023-05-07,Daily hospital occupancy,685.0,Belgium
+2023-05-08,Daily hospital occupancy,694.0,Belgium
+2023-05-09,Daily hospital occupancy,655.0,Belgium
+2023-05-10,Daily hospital occupancy,683.0,Belgium
+2023-05-11,Daily hospital occupancy,626.0,Belgium
+2023-05-12,Daily hospital occupancy,589.0,Belgium
+2023-05-13,Daily hospital occupancy,568.0,Belgium
+2023-05-14,Daily hospital occupancy,573.0,Belgium
+2023-05-15,Daily hospital occupancy,582.0,Belgium
+2023-05-16,Daily hospital occupancy,549.0,Belgium
+2023-05-17,Daily hospital occupancy,0.0,Belgium
+2023-05-18,Daily hospital occupancy,0.0,Belgium
+2023-05-19,Daily hospital occupancy,0.0,Belgium
+2023-05-20,Daily hospital occupancy,0.0,Belgium
+2023-05-21,Daily hospital occupancy,0.0,Belgium
+2023-05-22,Daily hospital occupancy,0.0,Belgium
+2023-05-23,Daily hospital occupancy,394.0,Belgium
+2023-05-24,Daily hospital occupancy,0.0,Belgium
+2023-05-25,Daily hospital occupancy,0.0,Belgium
+2023-05-26,Daily hospital occupancy,0.0,Belgium
+2023-05-27,Daily hospital occupancy,0.0,Belgium
+2023-05-28,Daily hospital occupancy,0.0,Belgium
+2023-05-29,Daily hospital occupancy,0.0,Belgium
+2023-05-30,Daily hospital occupancy,306.0,Belgium
+2023-05-31,Daily hospital occupancy,0.0,Belgium
+2023-06-01,Daily hospital occupancy,0.0,Belgium
+2023-06-02,Daily hospital occupancy,0.0,Belgium
+2023-06-03,Daily hospital occupancy,0.0,Belgium
+2023-06-04,Daily hospital occupancy,0.0,Belgium
+2023-06-05,Daily hospital occupancy,0.0,Belgium
+2023-06-06,Daily hospital occupancy,238.0,Belgium
+2023-06-07,Daily hospital occupancy,0.0,Belgium
+2023-06-08,Daily hospital occupancy,0.0,Belgium
+2023-06-09,Daily hospital occupancy,0.0,Belgium
+2023-06-10,Daily hospital occupancy,0.0,Belgium
+2023-06-11,Daily hospital occupancy,0.0,Belgium
+2023-06-12,Daily hospital occupancy,0.0,Belgium
+2023-06-13,Daily hospital occupancy,211.0,Belgium
+2023-06-14,Daily hospital occupancy,0.0,Belgium
+2023-06-15,Daily hospital occupancy,0.0,Belgium
+2023-06-16,Daily hospital occupancy,0.0,Belgium
+2023-06-17,Daily hospital occupancy,0.0,Belgium
+2023-06-18,Daily hospital occupancy,0.0,Belgium
+2023-06-19,Daily hospital occupancy,0.0,Belgium
+2023-06-20,Daily hospital occupancy,139.0,Belgium
+2023-06-21,Daily hospital occupancy,0.0,Belgium
+2023-06-22,Daily hospital occupancy,0.0,Belgium
+2023-06-23,Daily hospital occupancy,0.0,Belgium
+2023-06-24,Daily hospital occupancy,0.0,Belgium
+2023-06-25,Daily hospital occupancy,0.0,Belgium
+2023-06-26,Daily hospital occupancy,0.0,Belgium
+2023-06-27,Daily hospital occupancy,116.0,Belgium
+2020-03-06,Daily ICU occupancy,0.0,Belgium
+2020-03-07,Daily ICU occupancy,0.0,Belgium
+2020-03-08,Daily ICU occupancy,0.0,Belgium
+2020-03-09,Daily ICU occupancy,0.0,Belgium
+2020-03-10,Daily ICU occupancy,0.0,Belgium
+2020-03-11,Daily ICU occupancy,2.0,Belgium
+2020-03-12,Daily ICU occupancy,15.0,Belgium
+2020-03-13,Daily ICU occupancy,26.0,Belgium
+2020-03-14,Daily ICU occupancy,35.0,Belgium
+2020-03-15,Daily ICU occupancy,53.0,Belgium
+2020-03-16,Daily ICU occupancy,79.0,Belgium
+2020-03-17,Daily ICU occupancy,100.0,Belgium
+2020-03-18,Daily ICU occupancy,130.0,Belgium
+2020-03-19,Daily ICU occupancy,164.0,Belgium
+2020-03-20,Daily ICU occupancy,229.0,Belgium
+2020-03-21,Daily ICU occupancy,290.0,Belgium
+2020-03-22,Daily ICU occupancy,326.0,Belgium
+2020-03-23,Daily ICU occupancy,385.0,Belgium
+2020-03-24,Daily ICU occupancy,487.0,Belgium
+2020-03-25,Daily ICU occupancy,612.0,Belgium
+2020-03-26,Daily ICU occupancy,699.0,Belgium
+2020-03-27,Daily ICU occupancy,789.0,Belgium
+2020-03-28,Daily ICU occupancy,867.0,Belgium
+2020-03-29,Daily ICU occupancy,961.0,Belgium
+2020-03-30,Daily ICU occupancy,1021.0,Belgium
+2020-03-31,Daily ICU occupancy,1088.0,Belgium
+2020-04-01,Daily ICU occupancy,1144.0,Belgium
+2020-04-02,Daily ICU occupancy,1205.0,Belgium
+2020-04-03,Daily ICU occupancy,1256.0,Belgium
+2020-04-04,Daily ICU occupancy,1261.0,Belgium
+2020-04-05,Daily ICU occupancy,1267.0,Belgium
+2020-04-06,Daily ICU occupancy,1260.0,Belgium
+2020-04-07,Daily ICU occupancy,1276.0,Belgium
+2020-04-08,Daily ICU occupancy,1286.0,Belgium
+2020-04-09,Daily ICU occupancy,1279.0,Belgium
+2020-04-10,Daily ICU occupancy,1262.0,Belgium
+2020-04-11,Daily ICU occupancy,1251.0,Belgium
+2020-04-12,Daily ICU occupancy,1253.0,Belgium
+2020-04-13,Daily ICU occupancy,1226.0,Belgium
+2020-04-14,Daily ICU occupancy,1204.0,Belgium
+2020-04-15,Daily ICU occupancy,1182.0,Belgium
+2020-04-16,Daily ICU occupancy,1150.0,Belgium
+2020-04-17,Daily ICU occupancy,1119.0,Belgium
+2020-04-18,Daily ICU occupancy,1081.0,Belgium
+2020-04-19,Daily ICU occupancy,1071.0,Belgium
+2020-04-20,Daily ICU occupancy,1079.0,Belgium
+2020-04-21,Daily ICU occupancy,1020.0,Belgium
+2020-04-22,Daily ICU occupancy,993.0,Belgium
+2020-04-23,Daily ICU occupancy,970.0,Belgium
+2020-04-24,Daily ICU occupancy,934.0,Belgium
+2020-04-25,Daily ICU occupancy,901.0,Belgium
+2020-04-26,Daily ICU occupancy,903.0,Belgium
+2020-04-27,Daily ICU occupancy,876.0,Belgium
+2020-04-28,Daily ICU occupancy,797.0,Belgium
+2020-04-29,Daily ICU occupancy,769.0,Belgium
+2020-04-30,Daily ICU occupancy,749.0,Belgium
+2020-05-01,Daily ICU occupancy,690.0,Belgium
+2020-05-02,Daily ICU occupancy,684.0,Belgium
+2020-05-03,Daily ICU occupancy,655.0,Belgium
+2020-05-04,Daily ICU occupancy,646.0,Belgium
+2020-05-05,Daily ICU occupancy,582.0,Belgium
+2020-05-06,Daily ICU occupancy,542.0,Belgium
+2020-05-07,Daily ICU occupancy,508.0,Belgium
+2020-05-08,Daily ICU occupancy,502.0,Belgium
+2020-05-09,Daily ICU occupancy,475.0,Belgium
+2020-05-10,Daily ICU occupancy,477.0,Belgium
+2020-05-11,Daily ICU occupancy,465.0,Belgium
+2020-05-12,Daily ICU occupancy,427.0,Belgium
+2020-05-13,Daily ICU occupancy,407.0,Belgium
+2020-05-14,Daily ICU occupancy,380.0,Belgium
+2020-05-15,Daily ICU occupancy,364.0,Belgium
+2020-05-16,Daily ICU occupancy,345.0,Belgium
+2020-05-17,Daily ICU occupancy,342.0,Belgium
+2020-05-18,Daily ICU occupancy,345.0,Belgium
+2020-05-19,Daily ICU occupancy,313.0,Belgium
+2020-05-20,Daily ICU occupancy,277.0,Belgium
+2020-05-21,Daily ICU occupancy,268.0,Belgium
+2020-05-22,Daily ICU occupancy,259.0,Belgium
+2020-05-23,Daily ICU occupancy,256.0,Belgium
+2020-05-24,Daily ICU occupancy,251.0,Belgium
+2020-05-25,Daily ICU occupancy,249.0,Belgium
+2020-05-26,Daily ICU occupancy,223.0,Belgium
+2020-05-27,Daily ICU occupancy,209.0,Belgium
+2020-05-28,Daily ICU occupancy,187.0,Belgium
+2020-05-29,Daily ICU occupancy,173.0,Belgium
+2020-05-30,Daily ICU occupancy,168.0,Belgium
+2020-05-31,Daily ICU occupancy,164.0,Belgium
+2020-06-01,Daily ICU occupancy,166.0,Belgium
+2020-06-02,Daily ICU occupancy,172.0,Belgium
+2020-06-03,Daily ICU occupancy,145.0,Belgium
+2020-06-04,Daily ICU occupancy,137.0,Belgium
+2020-06-05,Daily ICU occupancy,121.0,Belgium
+2020-06-06,Daily ICU occupancy,111.0,Belgium
+2020-06-07,Daily ICU occupancy,116.0,Belgium
+2020-06-08,Daily ICU occupancy,115.0,Belgium
+2020-06-09,Daily ICU occupancy,102.0,Belgium
+2020-06-10,Daily ICU occupancy,99.0,Belgium
+2020-06-11,Daily ICU occupancy,89.0,Belgium
+2020-06-12,Daily ICU occupancy,88.0,Belgium
+2020-06-13,Daily ICU occupancy,82.0,Belgium
+2020-06-14,Daily ICU occupancy,85.0,Belgium
+2020-06-15,Daily ICU occupancy,76.0,Belgium
+2020-06-16,Daily ICU occupancy,67.0,Belgium
+2020-06-17,Daily ICU occupancy,60.0,Belgium
+2020-06-18,Daily ICU occupancy,52.0,Belgium
+2020-06-19,Daily ICU occupancy,50.0,Belgium
+2020-06-20,Daily ICU occupancy,53.0,Belgium
+2020-06-21,Daily ICU occupancy,50.0,Belgium
+2020-06-22,Daily ICU occupancy,42.0,Belgium
+2020-06-23,Daily ICU occupancy,41.0,Belgium
+2020-06-24,Daily ICU occupancy,40.0,Belgium
+2020-06-25,Daily ICU occupancy,38.0,Belgium
+2020-06-26,Daily ICU occupancy,36.0,Belgium
+2020-06-27,Daily ICU occupancy,34.0,Belgium
+2020-06-28,Daily ICU occupancy,36.0,Belgium
+2020-06-29,Daily ICU occupancy,41.0,Belgium
+2020-06-30,Daily ICU occupancy,37.0,Belgium
+2020-07-01,Daily ICU occupancy,36.0,Belgium
+2020-07-02,Daily ICU occupancy,35.0,Belgium
+2020-07-03,Daily ICU occupancy,32.0,Belgium
+2020-07-04,Daily ICU occupancy,29.0,Belgium
+2020-07-05,Daily ICU occupancy,30.0,Belgium
+2020-07-06,Daily ICU occupancy,27.0,Belgium
+2020-07-07,Daily ICU occupancy,32.0,Belgium
+2020-07-08,Daily ICU occupancy,32.0,Belgium
+2020-07-09,Daily ICU occupancy,36.0,Belgium
+2020-07-10,Daily ICU occupancy,32.0,Belgium
+2020-07-11,Daily ICU occupancy,28.0,Belgium
+2020-07-12,Daily ICU occupancy,27.0,Belgium
+2020-07-13,Daily ICU occupancy,23.0,Belgium
+2020-07-14,Daily ICU occupancy,27.0,Belgium
+2020-07-15,Daily ICU occupancy,27.0,Belgium
+2020-07-16,Daily ICU occupancy,28.0,Belgium
+2020-07-17,Daily ICU occupancy,28.0,Belgium
+2020-07-18,Daily ICU occupancy,30.0,Belgium
+2020-07-19,Daily ICU occupancy,31.0,Belgium
+2020-07-20,Daily ICU occupancy,36.0,Belgium
+2020-07-21,Daily ICU occupancy,33.0,Belgium
+2020-07-22,Daily ICU occupancy,41.0,Belgium
+2020-07-23,Daily ICU occupancy,40.0,Belgium
+2020-07-24,Daily ICU occupancy,41.0,Belgium
+2020-07-25,Daily ICU occupancy,44.0,Belgium
+2020-07-26,Daily ICU occupancy,47.0,Belgium
+2020-07-27,Daily ICU occupancy,52.0,Belgium
+2020-07-28,Daily ICU occupancy,49.0,Belgium
+2020-07-29,Daily ICU occupancy,47.0,Belgium
+2020-07-30,Daily ICU occupancy,42.0,Belgium
+2020-07-31,Daily ICU occupancy,48.0,Belgium
+2020-08-01,Daily ICU occupancy,56.0,Belgium
+2020-08-02,Daily ICU occupancy,58.0,Belgium
+2020-08-03,Daily ICU occupancy,54.0,Belgium
+2020-08-04,Daily ICU occupancy,63.0,Belgium
+2020-08-05,Daily ICU occupancy,61.0,Belgium
+2020-08-06,Daily ICU occupancy,65.0,Belgium
+2020-08-07,Daily ICU occupancy,69.0,Belgium
+2020-08-08,Daily ICU occupancy,67.0,Belgium
+2020-08-09,Daily ICU occupancy,69.0,Belgium
+2020-08-10,Daily ICU occupancy,73.0,Belgium
+2020-08-11,Daily ICU occupancy,77.0,Belgium
+2020-08-12,Daily ICU occupancy,76.0,Belgium
+2020-08-13,Daily ICU occupancy,74.0,Belgium
+2020-08-14,Daily ICU occupancy,80.0,Belgium
+2020-08-15,Daily ICU occupancy,82.0,Belgium
+2020-08-16,Daily ICU occupancy,86.0,Belgium
+2020-08-17,Daily ICU occupancy,91.0,Belgium
+2020-08-18,Daily ICU occupancy,89.0,Belgium
+2020-08-19,Daily ICU occupancy,83.0,Belgium
+2020-08-20,Daily ICU occupancy,82.0,Belgium
+2020-08-21,Daily ICU occupancy,84.0,Belgium
+2020-08-22,Daily ICU occupancy,85.0,Belgium
+2020-08-23,Daily ICU occupancy,87.0,Belgium
+2020-08-24,Daily ICU occupancy,89.0,Belgium
+2020-08-25,Daily ICU occupancy,85.0,Belgium
+2020-08-26,Daily ICU occupancy,81.0,Belgium
+2020-08-27,Daily ICU occupancy,82.0,Belgium
+2020-08-28,Daily ICU occupancy,77.0,Belgium
+2020-08-29,Daily ICU occupancy,72.0,Belgium
+2020-08-30,Daily ICU occupancy,71.0,Belgium
+2020-08-31,Daily ICU occupancy,74.0,Belgium
+2020-09-01,Daily ICU occupancy,68.0,Belgium
+2020-09-02,Daily ICU occupancy,60.0,Belgium
+2020-09-03,Daily ICU occupancy,58.0,Belgium
+2020-09-04,Daily ICU occupancy,52.0,Belgium
+2020-09-05,Daily ICU occupancy,53.0,Belgium
+2020-09-06,Daily ICU occupancy,53.0,Belgium
+2020-09-07,Daily ICU occupancy,52.0,Belgium
+2020-09-08,Daily ICU occupancy,59.0,Belgium
+2020-09-09,Daily ICU occupancy,60.0,Belgium
+2020-09-10,Daily ICU occupancy,65.0,Belgium
+2020-09-11,Daily ICU occupancy,67.0,Belgium
+2020-09-12,Daily ICU occupancy,68.0,Belgium
+2020-09-13,Daily ICU occupancy,71.0,Belgium
+2020-09-14,Daily ICU occupancy,72.0,Belgium
+2020-09-15,Daily ICU occupancy,67.0,Belgium
+2020-09-16,Daily ICU occupancy,74.0,Belgium
+2020-09-17,Daily ICU occupancy,69.0,Belgium
+2020-09-18,Daily ICU occupancy,78.0,Belgium
+2020-09-19,Daily ICU occupancy,78.0,Belgium
+2020-09-20,Daily ICU occupancy,77.0,Belgium
+2020-09-21,Daily ICU occupancy,87.0,Belgium
+2020-09-22,Daily ICU occupancy,94.0,Belgium
+2020-09-23,Daily ICU occupancy,95.0,Belgium
+2020-09-24,Daily ICU occupancy,104.0,Belgium
+2020-09-25,Daily ICU occupancy,110.0,Belgium
+2020-09-26,Daily ICU occupancy,120.0,Belgium
+2020-09-27,Daily ICU occupancy,135.0,Belgium
+2020-09-28,Daily ICU occupancy,140.0,Belgium
+2020-09-29,Daily ICU occupancy,150.0,Belgium
+2020-09-30,Daily ICU occupancy,157.0,Belgium
+2020-10-01,Daily ICU occupancy,156.0,Belgium
+2020-10-02,Daily ICU occupancy,163.0,Belgium
+2020-10-03,Daily ICU occupancy,185.0,Belgium
+2020-10-04,Daily ICU occupancy,186.0,Belgium
+2020-10-05,Daily ICU occupancy,195.0,Belgium
+2020-10-06,Daily ICU occupancy,189.0,Belgium
+2020-10-07,Daily ICU occupancy,201.0,Belgium
+2020-10-08,Daily ICU occupancy,213.0,Belgium
+2020-10-09,Daily ICU occupancy,214.0,Belgium
+2020-10-10,Daily ICU occupancy,228.0,Belgium
+2020-10-11,Daily ICU occupancy,245.0,Belgium
+2020-10-12,Daily ICU occupancy,268.0,Belgium
+2020-10-13,Daily ICU occupancy,281.0,Belgium
+2020-10-14,Daily ICU occupancy,313.0,Belgium
+2020-10-15,Daily ICU occupancy,327.0,Belgium
+2020-10-16,Daily ICU occupancy,358.0,Belgium
+2020-10-17,Daily ICU occupancy,384.0,Belgium
+2020-10-18,Daily ICU occupancy,412.0,Belgium
+2020-10-19,Daily ICU occupancy,446.0,Belgium
+2020-10-20,Daily ICU occupancy,487.0,Belgium
+2020-10-21,Daily ICU occupancy,525.0,Belgium
+2020-10-22,Daily ICU occupancy,573.0,Belgium
+2020-10-23,Daily ICU occupancy,633.0,Belgium
+2020-10-24,Daily ICU occupancy,694.0,Belgium
+2020-10-25,Daily ICU occupancy,756.0,Belgium
+2020-10-26,Daily ICU occupancy,812.0,Belgium
+2020-10-27,Daily ICU occupancy,912.0,Belgium
+2020-10-28,Daily ICU occupancy,994.0,Belgium
+2020-10-29,Daily ICU occupancy,1057.0,Belgium
+2020-10-30,Daily ICU occupancy,1105.0,Belgium
+2020-10-31,Daily ICU occupancy,1161.0,Belgium
+2020-11-01,Daily ICU occupancy,1223.0,Belgium
+2020-11-02,Daily ICU occupancy,1302.0,Belgium
+2020-11-03,Daily ICU occupancy,1353.0,Belgium
+2020-11-04,Daily ICU occupancy,1412.0,Belgium
+2020-11-05,Daily ICU occupancy,1428.0,Belgium
+2020-11-06,Daily ICU occupancy,1459.0,Belgium
+2020-11-07,Daily ICU occupancy,1464.0,Belgium
+2020-11-08,Daily ICU occupancy,1470.0,Belgium
+2020-11-09,Daily ICU occupancy,1474.0,Belgium
+2020-11-10,Daily ICU occupancy,1470.0,Belgium
+2020-11-11,Daily ICU occupancy,1463.0,Belgium
+2020-11-12,Daily ICU occupancy,1456.0,Belgium
+2020-11-13,Daily ICU occupancy,1457.0,Belgium
+2020-11-14,Daily ICU occupancy,1423.0,Belgium
+2020-11-15,Daily ICU occupancy,1439.0,Belgium
+2020-11-16,Daily ICU occupancy,1408.0,Belgium
+2020-11-17,Daily ICU occupancy,1356.0,Belgium
+2020-11-18,Daily ICU occupancy,1323.0,Belgium
+2020-11-19,Daily ICU occupancy,1286.0,Belgium
+2020-11-20,Daily ICU occupancy,1256.0,Belgium
+2020-11-21,Daily ICU occupancy,1201.0,Belgium
+2020-11-22,Daily ICU occupancy,1194.0,Belgium
+2020-11-23,Daily ICU occupancy,1168.0,Belgium
+2020-11-24,Daily ICU occupancy,1105.0,Belgium
+2020-11-25,Daily ICU occupancy,1071.0,Belgium
+2020-11-26,Daily ICU occupancy,1034.0,Belgium
+2020-11-27,Daily ICU occupancy,997.0,Belgium
+2020-11-28,Daily ICU occupancy,946.0,Belgium
+2020-11-29,Daily ICU occupancy,904.0,Belgium
+2020-11-30,Daily ICU occupancy,900.0,Belgium
+2020-12-01,Daily ICU occupancy,854.0,Belgium
+2020-12-02,Daily ICU occupancy,829.0,Belgium
+2020-12-03,Daily ICU occupancy,786.0,Belgium
+2020-12-04,Daily ICU occupancy,789.0,Belgium
+2020-12-05,Daily ICU occupancy,753.0,Belgium
+2020-12-06,Daily ICU occupancy,744.0,Belgium
+2020-12-07,Daily ICU occupancy,724.0,Belgium
+2020-12-08,Daily ICU occupancy,677.0,Belgium
+2020-12-09,Daily ICU occupancy,662.0,Belgium
+2020-12-10,Daily ICU occupancy,658.0,Belgium
+2020-12-11,Daily ICU occupancy,646.0,Belgium
+2020-12-12,Daily ICU occupancy,627.0,Belgium
+2020-12-13,Daily ICU occupancy,617.0,Belgium
+2020-12-14,Daily ICU occupancy,615.0,Belgium
+2020-12-15,Daily ICU occupancy,594.0,Belgium
+2020-12-16,Daily ICU occupancy,571.0,Belgium
+2020-12-17,Daily ICU occupancy,562.0,Belgium
+2020-12-18,Daily ICU occupancy,547.0,Belgium
+2020-12-19,Daily ICU occupancy,541.0,Belgium
+2020-12-20,Daily ICU occupancy,543.0,Belgium
+2020-12-21,Daily ICU occupancy,546.0,Belgium
+2020-12-22,Daily ICU occupancy,536.0,Belgium
+2020-12-23,Daily ICU occupancy,512.0,Belgium
+2020-12-24,Daily ICU occupancy,514.0,Belgium
+2020-12-25,Daily ICU occupancy,511.0,Belgium
+2020-12-26,Daily ICU occupancy,493.0,Belgium
+2020-12-27,Daily ICU occupancy,491.0,Belgium
+2020-12-28,Daily ICU occupancy,510.0,Belgium
+2020-12-29,Daily ICU occupancy,498.0,Belgium
+2020-12-30,Daily ICU occupancy,496.0,Belgium
+2020-12-31,Daily ICU occupancy,494.0,Belgium
+2021-01-01,Daily ICU occupancy,489.0,Belgium
+2021-01-02,Daily ICU occupancy,481.0,Belgium
+2021-01-03,Daily ICU occupancy,468.0,Belgium
+2021-01-04,Daily ICU occupancy,464.0,Belgium
+2021-01-05,Daily ICU occupancy,430.0,Belgium
+2021-01-06,Daily ICU occupancy,404.0,Belgium
+2021-01-07,Daily ICU occupancy,381.0,Belgium
+2021-01-08,Daily ICU occupancy,377.0,Belgium
+2021-01-09,Daily ICU occupancy,379.0,Belgium
+2021-01-10,Daily ICU occupancy,371.0,Belgium
+2021-01-11,Daily ICU occupancy,378.0,Belgium
+2021-01-12,Daily ICU occupancy,356.0,Belgium
+2021-01-13,Daily ICU occupancy,360.0,Belgium
+2021-01-14,Daily ICU occupancy,346.0,Belgium
+2021-01-15,Daily ICU occupancy,345.0,Belgium
+2021-01-16,Daily ICU occupancy,352.0,Belgium
+2021-01-17,Daily ICU occupancy,367.0,Belgium
+2021-01-18,Daily ICU occupancy,369.0,Belgium
+2021-01-19,Daily ICU occupancy,361.0,Belgium
+2021-01-20,Daily ICU occupancy,337.0,Belgium
+2021-01-21,Daily ICU occupancy,338.0,Belgium
+2021-01-22,Daily ICU occupancy,338.0,Belgium
+2021-01-23,Daily ICU occupancy,327.0,Belgium
+2021-01-24,Daily ICU occupancy,322.0,Belgium
+2021-01-25,Daily ICU occupancy,325.0,Belgium
+2021-01-26,Daily ICU occupancy,322.0,Belgium
+2021-01-27,Daily ICU occupancy,313.0,Belgium
+2021-01-28,Daily ICU occupancy,323.0,Belgium
+2021-01-29,Daily ICU occupancy,315.0,Belgium
+2021-01-30,Daily ICU occupancy,315.0,Belgium
+2021-01-31,Daily ICU occupancy,315.0,Belgium
+2021-02-01,Daily ICU occupancy,325.0,Belgium
+2021-02-02,Daily ICU occupancy,311.0,Belgium
+2021-02-03,Daily ICU occupancy,310.0,Belgium
+2021-02-04,Daily ICU occupancy,306.0,Belgium
+2021-02-05,Daily ICU occupancy,304.0,Belgium
+2021-02-06,Daily ICU occupancy,292.0,Belgium
+2021-02-07,Daily ICU occupancy,300.0,Belgium
+2021-02-08,Daily ICU occupancy,302.0,Belgium
+2021-02-09,Daily ICU occupancy,308.0,Belgium
+2021-02-10,Daily ICU occupancy,303.0,Belgium
+2021-02-11,Daily ICU occupancy,294.0,Belgium
+2021-02-12,Daily ICU occupancy,295.0,Belgium
+2021-02-13,Daily ICU occupancy,298.0,Belgium
+2021-02-14,Daily ICU occupancy,307.0,Belgium
+2021-02-15,Daily ICU occupancy,319.0,Belgium
+2021-02-16,Daily ICU occupancy,311.0,Belgium
+2021-02-17,Daily ICU occupancy,315.0,Belgium
+2021-02-18,Daily ICU occupancy,314.0,Belgium
+2021-02-19,Daily ICU occupancy,314.0,Belgium
+2021-02-20,Daily ICU occupancy,316.0,Belgium
+2021-02-21,Daily ICU occupancy,329.0,Belgium
+2021-02-22,Daily ICU occupancy,348.0,Belgium
+2021-02-23,Daily ICU occupancy,353.0,Belgium
+2021-02-24,Daily ICU occupancy,362.0,Belgium
+2021-02-25,Daily ICU occupancy,369.0,Belgium
+2021-02-26,Daily ICU occupancy,393.0,Belgium
+2021-02-27,Daily ICU occupancy,397.0,Belgium
+2021-02-28,Daily ICU occupancy,407.0,Belgium
+2021-03-01,Daily ICU occupancy,413.0,Belgium
+2021-03-02,Daily ICU occupancy,426.0,Belgium
+2021-03-03,Daily ICU occupancy,434.0,Belgium
+2021-03-04,Daily ICU occupancy,426.0,Belgium
+2021-03-05,Daily ICU occupancy,433.0,Belgium
+2021-03-06,Daily ICU occupancy,416.0,Belgium
+2021-03-07,Daily ICU occupancy,425.0,Belgium
+2021-03-08,Daily ICU occupancy,436.0,Belgium
+2021-03-09,Daily ICU occupancy,441.0,Belgium
+2021-03-10,Daily ICU occupancy,452.0,Belgium
+2021-03-11,Daily ICU occupancy,448.0,Belgium
+2021-03-12,Daily ICU occupancy,468.0,Belgium
+2021-03-13,Daily ICU occupancy,474.0,Belgium
+2021-03-14,Daily ICU occupancy,485.0,Belgium
+2021-03-15,Daily ICU occupancy,503.0,Belgium
+2021-03-16,Daily ICU occupancy,522.0,Belgium
+2021-03-17,Daily ICU occupancy,534.0,Belgium
+2021-03-18,Daily ICU occupancy,543.0,Belgium
+2021-03-19,Daily ICU occupancy,550.0,Belgium
+2021-03-20,Daily ICU occupancy,557.0,Belgium
+2021-03-21,Daily ICU occupancy,569.0,Belgium
+2021-03-22,Daily ICU occupancy,589.0,Belgium
+2021-03-23,Daily ICU occupancy,601.0,Belgium
+2021-03-24,Daily ICU occupancy,636.0,Belgium
+2021-03-25,Daily ICU occupancy,652.0,Belgium
+2021-03-26,Daily ICU occupancy,667.0,Belgium
+2021-03-27,Daily ICU occupancy,701.0,Belgium
+2021-03-28,Daily ICU occupancy,712.0,Belgium
+2021-03-29,Daily ICU occupancy,740.0,Belgium
+2021-03-30,Daily ICU occupancy,737.0,Belgium
+2021-03-31,Daily ICU occupancy,756.0,Belgium
+2021-04-01,Daily ICU occupancy,790.0,Belgium
+2021-04-02,Daily ICU occupancy,801.0,Belgium
+2021-04-03,Daily ICU occupancy,821.0,Belgium
+2021-04-04,Daily ICU occupancy,831.0,Belgium
+2021-04-05,Daily ICU occupancy,866.0,Belgium
+2021-04-06,Daily ICU occupancy,892.0,Belgium
+2021-04-07,Daily ICU occupancy,909.0,Belgium
+2021-04-08,Daily ICU occupancy,911.0,Belgium
+2021-04-09,Daily ICU occupancy,925.0,Belgium
+2021-04-10,Daily ICU occupancy,905.0,Belgium
+2021-04-11,Daily ICU occupancy,899.0,Belgium
+2021-04-12,Daily ICU occupancy,919.0,Belgium
+2021-04-13,Daily ICU occupancy,947.0,Belgium
+2021-04-14,Daily ICU occupancy,941.0,Belgium
+2021-04-15,Daily ICU occupancy,930.0,Belgium
+2021-04-16,Daily ICU occupancy,923.0,Belgium
+2021-04-17,Daily ICU occupancy,923.0,Belgium
+2021-04-18,Daily ICU occupancy,931.0,Belgium
+2021-04-19,Daily ICU occupancy,946.0,Belgium
+2021-04-20,Daily ICU occupancy,926.0,Belgium
+2021-04-21,Daily ICU occupancy,935.0,Belgium
+2021-04-22,Daily ICU occupancy,910.0,Belgium
+2021-04-23,Daily ICU occupancy,901.0,Belgium
+2021-04-24,Daily ICU occupancy,886.0,Belgium
+2021-04-25,Daily ICU occupancy,886.0,Belgium
+2021-04-26,Daily ICU occupancy,892.0,Belgium
+2021-04-27,Daily ICU occupancy,892.0,Belgium
+2021-04-28,Daily ICU occupancy,888.0,Belgium
+2021-04-29,Daily ICU occupancy,864.0,Belgium
+2021-04-30,Daily ICU occupancy,855.0,Belgium
+2021-05-01,Daily ICU occupancy,824.0,Belgium
+2021-05-02,Daily ICU occupancy,825.0,Belgium
+2021-05-03,Daily ICU occupancy,831.0,Belgium
+2021-05-04,Daily ICU occupancy,795.0,Belgium
+2021-05-05,Daily ICU occupancy,757.0,Belgium
+2021-05-06,Daily ICU occupancy,744.0,Belgium
+2021-05-07,Daily ICU occupancy,727.0,Belgium
+2021-05-08,Daily ICU occupancy,707.0,Belgium
+2021-05-09,Daily ICU occupancy,702.0,Belgium
+2021-05-10,Daily ICU occupancy,710.0,Belgium
+2021-05-11,Daily ICU occupancy,686.0,Belgium
+2021-05-12,Daily ICU occupancy,660.0,Belgium
+2021-05-13,Daily ICU occupancy,644.0,Belgium
+2021-05-14,Daily ICU occupancy,643.0,Belgium
+2021-05-15,Daily ICU occupancy,621.0,Belgium
+2021-05-16,Daily ICU occupancy,619.0,Belgium
+2021-05-17,Daily ICU occupancy,613.0,Belgium
+2021-05-18,Daily ICU occupancy,595.0,Belgium
+2021-05-19,Daily ICU occupancy,589.0,Belgium
+2021-05-20,Daily ICU occupancy,562.0,Belgium
+2021-05-21,Daily ICU occupancy,540.0,Belgium
+2021-05-22,Daily ICU occupancy,544.0,Belgium
+2021-05-23,Daily ICU occupancy,542.0,Belgium
+2021-05-24,Daily ICU occupancy,542.0,Belgium
+2021-05-25,Daily ICU occupancy,531.0,Belgium
+2021-05-26,Daily ICU occupancy,508.0,Belgium
+2021-05-27,Daily ICU occupancy,491.0,Belgium
+2021-05-28,Daily ICU occupancy,469.0,Belgium
+2021-05-29,Daily ICU occupancy,451.0,Belgium
+2021-05-30,Daily ICU occupancy,442.0,Belgium
+2021-05-31,Daily ICU occupancy,439.0,Belgium
+2021-06-01,Daily ICU occupancy,404.0,Belgium
+2021-06-02,Daily ICU occupancy,378.0,Belgium
+2021-06-03,Daily ICU occupancy,365.0,Belgium
+2021-06-04,Daily ICU occupancy,342.0,Belgium
+2021-06-05,Daily ICU occupancy,337.0,Belgium
+2021-06-06,Daily ICU occupancy,331.0,Belgium
+2021-06-07,Daily ICU occupancy,336.0,Belgium
+2021-06-08,Daily ICU occupancy,319.0,Belgium
+2021-06-09,Daily ICU occupancy,309.0,Belgium
+2021-06-10,Daily ICU occupancy,302.0,Belgium
+2021-06-11,Daily ICU occupancy,300.0,Belgium
+2021-06-12,Daily ICU occupancy,285.0,Belgium
+2021-06-13,Daily ICU occupancy,274.0,Belgium
+2021-06-14,Daily ICU occupancy,276.0,Belgium
+2021-06-15,Daily ICU occupancy,256.0,Belgium
+2021-06-16,Daily ICU occupancy,247.0,Belgium
+2021-06-17,Daily ICU occupancy,234.0,Belgium
+2021-06-18,Daily ICU occupancy,212.0,Belgium
+2021-06-19,Daily ICU occupancy,203.0,Belgium
+2021-06-20,Daily ICU occupancy,204.0,Belgium
+2021-06-21,Daily ICU occupancy,206.0,Belgium
+2021-06-22,Daily ICU occupancy,184.0,Belgium
+2021-06-23,Daily ICU occupancy,183.0,Belgium
+2021-06-24,Daily ICU occupancy,175.0,Belgium
+2021-06-25,Daily ICU occupancy,157.0,Belgium
+2021-06-26,Daily ICU occupancy,149.0,Belgium
+2021-06-27,Daily ICU occupancy,150.0,Belgium
+2021-06-28,Daily ICU occupancy,147.0,Belgium
+2021-06-29,Daily ICU occupancy,143.0,Belgium
+2021-06-30,Daily ICU occupancy,134.0,Belgium
+2021-07-01,Daily ICU occupancy,126.0,Belgium
+2021-07-02,Daily ICU occupancy,123.0,Belgium
+2021-07-03,Daily ICU occupancy,115.0,Belgium
+2021-07-04,Daily ICU occupancy,113.0,Belgium
+2021-07-05,Daily ICU occupancy,112.0,Belgium
+2021-07-06,Daily ICU occupancy,101.0,Belgium
+2021-07-07,Daily ICU occupancy,99.0,Belgium
+2021-07-08,Daily ICU occupancy,96.0,Belgium
+2021-07-09,Daily ICU occupancy,93.0,Belgium
+2021-07-10,Daily ICU occupancy,87.0,Belgium
+2021-07-11,Daily ICU occupancy,83.0,Belgium
+2021-07-12,Daily ICU occupancy,89.0,Belgium
+2021-07-13,Daily ICU occupancy,90.0,Belgium
+2021-07-14,Daily ICU occupancy,82.0,Belgium
+2021-07-15,Daily ICU occupancy,86.0,Belgium
+2021-07-16,Daily ICU occupancy,81.0,Belgium
+2021-07-17,Daily ICU occupancy,81.0,Belgium
+2021-07-18,Daily ICU occupancy,88.0,Belgium
+2021-07-19,Daily ICU occupancy,84.0,Belgium
+2021-07-20,Daily ICU occupancy,87.0,Belgium
+2021-07-21,Daily ICU occupancy,85.0,Belgium
+2021-07-22,Daily ICU occupancy,83.0,Belgium
+2021-07-23,Daily ICU occupancy,84.0,Belgium
+2021-07-24,Daily ICU occupancy,89.0,Belgium
+2021-07-25,Daily ICU occupancy,94.0,Belgium
+2021-07-26,Daily ICU occupancy,97.0,Belgium
+2021-07-27,Daily ICU occupancy,94.0,Belgium
+2021-07-28,Daily ICU occupancy,96.0,Belgium
+2021-07-29,Daily ICU occupancy,93.0,Belgium
+2021-07-30,Daily ICU occupancy,96.0,Belgium
+2021-07-31,Daily ICU occupancy,93.0,Belgium
+2021-08-01,Daily ICU occupancy,95.0,Belgium
+2021-08-02,Daily ICU occupancy,97.0,Belgium
+2021-08-03,Daily ICU occupancy,94.0,Belgium
+2021-08-04,Daily ICU occupancy,92.0,Belgium
+2021-08-05,Daily ICU occupancy,94.0,Belgium
+2021-08-06,Daily ICU occupancy,98.0,Belgium
+2021-08-07,Daily ICU occupancy,102.0,Belgium
+2021-08-08,Daily ICU occupancy,106.0,Belgium
+2021-08-09,Daily ICU occupancy,120.0,Belgium
+2021-08-10,Daily ICU occupancy,120.0,Belgium
+2021-08-11,Daily ICU occupancy,124.0,Belgium
+2021-08-12,Daily ICU occupancy,132.0,Belgium
+2021-08-13,Daily ICU occupancy,136.0,Belgium
+2021-08-14,Daily ICU occupancy,142.0,Belgium
+2021-08-15,Daily ICU occupancy,147.0,Belgium
+2021-08-16,Daily ICU occupancy,158.0,Belgium
+2021-08-17,Daily ICU occupancy,162.0,Belgium
+2021-08-18,Daily ICU occupancy,172.0,Belgium
+2021-08-19,Daily ICU occupancy,178.0,Belgium
+2021-08-20,Daily ICU occupancy,179.0,Belgium
+2021-08-21,Daily ICU occupancy,178.0,Belgium
+2021-08-22,Daily ICU occupancy,176.0,Belgium
+2021-08-23,Daily ICU occupancy,173.0,Belgium
+2021-08-24,Daily ICU occupancy,171.0,Belgium
+2021-08-25,Daily ICU occupancy,176.0,Belgium
+2021-08-26,Daily ICU occupancy,182.0,Belgium
+2021-08-27,Daily ICU occupancy,185.0,Belgium
+2021-08-28,Daily ICU occupancy,194.0,Belgium
+2021-08-29,Daily ICU occupancy,191.0,Belgium
+2021-08-30,Daily ICU occupancy,201.0,Belgium
+2021-08-31,Daily ICU occupancy,192.0,Belgium
+2021-09-01,Daily ICU occupancy,193.0,Belgium
+2021-09-02,Daily ICU occupancy,195.0,Belgium
+2021-09-03,Daily ICU occupancy,200.0,Belgium
+2021-09-04,Daily ICU occupancy,218.0,Belgium
+2021-09-05,Daily ICU occupancy,229.0,Belgium
+2021-09-06,Daily ICU occupancy,237.0,Belgium
+2021-09-07,Daily ICU occupancy,226.0,Belgium
+2021-09-08,Daily ICU occupancy,220.0,Belgium
+2021-09-09,Daily ICU occupancy,217.0,Belgium
+2021-09-10,Daily ICU occupancy,228.0,Belgium
+2021-09-11,Daily ICU occupancy,219.0,Belgium
+2021-09-12,Daily ICU occupancy,218.0,Belgium
+2021-09-13,Daily ICU occupancy,224.0,Belgium
+2021-09-14,Daily ICU occupancy,219.0,Belgium
+2021-09-15,Daily ICU occupancy,215.0,Belgium
+2021-09-16,Daily ICU occupancy,220.0,Belgium
+2021-09-17,Daily ICU occupancy,213.0,Belgium
+2021-09-18,Daily ICU occupancy,213.0,Belgium
+2021-09-19,Daily ICU occupancy,215.0,Belgium
+2021-09-20,Daily ICU occupancy,222.0,Belgium
+2021-09-21,Daily ICU occupancy,214.0,Belgium
+2021-09-22,Daily ICU occupancy,217.0,Belgium
+2021-09-23,Daily ICU occupancy,216.0,Belgium
+2021-09-24,Daily ICU occupancy,209.0,Belgium
+2021-09-25,Daily ICU occupancy,196.0,Belgium
+2021-09-26,Daily ICU occupancy,202.0,Belgium
+2021-09-27,Daily ICU occupancy,206.0,Belgium
+2021-09-28,Daily ICU occupancy,207.0,Belgium
+2021-09-29,Daily ICU occupancy,217.0,Belgium
+2021-09-30,Daily ICU occupancy,213.0,Belgium
+2021-10-01,Daily ICU occupancy,204.0,Belgium
+2021-10-02,Daily ICU occupancy,203.0,Belgium
+2021-10-03,Daily ICU occupancy,197.0,Belgium
+2021-10-04,Daily ICU occupancy,211.0,Belgium
+2021-10-05,Daily ICU occupancy,210.0,Belgium
+2021-10-06,Daily ICU occupancy,209.0,Belgium
+2021-10-07,Daily ICU occupancy,195.0,Belgium
+2021-10-08,Daily ICU occupancy,204.0,Belgium
+2021-10-09,Daily ICU occupancy,196.0,Belgium
+2021-10-10,Daily ICU occupancy,193.0,Belgium
+2021-10-11,Daily ICU occupancy,197.0,Belgium
+2021-10-12,Daily ICU occupancy,201.0,Belgium
+2021-10-13,Daily ICU occupancy,201.0,Belgium
+2021-10-14,Daily ICU occupancy,193.0,Belgium
+2021-10-15,Daily ICU occupancy,190.0,Belgium
+2021-10-16,Daily ICU occupancy,202.0,Belgium
+2021-10-17,Daily ICU occupancy,209.0,Belgium
+2021-10-18,Daily ICU occupancy,232.0,Belgium
+2021-10-19,Daily ICU occupancy,230.0,Belgium
+2021-10-20,Daily ICU occupancy,240.0,Belgium
+2021-10-21,Daily ICU occupancy,232.0,Belgium
+2021-10-22,Daily ICU occupancy,251.0,Belgium
+2021-10-23,Daily ICU occupancy,246.0,Belgium
+2021-10-24,Daily ICU occupancy,256.0,Belgium
+2021-10-25,Daily ICU occupancy,264.0,Belgium
+2021-10-26,Daily ICU occupancy,260.0,Belgium
+2021-10-27,Daily ICU occupancy,256.0,Belgium
+2021-10-28,Daily ICU occupancy,257.0,Belgium
+2021-10-29,Daily ICU occupancy,277.0,Belgium
+2021-10-30,Daily ICU occupancy,298.0,Belgium
+2021-10-31,Daily ICU occupancy,305.0,Belgium
+2021-11-01,Daily ICU occupancy,324.0,Belgium
+2021-11-02,Daily ICU occupancy,337.0,Belgium
+2021-11-03,Daily ICU occupancy,343.0,Belgium
+2021-11-04,Daily ICU occupancy,363.0,Belgium
+2021-11-05,Daily ICU occupancy,384.0,Belgium
+2021-11-06,Daily ICU occupancy,379.0,Belgium
+2021-11-07,Daily ICU occupancy,391.0,Belgium
+2021-11-08,Daily ICU occupancy,418.0,Belgium
+2021-11-09,Daily ICU occupancy,434.0,Belgium
+2021-11-10,Daily ICU occupancy,451.0,Belgium
+2021-11-11,Daily ICU occupancy,471.0,Belgium
+2021-11-12,Daily ICU occupancy,487.0,Belgium
+2021-11-13,Daily ICU occupancy,489.0,Belgium
+2021-11-14,Daily ICU occupancy,507.0,Belgium
+2021-11-15,Daily ICU occupancy,540.0,Belgium
+2021-11-16,Daily ICU occupancy,557.0,Belgium
+2021-11-17,Daily ICU occupancy,568.0,Belgium
+2021-11-18,Daily ICU occupancy,577.0,Belgium
+2021-11-19,Daily ICU occupancy,603.0,Belgium
+2021-11-20,Daily ICU occupancy,618.0,Belgium
+2021-11-21,Daily ICU occupancy,632.0,Belgium
+2021-11-22,Daily ICU occupancy,654.0,Belgium
+2021-11-23,Daily ICU occupancy,657.0,Belgium
+2021-11-24,Daily ICU occupancy,659.0,Belgium
+2021-11-25,Daily ICU occupancy,669.0,Belgium
+2021-11-26,Daily ICU occupancy,682.0,Belgium
+2021-11-27,Daily ICU occupancy,696.0,Belgium
+2021-11-28,Daily ICU occupancy,722.0,Belgium
+2021-11-29,Daily ICU occupancy,760.0,Belgium
+2021-11-30,Daily ICU occupancy,780.0,Belgium
+2021-12-01,Daily ICU occupancy,793.0,Belgium
+2021-12-02,Daily ICU occupancy,821.0,Belgium
+2021-12-03,Daily ICU occupancy,804.0,Belgium
+2021-12-04,Daily ICU occupancy,804.0,Belgium
+2021-12-05,Daily ICU occupancy,809.0,Belgium
+2021-12-06,Daily ICU occupancy,817.0,Belgium
+2021-12-07,Daily ICU occupancy,815.0,Belgium
+2021-12-08,Daily ICU occupancy,825.0,Belgium
+2021-12-09,Daily ICU occupancy,827.0,Belgium
+2021-12-10,Daily ICU occupancy,838.0,Belgium
+2021-12-11,Daily ICU occupancy,839.0,Belgium
+2021-12-12,Daily ICU occupancy,827.0,Belgium
+2021-12-13,Daily ICU occupancy,838.0,Belgium
+2021-12-14,Daily ICU occupancy,815.0,Belgium
+2021-12-15,Daily ICU occupancy,804.0,Belgium
+2021-12-16,Daily ICU occupancy,789.0,Belgium
+2021-12-17,Daily ICU occupancy,761.0,Belgium
+2021-12-18,Daily ICU occupancy,766.0,Belgium
+2021-12-19,Daily ICU occupancy,743.0,Belgium
+2021-12-20,Daily ICU occupancy,730.0,Belgium
+2021-12-21,Daily ICU occupancy,709.0,Belgium
+2021-12-22,Daily ICU occupancy,692.0,Belgium
+2021-12-23,Daily ICU occupancy,660.0,Belgium
+2021-12-24,Daily ICU occupancy,651.0,Belgium
+2021-12-25,Daily ICU occupancy,640.0,Belgium
+2021-12-26,Daily ICU occupancy,629.0,Belgium
+2021-12-27,Daily ICU occupancy,613.0,Belgium
+2021-12-28,Daily ICU occupancy,580.0,Belgium
+2021-12-29,Daily ICU occupancy,564.0,Belgium
+2021-12-30,Daily ICU occupancy,537.0,Belgium
+2021-12-31,Daily ICU occupancy,532.0,Belgium
+2022-01-01,Daily ICU occupancy,513.0,Belgium
+2022-01-02,Daily ICU occupancy,508.0,Belgium
+2022-01-03,Daily ICU occupancy,520.0,Belgium
+2022-01-04,Daily ICU occupancy,503.0,Belgium
+2022-01-05,Daily ICU occupancy,471.0,Belgium
+2022-01-06,Daily ICU occupancy,473.0,Belgium
+2022-01-07,Daily ICU occupancy,464.0,Belgium
+2022-01-08,Daily ICU occupancy,438.0,Belgium
+2022-01-09,Daily ICU occupancy,442.0,Belgium
+2022-01-10,Daily ICU occupancy,439.0,Belgium
+2022-01-11,Daily ICU occupancy,450.0,Belgium
+2022-01-12,Daily ICU occupancy,423.0,Belgium
+2022-01-13,Daily ICU occupancy,406.0,Belgium
+2022-01-14,Daily ICU occupancy,404.0,Belgium
+2022-01-15,Daily ICU occupancy,393.0,Belgium
+2022-01-16,Daily ICU occupancy,391.0,Belgium
+2022-01-17,Daily ICU occupancy,396.0,Belgium
+2022-01-18,Daily ICU occupancy,389.0,Belgium
+2022-01-19,Daily ICU occupancy,388.0,Belgium
+2022-01-20,Daily ICU occupancy,367.0,Belgium
+2022-01-21,Daily ICU occupancy,364.0,Belgium
+2022-01-22,Daily ICU occupancy,359.0,Belgium
+2022-01-23,Daily ICU occupancy,361.0,Belgium
+2022-01-24,Daily ICU occupancy,371.0,Belgium
+2022-01-25,Daily ICU occupancy,366.0,Belgium
+2022-01-26,Daily ICU occupancy,353.0,Belgium
+2022-01-27,Daily ICU occupancy,359.0,Belgium
+2022-01-28,Daily ICU occupancy,367.0,Belgium
+2022-01-29,Daily ICU occupancy,376.0,Belgium
+2022-01-30,Daily ICU occupancy,387.0,Belgium
+2022-01-31,Daily ICU occupancy,406.0,Belgium
+2022-02-01,Daily ICU occupancy,419.0,Belgium
+2022-02-02,Daily ICU occupancy,432.0,Belgium
+2022-02-03,Daily ICU occupancy,431.0,Belgium
+2022-02-04,Daily ICU occupancy,428.0,Belgium
+2022-02-05,Daily ICU occupancy,415.0,Belgium
+2022-02-06,Daily ICU occupancy,429.0,Belgium
+2022-02-07,Daily ICU occupancy,440.0,Belgium
+2022-02-08,Daily ICU occupancy,433.0,Belgium
+2022-02-09,Daily ICU occupancy,430.0,Belgium
+2022-02-10,Daily ICU occupancy,403.0,Belgium
+2022-02-11,Daily ICU occupancy,397.0,Belgium
+2022-02-12,Daily ICU occupancy,381.0,Belgium
+2022-02-13,Daily ICU occupancy,371.0,Belgium
+2022-02-14,Daily ICU occupancy,380.0,Belgium
+2022-02-15,Daily ICU occupancy,364.0,Belgium
+2022-02-16,Daily ICU occupancy,352.0,Belgium
+2022-02-17,Daily ICU occupancy,350.0,Belgium
+2022-02-18,Daily ICU occupancy,338.0,Belgium
+2022-02-19,Daily ICU occupancy,330.0,Belgium
+2022-02-20,Daily ICU occupancy,315.0,Belgium
+2022-02-21,Daily ICU occupancy,315.0,Belgium
+2022-02-22,Daily ICU occupancy,285.0,Belgium
+2022-02-23,Daily ICU occupancy,289.0,Belgium
+2022-02-24,Daily ICU occupancy,269.0,Belgium
+2022-02-25,Daily ICU occupancy,250.0,Belgium
+2022-02-26,Daily ICU occupancy,231.0,Belgium
+2022-02-27,Daily ICU occupancy,241.0,Belgium
+2022-02-28,Daily ICU occupancy,240.0,Belgium
+2022-03-01,Daily ICU occupancy,224.0,Belgium
+2022-03-02,Daily ICU occupancy,214.0,Belgium
+2022-03-03,Daily ICU occupancy,227.0,Belgium
+2022-03-04,Daily ICU occupancy,217.0,Belgium
+2022-03-05,Daily ICU occupancy,212.0,Belgium
+2022-03-06,Daily ICU occupancy,208.0,Belgium
+2022-03-07,Daily ICU occupancy,206.0,Belgium
+2022-03-08,Daily ICU occupancy,197.0,Belgium
+2022-03-09,Daily ICU occupancy,192.0,Belgium
+2022-03-10,Daily ICU occupancy,185.0,Belgium
+2022-03-11,Daily ICU occupancy,178.0,Belgium
+2022-03-12,Daily ICU occupancy,178.0,Belgium
+2022-03-13,Daily ICU occupancy,175.0,Belgium
+2022-03-14,Daily ICU occupancy,178.0,Belgium
+2022-03-15,Daily ICU occupancy,181.0,Belgium
+2022-03-16,Daily ICU occupancy,177.0,Belgium
+2022-03-17,Daily ICU occupancy,173.0,Belgium
+2022-03-18,Daily ICU occupancy,171.0,Belgium
+2022-03-19,Daily ICU occupancy,170.0,Belgium
+2022-03-20,Daily ICU occupancy,176.0,Belgium
+2022-03-21,Daily ICU occupancy,179.0,Belgium
+2022-03-22,Daily ICU occupancy,180.0,Belgium
+2022-03-23,Daily ICU occupancy,172.0,Belgium
+2022-03-24,Daily ICU occupancy,167.0,Belgium
+2022-03-25,Daily ICU occupancy,165.0,Belgium
+2022-03-26,Daily ICU occupancy,164.0,Belgium
+2022-03-27,Daily ICU occupancy,162.0,Belgium
+2022-03-28,Daily ICU occupancy,170.0,Belgium
+2022-03-29,Daily ICU occupancy,169.0,Belgium
+2022-03-30,Daily ICU occupancy,164.0,Belgium
+2022-03-31,Daily ICU occupancy,172.0,Belgium
+2022-04-01,Daily ICU occupancy,179.0,Belgium
+2022-04-02,Daily ICU occupancy,170.0,Belgium
+2022-04-03,Daily ICU occupancy,182.0,Belgium
+2022-04-04,Daily ICU occupancy,185.0,Belgium
+2022-04-05,Daily ICU occupancy,187.0,Belgium
+2022-04-06,Daily ICU occupancy,176.0,Belgium
+2022-04-07,Daily ICU occupancy,175.0,Belgium
+2022-04-08,Daily ICU occupancy,175.0,Belgium
+2022-04-09,Daily ICU occupancy,176.0,Belgium
+2022-04-10,Daily ICU occupancy,173.0,Belgium
+2022-04-11,Daily ICU occupancy,194.0,Belgium
+2022-04-12,Daily ICU occupancy,190.0,Belgium
+2022-04-13,Daily ICU occupancy,181.0,Belgium
+2022-04-14,Daily ICU occupancy,183.0,Belgium
+2022-04-15,Daily ICU occupancy,192.0,Belgium
+2022-04-16,Daily ICU occupancy,186.0,Belgium
+2022-04-17,Daily ICU occupancy,174.0,Belgium
+2022-04-18,Daily ICU occupancy,184.0,Belgium
+2022-04-19,Daily ICU occupancy,189.0,Belgium
+2022-04-20,Daily ICU occupancy,169.0,Belgium
+2022-04-21,Daily ICU occupancy,154.0,Belgium
+2022-04-22,Daily ICU occupancy,153.0,Belgium
+2022-04-23,Daily ICU occupancy,148.0,Belgium
+2022-04-24,Daily ICU occupancy,156.0,Belgium
+2022-04-25,Daily ICU occupancy,165.0,Belgium
+2022-04-26,Daily ICU occupancy,154.0,Belgium
+2022-04-27,Daily ICU occupancy,150.0,Belgium
+2022-04-28,Daily ICU occupancy,146.0,Belgium
+2022-04-29,Daily ICU occupancy,135.0,Belgium
+2022-04-30,Daily ICU occupancy,127.0,Belgium
+2022-05-01,Daily ICU occupancy,130.0,Belgium
+2022-05-02,Daily ICU occupancy,135.0,Belgium
+2022-05-03,Daily ICU occupancy,124.0,Belgium
+2022-05-04,Daily ICU occupancy,116.0,Belgium
+2022-05-05,Daily ICU occupancy,122.0,Belgium
+2022-05-06,Daily ICU occupancy,116.0,Belgium
+2022-05-07,Daily ICU occupancy,119.0,Belgium
+2022-05-08,Daily ICU occupancy,119.0,Belgium
+2022-05-09,Daily ICU occupancy,126.0,Belgium
+2022-05-10,Daily ICU occupancy,117.0,Belgium
+2022-05-11,Daily ICU occupancy,111.0,Belgium
+2022-05-12,Daily ICU occupancy,105.0,Belgium
+2022-05-13,Daily ICU occupancy,103.0,Belgium
+2022-05-14,Daily ICU occupancy,96.0,Belgium
+2022-05-15,Daily ICU occupancy,105.0,Belgium
+2022-05-16,Daily ICU occupancy,109.0,Belgium
+2022-05-17,Daily ICU occupancy,117.0,Belgium
+2022-05-18,Daily ICU occupancy,108.0,Belgium
+2022-05-19,Daily ICU occupancy,104.0,Belgium
+2022-05-20,Daily ICU occupancy,94.0,Belgium
+2022-05-21,Daily ICU occupancy,93.0,Belgium
+2022-05-22,Daily ICU occupancy,95.0,Belgium
+2022-05-23,Daily ICU occupancy,92.0,Belgium
+2022-05-24,Daily ICU occupancy,92.0,Belgium
+2022-05-25,Daily ICU occupancy,84.0,Belgium
+2022-05-26,Daily ICU occupancy,75.0,Belgium
+2022-05-27,Daily ICU occupancy,82.0,Belgium
+2022-05-28,Daily ICU occupancy,80.0,Belgium
+2022-05-29,Daily ICU occupancy,83.0,Belgium
+2022-05-30,Daily ICU occupancy,87.0,Belgium
+2022-05-31,Daily ICU occupancy,81.0,Belgium
+2022-06-01,Daily ICU occupancy,86.0,Belgium
+2022-06-02,Daily ICU occupancy,75.0,Belgium
+2022-06-03,Daily ICU occupancy,70.0,Belgium
+2022-06-04,Daily ICU occupancy,65.0,Belgium
+2022-06-05,Daily ICU occupancy,62.0,Belgium
+2022-06-06,Daily ICU occupancy,65.0,Belgium
+2022-06-07,Daily ICU occupancy,65.0,Belgium
+2022-06-08,Daily ICU occupancy,65.0,Belgium
+2022-06-09,Daily ICU occupancy,70.0,Belgium
+2022-06-10,Daily ICU occupancy,71.0,Belgium
+2022-06-11,Daily ICU occupancy,58.0,Belgium
+2022-06-12,Daily ICU occupancy,57.0,Belgium
+2022-06-13,Daily ICU occupancy,61.0,Belgium
+2022-06-14,Daily ICU occupancy,64.0,Belgium
+2022-06-15,Daily ICU occupancy,56.0,Belgium
+2022-06-16,Daily ICU occupancy,47.0,Belgium
+2022-06-17,Daily ICU occupancy,48.0,Belgium
+2022-06-18,Daily ICU occupancy,49.0,Belgium
+2022-06-19,Daily ICU occupancy,49.0,Belgium
+2022-06-20,Daily ICU occupancy,56.0,Belgium
+2022-06-21,Daily ICU occupancy,55.0,Belgium
+2022-06-22,Daily ICU occupancy,55.0,Belgium
+2022-06-23,Daily ICU occupancy,67.0,Belgium
+2022-06-24,Daily ICU occupancy,66.0,Belgium
+2022-06-25,Daily ICU occupancy,65.0,Belgium
+2022-06-26,Daily ICU occupancy,65.0,Belgium
+2022-06-27,Daily ICU occupancy,72.0,Belgium
+2022-06-28,Daily ICU occupancy,78.0,Belgium
+2022-06-29,Daily ICU occupancy,75.0,Belgium
+2022-06-30,Daily ICU occupancy,72.0,Belgium
+2022-07-01,Daily ICU occupancy,67.0,Belgium
+2022-07-02,Daily ICU occupancy,71.0,Belgium
+2022-07-03,Daily ICU occupancy,79.0,Belgium
+2022-07-04,Daily ICU occupancy,73.0,Belgium
+2022-07-05,Daily ICU occupancy,83.0,Belgium
+2022-07-06,Daily ICU occupancy,83.0,Belgium
+2022-07-07,Daily ICU occupancy,85.0,Belgium
+2022-07-08,Daily ICU occupancy,95.0,Belgium
+2022-07-09,Daily ICU occupancy,89.0,Belgium
+2022-07-10,Daily ICU occupancy,90.0,Belgium
+2022-07-11,Daily ICU occupancy,91.0,Belgium
+2022-07-12,Daily ICU occupancy,95.0,Belgium
+2022-07-13,Daily ICU occupancy,95.0,Belgium
+2022-07-14,Daily ICU occupancy,98.0,Belgium
+2022-07-15,Daily ICU occupancy,114.0,Belgium
+2022-07-16,Daily ICU occupancy,117.0,Belgium
+2022-07-17,Daily ICU occupancy,123.0,Belgium
+2022-07-18,Daily ICU occupancy,123.0,Belgium
+2022-07-19,Daily ICU occupancy,125.0,Belgium
+2022-07-20,Daily ICU occupancy,123.0,Belgium
+2022-07-21,Daily ICU occupancy,112.0,Belgium
+2022-07-22,Daily ICU occupancy,115.0,Belgium
+2022-07-23,Daily ICU occupancy,117.0,Belgium
+2022-07-24,Daily ICU occupancy,123.0,Belgium
+2022-07-25,Daily ICU occupancy,126.0,Belgium
+2022-07-26,Daily ICU occupancy,115.0,Belgium
+2022-07-27,Daily ICU occupancy,107.0,Belgium
+2022-07-28,Daily ICU occupancy,100.0,Belgium
+2022-07-29,Daily ICU occupancy,101.0,Belgium
+2022-07-30,Daily ICU occupancy,119.0,Belgium
+2022-07-31,Daily ICU occupancy,121.0,Belgium
+2022-08-01,Daily ICU occupancy,120.0,Belgium
+2022-08-02,Daily ICU occupancy,126.0,Belgium
+2022-08-03,Daily ICU occupancy,124.0,Belgium
+2022-08-04,Daily ICU occupancy,118.0,Belgium
+2022-08-05,Daily ICU occupancy,110.0,Belgium
+2022-08-06,Daily ICU occupancy,111.0,Belgium
+2022-08-07,Daily ICU occupancy,111.0,Belgium
+2022-08-08,Daily ICU occupancy,124.0,Belgium
+2022-08-09,Daily ICU occupancy,122.0,Belgium
+2022-08-10,Daily ICU occupancy,111.0,Belgium
+2022-08-11,Daily ICU occupancy,95.0,Belgium
+2022-08-12,Daily ICU occupancy,89.0,Belgium
+2022-08-13,Daily ICU occupancy,91.0,Belgium
+2022-08-14,Daily ICU occupancy,93.0,Belgium
+2022-08-15,Daily ICU occupancy,98.0,Belgium
+2022-08-16,Daily ICU occupancy,99.0,Belgium
+2022-08-17,Daily ICU occupancy,94.0,Belgium
+2022-08-18,Daily ICU occupancy,89.0,Belgium
+2022-08-19,Daily ICU occupancy,72.0,Belgium
+2022-08-20,Daily ICU occupancy,70.0,Belgium
+2022-08-21,Daily ICU occupancy,69.0,Belgium
+2022-08-22,Daily ICU occupancy,73.0,Belgium
+2022-08-23,Daily ICU occupancy,67.0,Belgium
+2022-08-24,Daily ICU occupancy,71.0,Belgium
+2022-08-25,Daily ICU occupancy,68.0,Belgium
+2022-08-26,Daily ICU occupancy,66.0,Belgium
+2022-08-27,Daily ICU occupancy,60.0,Belgium
+2022-08-28,Daily ICU occupancy,63.0,Belgium
+2022-08-29,Daily ICU occupancy,77.0,Belgium
+2022-08-30,Daily ICU occupancy,59.0,Belgium
+2022-08-31,Daily ICU occupancy,59.0,Belgium
+2022-09-01,Daily ICU occupancy,58.0,Belgium
+2022-09-02,Daily ICU occupancy,57.0,Belgium
+2022-09-03,Daily ICU occupancy,60.0,Belgium
+2022-09-04,Daily ICU occupancy,62.0,Belgium
+2022-09-05,Daily ICU occupancy,62.0,Belgium
+2022-09-06,Daily ICU occupancy,59.0,Belgium
+2022-09-07,Daily ICU occupancy,56.0,Belgium
+2022-09-08,Daily ICU occupancy,55.0,Belgium
+2022-09-09,Daily ICU occupancy,44.0,Belgium
+2022-09-10,Daily ICU occupancy,50.0,Belgium
+2022-09-11,Daily ICU occupancy,52.0,Belgium
+2022-09-12,Daily ICU occupancy,55.0,Belgium
+2022-09-13,Daily ICU occupancy,53.0,Belgium
+2022-09-14,Daily ICU occupancy,50.0,Belgium
+2022-09-15,Daily ICU occupancy,56.0,Belgium
+2022-09-16,Daily ICU occupancy,48.0,Belgium
+2022-09-17,Daily ICU occupancy,47.0,Belgium
+2022-09-18,Daily ICU occupancy,48.0,Belgium
+2022-09-19,Daily ICU occupancy,50.0,Belgium
+2022-09-20,Daily ICU occupancy,54.0,Belgium
+2022-09-21,Daily ICU occupancy,56.0,Belgium
+2022-09-22,Daily ICU occupancy,51.0,Belgium
+2022-09-23,Daily ICU occupancy,47.0,Belgium
+2022-09-24,Daily ICU occupancy,44.0,Belgium
+2022-09-25,Daily ICU occupancy,48.0,Belgium
+2022-09-26,Daily ICU occupancy,56.0,Belgium
+2022-09-27,Daily ICU occupancy,59.0,Belgium
+2022-09-28,Daily ICU occupancy,52.0,Belgium
+2022-09-29,Daily ICU occupancy,51.0,Belgium
+2022-09-30,Daily ICU occupancy,53.0,Belgium
+2022-10-01,Daily ICU occupancy,59.0,Belgium
+2022-10-02,Daily ICU occupancy,63.0,Belgium
+2022-10-03,Daily ICU occupancy,73.0,Belgium
+2022-10-04,Daily ICU occupancy,66.0,Belgium
+2022-10-05,Daily ICU occupancy,64.0,Belgium
+2022-10-06,Daily ICU occupancy,74.0,Belgium
+2022-10-07,Daily ICU occupancy,69.0,Belgium
+2022-10-08,Daily ICU occupancy,65.0,Belgium
+2022-10-09,Daily ICU occupancy,68.0,Belgium
+2022-10-10,Daily ICU occupancy,72.0,Belgium
+2022-10-11,Daily ICU occupancy,75.0,Belgium
+2022-10-12,Daily ICU occupancy,68.0,Belgium
+2022-10-13,Daily ICU occupancy,67.0,Belgium
+2022-10-14,Daily ICU occupancy,66.0,Belgium
+2022-10-15,Daily ICU occupancy,70.0,Belgium
+2022-10-16,Daily ICU occupancy,74.0,Belgium
+2022-10-17,Daily ICU occupancy,76.0,Belgium
+2022-10-18,Daily ICU occupancy,77.0,Belgium
+2022-10-19,Daily ICU occupancy,85.0,Belgium
+2022-10-20,Daily ICU occupancy,76.0,Belgium
+2022-10-21,Daily ICU occupancy,74.0,Belgium
+2022-10-22,Daily ICU occupancy,75.0,Belgium
+2022-10-23,Daily ICU occupancy,76.0,Belgium
+2022-10-24,Daily ICU occupancy,84.0,Belgium
+2022-10-25,Daily ICU occupancy,77.0,Belgium
+2022-10-26,Daily ICU occupancy,73.0,Belgium
+2022-10-27,Daily ICU occupancy,65.0,Belgium
+2022-10-28,Daily ICU occupancy,68.0,Belgium
+2022-10-29,Daily ICU occupancy,56.0,Belgium
+2022-10-30,Daily ICU occupancy,55.0,Belgium
+2022-10-31,Daily ICU occupancy,60.0,Belgium
+2022-11-01,Daily ICU occupancy,61.0,Belgium
+2022-11-02,Daily ICU occupancy,60.0,Belgium
+2022-11-03,Daily ICU occupancy,60.0,Belgium
+2022-11-04,Daily ICU occupancy,57.0,Belgium
+2022-11-05,Daily ICU occupancy,55.0,Belgium
+2022-11-06,Daily ICU occupancy,47.0,Belgium
+2022-11-07,Daily ICU occupancy,60.0,Belgium
+2022-11-08,Daily ICU occupancy,47.0,Belgium
+2022-11-09,Daily ICU occupancy,50.0,Belgium
+2022-11-10,Daily ICU occupancy,46.0,Belgium
+2022-11-11,Daily ICU occupancy,50.0,Belgium
+2022-11-12,Daily ICU occupancy,54.0,Belgium
+2022-11-13,Daily ICU occupancy,57.0,Belgium
+2022-11-14,Daily ICU occupancy,55.0,Belgium
+2022-11-15,Daily ICU occupancy,49.0,Belgium
+2022-11-16,Daily ICU occupancy,45.0,Belgium
+2022-11-17,Daily ICU occupancy,40.0,Belgium
+2022-11-18,Daily ICU occupancy,44.0,Belgium
+2022-11-19,Daily ICU occupancy,49.0,Belgium
+2022-11-20,Daily ICU occupancy,51.0,Belgium
+2022-11-21,Daily ICU occupancy,49.0,Belgium
+2022-11-22,Daily ICU occupancy,53.0,Belgium
+2022-11-23,Daily ICU occupancy,46.0,Belgium
+2022-11-24,Daily ICU occupancy,44.0,Belgium
+2022-11-25,Daily ICU occupancy,36.0,Belgium
+2022-11-26,Daily ICU occupancy,37.0,Belgium
+2022-11-27,Daily ICU occupancy,41.0,Belgium
+2022-11-28,Daily ICU occupancy,45.0,Belgium
+2022-11-29,Daily ICU occupancy,51.0,Belgium
+2022-11-30,Daily ICU occupancy,48.0,Belgium
+2022-12-01,Daily ICU occupancy,48.0,Belgium
+2022-12-02,Daily ICU occupancy,43.0,Belgium
+2022-12-03,Daily ICU occupancy,45.0,Belgium
+2022-12-04,Daily ICU occupancy,51.0,Belgium
+2022-12-05,Daily ICU occupancy,60.0,Belgium
+2022-12-06,Daily ICU occupancy,52.0,Belgium
+2022-12-07,Daily ICU occupancy,53.0,Belgium
+2022-12-08,Daily ICU occupancy,62.0,Belgium
+2022-12-09,Daily ICU occupancy,63.0,Belgium
+2022-12-10,Daily ICU occupancy,58.0,Belgium
+2022-12-11,Daily ICU occupancy,65.0,Belgium
+2022-12-12,Daily ICU occupancy,66.0,Belgium
+2022-12-13,Daily ICU occupancy,68.0,Belgium
+2022-12-14,Daily ICU occupancy,70.0,Belgium
+2022-12-15,Daily ICU occupancy,70.0,Belgium
+2022-12-16,Daily ICU occupancy,83.0,Belgium
+2022-12-17,Daily ICU occupancy,69.0,Belgium
+2022-12-18,Daily ICU occupancy,77.0,Belgium
+2022-12-19,Daily ICU occupancy,82.0,Belgium
+2022-12-20,Daily ICU occupancy,88.0,Belgium
+2022-12-21,Daily ICU occupancy,96.0,Belgium
+2022-12-22,Daily ICU occupancy,97.0,Belgium
+2022-12-23,Daily ICU occupancy,113.0,Belgium
+2022-12-24,Daily ICU occupancy,105.0,Belgium
+2022-12-25,Daily ICU occupancy,101.0,Belgium
+2022-12-26,Daily ICU occupancy,106.0,Belgium
+2022-12-27,Daily ICU occupancy,97.0,Belgium
+2022-12-28,Daily ICU occupancy,102.0,Belgium
+2022-12-29,Daily ICU occupancy,96.0,Belgium
+2022-12-30,Daily ICU occupancy,97.0,Belgium
+2022-12-31,Daily ICU occupancy,95.0,Belgium
+2023-01-01,Daily ICU occupancy,90.0,Belgium
+2023-01-02,Daily ICU occupancy,98.0,Belgium
+2023-01-03,Daily ICU occupancy,94.0,Belgium
+2023-01-04,Daily ICU occupancy,100.0,Belgium
+2023-01-05,Daily ICU occupancy,97.0,Belgium
+2023-01-06,Daily ICU occupancy,96.0,Belgium
+2023-01-07,Daily ICU occupancy,95.0,Belgium
+2023-01-08,Daily ICU occupancy,95.0,Belgium
+2023-01-09,Daily ICU occupancy,95.0,Belgium
+2023-01-10,Daily ICU occupancy,81.0,Belgium
+2023-01-11,Daily ICU occupancy,78.0,Belgium
+2023-01-12,Daily ICU occupancy,76.0,Belgium
+2023-01-13,Daily ICU occupancy,74.0,Belgium
+2023-01-14,Daily ICU occupancy,73.0,Belgium
+2023-01-15,Daily ICU occupancy,63.0,Belgium
+2023-01-16,Daily ICU occupancy,61.0,Belgium
+2023-01-17,Daily ICU occupancy,59.0,Belgium
+2023-01-18,Daily ICU occupancy,56.0,Belgium
+2023-01-19,Daily ICU occupancy,52.0,Belgium
+2023-01-20,Daily ICU occupancy,51.0,Belgium
+2023-01-21,Daily ICU occupancy,42.0,Belgium
+2023-01-22,Daily ICU occupancy,46.0,Belgium
+2023-01-23,Daily ICU occupancy,48.0,Belgium
+2023-01-24,Daily ICU occupancy,48.0,Belgium
+2023-01-25,Daily ICU occupancy,45.0,Belgium
+2023-01-26,Daily ICU occupancy,41.0,Belgium
+2023-01-27,Daily ICU occupancy,41.0,Belgium
+2023-01-28,Daily ICU occupancy,43.0,Belgium
+2023-01-29,Daily ICU occupancy,50.0,Belgium
+2023-01-30,Daily ICU occupancy,47.0,Belgium
+2023-01-31,Daily ICU occupancy,45.0,Belgium
+2023-02-01,Daily ICU occupancy,50.0,Belgium
+2023-02-02,Daily ICU occupancy,47.0,Belgium
+2023-02-03,Daily ICU occupancy,47.0,Belgium
+2023-02-04,Daily ICU occupancy,39.0,Belgium
+2023-02-05,Daily ICU occupancy,38.0,Belgium
+2023-02-06,Daily ICU occupancy,43.0,Belgium
+2023-02-07,Daily ICU occupancy,36.0,Belgium
+2023-02-08,Daily ICU occupancy,43.0,Belgium
+2023-02-09,Daily ICU occupancy,40.0,Belgium
+2023-02-10,Daily ICU occupancy,41.0,Belgium
+2023-02-11,Daily ICU occupancy,37.0,Belgium
+2023-02-12,Daily ICU occupancy,43.0,Belgium
+2023-02-13,Daily ICU occupancy,48.0,Belgium
+2023-02-14,Daily ICU occupancy,43.0,Belgium
+2023-02-15,Daily ICU occupancy,36.0,Belgium
+2023-02-16,Daily ICU occupancy,33.0,Belgium
+2023-02-17,Daily ICU occupancy,40.0,Belgium
+2023-02-18,Daily ICU occupancy,39.0,Belgium
+2023-02-19,Daily ICU occupancy,42.0,Belgium
+2023-02-20,Daily ICU occupancy,47.0,Belgium
+2023-02-21,Daily ICU occupancy,56.0,Belgium
+2023-02-22,Daily ICU occupancy,60.0,Belgium
+2023-02-23,Daily ICU occupancy,68.0,Belgium
+2023-02-24,Daily ICU occupancy,68.0,Belgium
+2023-02-25,Daily ICU occupancy,66.0,Belgium
+2023-02-26,Daily ICU occupancy,72.0,Belgium
+2023-02-27,Daily ICU occupancy,75.0,Belgium
+2023-02-28,Daily ICU occupancy,82.0,Belgium
+2023-03-01,Daily ICU occupancy,75.0,Belgium
+2023-03-02,Daily ICU occupancy,77.0,Belgium
+2023-03-03,Daily ICU occupancy,79.0,Belgium
+2023-03-04,Daily ICU occupancy,88.0,Belgium
+2023-03-05,Daily ICU occupancy,96.0,Belgium
+2023-03-06,Daily ICU occupancy,100.0,Belgium
+2023-03-07,Daily ICU occupancy,96.0,Belgium
+2023-03-08,Daily ICU occupancy,100.0,Belgium
+2023-03-09,Daily ICU occupancy,108.0,Belgium
+2023-03-10,Daily ICU occupancy,117.0,Belgium
+2023-03-11,Daily ICU occupancy,118.0,Belgium
+2023-03-12,Daily ICU occupancy,117.0,Belgium
+2023-03-13,Daily ICU occupancy,127.0,Belgium
+2023-03-14,Daily ICU occupancy,130.0,Belgium
+2023-03-15,Daily ICU occupancy,132.0,Belgium
+2023-03-16,Daily ICU occupancy,117.0,Belgium
+2023-03-17,Daily ICU occupancy,122.0,Belgium
+2023-03-18,Daily ICU occupancy,121.0,Belgium
+2023-03-19,Daily ICU occupancy,129.0,Belgium
+2023-03-20,Daily ICU occupancy,132.0,Belgium
+2023-03-21,Daily ICU occupancy,125.0,Belgium
+2023-03-22,Daily ICU occupancy,115.0,Belgium
+2023-03-23,Daily ICU occupancy,109.0,Belgium
+2023-03-24,Daily ICU occupancy,111.0,Belgium
+2023-03-25,Daily ICU occupancy,105.0,Belgium
+2023-03-26,Daily ICU occupancy,109.0,Belgium
+2023-03-27,Daily ICU occupancy,112.0,Belgium
+2023-03-28,Daily ICU occupancy,108.0,Belgium
+2023-03-29,Daily ICU occupancy,109.0,Belgium
+2023-03-30,Daily ICU occupancy,111.0,Belgium
+2023-03-31,Daily ICU occupancy,102.0,Belgium
+2023-04-01,Daily ICU occupancy,104.0,Belgium
+2023-04-02,Daily ICU occupancy,105.0,Belgium
+2023-04-03,Daily ICU occupancy,109.0,Belgium
+2023-04-04,Daily ICU occupancy,106.0,Belgium
+2023-04-05,Daily ICU occupancy,96.0,Belgium
+2023-04-06,Daily ICU occupancy,93.0,Belgium
+2023-04-07,Daily ICU occupancy,79.0,Belgium
+2023-04-08,Daily ICU occupancy,75.0,Belgium
+2023-04-09,Daily ICU occupancy,76.0,Belgium
+2023-04-10,Daily ICU occupancy,77.0,Belgium
+2023-04-11,Daily ICU occupancy,86.0,Belgium
+2023-04-12,Daily ICU occupancy,76.0,Belgium
+2023-04-13,Daily ICU occupancy,75.0,Belgium
+2023-04-14,Daily ICU occupancy,79.0,Belgium
+2023-04-15,Daily ICU occupancy,68.0,Belgium
+2023-04-16,Daily ICU occupancy,68.0,Belgium
+2023-04-17,Daily ICU occupancy,74.0,Belgium
+2023-04-18,Daily ICU occupancy,75.0,Belgium
+2023-04-19,Daily ICU occupancy,73.0,Belgium
+2023-04-20,Daily ICU occupancy,61.0,Belgium
+2023-04-21,Daily ICU occupancy,60.0,Belgium
+2023-04-22,Daily ICU occupancy,64.0,Belgium
+2023-04-23,Daily ICU occupancy,59.0,Belgium
+2023-04-24,Daily ICU occupancy,59.0,Belgium
+2023-04-25,Daily ICU occupancy,59.0,Belgium
+2023-04-26,Daily ICU occupancy,50.0,Belgium
+2023-04-27,Daily ICU occupancy,50.0,Belgium
+2023-04-28,Daily ICU occupancy,49.0,Belgium
+2023-04-29,Daily ICU occupancy,43.0,Belgium
+2023-04-30,Daily ICU occupancy,47.0,Belgium
+2023-05-01,Daily ICU occupancy,49.0,Belgium
+2023-05-02,Daily ICU occupancy,44.0,Belgium
+2023-05-03,Daily ICU occupancy,50.0,Belgium
+2023-05-04,Daily ICU occupancy,50.0,Belgium
+2023-05-05,Daily ICU occupancy,45.0,Belgium
+2023-05-06,Daily ICU occupancy,43.0,Belgium
+2023-05-07,Daily ICU occupancy,46.0,Belgium
+2023-05-08,Daily ICU occupancy,48.0,Belgium
+2023-05-09,Daily ICU occupancy,40.0,Belgium
+2023-05-10,Daily ICU occupancy,36.0,Belgium
+2023-05-11,Daily ICU occupancy,35.0,Belgium
+2023-05-12,Daily ICU occupancy,30.0,Belgium
+2023-05-13,Daily ICU occupancy,38.0,Belgium
+2023-05-14,Daily ICU occupancy,40.0,Belgium
+2023-05-15,Daily ICU occupancy,42.0,Belgium
+2023-05-16,Daily ICU occupancy,41.0,Belgium
+2023-05-17,Daily ICU occupancy,0.0,Belgium
+2023-05-18,Daily ICU occupancy,0.0,Belgium
+2023-05-19,Daily ICU occupancy,0.0,Belgium
+2023-05-20,Daily ICU occupancy,0.0,Belgium
+2023-05-21,Daily ICU occupancy,0.0,Belgium
+2023-05-22,Daily ICU occupancy,0.0,Belgium
+2023-05-23,Daily ICU occupancy,29.0,Belgium
+2023-05-24,Daily ICU occupancy,0.0,Belgium
+2023-05-25,Daily ICU occupancy,0.0,Belgium
+2023-05-26,Daily ICU occupancy,0.0,Belgium
+2023-05-27,Daily ICU occupancy,0.0,Belgium
+2023-05-28,Daily ICU occupancy,0.0,Belgium
+2023-05-29,Daily ICU occupancy,0.0,Belgium
+2023-05-30,Daily ICU occupancy,24.0,Belgium
+2023-05-31,Daily ICU occupancy,0.0,Belgium
+2023-06-01,Daily ICU occupancy,0.0,Belgium
+2023-06-02,Daily ICU occupancy,0.0,Belgium
+2023-06-03,Daily ICU occupancy,0.0,Belgium
+2023-06-04,Daily ICU occupancy,0.0,Belgium
+2023-06-05,Daily ICU occupancy,0.0,Belgium
+2023-06-06,Daily ICU occupancy,19.0,Belgium
+2023-06-07,Daily ICU occupancy,0.0,Belgium
+2023-06-08,Daily ICU occupancy,0.0,Belgium
+2023-06-09,Daily ICU occupancy,0.0,Belgium
+2023-06-10,Daily ICU occupancy,0.0,Belgium
+2023-06-11,Daily ICU occupancy,0.0,Belgium
+2023-06-12,Daily ICU occupancy,0.0,Belgium
+2023-06-13,Daily ICU occupancy,19.0,Belgium
+2023-06-14,Daily ICU occupancy,0.0,Belgium
+2023-06-15,Daily ICU occupancy,0.0,Belgium
+2023-06-16,Daily ICU occupancy,0.0,Belgium
+2023-06-17,Daily ICU occupancy,0.0,Belgium
+2023-06-18,Daily ICU occupancy,0.0,Belgium
+2023-06-19,Daily ICU occupancy,0.0,Belgium
+2023-06-20,Daily ICU occupancy,11.0,Belgium
+2023-06-21,Daily ICU occupancy,0.0,Belgium
+2023-06-22,Daily ICU occupancy,0.0,Belgium
+2023-06-23,Daily ICU occupancy,0.0,Belgium
+2023-06-24,Daily ICU occupancy,0.0,Belgium
+2023-06-25,Daily ICU occupancy,0.0,Belgium
+2023-06-26,Daily ICU occupancy,0.0,Belgium
+2023-06-27,Daily ICU occupancy,9.0,Belgium
+2020-03-12,Weekly new hospital admissions,34.0,Belgium
+2020-03-13,Weekly new hospital admissions,95.0,Belgium
+2020-03-14,Weekly new hospital admissions,151.0,Belgium
+2020-03-15,Weekly new hospital admissions,221.0,Belgium
+2020-03-16,Weekly new hospital admissions,308.0,Belgium
+2020-03-17,Weekly new hospital admissions,433.0,Belgium
+2020-03-18,Weekly new hospital admissions,605.0,Belgium
+2020-03-19,Weekly new hospital admissions,792.0,Belgium
+2020-03-20,Weekly new hospital admissions,1025.0,Belgium
+2020-03-21,Weekly new hospital admissions,1291.0,Belgium
+2020-03-22,Weekly new hospital admissions,1499.0,Belgium
+2020-03-23,Weekly new hospital admissions,1679.0,Belgium
+2020-03-24,Weekly new hospital admissions,1974.0,Belgium
+2020-03-25,Weekly new hospital admissions,2338.0,Belgium
+2020-03-26,Weekly new hospital admissions,2619.0,Belgium
+2020-03-27,Weekly new hospital admissions,2912.0,Belgium
+2020-03-28,Weekly new hospital admissions,3232.0,Belgium
+2020-03-29,Weekly new hospital admissions,3499.0,Belgium
+2020-03-30,Weekly new hospital admissions,3717.0,Belgium
+2020-03-31,Weekly new hospital admissions,3847.0,Belgium
+2020-04-01,Weekly new hospital admissions,3903.0,Belgium
+2020-04-02,Weekly new hospital admissions,3981.0,Belgium
+2020-04-03,Weekly new hospital admissions,3896.0,Belgium
+2020-04-04,Weekly new hospital admissions,3756.0,Belgium
+2020-04-05,Weekly new hospital admissions,3571.0,Belgium
+2020-04-06,Weekly new hospital admissions,3409.0,Belgium
+2020-04-07,Weekly new hospital admissions,3334.0,Belgium
+2020-04-08,Weekly new hospital admissions,3199.0,Belgium
+2020-04-09,Weekly new hospital admissions,3094.0,Belgium
+2020-04-10,Weekly new hospital admissions,3023.0,Belgium
+2020-04-11,Weekly new hospital admissions,2913.0,Belgium
+2020-04-12,Weekly new hospital admissions,2830.0,Belgium
+2020-04-13,Weekly new hospital admissions,2750.0,Belgium
+2020-04-14,Weekly new hospital admissions,2528.0,Belgium
+2020-04-15,Weekly new hospital admissions,2381.0,Belgium
+2020-04-16,Weekly new hospital admissions,2227.0,Belgium
+2020-04-17,Weekly new hospital admissions,2102.0,Belgium
+2020-04-18,Weekly new hospital admissions,1975.0,Belgium
+2020-04-19,Weekly new hospital admissions,1925.0,Belgium
+2020-04-20,Weekly new hospital admissions,1865.0,Belgium
+2020-04-21,Weekly new hospital admissions,1874.0,Belgium
+2020-04-22,Weekly new hospital admissions,1773.0,Belgium
+2020-04-23,Weekly new hospital admissions,1664.0,Belgium
+2020-04-24,Weekly new hospital admissions,1579.0,Belgium
+2020-04-25,Weekly new hospital admissions,1517.0,Belgium
+2020-04-26,Weekly new hospital admissions,1420.0,Belgium
+2020-04-27,Weekly new hospital admissions,1365.0,Belgium
+2020-04-28,Weekly new hospital admissions,1268.0,Belgium
+2020-04-29,Weekly new hospital admissions,1237.0,Belgium
+2020-04-30,Weekly new hospital admissions,1186.0,Belgium
+2020-05-01,Weekly new hospital admissions,1099.0,Belgium
+2020-05-02,Weekly new hospital admissions,978.0,Belgium
+2020-05-03,Weekly new hospital admissions,910.0,Belgium
+2020-05-04,Weekly new hospital admissions,873.0,Belgium
+2020-05-05,Weekly new hospital admissions,831.0,Belgium
+2020-05-06,Weekly new hospital admissions,747.0,Belgium
+2020-05-07,Weekly new hospital admissions,716.0,Belgium
+2020-05-08,Weekly new hospital admissions,661.0,Belgium
+2020-05-09,Weekly new hospital admissions,664.0,Belgium
+2020-05-10,Weekly new hospital admissions,664.0,Belgium
+2020-05-11,Weekly new hospital admissions,620.0,Belgium
+2020-05-12,Weekly new hospital admissions,571.0,Belgium
+2020-05-13,Weekly new hospital admissions,553.0,Belgium
+2020-05-14,Weekly new hospital admissions,497.0,Belgium
+2020-05-15,Weekly new hospital admissions,483.0,Belgium
+2020-05-16,Weekly new hospital admissions,460.0,Belgium
+2020-05-17,Weekly new hospital admissions,443.0,Belgium
+2020-05-18,Weekly new hospital admissions,447.0,Belgium
+2020-05-19,Weekly new hospital admissions,432.0,Belgium
+2020-05-20,Weekly new hospital admissions,426.0,Belgium
+2020-05-21,Weekly new hospital admissions,423.0,Belgium
+2020-05-22,Weekly new hospital admissions,395.0,Belgium
+2020-05-23,Weekly new hospital admissions,389.0,Belgium
+2020-05-24,Weekly new hospital admissions,375.0,Belgium
+2020-05-25,Weekly new hospital admissions,362.0,Belgium
+2020-05-26,Weekly new hospital admissions,342.0,Belgium
+2020-05-27,Weekly new hospital admissions,318.0,Belgium
+2020-05-28,Weekly new hospital admissions,283.0,Belgium
+2020-05-29,Weekly new hospital admissions,274.0,Belgium
+2020-05-30,Weekly new hospital admissions,260.0,Belgium
+2020-05-31,Weekly new hospital admissions,255.0,Belgium
+2020-06-01,Weekly new hospital admissions,245.0,Belgium
+2020-06-02,Weekly new hospital admissions,242.0,Belgium
+2020-06-03,Weekly new hospital admissions,211.0,Belgium
+2020-06-04,Weekly new hospital admissions,217.0,Belgium
+2020-06-05,Weekly new hospital admissions,219.0,Belgium
+2020-06-06,Weekly new hospital admissions,200.0,Belgium
+2020-06-07,Weekly new hospital admissions,198.0,Belgium
+2020-06-08,Weekly new hospital admissions,187.0,Belgium
+2020-06-09,Weekly new hospital admissions,175.0,Belgium
+2020-06-10,Weekly new hospital admissions,173.0,Belgium
+2020-06-11,Weekly new hospital admissions,172.0,Belgium
+2020-06-12,Weekly new hospital admissions,167.0,Belgium
+2020-06-13,Weekly new hospital admissions,155.0,Belgium
+2020-06-14,Weekly new hospital admissions,147.0,Belgium
+2020-06-15,Weekly new hospital admissions,141.0,Belgium
+2020-06-16,Weekly new hospital admissions,144.0,Belgium
+2020-06-17,Weekly new hospital admissions,143.0,Belgium
+2020-06-18,Weekly new hospital admissions,131.0,Belgium
+2020-06-19,Weekly new hospital admissions,127.0,Belgium
+2020-06-20,Weekly new hospital admissions,134.0,Belgium
+2020-06-21,Weekly new hospital admissions,130.0,Belgium
+2020-06-22,Weekly new hospital admissions,132.0,Belgium
+2020-06-23,Weekly new hospital admissions,117.0,Belgium
+2020-06-24,Weekly new hospital admissions,114.0,Belgium
+2020-06-25,Weekly new hospital admissions,114.0,Belgium
+2020-06-26,Weekly new hospital admissions,111.0,Belgium
+2020-06-27,Weekly new hospital admissions,109.0,Belgium
+2020-06-28,Weekly new hospital admissions,104.0,Belgium
+2020-06-29,Weekly new hospital admissions,104.0,Belgium
+2020-06-30,Weekly new hospital admissions,109.0,Belgium
+2020-07-01,Weekly new hospital admissions,102.0,Belgium
+2020-07-02,Weekly new hospital admissions,94.0,Belgium
+2020-07-03,Weekly new hospital admissions,82.0,Belgium
+2020-07-04,Weekly new hospital admissions,82.0,Belgium
+2020-07-05,Weekly new hospital admissions,82.0,Belgium
+2020-07-06,Weekly new hospital admissions,78.0,Belgium
+2020-07-07,Weekly new hospital admissions,78.0,Belgium
+2020-07-08,Weekly new hospital admissions,78.0,Belgium
+2020-07-09,Weekly new hospital admissions,76.0,Belgium
+2020-07-10,Weekly new hospital admissions,76.0,Belgium
+2020-07-11,Weekly new hospital admissions,71.0,Belgium
+2020-07-12,Weekly new hospital admissions,71.0,Belgium
+2020-07-13,Weekly new hospital admissions,70.0,Belgium
+2020-07-14,Weekly new hospital admissions,71.0,Belgium
+2020-07-15,Weekly new hospital admissions,73.0,Belgium
+2020-07-16,Weekly new hospital admissions,75.0,Belgium
+2020-07-17,Weekly new hospital admissions,80.0,Belgium
+2020-07-18,Weekly new hospital admissions,96.0,Belgium
+2020-07-19,Weekly new hospital admissions,107.0,Belgium
+2020-07-20,Weekly new hospital admissions,112.0,Belgium
+2020-07-21,Weekly new hospital admissions,103.0,Belgium
+2020-07-22,Weekly new hospital admissions,115.0,Belgium
+2020-07-23,Weekly new hospital admissions,135.0,Belgium
+2020-07-24,Weekly new hospital admissions,158.0,Belgium
+2020-07-25,Weekly new hospital admissions,157.0,Belgium
+2020-07-26,Weekly new hospital admissions,155.0,Belgium
+2020-07-27,Weekly new hospital admissions,169.0,Belgium
+2020-07-28,Weekly new hospital admissions,201.0,Belgium
+2020-07-29,Weekly new hospital admissions,213.0,Belgium
+2020-07-30,Weekly new hospital admissions,210.0,Belgium
+2020-07-31,Weekly new hospital admissions,195.0,Belgium
+2020-08-01,Weekly new hospital admissions,198.0,Belgium
+2020-08-02,Weekly new hospital admissions,211.0,Belgium
+2020-08-03,Weekly new hospital admissions,212.0,Belgium
+2020-08-04,Weekly new hospital admissions,191.0,Belgium
+2020-08-05,Weekly new hospital admissions,206.0,Belgium
+2020-08-06,Weekly new hospital admissions,209.0,Belgium
+2020-08-07,Weekly new hospital admissions,223.0,Belgium
+2020-08-08,Weekly new hospital admissions,232.0,Belgium
+2020-08-09,Weekly new hospital admissions,226.0,Belgium
+2020-08-10,Weekly new hospital admissions,238.0,Belgium
+2020-08-11,Weekly new hospital admissions,270.0,Belgium
+2020-08-12,Weekly new hospital admissions,255.0,Belgium
+2020-08-13,Weekly new hospital admissions,268.0,Belgium
+2020-08-14,Weekly new hospital admissions,268.0,Belgium
+2020-08-15,Weekly new hospital admissions,273.0,Belgium
+2020-08-16,Weekly new hospital admissions,279.0,Belgium
+2020-08-17,Weekly new hospital admissions,259.0,Belgium
+2020-08-18,Weekly new hospital admissions,242.0,Belgium
+2020-08-19,Weekly new hospital admissions,246.0,Belgium
+2020-08-20,Weekly new hospital admissions,230.0,Belgium
+2020-08-21,Weekly new hospital admissions,228.0,Belgium
+2020-08-22,Weekly new hospital admissions,211.0,Belgium
+2020-08-23,Weekly new hospital admissions,200.0,Belgium
+2020-08-24,Weekly new hospital admissions,196.0,Belgium
+2020-08-25,Weekly new hospital admissions,173.0,Belgium
+2020-08-26,Weekly new hospital admissions,155.0,Belgium
+2020-08-27,Weekly new hospital admissions,146.0,Belgium
+2020-08-28,Weekly new hospital admissions,134.0,Belgium
+2020-08-29,Weekly new hospital admissions,116.0,Belgium
+2020-08-30,Weekly new hospital admissions,112.0,Belgium
+2020-08-31,Weekly new hospital admissions,113.0,Belgium
+2020-09-01,Weekly new hospital admissions,129.0,Belgium
+2020-09-02,Weekly new hospital admissions,134.0,Belgium
+2020-09-03,Weekly new hospital admissions,126.0,Belgium
+2020-09-04,Weekly new hospital admissions,129.0,Belgium
+2020-09-05,Weekly new hospital admissions,137.0,Belgium
+2020-09-06,Weekly new hospital admissions,140.0,Belgium
+2020-09-07,Weekly new hospital admissions,148.0,Belgium
+2020-09-08,Weekly new hospital admissions,162.0,Belgium
+2020-09-09,Weekly new hospital admissions,160.0,Belgium
+2020-09-10,Weekly new hospital admissions,176.0,Belgium
+2020-09-11,Weekly new hospital admissions,185.0,Belgium
+2020-09-12,Weekly new hospital admissions,204.0,Belgium
+2020-09-13,Weekly new hospital admissions,228.0,Belgium
+2020-09-14,Weekly new hospital admissions,236.0,Belgium
+2020-09-15,Weekly new hospital admissions,244.0,Belgium
+2020-09-16,Weekly new hospital admissions,266.0,Belgium
+2020-09-17,Weekly new hospital admissions,286.0,Belgium
+2020-09-18,Weekly new hospital admissions,313.0,Belgium
+2020-09-19,Weekly new hospital admissions,336.0,Belgium
+2020-09-20,Weekly new hospital admissions,345.0,Belgium
+2020-09-21,Weekly new hospital admissions,372.0,Belgium
+2020-09-22,Weekly new hospital admissions,398.0,Belgium
+2020-09-23,Weekly new hospital admissions,426.0,Belgium
+2020-09-24,Weekly new hospital admissions,470.0,Belgium
+2020-09-25,Weekly new hospital admissions,486.0,Belgium
+2020-09-26,Weekly new hospital admissions,482.0,Belgium
+2020-09-27,Weekly new hospital admissions,483.0,Belgium
+2020-09-28,Weekly new hospital admissions,496.0,Belgium
+2020-09-29,Weekly new hospital admissions,511.0,Belgium
+2020-09-30,Weekly new hospital admissions,526.0,Belgium
+2020-10-01,Weekly new hospital admissions,523.0,Belgium
+2020-10-02,Weekly new hospital admissions,524.0,Belgium
+2020-10-03,Weekly new hospital admissions,549.0,Belgium
+2020-10-04,Weekly new hospital admissions,589.0,Belgium
+2020-10-05,Weekly new hospital admissions,606.0,Belgium
+2020-10-06,Weekly new hospital admissions,628.0,Belgium
+2020-10-07,Weekly new hospital admissions,684.0,Belgium
+2020-10-08,Weekly new hospital admissions,725.0,Belgium
+2020-10-09,Weekly new hospital admissions,801.0,Belgium
+2020-10-10,Weekly new hospital admissions,887.0,Belgium
+2020-10-11,Weekly new hospital admissions,937.0,Belgium
+2020-10-12,Weekly new hospital admissions,1025.0,Belgium
+2020-10-13,Weekly new hospital admissions,1136.0,Belgium
+2020-10-14,Weekly new hospital admissions,1257.0,Belgium
+2020-10-15,Weekly new hospital admissions,1418.0,Belgium
+2020-10-16,Weekly new hospital admissions,1519.0,Belgium
+2020-10-17,Weekly new hospital admissions,1719.0,Belgium
+2020-10-18,Weekly new hospital admissions,1849.0,Belgium
+2020-10-19,Weekly new hospital admissions,1944.0,Belgium
+2020-10-20,Weekly new hospital admissions,2148.0,Belgium
+2020-10-21,Weekly new hospital admissions,2319.0,Belgium
+2020-10-22,Weekly new hospital admissions,2547.0,Belgium
+2020-10-23,Weekly new hospital admissions,2912.0,Belgium
+2020-10-24,Weekly new hospital admissions,3157.0,Belgium
+2020-10-25,Weekly new hospital admissions,3415.0,Belgium
+2020-10-26,Weekly new hospital admissions,3686.0,Belgium
+2020-10-27,Weekly new hospital admissions,3965.0,Belgium
+2020-10-28,Weekly new hospital admissions,4287.0,Belgium
+2020-10-29,Weekly new hospital admissions,4455.0,Belgium
+2020-10-30,Weekly new hospital admissions,4586.0,Belgium
+2020-10-31,Weekly new hospital admissions,4683.0,Belgium
+2020-11-01,Weekly new hospital admissions,4732.0,Belgium
+2020-11-02,Weekly new hospital admissions,4799.0,Belgium
+2020-11-03,Weekly new hospital admissions,4991.0,Belgium
+2020-11-04,Weekly new hospital admissions,4907.0,Belgium
+2020-11-05,Weekly new hospital admissions,4796.0,Belgium
+2020-11-06,Weekly new hospital admissions,4654.0,Belgium
+2020-11-07,Weekly new hospital admissions,4463.0,Belgium
+2020-11-08,Weekly new hospital admissions,4300.0,Belgium
+2020-11-09,Weekly new hospital admissions,4131.0,Belgium
+2020-11-10,Weekly new hospital admissions,3850.0,Belgium
+2020-11-11,Weekly new hospital admissions,3740.0,Belgium
+2020-11-12,Weekly new hospital admissions,3577.0,Belgium
+2020-11-13,Weekly new hospital admissions,3497.0,Belgium
+2020-11-14,Weekly new hospital admissions,3442.0,Belgium
+2020-11-15,Weekly new hospital admissions,3332.0,Belgium
+2020-11-16,Weekly new hospital admissions,3174.0,Belgium
+2020-11-17,Weekly new hospital admissions,2936.0,Belgium
+2020-11-18,Weekly new hospital admissions,2729.0,Belgium
+2020-11-19,Weekly new hospital admissions,2678.0,Belgium
+2020-11-20,Weekly new hospital admissions,2475.0,Belgium
+2020-11-21,Weekly new hospital admissions,2275.0,Belgium
+2020-11-22,Weekly new hospital admissions,2185.0,Belgium
+2020-11-23,Weekly new hospital admissions,2111.0,Belgium
+2020-11-24,Weekly new hospital admissions,2036.0,Belgium
+2020-11-25,Weekly new hospital admissions,1963.0,Belgium
+2020-11-26,Weekly new hospital admissions,1857.0,Belgium
+2020-11-27,Weekly new hospital admissions,1768.0,Belgium
+2020-11-28,Weekly new hospital admissions,1732.0,Belgium
+2020-11-29,Weekly new hospital admissions,1666.0,Belgium
+2020-11-30,Weekly new hospital admissions,1578.0,Belgium
+2020-12-01,Weekly new hospital admissions,1481.0,Belgium
+2020-12-02,Weekly new hospital admissions,1434.0,Belgium
+2020-12-03,Weekly new hospital admissions,1373.0,Belgium
+2020-12-04,Weekly new hospital admissions,1360.0,Belgium
+2020-12-05,Weekly new hospital admissions,1361.0,Belgium
+2020-12-06,Weekly new hospital admissions,1363.0,Belgium
+2020-12-07,Weekly new hospital admissions,1387.0,Belgium
+2020-12-08,Weekly new hospital admissions,1394.0,Belgium
+2020-12-09,Weekly new hospital admissions,1341.0,Belgium
+2020-12-10,Weekly new hospital admissions,1352.0,Belgium
+2020-12-11,Weekly new hospital admissions,1315.0,Belgium
+2020-12-12,Weekly new hospital admissions,1274.0,Belgium
+2020-12-13,Weekly new hospital admissions,1310.0,Belgium
+2020-12-14,Weekly new hospital admissions,1288.0,Belgium
+2020-12-15,Weekly new hospital admissions,1298.0,Belgium
+2020-12-16,Weekly new hospital admissions,1314.0,Belgium
+2020-12-17,Weekly new hospital admissions,1315.0,Belgium
+2020-12-18,Weekly new hospital admissions,1332.0,Belgium
+2020-12-19,Weekly new hospital admissions,1345.0,Belgium
+2020-12-20,Weekly new hospital admissions,1291.0,Belgium
+2020-12-21,Weekly new hospital admissions,1305.0,Belgium
+2020-12-22,Weekly new hospital admissions,1299.0,Belgium
+2020-12-23,Weekly new hospital admissions,1288.0,Belgium
+2020-12-24,Weekly new hospital admissions,1291.0,Belgium
+2020-12-25,Weekly new hospital admissions,1241.0,Belgium
+2020-12-26,Weekly new hospital admissions,1138.0,Belgium
+2020-12-27,Weekly new hospital admissions,1163.0,Belgium
+2020-12-28,Weekly new hospital admissions,1174.0,Belgium
+2020-12-29,Weekly new hospital admissions,1163.0,Belgium
+2020-12-30,Weekly new hospital admissions,1132.0,Belgium
+2020-12-31,Weekly new hospital admissions,1066.0,Belgium
+2021-01-01,Weekly new hospital admissions,1065.0,Belgium
+2021-01-02,Weekly new hospital admissions,1080.0,Belgium
+2021-01-03,Weekly new hospital admissions,1059.0,Belgium
+2021-01-04,Weekly new hospital admissions,1019.0,Belgium
+2021-01-05,Weekly new hospital admissions,960.0,Belgium
+2021-01-06,Weekly new hospital admissions,946.0,Belgium
+2021-01-07,Weekly new hospital admissions,957.0,Belgium
+2021-01-08,Weekly new hospital admissions,948.0,Belgium
+2021-01-09,Weekly new hospital admissions,975.0,Belgium
+2021-01-10,Weekly new hospital admissions,923.0,Belgium
+2021-01-11,Weekly new hospital admissions,907.0,Belgium
+2021-01-12,Weekly new hospital admissions,897.0,Belgium
+2021-01-13,Weekly new hospital admissions,894.0,Belgium
+2021-01-14,Weekly new hospital admissions,871.0,Belgium
+2021-01-15,Weekly new hospital admissions,872.0,Belgium
+2021-01-16,Weekly new hospital admissions,846.0,Belgium
+2021-01-17,Weekly new hospital admissions,840.0,Belgium
+2021-01-18,Weekly new hospital admissions,851.0,Belgium
+2021-01-19,Weekly new hospital admissions,899.0,Belgium
+2021-01-20,Weekly new hospital admissions,901.0,Belgium
+2021-01-21,Weekly new hospital admissions,916.0,Belgium
+2021-01-22,Weekly new hospital admissions,932.0,Belgium
+2021-01-23,Weekly new hospital admissions,964.0,Belgium
+2021-01-24,Weekly new hospital admissions,991.0,Belgium
+2021-01-25,Weekly new hospital admissions,978.0,Belgium
+2021-01-26,Weekly new hospital admissions,944.0,Belgium
+2021-01-27,Weekly new hospital admissions,921.0,Belgium
+2021-01-28,Weekly new hospital admissions,911.0,Belgium
+2021-01-29,Weekly new hospital admissions,872.0,Belgium
+2021-01-30,Weekly new hospital admissions,866.0,Belgium
+2021-01-31,Weekly new hospital admissions,837.0,Belgium
+2021-02-01,Weekly new hospital admissions,873.0,Belgium
+2021-02-02,Weekly new hospital admissions,862.0,Belgium
+2021-02-03,Weekly new hospital admissions,883.0,Belgium
+2021-02-04,Weekly new hospital admissions,886.0,Belgium
+2021-02-05,Weekly new hospital admissions,911.0,Belgium
+2021-02-06,Weekly new hospital admissions,897.0,Belgium
+2021-02-07,Weekly new hospital admissions,928.0,Belgium
+2021-02-08,Weekly new hospital admissions,872.0,Belgium
+2021-02-09,Weekly new hospital admissions,893.0,Belgium
+2021-02-10,Weekly new hospital admissions,883.0,Belgium
+2021-02-11,Weekly new hospital admissions,879.0,Belgium
+2021-02-12,Weekly new hospital admissions,867.0,Belgium
+2021-02-13,Weekly new hospital admissions,851.0,Belgium
+2021-02-14,Weekly new hospital admissions,834.0,Belgium
+2021-02-15,Weekly new hospital admissions,846.0,Belgium
+2021-02-16,Weekly new hospital admissions,828.0,Belgium
+2021-02-17,Weekly new hospital admissions,837.0,Belgium
+2021-02-18,Weekly new hospital admissions,842.0,Belgium
+2021-02-19,Weekly new hospital admissions,835.0,Belgium
+2021-02-20,Weekly new hospital admissions,840.0,Belgium
+2021-02-21,Weekly new hospital admissions,837.0,Belgium
+2021-02-22,Weekly new hospital admissions,868.0,Belgium
+2021-02-23,Weekly new hospital admissions,878.0,Belgium
+2021-02-24,Weekly new hospital admissions,887.0,Belgium
+2021-02-25,Weekly new hospital admissions,887.0,Belgium
+2021-02-26,Weekly new hospital admissions,966.0,Belgium
+2021-02-27,Weekly new hospital admissions,1010.0,Belgium
+2021-02-28,Weekly new hospital admissions,1049.0,Belgium
+2021-03-01,Weekly new hospital admissions,1041.0,Belgium
+2021-03-02,Weekly new hospital admissions,1062.0,Belgium
+2021-03-03,Weekly new hospital admissions,1064.0,Belgium
+2021-03-04,Weekly new hospital admissions,1093.0,Belgium
+2021-03-05,Weekly new hospital admissions,1041.0,Belgium
+2021-03-06,Weekly new hospital admissions,1026.0,Belgium
+2021-03-07,Weekly new hospital admissions,1021.0,Belgium
+2021-03-08,Weekly new hospital admissions,1027.0,Belgium
+2021-03-09,Weekly new hospital admissions,1053.0,Belgium
+2021-03-10,Weekly new hospital admissions,1055.0,Belgium
+2021-03-11,Weekly new hospital admissions,1023.0,Belgium
+2021-03-12,Weekly new hospital admissions,1041.0,Belgium
+2021-03-13,Weekly new hospital admissions,1095.0,Belgium
+2021-03-14,Weekly new hospital admissions,1132.0,Belgium
+2021-03-15,Weekly new hospital admissions,1169.0,Belgium
+2021-03-16,Weekly new hospital admissions,1175.0,Belgium
+2021-03-17,Weekly new hospital admissions,1228.0,Belgium
+2021-03-18,Weekly new hospital admissions,1297.0,Belgium
+2021-03-19,Weekly new hospital admissions,1309.0,Belgium
+2021-03-20,Weekly new hospital admissions,1357.0,Belgium
+2021-03-21,Weekly new hospital admissions,1383.0,Belgium
+2021-03-22,Weekly new hospital admissions,1434.0,Belgium
+2021-03-23,Weekly new hospital admissions,1508.0,Belgium
+2021-03-24,Weekly new hospital admissions,1552.0,Belgium
+2021-03-25,Weekly new hospital admissions,1586.0,Belgium
+2021-03-26,Weekly new hospital admissions,1612.0,Belgium
+2021-03-27,Weekly new hospital admissions,1665.0,Belgium
+2021-03-28,Weekly new hospital admissions,1693.0,Belgium
+2021-03-29,Weekly new hospital admissions,1691.0,Belgium
+2021-03-30,Weekly new hospital admissions,1728.0,Belgium
+2021-03-31,Weekly new hospital admissions,1786.0,Belgium
+2021-04-01,Weekly new hospital admissions,1834.0,Belgium
+2021-04-02,Weekly new hospital admissions,1922.0,Belgium
+2021-04-03,Weekly new hospital admissions,1885.0,Belgium
+2021-04-04,Weekly new hospital admissions,1843.0,Belgium
+2021-04-05,Weekly new hospital admissions,1874.0,Belgium
+2021-04-06,Weekly new hospital admissions,1790.0,Belgium
+2021-04-07,Weekly new hospital admissions,1814.0,Belgium
+2021-04-08,Weekly new hospital admissions,1774.0,Belgium
+2021-04-09,Weekly new hospital admissions,1753.0,Belgium
+2021-04-10,Weekly new hospital admissions,1749.0,Belgium
+2021-04-11,Weekly new hospital admissions,1780.0,Belgium
+2021-04-12,Weekly new hospital admissions,1775.0,Belgium
+2021-04-13,Weekly new hospital admissions,1807.0,Belgium
+2021-04-14,Weekly new hospital admissions,1691.0,Belgium
+2021-04-15,Weekly new hospital admissions,1680.0,Belgium
+2021-04-16,Weekly new hospital admissions,1654.0,Belgium
+2021-04-17,Weekly new hospital admissions,1644.0,Belgium
+2021-04-18,Weekly new hospital admissions,1643.0,Belgium
+2021-04-19,Weekly new hospital admissions,1628.0,Belgium
+2021-04-20,Weekly new hospital admissions,1664.0,Belgium
+2021-04-21,Weekly new hospital admissions,1691.0,Belgium
+2021-04-22,Weekly new hospital admissions,1683.0,Belgium
+2021-04-23,Weekly new hospital admissions,1656.0,Belgium
+2021-04-24,Weekly new hospital admissions,1639.0,Belgium
+2021-04-25,Weekly new hospital admissions,1600.0,Belgium
+2021-04-26,Weekly new hospital admissions,1546.0,Belgium
+2021-04-27,Weekly new hospital admissions,1474.0,Belgium
+2021-04-28,Weekly new hospital admissions,1440.0,Belgium
+2021-04-29,Weekly new hospital admissions,1415.0,Belgium
+2021-04-30,Weekly new hospital admissions,1384.0,Belgium
+2021-05-01,Weekly new hospital admissions,1351.0,Belgium
+2021-05-02,Weekly new hospital admissions,1350.0,Belgium
+2021-05-03,Weekly new hospital admissions,1347.0,Belgium
+2021-05-04,Weekly new hospital admissions,1307.0,Belgium
+2021-05-05,Weekly new hospital admissions,1261.0,Belgium
+2021-05-06,Weekly new hospital admissions,1200.0,Belgium
+2021-05-07,Weekly new hospital admissions,1172.0,Belgium
+2021-05-08,Weekly new hospital admissions,1141.0,Belgium
+2021-05-09,Weekly new hospital admissions,1139.0,Belgium
+2021-05-10,Weekly new hospital admissions,1120.0,Belgium
+2021-05-11,Weekly new hospital admissions,1095.0,Belgium
+2021-05-12,Weekly new hospital admissions,1079.0,Belgium
+2021-05-13,Weekly new hospital admissions,1078.0,Belgium
+2021-05-14,Weekly new hospital admissions,1017.0,Belgium
+2021-05-15,Weekly new hospital admissions,1021.0,Belgium
+2021-05-16,Weekly new hospital admissions,967.0,Belgium
+2021-05-17,Weekly new hospital admissions,932.0,Belgium
+2021-05-18,Weekly new hospital admissions,897.0,Belgium
+2021-05-19,Weekly new hospital admissions,890.0,Belgium
+2021-05-20,Weekly new hospital admissions,867.0,Belgium
+2021-05-21,Weekly new hospital admissions,892.0,Belgium
+2021-05-22,Weekly new hospital admissions,847.0,Belgium
+2021-05-23,Weekly new hospital admissions,830.0,Belgium
+2021-05-24,Weekly new hospital admissions,807.0,Belgium
+2021-05-25,Weekly new hospital admissions,766.0,Belgium
+2021-05-26,Weekly new hospital admissions,735.0,Belgium
+2021-05-27,Weekly new hospital admissions,705.0,Belgium
+2021-05-28,Weekly new hospital admissions,661.0,Belgium
+2021-05-29,Weekly new hospital admissions,630.0,Belgium
+2021-05-30,Weekly new hospital admissions,611.0,Belgium
+2021-05-31,Weekly new hospital admissions,591.0,Belgium
+2021-06-01,Weekly new hospital admissions,593.0,Belgium
+2021-06-02,Weekly new hospital admissions,564.0,Belgium
+2021-06-03,Weekly new hospital admissions,548.0,Belgium
+2021-06-04,Weekly new hospital admissions,539.0,Belgium
+2021-06-05,Weekly new hospital admissions,523.0,Belgium
+2021-06-06,Weekly new hospital admissions,500.0,Belgium
+2021-06-07,Weekly new hospital admissions,486.0,Belgium
+2021-06-08,Weekly new hospital admissions,467.0,Belgium
+2021-06-09,Weekly new hospital admissions,451.0,Belgium
+2021-06-10,Weekly new hospital admissions,424.0,Belgium
+2021-06-11,Weekly new hospital admissions,397.0,Belgium
+2021-06-12,Weekly new hospital admissions,366.0,Belgium
+2021-06-13,Weekly new hospital admissions,345.0,Belgium
+2021-06-14,Weekly new hospital admissions,343.0,Belgium
+2021-06-15,Weekly new hospital admissions,315.0,Belgium
+2021-06-16,Weekly new hospital admissions,277.0,Belgium
+2021-06-17,Weekly new hospital admissions,262.0,Belgium
+2021-06-18,Weekly new hospital admissions,244.0,Belgium
+2021-06-19,Weekly new hospital admissions,232.0,Belgium
+2021-06-20,Weekly new hospital admissions,235.0,Belgium
+2021-06-21,Weekly new hospital admissions,222.0,Belgium
+2021-06-22,Weekly new hospital admissions,201.0,Belgium
+2021-06-23,Weekly new hospital admissions,203.0,Belgium
+2021-06-24,Weekly new hospital admissions,200.0,Belgium
+2021-06-25,Weekly new hospital admissions,186.0,Belgium
+2021-06-26,Weekly new hospital admissions,177.0,Belgium
+2021-06-27,Weekly new hospital admissions,161.0,Belgium
+2021-06-28,Weekly new hospital admissions,149.0,Belgium
+2021-06-29,Weekly new hospital admissions,143.0,Belgium
+2021-06-30,Weekly new hospital admissions,128.0,Belgium
+2021-07-01,Weekly new hospital admissions,105.0,Belgium
+2021-07-02,Weekly new hospital admissions,112.0,Belgium
+2021-07-03,Weekly new hospital admissions,105.0,Belgium
+2021-07-04,Weekly new hospital admissions,109.0,Belgium
+2021-07-05,Weekly new hospital admissions,105.0,Belgium
+2021-07-06,Weekly new hospital admissions,111.0,Belgium
+2021-07-07,Weekly new hospital admissions,125.0,Belgium
+2021-07-08,Weekly new hospital admissions,125.0,Belgium
+2021-07-09,Weekly new hospital admissions,123.0,Belgium
+2021-07-10,Weekly new hospital admissions,122.0,Belgium
+2021-07-11,Weekly new hospital admissions,118.0,Belgium
+2021-07-12,Weekly new hospital admissions,122.0,Belgium
+2021-07-13,Weekly new hospital admissions,126.0,Belgium
+2021-07-14,Weekly new hospital admissions,120.0,Belgium
+2021-07-15,Weekly new hospital admissions,142.0,Belgium
+2021-07-16,Weekly new hospital admissions,149.0,Belgium
+2021-07-17,Weekly new hospital admissions,161.0,Belgium
+2021-07-18,Weekly new hospital admissions,169.0,Belgium
+2021-07-19,Weekly new hospital admissions,181.0,Belgium
+2021-07-20,Weekly new hospital admissions,183.0,Belgium
+2021-07-21,Weekly new hospital admissions,189.0,Belgium
+2021-07-22,Weekly new hospital admissions,188.0,Belgium
+2021-07-23,Weekly new hospital admissions,188.0,Belgium
+2021-07-24,Weekly new hospital admissions,194.0,Belgium
+2021-07-25,Weekly new hospital admissions,201.0,Belgium
+2021-07-26,Weekly new hospital admissions,199.0,Belgium
+2021-07-27,Weekly new hospital admissions,208.0,Belgium
+2021-07-28,Weekly new hospital admissions,223.0,Belgium
+2021-07-29,Weekly new hospital admissions,232.0,Belgium
+2021-07-30,Weekly new hospital admissions,232.0,Belgium
+2021-07-31,Weekly new hospital admissions,240.0,Belgium
+2021-08-01,Weekly new hospital admissions,251.0,Belgium
+2021-08-02,Weekly new hospital admissions,267.0,Belgium
+2021-08-03,Weekly new hospital admissions,272.0,Belgium
+2021-08-04,Weekly new hospital admissions,269.0,Belgium
+2021-08-05,Weekly new hospital admissions,270.0,Belgium
+2021-08-06,Weekly new hospital admissions,286.0,Belgium
+2021-08-07,Weekly new hospital admissions,296.0,Belgium
+2021-08-08,Weekly new hospital admissions,303.0,Belgium
+2021-08-09,Weekly new hospital admissions,313.0,Belgium
+2021-08-10,Weekly new hospital admissions,333.0,Belgium
+2021-08-11,Weekly new hospital admissions,338.0,Belgium
+2021-08-12,Weekly new hospital admissions,358.0,Belgium
+2021-08-13,Weekly new hospital admissions,381.0,Belgium
+2021-08-14,Weekly new hospital admissions,382.0,Belgium
+2021-08-15,Weekly new hospital admissions,384.0,Belgium
+2021-08-16,Weekly new hospital admissions,382.0,Belgium
+2021-08-17,Weekly new hospital admissions,402.0,Belgium
+2021-08-18,Weekly new hospital admissions,423.0,Belgium
+2021-08-19,Weekly new hospital admissions,425.0,Belgium
+2021-08-20,Weekly new hospital admissions,408.0,Belgium
+2021-08-21,Weekly new hospital admissions,415.0,Belgium
+2021-08-22,Weekly new hospital admissions,415.0,Belgium
+2021-08-23,Weekly new hospital admissions,425.0,Belgium
+2021-08-24,Weekly new hospital admissions,415.0,Belgium
+2021-08-25,Weekly new hospital admissions,406.0,Belgium
+2021-08-26,Weekly new hospital admissions,403.0,Belgium
+2021-08-27,Weekly new hospital admissions,412.0,Belgium
+2021-08-28,Weekly new hospital admissions,421.0,Belgium
+2021-08-29,Weekly new hospital admissions,421.0,Belgium
+2021-08-30,Weekly new hospital admissions,420.0,Belgium
+2021-08-31,Weekly new hospital admissions,429.0,Belgium
+2021-09-01,Weekly new hospital admissions,438.0,Belgium
+2021-09-02,Weekly new hospital admissions,455.0,Belgium
+2021-09-03,Weekly new hospital admissions,463.0,Belgium
+2021-09-04,Weekly new hospital admissions,474.0,Belgium
+2021-09-05,Weekly new hospital admissions,483.0,Belgium
+2021-09-06,Weekly new hospital admissions,491.0,Belgium
+2021-09-07,Weekly new hospital admissions,490.0,Belgium
+2021-09-08,Weekly new hospital admissions,488.0,Belgium
+2021-09-09,Weekly new hospital admissions,478.0,Belgium
+2021-09-10,Weekly new hospital admissions,473.0,Belgium
+2021-09-11,Weekly new hospital admissions,440.0,Belgium
+2021-09-12,Weekly new hospital admissions,426.0,Belgium
+2021-09-13,Weekly new hospital admissions,418.0,Belgium
+2021-09-14,Weekly new hospital admissions,413.0,Belgium
+2021-09-15,Weekly new hospital admissions,411.0,Belgium
+2021-09-16,Weekly new hospital admissions,424.0,Belgium
+2021-09-17,Weekly new hospital admissions,419.0,Belgium
+2021-09-18,Weekly new hospital admissions,429.0,Belgium
+2021-09-19,Weekly new hospital admissions,430.0,Belgium
+2021-09-20,Weekly new hospital admissions,418.0,Belgium
+2021-09-21,Weekly new hospital admissions,401.0,Belgium
+2021-09-22,Weekly new hospital admissions,400.0,Belgium
+2021-09-23,Weekly new hospital admissions,388.0,Belgium
+2021-09-24,Weekly new hospital admissions,364.0,Belgium
+2021-09-25,Weekly new hospital admissions,359.0,Belgium
+2021-09-26,Weekly new hospital admissions,355.0,Belgium
+2021-09-27,Weekly new hospital admissions,364.0,Belgium
+2021-09-28,Weekly new hospital admissions,376.0,Belgium
+2021-09-29,Weekly new hospital admissions,381.0,Belgium
+2021-09-30,Weekly new hospital admissions,380.0,Belgium
+2021-10-01,Weekly new hospital admissions,410.0,Belgium
+2021-10-02,Weekly new hospital admissions,421.0,Belgium
+2021-10-03,Weekly new hospital admissions,426.0,Belgium
+2021-10-04,Weekly new hospital admissions,413.0,Belgium
+2021-10-05,Weekly new hospital admissions,416.0,Belgium
+2021-10-06,Weekly new hospital admissions,412.0,Belgium
+2021-10-07,Weekly new hospital admissions,402.0,Belgium
+2021-10-08,Weekly new hospital admissions,404.0,Belgium
+2021-10-09,Weekly new hospital admissions,394.0,Belgium
+2021-10-10,Weekly new hospital admissions,391.0,Belgium
+2021-10-11,Weekly new hospital admissions,399.0,Belgium
+2021-10-12,Weekly new hospital admissions,394.0,Belgium
+2021-10-13,Weekly new hospital admissions,402.0,Belgium
+2021-10-14,Weekly new hospital admissions,426.0,Belgium
+2021-10-15,Weekly new hospital admissions,423.0,Belgium
+2021-10-16,Weekly new hospital admissions,467.0,Belgium
+2021-10-17,Weekly new hospital admissions,485.0,Belgium
+2021-10-18,Weekly new hospital admissions,517.0,Belgium
+2021-10-19,Weekly new hospital admissions,554.0,Belgium
+2021-10-20,Weekly new hospital admissions,614.0,Belgium
+2021-10-21,Weekly new hospital admissions,657.0,Belgium
+2021-10-22,Weekly new hospital admissions,722.0,Belgium
+2021-10-23,Weekly new hospital admissions,739.0,Belgium
+2021-10-24,Weekly new hospital admissions,774.0,Belgium
+2021-10-25,Weekly new hospital admissions,814.0,Belgium
+2021-10-26,Weekly new hospital admissions,865.0,Belgium
+2021-10-27,Weekly new hospital admissions,893.0,Belgium
+2021-10-28,Weekly new hospital admissions,922.0,Belgium
+2021-10-29,Weekly new hospital admissions,981.0,Belgium
+2021-10-30,Weekly new hospital admissions,1054.0,Belgium
+2021-10-31,Weekly new hospital admissions,1072.0,Belgium
+2021-11-01,Weekly new hospital admissions,1075.0,Belgium
+2021-11-02,Weekly new hospital admissions,1085.0,Belgium
+2021-11-03,Weekly new hospital admissions,1164.0,Belgium
+2021-11-04,Weekly new hospital admissions,1215.0,Belgium
+2021-11-05,Weekly new hospital admissions,1209.0,Belgium
+2021-11-06,Weekly new hospital admissions,1200.0,Belgium
+2021-11-07,Weekly new hospital admissions,1242.0,Belgium
+2021-11-08,Weekly new hospital admissions,1292.0,Belgium
+2021-11-09,Weekly new hospital admissions,1384.0,Belgium
+2021-11-10,Weekly new hospital admissions,1438.0,Belgium
+2021-11-11,Weekly new hospital admissions,1464.0,Belgium
+2021-11-12,Weekly new hospital admissions,1462.0,Belgium
+2021-11-13,Weekly new hospital admissions,1567.0,Belgium
+2021-11-14,Weekly new hospital admissions,1622.0,Belgium
+2021-11-15,Weekly new hospital admissions,1656.0,Belgium
+2021-11-16,Weekly new hospital admissions,1684.0,Belgium
+2021-11-17,Weekly new hospital admissions,1711.0,Belgium
+2021-11-18,Weekly new hospital admissions,1779.0,Belgium
+2021-11-19,Weekly new hospital admissions,1914.0,Belgium
+2021-11-20,Weekly new hospital admissions,1924.0,Belgium
+2021-11-21,Weekly new hospital admissions,1966.0,Belgium
+2021-11-22,Weekly new hospital admissions,2000.0,Belgium
+2021-11-23,Weekly new hospital admissions,2081.0,Belgium
+2021-11-24,Weekly new hospital admissions,2107.0,Belgium
+2021-11-25,Weekly new hospital admissions,2166.0,Belgium
+2021-11-26,Weekly new hospital admissions,2177.0,Belgium
+2021-11-27,Weekly new hospital admissions,2206.0,Belgium
+2021-11-28,Weekly new hospital admissions,2200.0,Belgium
+2021-11-29,Weekly new hospital admissions,2234.0,Belgium
+2021-11-30,Weekly new hospital admissions,2251.0,Belgium
+2021-12-01,Weekly new hospital admissions,2257.0,Belgium
+2021-12-02,Weekly new hospital admissions,2228.0,Belgium
+2021-12-03,Weekly new hospital admissions,2203.0,Belgium
+2021-12-04,Weekly new hospital admissions,2193.0,Belgium
+2021-12-05,Weekly new hospital admissions,2174.0,Belgium
+2021-12-06,Weekly new hospital admissions,2105.0,Belgium
+2021-12-07,Weekly new hospital admissions,2051.0,Belgium
+2021-12-08,Weekly new hospital admissions,1999.0,Belgium
+2021-12-09,Weekly new hospital admissions,1983.0,Belgium
+2021-12-10,Weekly new hospital admissions,1977.0,Belgium
+2021-12-11,Weekly new hospital admissions,1930.0,Belgium
+2021-12-12,Weekly new hospital admissions,1911.0,Belgium
+2021-12-13,Weekly new hospital admissions,1889.0,Belgium
+2021-12-14,Weekly new hospital admissions,1845.0,Belgium
+2021-12-15,Weekly new hospital admissions,1778.0,Belgium
+2021-12-16,Weekly new hospital admissions,1655.0,Belgium
+2021-12-17,Weekly new hospital admissions,1542.0,Belgium
+2021-12-18,Weekly new hospital admissions,1452.0,Belgium
+2021-12-19,Weekly new hospital admissions,1375.0,Belgium
+2021-12-20,Weekly new hospital admissions,1330.0,Belgium
+2021-12-21,Weekly new hospital admissions,1213.0,Belgium
+2021-12-22,Weekly new hospital admissions,1152.0,Belgium
+2021-12-23,Weekly new hospital admissions,1112.0,Belgium
+2021-12-24,Weekly new hospital admissions,1058.0,Belgium
+2021-12-25,Weekly new hospital admissions,1017.0,Belgium
+2021-12-26,Weekly new hospital admissions,996.0,Belgium
+2021-12-27,Weekly new hospital admissions,950.0,Belgium
+2021-12-28,Weekly new hospital admissions,948.0,Belgium
+2021-12-29,Weekly new hospital admissions,924.0,Belgium
+2021-12-30,Weekly new hospital admissions,942.0,Belgium
+2021-12-31,Weekly new hospital admissions,976.0,Belgium
+2022-01-01,Weekly new hospital admissions,996.0,Belgium
+2022-01-02,Weekly new hospital admissions,1037.0,Belgium
+2022-01-03,Weekly new hospital admissions,1093.0,Belgium
+2022-01-04,Weekly new hospital admissions,1141.0,Belgium
+2022-01-05,Weekly new hospital admissions,1186.0,Belgium
+2022-01-06,Weekly new hospital admissions,1202.0,Belgium
+2022-01-07,Weekly new hospital admissions,1232.0,Belgium
+2022-01-08,Weekly new hospital admissions,1279.0,Belgium
+2022-01-09,Weekly new hospital admissions,1285.0,Belgium
+2022-01-10,Weekly new hospital admissions,1274.0,Belgium
+2022-01-11,Weekly new hospital admissions,1256.0,Belgium
+2022-01-12,Weekly new hospital admissions,1274.0,Belgium
+2022-01-13,Weekly new hospital admissions,1283.0,Belgium
+2022-01-14,Weekly new hospital admissions,1328.0,Belgium
+2022-01-15,Weekly new hospital admissions,1393.0,Belgium
+2022-01-16,Weekly new hospital admissions,1400.0,Belgium
+2022-01-17,Weekly new hospital admissions,1436.0,Belgium
+2022-01-18,Weekly new hospital admissions,1533.0,Belgium
+2022-01-19,Weekly new hospital admissions,1634.0,Belgium
+2022-01-20,Weekly new hospital admissions,1791.0,Belgium
+2022-01-21,Weekly new hospital admissions,1901.0,Belgium
+2022-01-22,Weekly new hospital admissions,1953.0,Belgium
+2022-01-23,Weekly new hospital admissions,2068.0,Belgium
+2022-01-24,Weekly new hospital admissions,2201.0,Belgium
+2022-01-25,Weekly new hospital admissions,2320.0,Belgium
+2022-01-26,Weekly new hospital admissions,2357.0,Belgium
+2022-01-27,Weekly new hospital admissions,2423.0,Belgium
+2022-01-28,Weekly new hospital admissions,2496.0,Belgium
+2022-01-29,Weekly new hospital admissions,2538.0,Belgium
+2022-01-30,Weekly new hospital admissions,2525.0,Belgium
+2022-01-31,Weekly new hospital admissions,2551.0,Belgium
+2022-02-01,Weekly new hospital admissions,2560.0,Belgium
+2022-02-02,Weekly new hospital admissions,2576.0,Belgium
+2022-02-03,Weekly new hospital admissions,2555.0,Belgium
+2022-02-04,Weekly new hospital admissions,2476.0,Belgium
+2022-02-05,Weekly new hospital admissions,2422.0,Belgium
+2022-02-06,Weekly new hospital admissions,2443.0,Belgium
+2022-02-07,Weekly new hospital admissions,2402.0,Belgium
+2022-02-08,Weekly new hospital admissions,2279.0,Belgium
+2022-02-09,Weekly new hospital admissions,2211.0,Belgium
+2022-02-10,Weekly new hospital admissions,2083.0,Belgium
+2022-02-11,Weekly new hospital admissions,2066.0,Belgium
+2022-02-12,Weekly new hospital admissions,2042.0,Belgium
+2022-02-13,Weekly new hospital admissions,1958.0,Belgium
+2022-02-14,Weekly new hospital admissions,1824.0,Belgium
+2022-02-15,Weekly new hospital admissions,1826.0,Belgium
+2022-02-16,Weekly new hospital admissions,1773.0,Belgium
+2022-02-17,Weekly new hospital admissions,1723.0,Belgium
+2022-02-18,Weekly new hospital admissions,1602.0,Belgium
+2022-02-19,Weekly new hospital admissions,1522.0,Belgium
+2022-02-20,Weekly new hospital admissions,1468.0,Belgium
+2022-02-21,Weekly new hospital admissions,1468.0,Belgium
+2022-02-22,Weekly new hospital admissions,1359.0,Belgium
+2022-02-23,Weekly new hospital admissions,1303.0,Belgium
+2022-02-24,Weekly new hospital admissions,1256.0,Belgium
+2022-02-25,Weekly new hospital admissions,1204.0,Belgium
+2022-02-26,Weekly new hospital admissions,1116.0,Belgium
+2022-02-27,Weekly new hospital admissions,1051.0,Belgium
+2022-02-28,Weekly new hospital admissions,1003.0,Belgium
+2022-03-01,Weekly new hospital admissions,969.0,Belgium
+2022-03-02,Weekly new hospital admissions,951.0,Belgium
+2022-03-03,Weekly new hospital admissions,929.0,Belgium
+2022-03-04,Weekly new hospital admissions,932.0,Belgium
+2022-03-05,Weekly new hospital admissions,947.0,Belgium
+2022-03-06,Weekly new hospital admissions,985.0,Belgium
+2022-03-07,Weekly new hospital admissions,989.0,Belgium
+2022-03-08,Weekly new hospital admissions,1003.0,Belgium
+2022-03-09,Weekly new hospital admissions,997.0,Belgium
+2022-03-10,Weekly new hospital admissions,1003.0,Belgium
+2022-03-11,Weekly new hospital admissions,1012.0,Belgium
+2022-03-12,Weekly new hospital admissions,1043.0,Belgium
+2022-03-13,Weekly new hospital admissions,1024.0,Belgium
+2022-03-14,Weekly new hospital admissions,1070.0,Belgium
+2022-03-15,Weekly new hospital admissions,1096.0,Belgium
+2022-03-16,Weekly new hospital admissions,1124.0,Belgium
+2022-03-17,Weekly new hospital admissions,1143.0,Belgium
+2022-03-18,Weekly new hospital admissions,1187.0,Belgium
+2022-03-19,Weekly new hospital admissions,1185.0,Belgium
+2022-03-20,Weekly new hospital admissions,1226.0,Belgium
+2022-03-21,Weekly new hospital admissions,1209.0,Belgium
+2022-03-22,Weekly new hospital admissions,1240.0,Belgium
+2022-03-23,Weekly new hospital admissions,1284.0,Belgium
+2022-03-24,Weekly new hospital admissions,1324.0,Belgium
+2022-03-25,Weekly new hospital admissions,1344.0,Belgium
+2022-03-26,Weekly new hospital admissions,1388.0,Belgium
+2022-03-27,Weekly new hospital admissions,1418.0,Belgium
+2022-03-28,Weekly new hospital admissions,1453.0,Belgium
+2022-03-29,Weekly new hospital admissions,1483.0,Belgium
+2022-03-30,Weekly new hospital admissions,1485.0,Belgium
+2022-03-31,Weekly new hospital admissions,1544.0,Belgium
+2022-04-01,Weekly new hospital admissions,1552.0,Belgium
+2022-04-02,Weekly new hospital admissions,1549.0,Belgium
+2022-04-03,Weekly new hospital admissions,1535.0,Belgium
+2022-04-04,Weekly new hospital admissions,1512.0,Belgium
+2022-04-05,Weekly new hospital admissions,1555.0,Belgium
+2022-04-06,Weekly new hospital admissions,1536.0,Belgium
+2022-04-07,Weekly new hospital admissions,1512.0,Belgium
+2022-04-08,Weekly new hospital admissions,1512.0,Belgium
+2022-04-09,Weekly new hospital admissions,1521.0,Belgium
+2022-04-10,Weekly new hospital admissions,1512.0,Belgium
+2022-04-11,Weekly new hospital admissions,1555.0,Belgium
+2022-04-12,Weekly new hospital admissions,1525.0,Belgium
+2022-04-13,Weekly new hospital admissions,1568.0,Belgium
+2022-04-14,Weekly new hospital admissions,1566.0,Belgium
+2022-04-15,Weekly new hospital admissions,1537.0,Belgium
+2022-04-16,Weekly new hospital admissions,1531.0,Belgium
+2022-04-17,Weekly new hospital admissions,1528.0,Belgium
+2022-04-18,Weekly new hospital admissions,1473.0,Belgium
+2022-04-19,Weekly new hospital admissions,1396.0,Belgium
+2022-04-20,Weekly new hospital admissions,1358.0,Belgium
+2022-04-21,Weekly new hospital admissions,1316.0,Belgium
+2022-04-22,Weekly new hospital admissions,1310.0,Belgium
+2022-04-23,Weekly new hospital admissions,1287.0,Belgium
+2022-04-24,Weekly new hospital admissions,1253.0,Belgium
+2022-04-25,Weekly new hospital admissions,1233.0,Belgium
+2022-04-26,Weekly new hospital admissions,1230.0,Belgium
+2022-04-27,Weekly new hospital admissions,1174.0,Belgium
+2022-04-28,Weekly new hospital admissions,1125.0,Belgium
+2022-04-29,Weekly new hospital admissions,1065.0,Belgium
+2022-04-30,Weekly new hospital admissions,1024.0,Belgium
+2022-05-01,Weekly new hospital admissions,988.0,Belgium
+2022-05-02,Weekly new hospital admissions,973.0,Belgium
+2022-05-03,Weekly new hospital admissions,965.0,Belgium
+2022-05-04,Weekly new hospital admissions,924.0,Belgium
+2022-05-05,Weekly new hospital admissions,945.0,Belgium
+2022-05-06,Weekly new hospital admissions,928.0,Belgium
+2022-05-07,Weekly new hospital admissions,896.0,Belgium
+2022-05-08,Weekly new hospital admissions,899.0,Belgium
+2022-05-09,Weekly new hospital admissions,878.0,Belgium
+2022-05-10,Weekly new hospital admissions,864.0,Belgium
+2022-05-11,Weekly new hospital admissions,857.0,Belgium
+2022-05-12,Weekly new hospital admissions,786.0,Belgium
+2022-05-13,Weekly new hospital admissions,752.0,Belgium
+2022-05-14,Weekly new hospital admissions,732.0,Belgium
+2022-05-15,Weekly new hospital admissions,735.0,Belgium
+2022-05-16,Weekly new hospital admissions,720.0,Belgium
+2022-05-17,Weekly new hospital admissions,667.0,Belgium
+2022-05-18,Weekly new hospital admissions,641.0,Belgium
+2022-05-19,Weekly new hospital admissions,621.0,Belgium
+2022-05-20,Weekly new hospital admissions,627.0,Belgium
+2022-05-21,Weekly new hospital admissions,601.0,Belgium
+2022-05-22,Weekly new hospital admissions,570.0,Belgium
+2022-05-23,Weekly new hospital admissions,560.0,Belgium
+2022-05-24,Weekly new hospital admissions,534.0,Belgium
+2022-05-25,Weekly new hospital admissions,520.0,Belgium
+2022-05-26,Weekly new hospital admissions,508.0,Belgium
+2022-05-27,Weekly new hospital admissions,468.0,Belgium
+2022-05-28,Weekly new hospital admissions,466.0,Belgium
+2022-05-29,Weekly new hospital admissions,448.0,Belgium
+2022-05-30,Weekly new hospital admissions,422.0,Belgium
+2022-05-31,Weekly new hospital admissions,395.0,Belgium
+2022-06-01,Weekly new hospital admissions,379.0,Belgium
+2022-06-02,Weekly new hospital admissions,365.0,Belgium
+2022-06-03,Weekly new hospital admissions,369.0,Belgium
+2022-06-04,Weekly new hospital admissions,362.0,Belgium
+2022-06-05,Weekly new hospital admissions,365.0,Belgium
+2022-06-06,Weekly new hospital admissions,374.0,Belgium
+2022-06-07,Weekly new hospital admissions,369.0,Belgium
+2022-06-08,Weekly new hospital admissions,378.0,Belgium
+2022-06-09,Weekly new hospital admissions,392.0,Belgium
+2022-06-10,Weekly new hospital admissions,400.0,Belgium
+2022-06-11,Weekly new hospital admissions,410.0,Belgium
+2022-06-12,Weekly new hospital admissions,419.0,Belgium
+2022-06-13,Weekly new hospital admissions,429.0,Belgium
+2022-06-14,Weekly new hospital admissions,449.0,Belgium
+2022-06-15,Weekly new hospital admissions,456.0,Belgium
+2022-06-16,Weekly new hospital admissions,467.0,Belgium
+2022-06-17,Weekly new hospital admissions,465.0,Belgium
+2022-06-18,Weekly new hospital admissions,488.0,Belgium
+2022-06-19,Weekly new hospital admissions,516.0,Belgium
+2022-06-20,Weekly new hospital admissions,540.0,Belgium
+2022-06-21,Weekly new hospital admissions,590.0,Belgium
+2022-06-22,Weekly new hospital admissions,610.0,Belgium
+2022-06-23,Weekly new hospital admissions,625.0,Belgium
+2022-06-24,Weekly new hospital admissions,671.0,Belgium
+2022-06-25,Weekly new hospital admissions,699.0,Belgium
+2022-06-26,Weekly new hospital admissions,704.0,Belgium
+2022-06-27,Weekly new hospital admissions,718.0,Belgium
+2022-06-28,Weekly new hospital admissions,705.0,Belgium
+2022-06-29,Weekly new hospital admissions,737.0,Belgium
+2022-06-30,Weekly new hospital admissions,766.0,Belgium
+2022-07-01,Weekly new hospital admissions,793.0,Belgium
+2022-07-02,Weekly new hospital admissions,821.0,Belgium
+2022-07-03,Weekly new hospital admissions,845.0,Belgium
+2022-07-04,Weekly new hospital admissions,852.0,Belgium
+2022-07-05,Weekly new hospital admissions,908.0,Belgium
+2022-07-06,Weekly new hospital admissions,937.0,Belgium
+2022-07-07,Weekly new hospital admissions,981.0,Belgium
+2022-07-08,Weekly new hospital admissions,1003.0,Belgium
+2022-07-09,Weekly new hospital admissions,991.0,Belgium
+2022-07-10,Weekly new hospital admissions,1013.0,Belgium
+2022-07-11,Weekly new hospital admissions,1051.0,Belgium
+2022-07-12,Weekly new hospital admissions,1092.0,Belgium
+2022-07-13,Weekly new hospital admissions,1093.0,Belgium
+2022-07-14,Weekly new hospital admissions,1107.0,Belgium
+2022-07-15,Weekly new hospital admissions,1106.0,Belgium
+2022-07-16,Weekly new hospital admissions,1157.0,Belgium
+2022-07-17,Weekly new hospital admissions,1174.0,Belgium
+2022-07-18,Weekly new hospital admissions,1151.0,Belgium
+2022-07-19,Weekly new hospital admissions,1121.0,Belgium
+2022-07-20,Weekly new hospital admissions,1145.0,Belgium
+2022-07-21,Weekly new hospital admissions,1130.0,Belgium
+2022-07-22,Weekly new hospital admissions,1123.0,Belgium
+2022-07-23,Weekly new hospital admissions,1110.0,Belgium
+2022-07-24,Weekly new hospital admissions,1104.0,Belgium
+2022-07-25,Weekly new hospital admissions,1138.0,Belgium
+2022-07-26,Weekly new hospital admissions,1144.0,Belgium
+2022-07-27,Weekly new hospital admissions,1090.0,Belgium
+2022-07-28,Weekly new hospital admissions,1059.0,Belgium
+2022-07-29,Weekly new hospital admissions,1016.0,Belgium
+2022-07-30,Weekly new hospital admissions,974.0,Belgium
+2022-07-31,Weekly new hospital admissions,941.0,Belgium
+2022-08-01,Weekly new hospital admissions,912.0,Belgium
+2022-08-02,Weekly new hospital admissions,875.0,Belgium
+2022-08-03,Weekly new hospital admissions,859.0,Belgium
+2022-08-04,Weekly new hospital admissions,839.0,Belgium
+2022-08-05,Weekly new hospital admissions,852.0,Belgium
+2022-08-06,Weekly new hospital admissions,820.0,Belgium
+2022-08-07,Weekly new hospital admissions,803.0,Belgium
+2022-08-08,Weekly new hospital admissions,753.0,Belgium
+2022-08-09,Weekly new hospital admissions,725.0,Belgium
+2022-08-10,Weekly new hospital admissions,718.0,Belgium
+2022-08-11,Weekly new hospital admissions,697.0,Belgium
+2022-08-12,Weekly new hospital admissions,680.0,Belgium
+2022-08-13,Weekly new hospital admissions,675.0,Belgium
+2022-08-14,Weekly new hospital admissions,663.0,Belgium
+2022-08-15,Weekly new hospital admissions,668.0,Belgium
+2022-08-16,Weekly new hospital admissions,617.0,Belgium
+2022-08-17,Weekly new hospital admissions,630.0,Belgium
+2022-08-18,Weekly new hospital admissions,618.0,Belgium
+2022-08-19,Weekly new hospital admissions,602.0,Belgium
+2022-08-20,Weekly new hospital admissions,594.0,Belgium
+2022-08-21,Weekly new hospital admissions,562.0,Belgium
+2022-08-22,Weekly new hospital admissions,557.0,Belgium
+2022-08-23,Weekly new hospital admissions,562.0,Belgium
+2022-08-24,Weekly new hospital admissions,510.0,Belgium
+2022-08-25,Weekly new hospital admissions,502.0,Belgium
+2022-08-26,Weekly new hospital admissions,489.0,Belgium
+2022-08-27,Weekly new hospital admissions,458.0,Belgium
+2022-08-28,Weekly new hospital admissions,463.0,Belgium
+2022-08-29,Weekly new hospital admissions,450.0,Belgium
+2022-08-30,Weekly new hospital admissions,431.0,Belgium
+2022-08-31,Weekly new hospital admissions,427.0,Belgium
+2022-09-01,Weekly new hospital admissions,414.0,Belgium
+2022-09-02,Weekly new hospital admissions,400.0,Belgium
+2022-09-03,Weekly new hospital admissions,410.0,Belgium
+2022-09-04,Weekly new hospital admissions,414.0,Belgium
+2022-09-05,Weekly new hospital admissions,409.0,Belgium
+2022-09-06,Weekly new hospital admissions,418.0,Belgium
+2022-09-07,Weekly new hospital admissions,424.0,Belgium
+2022-09-08,Weekly new hospital admissions,417.0,Belgium
+2022-09-09,Weekly new hospital admissions,416.0,Belgium
+2022-09-10,Weekly new hospital admissions,404.0,Belgium
+2022-09-11,Weekly new hospital admissions,394.0,Belgium
+2022-09-12,Weekly new hospital admissions,401.0,Belgium
+2022-09-13,Weekly new hospital admissions,388.0,Belgium
+2022-09-14,Weekly new hospital admissions,391.0,Belgium
+2022-09-15,Weekly new hospital admissions,391.0,Belgium
+2022-09-16,Weekly new hospital admissions,396.0,Belgium
+2022-09-17,Weekly new hospital admissions,395.0,Belgium
+2022-09-18,Weekly new hospital admissions,382.0,Belgium
+2022-09-19,Weekly new hospital admissions,364.0,Belgium
+2022-09-20,Weekly new hospital admissions,384.0,Belgium
+2022-09-21,Weekly new hospital admissions,381.0,Belgium
+2022-09-22,Weekly new hospital admissions,412.0,Belgium
+2022-09-23,Weekly new hospital admissions,415.0,Belgium
+2022-09-24,Weekly new hospital admissions,469.0,Belgium
+2022-09-25,Weekly new hospital admissions,487.0,Belgium
+2022-09-26,Weekly new hospital admissions,514.0,Belgium
+2022-09-27,Weekly new hospital admissions,539.0,Belgium
+2022-09-28,Weekly new hospital admissions,570.0,Belgium
+2022-09-29,Weekly new hospital admissions,586.0,Belgium
+2022-09-30,Weekly new hospital admissions,636.0,Belgium
+2022-10-01,Weekly new hospital admissions,636.0,Belgium
+2022-10-02,Weekly new hospital admissions,651.0,Belgium
+2022-10-03,Weekly new hospital admissions,661.0,Belgium
+2022-10-04,Weekly new hospital admissions,699.0,Belgium
+2022-10-05,Weekly new hospital admissions,713.0,Belgium
+2022-10-06,Weekly new hospital admissions,730.0,Belgium
+2022-10-07,Weekly new hospital admissions,744.0,Belgium
+2022-10-08,Weekly new hospital admissions,765.0,Belgium
+2022-10-09,Weekly new hospital admissions,772.0,Belgium
+2022-10-10,Weekly new hospital admissions,782.0,Belgium
+2022-10-11,Weekly new hospital admissions,770.0,Belgium
+2022-10-12,Weekly new hospital admissions,776.0,Belgium
+2022-10-13,Weekly new hospital admissions,779.0,Belgium
+2022-10-14,Weekly new hospital admissions,773.0,Belgium
+2022-10-15,Weekly new hospital admissions,756.0,Belgium
+2022-10-16,Weekly new hospital admissions,742.0,Belgium
+2022-10-17,Weekly new hospital admissions,758.0,Belgium
+2022-10-18,Weekly new hospital admissions,791.0,Belgium
+2022-10-19,Weekly new hospital admissions,784.0,Belgium
+2022-10-20,Weekly new hospital admissions,778.0,Belgium
+2022-10-21,Weekly new hospital admissions,764.0,Belgium
+2022-10-22,Weekly new hospital admissions,746.0,Belgium
+2022-10-23,Weekly new hospital admissions,747.0,Belgium
+2022-10-24,Weekly new hospital admissions,719.0,Belgium
+2022-10-25,Weekly new hospital admissions,658.0,Belgium
+2022-10-26,Weekly new hospital admissions,624.0,Belgium
+2022-10-27,Weekly new hospital admissions,582.0,Belgium
+2022-10-28,Weekly new hospital admissions,548.0,Belgium
+2022-10-29,Weekly new hospital admissions,524.0,Belgium
+2022-10-30,Weekly new hospital admissions,512.0,Belgium
+2022-10-31,Weekly new hospital admissions,474.0,Belgium
+2022-11-01,Weekly new hospital admissions,427.0,Belgium
+2022-11-02,Weekly new hospital admissions,403.0,Belgium
+2022-11-03,Weekly new hospital admissions,387.0,Belgium
+2022-11-04,Weekly new hospital admissions,361.0,Belgium
+2022-11-05,Weekly new hospital admissions,352.0,Belgium
+2022-11-06,Weekly new hospital admissions,344.0,Belgium
+2022-11-07,Weekly new hospital admissions,345.0,Belgium
+2022-11-08,Weekly new hospital admissions,353.0,Belgium
+2022-11-09,Weekly new hospital admissions,378.0,Belgium
+2022-11-10,Weekly new hospital admissions,388.0,Belgium
+2022-11-11,Weekly new hospital admissions,385.0,Belgium
+2022-11-12,Weekly new hospital admissions,373.0,Belgium
+2022-11-13,Weekly new hospital admissions,363.0,Belgium
+2022-11-14,Weekly new hospital admissions,373.0,Belgium
+2022-11-15,Weekly new hospital admissions,350.0,Belgium
+2022-11-16,Weekly new hospital admissions,315.0,Belgium
+2022-11-17,Weekly new hospital admissions,299.0,Belgium
+2022-11-18,Weekly new hospital admissions,320.0,Belgium
+2022-11-19,Weekly new hospital admissions,321.0,Belgium
+2022-11-20,Weekly new hospital admissions,330.0,Belgium
+2022-11-21,Weekly new hospital admissions,315.0,Belgium
+2022-11-22,Weekly new hospital admissions,348.0,Belgium
+2022-11-23,Weekly new hospital admissions,360.0,Belgium
+2022-11-24,Weekly new hospital admissions,382.0,Belgium
+2022-11-25,Weekly new hospital admissions,390.0,Belgium
+2022-11-26,Weekly new hospital admissions,412.0,Belgium
+2022-11-27,Weekly new hospital admissions,416.0,Belgium
+2022-11-28,Weekly new hospital admissions,441.0,Belgium
+2022-11-29,Weekly new hospital admissions,469.0,Belgium
+2022-11-30,Weekly new hospital admissions,489.0,Belgium
+2022-12-01,Weekly new hospital admissions,499.0,Belgium
+2022-12-02,Weekly new hospital admissions,493.0,Belgium
+2022-12-03,Weekly new hospital admissions,508.0,Belgium
+2022-12-04,Weekly new hospital admissions,533.0,Belgium
+2022-12-05,Weekly new hospital admissions,542.0,Belgium
+2022-12-06,Weekly new hospital admissions,555.0,Belgium
+2022-12-07,Weekly new hospital admissions,560.0,Belgium
+2022-12-08,Weekly new hospital admissions,585.0,Belgium
+2022-12-09,Weekly new hospital admissions,618.0,Belgium
+2022-12-10,Weekly new hospital admissions,656.0,Belgium
+2022-12-11,Weekly new hospital admissions,666.0,Belgium
+2022-12-12,Weekly new hospital admissions,694.0,Belgium
+2022-12-13,Weekly new hospital admissions,712.0,Belgium
+2022-12-14,Weekly new hospital admissions,768.0,Belgium
+2022-12-15,Weekly new hospital admissions,801.0,Belgium
+2022-12-16,Weekly new hospital admissions,856.0,Belgium
+2022-12-17,Weekly new hospital admissions,873.0,Belgium
+2022-12-18,Weekly new hospital admissions,890.0,Belgium
+2022-12-19,Weekly new hospital admissions,885.0,Belgium
+2022-12-20,Weekly new hospital admissions,908.0,Belgium
+2022-12-21,Weekly new hospital admissions,945.0,Belgium
+2022-12-22,Weekly new hospital admissions,937.0,Belgium
+2022-12-23,Weekly new hospital admissions,942.0,Belgium
+2022-12-24,Weekly new hospital admissions,909.0,Belgium
+2022-12-25,Weekly new hospital admissions,932.0,Belgium
+2022-12-26,Weekly new hospital admissions,933.0,Belgium
+2022-12-27,Weekly new hospital admissions,911.0,Belgium
+2022-12-28,Weekly new hospital admissions,893.0,Belgium
+2022-12-29,Weekly new hospital admissions,899.0,Belgium
+2022-12-30,Weekly new hospital admissions,850.0,Belgium
+2022-12-31,Weekly new hospital admissions,858.0,Belgium
+2023-01-01,Weekly new hospital admissions,801.0,Belgium
+2023-01-02,Weekly new hospital admissions,781.0,Belgium
+2023-01-03,Weekly new hospital admissions,743.0,Belgium
+2023-01-04,Weekly new hospital admissions,677.0,Belgium
+2023-01-05,Weekly new hospital admissions,615.0,Belgium
+2023-01-06,Weekly new hospital admissions,561.0,Belgium
+2023-01-07,Weekly new hospital admissions,530.0,Belgium
+2023-01-08,Weekly new hospital admissions,517.0,Belgium
+2023-01-09,Weekly new hospital admissions,497.0,Belgium
+2023-01-10,Weekly new hospital admissions,480.0,Belgium
+2023-01-11,Weekly new hospital admissions,459.0,Belgium
+2023-01-12,Weekly new hospital admissions,428.0,Belgium
+2023-01-13,Weekly new hospital admissions,421.0,Belgium
+2023-01-14,Weekly new hospital admissions,400.0,Belgium
+2023-01-15,Weekly new hospital admissions,393.0,Belgium
+2023-01-16,Weekly new hospital admissions,389.0,Belgium
+2023-01-17,Weekly new hospital admissions,385.0,Belgium
+2023-01-18,Weekly new hospital admissions,366.0,Belgium
+2023-01-19,Weekly new hospital admissions,353.0,Belgium
+2023-01-20,Weekly new hospital admissions,352.0,Belgium
+2023-01-21,Weekly new hospital admissions,336.0,Belgium
+2023-01-22,Weekly new hospital admissions,326.0,Belgium
+2023-01-23,Weekly new hospital admissions,317.0,Belgium
+2023-01-24,Weekly new hospital admissions,305.0,Belgium
+2023-01-25,Weekly new hospital admissions,305.0,Belgium
+2023-01-26,Weekly new hospital admissions,315.0,Belgium
+2023-01-27,Weekly new hospital admissions,321.0,Belgium
+2023-01-28,Weekly new hospital admissions,345.0,Belgium
+2023-01-29,Weekly new hospital admissions,356.0,Belgium
+2023-01-30,Weekly new hospital admissions,375.0,Belgium
+2023-01-31,Weekly new hospital admissions,384.0,Belgium
+2023-02-01,Weekly new hospital admissions,399.0,Belgium
+2023-02-02,Weekly new hospital admissions,428.0,Belgium
+2023-02-03,Weekly new hospital admissions,427.0,Belgium
+2023-02-04,Weekly new hospital admissions,429.0,Belgium
+2023-02-05,Weekly new hospital admissions,442.0,Belgium
+2023-02-06,Weekly new hospital admissions,439.0,Belgium
+2023-02-07,Weekly new hospital admissions,456.0,Belgium
+2023-02-08,Weekly new hospital admissions,474.0,Belgium
+2023-02-09,Weekly new hospital admissions,473.0,Belgium
+2023-02-10,Weekly new hospital admissions,519.0,Belgium
+2023-02-11,Weekly new hospital admissions,538.0,Belgium
+2023-02-12,Weekly new hospital admissions,560.0,Belgium
+2023-02-13,Weekly new hospital admissions,587.0,Belgium
+2023-02-14,Weekly new hospital admissions,606.0,Belgium
+2023-02-15,Weekly new hospital admissions,621.0,Belgium
+2023-02-16,Weekly new hospital admissions,656.0,Belgium
+2023-02-17,Weekly new hospital admissions,660.0,Belgium
+2023-02-18,Weekly new hospital admissions,709.0,Belgium
+2023-02-19,Weekly new hospital admissions,721.0,Belgium
+2023-02-20,Weekly new hospital admissions,727.0,Belgium
+2023-02-21,Weekly new hospital admissions,773.0,Belgium
+2023-02-22,Weekly new hospital admissions,806.0,Belgium
+2023-02-23,Weekly new hospital admissions,837.0,Belgium
+2023-02-24,Weekly new hospital admissions,854.0,Belgium
+2023-02-25,Weekly new hospital admissions,870.0,Belgium
+2023-02-26,Weekly new hospital admissions,870.0,Belgium
+2023-02-27,Weekly new hospital admissions,871.0,Belgium
+2023-02-28,Weekly new hospital admissions,873.0,Belgium
+2023-03-01,Weekly new hospital admissions,914.0,Belgium
+2023-03-02,Weekly new hospital admissions,911.0,Belgium
+2023-03-03,Weekly new hospital admissions,920.0,Belgium
+2023-03-04,Weekly new hospital admissions,917.0,Belgium
+2023-03-05,Weekly new hospital admissions,938.0,Belgium
+2023-03-06,Weekly new hospital admissions,998.0,Belgium
+2023-03-07,Weekly new hospital admissions,1047.0,Belgium
+2023-03-08,Weekly new hospital admissions,1069.0,Belgium
+2023-03-09,Weekly new hospital admissions,1078.0,Belgium
+2023-03-10,Weekly new hospital admissions,1115.0,Belgium
+2023-03-11,Weekly new hospital admissions,1170.0,Belgium
+2023-03-12,Weekly new hospital admissions,1184.0,Belgium
+2023-03-13,Weekly new hospital admissions,1169.0,Belgium
+2023-03-14,Weekly new hospital admissions,1189.0,Belgium
+2023-03-15,Weekly new hospital admissions,1175.0,Belgium
+2023-03-16,Weekly new hospital admissions,1207.0,Belgium
+2023-03-17,Weekly new hospital admissions,1189.0,Belgium
+2023-03-18,Weekly new hospital admissions,1162.0,Belgium
+2023-03-19,Weekly new hospital admissions,1162.0,Belgium
+2023-03-20,Weekly new hospital admissions,1142.0,Belgium
+2023-03-21,Weekly new hospital admissions,1086.0,Belgium
+2023-03-22,Weekly new hospital admissions,1055.0,Belgium
+2023-03-23,Weekly new hospital admissions,1054.0,Belgium
+2023-03-24,Weekly new hospital admissions,1055.0,Belgium
+2023-03-25,Weekly new hospital admissions,1015.0,Belgium
+2023-03-26,Weekly new hospital admissions,998.0,Belgium
+2023-03-27,Weekly new hospital admissions,991.0,Belgium
+2023-03-28,Weekly new hospital admissions,965.0,Belgium
+2023-03-29,Weekly new hospital admissions,951.0,Belgium
+2023-03-30,Weekly new hospital admissions,877.0,Belgium
+2023-03-31,Weekly new hospital admissions,866.0,Belgium
+2023-04-01,Weekly new hospital admissions,858.0,Belgium
+2023-04-02,Weekly new hospital admissions,820.0,Belgium
+2023-04-03,Weekly new hospital admissions,780.0,Belgium
+2023-04-04,Weekly new hospital admissions,751.0,Belgium
+2023-04-05,Weekly new hospital admissions,709.0,Belgium
+2023-04-06,Weekly new hospital admissions,714.0,Belgium
+2023-04-07,Weekly new hospital admissions,661.0,Belgium
+2023-04-08,Weekly new hospital admissions,636.0,Belgium
+2023-04-09,Weekly new hospital admissions,632.0,Belgium
+2023-04-10,Weekly new hospital admissions,634.0,Belgium
+2023-04-11,Weekly new hospital admissions,605.0,Belgium
+2023-04-12,Weekly new hospital admissions,624.0,Belgium
+2023-04-13,Weekly new hospital admissions,601.0,Belgium
+2023-04-14,Weekly new hospital admissions,583.0,Belgium
+2023-04-15,Weekly new hospital admissions,565.0,Belgium
+2023-04-16,Weekly new hospital admissions,547.0,Belgium
+2023-04-17,Weekly new hospital admissions,532.0,Belgium
+2023-04-18,Weekly new hospital admissions,531.0,Belgium
+2023-04-19,Weekly new hospital admissions,492.0,Belgium
+2023-04-20,Weekly new hospital admissions,470.0,Belgium
+2023-04-21,Weekly new hospital admissions,461.0,Belgium
+2023-04-22,Weekly new hospital admissions,445.0,Belgium
+2023-04-23,Weekly new hospital admissions,448.0,Belgium
+2023-04-24,Weekly new hospital admissions,436.0,Belgium
+2023-04-25,Weekly new hospital admissions,422.0,Belgium
+2023-04-26,Weekly new hospital admissions,410.0,Belgium
+2023-04-27,Weekly new hospital admissions,398.0,Belgium
+2023-04-28,Weekly new hospital admissions,385.0,Belgium
+2023-04-29,Weekly new hospital admissions,367.0,Belgium
+2023-04-30,Weekly new hospital admissions,357.0,Belgium
+2023-05-01,Weekly new hospital admissions,346.0,Belgium
+2023-05-02,Weekly new hospital admissions,327.0,Belgium
+2023-05-03,Weekly new hospital admissions,312.0,Belgium
+2023-05-04,Weekly new hospital admissions,322.0,Belgium
+2023-05-05,Weekly new hospital admissions,317.0,Belgium
+2023-05-06,Weekly new hospital admissions,323.0,Belgium
+2023-05-07,Weekly new hospital admissions,325.0,Belgium
+2023-05-08,Weekly new hospital admissions,332.0,Belgium
+2023-05-09,Weekly new hospital admissions,326.0,Belgium
+2023-05-10,Weekly new hospital admissions,337.0,Belgium
+2023-05-11,Weekly new hospital admissions,314.0,Belgium
+2023-05-12,Weekly new hospital admissions,305.0,Belgium
+2023-05-13,Weekly new hospital admissions,288.0,Belgium
+2023-05-14,Weekly new hospital admissions,270.0,Belgium
+2023-05-15,Weekly new hospital admissions,254.0,Belgium
+2023-05-16,Weekly new hospital admissions,267.0,Belgium
+2023-05-17,Weekly new hospital admissions,279.0,Belgium
+2023-05-18,Weekly new hospital admissions,296.0,Belgium
+2023-05-19,Weekly new hospital admissions,310.0,Belgium
+2023-05-20,Weekly new hospital admissions,326.0,Belgium
+2023-05-21,Weekly new hospital admissions,333.0,Belgium
+2023-05-22,Weekly new hospital admissions,345.0,Belgium
+2023-05-23,Weekly new hospital admissions,344.0,Belgium
+2023-05-24,Weekly new hospital admissions,314.0,Belgium
+2023-05-25,Weekly new hospital admissions,303.0,Belgium
+2023-05-26,Weekly new hospital admissions,287.0,Belgium
+2023-05-27,Weekly new hospital admissions,262.0,Belgium
+2023-05-28,Weekly new hospital admissions,266.0,Belgium
+2023-05-29,Weekly new hospital admissions,252.0,Belgium
+2023-05-30,Weekly new hospital admissions,221.0,Belgium
+2023-05-31,Weekly new hospital admissions,214.0,Belgium
+2023-06-01,Weekly new hospital admissions,217.0,Belgium
+2023-06-02,Weekly new hospital admissions,215.0,Belgium
+2023-06-03,Weekly new hospital admissions,224.0,Belgium
+2023-06-04,Weekly new hospital admissions,216.0,Belgium
+2023-06-05,Weekly new hospital admissions,224.0,Belgium
+2023-06-06,Weekly new hospital admissions,231.0,Belgium
+2023-06-07,Weekly new hospital admissions,232.0,Belgium
+2023-06-08,Weekly new hospital admissions,214.0,Belgium
+2023-06-09,Weekly new hospital admissions,207.0,Belgium
+2023-06-10,Weekly new hospital admissions,201.0,Belgium
+2023-06-11,Weekly new hospital admissions,199.0,Belgium
+2023-06-12,Weekly new hospital admissions,196.0,Belgium
+2023-06-13,Weekly new hospital admissions,185.0,Belgium
+2023-06-14,Weekly new hospital admissions,171.0,Belgium
+2023-06-15,Weekly new hospital admissions,161.0,Belgium
+2023-06-16,Weekly new hospital admissions,150.0,Belgium
+2023-06-17,Weekly new hospital admissions,138.0,Belgium
+2023-06-18,Weekly new hospital admissions,127.0,Belgium
+2023-06-19,Weekly new hospital admissions,118.0,Belgium
+2023-06-20,Weekly new hospital admissions,112.0,Belgium
+2023-06-21,Weekly new hospital admissions,107.0,Belgium
+2023-06-22,Weekly new hospital admissions,102.0,Belgium
+2023-06-23,Weekly new hospital admissions,105.0,Belgium
+2023-06-24,Weekly new hospital admissions,93.0,Belgium
+2023-06-25,Weekly new hospital admissions,88.0,Belgium
+2023-06-26,Weekly new hospital admissions,81.0,Belgium
+2023-06-27,Weekly new hospital admissions,76.0,Belgium

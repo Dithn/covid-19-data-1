@@ -2,8 +2,8 @@ from datetime import timedelta
 
 import pandas as pd
 
-from cowidev.vax.utils.incremental import enrich_data, increment
 from cowidev.utils.web import request_json
+from cowidev.vax.utils.incremental import enrich_data, increment
 
 
 def read(source: str) -> pd.Series:
@@ -30,7 +30,7 @@ def enrich_location(ds: pd.Series) -> pd.Series:
 
 
 def enrich_vaccine(ds: pd.Series) -> pd.Series:
-    return enrich_data(ds, "vaccine", "Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech")
+    return enrich_data(ds, "vaccine", "Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech")
 
 
 def enrich_source(ds: pd.Series) -> pd.Series:
@@ -53,7 +53,3 @@ def main():
         source_url=data["source_url"],
         vaccine=data["vaccine"],
     )
-
-
-if __name__ == "__main__":
-    main()

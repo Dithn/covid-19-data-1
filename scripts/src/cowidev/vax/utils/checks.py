@@ -4,40 +4,57 @@ from itertools import chain
 import pandas as pd
 
 
+METRICS = ["total_vaccinations", "people_vaccinated", "people_fully_vaccinated", "total_boosters"]
+
 VACCINES_ACCEPTED = [
     "Abdala",
     "CanSino",
+    "Corbevax",
     "Covaxin",
     "COVIran Barekat",
     "EpiVacCorona",
-    "IMBCAMS/Inactivated",
+    "FAKHRAVAC",
+    "Hipra",
+    "IMBCAMS",
     "Johnson&Johnson",
-    "LV-SMENP",
+    "KCONVAC",
+    "KoviVac/Chumakov",
+    "Medicago",
     "Medigen",
     "Moderna",
     "Novavax",
     "Oxford/AstraZeneca",
     "Pfizer/BioNTech",
     "QazVac",
+    "Razi Cov Pars",
+    "Sanofi/GSK",
     "Sinopharm/Beijing",
     "Sinopharm/Wuhan",
     "Sinovac",
+    "SKYCovione",
     "Soberana02",
+    "Soberana Plus",
+    "SpikoGen",
     "Sputnik Light",
     "Sputnik V",
+    "Turkovac",
+    "Valneva",
     "ZF2001",
+    "ZyCoV-D",
 ]
 
 VACCINES_ONE_DOSE = [
     "Johnson&Johnson",
     "CanSino",
     "Sputnik Light",
+    "Soberana Plus",
 ]
 
 VACCINES_THREE_DOSES = [
     "ZF2001",
     "Abdala",
-    "Soberana02",
+    "Razi Cov Pars",  # 3rd dose (intranasal spray) not reported in Iran as a 3rd dose
+    "ZyCoV-D",
 ]
 
 
@@ -75,7 +92,8 @@ class CountryChecker:
     def _get_location(self, df):
         x = df.loc[:, "location"].unique()
         if len(x) != 1:
-            raise ValueError(f"More than one location found: {df.loc[:, 'location'].unique()}")
+            locations = df.loc[:, "location"].unique()
+            raise ValueError(f"More than one location found: {locations}")
         return x[0]
 
     def _skip_check_ids(self, check_skip):
@@ -130,10 +148,8 @@ class CountryChecker:
     def check_date(self):
         if self.df.date.isnull().any():
             raise ValueError(f"{self.location} -- Invalid dates! NaN values found.")
-        if (self.df.date.min() < datetime(2020, 12, 1)) or (self.df.date.max().date() > datetime.now().date()):
-            raise ValueError(
-                f"{self.location} -- Invalid dates! Check {self.df.date.min()} and/or {self.df.date.max()}"
-            )
+        if self.df.date.min() < datetime(2020, 12, 1):
+            raise ValueError(f"{self.location} -- Invalid dates! Check {self.df.date.min()}")
         ds = self.df.date.value_counts()
         dates_wrong = ds[ds > 1].index
         msk = self.df.date.isin(dates_wrong)
@@ -189,8 +205,12 @@ class CountryChecker:
                 raise ValueError(f"{self.location} -- total_vaccinations can't be < total_boosters!")
         if ("people_vaccinated" in df.columns) and ("people_fully_vaccinated" in df.columns):
             df_ = df[["people_vaccinated", "people_fully_vaccinated"]].dropna().copy()
-            if (df_["people_vaccinated"] < df_["people_fully_vaccinated"]).any():
-                raise ValueError(f"{self.location} -- people_vaccinated can't be < people_fully_vaccinated!")
+            msk = df_["people_vaccinated"] < df_["people_fully_vaccinated"]
+            if (msk).any():
+                raise ValueError(
+                    f"{self.location} -- people_vaccinated can't be <"
+                    f" people_fully_vaccinated!\n{df.loc[msk[msk].index]}"
+                )
 
     def _check_metrics_anomalies(self, df):
         for metric in self.metrics_present:

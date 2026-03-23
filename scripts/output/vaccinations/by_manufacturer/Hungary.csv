@@ -1,261 +1,593 @@
 location,date,vaccine,total_vaccinations
+Hungary,2021-04-16,Johnson&Johnson,0
+Hungary,2021-05-07,Johnson&Johnson,3022
+Hungary,2021-05-14,Johnson&Johnson,20224
+Hungary,2021-05-21,Johnson&Johnson,48840
+Hungary,2021-05-28,Johnson&Johnson,61253
+Hungary,2021-06-04,Johnson&Johnson,74656
+Hungary,2021-06-11,Johnson&Johnson,84534
+Hungary,2021-06-18,Johnson&Johnson,91904
+Hungary,2021-06-25,Johnson&Johnson,96881
+Hungary,2021-07-02,Johnson&Johnson,99609
+Hungary,2021-07-09,Johnson&Johnson,104340
+Hungary,2021-07-16,Johnson&Johnson,110168
+Hungary,2021-07-23,Johnson&Johnson,116247
+Hungary,2021-07-30,Johnson&Johnson,122677
+Hungary,2021-08-06,Johnson&Johnson,127199
+Hungary,2021-08-13,Johnson&Johnson,133928
+Hungary,2021-08-20,Johnson&Johnson,139952
+Hungary,2021-08-27,Johnson&Johnson,151170
+Hungary,2021-09-03,Johnson&Johnson,157534
+Hungary,2021-09-10,Johnson&Johnson,165116
+Hungary,2021-09-17,Johnson&Johnson,172268
+Hungary,2021-09-24,Johnson&Johnson,178696
+Hungary,2021-10-01,Johnson&Johnson,185598
+Hungary,2021-10-08,Johnson&Johnson,191711
+Hungary,2021-10-15,Johnson&Johnson,197798
+Hungary,2021-10-22,Johnson&Johnson,203946
+Hungary,2021-10-29,Johnson&Johnson,211505
+Hungary,2021-11-05,Johnson&Johnson,220792
+Hungary,2021-11-12,Johnson&Johnson,232751
+Hungary,2021-11-19,Johnson&Johnson,243570
+Hungary,2021-11-26,Johnson&Johnson,278393
+Hungary,2021-12-03,Johnson&Johnson,292092
+Hungary,2021-12-10,Johnson&Johnson,302565
+Hungary,2021-12-17,Johnson&Johnson,304210
+Hungary,2021-12-24,Johnson&Johnson,306382
+Hungary,2021-12-31,Johnson&Johnson,308082
+Hungary,2022-01-07,Johnson&Johnson,312996
+Hungary,2022-01-14,Johnson&Johnson,317632
+Hungary,2022-01-21,Johnson&Johnson,322802
+Hungary,2022-01-28,Johnson&Johnson,328158
+Hungary,2022-02-04,Johnson&Johnson,330787
+Hungary,2022-02-11,Johnson&Johnson,332731
+Hungary,2022-02-18,Johnson&Johnson,334183
+Hungary,2022-02-25,Johnson&Johnson,335592
+Hungary,2022-03-04,Johnson&Johnson,336413
+Hungary,2022-03-11,Johnson&Johnson,337037
+Hungary,2022-03-18,Johnson&Johnson,337388
+Hungary,2022-03-25,Johnson&Johnson,338008
+Hungary,2022-04-01,Johnson&Johnson,338522
+Hungary,2022-04-08,Johnson&Johnson,338954
+Hungary,2022-04-15,Johnson&Johnson,339281
+Hungary,2022-04-22,Johnson&Johnson,339689
+Hungary,2022-04-29,Johnson&Johnson,340068
+Hungary,2022-05-06,Johnson&Johnson,340396
+Hungary,2022-05-13,Johnson&Johnson,340724
+Hungary,2022-05-20,Johnson&Johnson,340996
+Hungary,2022-05-27,Johnson&Johnson,341265
+Hungary,2022-06-03,Johnson&Johnson,341504
+Hungary,2022-06-10,Johnson&Johnson,341714
+Hungary,2022-06-17,Johnson&Johnson,341904
+Hungary,2022-06-24,Johnson&Johnson,342098
+Hungary,2022-07-01,Johnson&Johnson,342176
+Hungary,2022-07-08,Johnson&Johnson,342317
+Hungary,2022-07-15,Johnson&Johnson,342458
+Hungary,2022-07-22,Johnson&Johnson,342675
+Hungary,2022-07-29,Johnson&Johnson,342835
+Hungary,2022-08-05,Johnson&Johnson,342986
+Hungary,2022-08-12,Johnson&Johnson,343198
+Hungary,2022-08-19,Johnson&Johnson,343348
+Hungary,2022-08-26,Johnson&Johnson,343518
+Hungary,2022-09-02,Johnson&Johnson,343701
+Hungary,2022-09-09,Johnson&Johnson,343857
+Hungary,2022-09-16,Johnson&Johnson,344019
+Hungary,2022-09-23,Johnson&Johnson,344179
+Hungary,2022-09-30,Johnson&Johnson,344293
+Hungary,2022-10-07,Johnson&Johnson,344394
+Hungary,2022-10-14,Johnson&Johnson,344499
+Hungary,2022-10-21,Johnson&Johnson,344590
+Hungary,2022-10-28,Johnson&Johnson,344658
+Hungary,2022-11-04,Johnson&Johnson,344712
+Hungary,2022-11-11,Johnson&Johnson,344765
+Hungary,2022-11-18,Johnson&Johnson,344851
+Hungary,2022-11-25,Johnson&Johnson,344917
+Hungary,2022-12-02,Johnson&Johnson,344974
+Hungary,2022-12-09,Johnson&Johnson,345016
+Hungary,2022-12-16,Johnson&Johnson,345069
+Hungary,2022-12-23,Johnson&Johnson,345099
+Hungary,2022-12-30,Johnson&Johnson,345106
+Hungary,2023-01-06,Johnson&Johnson,345172
+Hungary,2023-01-13,Johnson&Johnson,345247
+Hungary,2023-01-20,Johnson&Johnson,345313
+Hungary,2023-01-27,Johnson&Johnson,345364
+Hungary,2023-02-03,Johnson&Johnson,345438
+Hungary,2023-02-10,Johnson&Johnson,345480
+Hungary,2023-02-17,Johnson&Johnson,345528
+Hungary,2023-02-24,Johnson&Johnson,345578
+Hungary,2023-03-03,Johnson&Johnson,345627
+Hungary,2023-03-17,Johnson&Johnson,345662
+Hungary,2023-03-24,Johnson&Johnson,345702
+Hungary,2023-03-31,Johnson&Johnson,345729
+Hungary,2023-04-07,Johnson&Johnson,345744
+Hungary,2023-04-14,Johnson&Johnson,345781
+Hungary,2023-04-21,Johnson&Johnson,345832
+Hungary,2023-04-28,Johnson&Johnson,345871
+Hungary,2023-05-05,Johnson&Johnson,345893
+Hungary,2023-05-12,Johnson&Johnson,345902
+Hungary,2023-05-19,Johnson&Johnson,345910
+Hungary,2023-05-26,Johnson&Johnson,345930
+Hungary,2023-06-02,Johnson&Johnson,345934
+Hungary,2023-06-09,Johnson&Johnson,345940
+Hungary,2023-06-16,Johnson&Johnson,345946
+Hungary,2023-06-23,Johnson&Johnson,345955
+Hungary,2023-06-30,Johnson&Johnson,345957
+Hungary,2023-07-07,Johnson&Johnson,345961
+Hungary,2023-07-14,Johnson&Johnson,345965
+Hungary,2023-07-21,Johnson&Johnson,345974
+Hungary,2023-07-28,Johnson&Johnson,345981
+Hungary,2023-08-11,Johnson&Johnson,345984
+Hungary,2023-08-18,Johnson&Johnson,345986
+Hungary,2023-08-25,Johnson&Johnson,345987
+Hungary,2023-09-01,Johnson&Johnson,345990
+Hungary,2023-09-15,Johnson&Johnson,345995
+Hungary,2023-09-22,Johnson&Johnson,345998
+Hungary,2023-09-29,Johnson&Johnson,346000
+Hungary,2021-01-15,Moderna,3045
+Hungary,2021-01-22,Moderna,3110
+Hungary,2021-01-29,Moderna,3289
+Hungary,2021-02-05,Moderna,14413
+Hungary,2021-02-12,Moderna,17526
+Hungary,2021-02-19,Moderna,21249
+Hungary,2021-02-26,Moderna,22501
+Hungary,2021-03-05,Moderna,59086
+Hungary,2021-03-12,Moderna,74445
+Hungary,2021-03-19,Moderna,79115
+Hungary,2021-03-26,Moderna,84172
+Hungary,2021-04-02,Moderna,149942
+Hungary,2021-04-09,Moderna,203839
+Hungary,2021-04-16,Moderna,206499
+Hungary,2021-04-23,Moderna,269215
+Hungary,2021-04-30,Moderna,314650
+Hungary,2021-05-07,Moderna,358591
+Hungary,2021-05-14,Moderna,400402
+Hungary,2021-05-21,Moderna,487077
+Hungary,2021-05-28,Moderna,522677
+Hungary,2021-06-04,Moderna,543091
+Hungary,2021-06-11,Moderna,588126
+Hungary,2021-06-18,Moderna,619992
+Hungary,2021-06-25,Moderna,650048
+Hungary,2021-07-02,Moderna,663308
+Hungary,2021-07-09,Moderna,671489
+Hungary,2021-07-16,Moderna,675312
+Hungary,2021-07-23,Moderna,676977
+Hungary,2021-07-30,Moderna,677801
+Hungary,2021-08-06,Moderna,679577
+Hungary,2021-08-13,Moderna,683324
+Hungary,2021-08-20,Moderna,686525
+Hungary,2021-08-27,Moderna,691441
+Hungary,2021-09-03,Moderna,697242
+Hungary,2021-09-10,Moderna,705278
+Hungary,2021-09-17,Moderna,713648
+Hungary,2021-09-24,Moderna,722197
+Hungary,2021-10-01,Moderna,729722
+Hungary,2021-10-08,Moderna,738175
+Hungary,2021-10-15,Moderna,746586
+Hungary,2021-10-22,Moderna,757195
+Hungary,2021-10-29,Moderna,767930
+Hungary,2021-11-05,Moderna,782321
+Hungary,2021-11-12,Moderna,804133
+Hungary,2021-11-19,Moderna,826112
+Hungary,2021-11-26,Moderna,898062
+Hungary,2021-12-03,Moderna,931366
+Hungary,2021-12-10,Moderna,959213
+Hungary,2021-12-17,Moderna,969711
+Hungary,2021-12-24,Moderna,975099
+Hungary,2021-12-31,Moderna,980133
+Hungary,2022-01-07,Moderna,992880
+Hungary,2022-01-14,Moderna,1005940
+Hungary,2022-01-21,Moderna,1021333
+Hungary,2022-01-28,Moderna,1037408
+Hungary,2022-02-04,Moderna,1045546
+Hungary,2022-02-11,Moderna,1050979
+Hungary,2022-02-18,Moderna,1055060
+Hungary,2022-02-25,Moderna,1059317
+Hungary,2022-03-04,Moderna,1061741
+Hungary,2022-03-11,Moderna,1063550
+Hungary,2022-03-18,Moderna,1064635
+Hungary,2022-03-25,Moderna,1066434
+Hungary,2022-04-01,Moderna,1067902
+Hungary,2022-04-08,Moderna,1069021
+Hungary,2022-04-15,Moderna,1069646
+Hungary,2022-04-22,Moderna,1070497
+Hungary,2022-04-29,Moderna,1071224
+Hungary,2022-05-06,Moderna,1071741
+Hungary,2022-05-13,Moderna,1072231
+Hungary,2022-05-20,Moderna,1072685
+Hungary,2022-05-27,Moderna,1073062
+Hungary,2022-06-03,Moderna,1073347
+Hungary,2022-06-10,Moderna,1073561
+Hungary,2022-06-17,Moderna,1073799
+Hungary,2022-06-24,Moderna,1074068
+Hungary,2022-07-01,Moderna,1074141
+Hungary,2022-07-08,Moderna,1074491
+Hungary,2022-07-15,Moderna,1074945
+Hungary,2022-07-22,Moderna,1075613
+Hungary,2022-07-29,Moderna,1076076
+Hungary,2022-08-05,Moderna,1076674
+Hungary,2022-08-12,Moderna,1077301
+Hungary,2022-08-19,Moderna,1077785
+Hungary,2022-08-26,Moderna,1078243
+Hungary,2022-09-02,Moderna,1078632
+Hungary,2022-09-09,Moderna,1078851
+Hungary,2022-09-16,Moderna,1078949
+Hungary,2022-09-23,Moderna,1078992
+Hungary,2022-09-30,Moderna,1079027
+Hungary,2022-10-07,Moderna,1079086
+Hungary,2022-10-14,Moderna,1079113
+Hungary,2022-10-21,Moderna,1079129
+Hungary,2022-10-28,Moderna,1079152
+Hungary,2022-11-04,Moderna,1079164
+Hungary,2022-11-11,Moderna,1079175
+Hungary,2022-11-18,Moderna,1079184
+Hungary,2022-11-25,Moderna,1079190
+Hungary,2022-12-02,Moderna,1079196
+Hungary,2022-12-09,Moderna,1079200
+Hungary,2023-01-06,Moderna,1079202
+Hungary,2023-01-13,Moderna,1079203
+Hungary,2023-01-27,Moderna,1079204
+Hungary,2023-02-17,Moderna,1079205
+Hungary,2023-02-24,Moderna,1079206
+Hungary,2023-03-03,Moderna,1079207
+Hungary,2021-02-05,Oxford/AstraZeneca,0
+Hungary,2021-02-12,Oxford/AstraZeneca,20101
+Hungary,2021-02-19,Oxford/AstraZeneca,43574
+Hungary,2021-02-26,Oxford/AstraZeneca,85258
+Hungary,2021-03-05,Oxford/AstraZeneca,101860
+Hungary,2021-03-12,Oxford/AstraZeneca,239095
+Hungary,2021-03-19,Oxford/AstraZeneca,298517
+Hungary,2021-03-26,Oxford/AstraZeneca,398166
+Hungary,2021-04-02,Oxford/AstraZeneca,427844
+Hungary,2021-04-09,Oxford/AstraZeneca,590675
+Hungary,2021-04-16,Oxford/AstraZeneca,637425
+Hungary,2021-04-23,Oxford/AstraZeneca,663482
+Hungary,2021-04-30,Oxford/AstraZeneca,669327
+Hungary,2021-05-07,Oxford/AstraZeneca,718481
+Hungary,2021-05-14,Oxford/AstraZeneca,756076
+Hungary,2021-05-21,Oxford/AstraZeneca,780614
+Hungary,2021-05-28,Oxford/AstraZeneca,809727
+Hungary,2021-06-04,Oxford/AstraZeneca,923626
+Hungary,2021-06-11,Oxford/AstraZeneca,974668
+Hungary,2021-06-18,Oxford/AstraZeneca,1027690
+Hungary,2021-06-25,Oxford/AstraZeneca,1066788
+Hungary,2021-07-02,Oxford/AstraZeneca,1164012
+Hungary,2021-07-09,Oxford/AstraZeneca,1194044
+Hungary,2021-07-16,Oxford/AstraZeneca,1209269
+Hungary,2021-07-23,Oxford/AstraZeneca,1213585
+Hungary,2021-07-30,Oxford/AstraZeneca,1238032
+Hungary,2021-08-06,Oxford/AstraZeneca,1241201
+Hungary,2021-08-13,Oxford/AstraZeneca,1243223
+Hungary,2021-08-20,Oxford/AstraZeneca,1243789
+Hungary,2021-08-27,Oxford/AstraZeneca,1244701
+Hungary,2021-09-03,Oxford/AstraZeneca,1245404
+Hungary,2021-09-10,Oxford/AstraZeneca,1245928
+Hungary,2021-09-17,Oxford/AstraZeneca,1246345
+Hungary,2021-09-24,Oxford/AstraZeneca,1246683
+Hungary,2021-10-01,Oxford/AstraZeneca,1246988
+Hungary,2021-10-08,Oxford/AstraZeneca,1247284
+Hungary,2021-10-15,Oxford/AstraZeneca,1247567
+Hungary,2021-10-22,Oxford/AstraZeneca,1247851
+Hungary,2021-10-29,Oxford/AstraZeneca,1248171
+Hungary,2021-11-05,Oxford/AstraZeneca,1248464
+Hungary,2021-11-12,Oxford/AstraZeneca,1248864
+Hungary,2021-11-19,Oxford/AstraZeneca,1249156
+Hungary,2021-11-26,Oxford/AstraZeneca,1250883
+Hungary,2021-12-03,Oxford/AstraZeneca,1251401
+Hungary,2021-12-10,Oxford/AstraZeneca,1251797
+Hungary,2021-12-17,Oxford/AstraZeneca,1251928
+Hungary,2021-12-24,Oxford/AstraZeneca,1251984
+Hungary,2021-12-31,Oxford/AstraZeneca,1252078
+Hungary,2022-01-07,Oxford/AstraZeneca,1252174
+Hungary,2022-01-14,Oxford/AstraZeneca,1252314
+Hungary,2022-01-21,Oxford/AstraZeneca,1252449
+Hungary,2022-01-28,Oxford/AstraZeneca,1252622
+Hungary,2022-02-04,Oxford/AstraZeneca,1252732
+Hungary,2022-02-11,Oxford/AstraZeneca,1252808
+Hungary,2022-02-18,Oxford/AstraZeneca,1252847
+Hungary,2022-02-25,Oxford/AstraZeneca,1252870
+Hungary,2022-03-04,Oxford/AstraZeneca,1252888
+Hungary,2022-03-11,Oxford/AstraZeneca,1252898
+Hungary,2022-03-18,Oxford/AstraZeneca,1252912
+Hungary,2022-03-25,Oxford/AstraZeneca,1252924
+Hungary,2022-04-01,Oxford/AstraZeneca,1252932
+Hungary,2022-04-08,Oxford/AstraZeneca,1252941
+Hungary,2022-04-15,Oxford/AstraZeneca,1252949
+Hungary,2022-04-22,Oxford/AstraZeneca,1252957
+Hungary,2022-04-29,Oxford/AstraZeneca,1252978
 Hungary,2021-01-01,Pfizer/BioNTech,1095
 Hungary,2021-01-08,Pfizer/BioNTech,71815
-Hungary,2021-01-15,Moderna,3045
 Hungary,2021-01-15,Pfizer/BioNTech,120515
-Hungary,2021-01-22,Moderna,3110
 Hungary,2021-01-22,Pfizer/BioNTech,153055
-Hungary,2021-01-29,Moderna,3289
 Hungary,2021-01-29,Pfizer/BioNTech,299730
-Hungary,2021-02-05,Moderna,14413
-Hungary,2021-02-05,Oxford/AstraZeneca,0
 Hungary,2021-02-05,Pfizer/BioNTech,382360
-Hungary,2021-02-05,Sputnik V,0
-Hungary,2021-02-12,Moderna,17526
-Hungary,2021-02-12,Oxford/AstraZeneca,20101
 Hungary,2021-02-12,Pfizer/BioNTech,439830
-Hungary,2021-02-12,Sputnik V,2385
-Hungary,2021-02-19,Moderna,21249
-Hungary,2021-02-19,Oxford/AstraZeneca,43574
 Hungary,2021-02-19,Pfizer/BioNTech,577726
-Hungary,2021-02-19,Sinopharm/Beijing,0
-Hungary,2021-02-19,Sputnik V,18484
-Hungary,2021-02-26,Moderna,22501
-Hungary,2021-02-26,Oxford/AstraZeneca,85258
 Hungary,2021-02-26,Pfizer/BioNTech,665513
-Hungary,2021-02-26,Sinopharm/Beijing,162077
-Hungary,2021-02-26,Sputnik V,19321
-Hungary,2021-03-05,Moderna,59086
-Hungary,2021-03-05,Oxford/AstraZeneca,101860
 Hungary,2021-03-05,Pfizer/BioNTech,772330
-Hungary,2021-03-05,Sinopharm/Beijing,368592
-Hungary,2021-03-05,Sputnik V,22756
-Hungary,2021-03-12,Moderna,74445
-Hungary,2021-03-12,Oxford/AstraZeneca,239095
 Hungary,2021-03-12,Pfizer/BioNTech,891614
-Hungary,2021-03-12,Sinopharm/Beijing,492383
-Hungary,2021-03-12,Sputnik V,54724
-Hungary,2021-03-19,Moderna,79115
-Hungary,2021-03-19,Oxford/AstraZeneca,298517
 Hungary,2021-03-19,Pfizer/BioNTech,1054896
-Hungary,2021-03-19,Sinopharm/Beijing,505062
-Hungary,2021-03-19,Sputnik V,143314
-Hungary,2021-03-26,Moderna,84172
-Hungary,2021-03-26,Oxford/AstraZeneca,398166
 Hungary,2021-03-26,Pfizer/BioNTech,1211790
-Hungary,2021-03-26,Sinopharm/Beijing,687323
-Hungary,2021-03-26,Sputnik V,233879
-Hungary,2021-04-02,Moderna,149942
-Hungary,2021-04-02,Oxford/AstraZeneca,427844
 Hungary,2021-04-02,Pfizer/BioNTech,1428960
-Hungary,2021-04-02,Sinopharm/Beijing,885907
-Hungary,2021-04-02,Sputnik V,388391
-Hungary,2021-04-09,Moderna,203839
-Hungary,2021-04-09,Oxford/AstraZeneca,590675
 Hungary,2021-04-09,Pfizer/BioNTech,1633326
-Hungary,2021-04-09,Sinopharm/Beijing,1013005
-Hungary,2021-04-09,Sputnik V,676266
-Hungary,2021-04-16,Johnson&Johnson,0
-Hungary,2021-04-16,Moderna,206499
-Hungary,2021-04-16,Oxford/AstraZeneca,637425
 Hungary,2021-04-16,Pfizer/BioNTech,1849226
-Hungary,2021-04-16,Sinopharm/Beijing,1030350
-Hungary,2021-04-16,Sputnik V,924750
-Hungary,2021-04-23,Johnson&Johnson,0
-Hungary,2021-04-23,Moderna,269215
-Hungary,2021-04-23,Oxford/AstraZeneca,663482
 Hungary,2021-04-23,Pfizer/BioNTech,2169616
-Hungary,2021-04-23,Sinopharm/Beijing,1051731
-Hungary,2021-04-23,Sputnik V,1097161
-Hungary,2021-04-30,Johnson&Johnson,0
-Hungary,2021-04-30,Moderna,314650
-Hungary,2021-04-30,Oxford/AstraZeneca,669327
 Hungary,2021-04-30,Pfizer/BioNTech,2445274
-Hungary,2021-04-30,Sinopharm/Beijing,1391195
-Hungary,2021-04-30,Sputnik V,1302893
-Hungary,2021-05-07,Johnson&Johnson,3022
-Hungary,2021-05-07,Moderna,358591
-Hungary,2021-05-07,Oxford/AstraZeneca,718481
 Hungary,2021-05-07,Pfizer/BioNTech,2693362
+Hungary,2021-05-14,Pfizer/BioNTech,2988469
+Hungary,2021-05-21,Pfizer/BioNTech,3416668
+Hungary,2021-05-28,Pfizer/BioNTech,3677658
+Hungary,2021-06-04,Pfizer/BioNTech,3873529
+Hungary,2021-06-11,Pfizer/BioNTech,3968895
+Hungary,2021-06-18,Pfizer/BioNTech,4179422
+Hungary,2021-06-25,Pfizer/BioNTech,4483058
+Hungary,2021-07-02,Pfizer/BioNTech,4576235
+Hungary,2021-07-09,Pfizer/BioNTech,4680403
+Hungary,2021-07-16,Pfizer/BioNTech,4785476
+Hungary,2021-07-23,Pfizer/BioNTech,4865581
+Hungary,2021-07-30,Pfizer/BioNTech,4913773
+Hungary,2021-08-06,Pfizer/BioNTech,4991108
+Hungary,2021-08-13,Pfizer/BioNTech,5105597
+Hungary,2021-08-20,Pfizer/BioNTech,5201346
+Hungary,2021-08-27,Pfizer/BioNTech,5338639
+Hungary,2021-09-03,Pfizer/BioNTech,5518042
+Hungary,2021-09-10,Pfizer/BioNTech,5644723
+Hungary,2021-09-17,Pfizer/BioNTech,5762953
+Hungary,2021-09-24,Pfizer/BioNTech,5918739
+Hungary,2021-10-01,Pfizer/BioNTech,6024949
+Hungary,2021-10-08,Pfizer/BioNTech,6130832
+Hungary,2021-10-15,Pfizer/BioNTech,6241672
+Hungary,2021-10-22,Pfizer/BioNTech,6355233
+Hungary,2021-10-29,Pfizer/BioNTech,6476320
+Hungary,2021-11-05,Pfizer/BioNTech,6627727
+Hungary,2021-11-12,Pfizer/BioNTech,6847187
+Hungary,2021-11-19,Pfizer/BioNTech,7082610
+Hungary,2021-11-26,Pfizer/BioNTech,7713127
+Hungary,2021-12-03,Pfizer/BioNTech,7993545
+Hungary,2021-12-10,Pfizer/BioNTech,8224379
+Hungary,2021-12-17,Pfizer/BioNTech,8370647
+Hungary,2021-12-24,Pfizer/BioNTech,8440865
+Hungary,2021-12-31,Pfizer/BioNTech,8494550
+Hungary,2022-01-07,Pfizer/BioNTech,8643385
+Hungary,2022-01-14,Pfizer/BioNTech,8802826
+Hungary,2022-01-21,Pfizer/BioNTech,8973733
+Hungary,2022-01-28,Pfizer/BioNTech,9156779
+Hungary,2022-02-04,Pfizer/BioNTech,9264375
+Hungary,2022-02-11,Pfizer/BioNTech,9348665
+Hungary,2022-02-18,Pfizer/BioNTech,9408421
+Hungary,2022-02-25,Pfizer/BioNTech,9456348
+Hungary,2022-03-04,Pfizer/BioNTech,9485945
+Hungary,2022-03-11,Pfizer/BioNTech,9506132
+Hungary,2022-03-18,Pfizer/BioNTech,9518627
+Hungary,2022-03-25,Pfizer/BioNTech,9538840
+Hungary,2022-04-01,Pfizer/BioNTech,9555413
+Hungary,2022-04-08,Pfizer/BioNTech,9567717
+Hungary,2022-04-15,Pfizer/BioNTech,9574923
+Hungary,2022-04-22,Pfizer/BioNTech,9585051
+Hungary,2022-04-29,Pfizer/BioNTech,9593976
+Hungary,2022-05-06,Pfizer/BioNTech,9600545
+Hungary,2022-05-13,Pfizer/BioNTech,9606706
+Hungary,2022-05-20,Pfizer/BioNTech,9611873
+Hungary,2022-05-27,Pfizer/BioNTech,9616338
+Hungary,2022-06-03,Pfizer/BioNTech,9619732
+Hungary,2022-06-10,Pfizer/BioNTech,9622192
+Hungary,2022-06-17,Pfizer/BioNTech,9624877
+Hungary,2022-06-24,Pfizer/BioNTech,9627555
+Hungary,2022-07-01,Pfizer/BioNTech,9628937
+Hungary,2022-07-08,Pfizer/BioNTech,9632016
+Hungary,2022-07-15,Pfizer/BioNTech,9636708
+Hungary,2022-07-22,Pfizer/BioNTech,9641889
+Hungary,2022-07-29,Pfizer/BioNTech,9647066
+Hungary,2022-08-05,Pfizer/BioNTech,9652126
+Hungary,2022-08-12,Pfizer/BioNTech,9657896
+Hungary,2022-08-19,Pfizer/BioNTech,9662077
+Hungary,2022-08-26,Pfizer/BioNTech,9666502
+Hungary,2022-09-02,Pfizer/BioNTech,9669694
+Hungary,2022-09-09,Pfizer/BioNTech,9672284
+Hungary,2022-09-16,Pfizer/BioNTech,9675150
+Hungary,2022-09-23,Pfizer/BioNTech,9680633
+Hungary,2022-09-30,Pfizer/BioNTech,9685677
+Hungary,2022-10-07,Pfizer/BioNTech,9690374
+Hungary,2022-10-14,Pfizer/BioNTech,9696592
+Hungary,2022-10-21,Pfizer/BioNTech,9706657
+Hungary,2022-10-28,Pfizer/BioNTech,9714198
+Hungary,2022-11-04,Pfizer/BioNTech,9718881
+Hungary,2022-11-11,Pfizer/BioNTech,9727150
+Hungary,2022-11-18,Pfizer/BioNTech,9734492
+Hungary,2022-11-25,Pfizer/BioNTech,9740717
+Hungary,2022-12-02,Pfizer/BioNTech,9748459
+Hungary,2022-12-09,Pfizer/BioNTech,9755377
+Hungary,2022-12-16,Pfizer/BioNTech,9762558
+Hungary,2022-12-23,Pfizer/BioNTech,9765518
+Hungary,2022-12-30,Pfizer/BioNTech,9766127
+Hungary,2023-01-06,Pfizer/BioNTech,9768979
+Hungary,2023-01-13,Pfizer/BioNTech,9772247
+Hungary,2023-01-20,Pfizer/BioNTech,9774914
+Hungary,2023-01-27,Pfizer/BioNTech,9777056
+Hungary,2023-02-03,Pfizer/BioNTech,9778198
+Hungary,2023-02-10,Pfizer/BioNTech,9779009
+Hungary,2023-02-17,Pfizer/BioNTech,9779638
+Hungary,2023-02-24,Pfizer/BioNTech,9780114
+Hungary,2023-03-03,Pfizer/BioNTech,9780506
+Hungary,2023-03-17,Pfizer/BioNTech,9780749
+Hungary,2023-03-24,Pfizer/BioNTech,9781012
+Hungary,2023-03-31,Pfizer/BioNTech,9781204
+Hungary,2023-04-07,Pfizer/BioNTech,9781293
+Hungary,2023-04-14,Pfizer/BioNTech,9781498
+Hungary,2023-04-21,Pfizer/BioNTech,9781661
+Hungary,2023-04-28,Pfizer/BioNTech,9781844
+Hungary,2023-05-05,Pfizer/BioNTech,9781928
+Hungary,2023-05-12,Pfizer/BioNTech,9782002
+Hungary,2023-05-19,Pfizer/BioNTech,9782098
+Hungary,2023-05-26,Pfizer/BioNTech,9782169
+Hungary,2023-06-02,Pfizer/BioNTech,9782213
+Hungary,2023-06-09,Pfizer/BioNTech,9782262
+Hungary,2023-06-16,Pfizer/BioNTech,9782313
+Hungary,2023-06-23,Pfizer/BioNTech,9782350
+Hungary,2023-06-30,Pfizer/BioNTech,9782380
+Hungary,2023-07-07,Pfizer/BioNTech,9782401
+Hungary,2023-07-14,Pfizer/BioNTech,9782437
+Hungary,2023-07-21,Pfizer/BioNTech,9782452
+Hungary,2023-07-28,Pfizer/BioNTech,9782476
+Hungary,2023-08-04,Pfizer/BioNTech,9782486
+Hungary,2023-08-11,Pfizer/BioNTech,9782518
+Hungary,2023-08-18,Pfizer/BioNTech,9782546
+Hungary,2023-08-25,Pfizer/BioNTech,9782585
+Hungary,2023-09-01,Pfizer/BioNTech,9782614
+Hungary,2023-09-08,Pfizer/BioNTech,9782664
+Hungary,2023-09-15,Pfizer/BioNTech,9782709
+Hungary,2023-09-22,Pfizer/BioNTech,9782861
+Hungary,2023-09-29,Pfizer/BioNTech,9783019
+Hungary,2021-02-19,Sinopharm/Beijing,0
+Hungary,2021-02-26,Sinopharm/Beijing,162077
+Hungary,2021-03-05,Sinopharm/Beijing,368592
+Hungary,2021-03-12,Sinopharm/Beijing,492383
+Hungary,2021-03-19,Sinopharm/Beijing,505062
+Hungary,2021-03-26,Sinopharm/Beijing,687323
+Hungary,2021-04-02,Sinopharm/Beijing,885907
+Hungary,2021-04-09,Sinopharm/Beijing,1013005
+Hungary,2021-04-16,Sinopharm/Beijing,1030350
+Hungary,2021-04-23,Sinopharm/Beijing,1051731
+Hungary,2021-04-30,Sinopharm/Beijing,1391195
 Hungary,2021-05-07,Sinopharm/Beijing,1464478
-Hungary,2021-05-07,Sputnik V,1520581
-Hungary,2021-05-14,Johnson&Johnson,20224
-Hungary,2021-05-14,Moderna,400402
-Hungary,2021-05-14,Oxford/AstraZeneca,756076
-Hungary,2021-05-14,Pfizer/BioNTech,2909481
 Hungary,2021-05-14,Sinopharm/Beijing,1515513
-Hungary,2021-05-14,Sputnik V,1609566
-Hungary,2021-05-21,Johnson&Johnson,48840
-Hungary,2021-05-21,Moderna,487077
-Hungary,2021-05-21,Oxford/AstraZeneca,780614
-Hungary,2021-05-21,Pfizer/BioNTech,3309053
 Hungary,2021-05-21,Sinopharm/Beijing,1556829
-Hungary,2021-05-21,Sputnik V,1632758
-Hungary,2021-05-28,Johnson&Johnson,61253
-Hungary,2021-05-28,Moderna,522677
-Hungary,2021-05-28,Oxford/AstraZeneca,809727
-Hungary,2021-05-28,Pfizer/BioNTech,3562970
 Hungary,2021-05-28,Sinopharm/Beijing,1852676
-Hungary,2021-05-28,Sputnik V,1694187
-Hungary,2021-06-04,Johnson&Johnson,74656
-Hungary,2021-06-04,Moderna,543091
-Hungary,2021-06-04,Oxford/AstraZeneca,923626
-Hungary,2021-06-04,Pfizer/BioNTech,3749177
 Hungary,2021-06-04,Sinopharm/Beijing,1932634
-Hungary,2021-06-04,Sputnik V,1746818
-Hungary,2021-06-11,Johnson&Johnson,84534
-Hungary,2021-06-11,Moderna,588126
-Hungary,2021-06-11,Oxford/AstraZeneca,974668
-Hungary,2021-06-11,Pfizer/BioNTech,3838246
 Hungary,2021-06-11,Sinopharm/Beijing,1988148
-Hungary,2021-06-11,Sputnik V,1768262
-Hungary,2021-06-18,Johnson&Johnson,91904
-Hungary,2021-06-18,Moderna,619992
-Hungary,2021-06-18,Oxford/AstraZeneca,1027690
-Hungary,2021-06-18,Pfizer/BioNTech,3957616
 Hungary,2021-06-18,Sinopharm/Beijing,2018784
-Hungary,2021-06-18,Sputnik V,1778061
-Hungary,2021-06-25,Johnson&Johnson,96881
-Hungary,2021-06-25,Moderna,650048
-Hungary,2021-06-25,Oxford/AstraZeneca,1066788
-Hungary,2021-06-25,Pfizer/BioNTech,4214281
 Hungary,2021-06-25,Sinopharm/Beijing,2035373
-Hungary,2021-06-25,Sputnik V,1783131
-Hungary,2021-07-02,Johnson&Johnson,99609
-Hungary,2021-07-02,Moderna,663308
-Hungary,2021-07-02,Oxford/AstraZeneca,1164012
-Hungary,2021-07-02,Pfizer/BioNTech,4286386
 Hungary,2021-07-02,Sinopharm/Beijing,2046334
-Hungary,2021-07-02,Sputnik V,1786904
-Hungary,2021-07-09,Johnson&Johnson,104340
-Hungary,2021-07-09,Moderna,671489
-Hungary,2021-07-09,Oxford/AstraZeneca,1194044
-Hungary,2021-07-09,Pfizer/BioNTech,4368674
 Hungary,2021-07-09,Sinopharm/Beijing,2055481
-Hungary,2021-07-09,Sputnik V,1789966
-Hungary,2021-07-16,Johnson&Johnson,110168
-Hungary,2021-07-16,Moderna,675312
-Hungary,2021-07-16,Oxford/AstraZeneca,1209269
-Hungary,2021-07-16,Pfizer/BioNTech,4441576
 Hungary,2021-07-16,Sinopharm/Beijing,2061652
-Hungary,2021-07-16,Sputnik V,1791822
-Hungary,2021-07-23,Johnson&Johnson,116247
-Hungary,2021-07-23,Moderna,676977
-Hungary,2021-07-23,Oxford/AstraZeneca,1213585
-Hungary,2021-07-23,Pfizer/BioNTech,4489027
 Hungary,2021-07-23,Sinopharm/Beijing,2066542
-Hungary,2021-07-23,Sputnik V,1793351
-Hungary,2021-07-30,Johnson&Johnson,122677
-Hungary,2021-07-30,Moderna,677801
-Hungary,2021-07-30,Oxford/AstraZeneca,1238032
-Hungary,2021-07-30,Pfizer/BioNTech,4516819
 Hungary,2021-07-30,Sinopharm/Beijing,2070374
-Hungary,2021-07-30,Sputnik V,1794751
-Hungary,2021-08-06,Johnson&Johnson,127199
-Hungary,2021-08-06,Moderna,679552
-Hungary,2021-08-06,Oxford/AstraZeneca,1241201
-Hungary,2021-08-06,Pfizer/BioNTech,4578388
 Hungary,2021-08-06,Sinopharm/Beijing,2074931
-Hungary,2021-08-06,Sputnik V,1796025
-Hungary,2021-08-13,Johnson&Johnson,133928
-Hungary,2021-08-13,Moderna,683206
-Hungary,2021-08-13,Oxford/AstraZeneca,1243223
-Hungary,2021-08-13,Pfizer/BioNTech,4679602
 Hungary,2021-08-13,Sinopharm/Beijing,2080857
-Hungary,2021-08-13,Sputnik V,1797515
-Hungary,2021-08-20,Johnson&Johnson,139952
-Hungary,2021-08-20,Moderna,686348
-Hungary,2021-08-20,Oxford/AstraZeneca,1243789
-Hungary,2021-08-20,Pfizer/BioNTech,4765219
 Hungary,2021-08-20,Sinopharm/Beijing,2085880
-Hungary,2021-08-20,Sputnik V,1798625
-Hungary,2021-08-27,Johnson&Johnson,151170
-Hungary,2021-08-27,Moderna,691175
-Hungary,2021-08-27,Oxford/AstraZeneca,1244701
-Hungary,2021-08-27,Pfizer/BioNTech,4888769
 Hungary,2021-08-27,Sinopharm/Beijing,2093430
-Hungary,2021-08-27,Sputnik V,1800186
-Hungary,2021-09-03,Johnson&Johnson,157534
-Hungary,2021-09-03,Moderna,696917
-Hungary,2021-09-03,Oxford/AstraZeneca,1245404
-Hungary,2021-09-03,Pfizer/BioNTech,5014875
 Hungary,2021-09-03,Sinopharm/Beijing,2100737
-Hungary,2021-09-03,Sputnik V,1801654
-Hungary,2021-09-10,Johnson&Johnson,165116
-Hungary,2021-09-10,Moderna,704855
-Hungary,2021-09-10,Oxford/AstraZeneca,1245928
-Hungary,2021-09-10,Pfizer/BioNTech,5135255
 Hungary,2021-09-10,Sinopharm/Beijing,2106953
-Hungary,2021-09-10,Sputnik V,1802940
-Hungary,2021-09-17,Johnson&Johnson,172268
-Hungary,2021-09-17,Moderna,713156
-Hungary,2021-09-17,Oxford/AstraZeneca,1246345
-Hungary,2021-09-17,Pfizer/BioNTech,5247775
 Hungary,2021-09-17,Sinopharm/Beijing,2112177
-Hungary,2021-09-17,Sputnik V,1804017
-Hungary,2021-09-24,Johnson&Johnson,178696
-Hungary,2021-09-24,Moderna,721610
-Hungary,2021-09-24,Oxford/AstraZeneca,1246683
-Hungary,2021-09-24,Pfizer/BioNTech,5362453
 Hungary,2021-09-24,Sinopharm/Beijing,2117889
-Hungary,2021-09-24,Sputnik V,1805092
-Hungary,2021-10-01,Johnson&Johnson,185598
-Hungary,2021-10-01,Moderna,729067
-Hungary,2021-10-01,Oxford/AstraZeneca,1246988
-Hungary,2021-10-01,Pfizer/BioNTech,5462640
 Hungary,2021-10-01,Sinopharm/Beijing,2124653
-Hungary,2021-10-01,Sputnik V,1805956
-Hungary,2021-10-08,Johnson&Johnson,191711
-Hungary,2021-10-08,Moderna,737485
-Hungary,2021-10-08,Oxford/AstraZeneca,1247284
-Hungary,2021-10-08,Pfizer/BioNTech,5564172
 Hungary,2021-10-08,Sinopharm/Beijing,2129673
-Hungary,2021-10-08,Sputnik V,1806395
-Hungary,2021-10-15,Johnson&Johnson,197798
-Hungary,2021-10-15,Moderna,745856
-Hungary,2021-10-15,Oxford/AstraZeneca,1247567
-Hungary,2021-10-15,Pfizer/BioNTech,5669474
 Hungary,2021-10-15,Sinopharm/Beijing,2134168
-Hungary,2021-10-15,Sputnik V,1806788
-Hungary,2021-10-22,Johnson&Johnson,203946
-Hungary,2021-10-22,Moderna,756421
-Hungary,2021-10-22,Oxford/AstraZeneca,1247851
-Hungary,2021-10-22,Pfizer/BioNTech,5778231
 Hungary,2021-10-22,Sinopharm/Beijing,2138356
-Hungary,2021-10-22,Sputnik V,1807105
-Hungary,2021-10-29,Johnson&Johnson,211505
-Hungary,2021-10-29,Moderna,767095
-Hungary,2021-10-29,Oxford/AstraZeneca,1248171
-Hungary,2021-10-29,Pfizer/BioNTech,5895591
 Hungary,2021-10-29,Sinopharm/Beijing,2142489
-Hungary,2021-10-29,Sputnik V,1807272
-Hungary,2021-11-05,Johnson&Johnson,220792
-Hungary,2021-11-05,Moderna,781452
-Hungary,2021-11-05,Oxford/AstraZeneca,1248464
-Hungary,2021-11-05,Pfizer/BioNTech,6043276
 Hungary,2021-11-05,Sinopharm/Beijing,2147493
-Hungary,2021-11-05,Sputnik V,1807313
-Hungary,2021-11-12,Johnson&Johnson,232751
-Hungary,2021-11-12,Moderna,803228
-Hungary,2021-11-12,Oxford/AstraZeneca,1248864
-Hungary,2021-11-12,Pfizer/BioNTech,6258577
 Hungary,2021-11-12,Sinopharm/Beijing,2153828
-Hungary,2021-11-12,Sputnik V,1807348
-Hungary,2021-11-19,Johnson&Johnson,243458
-Hungary,2021-11-19,Moderna,825157
-Hungary,2021-11-19,Oxford/AstraZeneca,1249156
-Hungary,2021-11-19,Pfizer/BioNTech,6488275
 Hungary,2021-11-19,Sinopharm/Beijing,2160969
-Hungary,2021-11-19,Sputnik V,1807392
-Hungary,2021-11-26,Johnson&Johnson,278281
-Hungary,2021-11-26,Moderna,896988
-Hungary,2021-11-26,Oxford/AstraZeneca,1250883
-Hungary,2021-11-26,Pfizer/BioNTech,7105356
 Hungary,2021-11-26,Sinopharm/Beijing,2185869
-Hungary,2021-11-26,Sputnik V,1807392
-Hungary,2021-12-03,Johnson&Johnson,291933
-Hungary,2021-12-03,Moderna,930191
-Hungary,2021-12-03,Oxford/AstraZeneca,1251437
-Hungary,2021-12-03,Pfizer/BioNTech,7377514
-Hungary,2021-12-03,Sinopharm/Beijing,2201474
-Hungary,2021-12-03,Sputnik V,1807392
+Hungary,2021-12-03,Sinopharm/Beijing,2201519
+Hungary,2021-12-10,Sinopharm/Beijing,2217170
+Hungary,2021-12-17,Sinopharm/Beijing,2225840
+Hungary,2021-12-24,Sinopharm/Beijing,2232252
+Hungary,2021-12-31,Sinopharm/Beijing,2239144
+Hungary,2022-01-07,Sinopharm/Beijing,2250325
+Hungary,2022-01-14,Sinopharm/Beijing,2261038
+Hungary,2022-01-21,Sinopharm/Beijing,2271573
+Hungary,2022-01-28,Sinopharm/Beijing,2281740
+Hungary,2022-02-04,Sinopharm/Beijing,2286612
+Hungary,2022-02-11,Sinopharm/Beijing,2290938
+Hungary,2022-02-18,Sinopharm/Beijing,2294471
+Hungary,2022-02-25,Sinopharm/Beijing,2298230
+Hungary,2022-03-04,Sinopharm/Beijing,2300366
+Hungary,2022-03-11,Sinopharm/Beijing,2301811
+Hungary,2022-03-18,Sinopharm/Beijing,2302704
+Hungary,2022-03-25,Sinopharm/Beijing,2304030
+Hungary,2022-04-01,Sinopharm/Beijing,2305080
+Hungary,2022-04-08,Sinopharm/Beijing,2305939
+Hungary,2022-04-15,Sinopharm/Beijing,2306590
+Hungary,2022-04-22,Sinopharm/Beijing,2307180
+Hungary,2022-04-29,Sinopharm/Beijing,2307910
+Hungary,2022-05-06,Sinopharm/Beijing,2308481
+Hungary,2022-05-13,Sinopharm/Beijing,2308978
+Hungary,2022-05-20,Sinopharm/Beijing,2309384
+Hungary,2022-05-27,Sinopharm/Beijing,2309965
+Hungary,2022-06-03,Sinopharm/Beijing,2310297
+Hungary,2022-06-10,Sinopharm/Beijing,2310547
+Hungary,2022-06-17,Sinopharm/Beijing,2310842
+Hungary,2022-06-24,Sinopharm/Beijing,2311082
+Hungary,2022-07-01,Sinopharm/Beijing,2311224
+Hungary,2022-07-08,Sinopharm/Beijing,2311397
+Hungary,2022-07-15,Sinopharm/Beijing,2311615
+Hungary,2022-07-22,Sinopharm/Beijing,2311827
+Hungary,2022-07-29,Sinopharm/Beijing,2312020
+Hungary,2022-08-05,Sinopharm/Beijing,2312230
+Hungary,2022-08-12,Sinopharm/Beijing,2312474
+Hungary,2022-08-19,Sinopharm/Beijing,2312689
+Hungary,2022-08-26,Sinopharm/Beijing,2312898
+Hungary,2022-09-02,Sinopharm/Beijing,2313081
+Hungary,2022-09-09,Sinopharm/Beijing,2313261
+Hungary,2022-09-16,Sinopharm/Beijing,2313478
+Hungary,2022-09-23,Sinopharm/Beijing,2313599
+Hungary,2022-09-30,Sinopharm/Beijing,2313837
+Hungary,2022-10-07,Sinopharm/Beijing,2313938
+Hungary,2022-10-14,Sinopharm/Beijing,2314041
+Hungary,2022-10-21,Sinopharm/Beijing,2314225
+Hungary,2022-10-28,Sinopharm/Beijing,2314343
+Hungary,2022-11-04,Sinopharm/Beijing,2314407
+Hungary,2022-11-11,Sinopharm/Beijing,2314498
+Hungary,2022-11-18,Sinopharm/Beijing,2314600
+Hungary,2022-11-25,Sinopharm/Beijing,2314693
+Hungary,2022-12-02,Sinopharm/Beijing,2314781
+Hungary,2022-12-09,Sinopharm/Beijing,2314830
+Hungary,2022-12-16,Sinopharm/Beijing,2314877
+Hungary,2022-12-23,Sinopharm/Beijing,2314920
+Hungary,2022-12-30,Sinopharm/Beijing,2314929
+Hungary,2023-01-06,Sinopharm/Beijing,2314969
+Hungary,2023-01-13,Sinopharm/Beijing,2315025
+Hungary,2023-01-20,Sinopharm/Beijing,2315070
+Hungary,2023-01-27,Sinopharm/Beijing,2315105
+Hungary,2023-02-03,Sinopharm/Beijing,2315130
+Hungary,2023-02-10,Sinopharm/Beijing,2315167
+Hungary,2023-02-17,Sinopharm/Beijing,2315196
+Hungary,2023-02-24,Sinopharm/Beijing,2315279
+Hungary,2023-03-03,Sinopharm/Beijing,2315370
+Hungary,2023-03-17,Sinopharm/Beijing,2315383
+Hungary,2023-03-24,Sinopharm/Beijing,2315429
+Hungary,2023-03-31,Sinopharm/Beijing,2315483
+Hungary,2023-04-07,Sinopharm/Beijing,2315505
+Hungary,2023-04-14,Sinopharm/Beijing,2315511
+Hungary,2021-02-05,Sputnik V,0
+Hungary,2021-02-12,Sputnik V,2385
+Hungary,2021-02-19,Sputnik V,18484
+Hungary,2021-02-26,Sputnik V,19321
+Hungary,2021-03-05,Sputnik V,22756
+Hungary,2021-03-12,Sputnik V,54724
+Hungary,2021-03-19,Sputnik V,143314
+Hungary,2021-03-26,Sputnik V,233879
+Hungary,2021-04-02,Sputnik V,388391
+Hungary,2021-04-09,Sputnik V,676266
+Hungary,2021-04-16,Sputnik V,924750
+Hungary,2021-04-23,Sputnik V,1097161
+Hungary,2021-04-30,Sputnik V,1302893
+Hungary,2021-05-07,Sputnik V,1520581
+Hungary,2021-05-14,Sputnik V,1609566
+Hungary,2021-05-21,Sputnik V,1632758
+Hungary,2021-05-28,Sputnik V,1694187
+Hungary,2021-06-04,Sputnik V,1746818
+Hungary,2021-06-11,Sputnik V,1768262
+Hungary,2021-06-18,Sputnik V,1778061
+Hungary,2021-06-25,Sputnik V,1783131
+Hungary,2021-07-02,Sputnik V,1786904
+Hungary,2021-07-09,Sputnik V,1789966
+Hungary,2021-07-16,Sputnik V,1791822
+Hungary,2021-07-23,Sputnik V,1793351
+Hungary,2021-07-30,Sputnik V,1794751
+Hungary,2021-08-06,Sputnik V,1796025
+Hungary,2021-08-13,Sputnik V,1797515
+Hungary,2021-08-20,Sputnik V,1798625
+Hungary,2021-08-27,Sputnik V,1800186
+Hungary,2021-09-03,Sputnik V,1801654
+Hungary,2021-09-10,Sputnik V,1802940
+Hungary,2021-09-17,Sputnik V,1804017
+Hungary,2021-09-24,Sputnik V,1805092
+Hungary,2021-10-01,Sputnik V,1805956
+Hungary,2021-10-08,Sputnik V,1806395
+Hungary,2021-10-15,Sputnik V,1806788
+Hungary,2021-10-22,Sputnik V,1807105
+Hungary,2021-10-29,Sputnik V,1807272
+Hungary,2021-11-05,Sputnik V,1807313
+Hungary,2021-11-12,Sputnik V,1807348
+Hungary,2021-11-19,Sputnik V,1807392

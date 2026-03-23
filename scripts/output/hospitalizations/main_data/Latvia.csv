@@ -1,0 +1,550 @@
+entity,indicator,date,value
+Latvia,Daily ICU occupancy,2021-01-10,63.0
+Latvia,Daily ICU occupancy,2021-01-17,64.0
+Latvia,Daily ICU occupancy,2021-01-24,102.0
+Latvia,Daily ICU occupancy,2021-01-31,110.0
+Latvia,Daily ICU occupancy,2021-02-07,105.0
+Latvia,Daily ICU occupancy,2021-02-14,92.0
+Latvia,Daily ICU occupancy,2021-02-21,94.0
+Latvia,Daily ICU occupancy,2021-02-28,90.0
+Latvia,Daily ICU occupancy,2021-03-07,79.0
+Latvia,Daily ICU occupancy,2021-03-14,90.0
+Latvia,Daily ICU occupancy,2021-03-21,81.0
+Latvia,Daily ICU occupancy,2021-03-28,80.0
+Latvia,Daily ICU occupancy,2021-04-04,92.0
+Latvia,Daily ICU occupancy,2021-04-11,79.0
+Latvia,Daily ICU occupancy,2021-04-18,96.0
+Latvia,Daily ICU occupancy,2021-04-25,88.0
+Latvia,Daily ICU occupancy,2021-05-02,89.0
+Latvia,Daily ICU occupancy,2021-05-09,92.0
+Latvia,Daily ICU occupancy,2021-05-16,92.0
+Latvia,Daily ICU occupancy,2021-05-23,95.0
+Latvia,Daily ICU occupancy,2021-05-30,85.0
+Latvia,Daily ICU occupancy,2021-06-06,68.0
+Latvia,Daily ICU occupancy,2021-06-13,74.0
+Latvia,Daily ICU occupancy,2021-06-20,42.0
+Latvia,Daily ICU occupancy,2021-06-27,39.0
+Latvia,Daily ICU occupancy,2021-07-04,36.0
+Latvia,Daily ICU occupancy,2021-07-11,18.0
+Latvia,Daily ICU occupancy,2021-07-18,10.0
+Latvia,Daily ICU occupancy,2021-07-25,10.0
+Latvia,Daily ICU occupancy,2021-08-01,6.0
+Latvia,Daily ICU occupancy,2021-08-08,9.0
+Latvia,Daily ICU occupancy,2021-08-15,14.0
+Latvia,Daily ICU occupancy,2021-08-22,13.0
+Latvia,Daily ICU occupancy,2021-08-29,12.0
+Latvia,Daily ICU occupancy,2021-09-05,20.0
+Latvia,Daily ICU occupancy,2021-09-12,30.0
+Latvia,Daily ICU occupancy,2021-09-19,28.0
+Latvia,Daily ICU occupancy,2021-09-26,53.0
+Latvia,Daily ICU occupancy,2021-10-03,71.0
+Latvia,Daily ICU occupancy,2021-10-10,89.0
+Latvia,Daily ICU occupancy,2021-10-17,131.0
+Latvia,Daily ICU occupancy,2021-10-24,169.0
+Latvia,Daily ICU occupancy,2021-10-31,200.0
+Latvia,Daily ICU occupancy,2021-11-07,238.0
+Latvia,Daily ICU occupancy,2021-11-14,232.0
+Latvia,Daily ICU occupancy,2021-11-21,214.0
+Latvia,Daily ICU occupancy,2021-11-28,179.0
+Latvia,Daily ICU occupancy,2021-12-05,147.0
+Latvia,Daily ICU occupancy,2021-12-12,107.0
+Latvia,Daily ICU occupancy,2021-12-19,97.0
+Latvia,Daily ICU occupancy,2021-12-26,80.0
+Latvia,Daily ICU occupancy,2022-01-02,80.0
+Latvia,Daily ICU occupancy,2022-01-09,78.0
+Latvia,Daily ICU occupancy,2022-01-16,93.0
+Latvia,Daily ICU occupancy,2022-01-23,90.0
+Latvia,Daily ICU occupancy,2022-01-30,90.0
+Latvia,Daily ICU occupancy,2022-02-06,92.0
+Latvia,Daily ICU occupancy,2022-02-13,89.0
+Latvia,Daily ICU occupancy,2022-02-20,90.0
+Latvia,Daily ICU occupancy,2022-02-27,115.0
+Latvia,Daily ICU occupancy,2022-03-06,97.0
+Latvia,Daily ICU occupancy,2022-03-13,80.0
+Latvia,Daily ICU occupancy,2022-03-20,65.0
+Latvia,Daily ICU occupancy,2022-03-27,56.0
+Latvia,Daily ICU occupancy,2022-04-03,42.0
+Latvia,Daily ICU occupancy,2022-04-10,44.0
+Latvia,Daily ICU occupancy,2022-04-17,26.0
+Latvia,Daily ICU occupancy,2022-04-24,24.0
+Latvia,Daily ICU occupancy,2022-05-01,30.0
+Latvia,Daily ICU occupancy,2022-05-08,11.0
+Latvia,Daily ICU occupancy,2022-05-15,5.0
+Latvia,Daily ICU occupancy,2022-05-22,3.0
+Latvia,Daily ICU occupancy,2022-05-29,5.0
+Latvia,Daily ICU occupancy,2022-06-05,4.0
+Latvia,Daily ICU occupancy,2022-06-12,3.0
+Latvia,Daily ICU occupancy,2022-06-19,2.0
+Latvia,Daily ICU occupancy,2022-06-26,1.0
+Latvia,Daily ICU occupancy,2022-07-03,5.0
+Latvia,Daily ICU occupancy,2022-07-10,3.0
+Latvia,Daily ICU occupancy,2022-07-17,4.0
+Latvia,Daily ICU occupancy,2022-07-24,4.0
+Latvia,Daily ICU occupancy,2022-07-31,7.0
+Latvia,Daily ICU occupancy,2022-08-07,4.0
+Latvia,Daily ICU occupancy,2022-08-14,4.0
+Latvia,Daily ICU occupancy,2022-08-21,5.0
+Latvia,Daily ICU occupancy,2022-08-28,7.0
+Latvia,Daily ICU occupancy,2022-09-04,6.0
+Latvia,Daily ICU occupancy,2022-09-11,4.0
+Latvia,Daily ICU occupancy,2022-09-18,1.0
+Latvia,Daily ICU occupancy,2022-09-25,3.0
+Latvia,Daily ICU occupancy,2022-10-02,4.0
+Latvia,Daily ICU occupancy,2022-10-09,5.0
+Latvia,Daily ICU occupancy,2022-10-16,5.0
+Latvia,Daily ICU occupancy,2022-10-23,5.0
+Latvia,Daily ICU occupancy,2022-10-30,5.0
+Latvia,Daily ICU occupancy,2022-11-06,6.0
+Latvia,Daily ICU occupancy,2022-11-13,6.0
+Latvia,Daily ICU occupancy,2022-11-20,7.0
+Latvia,Daily ICU occupancy,2022-11-27,6.0
+Latvia,Daily ICU occupancy,2022-12-04,8.0
+Latvia,Daily ICU occupancy,2022-12-11,4.0
+Latvia,Daily ICU occupancy,2022-12-18,7.0
+Latvia,Daily ICU occupancy,2022-12-25,11.0
+Latvia,Daily ICU occupancy,2023-01-01,9.0
+Latvia,Daily ICU occupancy,2023-01-08,6.0
+Latvia,Daily ICU occupancy,2023-01-15,7.0
+Latvia,Daily ICU occupancy,2023-01-22,4.0
+Latvia,Daily ICU occupancy,2023-01-29,7.0
+Latvia,Daily ICU occupancy,2023-02-05,4.0
+Latvia,Daily ICU occupancy,2023-02-12,3.0
+Latvia,Daily ICU occupancy,2023-02-19,2.0
+Latvia,Daily ICU occupancy,2023-02-26,5.0
+Latvia,Daily ICU occupancy,2023-03-05,3.0
+Latvia,Daily ICU occupancy,2023-03-12,4.0
+Latvia,Daily ICU occupancy,2023-03-19,5.0
+Latvia,Daily ICU occupancy,2023-03-26,4.0
+Latvia,Daily ICU occupancy,2023-04-02,4.0
+Latvia,Daily ICU occupancy,2023-04-09,2.0
+Latvia,Daily ICU occupancy,2023-04-16,2.0
+Latvia,Daily ICU occupancy,2023-04-23,2.0
+Latvia,Daily ICU occupancy,2023-04-30,3.0
+Latvia,Daily ICU occupancy,2023-05-07,4.0
+Latvia,Daily ICU occupancy,2023-05-14,2.0
+Latvia,Daily ICU occupancy,2023-05-21,3.0
+Latvia,Daily ICU occupancy,2023-05-28,2.0
+Latvia,Daily ICU occupancy,2023-06-04,3.0
+Latvia,Daily ICU occupancy,2023-06-11,3.0
+Latvia,Daily ICU occupancy,2023-06-18,3.0
+Latvia,Daily ICU occupancy,2023-06-25,2.0
+Latvia,Daily ICU occupancy,2023-07-02,2.0
+Latvia,Daily ICU occupancy,2023-07-09,2.0
+Latvia,Daily ICU occupancy,2023-07-16,0.0
+Latvia,Daily ICU occupancy,2023-07-23,0.0
+Latvia,Daily ICU occupancy,2023-07-30,1.0
+Latvia,Daily ICU occupancy,2023-08-06,0.0
+Latvia,Daily ICU occupancy,2023-08-13,0.0
+Latvia,Daily ICU occupancy,2023-08-20,0.0
+Latvia,Daily ICU occupancy,2023-08-27,0.0
+Latvia,Daily ICU occupancy,2023-09-03,0.0
+Latvia,Daily ICU occupancy,2023-09-10,0.0
+Latvia,Daily ICU occupancy,2023-09-17,0.0
+Latvia,Daily ICU occupancy,2023-09-24,1.0
+Latvia,Daily ICU occupancy,2023-10-01,0.0
+Latvia,Daily ICU occupancy,2023-10-08,0.0
+Latvia,Daily ICU occupancy,2023-10-15,0.0
+Latvia,Daily ICU occupancy,2023-10-22,1.0
+Latvia,Daily ICU occupancy,2023-10-29,0.0
+Latvia,Daily ICU occupancy,2023-11-05,1.0
+Latvia,Daily ICU occupancy,2023-11-12,2.0
+Latvia,Daily ICU occupancy,2023-11-19,1.0
+Latvia,Daily ICU occupancy,2023-11-26,2.0
+Latvia,Weekly new hospital admissions,2020-03-15,5.919702818648684
+Latvia,Weekly new ICU admissions,2020-03-15,0.0
+Latvia,Weekly new hospital admissions,2020-03-22,15.785874183063157
+Latvia,Weekly new ICU admissions,2020-03-22,0.0
+Latvia,Weekly new hospital admissions,2020-03-29,28.61189695680197
+Latvia,Weekly new ICU admissions,2020-03-29,2.959851409324342
+Latvia,Weekly new hospital admissions,2020-04-05,27.625279820360525
+Latvia,Weekly new ICU admissions,2020-04-05,3.9464685457657893
+Latvia,Weekly new hospital admissions,2020-04-12,24.665428411036178
+Latvia,Weekly new ICU admissions,2020-04-12,0.0
+Latvia,Weekly new hospital admissions,2020-04-19,17.759108455946055
+Latvia,Weekly new ICU admissions,2020-04-19,2.959851409324342
+Latvia,Weekly new hospital admissions,2020-04-26,13.812639910180263
+Latvia,Weekly new ICU admissions,2020-04-26,3.9464685457657893
+Latvia,Weekly new hospital admissions,2020-05-03,8.879554227973028
+Latvia,Weekly new ICU admissions,2020-05-03,1.9732342728828938
+Latvia,Weekly new hospital admissions,2020-05-10,9.866171364414473
+Latvia,Weekly new ICU admissions,2020-05-10,0.0
+Latvia,Weekly new hospital admissions,2020-05-24,7.892937091531579
+Latvia,Weekly new ICU admissions,2020-05-24,0.0
+Latvia,Weekly new hospital admissions,2020-05-31,3.9464685457657893
+Latvia,Weekly new ICU admissions,2020-05-31,0.986617136441446
+Latvia,Weekly new hospital admissions,2020-06-07,2.959851409324342
+Latvia,Weekly new ICU admissions,2020-06-07,1.9732342728828938
+Latvia,Weekly new hospital admissions,2020-06-14,2.959851409324342
+Latvia,Weekly new ICU admissions,2020-06-14,0.0
+Latvia,Weekly new hospital admissions,2020-06-21,3.9464685457657893
+Latvia,Weekly new ICU admissions,2020-06-21,0.0
+Latvia,Weekly new hospital admissions,2020-06-28,1.9732342728828938
+Latvia,Weekly new ICU admissions,2020-06-28,0.0
+Latvia,Weekly new hospital admissions,2020-07-26,0.986617136441446
+Latvia,Weekly new ICU admissions,2020-07-26,0.0
+Latvia,Weekly new hospital admissions,2020-08-02,1.9732342728828938
+Latvia,Weekly new ICU admissions,2020-08-02,0.0
+Latvia,Weekly new hospital admissions,2020-08-09,4.933085682207235
+Latvia,Weekly new ICU admissions,2020-08-09,0.0
+Latvia,Weekly new hospital admissions,2020-08-16,1.9732342728828938
+Latvia,Weekly new ICU admissions,2020-08-16,0.0
+Latvia,Weekly new hospital admissions,2020-08-23,4.933085682207235
+Latvia,Weekly new ICU admissions,2020-08-23,0.0
+Latvia,Weekly new hospital admissions,2020-08-30,3.9464685457657893
+Latvia,Weekly new ICU admissions,2020-08-30,0.0
+Latvia,Weekly new hospital admissions,2020-09-06,4.933085682207235
+Latvia,Weekly new ICU admissions,2020-09-06,0.0
+Latvia,Weekly new hospital admissions,2020-09-13,5.919702818648684
+Latvia,Weekly new ICU admissions,2020-09-13,0.0
+Latvia,Weekly new hospital admissions,2020-09-20,6.906319955090131
+Latvia,Weekly new ICU admissions,2020-09-20,0.0
+Latvia,Weekly new hospital admissions,2020-09-27,5.919702818648684
+Latvia,Weekly new ICU admissions,2020-09-27,0.0
+Latvia,Weekly new hospital admissions,2020-10-04,25.65204554747763
+Latvia,Weekly new ICU admissions,2020-10-04,3.9464685457657893
+Latvia,Weekly new hospital admissions,2020-10-11,48.344239685630924
+Latvia,Weekly new ICU admissions,2020-10-11,2.959851409324342
+Latvia,Weekly new hospital admissions,2020-10-18,51.30409109495526
+Latvia,Weekly new ICU admissions,2020-10-18,5.919702818648684
+Latvia,Weekly new hospital admissions,2020-10-25,122.34052491873946
+Latvia,Weekly new ICU admissions,2020-10-25,7.892937091531579
+Latvia,Weekly new hospital admissions,2020-11-01,193.3769587425237
+Latvia,Weekly new ICU admissions,2020-11-01,18.7457255923875
+Latvia,Weekly new hospital admissions,2020-11-08,214.09591860779412
+Latvia,Weekly new ICU admissions,2020-11-08,21.70557700171184
+Latvia,Weekly new hospital admissions,2020-11-15,277.2394153400467
+Latvia,Weekly new ICU admissions,2020-11-15,24.665428411036178
+Latvia,Weekly new hospital admissions,2020-11-22,323.61042075279477
+Latvia,Weekly new ICU admissions,2020-11-22,40.451302594099346
+Latvia,Weekly new hospital admissions,2020-11-29,476.5360769012192
+Latvia,Weekly new ICU admissions,2020-11-29,80.90260518819869
+Latvia,Weekly new hospital admissions,2020-12-06,503.1747395851382
+Latvia,Weekly new ICU admissions,2020-12-06,93.7286279619375
+Latvia,Weekly new hospital admissions,2020-12-13,641.3011386869408
+Latvia,Weekly new ICU admissions,2020-12-13,105.56803359923487
+Latvia,Weekly new hospital admissions,2020-12-20,742.9227037404099
+Latvia,Weekly new ICU admissions,2020-12-20,90.76877655261315
+Latvia,Weekly new hospital admissions,2020-12-27,790.2803262895994
+Latvia,Weekly new ICU admissions,2020-12-27,90.76877655261315
+Latvia,Weekly new hospital admissions,2021-01-03,830.7316288836987
+Latvia,Weekly new ICU admissions,2021-01-03,109.51450214500066
+Latvia,Weekly new hospital admissions,2021-01-10,925.4468739820777
+Latvia,Weekly new ICU admissions,2021-01-10,117.40743923653223
+Latvia,Weekly new hospital admissions,2021-01-17,798.1732633811309
+Latvia,Weekly new ICU admissions,2021-01-17,148.97918760265858
+Latvia,Weekly new hospital admissions,2021-01-24,737.9896180582027
+Latvia,Weekly new ICU admissions,2021-01-24,158.845358967073
+Latvia,Weekly new hospital admissions,2021-01-31,698.5249326005446
+Latvia,Weekly new ICU admissions,2021-01-31,160.81859323995593
+Latvia,Weekly new hospital admissions,2021-02-07,635.381435868292
+Latvia,Weekly new ICU admissions,2021-02-07,152.92565614842434
+Latvia,Weekly new hospital admissions,2021-02-14,563.3583849080665
+Latvia,Weekly new ICU admissions,2021-02-14,153.9122732848658
+Latvia,Weekly new hospital admissions,2021-02-21,490.3487168113993
+Latvia,Weekly new ICU admissions,2021-02-21,124.31375919162237
+Latvia,Weekly new hospital admissions,2021-02-28,482.4557797198678
+Latvia,Weekly new ICU admissions,2021-02-28,121.35390778229805
+Latvia,Weekly new hospital admissions,2021-03-07,512.0542938131113
+Latvia,Weekly new ICU admissions,2021-03-07,117.40743923653223
+Latvia,Weekly new hospital admissions,2021-03-14,369.9814261655428
+Latvia,Weekly new ICU admissions,2021-03-14,125.3003763280638
+Latvia,Weekly new hospital admissions,2021-03-21,413.3925801689665
+Latvia,Weekly new ICU admissions,2021-03-21,104.58141646279343
+Latvia,Weekly new hospital admissions,2021-03-28,514.027528085994
+Latvia,Weekly new ICU admissions,2021-03-28,117.40743923653223
+Latvia,Weekly new hospital admissions,2021-04-04,425.2319858062639
+Latvia,Weekly new ICU admissions,2021-04-04,128.26022773738816
+Latvia,Weekly new hospital admissions,2021-04-11,424.2453686698223
+Latvia,Weekly new ICU admissions,2021-04-11,134.17993055603682
+Latvia,Weekly new hospital admissions,2021-04-18,430.1650714884711
+Latvia,Weekly new ICU admissions,2021-04-18,128.26022773738816
+Latvia,Weekly new hospital admissions,2021-04-25,477.5226940376606
+Latvia,Weekly new ICU admissions,2021-04-25,125.3003763280638
+Latvia,Weekly new hospital admissions,2021-05-02,454.8304998995073
+Latvia,Weekly new ICU admissions,2021-05-02,139.1130162382441
+Latvia,Weekly new hospital admissions,2021-05-09,452.8572656266243
+Latvia,Weekly new ICU admissions,2021-05-09,132.20669628315395
+Latvia,Weekly new hospital admissions,2021-05-16,453.84388276306584
+Latvia,Weekly new ICU admissions,2021-05-16,130.23346201027107
+Latvia,Weekly new hospital admissions,2021-05-23,356.16878625536253
+Latvia,Weekly new ICU admissions,2021-05-23,121.35390778229805
+Latvia,Weekly new hospital admissions,2021-05-30,265.40000970274934
+Latvia,Weekly new ICU admissions,2021-05-30,114.44758782720788
+Latvia,Weekly new hospital admissions,2021-06-06,205.21636437982104
+Latvia,Weekly new ICU admissions,2021-06-06,86.82230800684738
+Latvia,Weekly new hospital admissions,2021-06-13,181.53755310522627
+Latvia,Weekly new ICU admissions,2021-06-13,84.84907373396447
+Latvia,Weekly new hospital admissions,2021-06-20,131.22007914671252
+Latvia,Weekly new ICU admissions,2021-06-20,76.9561366424329
+Latvia,Weekly new hospital admissions,2021-06-27,87.8089251432888
+Latvia,Weekly new ICU admissions,2021-06-27,52.290708231396714
+Latvia,Weekly new hospital admissions,2021-07-04,48.344239685630924
+Latvia,Weekly new ICU admissions,2021-07-04,47.35762254918948
+Latvia,Weekly new hospital admissions,2021-07-11,47.35762254918948
+Latvia,Weekly new ICU admissions,2021-07-11,23.678811274594736
+Latvia,Weekly new hospital admissions,2021-07-18,40.451302594099346
+Latvia,Weekly new ICU admissions,2021-07-18,23.678811274594736
+Latvia,Weekly new hospital admissions,2021-07-25,24.665428411036178
+Latvia,Weekly new ICU admissions,2021-07-25,13.812639910180263
+Latvia,Weekly new hospital admissions,2021-08-01,33.544982639009206
+Latvia,Weekly new ICU admissions,2021-08-01,12.826022773738815
+Latvia,Weekly new hospital admissions,2021-08-08,44.397771139865135
+Latvia,Weekly new ICU admissions,2021-08-08,18.7457255923875
+Latvia,Weekly new hospital admissions,2021-08-15,46.37100541274802
+Latvia,Weekly new ICU admissions,2021-08-15,18.7457255923875
+Latvia,Weekly new hospital admissions,2021-08-22,43.41115400342369
+Latvia,Weekly new ICU admissions,2021-08-22,15.785874183063157
+Latvia,Weekly new hospital admissions,2021-08-29,138.12639910180263
+Latvia,Weekly new ICU admissions,2021-08-29,29.598514093243427
+Latvia,Weekly new hospital admissions,2021-09-05,140.0996333746855
+Latvia,Weekly new ICU admissions,2021-09-05,42.42453686698224
+Latvia,Weekly new hospital admissions,2021-09-12,216.069152880677
+Latvia,Weekly new ICU admissions,2021-09-12,41.43791973054079
+Latvia,Weekly new hospital admissions,2021-09-19,284.1457352951369
+Latvia,Weekly new ICU admissions,2021-09-19,63.14349673225263
+Latvia,Weekly new hospital admissions,2021-09-26,338.40967779941644
+Latvia,Weekly new ICU admissions,2021-09-26,87.8089251432888
+Latvia,Weekly new hospital admissions,2021-10-03,461.73681985459734
+Latvia,Weekly new ICU admissions,2021-10-03,108.52788500855922
+Latvia,Weekly new hospital admissions,2021-10-10,666.9531842344185
+Latvia,Weekly new ICU admissions,2021-10-10,131.22007914671252
+Latvia,Weekly new hospital admissions,2021-10-17,962.9383251668528
+Latvia,Weekly new ICU admissions,2021-10-17,193.3769587425237
+Latvia,Weekly new hospital admissions,2021-10-24,1190.8468836848267
+Latvia,Weekly new ICU admissions,2021-10-24,232.8416442001816
+Latvia,Weekly new hospital admissions,2021-10-31,1170.1279238195566
+Latvia,Weekly new ICU admissions,2021-10-31,298.9449923417585
+Latvia,Weekly new hospital admissions,2021-11-07,1151.382198227169
+Latvia,Weekly new ICU admissions,2021-11-07,416.3524315782908
+Latvia,Weekly new hospital admissions,2021-11-14,799.1598805175724
+Latvia,Weekly new ICU admissions,2021-11-14,393.6602374401375
+Latvia,Weekly new hospital admissions,2021-11-21,600.8498360928415
+Latvia,Weekly new ICU admissions,2021-11-21,314.73086652482175
+Latvia,Weekly new hospital admissions,2021-11-28,527.8401679961743
+Latvia,Weekly new ICU admissions,2021-11-28,267.3732439756322
+Latvia,Weekly new hospital admissions,2021-12-05,437.0713914435612
+Latvia,Weekly new ICU admissions,2021-12-05,208.1762157891454
+Latvia,Weekly new hospital admissions,2021-12-12,303.87807802396577
+Latvia,Weekly new ICU admissions,2021-12-12,169.69814746792892
+Latvia,Weekly new hospital admissions,2021-12-19,373.92789471130857
+Latvia,Weekly new ICU admissions,2021-12-19,162.7918275128388
+Latvia,Weekly new hospital admissions,2021-12-26,342.35614634518225
+Latvia,Weekly new ICU admissions,2021-12-26,132.20669628315395
+Latvia,Weekly new hospital admissions,2022-01-02,362.08848907401125
+Latvia,Weekly new ICU admissions,2022-01-02,129.2468448738296
+Latvia,Weekly new hospital admissions,2022-01-09,451.8706484901829
+Latvia,Weekly new ICU admissions,2022-01-09,157.85874183063157
+Latvia,Weekly new hospital admissions,2022-01-16,461.73681985459734
+Latvia,Weekly new ICU admissions,2022-01-16,134.17993055603682
+Latvia,Weekly new hospital admissions,2022-01-23,572.2379391360395
+Latvia,Weekly new ICU admissions,2022-01-23,140.0996333746855
+Latvia,Weekly new hospital admissions,2022-01-30,780.4141549251849
+Latvia,Weekly new ICU admissions,2022-01-30,134.17993055603682
+Latvia,Weekly new hospital admissions,2022-02-06,876.1160171600053
+Latvia,Weekly new ICU admissions,2022-02-06,118.39405637297368
+Latvia,Weekly new hospital admissions,2022-02-13,1032.001524717754
+Latvia,Weekly new ICU admissions,2022-02-13,140.0996333746855
+Latvia,Weekly new hospital admissions,2022-02-20,1068.5063587660875
+Latvia,Weekly new ICU admissions,2022-02-20,130.23346201027107
+Latvia,Weekly new hospital admissions,2022-02-27,1062.5866559474389
+Latvia,Weekly new ICU admissions,2022-02-27,129.2468448738296
+Latvia,Weekly new hospital admissions,2022-03-06,989.5769878507716
+Latvia,Weekly new ICU admissions,2022-03-06,93.7286279619375
+Latvia,Weekly new hospital admissions,2022-03-13,950.1123023931139
+Latvia,Weekly new ICU admissions,2022-03-13,73.00966809666708
+Latvia,Weekly new hospital admissions,2022-03-20,806.0662004726626
+Latvia,Weekly new ICU admissions,2022-03-20,76.9561366424329
+Latvia,Weekly new hospital admissions,2022-03-27,842.571034520996
+Latvia,Weekly new ICU admissions,2022-03-27,59.197028186486854
+Latvia,Weekly new hospital admissions,2022-04-03,647.2208415055895
+Latvia,Weekly new ICU admissions,2022-04-03,52.290708231396714
+Latvia,Weekly new hospital admissions,2022-04-10,450.88403135374153
+Latvia,Weekly new ICU admissions,2022-04-10,46.37100541274802
+Latvia,Weekly new hospital admissions,2022-04-17,328.543506435002
+Latvia,Weekly new ICU admissions,2022-04-17,19.732342728828947
+Latvia,Weekly new hospital admissions,2022-04-24,237.77472988238884
+Latvia,Weekly new ICU admissions,2022-04-24,17.759108455946055
+Latvia,Weekly new hospital admissions,2022-05-01,193.3769587425237
+Latvia,Weekly new ICU admissions,2022-05-01,23.678811274594736
+Latvia,Weekly new hospital admissions,2022-05-08,163.77844464928026
+Latvia,Weekly new ICU admissions,2022-05-08,16.772491319504603
+Latvia,Weekly new hospital admissions,2022-05-15,126.28699346450526
+Latvia,Weekly new ICU admissions,2022-05-15,13.812639910180263
+Latvia,Weekly new hospital admissions,2022-05-22,123.32714205518091
+Latvia,Weekly new ICU admissions,2022-05-22,11.839405637297368
+Latvia,Weekly new hospital admissions,2022-05-29,109.51450214500066
+Latvia,Weekly new ICU admissions,2022-05-29,11.839405637297368
+Latvia,Weekly new hospital admissions,2022-06-05,62.15687959581118
+Latvia,Weekly new ICU admissions,2022-06-05,11.839405637297368
+Latvia,Weekly new hospital admissions,2022-06-12,92.74201082549605
+Latvia,Weekly new ICU admissions,2022-06-12,10.852788500855922
+Latvia,Weekly new hospital admissions,2022-06-19,97.67509650770329
+Latvia,Weekly new ICU admissions,2022-06-19,12.826022773738815
+Latvia,Weekly new hospital admissions,2022-06-26,89.78215941617171
+Latvia,Weekly new ICU admissions,2022-06-26,9.866171364414473
+Latvia,Weekly new hospital admissions,2022-07-03,143.05948478400987
+Latvia,Weekly new ICU admissions,2022-07-03,13.812639910180263
+Latvia,Weekly new hospital admissions,2022-07-10,136.15316482891976
+Latvia,Weekly new ICU admissions,2022-07-10,2.959851409324342
+Latvia,Weekly new hospital admissions,2022-07-17,148.97918760265858
+Latvia,Weekly new ICU admissions,2022-07-17,2.959851409324342
+Latvia,Weekly new hospital admissions,2022-07-24,206.2029815162625
+Latvia,Weekly new ICU admissions,2022-07-24,6.906319955090131
+Latvia,Weekly new hospital admissions,2022-07-31,171.67138174081185
+Latvia,Weekly new ICU admissions,2022-07-31,2.959851409324342
+Latvia,Weekly new hospital admissions,2022-08-07,200.2832786976138
+Latvia,Weekly new ICU admissions,2022-08-07,5.919702818648684
+Latvia,Weekly new hospital admissions,2022-08-14,294.99852379599275
+Latvia,Weekly new ICU admissions,2022-08-14,11.839405637297368
+Latvia,Weekly new hospital admissions,2022-08-21,226.92194138153292
+Latvia,Weekly new ICU admissions,2022-08-21,16.772491319504603
+Latvia,Weekly new hospital admissions,2022-08-28,200.2832786976138
+Latvia,Weekly new ICU admissions,2022-08-28,15.785874183063157
+Latvia,Weekly new hospital admissions,2022-09-04,183.5107873781092
+Latvia,Weekly new ICU admissions,2022-09-04,12.826022773738815
+Latvia,Weekly new hospital admissions,2022-09-11,234.81487847306445
+Latvia,Weekly new ICU admissions,2022-09-11,8.879554227973028
+Latvia,Weekly new hospital admissions,2022-09-18,301.90484375108286
+Latvia,Weekly new ICU admissions,2022-09-18,9.866171364414473
+Latvia,Weekly new hospital admissions,2022-09-25,401.55317453166913
+Latvia,Weekly new ICU admissions,2022-09-25,7.892937091531579
+Latvia,Weekly new hospital admissions,2022-10-02,367.0215747562184
+Latvia,Weekly new ICU admissions,2022-10-02,8.879554227973028
+Latvia,Weekly new hospital admissions,2022-10-09,382.8074489392817
+Latvia,Weekly new ICU admissions,2022-10-09,12.826022773738815
+Latvia,Weekly new hospital admissions,2022-10-16,303.87807802396577
+Latvia,Weekly new ICU admissions,2022-10-16,12.826022773738815
+Latvia,Weekly new hospital admissions,2022-10-23,197.32342728828945
+Latvia,Weekly new ICU admissions,2022-10-23,6.906319955090131
+Latvia,Weekly new hospital admissions,2022-10-30,228.89517565441577
+Latvia,Weekly new ICU admissions,2022-10-30,7.892937091531579
+Latvia,Weekly new hospital admissions,2022-11-06,155.88550755774867
+Latvia,Weekly new ICU admissions,2022-11-06,4.933085682207235
+Latvia,Weekly new hospital admissions,2022-11-13,153.9122732848658
+Latvia,Weekly new ICU admissions,2022-11-13,2.959851409324342
+Latvia,Weekly new hospital admissions,2022-11-20,142.07286764756844
+Latvia,Weekly new ICU admissions,2022-11-20,2.959851409324342
+Latvia,Weekly new hospital admissions,2022-11-27,193.3769587425237
+Latvia,Weekly new ICU admissions,2022-11-27,4.933085682207235
+Latvia,Weekly new hospital admissions,2022-12-04,269.3464782485151
+Latvia,Weekly new ICU admissions,2022-12-04,9.866171364414473
+Latvia,Weekly new hospital admissions,2022-12-11,384.7806832121645
+Latvia,Weekly new ICU admissions,2022-12-11,8.879554227973028
+Latvia,Weekly new hospital admissions,2022-12-18,377.8743632570743
+Latvia,Weekly new ICU admissions,2022-12-18,9.866171364414473
+Latvia,Weekly new hospital admissions,2022-12-25,342.35614634518225
+Latvia,Weekly new ICU admissions,2022-12-25,11.839405637297368
+Latvia,Weekly new hospital admissions,2023-01-01,314.73086652482175
+Latvia,Weekly new ICU admissions,2023-01-01,10.852788500855922
+Latvia,Weekly new hospital admissions,2023-01-08,210.1494500620283
+Latvia,Weekly new ICU admissions,2023-01-08,16.772491319504603
+Latvia,Weekly new hospital admissions,2023-01-15,162.7918275128388
+Latvia,Weekly new ICU admissions,2023-01-15,14.79925704662171
+Latvia,Weekly new hospital admissions,2023-01-22,123.32714205518091
+Latvia,Weekly new ICU admissions,2023-01-22,14.79925704662171
+Latvia,Weekly new hospital admissions,2023-01-29,143.05948478400987
+Latvia,Weekly new ICU admissions,2023-01-29,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-02-05,118.39405637297368
+Latvia,Weekly new ICU admissions,2023-02-05,9.866171364414473
+Latvia,Weekly new hospital admissions,2023-02-12,126.28699346450526
+Latvia,Weekly new ICU admissions,2023-02-12,3.9464685457657893
+Latvia,Weekly new hospital admissions,2023-02-19,132.20669628315395
+Latvia,Weekly new ICU admissions,2023-02-19,7.892937091531579
+Latvia,Weekly new hospital admissions,2023-02-26,113.46097069076646
+Latvia,Weekly new ICU admissions,2023-02-26,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-03-05,132.20669628315395
+Latvia,Weekly new ICU admissions,2023-03-05,5.919702818648684
+Latvia,Weekly new hospital admissions,2023-03-12,147.00595332977565
+Latvia,Weekly new ICU admissions,2023-03-12,7.892937091531579
+Latvia,Weekly new hospital admissions,2023-03-26,142.07286764756844
+Latvia,Weekly new ICU admissions,2023-03-26,4.933085682207235
+Latvia,Weekly new hospital admissions,2020-05-17,9.866171364414473
+Latvia,Weekly new ICU admissions,2020-05-17,0.986617136441446
+Latvia,Weekly new hospital admissions,2020-07-05,0.986617136441446
+Latvia,Weekly new ICU admissions,2020-07-05,0.0
+Latvia,Weekly new hospital admissions,2020-07-12,0.986617136441446
+Latvia,Weekly new ICU admissions,2020-07-12,0.0
+Latvia,Weekly new hospital admissions,2020-07-19,0.986617136441446
+Latvia,Weekly new ICU admissions,2020-07-19,0.0
+Latvia,Weekly new hospital admissions,2023-03-19,186.47063878743356
+Latvia,Weekly new ICU admissions,2023-03-19,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-04-02,221.98885569932565
+Latvia,Weekly new ICU admissions,2023-04-02,12.826022773738815
+Latvia,Weekly new hospital admissions,2023-04-09,152.92565614842434
+Latvia,Weekly new ICU admissions,2023-04-09,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-04-16,227.9085585179744
+Latvia,Weekly new ICU admissions,2023-04-16,10.852788500855922
+Latvia,Weekly new hospital admissions,2023-04-23,130.23346201027107
+Latvia,Weekly new ICU admissions,2023-04-23,10.852788500855922
+Latvia,Weekly new hospital admissions,2023-04-30,92.74201082549605
+Latvia,Weekly new ICU admissions,2023-04-30,10.852788500855922
+Latvia,Weekly new hospital admissions,2023-05-07,108.52788500855922
+Latvia,Weekly new ICU admissions,2023-05-07,9.866171364414473
+Latvia,Weekly new hospital admissions,2023-05-14,81.88922232464013
+Latvia,Weekly new ICU admissions,2023-05-14,2.959851409324342
+Latvia,Weekly new hospital admissions,2023-05-21,63.14349673225263
+Latvia,Weekly new ICU admissions,2023-05-21,3.9464685457657893
+Latvia,Weekly new hospital admissions,2023-05-28,79.91598805175724
+Latvia,Weekly new ICU admissions,2023-05-28,4.933085682207235
+Latvia,Weekly new hospital admissions,2023-06-04,75.96951950599144
+Latvia,Weekly new ICU admissions,2023-06-04,2.959851409324342
+Latvia,Weekly new hospital admissions,2023-06-11,74.98290236955
+Latvia,Weekly new ICU admissions,2023-06-11,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-06-18,31.571748366126315
+Latvia,Weekly new ICU admissions,2023-06-18,0.0
+Latvia,Weekly new hospital admissions,2023-06-25,27.625279820360525
+Latvia,Weekly new ICU admissions,2023-06-25,0.0
+Latvia,Weekly new hospital admissions,2023-07-02,15.785874183063157
+Latvia,Weekly new ICU admissions,2023-07-02,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-07-09,13.812639910180263
+Latvia,Weekly new ICU admissions,2023-07-09,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-07-16,13.812639910180263
+Latvia,Weekly new ICU admissions,2023-07-16,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-07-23,20.718959865270396
+Latvia,Weekly new ICU admissions,2023-07-23,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-08-06,8.879554227973028
+Latvia,Weekly new ICU admissions,2023-08-06,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-08-13,13.812639910180263
+Latvia,Weekly new ICU admissions,2023-08-13,0.0
+Latvia,Weekly new hospital admissions,2023-08-20,16.772491319504603
+Latvia,Weekly new ICU admissions,2023-08-20,0.0
+Latvia,Weekly new hospital admissions,2023-08-27,21.70557700171184
+Latvia,Weekly new ICU admissions,2023-08-27,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-09-03,36.50483404833356
+Latvia,Weekly new ICU admissions,2023-09-03,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-09-10,40.451302594099346
+Latvia,Weekly new ICU admissions,2023-09-10,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-09-17,50.317473958513816
+Latvia,Weekly new ICU admissions,2023-09-17,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-09-24,56.237176777162496
+Latvia,Weekly new ICU admissions,2023-09-24,4.933085682207235
+Latvia,Weekly new hospital admissions,2023-10-01,52.290708231396714
+Latvia,Weekly new ICU admissions,2023-10-01,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-10-08,33.544982639009206
+Latvia,Weekly new ICU admissions,2023-10-08,0.986617136441446
+Latvia,Weekly new hospital admissions,2023-10-15,41.43791973054079
+Latvia,Weekly new ICU admissions,2023-10-15,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-10-22,85.83569087040593
+Latvia,Weekly new ICU admissions,2023-10-22,0.0
+Latvia,Weekly new hospital admissions,2023-10-29,151.93903901198289
+Latvia,Weekly new ICU admissions,2023-10-29,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-11-05,210.1494500620283
+Latvia,Weekly new ICU admissions,2023-11-05,1.9732342728828938
+Latvia,Weekly new hospital admissions,2023-11-12,214.09591860779412
+Latvia,Weekly new ICU admissions,2023-11-12,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-11-19,222.97547283576708
+Latvia,Weekly new ICU admissions,2023-11-19,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-11-26,268.35986111207365
+Latvia,Weekly new ICU admissions,2023-11-26,8.879554227973028
+Latvia,Weekly new hospital admissions,2023-07-30,23.678811274594736
+Latvia,Weekly new ICU admissions,2023-07-30,1.9732342728828938
+Latvia,Weekly new hospital admissions,2020-01-06,0.0
+Latvia,Weekly new ICU admissions,2020-01-06,0.0
+Latvia,Weekly new hospital admissions,2020-01-18,0.0
+Latvia,Weekly new ICU admissions,2020-01-18,0.0
+Latvia,Weekly new hospital admissions,2020-02-12,0.0
+Latvia,Weekly new ICU admissions,2020-02-12,0.0
+Latvia,Weekly new hospital admissions,2020-03-01,0.0
+Latvia,Weekly new ICU admissions,2020-03-01,0.0
+Latvia,Weekly new hospital admissions,2020-03-08,2.959851409324342
+Latvia,Weekly new ICU admissions,2020-03-08,0.0

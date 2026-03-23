@@ -1,0 +1,675 @@
+module,execution_time (sec),success,timestamp,error,error_short
+cowidev.vax.batch.argentina,11.02,True,2024-08-15T07:00:16,,
+cowidev.vax.batch.australia,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.austria_old,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.belgium,24.65,True,2024-08-15T07:00:29,,
+cowidev.vax.batch.bolivia,2.68,True,2024-08-15T07:00:07,,
+cowidev.vax.batch.canada,16.62,True,2024-08-15T07:00:21,,
+cowidev.vax.batch.chile,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.czechia,1.17,False,2024-08-15T07:01:49,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/czechia.py"", line 195, in main
+    Czechia().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/czechia.py"", line 180, in export
+    base = read(self.source_url).pipe(base_pipeline)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/czechia.py"", line 78, in base_pipeline
+    return df.pipe(check_vaccine_names).pipe(translate_vaccine_names)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/czechia.py"", line 57, in check_vaccine_names
+    raise ValueError(""Found unknown vaccines: {}"".format(unknown_vaccines))
+ValueError: Found unknown vaccines: {'Comirnaty JN.1'}
+",Found unknown vaccines: {'Comirnaty JN.1'}
+cowidev.vax.batch.denmark,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.ecdc,86.89,True,2024-08-15T07:01:31,,
+cowidev.vax.batch.ecuador,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.estonia,1.37,True,2024-08-15T07:00:06,,
+cowidev.vax.batch.france,1.62,True,2024-08-15T07:00:06,,
+cowidev.vax.batch.germany,0.2,True,2024-08-15T07:00:05,,
+cowidev.vax.batch.greece,0.24,False,2024-08-15T07:01:50,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 703, in urlopen
+    httplib_response = self._make_request(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 386, in _make_request
+    self._validate_conn(conn)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 1042, in _validate_conn
+    conn.connect()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 467, in connect
+    _match_hostname(cert, self.assert_hostname or server_hostname)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 540, in _match_hostname
+    match_hostname(cert, asserted_hostname)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/ssl_match_hostname.py"", line 155, in match_hostname
+    raise CertificateError(""hostname %r doesn't match %r"" % (hostname, dnsnames[0]))
+urllib3.util.ssl_match_hostname.CertificateError: hostname 'www.data.gov.gr' doesn't match 'data.gov.gr'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 440, in send
+    resp = conn.urlopen(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 787, in urlopen
+    retries = retries.increment(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/retry.py"", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.data.gov.gr', port=443): Max retries exceeded with url: /api/v1/query/mdg_emvolio?date_from=2020-12-28 (Caused by SSLError(CertificateError(""hostname 'www.data.gov.gr' doesn't match 'data.gov.gr'"")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/greece.py"", line 83, in main
+    Greece().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/greece.py"", line 78, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/greece.py"", line 18, in read
+    data = requests.get(self.source_url, headers={""Authorization"": f""Token {self.token}""}).json()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='www.data.gov.gr', port=443): Max retries exceeded with url: /api/v1/query/mdg_emvolio?date_from=2020-12-28 (Caused by SSLError(CertificateError(""hostname 'www.data.gov.gr' doesn't match 'data.gov.gr'"")))
+","HTTPSConnectionPool(host='www.data.gov.gr', port=443): Max retries exceeded with url: /api/v1/query/mdg_emvolio?date_from=2020-12-28 (Caused by SSLError(CertificateError(""hostname 'www.data.gov.gr' doesn't match 'data.gov.gr'"")))"
+cowidev.vax.batch.hong_kong,12.68,True,2024-08-15T07:00:17,,
+cowidev.vax.batch.indonesia,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.ireland,1.27,True,2024-08-15T07:00:06,,
+cowidev.vax.batch.israel,0.06,False,2024-08-15T07:01:50,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/israel.py"", line 189, in main
+    Israel().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/israel.py"", line 175, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/israel.py"", line 21, in read
+    data = request_json(self.source_url, verify=False)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 106, in request_json
+    text = request_text(url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 127, in request_text
+    soup = get_soup(url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 52, in get_response
+    raise ValueError(
+ValueError: Source https://datadashboardapi.health.gov.il/api/queries/vaccinated not reached! Error code 502 Bad Gateway
+",Source https://datadashboardapi.health.gov.il/api/queries/vaccinated not reached! Error code 502 Bad Gateway
+cowidev.vax.batch.italy,11.8,True,2024-08-15T07:00:16,,
+cowidev.vax.batch.japan,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.jersey,0.97,True,2024-08-15T07:00:06,,
+cowidev.vax.batch.latvia,37.2,True,2024-08-15T07:00:42,,
+cowidev.vax.batch.lithuania,2.68,True,2024-08-15T07:00:07,,
+cowidev.vax.batch.luxembourg,6.96,True,2024-08-15T07:00:12,,
+cowidev.vax.batch.malaysia,1.05,True,2024-08-15T07:00:06,,
+cowidev.vax.batch.malta,0.26,False,2024-08-15T07:01:50,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/malta.py"", line 103, in main
+    Malta().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/malta.py"", line 98, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/malta.py"", line 94, in pipeline
+    .pipe(self.make_monotonic)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/utils/base.py"", line 120, in make_monotonic
+    return mkm(
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 23, in make_monotonic
+    return make_monotonic_new(df, column_date, column_metrics, max_removed_rows)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/utils.py"", line 96, in make_monotonic_new
+    raise Exception(
+Exception: 1 chunks of lengths 30 would be NaNed for metric total_boosters. That is more than maximum allowed (10) by make_monotonic() - check the data. Check dates ['2024-05-07']. Location(s) affected: {'Malta'}
+",1 chunks of lengths 30 would be NaNed for metric total_boosters. That is more than maximum allowed (10) by make_monotonic() - check the data. Check dates ['2024-05-07']. Location(s) affected: {'Malta'}
+cowidev.vax.batch.netherlands,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.new_zealand,12.39,True,2024-08-15T07:00:17,,
+cowidev.vax.batch.norway,1.04,True,2024-08-15T07:00:06,,
+cowidev.vax.batch.peru,3.13,True,2024-08-15T07:00:08,,
+cowidev.vax.batch.portugal,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.romania,16.17,True,2024-08-15T07:00:21,,
+cowidev.vax.batch.saudi_arabia,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.singapore,1.99,True,2024-08-15T07:00:07,,
+cowidev.vax.batch.slovakia,36.77,True,2024-08-15T07:00:41,,
+cowidev.vax.batch.slovenia,0.62,True,2024-08-15T07:00:05,,
+cowidev.vax.batch.south_korea,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.spc,24.65,True,2024-08-15T07:00:29,,
+cowidev.vax.batch.sweden,3.24,False,2024-08-15T07:01:53,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/sweden.py"", line 113, in main
+    Sweden().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/sweden.py"", line 108, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/sweden.py"", line 34, in read
+    return dfs[""1. Vaccinationer tidsserie""]
+KeyError: '1. Vaccinationer tidsserie'
+",'1. Vaccinationer tidsserie'
+cowidev.vax.batch.switzerland,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.trinidad_and_tobago,2.2,True,2024-08-15T07:00:07,,
+cowidev.vax.batch.ukraine,,,2024-08-15T07:00:05,,
+cowidev.vax.batch.united_kingdom,0.09,False,2024-08-15T07:01:53,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/connection.py"", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File ""/usr/lib/python3.10/socket.py"", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 703, in urlopen
+    httplib_response = self._make_request(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 386, in _make_request
+    self._validate_conn(conn)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 1042, in _validate_conn
+    conn.connect()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f612c0cb8b0>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 440, in send
+    resp = conn.urlopen(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 787, in urlopen
+    retries = retries.increment(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/retry.py"", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.coronavirus.data.gov.uk', port=443): Max retries exceeded with url: /v1/data?filters=areaType%3Doverview&structure=%7B%22date%22%3A%22date%22%2C%22location%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22people_vaccinated%22%3A%22cumPeopleVaccinatedFirstDoseByPublishDate%22%2C%22people_fully_vaccinated%22%3A%22cumPeopleVaccinatedSecondDoseByPublishDate%22%2C%22total_vaccinations%22%3A%22cumVaccinesGivenByPublishDate%22%2C%22total_boosters%22%3A%22cumPeopleVaccinatedThirdInjectionByPublishDate%22%2C%22vaccinations_age%22%3A%22vaccinationsAgeDemographics%22%7D&format=json&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f612c0cb8b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/united_kingdom.py"", line 161, in main
+    UnitedKingdom().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/united_kingdom.py"", line 118, in export
+    df_base = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/united_kingdom.py"", line 22, in read
+    self._read_metrics(""areaType=overview""),
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/united_kingdom.py"", line 43, in _read_metrics
+    df = api.get_dataframe()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/uk_covid19/api_interface.py"", line 581, in get_dataframe
+    data = self.get_json()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/uk_covid19/api_interface.py"", line 367, in get_json
+    for response in self._get(DataFormat.JSON):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/uk_covid19/api_interface.py"", line 305, in _get
+    with request(""GET"", self.endpoint, params=api_params,
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.coronavirus.data.gov.uk', port=443): Max retries exceeded with url: /v1/data?filters=areaType%3Doverview&structure=%7B%22date%22%3A%22date%22%2C%22location%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22people_vaccinated%22%3A%22cumPeopleVaccinatedFirstDoseByPublishDate%22%2C%22people_fully_vaccinated%22%3A%22cumPeopleVaccinatedSecondDoseByPublishDate%22%2C%22total_vaccinations%22%3A%22cumVaccinesGivenByPublishDate%22%2C%22total_boosters%22%3A%22cumPeopleVaccinatedThirdInjectionByPublishDate%22%2C%22vaccinations_age%22%3A%22vaccinationsAgeDemographics%22%7D&format=json&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f612c0cb8b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+","HTTPSConnectionPool(host='api.coronavirus.data.gov.uk', port=443): Max retries exceeded with url: /v1/data?filters=areaType%3Doverview&structure=%7B%22date%22%3A%22date%22%2C%22location%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22people_vaccinated%22%3A%22cumPeopleVaccinatedFirstDoseByPublishDate%22%2C%22people_fully_vaccinated%22%3A%22cumPeopleVaccinatedSecondDoseByPublishDate%22%2C%22total_vaccinations%22%3A%22cumVaccinesGivenByPublishDate%22%2C%22total_boosters%22%3A%22cumPeopleVaccinatedThirdInjectionByPublishDate%22%2C%22vaccinations_age%22%3A%22vaccinationsAgeDemographics%22%7D&format=json&page=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f612c0cb8b0>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+cowidev.vax.batch.united_states,10.93,True,2024-08-15T07:00:16,,
+cowidev.vax.batch.uruguay,2.49,True,2024-08-15T07:00:07,,
+cowidev.vax.batch.zimbabwe,0.24,False,2024-08-15T07:01:54,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/zimbabwe.py"", line 76, in main
+    Zimbabwe().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/zimbabwe.py"", line 71, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/batch/zimbabwe.py"", line 22, in read
+    return pd.DataFrame.from_records(elem[""attributes""] for elem in data[""features""])
+KeyError: 'features'
+",'features'
+cowidev.vax.incremental.africacdc,,,2024-08-15T07:00:05,,
+cowidev.vax.incremental.antigua_barbuda,,,2024-08-15T07:00:05,,
+cowidev.vax.incremental.aruba,2.06,True,2024-08-15T07:00:07,,
+cowidev.vax.incremental.austria,,,2024-08-15T07:00:05,,
+cowidev.vax.incremental.azerbaijan,,,2024-08-15T07:00:05,,
+cowidev.vax.incremental.bahrain,,,2024-08-15T07:00:05,,
+cowidev.vax.incremental.bangladesh,63.93,False,2024-08-15T07:02:57,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/response.py"", line 443, in _error_catcher
+    yield
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/response.py"", line 815, in read_chunked
+    self._update_chunk_length()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/response.py"", line 745, in _update_chunk_length
+    line = self._fp.fp.readline()
+  File ""/usr/lib/python3.10/socket.py"", line 705, in readinto
+    return self._sock.recv_into(b)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/models.py"", line 760, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/response.py"", line 623, in stream
+    for line in self.read_chunked(amt, decode_content=decode_content):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/response.py"", line 803, in read_chunked
+    with self._error_catcher():
+  File ""/usr/lib/python3.10/contextlib.py"", line 153, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/response.py"", line 448, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, ""Read timed out."")
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='103.247.238.92', port=80): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bangladesh.py"", line 112, in main
+    Bangladesh().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bangladesh.py"", line 98, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bangladesh.py"", line 25, in read
+    metrics = self._parse_metrics(soup)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bangladesh.py"", line 74, in _parse_metrics
+    single_doses = self._parse_single_doses()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bangladesh.py"", line 38, in _parse_single_doses
+    soup = get_soup(url, timeout=60)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 49, in get_response
+    raise err
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 43, in get_response
+    response = requests.get(source, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 687, in send
+    r.content
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/models.py"", line 838, in content
+    self._content = b''.join(self.iter_content(CONTENT_CHUNK_SIZE)) or b''
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/models.py"", line 767, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='103.247.238.92', port=80): Read timed out.
+","HTTPConnectionPool(host='103.247.238.92', port=80): Read timed out."
+cowidev.vax.incremental.barbados,,,2024-08-15T07:00:06,,
+cowidev.vax.incremental.brazil,0.32,True,2024-08-15T07:00:06,,
+cowidev.vax.incremental.bulgaria,0.18,False,2024-08-15T07:02:58,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bulgaria.py"", line 68, in main
+    Bulgaria().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bulgaria.py"", line 63, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bulgaria.py"", line 19, in read
+    return self._parse_data(soup)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/bulgaria.py"", line 22, in _parse_data
+    table = soup.find(""p"", string=re.compile(""Поставени ваксини по"")).parent.find(""table"")
+AttributeError: 'NoneType' object has no attribute 'parent'
+",'NoneType' object has no attribute 'parent'
+cowidev.vax.incremental.china,17.71,True,2024-08-15T07:00:23,,
+cowidev.vax.incremental.costa_rica,,,2024-08-15T07:00:06,,
+cowidev.vax.incremental.croatia,0.02,False,2024-08-15T07:02:58,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/connection.py"", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File ""/usr/lib/python3.10/socket.py"", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 703, in urlopen
+    httplib_response = self._make_request(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 386, in _make_request
+    self._validate_conn(conn)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 1042, in _validate_conn
+    conn.connect()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 358, in connect
+    self.sock = conn = self._new_conn()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f612c0cb4c0>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 440, in send
+    resp = conn.urlopen(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 787, in urlopen
+    retries = retries.increment(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/retry.py"", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='www.koronavirus.hr', port=443): Max retries exceeded with url: /data/stats_latest.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f612c0cb4c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/croatia.py"", line 46, in main
+    data = read(source).pipe(pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/croatia.py"", line 11, in read
+    data = request_json(source)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 106, in request_json
+    text = request_text(url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 127, in request_text
+    soup = get_soup(url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 49, in get_response
+    raise err
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 43, in get_response
+    response = requests.get(source, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.koronavirus.hr', port=443): Max retries exceeded with url: /data/stats_latest.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f612c0cb4c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+","HTTPSConnectionPool(host='www.koronavirus.hr', port=443): Max retries exceeded with url: /data/stats_latest.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f612c0cb4c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+cowidev.vax.incremental.cuba,1.45,False,2024-08-15T07:02:59,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cuba.py"", line 85, in main
+    Cuba().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cuba.py"", line 71, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cuba.py"", line 32, in read
+    return self._parse_data(soup)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cuba.py"", line 37, in _parse_data
+    ""date"": self._parse_date(soup),
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cuba.py"", line 44, in _parse_date
+    date_str = match.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+",'NoneType' object has no attribute 'group'
+cowidev.vax.incremental.curacao,,,2024-08-15T07:00:06,,
+cowidev.vax.incremental.cyprus,0.66,False,2024-08-15T07:03:00,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cyprus.py"", line 54, in main
+    data = read(source).pipe(pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/cyprus.py"", line 13, in read
+    for block in soup.find(class_=""main"").find_all(class_=""w3-center""):
+AttributeError: 'NoneType' object has no attribute 'find_all'
+",'NoneType' object has no attribute 'find_all'
+cowidev.vax.incremental.dominican_republic,13.9,True,2024-08-15T07:00:20,,
+cowidev.vax.incremental.el_salvador,0.75,False,2024-08-15T07:03:01,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/el_salvador.py"", line 136, in main
+    ElSalvador().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/el_salvador.py"", line 122, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/el_salvador.py"", line 16, in read
+    soup = get_soup(self.source_url)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 52, in get_response
+    raise ValueError(
+ValueError: Source https://covid19.gob.sv/ not reached! Error code 401 Unauthorized
+",Source https://covid19.gob.sv/ not reached! Error code 401 Unauthorized
+cowidev.vax.incremental.faeroe_islands,1.13,True,2024-08-15T07:00:07,,
+cowidev.vax.incremental.fiji,0.0,True,2024-08-15T07:00:06,,
+cowidev.vax.incremental.finland,0.51,True,2024-08-15T07:00:07,,
+cowidev.vax.incremental.gabon,,,2024-08-15T07:00:06,,
+cowidev.vax.incremental.georgia,2.61,True,2024-08-15T07:00:09,,
+cowidev.vax.incremental.greenland,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.guatemala,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.guernsey,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.hungary,0.11,False,2024-08-15T07:03:01,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 703, in urlopen
+    httplib_response = self._make_request(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 386, in _make_request
+    self._validate_conn(conn)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 1042, in _validate_conn
+    conn.connect()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 414, in connect
+    self.sock = ssl_wrap_socket(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/ssl_.py"", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/ssl_.py"", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File ""/usr/lib/python3.10/ssl.py"", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File ""/usr/lib/python3.10/ssl.py"", line 1100, in _create
+    self.do_handshake()
+  File ""/usr/lib/python3.10/ssl.py"", line 1371, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 440, in send
+    resp = conn.urlopen(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 787, in urlopen
+    retries = retries.increment(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/retry.py"", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='koronavirus.gov.hu', port=443): Max retries exceeded with url: /hirek?page=0/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/hungary.py"", line 148, in main
+    Hungary().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/hungary.py"", line 136, in export
+    df = self.read(last_update)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/hungary.py"", line 30, in read
+    soup = get_soup(url)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 49, in get_response
+    raise err
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 43, in get_response
+    response = requests.get(source, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='koronavirus.gov.hu', port=443): Max retries exceeded with url: /hirek?page=0/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+","HTTPSConnectionPool(host='koronavirus.gov.hu', port=443): Max retries exceeded with url: /hirek?page=0/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))"
+cowidev.vax.incremental.iceland,1.2,True,2024-08-15T07:00:08,,
+cowidev.vax.incremental.india,1.09,False,2024-08-15T07:03:02,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/india.py"", line 100, in main
+    India().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/india.py"", line 86, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/india.py"", line 27, in read
+    data = request_json(self.source_url[self.source_name])
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 106, in request_json
+    text = request_text(url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 127, in request_text
+    soup = get_soup(url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 52, in get_response
+    raise ValueError(
+ValueError: Source https://api.cowin.gov.in/api/v1/reports/v2/getPublicReports?state_id=&district_id=&date=2024-08-15 not reached! Error code 400 Bad Request
+",Source https://api.cowin.gov.in/api/v1/reports/v2/getPublicReports?state_id=&district_id=&date=2024-08-15 not reached! Error code 400 Bad Request
+cowidev.vax.incremental.iran,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.isle_of_man,3.1,True,2024-08-15T07:00:10,,
+cowidev.vax.incremental.jamaica,1.31,False,2024-08-15T07:03:03,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/jamaica.py"", line 57, in main
+    Jamaica().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/jamaica.py"", line 52, in export
+    data = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/jamaica.py"", line 17, in read
+    return self._parse_data(soup)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/jamaica.py"", line 21, in _parse_data
+    assert len(counters) == 6, ""New counter in dashboard?""
+AssertionError: New counter in dashboard?
+",New counter in dashboard?
+cowidev.vax.incremental.kazakhstan,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.kosovo,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.kyrgyzstan,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.laos,6.02,True,2024-08-15T07:03:09,,
+cowidev.vax.incremental.macao,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.moldova,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.monaco,13.04,True,2024-08-15T07:00:20,,
+cowidev.vax.incremental.mongolia,0.96,True,2024-08-15T07:00:08,,
+cowidev.vax.incremental.montenegro,0.4,True,2024-08-15T07:00:08,,
+cowidev.vax.incremental.morocco,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.myanmar,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.nepal,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.north_macedonia,,,2024-08-15T07:00:07,,
+cowidev.vax.incremental.northern_cyprus,0.29,False,2024-08-15T07:03:09,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 703, in urlopen
+    httplib_response = self._make_request(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 386, in _make_request
+    self._validate_conn(conn)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 1042, in _validate_conn
+    conn.connect()
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connection.py"", line 414, in connect
+    self.sock = ssl_wrap_socket(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/ssl_.py"", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/ssl_.py"", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File ""/usr/lib/python3.10/ssl.py"", line 513, in wrap_socket
+    return self.sslsocket_class._create(
+  File ""/usr/lib/python3.10/ssl.py"", line 1100, in _create
+    self.do_handshake()
+  File ""/usr/lib/python3.10/ssl.py"", line 1371, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 440, in send
+    resp = conn.urlopen(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/connectionpool.py"", line 787, in urlopen
+    retries = retries.increment(
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/urllib3/util/retry.py"", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='asi.saglik.gov.ct.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/northern_cyprus.py"", line 72, in main
+    data = read(source).pipe(pipeline, source)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/northern_cyprus.py"", line 13, in read
+    soup = get_soup(source)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 83, in get_soup
+    response = get_response(source, request_method, use_proxy, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 49, in get_response
+    raise err
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/utils/web/scraping.py"", line 43, in get_response
+    response = requests.get(source, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/sessions.py"", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/requests/adapters.py"", line 517, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='asi.saglik.gov.ct.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))
+","HTTPSConnectionPool(host='asi.saglik.gov.ct.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)')))"
+cowidev.vax.incremental.paho,86.12,False,2024-08-15T07:04:35,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 196, in main
+    PAHO().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 191, in export
+    df = self.read().pipe(self.pipeline)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 168, in pipeline
+    df.pipe(self.pipe_check_columns)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/generic.py"", line 5430, in pipe
+    return com.pipe(self, func, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/pandas/core/common.py"", line 471, in pipe
+    return func(obj, *args, **kwargs)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/paho.py"", line 122, in pipe_check_columns
+    raise ValueError(f""Missing column fields: {columns_missing}. Present columns are: {df.columns}"")
+ValueError: Missing column fields: {'1st additional dose', 'Second dose', 'Country code', 'Total doses', 'First dose', '2nd additional dose', 'Single dose', 'Country/ Territory'}. Present columns are: Index(['date,location,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters,new_vaccinations,new_vaccinations_interpolated,new_people_vaccinated_interpolated,new_vaccinations_smoothed,new_people_vaccinated_smoothed', 'date'], dtype='object')
+","Missing column fields: {'1st additional dose', 'Second dose', 'Country code', 'Total doses', 'First dose', '2nd additional dose', 'Single dose', 'Country/ Territory'}. Present columns are: Index(['date,location,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters,new_vaccinations,new_vaccinations_interpolated,new_people_vaccinated_interpolated,new_vaccinations_smoothed,new_people_vaccinated_smoothed', 'date'], dtype='object')"
+cowidev.vax.incremental.pakistan,,,2024-08-15T07:00:08,,
+cowidev.vax.incremental.philippines,,,2024-08-15T07:00:08,,
+cowidev.vax.incremental.poland,1.04,True,2024-08-15T07:00:09,,
+cowidev.vax.incremental.qatar,,,2024-08-15T07:00:08,,
+cowidev.vax.incremental.russia,12.73,True,2024-08-15T07:00:21,,
+cowidev.vax.incremental.saint_lucia,,,2024-08-15T07:00:08,,
+cowidev.vax.incremental.serbia,8.1,True,2024-08-15T07:00:16,,
+cowidev.vax.incremental.south_africa,,,2024-08-15T07:00:08,,
+cowidev.vax.incremental.spain,15.15,True,2024-08-15T07:00:23,,
+cowidev.vax.incremental.sri_lanka,,,2024-08-15T07:00:08,,
+cowidev.vax.incremental.suriname,13.28,False,2024-08-15T07:04:49,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/suriname.py"", line 57, in main
+    data = read(source).pipe(pipeline)
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/suriname.py"", line 25, in read
+    people_vaccinated = people_partly_vaccinated + people_fully_vaccinated
+UnboundLocalError: local variable 'people_fully_vaccinated' referenced before assignment
+",local variable 'people_fully_vaccinated' referenced before assignment
+cowidev.vax.incremental.taiwan,,,2024-08-15T07:00:09,,
+cowidev.vax.incremental.thailand,0.21,False,2024-08-15T07:04:49,"Traceback (most recent call last):
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/cmd/commons/get.py"", line 47, in run
+    module.main()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/thailand.py"", line 67, in main
+    Thailand().export()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/thailand.py"", line 61, in export
+    df = self.read()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/thailand.py"", line 15, in read
+    df = self._parse_data()
+  File ""/home/owid/covid-19-data/scripts/src/cowidev/vax/incremental/thailand.py"", line 22, in _parse_data
+    ts.loads(self.source_url)
+  File ""/home/owid/covid-19-data/scripts/venv/lib/python3.10/site-packages/tableauscraper/TableauScraper.py"", line 79, in loads
+    self.tableauData = json.loads(
+  File ""/usr/lib/python3.10/json/__init__.py"", line 346, in loads
+    return _default_decoder.decode(s)
+  File ""/usr/lib/python3.10/json/decoder.py"", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File ""/usr/lib/python3.10/json/decoder.py"", line 355, in raw_decode
+    raise JSONDecodeError(""Expecting value"", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+",Expecting value: line 1 column 1 (char 0)
+cowidev.vax.incremental.turkey,,,2024-08-15T07:00:09,,
+cowidev.vax.incremental.united_arab_emirates,,,2024-08-15T07:00:09,,
+cowidev.vax.incremental.vietnam,,,2024-08-15T07:00:09,,
+cowidev.vax.incremental.who,12.54,True,2024-08-15T07:00:22,,
+cowidev.vax.incremental.zambia,1.13,True,2024-08-15T07:00:10,,

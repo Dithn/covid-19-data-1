@@ -1,255 +1,144 @@
-total_vaccinations,date,people_fully_vaccinated,people_vaccinated,location,source_url,vaccine,total_boosters
-3836,2021-01-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-10223,2021-01-07,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-17998,2021-01-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-25763,2021-01-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-43349,2021-01-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-50395,2021-01-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-56054,2021-01-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-61709,2021-01-14,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-67135,2021-01-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-72098,2021-01-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-77062,2021-01-17,1098,76959,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,Pfizer/BioNTech,
-90501,2021-01-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-103941,2021-01-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-117379,2021-01-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-130814,2021-01-21,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-145100,2021-01-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-155923,2021-01-23,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-166744,2021-01-24,3196,166312,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-182784,2021-01-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-202298,2021-01-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-228684,2021-01-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-259011,2021-01-28,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-293476,2021-01-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-324442,2021-01-30,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-352607,2021-01-31,7955,348865,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-387079,2021-02-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-421714,2021-02-02,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-454534,2021-02-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-489139,2021-02-04,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-522426,2021-02-05,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-550165,2021-02-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-573825,2021-02-07,33791,544783,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-606977,2021-02-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-639281,2021-02-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Pfizer/BioNTech",
-671270,2021-02-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-703221,2021-02-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-735170,2021-02-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-763648,2021-02-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-792123,2021-02-14,105403,690420,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-823781,2021-02-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-855438,2021-02-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-890861,2021-02-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-927630,2021-02-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-966691,2021-02-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1004821,2021-02-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1042946,2021-02-21,175494,873565,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1080803,2021-02-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1124546,2021-02-23,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1175184,2021-02-24,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1228660,2021-02-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1286637,2021-02-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1339613,2021-02-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1388722,2021-02-28,293035,1105016,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1434055,2021-03-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1480498,2021-03-02,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1525199,2021-03-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1569345,2021-03-04,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1611757,2021-03-05,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1650192,2021-03-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1684629,2021-03-07,381055,1314689,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1725930,2021-03-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1767878,2021-03-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1809881,2021-03-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1851826,2021-03-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1891583,2021-03-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1931334,2021-03-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-1971062,2021-03-14,473761,1512153,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2001500,2021-03-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2032139,2021-03-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2063000,2021-03-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2093750,2021-03-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2124163,2021-03-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2154571,2021-03-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2184977,2021-03-21,601299,1599050,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2215454,2021-03-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2249563,2021-03-23,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2295698,2021-03-24,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2341770,2021-03-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2389622,2021-03-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2436456,2021-03-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2483287,2021-03-28,702903,1798483,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2546738,2021-03-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2614088,2021-03-30,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2687116,2021-03-31,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2759971,2021-04-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2835045,2021-04-02,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2886076,2021-04-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2935508,2021-04-04,816979,2139935,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-2990807,2021-04-05,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3073830,2021-04-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3167826,2021-04-07,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3269852,2021-04-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3377067,2021-04-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3479204,2021-04-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3580140,2021-04-11,950466,2654054,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3700903,2021-04-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3821559,2021-04-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-3941806,2021-04-14,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4059199,2021-04-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4173819,2021-04-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4284020,2021-04-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4392044,2021-04-18,1052897,3369064,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4503322,2021-04-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4610534,2021-04-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4706715,2021-04-21,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4795181,2021-04-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4882680,2021-04-23,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-4970139,2021-04-24,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5057376,2021-04-25,1195710,3904005,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5155007,2021-04-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5252414,2021-04-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5347966,2021-04-28,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5448609,2021-04-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5548858,2021-04-30,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5656852,2021-05-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5755953,2021-05-02,1351017,4498156,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5865787,2021-05-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-5971646,2021-05-04,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6095020,2021-05-05,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6218760,2021-05-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6345406,2021-05-07,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6470476,2021-05-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6589419,2021-05-09,1696767,5068135,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6717694,2021-05-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-6853857,2021-05-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7008068,2021-05-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7157758,2021-05-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7298925,2021-05-14,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7448364,2021-05-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7589934,2021-05-16,2081896,5760038,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7744464,2021-05-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-7898773,2021-05-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8047416,2021-05-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8191558,2021-05-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8335189,2021-05-21,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8477203,2021-05-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8616111,2021-05-23,2662790,6269752,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8702725,2021-05-24,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-8805285,2021-05-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9004501,2021-05-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9137234,2021-05-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9296269,2021-05-28,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9456080,2021-05-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9608511,2021-05-30,3313355,6761006,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9767088,2021-05-31,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-9933050,2021-06-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-10099126,2021-06-02,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-10272295,2021-06-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-10438618,2021-06-04,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-10603208,2021-06-05,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-10774737,2021-06-06,4104296,7341152,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-10907972,2021-06-07,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-11145074,2021-06-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-11395454,2021-06-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-11640368,2021-06-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-11878295,2021-06-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-12208790,2021-06-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-12442350,2021-06-13,4892967,8358656,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-12651035,2021-06-14,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-12862499,2021-06-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-13067373,2021-06-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-13269681,2021-06-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-13472247,2021-06-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-13676759,2021-06-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-13875172,2021-06-20,5658442,9102575,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-14075757,2021-06-21,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-14276342,2021-06-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-14477525,2021-06-23,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-14680637,2021-06-24,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-14896699,2021-06-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-15121633,2021-06-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-15342995,2021-06-27,6427985,9919785,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-15553035,2021-06-28,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-15764668,2021-06-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-15974932,2021-06-30,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-16185352,2021-07-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-16392351,2021-07-02,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-16596971,2021-07-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-16726739,2021-07-04,7194784,10860845,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-16924275,2021-07-05,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-17101744,2021-07-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-17277702,2021-07-07,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-17449866,2021-07-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-17625182,2021-07-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-17794736,2021-07-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-17960133,2021-07-11,7789194,11691119,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-18106978,2021-07-12,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-18311339,2021-07-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-18467384,2021-07-14,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-18621626,2021-07-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-18782114,2021-07-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-18942204,2021-07-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-19095198,2021-07-18,8673059,11917855,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-19222005,2021-07-19,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-19348991,2021-07-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-19473740,2021-07-21,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-19600216,2021-07-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-07-25,9334307,12112754,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-20254917,2021-07-26,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-20464166,2021-07-28,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-08-01,9993125,12267716,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-21075870,2021-08-02,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-08-08,10724943,12359686,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-21743306,2021-08-09,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-21955422,2021-08-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-08-15,11368334,12436180,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-22402305,2021-08-16,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-22486836,2021-08-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-08-22,11596433,12508341,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-22695140,2021-08-23,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-22773830,2021-08-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-08-29,11802735,12572084,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-22953546,2021-08-30,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23013287,2021-09-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-09-05,11960891,12624809,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23143234,2021-09-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23179631,2021-09-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-09-12,12043716,12672259,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23277532,2021-09-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23320388,2021-09-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-09-19,12131744,12740825,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23400202,2021-09-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23440062,2021-09-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-09-26,12217428,12811530,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23540559,2021-09-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23585124,2021-09-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-10-03,12291811,12876355,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23667267,2021-10-04,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23698483,2021-10-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-10-10,12356464,12918781,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23767664,2021-10-11,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23793422,2021-10-13,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-10-17,12417309,12951215,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23858776,2021-10-18,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23884413,2021-10-20,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-10-24,12471264,12986381,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23944362,2021-10-25,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-23975215,2021-10-27,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-10-31,12525587,13030291,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24099493,2021-11-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24134425,2021-11-03,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-11-07,12578362,13101194,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24227482,2021-11-08,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24260871,2021-11-10,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-11-14,12625728,13168148,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24350365,2021-11-15,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24382465,2021-11-17,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-11-21,12669128,13217308,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24455078,2021-11-22,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24487879,2021-11-24,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-,2021-11-28,12721528,13250117,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24636432,2021-11-29,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24693092,2021-12-01,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
-24763300,2021-12-06,,,Netherlands,https://coronadashboard.government.nl/landelijk/vaccinaties,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Netherlands,2021-01-08,Pfizer/BioNTech,https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34675,34675,0,0
+Netherlands,2021-01-15,"Moderna, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,76667,76667,0,0
+Netherlands,2021-01-22,"Moderna, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,162614,162613,1,0
+Netherlands,2021-01-29,"Moderna, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,303447,283383,20064,0
+Netherlands,2021-02-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,479103,417519,61584,0
+Netherlands,2021-02-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,665672,522439,143233,0
+Netherlands,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,874186,663276,210910,0
+Netherlands,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,1161534,874137,287397,0
+Netherlands,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,1395532,1054363,341169,0
+Netherlands,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,1624000,1217596,406404,0
+Netherlands,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,1807878,1302297,505581,0
+Netherlands,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,2059282,1468000,591282,0
+Netherlands,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,2462297,1769709,692588,0
+Netherlands,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,2922687,2121221,801466,0
+Netherlands,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,3614494,2728662,885832,0
+Netherlands,2021-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,4265520,3274453,1000242,0
+Netherlands,2021-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,4909804,3833529,1118457,0
+Netherlands,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,5639451,4334106,1363365,0
+Netherlands,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,6528722,4940102,1665664,0
+Netherlands,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,7568260,5524465,2140052,0
+Netherlands,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,8550521,6034211,2707615,0
+Netherlands,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,9632990,6616835,3356280,0
+Netherlands,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,11144578,7617407,3913738,0
+Netherlands,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,12489288,8334892,4546506,0
+Netherlands,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,13908769,9125028,5244122,0
+Netherlands,2021-07-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,15387649,10042893,5930129,0
+Netherlands,2021-07-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,16696219,10853792,6492592,0
+Netherlands,2021-07-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,17843198,11079348,7426539,0
+Netherlands,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,18708890,11269992,8109180,0
+Netherlands,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,19505334,11420507,8760990,0
+Netherlands,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,20313896,11509127,9485148,0
+Netherlands,2021-08-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,21017856,11583031,10119027,0
+Netherlands,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,21309906,11652764,10344467,0
+Netherlands,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,21566170,11714081,10542237,0
+Netherlands,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,21753046,11761204,10684794,0
+Netherlands,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,21871584,11805144,10762159,0
+Netherlands,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22013372,11871168,10844132,0
+Netherlands,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22140225,11932710,10915136,0
+Netherlands,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22250421,11989008,10974378,0
+Netherlands,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22349190,12029771,11033682,0
+Netherlands,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22449296,12060041,11089803,0
+Netherlands,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22552716,12092938,11140230,0
+Netherlands,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22660471,12134259,11191002,0
+Netherlands,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22779291,12201222,11236697,0
+Netherlands,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,22895509,12263959,11280584,65
+Netherlands,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,23003858,12309853,11325289,7015
+Netherlands,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,23266473,12340496,11383919,172500
+Netherlands,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,23642694,12363708,11440455,462714
+Netherlands,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,24227365,12381062,11494341,972140
+Netherlands,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,25122398,12395732,11537766,1805724
+Netherlands,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,26397645,12404990,11564281,3042857
+Netherlands,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,28006524,12414012,11587823,4618188
+Netherlands,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,29876787,12427548,11612364,6449755
+Netherlands,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,30998417,12437797,11631441,7541797
+Netherlands,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,31460884,12459046,11646380,7967890
+Netherlands,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,31744943,12502476,11660630,8194199
+Netherlands,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,31962000,12520120,11672475,8381642
+Netherlands,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,32094290,12528484,11681284,8496695
+Netherlands,2022-02-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,32165407,12531987,11686070,8559410
+Netherlands,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,32221898,12534326,11689658,8609779
+Netherlands,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,32303688,12536075,11692390,8657492
+Netherlands,2022-03-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,32486204,12537526,11694506,8703989
+Netherlands,2022-03-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,32770795,12539287,11699187,8742513
+Netherlands,2022-03-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,33112347,12541165,11714617,8776288
+Netherlands,2022-04-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,33507858,12542744,11723736,8813286
+Netherlands,2022-04-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,33846584,12544224,11728721,8850766
+Netherlands,2022-04-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34089792,12545759,11731677,8880962
+Netherlands,2022-04-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34271054,12547258,11733874,8905791
+Netherlands,2022-04-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34379937,12548603,11735328,8924348
+Netherlands,2022-05-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34463555,12550320,11736887,8942695
+Netherlands,2022-05-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34528265,12552011,11738249,8958050
+Netherlands,2022-05-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34598846,12553932,11739693,8974920
+Netherlands,2022-05-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34650136,12555753,11741134,8989319
+Netherlands,2022-06-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34697708,12557402,11742671,9002076
+Netherlands,2022-06-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34742413,12558718,11744148,9012978
+Netherlands,2022-06-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34817551,12560350,11746038,9028741
+Netherlands,2022-06-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,34922474,12562380,11748261,9051862
+Netherlands,2022-07-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35018552,12564070,11750334,9073817
+Netherlands,2022-07-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35105247,12565635,11752272,9094939
+Netherlands,2022-07-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35228446,12566937,11754005,9115869
+Netherlands,2022-07-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35320811,12567876,11755213,9133616
+Netherlands,2022-07-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35406941,12568667,11756331,9150858
+Netherlands,2022-08-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35464396,12569260,11757048,9162630
+Netherlands,2022-08-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35497967,12569796,11757621,9169931
+Netherlands,2022-08-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35523898,12570361,11758253,9176130
+Netherlands,2022-08-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35541019,12570962,11758814,9180561
+Netherlands,2022-09-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35555180,12571451,11759352,9184484
+Netherlands,2022-09-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35562623,12572050,11760063,9186648
+Netherlands,2022-09-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35568890,12572512,11760636,9189057
+Netherlands,2022-09-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,35824042,12572789,11760965,9193283
+Netherlands,2022-09-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,36269802,12573200,11761333,9203495
+Netherlands,2022-10-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,36834505,12573645,11761715,9222571
+Netherlands,2022-10-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,37451454,12574161,11762028,9247467
+Netherlands,2022-10-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,38053065,12574716,11762343,9276582
+Netherlands,2022-10-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,38574600,12575360,11762651,9308667
+Netherlands,2022-11-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,38918660,12575932,11762938,9334091
+Netherlands,2022-11-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39129015,12576412,11763238,9352039
+Netherlands,2022-11-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39254508,12576823,11763535,9363280
+Netherlands,2022-11-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39338692,12577162,11763772,9371103
+Netherlands,2022-12-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39402007,12577457,11764048,9377377
+Netherlands,2022-12-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39454469,12577749,11764296,9382622
+Netherlands,2022-12-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39497471,12577968,11764496,9386795
+Netherlands,2022-12-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39530103,12578186,11764677,9390027
+Netherlands,2022-12-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39558523,12578379,11764835,9392949
+Netherlands,2023-01-06,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39608645,12578650,11765008,9397621
+Netherlands,2023-01-13,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39646509,12578925,11765197,9400808
+Netherlands,2023-01-20,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39671845,12579196,11765395,9402956
+Netherlands,2023-01-27,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39690324,12579415,11765647,9404728
+Netherlands,2023-02-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39705307,12579611,11765874,9406405
+Netherlands,2023-02-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39717242,12579814,11766102,9407845
+Netherlands,2023-02-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39727431,12579994,11766259,9409069
+Netherlands,2023-02-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39735368,12580196,11766434,9410124
+Netherlands,2023-03-03,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39741175,12580370,11766619,9411032
+Netherlands,2023-03-10,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39745571,12580558,11766814,9411776
+Netherlands,2023-03-17,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39748783,12580731,11767021,9412481
+Netherlands,2023-03-24,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39750966,12580871,11767204,9413051
+Netherlands,2023-03-31,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39752774,12580986,11767401,9413609
+Netherlands,2023-04-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39754154,12581121,11767570,9414033
+Netherlands,2023-04-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39755250,12581231,11767741,9414386
+Netherlands,2023-04-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39756309,12581352,11767870,9414738
+Netherlands,2023-04-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39757134,12581484,11768006,9414994
+Netherlands,2023-05-05,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39757897,12581565,11768079,9415226
+Netherlands,2023-05-12,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39758457,12581618,11768159,9415379
+Netherlands,2023-05-19,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39758947,12581692,11768236,9415515
+Netherlands,2023-05-26,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39759513,12581769,11768304,9415671
+Netherlands,2023-06-02,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39760002,12581850,11768382,9415810
+Netherlands,2023-06-09,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39760579,12581931,11768448,9415962
+Netherlands,2023-06-16,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39760969,12581959,11768496,9416099
+Netherlands,2023-06-23,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39761334,12581979,11768531,9416200
+Netherlands,2023-06-30,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39761642,12581994,11768558,9416267
+Netherlands,2023-07-07,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39761896,12581996,11768572,9416330
+Netherlands,2023-07-14,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39762154,12582012,11768581,9416387
+Netherlands,2023-07-21,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39762363,12582022,11768596,9416429
+Netherlands,2023-07-28,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39762551,12582030,11768602,9416475
+Netherlands,2023-08-04,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39762726,12582038,11768611,9416505
+Netherlands,2023-08-11,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39762880,12582043,11768617,9416533
+Netherlands,2023-08-18,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39763086,12582046,11768620,9416575
+Netherlands,2023-08-25,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39763323,12582051,11768626,9416615
+Netherlands,2023-09-01,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39763574,12582057,11768629,9416661
+Netherlands,2023-09-08,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39763824,12582073,11768634,9416704
+Netherlands,2023-09-15,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39764069,12582079,11768638,9416753
+Netherlands,2023-09-22,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39764093,12582080,11768641,9416759
+Netherlands,2023-09-29,"Johnson&Johnson, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea,39764182,12582081,11768644,9416761

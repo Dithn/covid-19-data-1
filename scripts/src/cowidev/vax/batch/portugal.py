@@ -1,12 +1,12 @@
+from cowidev.vax.utils.base import CountryVaxBase
 import pandas as pd
 
-from cowidev.vax.utils.utils import make_monotonic
-from cowidev.utils import paths
 from cowidev.utils.clean import clean_date_series
-from cowidev.vax.utils.utils import build_vaccine_timeline
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.utils import build_vaccine_timeline, make_monotonic
 
 
-class Portugal:
+class Portugal(CountryVaxBase):
     location: str = "Portugal"
     source_url: str = "https://github.com/dssg-pt/covid19pt-data/raw/master/vacinas.csv"
     source_url_ref: str = "https://github.com/dssg-pt/covid19pt-data"
@@ -19,10 +19,58 @@ class Portugal:
     }
 
     def read(self) -> pd.DataFrame:
-        return pd.read_csv(
-            self.source_url,
-            usecols=self.columns_rename.keys(),
+        df = pd.read_csv(self.source_url)
+        check_known_columns(
+            df,
+            [
+                "data",
+                "doses",
+                "doses_novas",
+                "doses1",
+                "doses1_novas",
+                "doses2",
+                "doses2_novas",
+                "pessoas_vacinadas_completamente",
+                "pessoas_vacinadas_completamente_novas",
+                "pessoas_vacinadas_parcialmente",
+                "pessoas_vacinadas_parcialmente_novas",
+                "pessoas_inoculadas",
+                "pessoas_inoculadas_novas",
+                "vacinas",
+                "vacinas_novas",
+                "pessoas_vacinadas_completamente_continente",
+                "pessoas_vacinadas_completamente_continente_novas",
+                "pessoas_reforço",
+                "pessoas_reforço_novas",
+                "pessoas_reforço_continente",
+                "pessoas_reforço_continente_novas",
+                "pessoas_gripe",
+                "pessoas_gripe_novas",
+                "vacinas_reforço_e_gripe_novas",
+                "reforço_80mais",
+                "reforço_80mais_novas",
+                "reforço_70_79",
+                "reforço_70_79_novas",
+                "reforço_65_69",
+                "reforço_65_69_novas",
+                "reforço_60_69",
+                "reforço_60_69_novas",
+                "reforço_50_59",
+                "reforço_50_59_novas",
+                "vacinação_iniciada_05_11",
+                "vacinação_iniciada_05_11_novas",
+                "pessoas_inoculadas_12mais",
+                "reforço_40_49",
+                "reforço_40_49_novas",
+                "vacinação_completa_05_11_novas",
+                "reforço_30_39_novas",
+                "vacinação_completa_05_11",
+                "reforço_18_29",
+                "reforço_18_29_novas",
+                "reforço_30_39",
+            ],
         )
+        return df[self.columns_rename.keys()]
 
     def pipe_rename_columns(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.rename(columns=self.columns_rename)
@@ -88,8 +136,8 @@ class Portugal:
         )
 
     def export(self):
-        destination = paths.out_vax(self.location)
-        self.read().pipe(self.pipeline).to_csv(destination, index=False)
+        df = self.read().pipe(self.pipeline)
+        self.export_datafile(df)
 
 
 def add_boosters(df: pd.DataFrame) -> pd.DataFrame:
@@ -112,7 +160,3 @@ def add_boosters(df: pd.DataFrame) -> pd.DataFrame:
 
 def main():
     Portugal().export()
-
-
-if __name__ == "__main__":
-    main()

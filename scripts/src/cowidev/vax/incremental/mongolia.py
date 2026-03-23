@@ -26,12 +26,14 @@ def parse_data(data: dict) -> pd.Series:
 
     people_vaccinated = data["progress"]
     people_fully_vaccinated = data["completed"]
+    boosters = data["d3"]
 
     return pd.Series(
         data={
             "date": date,
             "people_vaccinated": people_vaccinated,
             "people_fully_vaccinated": people_fully_vaccinated,
+            "total_boosters": boosters,
             "vaccine": ", ".join(_get_vaccine_names(data, translate=True)),
         }
     )
@@ -53,7 +55,7 @@ def _check_vaccine_names(vaccine_names: list):
 
 
 def add_totals(ds: pd.Series) -> pd.Series:
-    total_vaccinations = ds.people_vaccinated + ds.people_fully_vaccinated
+    total_vaccinations = ds.people_vaccinated + ds.people_fully_vaccinated + ds.total_boosters
     return enrich_data(ds, "total_vaccinations", total_vaccinations)
 
 
@@ -77,11 +79,8 @@ def main():
         total_vaccinations=int(data["total_vaccinations"]),
         people_vaccinated=int(data["people_vaccinated"]),
         people_fully_vaccinated=int(data["people_fully_vaccinated"]),
+        total_boosters=int(data["total_boosters"]),
         date=str(data["date"]),
         source_url=str(data["source_url"]),
         vaccine=str(data["vaccine"]),
     )
-
-
-if __name__ == "__main__":
-    main()

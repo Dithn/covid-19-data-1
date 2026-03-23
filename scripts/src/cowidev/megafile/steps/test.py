@@ -2,13 +2,12 @@ import os
 from datetime import date
 
 import pandas as pd
-from cowidev.utils.utils import get_project_dir
+from cowidev import PATHS
 
 
-INPUT_DIR = os.path.abspath(os.path.join(get_project_dir(), "scripts", "input"))
-DATA_DIR = os.path.abspath(os.path.join(get_project_dir(), "public", "data"))
-data_file = os.path.join(DATA_DIR, "testing", "covid-testing-all-observations.csv")
-data_file_second = os.path.join(INPUT_DIR, "owid", "secondary_testing_series.csv")
+INPUT_DIR = PATHS.INTERNAL_INPUT_DIR
+DATA_DIR = PATHS.DATA_DIR
+data_file = PATHS.DATA_TEST_MAIN_FILE
 
 
 def get_testing():
@@ -58,7 +57,6 @@ def get_testing():
             "new_tests_per_thousand",
             "new_tests_smoothed_per_thousand",
             "tests_per_case",
-            "positive_rate",
         ]
     ] = testing[
         [
@@ -66,7 +64,6 @@ def get_testing():
             "new_tests_per_thousand",
             "new_tests_smoothed_per_thousand",
             "tests_per_case",
-            "positive_rate",
         ]
     ].round(
         3
@@ -74,11 +71,6 @@ def get_testing():
 
     # Split the original entity into location and testing units
     testing[["location", "tests_units"]] = testing.location.str.split(" - ", expand=True)
-
-    # For locations with >1 series, choose a series
-    to_remove = pd.read_csv(data_file_second)
-    for loc, unit in to_remove.itertuples(index=False, name=None):
-        testing = testing[-((testing["location"] == loc) & (testing["tests_units"] == unit))]
 
     # Check for remaining duplicates of location/date
     duplicates = testing.groupby(["location", "date"]).size().to_frame("n")

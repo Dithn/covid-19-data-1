@@ -1,4 +1,4 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,people_partly_vaccinated
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
 Pakistan,2021-02-02,"CanSino, Sinopharm/Beijing, Sputnik V",https://www.thehindu.com/news/international/pakistan-begins-covid-19-vaccination-programme/article33743052.ece,0,0,,
 Pakistan,2021-02-10,"CanSino, Sinopharm/Beijing, Sputnik V",https://www.geo.tv/latest/334290-no-side-effects-of-covid-19-vaccine-pakistani-frontline-health-workers-say,27228,27228,,
 Pakistan,2021-02-17,"CanSino, Sinopharm/Beijing, Sputnik V",https://www.dawn.com/news/1607971,52768,52768,,
@@ -36,13 +36,13 @@ Pakistan,2021-07-01,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sp
 Pakistan,2021-07-03,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,16714717,13507802,,
 Pakistan,2021-07-04,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,17390346,14026856,,
 Pakistan,2021-07-07,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,18228235,14698191,,
-Pakistan,2021-07-10,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,19067352,15320363,,15320363
-Pakistan,2021-07-11,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,19883900,15941609,,15941609
-Pakistan,2021-07-13,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,20540263,16445560,,16445560
-Pakistan,2021-07-14,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,21076550,16867090,,16867090
-Pakistan,2021-07-15,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,21660650,17336845,,17336845
-Pakistan,2021-07-16,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,22222701,17775640,,17775640
-Pakistan,2021-07-17,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,22735993,18185297,,18185297
+Pakistan,2021-07-10,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,19067352,15320363,,
+Pakistan,2021-07-11,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,19883900,15941609,,
+Pakistan,2021-07-13,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,20540263,16445560,,
+Pakistan,2021-07-14,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,21076550,16867090,,
+Pakistan,2021-07-15,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,21660650,17336845,,
+Pakistan,2021-07-16,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,22222701,17775640,,
+Pakistan,2021-07-17,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,22735993,18185297,,
 Pakistan,2021-07-21,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,24096587,,,
 Pakistan,2021-07-26,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/info,25248858,20060157,5188701,
 Pakistan,2021-07-28,"CanSino, Oxford/AstraZeneca, Sinovac, Sinopharm/Beijing, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,26248235,20769363,,
@@ -124,3 +124,261 @@ Pakistan,2021-12-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNT
 Pakistan,2021-12-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,126586512,81806077,52303524,
 Pakistan,2021-12-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,127706528,82224088,53031529,
 Pakistan,2021-12-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,130107583,83180958,54556748,
+Pakistan,2021-12-09,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,131311097,83679855,55309570,
+Pakistan,2021-12-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,132638510,84243233,56119999,
+Pakistan,2021-12-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,133901703,84783151,56861225,
+Pakistan,2021-12-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,134818017,85208104,57364128,
+Pakistan,2021-12-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,135923461,85736920,57979552,
+Pakistan,2021-12-15,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,137120270,86333973,58685427,
+Pakistan,2021-12-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,138365328,86968178,59361468,
+Pakistan,2021-12-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,141509339,88492869,61084339,
+Pakistan,2021-12-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,142713705,89091860,61761440,
+Pakistan,2021-12-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,144064235,89792114,62547553,
+Pakistan,2021-12-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,145453360,90529877,63382390,
+Pakistan,2021-12-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,148265690,92086806,65149948,
+Pakistan,2021-12-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,151951087,94261625,,
+Pakistan,2021-12-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,153477237,95159489,68508472,
+Pakistan,2021-12-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,156623021,96980678,70576467,
+Pakistan,2022-01-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,159058469,98201766,72060508,
+Pakistan,2022-01-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,159900613,98560854,72546719,
+Pakistan,2022-01-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,160651005,98863864,72995114,
+Pakistan,2022-01-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,161409693,99144159,73484322,
+Pakistan,2022-01-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,162115885,99454273,73862234,
+Pakistan,2022-01-11,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,163648656,100410291,75225220,
+Pakistan,2022-01-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,165296972,100797079,75686387,
+Pakistan,2022-01-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,166083807,101124956,76162035,
+Pakistan,2022-01-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,166837089,101457925,76649649,
+Pakistan,2022-01-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,168365369,102107155,77485124,
+Pakistan,2022-01-18,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,169131246,102396649,77932013,
+Pakistan,2022-01-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,169925841,102688959,78389942,
+Pakistan,2022-01-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,170711868,102975552,78860543,
+Pakistan,2022-01-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,172836036,103805835,80041973,
+Pakistan,2022-01-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,174085175,104228089,80748105,2242425
+Pakistan,2022-02-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,177483355,105575650,82554781,2575094
+Pakistan,2022-02-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,178996974,106328291,83275083,2666553
+Pakistan,2022-02-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,180661534,107277517,83946354,2758593
+Pakistan,2022-02-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,182396048,108173867,84731497,2758593
+Pakistan,2022-02-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,185979557,110213721,86200581,3033174
+Pakistan,2022-02-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,187996736,111408710,87052879,3114587
+Pakistan,2022-02-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,190064703,112635918,87945007,3185748
+Pakistan,2022-02-09,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,192248104,113907970,88868554,3272828
+Pakistan,2022-02-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,194492475,115238268,89853639,3361160
+Pakistan,2022-02-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,200887927,119150808,92565125,3610979
+Pakistan,2022-02-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,203227145,120645745,93542689,3695298
+Pakistan,2022-02-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,205527345,122046024,94523444,3815280
+Pakistan,2022-02-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,209438557,124309711,96218183,4093786
+Pakistan,2022-02-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,214661126,126722806,98809724,4460077
+Pakistan,2022-03-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,215117064,126951209,99049978,4488296
+Pakistan,2022-03-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,215539999,127117340,99292129,4512786
+Pakistan,2022-03-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,216932641,127532069,100163961,4646807
+Pakistan,2022-03-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,217444622,127697360,100463513,4704755
+Pakistan,2022-03-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,218051079,127811729,100912956,4758281
+Pakistan,2022-03-09,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,218689769,127942647,101379429,4811485
+Pakistan,2022-03-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,219368557,128074138,101881176,4869245
+Pakistan,2022-03-31,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://ncoc.gov.pk/covid-vaccination-en.php,237931825,132208776,115771018,6155791
+Pakistan,2022-04-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,243150094,133526662,119771164,6505852
+Pakistan,2022-04-11,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,243416068,133593531,119960320,6536262
+Pakistan,2022-04-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,243618172,133648252,120094937,6567445
+Pakistan,2022-04-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,243800641,133700569,120246974,6600993
+Pakistan,2022-04-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,243978732,133754050,120356354,6635625
+Pakistan,2022-04-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,244354132,133858835,120589371,6708880
+Pakistan,2022-04-18,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,244568232,133916484,120721865,6750811
+Pakistan,2022-04-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,244761947,133965057,120838237,6796974
+Pakistan,2022-04-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,244920963,134009159,120936554,6829240
+Pakistan,2022-04-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245094738,134053614,121045166,6864612
+Pakistan,2022-04-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245242604,134096674,121135201,6894815
+Pakistan,2022-04-23,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245392645,134138393,121234326,6920775
+Pakistan,2022-04-25,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245569444,134181416,121346021,6956223
+Pakistan,2022-04-26,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245702246,134214841,121429258,6982715
+Pakistan,2022-04-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245838488,134243630,121519673,7008198
+Pakistan,2022-04-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,245974507,134274386,121609853,7032301
+Pakistan,2022-04-29,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,246074202,134295087,121677887,7050976
+Pakistan,2022-04-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,246181059,134313917,121757972,7065777
+Pakistan,2022-05-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,246288892,134325948,121833235,7091127
+Pakistan,2022-05-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,246442655,134365662,121931215,7113731
+Pakistan,2022-05-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,246919325,134504257,122215848,7186014
+Pakistan,2022-05-11,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247081524,134538493,122309854,7227973
+Pakistan,2022-05-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247231861,134565776,122404120,7262973
+Pakistan,2022-05-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247400115,134611716,122498034,7313483
+Pakistan,2022-05-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247488620,134642345,122533390,7348127
+Pakistan,2022-05-15,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247532519,134654327,122564999,7355062
+Pakistan,2022-05-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247622545,134674536,122608328,7389043
+Pakistan,2022-05-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247724542,134695280,122652106,7433053
+Pakistan,2022-05-18,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,247841528,134723589,122712856,7466776
+Pakistan,2022-05-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248071034,134782057,122807098,7551043
+Pakistan,2022-05-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248223934,134816525,122855087,7629286
+Pakistan,2022-05-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248370902,134851479,122901010,7701522
+Pakistan,2022-05-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248429799,134857883,122912764,7744022
+Pakistan,2022-05-23,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248516807,134883060,122949702,7772898
+Pakistan,2022-05-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248672457,134912345,122994771,7858411
+Pakistan,2022-05-25,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248775528,134943768,123024964,7903887
+Pakistan,2022-05-26,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,248932085,134980836,123064636,7991182
+Pakistan,2022-05-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249044829,135004492,123094415,8055002
+Pakistan,2022-05-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249153531,135030016,123128282,8109984
+Pakistan,2022-05-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249173732,135033231,123130892,8125173
+Pakistan,2022-05-31,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249380176,135092327,123207371,8206345
+Pakistan,2022-06-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249458952,135115549,123242700,8231297
+Pakistan,2022-06-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249539017,135139203,123279040,8256712
+Pakistan,2022-06-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249612361,135161044,123311587,8279860
+Pakistan,2022-06-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249683651,135180109,123343319,8304411
+Pakistan,2022-06-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249692268,135181956,123345763,8309463
+Pakistan,2022-06-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,249944086,135237105,123436931,8438365
+Pakistan,2022-06-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,250685074,135309713,123554340,9028614
+Pakistan,2022-06-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,251485438,135405935,123685543,9623898
+Pakistan,2022-06-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,252923261,135547751,123885770,10761096
+Pakistan,2022-06-11,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,253637188,135622060,123974589,11327872
+Pakistan,2022-06-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,254300020,135687705,124047329,11870953
+Pakistan,2022-06-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,255066207,135769376,124146250,12476959
+Pakistan,2022-06-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,255799491,135844758,124240869,13057300
+Pakistan,2022-06-15,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,256546646,135926474,124342276,13640464
+Pakistan,2022-06-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,257234758,135998848,124433592,14182995
+Pakistan,2022-06-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,257955368,136065930,124539559,14747807
+Pakistan,2022-06-18,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,258680119,136132226,124633798,15333936
+Pakistan,2022-06-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,259286753,136187729,124721404,15825367
+Pakistan,2022-06-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,259993241,136252640,124870023,16332926
+Pakistan,2022-06-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,260941098,136328865,125047598,17044319
+Pakistan,2022-06-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,261989280,136422713,125250104,17828826
+Pakistan,2022-06-23,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,263166081,136515497,125457486,18731849
+Pakistan,2022-06-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,264171024,136594182,125639654,19496270
+Pakistan,2022-06-25,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,265193245,136683579,125841850,20250216
+Pakistan,2022-06-26,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,266158823,136754791,126004745,21011278
+Pakistan,2022-06-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,267200445,136867773,126198933,21773432
+Pakistan,2022-06-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,268206710,136961847,126385289,22534220
+Pakistan,2022-06-29,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,269192190,137038813,126553053,23292541
+Pakistan,2022-06-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,270168135,137108516,126718132,24048052
+Pakistan,2022-07-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,270801545,137177325,126863819,24483269
+Pakistan,2022-07-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,271705085,137246872,127001622,25195058
+Pakistan,2022-07-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,272421480,137291287,127105292,25771726
+Pakistan,2022-07-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,273365003,137369525,127262916,26505821
+Pakistan,2022-07-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,274354445,137436739,127421505,27288457
+Pakistan,2022-07-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,275382626,137503769,127590195,28103609
+Pakistan,2022-07-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,277363524,137624954,127898408,29688672
+Pakistan,2022-07-09,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,277816514,137652762,127969680,30049053
+Pakistan,2022-07-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,278150849,137686155,128040853,30294007
+Pakistan,2022-07-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,278587073,137719583,128114044,30635036
+Pakistan,2022-07-15,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,279073146,137755272,128194865,31012576
+Pakistan,2022-07-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,279555528,137788368,128275677,31388655
+Pakistan,2022-07-18,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,280058377,137824854,128372947,31763589
+Pakistan,2022-07-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,280530307,137850645,128442166,32144309
+Pakistan,2022-07-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,281037412,137879120,128517278,32551899
+Pakistan,2022-07-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,281510344,137905993,128582065,32936765
+Pakistan,2022-07-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,281952221,137931533,128647209,33291358
+Pakistan,2022-07-23,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,282359744,137952508,128695341,33632204
+Pakistan,2022-07-25,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,282862538,137997368,128811317,33981619
+Pakistan,2022-07-26,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,283344562,138038292,128903077,34344997
+Pakistan,2022-07-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,283822258,138077084,128991362,34707058
+Pakistan,2022-07-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,284289911,138119856,129080769,35056221
+Pakistan,2022-07-29,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,284762973,138162755,129175355,35408235
+Pakistan,2022-07-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,285218897,138206755,129271041,35743464
+Pakistan,2022-08-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,285721847,138258094,129420281,36066966
+Pakistan,2022-08-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,286203079,138302611,129536789,36408170
+Pakistan,2022-08-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,286651460,138350932,129643159,36724645
+Pakistan,2022-08-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,287099572,138397253,129747931,37043984
+Pakistan,2022-08-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,287508923,138441823,129842897,37337838
+Pakistan,2022-08-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,287848376,138476803,129921311,37581886
+Pakistan,2022-08-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,288276753,138563296,130069746,37805010
+Pakistan,2022-08-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,289889380,138765195,130469551,38925489
+Pakistan,2022-08-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,290178938,138807949,130540653,39123358
+Pakistan,2022-08-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,290735732,138890498,130683960,39496059
+Pakistan,2022-08-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,291013209,138925794,130752685,39689681
+Pakistan,2022-08-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,291223187,138959473,130818728,39818012
+Pakistan,2022-08-23,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,291411247,138985638,130867849,39944508
+Pakistan,2022-08-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,291581697,139008069,130914206,40057953
+Pakistan,2022-08-25,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,291747444,139030380,130958324,40168164
+Pakistan,2022-08-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,292026285,139058045,131011824,40377035
+Pakistan,2022-08-29,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,292197505,139077082,131049385,40499700
+Pakistan,2022-08-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,292374201,139092204,131079442,40636238
+Pakistan,2022-08-31,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,292563934,139109870,131116836,40777384
+Pakistan,2022-09-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,292751294,139136030,131158124,40901429
+Pakistan,2022-09-02,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,292929459,139165861,131202811,41025497
+Pakistan,2022-09-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,293089022,139177409,131233589,41144508
+Pakistan,2022-09-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,293584492,139208845,131310880,41531617
+Pakistan,2022-09-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,293755473,139217644,131335070,41669705
+Pakistan,2022-09-09,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,293921139,139226303,131356214,41805681
+Pakistan,2022-09-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,294088477,139234358,,41944988
+Pakistan,2022-09-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,294267054,139246077,,42086928
+Pakistan,2022-09-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,294446387,139257426,,42234270
+Pakistan,2022-09-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,294628130,139267049,,42386784
+Pakistan,2022-09-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,294812167,139277589,,42540277
+Pakistan,2022-09-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,295146024,139295195,,42820839
+Pakistan,2022-09-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,295289137,139301744,,42944088
+Pakistan,2022-09-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,295464617,139316517,,43075273
+Pakistan,2022-09-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,295621332,139327569,,43200093
+Pakistan,2022-09-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,295790466,139336665,,43340495
+Pakistan,2022-09-23,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,295951588,139346529,,43472117
+Pakistan,2022-09-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,296111530,139356535,,43603347
+Pakistan,2022-09-26,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,296277432,139366586,,43737343
+Pakistan,2022-09-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,296577797,139381377,,43988790
+Pakistan,2022-09-29,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,296738082,139388369,,44124465
+Pakistan,2022-09-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,296880485,139394287,,44246437
+Pakistan,2022-10-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,297293206,139412678,,44596652
+Pakistan,2022-10-05,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,297422383,139418295,,44706836
+Pakistan,2022-10-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,297551469,139423668,,44817130
+Pakistan,2022-10-08,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,297783703,139432456,,45018146
+Pakistan,2022-10-11,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298025656,139443281,,45222280
+Pakistan,2022-10-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298141584,139448252,,45321378
+Pakistan,2022-10-13,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298250512,139452737,,45414758
+Pakistan,2022-10-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298358481,139458052,,45507117
+Pakistan,2022-10-15,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298462828,139462231,,45596665
+Pakistan,2022-10-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298565145,139466142,,45684191
+Pakistan,2022-10-18,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298683617,139473075,,45780488
+Pakistan,2022-10-19,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298793045,139477506,,45873926
+Pakistan,2022-10-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,298941643,139497405,,45967368
+Pakistan,2022-10-24,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,299242724,139509455,,46226871
+Pakistan,2022-10-31,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,299807553,139532638,,46712251
+Pakistan,2022-11-01,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,299905652,139537074,,46794427
+Pakistan,2022-11-03,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300102845,139545478,,46960058
+Pakistan,2022-11-04,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300198277,139549436,,47041086
+Pakistan,2022-11-06,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300290727,139553382,,
+Pakistan,2022-11-07,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300395620,139558129,,47098951
+Pakistan,2022-11-09,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300497274,139562013,,47296307
+Pakistan,2022-11-10,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300602631,139566638,,47385386
+Pakistan,2022-11-12,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300798574,139573757,,47555819
+Pakistan,2022-11-14,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,300908543,139578380,,47649152
+Pakistan,2022-11-15,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301017439,139581997,,47744657
+Pakistan,2022-11-16,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301048100,,,47769757
+Pakistan,2022-11-17,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301078608,139584810,,47794419
+Pakistan,2022-11-20,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301116542,139587475,,47822096
+Pakistan,2022-11-21,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301236601,139599826,,47898137
+Pakistan,2022-11-22,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301330369,139603412,,47979171
+Pakistan,2022-11-27,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301702088,139616936,,48301936
+Pakistan,2022-11-28,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301792035,139621679,,48376837
+Pakistan,2022-11-29,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301870637,139625531,,48444092
+Pakistan,2022-11-30,"CanSino, Covaxin, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik V",https://covid.gov.pk/vaccine-details,301954054,139628133,,48517567
+Pakistan,2022-12-04,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,316652198,154656277,131361137,48517567
+Pakistan,2022-12-18,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,317080887,154665740,131368973,48935695
+Pakistan,2023-01-03,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,317696373,154665740,131368973,49551181
+Pakistan,2023-01-22,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,333085477,162206190,139217627,49551181
+Pakistan,2023-01-31,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,333510412,162218112,139227429,49962657
+Pakistan,2023-02-23,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,333662084,162218112,139227429,50114329
+Pakistan,2023-02-28,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,333759565,162219717,139227918,50209716
+Pakistan,2023-03-12,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,334507258,,139889819,50295508
+Pakistan,2023-03-19,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,334609866,,139889819,50398116
+Pakistan,2023-03-26,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,334682801,,139889819,50471051
+Pakistan,2023-03-28,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,,,140136610,50523363
+Pakistan,2023-04-02,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,334981904,162543923,140136610,50523363
+Pakistan,2023-04-18,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338465334,165530412,140408745,50748169
+Pakistan,2023-04-24,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338508314,165531948,140412070,50786288
+Pakistan,2023-05-03,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338612630,165537462,140423311,50873849
+Pakistan,2023-05-07,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338642674,165538888,140425683,50900095
+Pakistan,2023-05-14,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338710133,165541439,140430759,50959927
+Pakistan,2023-05-21,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338819393,165546707,140440424,51054254
+Pakistan,2023-05-29,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338879164,165548396,140444546,51108214
+Pakistan,2023-06-04,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,338958481,165551403,140451320,51177750
+Pakistan,2023-06-11,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339286324,165554838,140456876,51496602
+Pakistan,2023-06-18,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339722404,165559158,140461565,51923673
+Pakistan,2023-06-20,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339759802,165560136,140466099,51955559
+Pakistan,2023-07-04,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339835733,165563084,140470965,52023676
+Pakistan,2023-07-11,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339852634,165564537,140472499,52037590
+Pakistan,2023-07-23,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339886942,165566685,140474659,52067590
+Pakistan,2023-08-06,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339901728,165567890,140475871,52079959
+Pakistan,2023-08-15,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339932271,165567890,140475871,52110502
+Pakistan,2023-08-20,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339946677,165567890,140475871,52124908
+Pakistan,2023-08-27,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339967103,165567890,140475871,52145334
+Pakistan,2023-09-10,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,339998524,165567890,140475871,52176755
+Pakistan,2023-09-19,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,340016117,165567890,140475871,52194348
+Pakistan,2023-09-26,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,340055064,165567890,140475871,52233295
+Pakistan,2023-10-16,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,340102153,165567890,140475871,52280384
+Pakistan,2023-10-24,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,340902012,165567890,140475871,53080243
+Pakistan,2023-11-07,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://covid19.who.int/,340957000,165567890,140475871,53135231
+Pakistan,2023-11-14,"CanSino, Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sinovac, Sputnik Light, Sputnik V",https://data.who.int/dashboards/covid19/,340974144,165567890,140475871,53152375

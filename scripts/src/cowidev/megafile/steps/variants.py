@@ -2,12 +2,14 @@ import datetime
 
 import pandas as pd
 
+from cowidev.utils.s3 import obj_from_s3
+
 
 def get_variants(cases_file: str, variants_file: str) -> pd.DataFrame:
     """
-    Fetches the processed data from CoVariants.org and merges it with biweekly cases from JHU.
+    Fetches the processed data from CoVariants.org and merges it with biweekly cases from WHO/JHU.
     """
-    variants = pd.read_csv(variants_file, usecols=["location", "date", "num_sequences_total"]).drop_duplicates()
+    variants = read(variants_file, usecols=["location", "date", "num_sequences_total"]).drop_duplicates()
     cases = pd.read_csv(cases_file, usecols=["location", "date", "biweekly_cases"]).dropna()
 
     df = pd.merge(variants, cases, how="inner", on=["location", "date"], validate="one_to_one")
@@ -21,3 +23,9 @@ def get_variants(cases_file: str, variants_file: str) -> pd.DataFrame:
 
     df = df.drop(columns=["num_sequences_total", "biweekly_cases"])
     return df
+
+
+def read(path, **kwargs):
+    if path.startswith("s3://"):
+        return obj_from_s3(path, **kwargs)
+    return pd.read_csv(path, **kwargs)

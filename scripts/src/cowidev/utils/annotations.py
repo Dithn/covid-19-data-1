@@ -6,19 +6,21 @@ class AnnotatorInternal:
     """Adds annotations column.
 
     Uses attribute `config` to add annotations. Its format should be as:
-    ```
-    {
-        "vaccinations": [{
-            'annotation_text': 'Data for China added on Jun 10',
-            'location': ['World', 'Asia', 'Upper middle income'],
-            'date': '2020-06-10'
-        }],
-        "case-tests": [{
-            'annotation_text': 'something',
-            'location': ['World', 'Asia', 'Upper middle income'],
-            'date': '2020-06-11'
-        }],
-    }
+
+    .. code-block::
+
+        {
+            "vaccinations": [{
+                'annotation_text': 'Data for China added on Jun 10',
+                'location': ['World', 'Asia', 'Upper middle income'],
+                'date': '2020-06-10'
+            }],
+            "case-tests": [{
+                'annotation_text': 'something',
+                'location': ['World', 'Asia', 'Upper middle income'],
+                'date': '2020-06-11'
+            }],
+        }
     ```
 
     Keys in config should match those in `internal_files_columns`.

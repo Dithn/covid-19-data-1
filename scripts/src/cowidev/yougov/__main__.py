@@ -1,3 +1,10 @@
+"""
+THIS SCRIPT HAS BEEN DEPRECATED.
+
+
+Please refer to https://github.com/owid/covid-19-data/blob/master/public/data/DATA.md for more details.
+"""
+
 import os
 import json
 import datetime
@@ -7,7 +14,7 @@ from tqdm import tqdm
 import numpy as np
 import pandas as pd
 
-from cowidev.utils.utils import get_project_dir
+from cowidev import PATHS
 from cowidev.utils.clean.dates import DATE_FORMAT
 
 
@@ -29,7 +36,7 @@ FREQ = "M"
 ZERO_DAY = "2020-01-21"
 
 # File paths
-PROJECT_DIR = get_project_dir()
+PROJECT_DIR = PATHS.PROJECT_DIR
 
 INPUT_PATH = os.path.join(PROJECT_DIR, "scripts", "input", "yougov")
 OUTPUT_PATH = os.path.join(PROJECT_DIR, "scripts", "grapher")
@@ -141,7 +148,7 @@ class YouGov:
         df = df.pipe(_round).pipe(_rename_columns).pipe(_reorder_columns)
         return df, df_comp
 
-    def to_csv(self):
+    def export(self):
         df = self.read()
         df, df_comp = df.pipe(self.pipeline_csv)
 
@@ -172,6 +179,7 @@ def _subset_and_rename_columns(df):
     df2 = df[index_cols]
     for row in MAPPING[MAPPING.keep & ~MAPPING.derived].itertuples():
         df2.loc[:, row.code_name] = df[row.label]
+    df2 = df2.dropna(subset=["date"])
     return df2
 
 
@@ -460,7 +468,7 @@ def _reorder_columns(df):
 
 
 def main():
-    YouGov(output_path=OUTPUT_PATH, debug=DEBUG).to_csv()
+    YouGov(output_path=OUTPUT_PATH, debug=DEBUG).export()
 
 
 if __name__ == "__main__":

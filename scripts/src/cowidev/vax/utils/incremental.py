@@ -5,7 +5,8 @@ import numbers
 
 import pandas as pd
 import requests
-from cowidev.utils import paths
+from cowidev import PATHS
+from cowidev.vax.utils.utils import make_monotonic
 
 
 GH_LINK = "https://github.com/owid/covid-19-data/raw/master/public/data/vaccinations/country_data"
@@ -25,6 +26,7 @@ def increment(
     people_partly_vaccinated=None,
     people_fully_vaccinated=None,
     total_boosters=None,
+    make_series_monotonic=False,
 ):
     # Check fields
     _check_fields(
@@ -39,7 +41,7 @@ def increment(
         total_boosters=total_boosters,
     )
     _from_gh_to_scripts(location)
-    filepath_automated = paths.out_vax(location)
+    filepath_automated = PATHS.out_vax(location)
     # Update file in output/
     if os.path.isfile(filepath_automated):
         df = _increment(
@@ -75,16 +77,26 @@ def increment(
         "people_fully_vaccinated",
         "total_boosters",
     ]
-    for col in col_ints:
-        if col in df.columns:
-            df[col] = df[col].astype("Int64").fillna(pd.NA)
+    col_ints_have = [col for col in col_ints if col in df.columns]
+    for col in col_ints_have:
+        df[col] = df[col].astype("Int64").fillna(pd.NA)
 
-    df.to_csv(paths.out_vax(location), index=False)
+    df = df[["location", "date", "vaccine", "source_url"] + col_ints_have]
+
+    # Make series monotonic
+    if make_series_monotonic:
+        df = make_monotonic(df)
+
+    # drop duplicates and keep first
+    df = df.drop_duplicates(subset=col_ints_have, keep="first")
+
+    # Export
+    df.to_csv(PATHS.out_vax(location), index=False)
     # print(f"NEW: {total_vaccinations} doses on {date}")
 
 
 def _from_gh_to_scripts(location):
-    filepath_automated = paths.out_vax(location)
+    filepath_automated = PATHS.out_vax(location)
     filepath_public = f"{GH_LINK}/{location}.csv".replace(" ", "%20")
     # Move from public to output folder
     if not os.path.isfile(filepath_automated) and requests.get(filepath_public).ok:
@@ -160,31 +172,46 @@ def _increment(
     people_fully_vaccinated=None,
     total_boosters=None,
 ):
-    prev = pd.read_csv(filepath)
-    if total_vaccinations <= prev["total_vaccinations"].max() or date < prev["date"].max():
-        df = prev.copy()
-    elif date == prev["date"].max():
-        df = prev.copy()
-        df.loc[df["date"] == date, "total_vaccinations"] = total_vaccinations
-        df.loc[df["date"] == date, "people_vaccinated"] = people_vaccinated
-        if people_partly_vaccinated is not None:
-            df.loc[df["date"] == date, "people_partly_vaccinated"] = people_partly_vaccinated
-        df.loc[df["date"] == date, "people_fully_vaccinated"] = people_fully_vaccinated
-        df.loc[df["date"] == date, "total_boosters"] = total_boosters
-        df.loc[df["date"] == date, "source_url"] = source_url
-    else:
-        new = _build_df(
-            location,
-            total_vaccinations,
-            date,
-            vaccine,
-            source_url,
-            people_vaccinated,
-            people_partly_vaccinated,
-            people_fully_vaccinated,
-            total_boosters,
+    df_current = pd.read_csv(filepath).sort_values("date")
+    last_datapoint = df_current.iloc[-1]
+    # New date equals last reported date, remove last row in df_current
+    if date < last_datapoint["date"]:
+        print(
+            f"New date is older than last reported date. Please check. {date} < {last_datapoint['date']} for"
+            f" {location}"
         )
-        df = pd.concat([prev, new])
+        return df_current
+    elif date == last_datapoint["date"]:
+        df_current = df_current[df_current["date"] != date]
+        last_datapoint = df_current.iloc[-1]
+
+    if total_vaccinations <= last_datapoint["total_vaccinations"]:
+        total_vaccinations = pd.NA
+    if people_vaccinated and (people_vaccinated <= last_datapoint["people_vaccinated"]):
+        people_vaccinated = pd.NA
+    if people_fully_vaccinated and (people_fully_vaccinated <= last_datapoint["people_fully_vaccinated"]):
+        people_fully_vaccinated = pd.NA
+    if total_boosters and (total_boosters <= last_datapoint["total_boosters"]):
+        total_boosters = pd.NA
+
+    if people_partly_vaccinated is not None:
+        if people_partly_vaccinated <= last_datapoint["people_partly_vaccinated"]:
+            people_partly_vaccinated = pd.NA
+    new = _build_df(
+        location,
+        total_vaccinations,
+        date,
+        vaccine,
+        source_url,
+        people_vaccinated,
+        people_partly_vaccinated,
+        people_fully_vaccinated,
+        total_boosters,
+    )
+    df = pd.concat([df_current, new])
+    cols_metrics = [col for col in df.columns if col not in ["source_url", "date", "vaccine", "location"]]
+    df = df.dropna(how="all", subset=cols_metrics)
+    df = df.drop_duplicates(keep="last")
     return df.sort_values("date")
 
 

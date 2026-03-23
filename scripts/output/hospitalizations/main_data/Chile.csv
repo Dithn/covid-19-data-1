@@ -1,0 +1,3745 @@
+date,indicator,value,entity
+2020-04-01,Daily ICU occupancy,173.0,Chile
+2020-04-02,Daily ICU occupancy,200.0,Chile
+2020-04-03,Daily ICU occupancy,237.0,Chile
+2020-04-04,Daily ICU occupancy,280.0,Chile
+2020-04-05,Daily ICU occupancy,307.0,Chile
+2020-04-06,Daily ICU occupancy,327.0,Chile
+2020-04-07,Daily ICU occupancy,337.0,Chile
+2020-04-08,Daily ICU occupancy,362.0,Chile
+2020-04-09,Daily ICU occupancy,360.0,Chile
+2020-04-10,Daily ICU occupancy,383.0,Chile
+2020-04-11,Daily ICU occupancy,383.0,Chile
+2020-04-12,Daily ICU occupancy,387.0,Chile
+2020-04-13,Daily ICU occupancy,387.0,Chile
+2020-04-14,Daily ICU occupancy,379.0,Chile
+2020-04-15,Daily ICU occupancy,389.0,Chile
+2020-04-16,Daily ICU occupancy,384.0,Chile
+2020-04-17,Daily ICU occupancy,385.0,Chile
+2020-04-18,Daily ICU occupancy,360.0,Chile
+2020-04-19,Daily ICU occupancy,373.0,Chile
+2020-04-20,Daily ICU occupancy,377.0,Chile
+2020-04-21,Daily ICU occupancy,392.0,Chile
+2020-04-22,Daily ICU occupancy,399.0,Chile
+2020-04-23,Daily ICU occupancy,411.0,Chile
+2020-04-24,Daily ICU occupancy,415.0,Chile
+2020-04-25,Daily ICU occupancy,418.0,Chile
+2020-04-26,Daily ICU occupancy,415.0,Chile
+2020-04-27,Daily ICU occupancy,426.0,Chile
+2020-04-28,Daily ICU occupancy,428.0,Chile
+2020-04-29,Daily ICU occupancy,418.0,Chile
+2020-04-30,Daily ICU occupancy,419.0,Chile
+2020-05-01,Daily ICU occupancy,428.0,Chile
+2020-05-02,Daily ICU occupancy,425.0,Chile
+2020-05-03,Daily ICU occupancy,449.0,Chile
+2020-05-04,Daily ICU occupancy,464.0,Chile
+2020-05-05,Daily ICU occupancy,470.0,Chile
+2020-05-06,Daily ICU occupancy,486.0,Chile
+2020-05-07,Daily ICU occupancy,493.0,Chile
+2020-05-08,Daily ICU occupancy,508.0,Chile
+2020-05-09,Daily ICU occupancy,544.0,Chile
+2020-05-10,Daily ICU occupancy,565.0,Chile
+2020-05-11,Daily ICU occupancy,574.0,Chile
+2020-05-12,Daily ICU occupancy,604.0,Chile
+2020-05-13,Daily ICU occupancy,642.0,Chile
+2020-05-14,Daily ICU occupancy,663.0,Chile
+2020-05-15,Daily ICU occupancy,711.0,Chile
+2020-05-16,Daily ICU occupancy,751.0,Chile
+2020-05-17,Daily ICU occupancy,769.0,Chile
+2020-05-18,Daily ICU occupancy,807.0,Chile
+2020-05-19,Daily ICU occupancy,876.0,Chile
+2020-05-20,Daily ICU occupancy,904.0,Chile
+2020-05-21,Daily ICU occupancy,943.0,Chile
+2020-05-22,Daily ICU occupancy,986.0,Chile
+2020-05-23,Daily ICU occupancy,1062.0,Chile
+2020-05-24,Daily ICU occupancy,1090.0,Chile
+2020-05-25,Daily ICU occupancy,1135.0,Chile
+2020-05-26,Daily ICU occupancy,1202.0,Chile
+2020-05-27,Daily ICU occupancy,1251.0,Chile
+2020-05-28,Daily ICU occupancy,1289.0,Chile
+2020-05-29,Daily ICU occupancy,1350.0,Chile
+2020-05-30,Daily ICU occupancy,1371.0,Chile
+2020-05-31,Daily ICU occupancy,1383.0,Chile
+2020-06-01,Daily ICU occupancy,1446.0,Chile
+2020-06-02,Daily ICU occupancy,1451.0,Chile
+2020-06-03,Daily ICU occupancy,1475.0,Chile
+2020-06-04,Daily ICU occupancy,1496.0,Chile
+2020-06-05,Daily ICU occupancy,1521.0,Chile
+2020-06-06,Daily ICU occupancy,1524.0,Chile
+2020-06-07,Daily ICU occupancy,1558.0,Chile
+2020-06-08,Daily ICU occupancy,1581.0,Chile
+2020-06-09,Daily ICU occupancy,1577.0,Chile
+2020-06-10,Daily ICU occupancy,1590.0,Chile
+2020-06-11,Daily ICU occupancy,1618.0,Chile
+2020-06-12,Daily ICU occupancy,1647.0,Chile
+2020-06-13,Daily ICU occupancy,1656.0,Chile
+2020-06-14,Daily ICU occupancy,1715.0,Chile
+2020-06-15,Daily ICU occupancy,1723.0,Chile
+2020-06-16,Daily ICU occupancy,1727.0,Chile
+2020-06-17,Daily ICU occupancy,1794.0,Chile
+2020-06-18,Daily ICU occupancy,1845.0,Chile
+2020-06-19,Daily ICU occupancy,1911.0,Chile
+2020-06-20,Daily ICU occupancy,1951.0,Chile
+2020-06-21,Daily ICU occupancy,1996.0,Chile
+2020-06-22,Daily ICU occupancy,2014.0,Chile
+2020-06-23,Daily ICU occupancy,2009.0,Chile
+2020-06-24,Daily ICU occupancy,2046.0,Chile
+2020-06-25,Daily ICU occupancy,2078.0,Chile
+2020-06-26,Daily ICU occupancy,2086.0,Chile
+2020-06-27,Daily ICU occupancy,2090.0,Chile
+2020-06-28,Daily ICU occupancy,2129.0,Chile
+2020-06-29,Daily ICU occupancy,2090.0,Chile
+2020-06-30,Daily ICU occupancy,2106.0,Chile
+2020-07-01,Daily ICU occupancy,2075.0,Chile
+2020-07-02,Daily ICU occupancy,2099.0,Chile
+2020-07-03,Daily ICU occupancy,2107.0,Chile
+2020-07-04,Daily ICU occupancy,2077.0,Chile
+2020-07-05,Daily ICU occupancy,2078.0,Chile
+2020-07-06,Daily ICU occupancy,2069.0,Chile
+2020-07-07,Daily ICU occupancy,2060.0,Chile
+2020-07-08,Daily ICU occupancy,2053.0,Chile
+2020-07-09,Daily ICU occupancy,1999.0,Chile
+2020-07-10,Daily ICU occupancy,1990.0,Chile
+2020-07-11,Daily ICU occupancy,1999.0,Chile
+2020-07-12,Daily ICU occupancy,1995.0,Chile
+2020-07-13,Daily ICU occupancy,1931.0,Chile
+2020-07-14,Daily ICU occupancy,1915.0,Chile
+2020-07-15,Daily ICU occupancy,1878.0,Chile
+2020-07-16,Daily ICU occupancy,1821.0,Chile
+2020-07-17,Daily ICU occupancy,1796.0,Chile
+2020-07-18,Daily ICU occupancy,1792.0,Chile
+2020-07-19,Daily ICU occupancy,1764.0,Chile
+2020-07-20,Daily ICU occupancy,1753.0,Chile
+2020-07-21,Daily ICU occupancy,1728.0,Chile
+2020-07-22,Daily ICU occupancy,1688.0,Chile
+2020-07-23,Daily ICU occupancy,1670.0,Chile
+2020-07-24,Daily ICU occupancy,1636.0,Chile
+2020-07-25,Daily ICU occupancy,1612.0,Chile
+2020-07-26,Daily ICU occupancy,1592.0,Chile
+2020-07-27,Daily ICU occupancy,1555.0,Chile
+2020-07-28,Daily ICU occupancy,1529.0,Chile
+2020-07-29,Daily ICU occupancy,1485.0,Chile
+2020-07-30,Daily ICU occupancy,1463.0,Chile
+2020-07-31,Daily ICU occupancy,1445.0,Chile
+2020-08-01,Daily ICU occupancy,1445.0,Chile
+2020-08-02,Daily ICU occupancy,1437.0,Chile
+2020-08-03,Daily ICU occupancy,1419.0,Chile
+2020-08-04,Daily ICU occupancy,1405.0,Chile
+2020-08-05,Daily ICU occupancy,1400.0,Chile
+2020-08-06,Daily ICU occupancy,1358.0,Chile
+2020-08-07,Daily ICU occupancy,1348.0,Chile
+2020-08-08,Daily ICU occupancy,1305.0,Chile
+2020-08-09,Daily ICU occupancy,1276.0,Chile
+2020-08-10,Daily ICU occupancy,1280.0,Chile
+2020-08-11,Daily ICU occupancy,1268.0,Chile
+2020-08-12,Daily ICU occupancy,1255.0,Chile
+2020-08-13,Daily ICU occupancy,1259.0,Chile
+2020-08-14,Daily ICU occupancy,1252.0,Chile
+2020-08-15,Daily ICU occupancy,1207.0,Chile
+2020-08-16,Daily ICU occupancy,1190.0,Chile
+2020-08-17,Daily ICU occupancy,1177.0,Chile
+2020-08-18,Daily ICU occupancy,1157.0,Chile
+2020-08-19,Daily ICU occupancy,1120.0,Chile
+2020-08-20,Daily ICU occupancy,1077.0,Chile
+2020-08-21,Daily ICU occupancy,1072.0,Chile
+2020-08-22,Daily ICU occupancy,1058.0,Chile
+2020-08-23,Daily ICU occupancy,1027.0,Chile
+2020-08-24,Daily ICU occupancy,1014.0,Chile
+2020-08-25,Daily ICU occupancy,1011.0,Chile
+2020-08-26,Daily ICU occupancy,1004.0,Chile
+2020-08-27,Daily ICU occupancy,1012.0,Chile
+2020-08-28,Daily ICU occupancy,995.0,Chile
+2020-08-29,Daily ICU occupancy,959.0,Chile
+2020-08-30,Daily ICU occupancy,960.0,Chile
+2020-08-31,Daily ICU occupancy,969.0,Chile
+2020-09-01,Daily ICU occupancy,962.0,Chile
+2020-09-02,Daily ICU occupancy,947.0,Chile
+2020-09-03,Daily ICU occupancy,940.0,Chile
+2020-09-04,Daily ICU occupancy,932.0,Chile
+2020-09-05,Daily ICU occupancy,908.0,Chile
+2020-09-06,Daily ICU occupancy,909.0,Chile
+2020-09-07,Daily ICU occupancy,930.0,Chile
+2020-09-08,Daily ICU occupancy,930.0,Chile
+2020-09-09,Daily ICU occupancy,942.0,Chile
+2020-09-10,Daily ICU occupancy,951.0,Chile
+2020-09-11,Daily ICU occupancy,918.0,Chile
+2020-09-12,Daily ICU occupancy,908.0,Chile
+2020-09-13,Daily ICU occupancy,906.0,Chile
+2020-09-14,Daily ICU occupancy,906.0,Chile
+2020-09-15,Daily ICU occupancy,905.0,Chile
+2020-09-16,Daily ICU occupancy,898.0,Chile
+2020-09-17,Daily ICU occupancy,895.0,Chile
+2020-09-18,Daily ICU occupancy,902.0,Chile
+2020-09-19,Daily ICU occupancy,894.0,Chile
+2020-09-20,Daily ICU occupancy,901.0,Chile
+2020-09-21,Daily ICU occupancy,915.0,Chile
+2020-09-22,Daily ICU occupancy,918.0,Chile
+2020-09-23,Daily ICU occupancy,907.0,Chile
+2020-09-24,Daily ICU occupancy,890.0,Chile
+2020-09-25,Daily ICU occupancy,891.0,Chile
+2020-09-26,Daily ICU occupancy,895.0,Chile
+2020-09-27,Daily ICU occupancy,888.0,Chile
+2020-09-28,Daily ICU occupancy,884.0,Chile
+2020-09-29,Daily ICU occupancy,865.0,Chile
+2020-09-30,Daily ICU occupancy,849.0,Chile
+2020-10-01,Daily ICU occupancy,849.0,Chile
+2020-10-02,Daily ICU occupancy,868.0,Chile
+2020-10-03,Daily ICU occupancy,849.0,Chile
+2020-10-04,Daily ICU occupancy,856.0,Chile
+2020-10-05,Daily ICU occupancy,853.0,Chile
+2020-10-06,Daily ICU occupancy,847.0,Chile
+2020-10-07,Daily ICU occupancy,818.0,Chile
+2020-10-08,Daily ICU occupancy,812.0,Chile
+2020-10-09,Daily ICU occupancy,821.0,Chile
+2020-10-10,Daily ICU occupancy,817.0,Chile
+2020-10-11,Daily ICU occupancy,791.0,Chile
+2020-10-12,Daily ICU occupancy,785.0,Chile
+2020-10-13,Daily ICU occupancy,778.0,Chile
+2020-10-14,Daily ICU occupancy,785.0,Chile
+2020-10-15,Daily ICU occupancy,786.0,Chile
+2020-10-16,Daily ICU occupancy,794.0,Chile
+2020-10-17,Daily ICU occupancy,791.0,Chile
+2020-10-18,Daily ICU occupancy,776.0,Chile
+2020-10-19,Daily ICU occupancy,769.0,Chile
+2020-10-20,Daily ICU occupancy,770.0,Chile
+2020-10-21,Daily ICU occupancy,767.0,Chile
+2020-10-22,Daily ICU occupancy,759.0,Chile
+2020-10-23,Daily ICU occupancy,759.0,Chile
+2020-10-24,Daily ICU occupancy,729.0,Chile
+2020-10-25,Daily ICU occupancy,723.0,Chile
+2020-10-26,Daily ICU occupancy,730.0,Chile
+2020-10-27,Daily ICU occupancy,740.0,Chile
+2020-10-28,Daily ICU occupancy,745.0,Chile
+2020-10-29,Daily ICU occupancy,748.0,Chile
+2020-10-30,Daily ICU occupancy,764.0,Chile
+2020-10-31,Daily ICU occupancy,756.0,Chile
+2020-11-01,Daily ICU occupancy,743.0,Chile
+2020-11-02,Daily ICU occupancy,723.0,Chile
+2020-11-03,Daily ICU occupancy,727.0,Chile
+2020-11-04,Daily ICU occupancy,733.0,Chile
+2020-11-05,Daily ICU occupancy,725.0,Chile
+2020-11-06,Daily ICU occupancy,733.0,Chile
+2020-11-07,Daily ICU occupancy,734.0,Chile
+2020-11-08,Daily ICU occupancy,735.0,Chile
+2020-11-09,Daily ICU occupancy,729.0,Chile
+2020-11-10,Daily ICU occupancy,720.0,Chile
+2020-11-11,Daily ICU occupancy,721.0,Chile
+2020-11-12,Daily ICU occupancy,726.0,Chile
+2020-11-13,Daily ICU occupancy,733.0,Chile
+2020-11-14,Daily ICU occupancy,731.0,Chile
+2020-11-15,Daily ICU occupancy,721.0,Chile
+2020-11-16,Daily ICU occupancy,724.0,Chile
+2020-11-17,Daily ICU occupancy,730.0,Chile
+2020-11-18,Daily ICU occupancy,726.0,Chile
+2020-11-19,Daily ICU occupancy,715.0,Chile
+2020-11-20,Daily ICU occupancy,717.0,Chile
+2020-11-21,Daily ICU occupancy,712.0,Chile
+2020-11-22,Daily ICU occupancy,698.0,Chile
+2020-11-23,Daily ICU occupancy,704.0,Chile
+2020-11-24,Daily ICU occupancy,695.0,Chile
+2020-11-25,Daily ICU occupancy,700.0,Chile
+2020-11-26,Daily ICU occupancy,694.0,Chile
+2020-11-27,Daily ICU occupancy,693.0,Chile
+2020-11-28,Daily ICU occupancy,703.0,Chile
+2020-11-29,Daily ICU occupancy,693.0,Chile
+2020-11-30,Daily ICU occupancy,690.0,Chile
+2020-12-01,Daily ICU occupancy,695.0,Chile
+2020-12-02,Daily ICU occupancy,694.0,Chile
+2020-12-03,Daily ICU occupancy,687.0,Chile
+2020-12-04,Daily ICU occupancy,683.0,Chile
+2020-12-05,Daily ICU occupancy,664.0,Chile
+2020-12-06,Daily ICU occupancy,658.0,Chile
+2020-12-07,Daily ICU occupancy,657.0,Chile
+2020-12-08,Daily ICU occupancy,655.0,Chile
+2020-12-09,Daily ICU occupancy,667.0,Chile
+2020-12-10,Daily ICU occupancy,671.0,Chile
+2020-12-11,Daily ICU occupancy,663.0,Chile
+2020-12-12,Daily ICU occupancy,651.0,Chile
+2020-12-13,Daily ICU occupancy,637.0,Chile
+2020-12-14,Daily ICU occupancy,628.0,Chile
+2020-12-15,Daily ICU occupancy,630.0,Chile
+2020-12-16,Daily ICU occupancy,638.0,Chile
+2020-12-17,Daily ICU occupancy,627.0,Chile
+2020-12-18,Daily ICU occupancy,668.0,Chile
+2020-12-19,Daily ICU occupancy,672.0,Chile
+2020-12-20,Daily ICU occupancy,663.0,Chile
+2020-12-21,Daily ICU occupancy,673.0,Chile
+2020-12-22,Daily ICU occupancy,683.0,Chile
+2020-12-23,Daily ICU occupancy,694.0,Chile
+2020-12-24,Daily ICU occupancy,699.0,Chile
+2020-12-25,Daily ICU occupancy,678.0,Chile
+2020-12-26,Daily ICU occupancy,700.0,Chile
+2020-12-27,Daily ICU occupancy,716.0,Chile
+2020-12-28,Daily ICU occupancy,734.0,Chile
+2020-12-29,Daily ICU occupancy,745.0,Chile
+2020-12-30,Daily ICU occupancy,752.0,Chile
+2020-12-31,Daily ICU occupancy,766.0,Chile
+2021-01-01,Daily ICU occupancy,794.0,Chile
+2021-01-02,Daily ICU occupancy,791.0,Chile
+2021-01-03,Daily ICU occupancy,781.0,Chile
+2021-01-04,Daily ICU occupancy,787.0,Chile
+2021-01-05,Daily ICU occupancy,801.0,Chile
+2021-01-06,Daily ICU occupancy,820.0,Chile
+2021-01-07,Daily ICU occupancy,862.0,Chile
+2021-01-08,Daily ICU occupancy,873.0,Chile
+2021-01-09,Daily ICU occupancy,911.0,Chile
+2021-01-10,Daily ICU occupancy,946.0,Chile
+2021-01-11,Daily ICU occupancy,939.0,Chile
+2021-01-12,Daily ICU occupancy,951.0,Chile
+2021-01-13,Daily ICU occupancy,981.0,Chile
+2021-01-14,Daily ICU occupancy,1000.0,Chile
+2021-01-15,Daily ICU occupancy,1025.0,Chile
+2021-01-16,Daily ICU occupancy,1044.0,Chile
+2021-01-17,Daily ICU occupancy,1049.0,Chile
+2021-01-18,Daily ICU occupancy,1073.0,Chile
+2021-01-19,Daily ICU occupancy,1081.0,Chile
+2021-01-20,Daily ICU occupancy,1150.0,Chile
+2021-01-21,Daily ICU occupancy,1193.0,Chile
+2021-01-22,Daily ICU occupancy,1221.0,Chile
+2021-01-23,Daily ICU occupancy,1266.0,Chile
+2021-01-24,Daily ICU occupancy,1263.0,Chile
+2021-01-25,Daily ICU occupancy,1272.0,Chile
+2021-01-26,Daily ICU occupancy,1287.0,Chile
+2021-01-27,Daily ICU occupancy,1328.0,Chile
+2021-01-28,Daily ICU occupancy,1339.0,Chile
+2021-01-29,Daily ICU occupancy,1394.0,Chile
+2021-01-30,Daily ICU occupancy,1410.0,Chile
+2021-01-31,Daily ICU occupancy,1453.0,Chile
+2021-02-01,Daily ICU occupancy,1456.0,Chile
+2021-02-02,Daily ICU occupancy,1458.0,Chile
+2021-02-03,Daily ICU occupancy,1484.0,Chile
+2021-02-04,Daily ICU occupancy,1510.0,Chile
+2021-02-05,Daily ICU occupancy,1487.0,Chile
+2021-02-06,Daily ICU occupancy,1503.0,Chile
+2021-02-07,Daily ICU occupancy,1509.0,Chile
+2021-02-08,Daily ICU occupancy,1506.0,Chile
+2021-02-09,Daily ICU occupancy,1525.0,Chile
+2021-02-10,Daily ICU occupancy,1521.0,Chile
+2021-02-11,Daily ICU occupancy,1538.0,Chile
+2021-02-12,Daily ICU occupancy,1544.0,Chile
+2021-02-13,Daily ICU occupancy,1530.0,Chile
+2021-02-14,Daily ICU occupancy,1552.0,Chile
+2021-02-15,Daily ICU occupancy,1558.0,Chile
+2021-02-16,Daily ICU occupancy,1573.0,Chile
+2021-02-17,Daily ICU occupancy,1579.0,Chile
+2021-02-18,Daily ICU occupancy,1569.0,Chile
+2021-02-19,Daily ICU occupancy,1556.0,Chile
+2021-02-20,Daily ICU occupancy,1574.0,Chile
+2021-02-21,Daily ICU occupancy,1574.0,Chile
+2021-02-22,Daily ICU occupancy,1584.0,Chile
+2021-02-23,Daily ICU occupancy,1640.0,Chile
+2021-02-24,Daily ICU occupancy,1629.0,Chile
+2021-02-25,Daily ICU occupancy,1635.0,Chile
+2021-02-26,Daily ICU occupancy,1658.0,Chile
+2021-02-27,Daily ICU occupancy,1659.0,Chile
+2021-02-28,Daily ICU occupancy,1654.0,Chile
+2021-03-01,Daily ICU occupancy,1675.0,Chile
+2021-03-02,Daily ICU occupancy,1683.0,Chile
+2021-03-03,Daily ICU occupancy,1711.0,Chile
+2021-03-04,Daily ICU occupancy,1721.0,Chile
+2021-03-05,Daily ICU occupancy,1755.0,Chile
+2021-03-06,Daily ICU occupancy,1754.0,Chile
+2021-03-07,Daily ICU occupancy,1777.0,Chile
+2021-03-08,Daily ICU occupancy,1821.0,Chile
+2021-03-09,Daily ICU occupancy,1839.0,Chile
+2021-03-10,Daily ICU occupancy,1881.0,Chile
+2021-03-11,Daily ICU occupancy,1910.0,Chile
+2021-03-12,Daily ICU occupancy,1926.0,Chile
+2021-03-13,Daily ICU occupancy,1960.0,Chile
+2021-03-14,Daily ICU occupancy,2015.0,Chile
+2021-03-15,Daily ICU occupancy,2053.0,Chile
+2021-03-16,Daily ICU occupancy,2099.0,Chile
+2021-03-17,Daily ICU occupancy,2133.0,Chile
+2021-03-18,Daily ICU occupancy,2152.0,Chile
+2021-03-19,Daily ICU occupancy,2193.0,Chile
+2021-03-20,Daily ICU occupancy,2227.0,Chile
+2021-03-21,Daily ICU occupancy,2229.0,Chile
+2021-03-22,Daily ICU occupancy,2269.0,Chile
+2021-03-23,Daily ICU occupancy,2311.0,Chile
+2021-03-24,Daily ICU occupancy,2348.0,Chile
+2021-03-25,Daily ICU occupancy,2416.0,Chile
+2021-03-26,Daily ICU occupancy,2466.0,Chile
+2021-03-27,Daily ICU occupancy,2514.0,Chile
+2021-03-28,Daily ICU occupancy,2539.0,Chile
+2021-03-29,Daily ICU occupancy,2590.0,Chile
+2021-03-30,Daily ICU occupancy,2649.0,Chile
+2021-03-31,Daily ICU occupancy,2683.0,Chile
+2021-04-01,Daily ICU occupancy,2729.0,Chile
+2021-04-02,Daily ICU occupancy,2804.0,Chile
+2021-04-03,Daily ICU occupancy,2867.0,Chile
+2021-04-04,Daily ICU occupancy,2884.0,Chile
+2021-04-05,Daily ICU occupancy,2883.0,Chile
+2021-04-06,Daily ICU occupancy,2946.0,Chile
+2021-04-07,Daily ICU occupancy,3029.0,Chile
+2021-04-08,Daily ICU occupancy,3044.0,Chile
+2021-04-09,Daily ICU occupancy,3075.0,Chile
+2021-04-10,Daily ICU occupancy,3139.0,Chile
+2021-04-11,Daily ICU occupancy,3155.0,Chile
+2021-04-12,Daily ICU occupancy,3203.0,Chile
+2021-04-13,Daily ICU occupancy,3213.0,Chile
+2021-04-14,Daily ICU occupancy,3271.0,Chile
+2021-04-15,Daily ICU occupancy,3257.0,Chile
+2021-04-16,Daily ICU occupancy,3277.0,Chile
+2021-04-17,Daily ICU occupancy,3308.0,Chile
+2021-04-18,Daily ICU occupancy,3344.0,Chile
+2021-04-19,Daily ICU occupancy,3364.0,Chile
+2021-04-20,Daily ICU occupancy,3372.0,Chile
+2021-04-21,Daily ICU occupancy,3401.0,Chile
+2021-04-22,Daily ICU occupancy,3375.0,Chile
+2021-04-23,Daily ICU occupancy,3391.0,Chile
+2021-04-24,Daily ICU occupancy,3374.0,Chile
+2021-04-25,Daily ICU occupancy,3353.0,Chile
+2021-04-26,Daily ICU occupancy,3363.0,Chile
+2021-04-27,Daily ICU occupancy,3406.0,Chile
+2021-04-28,Daily ICU occupancy,3376.0,Chile
+2021-04-29,Daily ICU occupancy,3396.0,Chile
+2021-04-30,Daily ICU occupancy,3345.0,Chile
+2021-05-01,Daily ICU occupancy,3336.0,Chile
+2021-05-02,Daily ICU occupancy,3318.0,Chile
+2021-05-03,Daily ICU occupancy,3303.0,Chile
+2021-05-04,Daily ICU occupancy,3303.0,Chile
+2021-05-05,Daily ICU occupancy,3260.0,Chile
+2021-05-06,Daily ICU occupancy,3188.0,Chile
+2021-05-07,Daily ICU occupancy,3176.0,Chile
+2021-05-08,Daily ICU occupancy,3138.0,Chile
+2021-05-09,Daily ICU occupancy,3147.0,Chile
+2021-05-10,Daily ICU occupancy,3137.0,Chile
+2021-05-11,Daily ICU occupancy,3102.0,Chile
+2021-05-12,Daily ICU occupancy,3036.0,Chile
+2021-05-13,Daily ICU occupancy,2976.0,Chile
+2021-05-14,Daily ICU occupancy,2976.0,Chile
+2021-05-15,Daily ICU occupancy,2953.0,Chile
+2021-05-16,Daily ICU occupancy,2954.0,Chile
+2021-05-17,Daily ICU occupancy,2969.0,Chile
+2021-05-18,Daily ICU occupancy,2979.0,Chile
+2021-05-19,Daily ICU occupancy,2972.0,Chile
+2021-05-20,Daily ICU occupancy,2935.0,Chile
+2021-05-21,Daily ICU occupancy,2991.0,Chile
+2021-05-22,Daily ICU occupancy,2974.0,Chile
+2021-05-23,Daily ICU occupancy,2980.0,Chile
+2021-05-24,Daily ICU occupancy,3037.0,Chile
+2021-05-25,Daily ICU occupancy,3026.0,Chile
+2021-05-26,Daily ICU occupancy,3023.0,Chile
+2021-05-27,Daily ICU occupancy,3014.0,Chile
+2021-05-28,Daily ICU occupancy,3067.0,Chile
+2021-05-29,Daily ICU occupancy,3092.0,Chile
+2021-05-30,Daily ICU occupancy,3127.0,Chile
+2021-05-31,Daily ICU occupancy,3142.0,Chile
+2021-06-01,Daily ICU occupancy,3193.0,Chile
+2021-06-02,Daily ICU occupancy,3170.0,Chile
+2021-06-03,Daily ICU occupancy,3219.0,Chile
+2021-06-04,Daily ICU occupancy,3216.0,Chile
+2021-06-05,Daily ICU occupancy,3213.0,Chile
+2021-06-06,Daily ICU occupancy,3242.0,Chile
+2021-06-07,Daily ICU occupancy,3247.0,Chile
+2021-06-08,Daily ICU occupancy,3265.0,Chile
+2021-06-09,Daily ICU occupancy,3279.0,Chile
+2021-06-10,Daily ICU occupancy,3266.0,Chile
+2021-06-11,Daily ICU occupancy,3312.0,Chile
+2021-06-12,Daily ICU occupancy,3287.0,Chile
+2021-06-13,Daily ICU occupancy,3292.0,Chile
+2021-06-14,Daily ICU occupancy,3290.0,Chile
+2021-06-15,Daily ICU occupancy,3275.0,Chile
+2021-06-16,Daily ICU occupancy,3301.0,Chile
+2021-06-17,Daily ICU occupancy,3302.0,Chile
+2021-06-18,Daily ICU occupancy,3286.0,Chile
+2021-06-19,Daily ICU occupancy,3275.0,Chile
+2021-06-20,Daily ICU occupancy,3230.0,Chile
+2021-06-21,Daily ICU occupancy,3236.0,Chile
+2021-06-22,Daily ICU occupancy,3232.0,Chile
+2021-06-23,Daily ICU occupancy,3229.0,Chile
+2021-06-24,Daily ICU occupancy,3155.0,Chile
+2021-06-25,Daily ICU occupancy,3105.0,Chile
+2021-06-26,Daily ICU occupancy,3091.0,Chile
+2021-06-27,Daily ICU occupancy,3061.0,Chile
+2021-06-28,Daily ICU occupancy,3050.0,Chile
+2021-06-29,Daily ICU occupancy,3017.0,Chile
+2021-06-30,Daily ICU occupancy,2994.0,Chile
+2021-07-01,Daily ICU occupancy,2943.0,Chile
+2021-07-02,Daily ICU occupancy,2902.0,Chile
+2021-07-03,Daily ICU occupancy,2885.0,Chile
+2021-07-04,Daily ICU occupancy,2823.0,Chile
+2021-07-05,Daily ICU occupancy,2782.0,Chile
+2021-07-06,Daily ICU occupancy,2728.0,Chile
+2021-07-07,Daily ICU occupancy,2672.0,Chile
+2021-07-08,Daily ICU occupancy,2618.0,Chile
+2021-07-09,Daily ICU occupancy,2525.0,Chile
+2021-07-10,Daily ICU occupancy,2447.0,Chile
+2021-07-11,Daily ICU occupancy,2384.0,Chile
+2021-07-12,Daily ICU occupancy,2347.0,Chile
+2021-07-13,Daily ICU occupancy,2332.0,Chile
+2021-07-14,Daily ICU occupancy,2241.0,Chile
+2021-07-15,Daily ICU occupancy,2184.0,Chile
+2021-07-16,Daily ICU occupancy,2127.0,Chile
+2021-07-17,Daily ICU occupancy,2072.0,Chile
+2021-07-18,Daily ICU occupancy,2025.0,Chile
+2021-07-19,Daily ICU occupancy,1991.0,Chile
+2021-07-20,Daily ICU occupancy,1970.0,Chile
+2021-07-21,Daily ICU occupancy,1878.0,Chile
+2021-07-22,Daily ICU occupancy,1845.0,Chile
+2021-07-23,Daily ICU occupancy,1813.0,Chile
+2021-07-24,Daily ICU occupancy,1776.0,Chile
+2021-07-25,Daily ICU occupancy,1711.0,Chile
+2021-07-26,Daily ICU occupancy,1669.0,Chile
+2021-07-27,Daily ICU occupancy,1648.0,Chile
+2021-07-28,Daily ICU occupancy,1571.0,Chile
+2021-07-29,Daily ICU occupancy,1516.0,Chile
+2021-07-30,Daily ICU occupancy,1452.0,Chile
+2021-07-31,Daily ICU occupancy,1395.0,Chile
+2021-08-01,Daily ICU occupancy,1370.0,Chile
+2021-08-02,Daily ICU occupancy,1369.0,Chile
+2021-08-03,Daily ICU occupancy,1343.0,Chile
+2021-08-04,Daily ICU occupancy,1278.0,Chile
+2021-08-05,Daily ICU occupancy,1241.0,Chile
+2021-08-06,Daily ICU occupancy,1223.0,Chile
+2021-08-07,Daily ICU occupancy,1179.0,Chile
+2021-08-08,Daily ICU occupancy,1125.0,Chile
+2021-08-09,Daily ICU occupancy,1105.0,Chile
+2021-08-10,Daily ICU occupancy,1075.0,Chile
+2021-08-11,Daily ICU occupancy,1070.0,Chile
+2021-08-12,Daily ICU occupancy,1059.0,Chile
+2021-08-13,Daily ICU occupancy,1023.0,Chile
+2021-08-14,Daily ICU occupancy,1024.0,Chile
+2021-08-15,Daily ICU occupancy,996.0,Chile
+2021-08-16,Daily ICU occupancy,966.0,Chile
+2021-08-17,Daily ICU occupancy,977.0,Chile
+2021-08-18,Daily ICU occupancy,961.0,Chile
+2021-08-19,Daily ICU occupancy,938.0,Chile
+2021-08-20,Daily ICU occupancy,898.0,Chile
+2021-08-21,Daily ICU occupancy,866.0,Chile
+2021-08-22,Daily ICU occupancy,842.0,Chile
+2021-08-23,Daily ICU occupancy,831.0,Chile
+2021-08-24,Daily ICU occupancy,816.0,Chile
+2021-08-25,Daily ICU occupancy,796.0,Chile
+2021-08-26,Daily ICU occupancy,765.0,Chile
+2021-08-27,Daily ICU occupancy,737.0,Chile
+2021-08-28,Daily ICU occupancy,724.0,Chile
+2021-08-29,Daily ICU occupancy,705.0,Chile
+2021-08-30,Daily ICU occupancy,689.0,Chile
+2021-08-31,Daily ICU occupancy,687.0,Chile
+2021-09-01,Daily ICU occupancy,657.0,Chile
+2021-09-02,Daily ICU occupancy,635.0,Chile
+2021-09-03,Daily ICU occupancy,616.0,Chile
+2021-09-04,Daily ICU occupancy,597.0,Chile
+2021-09-05,Daily ICU occupancy,577.0,Chile
+2021-09-06,Daily ICU occupancy,575.0,Chile
+2021-09-07,Daily ICU occupancy,576.0,Chile
+2021-09-08,Daily ICU occupancy,560.0,Chile
+2021-09-09,Daily ICU occupancy,553.0,Chile
+2021-09-10,Daily ICU occupancy,529.0,Chile
+2021-09-11,Daily ICU occupancy,513.0,Chile
+2021-09-12,Daily ICU occupancy,490.0,Chile
+2021-09-13,Daily ICU occupancy,482.0,Chile
+2021-09-14,Daily ICU occupancy,481.0,Chile
+2021-09-15,Daily ICU occupancy,476.0,Chile
+2021-09-16,Daily ICU occupancy,463.0,Chile
+2021-09-17,Daily ICU occupancy,460.0,Chile
+2021-09-18,Daily ICU occupancy,445.0,Chile
+2021-09-19,Daily ICU occupancy,438.0,Chile
+2021-09-20,Daily ICU occupancy,434.0,Chile
+2021-09-21,Daily ICU occupancy,435.0,Chile
+2021-09-22,Daily ICU occupancy,429.0,Chile
+2021-09-23,Daily ICU occupancy,413.0,Chile
+2021-09-24,Daily ICU occupancy,407.0,Chile
+2021-09-25,Daily ICU occupancy,394.0,Chile
+2021-09-26,Daily ICU occupancy,391.0,Chile
+2021-09-27,Daily ICU occupancy,380.0,Chile
+2021-09-28,Daily ICU occupancy,389.0,Chile
+2021-09-29,Daily ICU occupancy,386.0,Chile
+2021-09-30,Daily ICU occupancy,378.0,Chile
+2021-10-01,Daily ICU occupancy,361.0,Chile
+2021-10-02,Daily ICU occupancy,364.0,Chile
+2021-10-03,Daily ICU occupancy,370.0,Chile
+2021-10-04,Daily ICU occupancy,377.0,Chile
+2021-10-05,Daily ICU occupancy,379.0,Chile
+2021-10-06,Daily ICU occupancy,374.0,Chile
+2021-10-07,Daily ICU occupancy,377.0,Chile
+2021-10-08,Daily ICU occupancy,377.0,Chile
+2021-10-09,Daily ICU occupancy,367.0,Chile
+2021-10-10,Daily ICU occupancy,348.0,Chile
+2021-10-11,Daily ICU occupancy,358.0,Chile
+2021-10-12,Daily ICU occupancy,362.0,Chile
+2021-10-13,Daily ICU occupancy,369.0,Chile
+2021-10-14,Daily ICU occupancy,380.0,Chile
+2021-10-15,Daily ICU occupancy,381.0,Chile
+2021-10-16,Daily ICU occupancy,380.0,Chile
+2021-10-17,Daily ICU occupancy,382.0,Chile
+2021-10-18,Daily ICU occupancy,379.0,Chile
+2021-10-19,Daily ICU occupancy,383.0,Chile
+2021-10-20,Daily ICU occupancy,398.0,Chile
+2021-10-21,Daily ICU occupancy,417.0,Chile
+2021-10-22,Daily ICU occupancy,434.0,Chile
+2021-10-23,Daily ICU occupancy,439.0,Chile
+2021-10-24,Daily ICU occupancy,435.0,Chile
+2021-10-25,Daily ICU occupancy,443.0,Chile
+2021-10-26,Daily ICU occupancy,449.0,Chile
+2021-10-27,Daily ICU occupancy,458.0,Chile
+2021-10-28,Daily ICU occupancy,437.0,Chile
+2021-10-29,Daily ICU occupancy,450.0,Chile
+2021-10-30,Daily ICU occupancy,457.0,Chile
+2021-10-31,Daily ICU occupancy,463.0,Chile
+2021-11-01,Daily ICU occupancy,465.0,Chile
+2021-11-02,Daily ICU occupancy,479.0,Chile
+2021-11-03,Daily ICU occupancy,494.0,Chile
+2021-11-04,Daily ICU occupancy,492.0,Chile
+2021-11-05,Daily ICU occupancy,500.0,Chile
+2021-11-06,Daily ICU occupancy,517.0,Chile
+2021-11-07,Daily ICU occupancy,529.0,Chile
+2021-11-08,Daily ICU occupancy,534.0,Chile
+2021-11-09,Daily ICU occupancy,543.0,Chile
+2021-11-10,Daily ICU occupancy,573.0,Chile
+2021-11-11,Daily ICU occupancy,567.0,Chile
+2021-11-12,Daily ICU occupancy,582.0,Chile
+2021-11-13,Daily ICU occupancy,591.0,Chile
+2021-11-14,Daily ICU occupancy,592.0,Chile
+2021-11-15,Daily ICU occupancy,592.0,Chile
+2021-11-16,Daily ICU occupancy,599.0,Chile
+2021-11-17,Daily ICU occupancy,603.0,Chile
+2021-11-18,Daily ICU occupancy,624.0,Chile
+2021-11-19,Daily ICU occupancy,635.0,Chile
+2021-11-20,Daily ICU occupancy,647.0,Chile
+2021-11-21,Daily ICU occupancy,657.0,Chile
+2021-11-22,Daily ICU occupancy,653.0,Chile
+2021-11-23,Daily ICU occupancy,654.0,Chile
+2021-11-24,Daily ICU occupancy,654.0,Chile
+2021-11-25,Daily ICU occupancy,669.0,Chile
+2021-11-26,Daily ICU occupancy,671.0,Chile
+2021-11-27,Daily ICU occupancy,674.0,Chile
+2021-11-28,Daily ICU occupancy,676.0,Chile
+2021-11-29,Daily ICU occupancy,680.0,Chile
+2021-11-30,Daily ICU occupancy,696.0,Chile
+2021-12-01,Daily ICU occupancy,688.0,Chile
+2021-12-02,Daily ICU occupancy,706.0,Chile
+2021-12-03,Daily ICU occupancy,692.0,Chile
+2021-12-04,Daily ICU occupancy,692.0,Chile
+2021-12-05,Daily ICU occupancy,693.0,Chile
+2021-12-06,Daily ICU occupancy,690.0,Chile
+2021-12-07,Daily ICU occupancy,698.0,Chile
+2021-12-08,Daily ICU occupancy,685.0,Chile
+2021-12-09,Daily ICU occupancy,688.0,Chile
+2021-12-10,Daily ICU occupancy,682.0,Chile
+2021-12-11,Daily ICU occupancy,687.0,Chile
+2021-12-12,Daily ICU occupancy,670.0,Chile
+2021-12-13,Daily ICU occupancy,662.0,Chile
+2021-12-14,Daily ICU occupancy,675.0,Chile
+2021-12-15,Daily ICU occupancy,668.0,Chile
+2021-12-16,Daily ICU occupancy,661.0,Chile
+2021-12-17,Daily ICU occupancy,637.0,Chile
+2021-12-18,Daily ICU occupancy,632.0,Chile
+2021-12-19,Daily ICU occupancy,626.0,Chile
+2021-12-20,Daily ICU occupancy,620.0,Chile
+2021-12-21,Daily ICU occupancy,608.0,Chile
+2021-12-22,Daily ICU occupancy,587.0,Chile
+2021-12-23,Daily ICU occupancy,581.0,Chile
+2021-12-24,Daily ICU occupancy,555.0,Chile
+2021-12-25,Daily ICU occupancy,555.0,Chile
+2021-12-26,Daily ICU occupancy,552.0,Chile
+2021-12-27,Daily ICU occupancy,542.0,Chile
+2021-12-28,Daily ICU occupancy,550.0,Chile
+2021-12-29,Daily ICU occupancy,551.0,Chile
+2021-12-30,Daily ICU occupancy,531.0,Chile
+2021-12-31,Daily ICU occupancy,522.0,Chile
+2022-01-01,Daily ICU occupancy,512.0,Chile
+2022-01-02,Daily ICU occupancy,519.0,Chile
+2022-01-03,Daily ICU occupancy,511.0,Chile
+2022-01-04,Daily ICU occupancy,518.0,Chile
+2022-01-05,Daily ICU occupancy,488.0,Chile
+2022-01-06,Daily ICU occupancy,479.0,Chile
+2022-01-07,Daily ICU occupancy,479.0,Chile
+2022-01-08,Daily ICU occupancy,457.0,Chile
+2022-01-09,Daily ICU occupancy,460.0,Chile
+2022-01-10,Daily ICU occupancy,460.0,Chile
+2022-01-11,Daily ICU occupancy,460.0,Chile
+2022-01-12,Daily ICU occupancy,445.0,Chile
+2022-01-13,Daily ICU occupancy,444.0,Chile
+2022-01-14,Daily ICU occupancy,427.0,Chile
+2022-01-15,Daily ICU occupancy,421.0,Chile
+2022-01-16,Daily ICU occupancy,411.0,Chile
+2022-01-17,Daily ICU occupancy,417.0,Chile
+2022-01-18,Daily ICU occupancy,421.0,Chile
+2022-01-19,Daily ICU occupancy,409.0,Chile
+2022-01-20,Daily ICU occupancy,422.0,Chile
+2022-01-21,Daily ICU occupancy,410.0,Chile
+2022-01-22,Daily ICU occupancy,412.0,Chile
+2022-01-23,Daily ICU occupancy,401.0,Chile
+2022-01-24,Daily ICU occupancy,407.0,Chile
+2022-01-25,Daily ICU occupancy,411.0,Chile
+2022-01-26,Daily ICU occupancy,418.0,Chile
+2022-01-27,Daily ICU occupancy,423.0,Chile
+2022-01-28,Daily ICU occupancy,425.0,Chile
+2022-01-29,Daily ICU occupancy,426.0,Chile
+2022-01-30,Daily ICU occupancy,437.0,Chile
+2022-01-31,Daily ICU occupancy,435.0,Chile
+2022-02-01,Daily ICU occupancy,474.0,Chile
+2022-02-02,Daily ICU occupancy,511.0,Chile
+2022-02-03,Daily ICU occupancy,524.0,Chile
+2022-02-04,Daily ICU occupancy,545.0,Chile
+2022-02-05,Daily ICU occupancy,573.0,Chile
+2022-02-06,Daily ICU occupancy,601.0,Chile
+2022-02-07,Daily ICU occupancy,632.0,Chile
+2022-02-08,Daily ICU occupancy,652.0,Chile
+2022-02-09,Daily ICU occupancy,678.0,Chile
+2022-02-10,Daily ICU occupancy,720.0,Chile
+2022-02-11,Daily ICU occupancy,766.0,Chile
+2022-02-12,Daily ICU occupancy,790.0,Chile
+2022-02-13,Daily ICU occupancy,803.0,Chile
+2022-02-14,Daily ICU occupancy,853.0,Chile
+2022-02-15,Daily ICU occupancy,880.0,Chile
+2022-02-16,Daily ICU occupancy,915.0,Chile
+2022-02-17,Daily ICU occupancy,958.0,Chile
+2022-02-18,Daily ICU occupancy,970.0,Chile
+2022-02-19,Daily ICU occupancy,994.0,Chile
+2022-02-20,Daily ICU occupancy,1008.0,Chile
+2022-02-21,Daily ICU occupancy,1005.0,Chile
+2022-02-22,Daily ICU occupancy,1020.0,Chile
+2022-02-23,Daily ICU occupancy,1043.0,Chile
+2022-02-24,Daily ICU occupancy,1070.0,Chile
+2022-02-25,Daily ICU occupancy,1093.0,Chile
+2022-02-26,Daily ICU occupancy,1106.0,Chile
+2022-02-27,Daily ICU occupancy,1071.0,Chile
+2022-02-28,Daily ICU occupancy,1079.0,Chile
+2022-03-01,Daily ICU occupancy,1107.0,Chile
+2022-03-02,Daily ICU occupancy,1100.0,Chile
+2022-03-03,Daily ICU occupancy,1105.0,Chile
+2022-03-04,Daily ICU occupancy,1096.0,Chile
+2022-03-05,Daily ICU occupancy,1061.0,Chile
+2022-03-06,Daily ICU occupancy,1050.0,Chile
+2022-03-07,Daily ICU occupancy,1051.0,Chile
+2022-03-08,Daily ICU occupancy,1060.0,Chile
+2022-03-09,Daily ICU occupancy,1036.0,Chile
+2022-03-10,Daily ICU occupancy,1011.0,Chile
+2022-03-11,Daily ICU occupancy,1000.0,Chile
+2022-03-12,Daily ICU occupancy,971.0,Chile
+2022-03-13,Daily ICU occupancy,936.0,Chile
+2022-03-14,Daily ICU occupancy,938.0,Chile
+2022-03-15,Daily ICU occupancy,931.0,Chile
+2022-03-16,Daily ICU occupancy,896.0,Chile
+2022-03-17,Daily ICU occupancy,875.0,Chile
+2022-03-18,Daily ICU occupancy,851.0,Chile
+2022-03-19,Daily ICU occupancy,795.0,Chile
+2022-03-20,Daily ICU occupancy,775.0,Chile
+2022-03-21,Daily ICU occupancy,777.0,Chile
+2022-03-22,Daily ICU occupancy,769.0,Chile
+2022-03-23,Daily ICU occupancy,744.0,Chile
+2022-03-24,Daily ICU occupancy,735.0,Chile
+2022-03-25,Daily ICU occupancy,707.0,Chile
+2022-03-26,Daily ICU occupancy,701.0,Chile
+2022-03-27,Daily ICU occupancy,670.0,Chile
+2022-03-28,Daily ICU occupancy,655.0,Chile
+2022-03-29,Daily ICU occupancy,641.0,Chile
+2022-03-30,Daily ICU occupancy,627.0,Chile
+2022-03-31,Daily ICU occupancy,589.0,Chile
+2022-04-01,Daily ICU occupancy,573.0,Chile
+2022-04-02,Daily ICU occupancy,546.0,Chile
+2022-04-03,Daily ICU occupancy,524.0,Chile
+2022-04-04,Daily ICU occupancy,518.0,Chile
+2022-04-05,Daily ICU occupancy,520.0,Chile
+2022-04-06,Daily ICU occupancy,499.0,Chile
+2022-04-07,Daily ICU occupancy,479.0,Chile
+2022-04-08,Daily ICU occupancy,464.0,Chile
+2022-04-09,Daily ICU occupancy,443.0,Chile
+2022-04-10,Daily ICU occupancy,423.0,Chile
+2022-04-11,Daily ICU occupancy,416.0,Chile
+2022-04-12,Daily ICU occupancy,414.0,Chile
+2022-04-13,Daily ICU occupancy,379.0,Chile
+2022-04-14,Daily ICU occupancy,361.0,Chile
+2022-04-15,Daily ICU occupancy,348.0,Chile
+2022-04-16,Daily ICU occupancy,338.0,Chile
+2022-04-17,Daily ICU occupancy,317.0,Chile
+2022-04-18,Daily ICU occupancy,311.0,Chile
+2022-04-19,Daily ICU occupancy,303.0,Chile
+2022-04-20,Daily ICU occupancy,305.0,Chile
+2022-04-21,Daily ICU occupancy,295.0,Chile
+2022-04-22,Daily ICU occupancy,290.0,Chile
+2022-04-23,Daily ICU occupancy,286.0,Chile
+2022-04-24,Daily ICU occupancy,263.0,Chile
+2022-04-25,Daily ICU occupancy,263.0,Chile
+2022-04-26,Daily ICU occupancy,266.0,Chile
+2022-04-27,Daily ICU occupancy,255.0,Chile
+2022-04-28,Daily ICU occupancy,239.0,Chile
+2022-04-29,Daily ICU occupancy,231.0,Chile
+2022-04-30,Daily ICU occupancy,221.0,Chile
+2022-05-01,Daily ICU occupancy,211.0,Chile
+2022-05-02,Daily ICU occupancy,209.0,Chile
+2022-05-03,Daily ICU occupancy,206.0,Chile
+2022-05-04,Daily ICU occupancy,197.0,Chile
+2022-05-05,Daily ICU occupancy,197.0,Chile
+2022-05-06,Daily ICU occupancy,180.0,Chile
+2022-05-07,Daily ICU occupancy,175.0,Chile
+2022-05-08,Daily ICU occupancy,176.0,Chile
+2022-05-09,Daily ICU occupancy,173.0,Chile
+2022-05-10,Daily ICU occupancy,167.0,Chile
+2022-05-11,Daily ICU occupancy,173.0,Chile
+2022-05-12,Daily ICU occupancy,177.0,Chile
+2022-05-13,Daily ICU occupancy,171.0,Chile
+2022-05-14,Daily ICU occupancy,163.0,Chile
+2022-05-15,Daily ICU occupancy,159.0,Chile
+2022-05-16,Daily ICU occupancy,156.0,Chile
+2022-05-17,Daily ICU occupancy,161.0,Chile
+2022-05-18,Daily ICU occupancy,150.0,Chile
+2022-05-19,Daily ICU occupancy,147.0,Chile
+2022-05-20,Daily ICU occupancy,141.0,Chile
+2022-05-21,Daily ICU occupancy,143.0,Chile
+2022-05-22,Daily ICU occupancy,142.0,Chile
+2022-05-23,Daily ICU occupancy,136.0,Chile
+2022-05-24,Daily ICU occupancy,137.0,Chile
+2022-05-25,Daily ICU occupancy,133.0,Chile
+2022-05-26,Daily ICU occupancy,129.0,Chile
+2022-05-27,Daily ICU occupancy,125.0,Chile
+2022-05-28,Daily ICU occupancy,125.0,Chile
+2022-05-29,Daily ICU occupancy,130.0,Chile
+2022-05-30,Daily ICU occupancy,132.0,Chile
+2022-05-31,Daily ICU occupancy,140.0,Chile
+2022-06-01,Daily ICU occupancy,142.0,Chile
+2022-06-02,Daily ICU occupancy,144.0,Chile
+2022-06-03,Daily ICU occupancy,156.0,Chile
+2022-06-04,Daily ICU occupancy,152.0,Chile
+2022-06-05,Daily ICU occupancy,154.0,Chile
+2022-06-06,Daily ICU occupancy,163.0,Chile
+2022-06-07,Daily ICU occupancy,164.0,Chile
+2022-06-08,Daily ICU occupancy,168.0,Chile
+2022-06-09,Daily ICU occupancy,167.0,Chile
+2022-06-10,Daily ICU occupancy,151.0,Chile
+2022-06-11,Daily ICU occupancy,150.0,Chile
+2022-06-12,Daily ICU occupancy,152.0,Chile
+2022-06-13,Daily ICU occupancy,156.0,Chile
+2022-06-14,Daily ICU occupancy,159.0,Chile
+2022-06-15,Daily ICU occupancy,163.0,Chile
+2022-06-16,Daily ICU occupancy,165.0,Chile
+2022-06-17,Daily ICU occupancy,161.0,Chile
+2022-06-18,Daily ICU occupancy,168.0,Chile
+2022-06-19,Daily ICU occupancy,175.0,Chile
+2022-06-20,Daily ICU occupancy,184.0,Chile
+2022-06-21,Daily ICU occupancy,189.0,Chile
+2022-06-22,Daily ICU occupancy,192.0,Chile
+2022-06-23,Daily ICU occupancy,195.0,Chile
+2022-06-24,Daily ICU occupancy,187.0,Chile
+2022-06-25,Daily ICU occupancy,177.0,Chile
+2022-06-26,Daily ICU occupancy,177.0,Chile
+2022-06-27,Daily ICU occupancy,172.0,Chile
+2022-06-28,Daily ICU occupancy,182.0,Chile
+2022-06-29,Daily ICU occupancy,183.0,Chile
+2022-06-30,Daily ICU occupancy,179.0,Chile
+2022-07-01,Daily ICU occupancy,180.0,Chile
+2022-07-02,Daily ICU occupancy,180.0,Chile
+2022-07-03,Daily ICU occupancy,177.0,Chile
+2022-07-04,Daily ICU occupancy,174.0,Chile
+2022-07-05,Daily ICU occupancy,174.0,Chile
+2022-07-06,Daily ICU occupancy,186.0,Chile
+2022-07-07,Daily ICU occupancy,193.0,Chile
+2022-07-08,Daily ICU occupancy,191.0,Chile
+2022-07-09,Daily ICU occupancy,190.0,Chile
+2022-07-10,Daily ICU occupancy,184.0,Chile
+2022-07-11,Daily ICU occupancy,186.0,Chile
+2022-07-12,Daily ICU occupancy,190.0,Chile
+2022-07-13,Daily ICU occupancy,200.0,Chile
+2022-07-14,Daily ICU occupancy,190.0,Chile
+2022-07-15,Daily ICU occupancy,185.0,Chile
+2022-07-16,Daily ICU occupancy,180.0,Chile
+2022-07-17,Daily ICU occupancy,186.0,Chile
+2022-07-18,Daily ICU occupancy,192.0,Chile
+2022-07-19,Daily ICU occupancy,196.0,Chile
+2022-07-20,Daily ICU occupancy,183.0,Chile
+2022-07-21,Daily ICU occupancy,174.0,Chile
+2022-07-22,Daily ICU occupancy,189.0,Chile
+2022-07-23,Daily ICU occupancy,187.0,Chile
+2022-07-24,Daily ICU occupancy,176.0,Chile
+2022-07-25,Daily ICU occupancy,179.0,Chile
+2022-07-26,Daily ICU occupancy,181.0,Chile
+2022-07-27,Daily ICU occupancy,182.0,Chile
+2022-07-28,Daily ICU occupancy,178.0,Chile
+2022-07-29,Daily ICU occupancy,174.0,Chile
+2022-07-30,Daily ICU occupancy,165.0,Chile
+2022-07-31,Daily ICU occupancy,167.0,Chile
+2022-08-01,Daily ICU occupancy,167.0,Chile
+2022-08-02,Daily ICU occupancy,169.0,Chile
+2022-08-03,Daily ICU occupancy,167.0,Chile
+2022-08-04,Daily ICU occupancy,165.0,Chile
+2022-08-05,Daily ICU occupancy,170.0,Chile
+2022-08-06,Daily ICU occupancy,173.0,Chile
+2022-08-07,Daily ICU occupancy,164.0,Chile
+2022-08-08,Daily ICU occupancy,174.0,Chile
+2022-08-09,Daily ICU occupancy,169.0,Chile
+2022-08-10,Daily ICU occupancy,171.0,Chile
+2022-08-11,Daily ICU occupancy,167.0,Chile
+2022-08-12,Daily ICU occupancy,159.0,Chile
+2022-08-13,Daily ICU occupancy,159.0,Chile
+2022-08-14,Daily ICU occupancy,161.0,Chile
+2022-08-15,Daily ICU occupancy,161.0,Chile
+2022-08-16,Daily ICU occupancy,154.0,Chile
+2022-08-17,Daily ICU occupancy,152.0,Chile
+2022-08-18,Daily ICU occupancy,159.0,Chile
+2022-08-19,Daily ICU occupancy,156.0,Chile
+2022-08-20,Daily ICU occupancy,163.0,Chile
+2022-08-21,Daily ICU occupancy,159.0,Chile
+2022-08-22,Daily ICU occupancy,158.0,Chile
+2022-08-23,Daily ICU occupancy,157.0,Chile
+2022-08-24,Daily ICU occupancy,165.0,Chile
+2022-08-25,Daily ICU occupancy,165.0,Chile
+2022-08-26,Daily ICU occupancy,157.0,Chile
+2022-08-27,Daily ICU occupancy,151.0,Chile
+2022-08-28,Daily ICU occupancy,145.0,Chile
+2022-08-29,Daily ICU occupancy,145.0,Chile
+2022-08-30,Daily ICU occupancy,157.0,Chile
+2022-08-31,Daily ICU occupancy,154.0,Chile
+2022-09-01,Daily ICU occupancy,146.0,Chile
+2022-09-02,Daily ICU occupancy,141.0,Chile
+2022-09-03,Daily ICU occupancy,137.0,Chile
+2022-09-04,Daily ICU occupancy,139.0,Chile
+2022-09-05,Daily ICU occupancy,140.0,Chile
+2022-09-06,Daily ICU occupancy,147.0,Chile
+2022-09-07,Daily ICU occupancy,142.0,Chile
+2022-09-08,Daily ICU occupancy,144.0,Chile
+2022-09-09,Daily ICU occupancy,143.0,Chile
+2022-09-10,Daily ICU occupancy,141.0,Chile
+2022-09-11,Daily ICU occupancy,140.0,Chile
+2022-09-12,Daily ICU occupancy,141.0,Chile
+2022-09-13,Daily ICU occupancy,135.0,Chile
+2022-09-14,Daily ICU occupancy,131.0,Chile
+2022-09-15,Daily ICU occupancy,136.0,Chile
+2022-09-16,Daily ICU occupancy,130.0,Chile
+2022-09-17,Daily ICU occupancy,131.0,Chile
+2022-09-18,Daily ICU occupancy,131.0,Chile
+2022-09-19,Daily ICU occupancy,131.0,Chile
+2022-09-20,Daily ICU occupancy,135.0,Chile
+2022-09-21,Daily ICU occupancy,139.0,Chile
+2022-09-22,Daily ICU occupancy,138.0,Chile
+2022-09-23,Daily ICU occupancy,137.0,Chile
+2022-09-24,Daily ICU occupancy,131.0,Chile
+2022-09-25,Daily ICU occupancy,135.0,Chile
+2022-09-26,Daily ICU occupancy,128.0,Chile
+2022-09-27,Daily ICU occupancy,131.0,Chile
+2022-09-28,Daily ICU occupancy,129.0,Chile
+2022-09-29,Daily ICU occupancy,124.0,Chile
+2022-09-30,Daily ICU occupancy,123.0,Chile
+2022-10-01,Daily ICU occupancy,117.0,Chile
+2022-10-02,Daily ICU occupancy,117.0,Chile
+2022-10-03,Daily ICU occupancy,117.0,Chile
+2022-10-04,Daily ICU occupancy,103.0,Chile
+2022-10-05,Daily ICU occupancy,102.0,Chile
+2022-10-06,Daily ICU occupancy,99.0,Chile
+2022-10-07,Daily ICU occupancy,98.0,Chile
+2022-10-08,Daily ICU occupancy,92.0,Chile
+2022-10-09,Daily ICU occupancy,92.0,Chile
+2022-10-10,Daily ICU occupancy,92.0,Chile
+2022-10-11,Daily ICU occupancy,92.0,Chile
+2022-10-12,Daily ICU occupancy,93.0,Chile
+2022-10-13,Daily ICU occupancy,96.0,Chile
+2022-10-14,Daily ICU occupancy,92.0,Chile
+2022-10-15,Daily ICU occupancy,85.0,Chile
+2022-10-16,Daily ICU occupancy,85.0,Chile
+2022-10-17,Daily ICU occupancy,85.0,Chile
+2022-10-18,Daily ICU occupancy,88.0,Chile
+2022-10-19,Daily ICU occupancy,88.0,Chile
+2022-10-20,Daily ICU occupancy,92.0,Chile
+2022-10-21,Daily ICU occupancy,89.0,Chile
+2022-10-22,Daily ICU occupancy,104.0,Chile
+2022-10-23,Daily ICU occupancy,104.0,Chile
+2022-10-24,Daily ICU occupancy,104.0,Chile
+2022-10-25,Daily ICU occupancy,105.0,Chile
+2022-10-26,Daily ICU occupancy,97.0,Chile
+2022-10-27,Daily ICU occupancy,98.0,Chile
+2022-10-28,Daily ICU occupancy,102.0,Chile
+2022-10-29,Daily ICU occupancy,102.0,Chile
+2022-10-30,Daily ICU occupancy,102.0,Chile
+2022-10-31,Daily ICU occupancy,102.0,Chile
+2022-11-01,Daily ICU occupancy,102.0,Chile
+2022-11-02,Daily ICU occupancy,102.0,Chile
+2022-11-03,Daily ICU occupancy,122.0,Chile
+2022-11-04,Daily ICU occupancy,103.0,Chile
+2022-11-05,Daily ICU occupancy,117.0,Chile
+2022-11-06,Daily ICU occupancy,117.0,Chile
+2022-11-07,Daily ICU occupancy,117.0,Chile
+2022-11-08,Daily ICU occupancy,108.0,Chile
+2022-11-09,Daily ICU occupancy,121.0,Chile
+2022-11-10,Daily ICU occupancy,130.0,Chile
+2022-11-11,Daily ICU occupancy,123.0,Chile
+2022-11-12,Daily ICU occupancy,140.0,Chile
+2022-11-13,Daily ICU occupancy,140.0,Chile
+2022-11-14,Daily ICU occupancy,140.0,Chile
+2022-11-15,Daily ICU occupancy,133.0,Chile
+2022-11-16,Daily ICU occupancy,135.0,Chile
+2022-11-17,Daily ICU occupancy,143.0,Chile
+2022-11-18,Daily ICU occupancy,129.0,Chile
+2022-11-19,Daily ICU occupancy,138.0,Chile
+2022-11-20,Daily ICU occupancy,138.0,Chile
+2022-11-21,Daily ICU occupancy,138.0,Chile
+2022-11-22,Daily ICU occupancy,159.0,Chile
+2022-11-23,Daily ICU occupancy,144.0,Chile
+2022-11-24,Daily ICU occupancy,145.0,Chile
+2022-11-25,Daily ICU occupancy,146.0,Chile
+2022-11-26,Daily ICU occupancy,147.0,Chile
+2022-11-27,Daily ICU occupancy,147.0,Chile
+2022-11-28,Daily ICU occupancy,147.0,Chile
+2022-11-29,Daily ICU occupancy,143.0,Chile
+2022-11-30,Daily ICU occupancy,137.0,Chile
+2022-12-01,Daily ICU occupancy,131.0,Chile
+2022-12-02,Daily ICU occupancy,132.0,Chile
+2022-12-03,Daily ICU occupancy,138.0,Chile
+2022-12-04,Daily ICU occupancy,138.0,Chile
+2022-12-05,Daily ICU occupancy,138.0,Chile
+2022-12-06,Daily ICU occupancy,129.0,Chile
+2022-12-07,Daily ICU occupancy,132.0,Chile
+2022-12-08,Daily ICU occupancy,127.0,Chile
+2022-12-09,Daily ICU occupancy,127.0,Chile
+2022-12-10,Daily ICU occupancy,126.0,Chile
+2022-12-11,Daily ICU occupancy,126.0,Chile
+2022-12-12,Daily ICU occupancy,126.0,Chile
+2022-12-13,Daily ICU occupancy,113.0,Chile
+2022-12-14,Daily ICU occupancy,114.0,Chile
+2022-12-15,Daily ICU occupancy,118.0,Chile
+2022-12-16,Daily ICU occupancy,111.0,Chile
+2022-12-17,Daily ICU occupancy,120.0,Chile
+2022-12-18,Daily ICU occupancy,120.0,Chile
+2022-12-19,Daily ICU occupancy,120.0,Chile
+2022-12-20,Daily ICU occupancy,108.0,Chile
+2022-12-21,Daily ICU occupancy,111.0,Chile
+2022-12-22,Daily ICU occupancy,104.0,Chile
+2022-12-23,Daily ICU occupancy,102.0,Chile
+2022-12-24,Daily ICU occupancy,105.0,Chile
+2022-12-25,Daily ICU occupancy,105.0,Chile
+2022-12-26,Daily ICU occupancy,105.0,Chile
+2022-12-27,Daily ICU occupancy,101.0,Chile
+2022-12-28,Daily ICU occupancy,107.0,Chile
+2022-12-29,Daily ICU occupancy,108.0,Chile
+2022-12-30,Daily ICU occupancy,108.0,Chile
+2022-12-31,Daily ICU occupancy,117.0,Chile
+2023-01-01,Daily ICU occupancy,117.0,Chile
+2023-01-02,Daily ICU occupancy,117.0,Chile
+2023-01-03,Daily ICU occupancy,117.0,Chile
+2023-01-04,Daily ICU occupancy,103.0,Chile
+2023-01-05,Daily ICU occupancy,107.0,Chile
+2023-01-06,Daily ICU occupancy,118.0,Chile
+2023-01-07,Daily ICU occupancy,113.0,Chile
+2023-01-08,Daily ICU occupancy,113.0,Chile
+2023-01-09,Daily ICU occupancy,113.0,Chile
+2023-01-10,Daily ICU occupancy,113.0,Chile
+2023-01-11,Daily ICU occupancy,120.0,Chile
+2023-01-12,Daily ICU occupancy,119.0,Chile
+2023-01-13,Daily ICU occupancy,119.0,Chile
+2023-01-14,Daily ICU occupancy,128.0,Chile
+2023-01-15,Daily ICU occupancy,128.0,Chile
+2023-01-16,Daily ICU occupancy,128.0,Chile
+2023-01-17,Daily ICU occupancy,118.0,Chile
+2023-01-18,Daily ICU occupancy,115.0,Chile
+2023-01-19,Daily ICU occupancy,110.0,Chile
+2023-01-20,Daily ICU occupancy,111.0,Chile
+2023-01-21,Daily ICU occupancy,118.0,Chile
+2023-01-22,Daily ICU occupancy,118.0,Chile
+2023-01-23,Daily ICU occupancy,118.0,Chile
+2023-01-24,Daily ICU occupancy,121.0,Chile
+2023-01-25,Daily ICU occupancy,130.0,Chile
+2023-01-26,Daily ICU occupancy,117.0,Chile
+2023-01-27,Daily ICU occupancy,107.0,Chile
+2023-01-28,Daily ICU occupancy,109.0,Chile
+2023-01-29,Daily ICU occupancy,109.0,Chile
+2023-01-30,Daily ICU occupancy,109.0,Chile
+2023-01-31,Daily ICU occupancy,117.0,Chile
+2023-02-01,Daily ICU occupancy,119.0,Chile
+2023-02-02,Daily ICU occupancy,111.0,Chile
+2023-02-03,Daily ICU occupancy,108.0,Chile
+2023-02-04,Daily ICU occupancy,107.0,Chile
+2023-02-05,Daily ICU occupancy,107.0,Chile
+2023-02-06,Daily ICU occupancy,107.0,Chile
+2023-02-07,Daily ICU occupancy,104.0,Chile
+2023-02-08,Daily ICU occupancy,98.0,Chile
+2023-02-09,Daily ICU occupancy,96.0,Chile
+2023-02-10,Daily ICU occupancy,97.0,Chile
+2023-02-11,Daily ICU occupancy,99.0,Chile
+2023-02-12,Daily ICU occupancy,99.0,Chile
+2023-02-13,Daily ICU occupancy,99.0,Chile
+2023-02-14,Daily ICU occupancy,97.0,Chile
+2023-02-15,Daily ICU occupancy,94.0,Chile
+2023-02-16,Daily ICU occupancy,97.0,Chile
+2023-02-17,Daily ICU occupancy,89.0,Chile
+2023-02-18,Daily ICU occupancy,91.0,Chile
+2023-02-19,Daily ICU occupancy,91.0,Chile
+2023-02-20,Daily ICU occupancy,91.0,Chile
+2023-02-21,Daily ICU occupancy,83.0,Chile
+2023-02-22,Daily ICU occupancy,79.0,Chile
+2023-02-23,Daily ICU occupancy,83.0,Chile
+2023-02-24,Daily ICU occupancy,82.0,Chile
+2023-02-25,Daily ICU occupancy,79.0,Chile
+2023-02-26,Daily ICU occupancy,79.0,Chile
+2023-02-27,Daily ICU occupancy,79.0,Chile
+2023-02-28,Daily ICU occupancy,85.0,Chile
+2023-03-01,Daily ICU occupancy,85.0,Chile
+2023-03-02,Daily ICU occupancy,82.0,Chile
+2023-03-03,Daily ICU occupancy,87.0,Chile
+2023-03-04,Daily ICU occupancy,83.0,Chile
+2023-03-05,Daily ICU occupancy,83.0,Chile
+2023-03-06,Daily ICU occupancy,83.0,Chile
+2023-03-07,Daily ICU occupancy,86.0,Chile
+2023-03-08,Daily ICU occupancy,88.0,Chile
+2023-03-09,Daily ICU occupancy,84.0,Chile
+2023-03-10,Daily ICU occupancy,86.0,Chile
+2023-03-11,Daily ICU occupancy,87.0,Chile
+2023-03-12,Daily ICU occupancy,87.0,Chile
+2023-03-13,Daily ICU occupancy,87.0,Chile
+2023-03-14,Daily ICU occupancy,88.0,Chile
+2023-03-15,Daily ICU occupancy,84.0,Chile
+2023-03-16,Daily ICU occupancy,79.0,Chile
+2023-03-17,Daily ICU occupancy,76.0,Chile
+2023-03-18,Daily ICU occupancy,84.0,Chile
+2023-03-19,Daily ICU occupancy,84.0,Chile
+2023-03-20,Daily ICU occupancy,84.0,Chile
+2023-03-21,Daily ICU occupancy,79.0,Chile
+2023-03-22,Daily ICU occupancy,79.0,Chile
+2023-03-23,Daily ICU occupancy,76.0,Chile
+2023-03-24,Daily ICU occupancy,73.0,Chile
+2023-03-25,Daily ICU occupancy,72.0,Chile
+2023-03-26,Daily ICU occupancy,72.0,Chile
+2023-03-27,Daily ICU occupancy,72.0,Chile
+2023-03-28,Daily ICU occupancy,65.0,Chile
+2023-03-29,Daily ICU occupancy,62.0,Chile
+2023-03-30,Daily ICU occupancy,70.0,Chile
+2023-03-31,Daily ICU occupancy,65.0,Chile
+2023-04-01,Daily ICU occupancy,73.0,Chile
+2023-04-02,Daily ICU occupancy,73.0,Chile
+2023-04-03,Daily ICU occupancy,73.0,Chile
+2023-04-04,Daily ICU occupancy,76.0,Chile
+2023-04-05,Daily ICU occupancy,84.0,Chile
+2023-04-06,Daily ICU occupancy,73.0,Chile
+2023-04-07,Daily ICU occupancy,70.0,Chile
+2023-04-08,Daily ICU occupancy,70.0,Chile
+2023-04-09,Daily ICU occupancy,70.0,Chile
+2023-04-10,Daily ICU occupancy,70.0,Chile
+2023-04-11,Daily ICU occupancy,73.0,Chile
+2023-04-12,Daily ICU occupancy,64.0,Chile
+2023-04-13,Daily ICU occupancy,65.0,Chile
+2023-04-14,Daily ICU occupancy,75.0,Chile
+2023-04-15,Daily ICU occupancy,69.0,Chile
+2023-04-16,Daily ICU occupancy,69.0,Chile
+2023-04-17,Daily ICU occupancy,69.0,Chile
+2023-04-18,Daily ICU occupancy,69.0,Chile
+2023-04-19,Daily ICU occupancy,68.0,Chile
+2023-04-20,Daily ICU occupancy,67.0,Chile
+2023-04-21,Daily ICU occupancy,62.0,Chile
+2023-04-22,Daily ICU occupancy,60.0,Chile
+2023-04-23,Daily ICU occupancy,60.0,Chile
+2023-04-24,Daily ICU occupancy,60.0,Chile
+2023-04-25,Daily ICU occupancy,57.0,Chile
+2023-04-26,Daily ICU occupancy,57.0,Chile
+2023-04-27,Daily ICU occupancy,52.0,Chile
+2023-04-28,Daily ICU occupancy,56.0,Chile
+2023-04-29,Daily ICU occupancy,51.0,Chile
+2023-04-30,Daily ICU occupancy,51.0,Chile
+2023-05-01,Daily ICU occupancy,51.0,Chile
+2023-05-02,Daily ICU occupancy,51.0,Chile
+2023-05-03,Daily ICU occupancy,44.0,Chile
+2023-05-04,Daily ICU occupancy,44.0,Chile
+2023-05-05,Daily ICU occupancy,40.0,Chile
+2023-05-06,Daily ICU occupancy,38.0,Chile
+2023-05-07,Daily ICU occupancy,38.0,Chile
+2023-05-08,Daily ICU occupancy,38.0,Chile
+2023-05-09,Daily ICU occupancy,39.0,Chile
+2023-05-10,Daily ICU occupancy,36.0,Chile
+2023-05-11,Daily ICU occupancy,35.0,Chile
+2023-05-12,Daily ICU occupancy,35.0,Chile
+2023-05-13,Daily ICU occupancy,32.0,Chile
+2023-05-14,Daily ICU occupancy,32.0,Chile
+2023-05-15,Daily ICU occupancy,32.0,Chile
+2023-05-16,Daily ICU occupancy,31.0,Chile
+2023-05-17,Daily ICU occupancy,33.0,Chile
+2023-05-18,Daily ICU occupancy,33.0,Chile
+2023-05-19,Daily ICU occupancy,35.0,Chile
+2023-05-20,Daily ICU occupancy,33.0,Chile
+2023-05-21,Daily ICU occupancy,33.0,Chile
+2023-05-22,Daily ICU occupancy,33.0,Chile
+2023-05-23,Daily ICU occupancy,33.0,Chile
+2023-05-24,Daily ICU occupancy,34.0,Chile
+2023-05-25,Daily ICU occupancy,29.0,Chile
+2023-05-26,Daily ICU occupancy,33.0,Chile
+2023-05-27,Daily ICU occupancy,33.0,Chile
+2023-05-28,Daily ICU occupancy,33.0,Chile
+2023-05-29,Daily ICU occupancy,33.0,Chile
+2023-05-30,Daily ICU occupancy,33.0,Chile
+2023-05-31,Daily ICU occupancy,26.0,Chile
+2023-06-01,Daily ICU occupancy,23.0,Chile
+2023-06-02,Daily ICU occupancy,21.0,Chile
+2023-06-03,Daily ICU occupancy,18.0,Chile
+2023-06-04,Daily ICU occupancy,18.0,Chile
+2023-06-05,Daily ICU occupancy,18.0,Chile
+2023-06-06,Daily ICU occupancy,18.0,Chile
+2023-06-07,Daily ICU occupancy,19.0,Chile
+2023-06-08,Daily ICU occupancy,17.0,Chile
+2023-06-09,Daily ICU occupancy,14.0,Chile
+2023-06-10,Daily ICU occupancy,14.0,Chile
+2023-06-11,Daily ICU occupancy,14.0,Chile
+2023-06-12,Daily ICU occupancy,14.0,Chile
+2023-06-13,Daily ICU occupancy,13.0,Chile
+2023-06-14,Daily ICU occupancy,13.0,Chile
+2023-06-15,Daily ICU occupancy,12.0,Chile
+2023-06-16,Daily ICU occupancy,12.0,Chile
+2023-06-17,Daily ICU occupancy,13.0,Chile
+2023-06-18,Daily ICU occupancy,13.0,Chile
+2023-06-19,Daily ICU occupancy,13.0,Chile
+2023-06-20,Daily ICU occupancy,8.0,Chile
+2023-06-21,Daily ICU occupancy,9.0,Chile
+2023-06-22,Daily ICU occupancy,9.0,Chile
+2023-06-23,Daily ICU occupancy,10.0,Chile
+2023-06-24,Daily ICU occupancy,10.0,Chile
+2023-06-25,Daily ICU occupancy,10.0,Chile
+2023-06-26,Daily ICU occupancy,10.0,Chile
+2023-06-27,Daily ICU occupancy,10.0,Chile
+2023-06-28,Daily ICU occupancy,10.0,Chile
+2023-06-29,Daily ICU occupancy,10.0,Chile
+2023-06-30,Daily ICU occupancy,10.0,Chile
+2023-07-01,Daily ICU occupancy,7.0,Chile
+2023-07-02,Daily ICU occupancy,7.0,Chile
+2023-07-03,Daily ICU occupancy,7.0,Chile
+2023-07-04,Daily ICU occupancy,7.0,Chile
+2023-07-05,Daily ICU occupancy,7.0,Chile
+2023-07-06,Daily ICU occupancy,7.0,Chile
+2023-07-07,Daily ICU occupancy,7.0,Chile
+2023-07-08,Daily ICU occupancy,8.0,Chile
+2023-07-09,Daily ICU occupancy,8.0,Chile
+2023-07-10,Daily ICU occupancy,6.0,Chile
+2023-07-11,Daily ICU occupancy,5.0,Chile
+2023-07-12,Daily ICU occupancy,8.0,Chile
+2023-07-13,Daily ICU occupancy,8.0,Chile
+2023-07-14,Daily ICU occupancy,8.0,Chile
+2023-07-15,Daily ICU occupancy,7.0,Chile
+2023-07-16,Daily ICU occupancy,7.0,Chile
+2023-07-17,Daily ICU occupancy,11.0,Chile
+2023-07-18,Daily ICU occupancy,9.0,Chile
+2023-07-19,Daily ICU occupancy,6.0,Chile
+2023-07-20,Daily ICU occupancy,7.0,Chile
+2023-07-21,Daily ICU occupancy,7.0,Chile
+2023-07-22,Daily ICU occupancy,7.0,Chile
+2023-07-23,Daily ICU occupancy,7.0,Chile
+2023-07-24,Daily ICU occupancy,8.0,Chile
+2023-07-25,Daily ICU occupancy,9.0,Chile
+2023-07-26,Daily ICU occupancy,11.0,Chile
+2023-07-27,Daily ICU occupancy,11.0,Chile
+2023-07-28,Daily ICU occupancy,13.0,Chile
+2023-07-29,Daily ICU occupancy,13.0,Chile
+2023-07-30,Daily ICU occupancy,13.0,Chile
+2023-07-31,Daily ICU occupancy,13.0,Chile
+2023-08-01,Daily ICU occupancy,12.0,Chile
+2023-08-02,Daily ICU occupancy,12.0,Chile
+2023-08-03,Daily ICU occupancy,12.0,Chile
+2023-08-04,Daily ICU occupancy,9.0,Chile
+2023-08-05,Daily ICU occupancy,10.0,Chile
+2023-08-06,Daily ICU occupancy,10.0,Chile
+2023-08-07,Daily ICU occupancy,10.0,Chile
+2023-08-08,Daily ICU occupancy,8.0,Chile
+2023-08-09,Daily ICU occupancy,9.0,Chile
+2023-08-10,Daily ICU occupancy,11.0,Chile
+2023-08-11,Daily ICU occupancy,10.0,Chile
+2023-08-12,Daily ICU occupancy,12.0,Chile
+2023-08-13,Daily ICU occupancy,12.0,Chile
+2023-08-14,Daily ICU occupancy,11.0,Chile
+2023-08-15,Daily ICU occupancy,9.0,Chile
+2023-08-16,Daily ICU occupancy,12.0,Chile
+2023-08-17,Daily ICU occupancy,12.0,Chile
+2023-08-18,Daily ICU occupancy,10.0,Chile
+2023-08-19,Daily ICU occupancy,10.0,Chile
+2023-08-20,Daily ICU occupancy,10.0,Chile
+2023-08-21,Daily ICU occupancy,10.0,Chile
+2023-08-22,Daily ICU occupancy,8.0,Chile
+2023-08-23,Daily ICU occupancy,10.0,Chile
+2023-08-24,Daily ICU occupancy,11.0,Chile
+2023-08-25,Daily ICU occupancy,11.0,Chile
+2023-08-26,Daily ICU occupancy,12.0,Chile
+2023-08-27,Daily ICU occupancy,12.0,Chile
+2023-08-28,Daily ICU occupancy,11.0,Chile
+2023-08-29,Daily ICU occupancy,13.0,Chile
+2023-08-30,Daily ICU occupancy,10.0,Chile
+2023-08-31,Daily ICU occupancy,8.0,Chile
+2020-04-01,Weekly new ICU admissions,,Chile
+2020-04-02,Weekly new ICU admissions,,Chile
+2020-04-03,Weekly new ICU admissions,,Chile
+2020-04-04,Weekly new ICU admissions,,Chile
+2020-04-05,Weekly new ICU admissions,,Chile
+2020-04-06,Weekly new ICU admissions,,Chile
+2020-04-07,Weekly new ICU admissions,,Chile
+2020-04-08,Weekly new ICU admissions,,Chile
+2020-04-09,Weekly new ICU admissions,,Chile
+2020-04-10,Weekly new ICU admissions,,Chile
+2020-04-11,Weekly new ICU admissions,,Chile
+2020-04-12,Weekly new ICU admissions,,Chile
+2020-04-13,Weekly new ICU admissions,,Chile
+2020-04-14,Weekly new ICU admissions,,Chile
+2020-04-15,Weekly new ICU admissions,195.0,Chile
+2020-04-16,Weekly new ICU admissions,194.0,Chile
+2020-04-17,Weekly new ICU admissions,183.0,Chile
+2020-04-18,Weekly new ICU admissions,168.0,Chile
+2020-04-19,Weekly new ICU admissions,180.0,Chile
+2020-04-20,Weekly new ICU admissions,183.0,Chile
+2020-04-21,Weekly new ICU admissions,208.0,Chile
+2020-04-22,Weekly new ICU admissions,220.0,Chile
+2020-04-23,Weekly new ICU admissions,234.0,Chile
+2020-04-24,Weekly new ICU admissions,228.0,Chile
+2020-04-25,Weekly new ICU admissions,245.0,Chile
+2020-04-26,Weekly new ICU admissions,231.0,Chile
+2020-04-27,Weekly new ICU admissions,223.0,Chile
+2020-04-28,Weekly new ICU admissions,213.0,Chile
+2020-04-29,Weekly new ICU admissions,213.0,Chile
+2020-04-30,Weekly new ICU admissions,205.0,Chile
+2020-05-01,Weekly new ICU admissions,206.0,Chile
+2020-05-02,Weekly new ICU admissions,200.0,Chile
+2020-05-03,Weekly new ICU admissions,222.0,Chile
+2020-05-04,Weekly new ICU admissions,236.0,Chile
+2020-05-05,Weekly new ICU admissions,245.0,Chile
+2020-05-06,Weekly new ICU admissions,258.0,Chile
+2020-05-07,Weekly new ICU admissions,256.0,Chile
+2020-05-08,Weekly new ICU admissions,274.0,Chile
+2020-05-09,Weekly new ICU admissions,311.0,Chile
+2020-05-10,Weekly new ICU admissions,310.0,Chile
+2020-05-11,Weekly new ICU admissions,306.0,Chile
+2020-05-12,Weekly new ICU admissions,330.0,Chile
+2020-05-13,Weekly new ICU admissions,359.0,Chile
+2020-05-14,Weekly new ICU admissions,389.0,Chile
+2020-05-15,Weekly new ICU admissions,424.0,Chile
+2020-05-16,Weekly new ICU admissions,453.0,Chile
+2020-05-17,Weekly new ICU admissions,460.0,Chile
+2020-05-18,Weekly new ICU admissions,501.0,Chile
+2020-05-19,Weekly new ICU admissions,558.0,Chile
+2020-05-20,Weekly new ICU admissions,582.0,Chile
+2020-05-21,Weekly new ICU admissions,603.0,Chile
+2020-05-22,Weekly new ICU admissions,620.0,Chile
+2020-05-23,Weekly new ICU admissions,661.0,Chile
+2020-05-24,Weekly new ICU admissions,680.0,Chile
+2020-05-25,Weekly new ICU admissions,701.0,Chile
+2020-05-26,Weekly new ICU admissions,675.0,Chile
+2020-05-27,Weekly new ICU admissions,716.0,Chile
+2020-05-28,Weekly new ICU admissions,750.0,Chile
+2020-05-29,Weekly new ICU admissions,790.0,Chile
+2020-05-30,Weekly new ICU admissions,755.0,Chile
+2020-05-31,Weekly new ICU admissions,765.0,Chile
+2020-06-01,Weekly new ICU admissions,782.0,Chile
+2020-06-02,Weekly new ICU admissions,773.0,Chile
+2020-06-03,Weekly new ICU admissions,746.0,Chile
+2020-06-04,Weekly new ICU admissions,762.0,Chile
+2020-06-05,Weekly new ICU admissions,740.0,Chile
+2020-06-06,Weekly new ICU admissions,747.0,Chile
+2020-06-07,Weekly new ICU admissions,804.0,Chile
+2020-06-08,Weekly new ICU admissions,781.0,Chile
+2020-06-09,Weekly new ICU admissions,774.0,Chile
+2020-06-10,Weekly new ICU admissions,785.0,Chile
+2020-06-11,Weekly new ICU admissions,790.0,Chile
+2020-06-12,Weekly new ICU admissions,803.0,Chile
+2020-06-13,Weekly new ICU admissions,803.0,Chile
+2020-06-14,Weekly new ICU admissions,837.0,Chile
+2020-06-15,Weekly new ICU admissions,844.0,Chile
+2020-06-16,Weekly new ICU admissions,861.0,Chile
+2020-06-17,Weekly new ICU admissions,913.0,Chile
+2020-06-18,Weekly new ICU admissions,934.0,Chile
+2020-06-19,Weekly new ICU admissions,974.0,Chile
+2020-06-20,Weekly new ICU admissions,1029.0,Chile
+2020-06-21,Weekly new ICU admissions,995.0,Chile
+2020-06-22,Weekly new ICU admissions,997.0,Chile
+2020-06-23,Weekly new ICU admissions,986.0,Chile
+2020-06-24,Weekly new ICU admissions,965.0,Chile
+2020-06-25,Weekly new ICU admissions,967.0,Chile
+2020-06-26,Weekly new ICU admissions,951.0,Chile
+2020-06-27,Weekly new ICU admissions,918.0,Chile
+2020-06-28,Weekly new ICU admissions,912.0,Chile
+2020-06-29,Weekly new ICU admissions,898.0,Chile
+2020-06-30,Weekly new ICU admissions,911.0,Chile
+2020-07-01,Weekly new ICU admissions,834.0,Chile
+2020-07-02,Weekly new ICU admissions,807.0,Chile
+2020-07-03,Weekly new ICU admissions,768.0,Chile
+2020-07-04,Weekly new ICU admissions,747.0,Chile
+2020-07-05,Weekly new ICU admissions,731.0,Chile
+2020-07-06,Weekly new ICU admissions,740.0,Chile
+2020-07-07,Weekly new ICU admissions,701.0,Chile
+2020-07-08,Weekly new ICU admissions,768.0,Chile
+2020-07-09,Weekly new ICU admissions,758.0,Chile
+2020-07-10,Weekly new ICU admissions,747.0,Chile
+2020-07-11,Weekly new ICU admissions,765.0,Chile
+2020-07-12,Weekly new ICU admissions,759.0,Chile
+2020-07-13,Weekly new ICU admissions,713.0,Chile
+2020-07-14,Weekly new ICU admissions,724.0,Chile
+2020-07-15,Weekly new ICU admissions,692.0,Chile
+2020-07-16,Weekly new ICU admissions,667.0,Chile
+2020-07-17,Weekly new ICU admissions,631.0,Chile
+2020-07-18,Weekly new ICU admissions,575.0,Chile
+2020-07-19,Weekly new ICU admissions,564.0,Chile
+2020-07-20,Weekly new ICU admissions,573.0,Chile
+2020-07-21,Weekly new ICU admissions,555.0,Chile
+2020-07-22,Weekly new ICU admissions,532.0,Chile
+2020-07-23,Weekly new ICU admissions,518.0,Chile
+2020-07-24,Weekly new ICU admissions,532.0,Chile
+2020-07-25,Weekly new ICU admissions,533.0,Chile
+2020-07-26,Weekly new ICU admissions,503.0,Chile
+2020-07-27,Weekly new ICU admissions,485.0,Chile
+2020-07-28,Weekly new ICU admissions,470.0,Chile
+2020-07-29,Weekly new ICU admissions,453.0,Chile
+2020-07-30,Weekly new ICU admissions,452.0,Chile
+2020-07-31,Weekly new ICU admissions,444.0,Chile
+2020-08-01,Weekly new ICU admissions,445.0,Chile
+2020-08-02,Weekly new ICU admissions,425.0,Chile
+2020-08-03,Weekly new ICU admissions,429.0,Chile
+2020-08-04,Weekly new ICU admissions,426.0,Chile
+2020-08-05,Weekly new ICU admissions,426.0,Chile
+2020-08-06,Weekly new ICU admissions,399.0,Chile
+2020-08-07,Weekly new ICU admissions,387.0,Chile
+2020-08-08,Weekly new ICU admissions,367.0,Chile
+2020-08-09,Weekly new ICU admissions,381.0,Chile
+2020-08-10,Weekly new ICU admissions,381.0,Chile
+2020-08-11,Weekly new ICU admissions,376.0,Chile
+2020-08-12,Weekly new ICU admissions,372.0,Chile
+2020-08-13,Weekly new ICU admissions,370.0,Chile
+2020-08-14,Weekly new ICU admissions,356.0,Chile
+2020-08-15,Weekly new ICU admissions,367.0,Chile
+2020-08-16,Weekly new ICU admissions,359.0,Chile
+2020-08-17,Weekly new ICU admissions,345.0,Chile
+2020-08-18,Weekly new ICU admissions,347.0,Chile
+2020-08-19,Weekly new ICU admissions,323.0,Chile
+2020-08-20,Weekly new ICU admissions,322.0,Chile
+2020-08-21,Weekly new ICU admissions,325.0,Chile
+2020-08-22,Weekly new ICU admissions,323.0,Chile
+2020-08-23,Weekly new ICU admissions,315.0,Chile
+2020-08-24,Weekly new ICU admissions,318.0,Chile
+2020-08-25,Weekly new ICU admissions,311.0,Chile
+2020-08-26,Weekly new ICU admissions,348.0,Chile
+2020-08-27,Weekly new ICU admissions,339.0,Chile
+2020-08-28,Weekly new ICU admissions,328.0,Chile
+2020-08-29,Weekly new ICU admissions,316.0,Chile
+2020-08-30,Weekly new ICU admissions,320.0,Chile
+2020-08-31,Weekly new ICU admissions,321.0,Chile
+2020-09-01,Weekly new ICU admissions,321.0,Chile
+2020-09-02,Weekly new ICU admissions,283.0,Chile
+2020-09-03,Weekly new ICU admissions,290.0,Chile
+2020-09-04,Weekly new ICU admissions,301.0,Chile
+2020-09-05,Weekly new ICU admissions,305.0,Chile
+2020-09-06,Weekly new ICU admissions,315.0,Chile
+2020-09-07,Weekly new ICU admissions,322.0,Chile
+2020-09-08,Weekly new ICU admissions,334.0,Chile
+2020-09-09,Weekly new ICU admissions,366.0,Chile
+2020-09-10,Weekly new ICU admissions,359.0,Chile
+2020-09-11,Weekly new ICU admissions,361.0,Chile
+2020-09-12,Weekly new ICU admissions,361.0,Chile
+2020-09-13,Weekly new ICU admissions,351.0,Chile
+2020-09-14,Weekly new ICU admissions,347.0,Chile
+2020-09-15,Weekly new ICU admissions,345.0,Chile
+2020-09-16,Weekly new ICU admissions,316.0,Chile
+2020-09-17,Weekly new ICU admissions,327.0,Chile
+2020-09-18,Weekly new ICU admissions,314.0,Chile
+2020-09-19,Weekly new ICU admissions,309.0,Chile
+2020-09-20,Weekly new ICU admissions,303.0,Chile
+2020-09-21,Weekly new ICU admissions,294.0,Chile
+2020-09-22,Weekly new ICU admissions,296.0,Chile
+2020-09-23,Weekly new ICU admissions,302.0,Chile
+2020-09-24,Weekly new ICU admissions,310.0,Chile
+2020-09-25,Weekly new ICU admissions,319.0,Chile
+2020-09-26,Weekly new ICU admissions,321.0,Chile
+2020-09-27,Weekly new ICU admissions,324.0,Chile
+2020-09-28,Weekly new ICU admissions,326.0,Chile
+2020-09-29,Weekly new ICU admissions,309.0,Chile
+2020-09-30,Weekly new ICU admissions,301.0,Chile
+2020-10-01,Weekly new ICU admissions,302.0,Chile
+2020-10-02,Weekly new ICU admissions,283.0,Chile
+2020-10-03,Weekly new ICU admissions,294.0,Chile
+2020-10-04,Weekly new ICU admissions,293.0,Chile
+2020-10-05,Weekly new ICU admissions,291.0,Chile
+2020-10-06,Weekly new ICU admissions,289.0,Chile
+2020-10-07,Weekly new ICU admissions,303.0,Chile
+2020-10-08,Weekly new ICU admissions,292.0,Chile
+2020-10-09,Weekly new ICU admissions,307.0,Chile
+2020-10-10,Weekly new ICU admissions,292.0,Chile
+2020-10-11,Weekly new ICU admissions,289.0,Chile
+2020-10-12,Weekly new ICU admissions,292.0,Chile
+2020-10-13,Weekly new ICU admissions,302.0,Chile
+2020-10-14,Weekly new ICU admissions,275.0,Chile
+2020-10-15,Weekly new ICU admissions,282.0,Chile
+2020-10-16,Weekly new ICU admissions,284.0,Chile
+2020-10-17,Weekly new ICU admissions,267.0,Chile
+2020-10-18,Weekly new ICU admissions,261.0,Chile
+2020-10-19,Weekly new ICU admissions,254.0,Chile
+2020-10-20,Weekly new ICU admissions,255.0,Chile
+2020-10-21,Weekly new ICU admissions,281.0,Chile
+2020-10-22,Weekly new ICU admissions,269.0,Chile
+2020-10-23,Weekly new ICU admissions,250.0,Chile
+2020-10-24,Weekly new ICU admissions,271.0,Chile
+2020-10-25,Weekly new ICU admissions,278.0,Chile
+2020-10-26,Weekly new ICU admissions,289.0,Chile
+2020-10-27,Weekly new ICU admissions,280.0,Chile
+2020-10-28,Weekly new ICU admissions,274.0,Chile
+2020-10-29,Weekly new ICU admissions,284.0,Chile
+2020-10-30,Weekly new ICU admissions,292.0,Chile
+2020-10-31,Weekly new ICU admissions,282.0,Chile
+2020-11-01,Weekly new ICU admissions,273.0,Chile
+2020-11-02,Weekly new ICU admissions,263.0,Chile
+2020-11-03,Weekly new ICU admissions,267.0,Chile
+2020-11-04,Weekly new ICU admissions,264.0,Chile
+2020-11-05,Weekly new ICU admissions,249.0,Chile
+2020-11-06,Weekly new ICU admissions,258.0,Chile
+2020-11-07,Weekly new ICU admissions,266.0,Chile
+2020-11-08,Weekly new ICU admissions,262.0,Chile
+2020-11-09,Weekly new ICU admissions,256.0,Chile
+2020-11-10,Weekly new ICU admissions,257.0,Chile
+2020-11-11,Weekly new ICU admissions,253.0,Chile
+2020-11-12,Weekly new ICU admissions,256.0,Chile
+2020-11-13,Weekly new ICU admissions,259.0,Chile
+2020-11-14,Weekly new ICU admissions,248.0,Chile
+2020-11-15,Weekly new ICU admissions,257.0,Chile
+2020-11-16,Weekly new ICU admissions,263.0,Chile
+2020-11-17,Weekly new ICU admissions,270.0,Chile
+2020-11-18,Weekly new ICU admissions,274.0,Chile
+2020-11-19,Weekly new ICU admissions,271.0,Chile
+2020-11-20,Weekly new ICU admissions,259.0,Chile
+2020-11-21,Weekly new ICU admissions,262.0,Chile
+2020-11-22,Weekly new ICU admissions,266.0,Chile
+2020-11-23,Weekly new ICU admissions,261.0,Chile
+2020-11-24,Weekly new ICU admissions,248.0,Chile
+2020-11-25,Weekly new ICU admissions,246.0,Chile
+2020-11-26,Weekly new ICU admissions,239.0,Chile
+2020-11-27,Weekly new ICU admissions,246.0,Chile
+2020-11-28,Weekly new ICU admissions,253.0,Chile
+2020-11-29,Weekly new ICU admissions,256.0,Chile
+2020-11-30,Weekly new ICU admissions,263.0,Chile
+2020-12-01,Weekly new ICU admissions,271.0,Chile
+2020-12-02,Weekly new ICU admissions,267.0,Chile
+2020-12-03,Weekly new ICU admissions,273.0,Chile
+2020-12-04,Weekly new ICU admissions,261.0,Chile
+2020-12-05,Weekly new ICU admissions,255.0,Chile
+2020-12-06,Weekly new ICU admissions,243.0,Chile
+2020-12-07,Weekly new ICU admissions,236.0,Chile
+2020-12-08,Weekly new ICU admissions,238.0,Chile
+2020-12-09,Weekly new ICU admissions,247.0,Chile
+2020-12-10,Weekly new ICU admissions,219.0,Chile
+2020-12-11,Weekly new ICU admissions,228.0,Chile
+2020-12-12,Weekly new ICU admissions,229.0,Chile
+2020-12-13,Weekly new ICU admissions,234.0,Chile
+2020-12-14,Weekly new ICU admissions,239.0,Chile
+2020-12-15,Weekly new ICU admissions,242.0,Chile
+2020-12-16,Weekly new ICU admissions,232.0,Chile
+2020-12-17,Weekly new ICU admissions,280.0,Chile
+2020-12-18,Weekly new ICU admissions,285.0,Chile
+2020-12-19,Weekly new ICU admissions,293.0,Chile
+2020-12-20,Weekly new ICU admissions,297.0,Chile
+2020-12-21,Weekly new ICU admissions,315.0,Chile
+2020-12-22,Weekly new ICU admissions,323.0,Chile
+2020-12-23,Weekly new ICU admissions,332.0,Chile
+2020-12-24,Weekly new ICU admissions,322.0,Chile
+2020-12-25,Weekly new ICU admissions,330.0,Chile
+2020-12-26,Weekly new ICU admissions,330.0,Chile
+2020-12-27,Weekly new ICU admissions,324.0,Chile
+2020-12-28,Weekly new ICU admissions,322.0,Chile
+2020-12-29,Weekly new ICU admissions,321.0,Chile
+2020-12-30,Weekly new ICU admissions,346.0,Chile
+2020-12-31,Weekly new ICU admissions,366.0,Chile
+2021-01-01,Weekly new ICU admissions,365.0,Chile
+2021-01-02,Weekly new ICU admissions,352.0,Chile
+2021-01-03,Weekly new ICU admissions,347.0,Chile
+2021-01-04,Weekly new ICU admissions,349.0,Chile
+2021-01-05,Weekly new ICU admissions,351.0,Chile
+2021-01-06,Weekly new ICU admissions,344.0,Chile
+2021-01-07,Weekly new ICU admissions,410.0,Chile
+2021-01-08,Weekly new ICU admissions,423.0,Chile
+2021-01-09,Weekly new ICU admissions,493.0,Chile
+2021-01-10,Weekly new ICU admissions,542.0,Chile
+2021-01-11,Weekly new ICU admissions,539.0,Chile
+2021-01-12,Weekly new ICU admissions,557.0,Chile
+2021-01-13,Weekly new ICU admissions,585.0,Chile
+2021-01-14,Weekly new ICU admissions,533.0,Chile
+2021-01-15,Weekly new ICU admissions,567.0,Chile
+2021-01-16,Weekly new ICU admissions,539.0,Chile
+2021-01-17,Weekly new ICU admissions,544.0,Chile
+2021-01-18,Weekly new ICU admissions,571.0,Chile
+2021-01-19,Weekly new ICU admissions,565.0,Chile
+2021-01-20,Weekly new ICU admissions,623.0,Chile
+2021-01-21,Weekly new ICU admissions,660.0,Chile
+2021-01-22,Weekly new ICU admissions,659.0,Chile
+2021-01-23,Weekly new ICU admissions,691.0,Chile
+2021-01-24,Weekly new ICU admissions,694.0,Chile
+2021-01-25,Weekly new ICU admissions,690.0,Chile
+2021-01-26,Weekly new ICU admissions,715.0,Chile
+2021-01-27,Weekly new ICU admissions,706.0,Chile
+2021-01-28,Weekly new ICU admissions,685.0,Chile
+2021-01-29,Weekly new ICU admissions,725.0,Chile
+2021-01-30,Weekly new ICU admissions,731.0,Chile
+2021-01-31,Weekly new ICU admissions,756.0,Chile
+2021-02-01,Weekly new ICU admissions,765.0,Chile
+2021-02-02,Weekly new ICU admissions,764.0,Chile
+2021-02-03,Weekly new ICU admissions,750.0,Chile
+2021-02-04,Weekly new ICU admissions,776.0,Chile
+2021-02-05,Weekly new ICU admissions,732.0,Chile
+2021-02-06,Weekly new ICU admissions,743.0,Chile
+2021-02-07,Weekly new ICU admissions,734.0,Chile
+2021-02-08,Weekly new ICU admissions,730.0,Chile
+2021-02-09,Weekly new ICU admissions,721.0,Chile
+2021-02-10,Weekly new ICU admissions,707.0,Chile
+2021-02-11,Weekly new ICU admissions,700.0,Chile
+2021-02-12,Weekly new ICU admissions,725.0,Chile
+2021-02-13,Weekly new ICU admissions,713.0,Chile
+2021-02-14,Weekly new ICU admissions,719.0,Chile
+2021-02-15,Weekly new ICU admissions,723.0,Chile
+2021-02-16,Weekly new ICU admissions,723.0,Chile
+2021-02-17,Weekly new ICU admissions,747.0,Chile
+2021-02-18,Weekly new ICU admissions,728.0,Chile
+2021-02-19,Weekly new ICU admissions,719.0,Chile
+2021-02-20,Weekly new ICU admissions,719.0,Chile
+2021-02-21,Weekly new ICU admissions,706.0,Chile
+2021-02-22,Weekly new ICU admissions,703.0,Chile
+2021-02-23,Weekly new ICU admissions,705.0,Chile
+2021-02-24,Weekly new ICU admissions,700.0,Chile
+2021-02-25,Weekly new ICU admissions,705.0,Chile
+2021-02-26,Weekly new ICU admissions,724.0,Chile
+2021-02-27,Weekly new ICU admissions,739.0,Chile
+2021-02-28,Weekly new ICU admissions,762.0,Chile
+2021-03-01,Weekly new ICU admissions,770.0,Chile
+2021-03-02,Weekly new ICU admissions,771.0,Chile
+2021-03-03,Weekly new ICU admissions,774.0,Chile
+2021-03-04,Weekly new ICU admissions,787.0,Chile
+2021-03-05,Weekly new ICU admissions,766.0,Chile
+2021-03-06,Weekly new ICU admissions,771.0,Chile
+2021-03-07,Weekly new ICU admissions,788.0,Chile
+2021-03-08,Weekly new ICU admissions,831.0,Chile
+2021-03-09,Weekly new ICU admissions,852.0,Chile
+2021-03-10,Weekly new ICU admissions,895.0,Chile
+2021-03-11,Weekly new ICU admissions,954.0,Chile
+2021-03-12,Weekly new ICU admissions,987.0,Chile
+2021-03-13,Weekly new ICU admissions,1012.0,Chile
+2021-03-14,Weekly new ICU admissions,1021.0,Chile
+2021-03-15,Weekly new ICU admissions,1003.0,Chile
+2021-03-16,Weekly new ICU admissions,1051.0,Chile
+2021-03-17,Weekly new ICU admissions,1087.0,Chile
+2021-03-18,Weekly new ICU admissions,1062.0,Chile
+2021-03-19,Weekly new ICU admissions,1096.0,Chile
+2021-03-20,Weekly new ICU admissions,1119.0,Chile
+2021-03-21,Weekly new ICU admissions,1131.0,Chile
+2021-03-22,Weekly new ICU admissions,1161.0,Chile
+2021-03-23,Weekly new ICU admissions,1163.0,Chile
+2021-03-24,Weekly new ICU admissions,1158.0,Chile
+2021-03-25,Weekly new ICU admissions,1209.0,Chile
+2021-03-26,Weekly new ICU admissions,1226.0,Chile
+2021-03-27,Weekly new ICU admissions,1265.0,Chile
+2021-03-28,Weekly new ICU admissions,1312.0,Chile
+2021-03-29,Weekly new ICU admissions,1308.0,Chile
+2021-03-30,Weekly new ICU admissions,1296.0,Chile
+2021-03-31,Weekly new ICU admissions,1390.0,Chile
+2021-04-01,Weekly new ICU admissions,1416.0,Chile
+2021-04-02,Weekly new ICU admissions,1436.0,Chile
+2021-04-03,Weekly new ICU admissions,1447.0,Chile
+2021-04-04,Weekly new ICU admissions,1412.0,Chile
+2021-04-05,Weekly new ICU admissions,1448.0,Chile
+2021-04-06,Weekly new ICU admissions,1457.0,Chile
+2021-04-07,Weekly new ICU admissions,1501.0,Chile
+2021-04-08,Weekly new ICU admissions,1536.0,Chile
+2021-04-09,Weekly new ICU admissions,1592.0,Chile
+2021-04-10,Weekly new ICU admissions,1618.0,Chile
+2021-04-11,Weekly new ICU admissions,1697.0,Chile
+2021-04-12,Weekly new ICU admissions,1693.0,Chile
+2021-04-13,Weekly new ICU admissions,1701.0,Chile
+2021-04-14,Weekly new ICU admissions,1666.0,Chile
+2021-04-15,Weekly new ICU admissions,1653.0,Chile
+2021-04-16,Weekly new ICU admissions,1604.0,Chile
+2021-04-17,Weekly new ICU admissions,1584.0,Chile
+2021-04-18,Weekly new ICU admissions,1563.0,Chile
+2021-04-19,Weekly new ICU admissions,1552.0,Chile
+2021-04-20,Weekly new ICU admissions,1545.0,Chile
+2021-04-21,Weekly new ICU admissions,1549.0,Chile
+2021-04-22,Weekly new ICU admissions,1524.0,Chile
+2021-04-23,Weekly new ICU admissions,1530.0,Chile
+2021-04-24,Weekly new ICU admissions,1514.0,Chile
+2021-04-25,Weekly new ICU admissions,1495.0,Chile
+2021-04-26,Weekly new ICU admissions,1463.0,Chile
+2021-04-27,Weekly new ICU admissions,1431.0,Chile
+2021-04-28,Weekly new ICU admissions,1411.0,Chile
+2021-04-29,Weekly new ICU admissions,1379.0,Chile
+2021-04-30,Weekly new ICU admissions,1347.0,Chile
+2021-05-01,Weekly new ICU admissions,1322.0,Chile
+2021-05-02,Weekly new ICU admissions,1325.0,Chile
+2021-05-03,Weekly new ICU admissions,1330.0,Chile
+2021-05-04,Weekly new ICU admissions,1332.0,Chile
+2021-05-05,Weekly new ICU admissions,1266.0,Chile
+2021-05-06,Weekly new ICU admissions,1259.0,Chile
+2021-05-07,Weekly new ICU admissions,1223.0,Chile
+2021-05-08,Weekly new ICU admissions,1209.0,Chile
+2021-05-09,Weekly new ICU admissions,1194.0,Chile
+2021-05-10,Weekly new ICU admissions,1186.0,Chile
+2021-05-11,Weekly new ICU admissions,1173.0,Chile
+2021-05-12,Weekly new ICU admissions,1139.0,Chile
+2021-05-13,Weekly new ICU admissions,1119.0,Chile
+2021-05-14,Weekly new ICU admissions,1114.0,Chile
+2021-05-15,Weekly new ICU admissions,1094.0,Chile
+2021-05-16,Weekly new ICU admissions,1067.0,Chile
+2021-05-17,Weekly new ICU admissions,1078.0,Chile
+2021-05-18,Weekly new ICU admissions,1097.0,Chile
+2021-05-19,Weekly new ICU admissions,1136.0,Chile
+2021-05-20,Weekly new ICU admissions,1130.0,Chile
+2021-05-21,Weekly new ICU admissions,1161.0,Chile
+2021-05-22,Weekly new ICU admissions,1199.0,Chile
+2021-05-23,Weekly new ICU admissions,1134.0,Chile
+2021-05-24,Weekly new ICU admissions,1162.0,Chile
+2021-05-25,Weekly new ICU admissions,1168.0,Chile
+2021-05-26,Weekly new ICU admissions,1216.0,Chile
+2021-05-27,Weekly new ICU admissions,1282.0,Chile
+2021-05-28,Weekly new ICU admissions,1325.0,Chile
+2021-05-29,Weekly new ICU admissions,1361.0,Chile
+2021-05-30,Weekly new ICU admissions,1479.0,Chile
+2021-05-31,Weekly new ICU admissions,1451.0,Chile
+2021-06-01,Weekly new ICU admissions,1475.0,Chile
+2021-06-02,Weekly new ICU admissions,1447.0,Chile
+2021-06-03,Weekly new ICU admissions,1455.0,Chile
+2021-06-04,Weekly new ICU admissions,1465.0,Chile
+2021-06-05,Weekly new ICU admissions,1430.0,Chile
+2021-06-06,Weekly new ICU admissions,1425.0,Chile
+2021-06-07,Weekly new ICU admissions,1452.0,Chile
+2021-06-08,Weekly new ICU admissions,1445.0,Chile
+2021-06-09,Weekly new ICU admissions,1435.0,Chile
+2021-06-10,Weekly new ICU admissions,1443.0,Chile
+2021-06-11,Weekly new ICU admissions,1428.0,Chile
+2021-06-12,Weekly new ICU admissions,1418.0,Chile
+2021-06-13,Weekly new ICU admissions,1405.0,Chile
+2021-06-14,Weekly new ICU admissions,1378.0,Chile
+2021-06-15,Weekly new ICU admissions,1382.0,Chile
+2021-06-16,Weekly new ICU admissions,1398.0,Chile
+2021-06-17,Weekly new ICU admissions,1384.0,Chile
+2021-06-18,Weekly new ICU admissions,1339.0,Chile
+2021-06-19,Weekly new ICU admissions,1366.0,Chile
+2021-06-20,Weekly new ICU admissions,1322.0,Chile
+2021-06-21,Weekly new ICU admissions,1323.0,Chile
+2021-06-22,Weekly new ICU admissions,1297.0,Chile
+2021-06-23,Weekly new ICU admissions,1147.0,Chile
+2021-06-24,Weekly new ICU admissions,1160.0,Chile
+2021-06-25,Weekly new ICU admissions,1157.0,Chile
+2021-06-26,Weekly new ICU admissions,1116.0,Chile
+2021-06-27,Weekly new ICU admissions,1129.0,Chile
+2021-06-28,Weekly new ICU admissions,1125.0,Chile
+2021-06-29,Weekly new ICU admissions,1103.0,Chile
+2021-06-30,Weekly new ICU admissions,1079.0,Chile
+2021-07-01,Weekly new ICU admissions,1061.0,Chile
+2021-07-02,Weekly new ICU admissions,1032.0,Chile
+2021-07-03,Weekly new ICU admissions,998.0,Chile
+2021-07-04,Weekly new ICU admissions,955.0,Chile
+2021-07-05,Weekly new ICU admissions,929.0,Chile
+2021-07-06,Weekly new ICU admissions,906.0,Chile
+2021-07-07,Weekly new ICU admissions,972.0,Chile
+2021-07-08,Weekly new ICU admissions,834.0,Chile
+2021-07-09,Weekly new ICU admissions,792.0,Chile
+2021-07-10,Weekly new ICU admissions,727.0,Chile
+2021-07-11,Weekly new ICU admissions,672.0,Chile
+2021-07-12,Weekly new ICU admissions,644.0,Chile
+2021-07-13,Weekly new ICU admissions,634.0,Chile
+2021-07-14,Weekly new ICU admissions,575.0,Chile
+2021-07-15,Weekly new ICU admissions,567.0,Chile
+2021-07-16,Weekly new ICU admissions,551.0,Chile
+2021-07-17,Weekly new ICU admissions,545.0,Chile
+2021-07-18,Weekly new ICU admissions,517.0,Chile
+2021-07-19,Weekly new ICU admissions,505.0,Chile
+2021-07-20,Weekly new ICU admissions,480.0,Chile
+2021-07-21,Weekly new ICU admissions,457.0,Chile
+2021-07-22,Weekly new ICU admissions,443.0,Chile
+2021-07-23,Weekly new ICU admissions,426.0,Chile
+2021-07-24,Weekly new ICU admissions,409.0,Chile
+2021-07-25,Weekly new ICU admissions,426.0,Chile
+2021-07-26,Weekly new ICU admissions,402.0,Chile
+2021-07-27,Weekly new ICU admissions,398.0,Chile
+2021-07-28,Weekly new ICU admissions,369.0,Chile
+2021-07-29,Weekly new ICU admissions,349.0,Chile
+2021-07-30,Weekly new ICU admissions,321.0,Chile
+2021-07-31,Weekly new ICU admissions,325.0,Chile
+2021-08-01,Weekly new ICU admissions,307.0,Chile
+2021-08-02,Weekly new ICU admissions,310.0,Chile
+2021-08-03,Weekly new ICU admissions,304.0,Chile
+2021-08-04,Weekly new ICU admissions,315.0,Chile
+2021-08-05,Weekly new ICU admissions,310.0,Chile
+2021-08-06,Weekly new ICU admissions,313.0,Chile
+2021-08-07,Weekly new ICU admissions,304.0,Chile
+2021-08-08,Weekly new ICU admissions,301.0,Chile
+2021-08-09,Weekly new ICU admissions,288.0,Chile
+2021-08-10,Weekly new ICU admissions,281.0,Chile
+2021-08-11,Weekly new ICU admissions,276.0,Chile
+2021-08-12,Weekly new ICU admissions,278.0,Chile
+2021-08-13,Weekly new ICU admissions,270.0,Chile
+2021-08-14,Weekly new ICU admissions,278.0,Chile
+2021-08-15,Weekly new ICU admissions,270.0,Chile
+2021-08-16,Weekly new ICU admissions,267.0,Chile
+2021-08-17,Weekly new ICU admissions,266.0,Chile
+2021-08-18,Weekly new ICU admissions,255.0,Chile
+2021-08-19,Weekly new ICU admissions,255.0,Chile
+2021-08-20,Weekly new ICU admissions,237.0,Chile
+2021-08-21,Weekly new ICU admissions,213.0,Chile
+2021-08-22,Weekly new ICU admissions,216.0,Chile
+2021-08-23,Weekly new ICU admissions,217.0,Chile
+2021-08-24,Weekly new ICU admissions,211.0,Chile
+2021-08-25,Weekly new ICU admissions,204.0,Chile
+2021-08-26,Weekly new ICU admissions,186.0,Chile
+2021-08-27,Weekly new ICU admissions,193.0,Chile
+2021-08-28,Weekly new ICU admissions,190.0,Chile
+2021-08-29,Weekly new ICU admissions,169.0,Chile
+2021-08-30,Weekly new ICU admissions,164.0,Chile
+2021-08-31,Weekly new ICU admissions,163.0,Chile
+2021-09-01,Weekly new ICU admissions,155.0,Chile
+2021-09-02,Weekly new ICU admissions,148.0,Chile
+2021-09-03,Weekly new ICU admissions,138.0,Chile
+2021-09-04,Weekly new ICU admissions,132.0,Chile
+2021-09-05,Weekly new ICU admissions,140.0,Chile
+2021-09-06,Weekly new ICU admissions,141.0,Chile
+2021-09-07,Weekly new ICU admissions,141.0,Chile
+2021-09-08,Weekly new ICU admissions,145.0,Chile
+2021-09-09,Weekly new ICU admissions,147.0,Chile
+2021-09-10,Weekly new ICU admissions,147.0,Chile
+2021-09-11,Weekly new ICU admissions,144.0,Chile
+2021-09-12,Weekly new ICU admissions,137.0,Chile
+2021-09-13,Weekly new ICU admissions,135.0,Chile
+2021-09-14,Weekly new ICU admissions,135.0,Chile
+2021-09-15,Weekly new ICU admissions,129.0,Chile
+2021-09-16,Weekly new ICU admissions,122.0,Chile
+2021-09-17,Weekly new ICU admissions,121.0,Chile
+2021-09-18,Weekly new ICU admissions,118.0,Chile
+2021-09-19,Weekly new ICU admissions,114.0,Chile
+2021-09-20,Weekly new ICU admissions,108.0,Chile
+2021-09-21,Weekly new ICU admissions,104.0,Chile
+2021-09-22,Weekly new ICU admissions,106.0,Chile
+2021-09-23,Weekly new ICU admissions,104.0,Chile
+2021-09-24,Weekly new ICU admissions,110.0,Chile
+2021-09-25,Weekly new ICU admissions,103.0,Chile
+2021-09-26,Weekly new ICU admissions,104.0,Chile
+2021-09-27,Weekly new ICU admissions,102.0,Chile
+2021-09-28,Weekly new ICU admissions,103.0,Chile
+2021-09-29,Weekly new ICU admissions,104.0,Chile
+2021-09-30,Weekly new ICU admissions,99.0,Chile
+2021-10-01,Weekly new ICU admissions,94.0,Chile
+2021-10-02,Weekly new ICU admissions,105.0,Chile
+2021-10-03,Weekly new ICU admissions,108.0,Chile
+2021-10-04,Weekly new ICU admissions,120.0,Chile
+2021-10-05,Weekly new ICU admissions,120.0,Chile
+2021-10-06,Weekly new ICU admissions,117.0,Chile
+2021-10-07,Weekly new ICU admissions,131.0,Chile
+2021-10-08,Weekly new ICU admissions,132.0,Chile
+2021-10-09,Weekly new ICU admissions,126.0,Chile
+2021-10-10,Weekly new ICU admissions,122.0,Chile
+2021-10-11,Weekly new ICU admissions,118.0,Chile
+2021-10-12,Weekly new ICU admissions,117.0,Chile
+2021-10-13,Weekly new ICU admissions,108.0,Chile
+2021-10-14,Weekly new ICU admissions,126.0,Chile
+2021-10-15,Weekly new ICU admissions,135.0,Chile
+2021-10-16,Weekly new ICU admissions,147.0,Chile
+2021-10-17,Weekly new ICU admissions,155.0,Chile
+2021-10-18,Weekly new ICU admissions,150.0,Chile
+2021-10-19,Weekly new ICU admissions,156.0,Chile
+2021-10-20,Weekly new ICU admissions,181.0,Chile
+2021-10-21,Weekly new ICU admissions,172.0,Chile
+2021-10-22,Weekly new ICU admissions,186.0,Chile
+2021-10-23,Weekly new ICU admissions,187.0,Chile
+2021-10-24,Weekly new ICU admissions,191.0,Chile
+2021-10-25,Weekly new ICU admissions,198.0,Chile
+2021-10-26,Weekly new ICU admissions,198.0,Chile
+2021-10-27,Weekly new ICU admissions,201.0,Chile
+2021-10-28,Weekly new ICU admissions,198.0,Chile
+2021-10-29,Weekly new ICU admissions,193.0,Chile
+2021-10-30,Weekly new ICU admissions,201.0,Chile
+2021-10-31,Weekly new ICU admissions,206.0,Chile
+2021-11-01,Weekly new ICU admissions,213.0,Chile
+2021-11-02,Weekly new ICU admissions,216.0,Chile
+2021-11-03,Weekly new ICU admissions,190.0,Chile
+2021-11-04,Weekly new ICU admissions,212.0,Chile
+2021-11-05,Weekly new ICU admissions,215.0,Chile
+2021-11-06,Weekly new ICU admissions,214.0,Chile
+2021-11-07,Weekly new ICU admissions,219.0,Chile
+2021-11-08,Weekly new ICU admissions,218.0,Chile
+2021-11-09,Weekly new ICU admissions,222.0,Chile
+2021-11-10,Weekly new ICU admissions,255.0,Chile
+2021-11-11,Weekly new ICU admissions,240.0,Chile
+2021-11-12,Weekly new ICU admissions,241.0,Chile
+2021-11-13,Weekly new ICU admissions,259.0,Chile
+2021-11-14,Weekly new ICU admissions,259.0,Chile
+2021-11-15,Weekly new ICU admissions,257.0,Chile
+2021-11-16,Weekly new ICU admissions,256.0,Chile
+2021-11-17,Weekly new ICU admissions,247.0,Chile
+2021-11-18,Weekly new ICU admissions,264.0,Chile
+2021-11-19,Weekly new ICU admissions,279.0,Chile
+2021-11-20,Weekly new ICU admissions,263.0,Chile
+2021-11-21,Weekly new ICU admissions,259.0,Chile
+2021-11-22,Weekly new ICU admissions,263.0,Chile
+2021-11-23,Weekly new ICU admissions,271.0,Chile
+2021-11-24,Weekly new ICU admissions,279.0,Chile
+2021-11-25,Weekly new ICU admissions,276.0,Chile
+2021-11-26,Weekly new ICU admissions,259.0,Chile
+2021-11-27,Weekly new ICU admissions,258.0,Chile
+2021-11-28,Weekly new ICU admissions,268.0,Chile
+2021-11-29,Weekly new ICU admissions,264.0,Chile
+2021-11-30,Weekly new ICU admissions,253.0,Chile
+2021-12-01,Weekly new ICU admissions,252.0,Chile
+2021-12-02,Weekly new ICU admissions,248.0,Chile
+2021-12-03,Weekly new ICU admissions,257.0,Chile
+2021-12-04,Weekly new ICU admissions,257.0,Chile
+2021-12-05,Weekly new ICU admissions,253.0,Chile
+2021-12-06,Weekly new ICU admissions,255.0,Chile
+2021-12-07,Weekly new ICU admissions,257.0,Chile
+2021-12-08,Weekly new ICU admissions,259.0,Chile
+2021-12-09,Weekly new ICU admissions,245.0,Chile
+2021-12-10,Weekly new ICU admissions,223.0,Chile
+2021-12-11,Weekly new ICU admissions,230.0,Chile
+2021-12-12,Weekly new ICU admissions,220.0,Chile
+2021-12-13,Weekly new ICU admissions,216.0,Chile
+2021-12-14,Weekly new ICU admissions,215.0,Chile
+2021-12-15,Weekly new ICU admissions,196.0,Chile
+2021-12-16,Weekly new ICU admissions,203.0,Chile
+2021-12-17,Weekly new ICU admissions,208.0,Chile
+2021-12-18,Weekly new ICU admissions,187.0,Chile
+2021-12-19,Weekly new ICU admissions,175.0,Chile
+2021-12-20,Weekly new ICU admissions,179.0,Chile
+2021-12-21,Weekly new ICU admissions,165.0,Chile
+2021-12-22,Weekly new ICU admissions,163.0,Chile
+2021-12-23,Weekly new ICU admissions,153.0,Chile
+2021-12-24,Weekly new ICU admissions,145.0,Chile
+2021-12-25,Weekly new ICU admissions,140.0,Chile
+2021-12-26,Weekly new ICU admissions,142.0,Chile
+2021-12-27,Weekly new ICU admissions,133.0,Chile
+2021-12-28,Weekly new ICU admissions,137.0,Chile
+2021-12-29,Weekly new ICU admissions,137.0,Chile
+2021-12-30,Weekly new ICU admissions,130.0,Chile
+2021-12-31,Weekly new ICU admissions,126.0,Chile
+2022-01-01,Weekly new ICU admissions,131.0,Chile
+2022-01-02,Weekly new ICU admissions,135.0,Chile
+2022-01-03,Weekly new ICU admissions,131.0,Chile
+2022-01-04,Weekly new ICU admissions,134.0,Chile
+2022-01-05,Weekly new ICU admissions,137.0,Chile
+2022-01-06,Weekly new ICU admissions,139.0,Chile
+2022-01-07,Weekly new ICU admissions,136.0,Chile
+2022-01-08,Weekly new ICU admissions,130.0,Chile
+2022-01-09,Weekly new ICU admissions,128.0,Chile
+2022-01-10,Weekly new ICU admissions,129.0,Chile
+2022-01-11,Weekly new ICU admissions,131.0,Chile
+2022-01-12,Weekly new ICU admissions,125.0,Chile
+2022-01-13,Weekly new ICU admissions,115.0,Chile
+2022-01-14,Weekly new ICU admissions,118.0,Chile
+2022-01-15,Weekly new ICU admissions,115.0,Chile
+2022-01-16,Weekly new ICU admissions,113.0,Chile
+2022-01-17,Weekly new ICU admissions,118.0,Chile
+2022-01-18,Weekly new ICU admissions,115.0,Chile
+2022-01-19,Weekly new ICU admissions,120.0,Chile
+2022-01-20,Weekly new ICU admissions,137.0,Chile
+2022-01-21,Weekly new ICU admissions,137.0,Chile
+2022-01-22,Weekly new ICU admissions,148.0,Chile
+2022-01-23,Weekly new ICU admissions,152.0,Chile
+2022-01-24,Weekly new ICU admissions,154.0,Chile
+2022-01-25,Weekly new ICU admissions,154.0,Chile
+2022-01-26,Weekly new ICU admissions,152.0,Chile
+2022-01-27,Weekly new ICU admissions,151.0,Chile
+2022-01-28,Weekly new ICU admissions,162.0,Chile
+2022-01-29,Weekly new ICU admissions,167.0,Chile
+2022-01-30,Weekly new ICU admissions,177.0,Chile
+2022-01-31,Weekly new ICU admissions,176.0,Chile
+2022-02-01,Weekly new ICU admissions,197.0,Chile
+2022-02-02,Weekly new ICU admissions,244.0,Chile
+2022-02-03,Weekly new ICU admissions,264.0,Chile
+2022-02-04,Weekly new ICU admissions,286.0,Chile
+2022-02-05,Weekly new ICU admissions,305.0,Chile
+2022-02-06,Weekly new ICU admissions,343.0,Chile
+2022-02-07,Weekly new ICU admissions,379.0,Chile
+2022-02-08,Weekly new ICU admissions,388.0,Chile
+2022-02-09,Weekly new ICU admissions,410.0,Chile
+2022-02-10,Weekly new ICU admissions,436.0,Chile
+2022-02-11,Weekly new ICU admissions,459.0,Chile
+2022-02-12,Weekly new ICU admissions,477.0,Chile
+2022-02-13,Weekly new ICU admissions,475.0,Chile
+2022-02-14,Weekly new ICU admissions,474.0,Chile
+2022-02-15,Weekly new ICU admissions,468.0,Chile
+2022-02-16,Weekly new ICU admissions,484.0,Chile
+2022-02-17,Weekly new ICU admissions,499.0,Chile
+2022-02-18,Weekly new ICU admissions,496.0,Chile
+2022-02-19,Weekly new ICU admissions,508.0,Chile
+2022-02-20,Weekly new ICU admissions,503.0,Chile
+2022-02-21,Weekly new ICU admissions,495.0,Chile
+2022-02-22,Weekly new ICU admissions,509.0,Chile
+2022-02-23,Weekly new ICU admissions,498.0,Chile
+2022-02-24,Weekly new ICU admissions,494.0,Chile
+2022-02-25,Weekly new ICU admissions,510.0,Chile
+2022-02-26,Weekly new ICU admissions,507.0,Chile
+2022-02-27,Weekly new ICU admissions,499.0,Chile
+2022-02-28,Weekly new ICU admissions,493.0,Chile
+2022-03-01,Weekly new ICU admissions,493.0,Chile
+2022-03-02,Weekly new ICU admissions,462.0,Chile
+2022-03-03,Weekly new ICU admissions,459.0,Chile
+2022-03-04,Weekly new ICU admissions,428.0,Chile
+2022-03-05,Weekly new ICU admissions,418.0,Chile
+2022-03-06,Weekly new ICU admissions,448.0,Chile
+2022-03-07,Weekly new ICU admissions,436.0,Chile
+2022-03-08,Weekly new ICU admissions,417.0,Chile
+2022-03-09,Weekly new ICU admissions,401.0,Chile
+2022-03-10,Weekly new ICU admissions,366.0,Chile
+2022-03-11,Weekly new ICU admissions,359.0,Chile
+2022-03-12,Weekly new ICU admissions,328.0,Chile
+2022-03-13,Weekly new ICU admissions,283.0,Chile
+2022-03-14,Weekly new ICU admissions,281.0,Chile
+2022-03-15,Weekly new ICU admissions,273.0,Chile
+2022-03-16,Weekly new ICU admissions,268.0,Chile
+2022-03-17,Weekly new ICU admissions,260.0,Chile
+2022-03-18,Weekly new ICU admissions,253.0,Chile
+2022-03-19,Weekly new ICU admissions,243.0,Chile
+2022-03-20,Weekly new ICU admissions,229.0,Chile
+2022-03-21,Weekly new ICU admissions,225.0,Chile
+2022-03-22,Weekly new ICU admissions,217.0,Chile
+2022-03-23,Weekly new ICU admissions,196.0,Chile
+2022-03-24,Weekly new ICU admissions,174.0,Chile
+2022-03-25,Weekly new ICU admissions,184.0,Chile
+2022-03-26,Weekly new ICU admissions,176.0,Chile
+2022-03-27,Weekly new ICU admissions,170.0,Chile
+2022-03-28,Weekly new ICU admissions,165.0,Chile
+2022-03-29,Weekly new ICU admissions,156.0,Chile
+2022-03-30,Weekly new ICU admissions,142.0,Chile
+2022-03-31,Weekly new ICU admissions,133.0,Chile
+2022-04-01,Weekly new ICU admissions,120.0,Chile
+2022-04-02,Weekly new ICU admissions,128.0,Chile
+2022-04-03,Weekly new ICU admissions,131.0,Chile
+2022-04-04,Weekly new ICU admissions,132.0,Chile
+2022-04-05,Weekly new ICU admissions,128.0,Chile
+2022-04-06,Weekly new ICU admissions,121.0,Chile
+2022-04-07,Weekly new ICU admissions,118.0,Chile
+2022-04-08,Weekly new ICU admissions,102.0,Chile
+2022-04-09,Weekly new ICU admissions,98.0,Chile
+2022-04-10,Weekly new ICU admissions,90.0,Chile
+2022-04-11,Weekly new ICU admissions,83.0,Chile
+2022-04-12,Weekly new ICU admissions,72.0,Chile
+2022-04-13,Weekly new ICU admissions,77.0,Chile
+2022-04-14,Weekly new ICU admissions,75.0,Chile
+2022-04-15,Weekly new ICU admissions,77.0,Chile
+2022-04-16,Weekly new ICU admissions,63.0,Chile
+2022-04-17,Weekly new ICU admissions,60.0,Chile
+2022-04-18,Weekly new ICU admissions,60.0,Chile
+2022-04-19,Weekly new ICU admissions,69.0,Chile
+2022-04-20,Weekly new ICU admissions,58.0,Chile
+2022-04-21,Weekly new ICU admissions,57.0,Chile
+2022-04-22,Weekly new ICU admissions,58.0,Chile
+2022-04-23,Weekly new ICU admissions,58.0,Chile
+2022-04-24,Weekly new ICU admissions,59.0,Chile
+2022-04-25,Weekly new ICU admissions,59.0,Chile
+2022-04-26,Weekly new ICU admissions,54.0,Chile
+2022-04-27,Weekly new ICU admissions,54.0,Chile
+2022-04-28,Weekly new ICU admissions,51.0,Chile
+2022-04-29,Weekly new ICU admissions,51.0,Chile
+2022-04-30,Weekly new ICU admissions,48.0,Chile
+2022-05-01,Weekly new ICU admissions,46.0,Chile
+2022-05-02,Weekly new ICU admissions,47.0,Chile
+2022-05-03,Weekly new ICU admissions,41.0,Chile
+2022-05-04,Weekly new ICU admissions,40.0,Chile
+2022-05-05,Weekly new ICU admissions,35.0,Chile
+2022-05-06,Weekly new ICU admissions,34.0,Chile
+2022-05-07,Weekly new ICU admissions,34.0,Chile
+2022-05-08,Weekly new ICU admissions,34.0,Chile
+2022-05-09,Weekly new ICU admissions,31.0,Chile
+2022-05-10,Weekly new ICU admissions,33.0,Chile
+2022-05-11,Weekly new ICU admissions,36.0,Chile
+2022-05-12,Weekly new ICU admissions,40.0,Chile
+2022-05-13,Weekly new ICU admissions,40.0,Chile
+2022-05-14,Weekly new ICU admissions,40.0,Chile
+2022-05-15,Weekly new ICU admissions,41.0,Chile
+2022-05-16,Weekly new ICU admissions,44.0,Chile
+2022-05-17,Weekly new ICU admissions,49.0,Chile
+2022-05-18,Weekly new ICU admissions,49.0,Chile
+2022-05-19,Weekly new ICU admissions,50.0,Chile
+2022-05-20,Weekly new ICU admissions,47.0,Chile
+2022-05-21,Weekly new ICU admissions,49.0,Chile
+2022-05-22,Weekly new ICU admissions,48.0,Chile
+2022-05-23,Weekly new ICU admissions,47.0,Chile
+2022-05-24,Weekly new ICU admissions,43.0,Chile
+2022-05-25,Weekly new ICU admissions,45.0,Chile
+2022-05-26,Weekly new ICU admissions,49.0,Chile
+2022-05-27,Weekly new ICU admissions,49.0,Chile
+2022-05-28,Weekly new ICU admissions,50.0,Chile
+2022-05-29,Weekly new ICU admissions,51.0,Chile
+2022-05-30,Weekly new ICU admissions,56.0,Chile
+2022-05-31,Weekly new ICU admissions,62.0,Chile
+2022-06-01,Weekly new ICU admissions,61.0,Chile
+2022-06-02,Weekly new ICU admissions,80.0,Chile
+2022-06-03,Weekly new ICU admissions,86.0,Chile
+2022-06-04,Weekly new ICU admissions,91.0,Chile
+2022-06-05,Weekly new ICU admissions,100.0,Chile
+2022-06-06,Weekly new ICU admissions,97.0,Chile
+2022-06-07,Weekly new ICU admissions,105.0,Chile
+2022-06-08,Weekly new ICU admissions,108.0,Chile
+2022-06-09,Weekly new ICU admissions,87.0,Chile
+2022-06-10,Weekly new ICU admissions,89.0,Chile
+2022-06-11,Weekly new ICU admissions,90.0,Chile
+2022-06-12,Weekly new ICU admissions,87.0,Chile
+2022-06-13,Weekly new ICU admissions,86.0,Chile
+2022-06-14,Weekly new ICU admissions,86.0,Chile
+2022-06-15,Weekly new ICU admissions,87.0,Chile
+2022-06-16,Weekly new ICU admissions,89.0,Chile
+2022-06-17,Weekly new ICU admissions,94.0,Chile
+2022-06-18,Weekly new ICU admissions,98.0,Chile
+2022-06-19,Weekly new ICU admissions,98.0,Chile
+2022-06-20,Weekly new ICU admissions,98.0,Chile
+2022-06-21,Weekly new ICU admissions,91.0,Chile
+2022-06-22,Weekly new ICU admissions,87.0,Chile
+2022-06-23,Weekly new ICU admissions,97.0,Chile
+2022-06-24,Weekly new ICU admissions,89.0,Chile
+2022-06-25,Weekly new ICU admissions,86.0,Chile
+2022-06-26,Weekly new ICU admissions,85.0,Chile
+2022-06-27,Weekly new ICU admissions,87.0,Chile
+2022-06-28,Weekly new ICU admissions,75.0,Chile
+2022-06-29,Weekly new ICU admissions,82.0,Chile
+2022-06-30,Weekly new ICU admissions,81.0,Chile
+2022-07-01,Weekly new ICU admissions,89.0,Chile
+2022-07-02,Weekly new ICU admissions,97.0,Chile
+2022-07-03,Weekly new ICU admissions,95.0,Chile
+2022-07-04,Weekly new ICU admissions,102.0,Chile
+2022-07-05,Weekly new ICU admissions,116.0,Chile
+2022-07-06,Weekly new ICU admissions,119.0,Chile
+2022-07-07,Weekly new ICU admissions,116.0,Chile
+2022-07-08,Weekly new ICU admissions,113.0,Chile
+2022-07-09,Weekly new ICU admissions,96.0,Chile
+2022-07-10,Weekly new ICU admissions,100.0,Chile
+2022-07-11,Weekly new ICU admissions,96.0,Chile
+2022-07-12,Weekly new ICU admissions,99.0,Chile
+2022-07-13,Weekly new ICU admissions,99.0,Chile
+2022-07-14,Weekly new ICU admissions,94.0,Chile
+2022-07-15,Weekly new ICU admissions,93.0,Chile
+2022-07-16,Weekly new ICU admissions,106.0,Chile
+2022-07-17,Weekly new ICU admissions,102.0,Chile
+2022-07-18,Weekly new ICU admissions,97.0,Chile
+2022-07-19,Weekly new ICU admissions,91.0,Chile
+2022-07-20,Weekly new ICU admissions,81.0,Chile
+2022-07-21,Weekly new ICU admissions,84.0,Chile
+2022-07-22,Weekly new ICU admissions,83.0,Chile
+2022-07-23,Weekly new ICU admissions,81.0,Chile
+2022-07-24,Weekly new ICU admissions,78.0,Chile
+2022-07-25,Weekly new ICU admissions,79.0,Chile
+2022-07-26,Weekly new ICU admissions,78.0,Chile
+2022-07-27,Weekly new ICU admissions,93.0,Chile
+2022-07-28,Weekly new ICU admissions,92.0,Chile
+2022-07-29,Weekly new ICU admissions,94.0,Chile
+2022-07-30,Weekly new ICU admissions,88.0,Chile
+2022-07-31,Weekly new ICU admissions,93.0,Chile
+2022-08-01,Weekly new ICU admissions,96.0,Chile
+2022-08-02,Weekly new ICU admissions,93.0,Chile
+2022-08-03,Weekly new ICU admissions,87.0,Chile
+2022-08-04,Weekly new ICU admissions,82.0,Chile
+2022-08-05,Weekly new ICU admissions,85.0,Chile
+2022-08-06,Weekly new ICU admissions,84.0,Chile
+2022-08-07,Weekly new ICU admissions,81.0,Chile
+2022-08-08,Weekly new ICU admissions,79.0,Chile
+2022-08-09,Weekly new ICU admissions,81.0,Chile
+2022-08-10,Weekly new ICU admissions,73.0,Chile
+2022-08-11,Weekly new ICU admissions,78.0,Chile
+2022-08-12,Weekly new ICU admissions,70.0,Chile
+2022-08-13,Weekly new ICU admissions,71.0,Chile
+2022-08-14,Weekly new ICU admissions,71.0,Chile
+2022-08-15,Weekly new ICU admissions,69.0,Chile
+2022-08-16,Weekly new ICU admissions,60.0,Chile
+2022-08-17,Weekly new ICU admissions,66.0,Chile
+2022-08-18,Weekly new ICU admissions,63.0,Chile
+2022-08-19,Weekly new ICU admissions,67.0,Chile
+2022-08-20,Weekly new ICU admissions,67.0,Chile
+2022-08-21,Weekly new ICU admissions,72.0,Chile
+2022-08-22,Weekly new ICU admissions,75.0,Chile
+2022-08-23,Weekly new ICU admissions,89.0,Chile
+2022-08-24,Weekly new ICU admissions,83.0,Chile
+2022-08-25,Weekly new ICU admissions,82.0,Chile
+2022-08-26,Weekly new ICU admissions,81.0,Chile
+2022-08-27,Weekly new ICU admissions,72.0,Chile
+2022-08-28,Weekly new ICU admissions,67.0,Chile
+2022-08-29,Weekly new ICU admissions,66.0,Chile
+2022-08-30,Weekly new ICU admissions,55.0,Chile
+2022-08-31,Weekly new ICU admissions,57.0,Chile
+2022-09-01,Weekly new ICU admissions,53.0,Chile
+2022-09-02,Weekly new ICU admissions,61.0,Chile
+2022-09-03,Weekly new ICU admissions,68.0,Chile
+2022-09-04,Weekly new ICU admissions,65.0,Chile
+2022-09-05,Weekly new ICU admissions,63.0,Chile
+2022-09-06,Weekly new ICU admissions,69.0,Chile
+2022-09-07,Weekly new ICU admissions,67.0,Chile
+2022-09-08,Weekly new ICU admissions,69.0,Chile
+2022-09-09,Weekly new ICU admissions,61.0,Chile
+2022-09-10,Weekly new ICU admissions,62.0,Chile
+2022-09-11,Weekly new ICU admissions,67.0,Chile
+2022-09-12,Weekly new ICU admissions,64.0,Chile
+2022-09-13,Weekly new ICU admissions,57.0,Chile
+2022-09-14,Weekly new ICU admissions,56.0,Chile
+2022-09-15,Weekly new ICU admissions,57.0,Chile
+2022-09-16,Weekly new ICU admissions,51.0,Chile
+2022-09-17,Weekly new ICU admissions,45.0,Chile
+2022-09-18,Weekly new ICU admissions,41.0,Chile
+2022-09-19,Weekly new ICU admissions,49.0,Chile
+2022-09-20,Weekly new ICU admissions,47.0,Chile
+2022-09-21,Weekly new ICU admissions,50.0,Chile
+2022-09-22,Weekly new ICU admissions,49.0,Chile
+2022-09-23,Weekly new ICU admissions,46.0,Chile
+2022-09-24,Weekly new ICU admissions,49.0,Chile
+2022-09-25,Weekly new ICU admissions,50.0,Chile
+2022-09-26,Weekly new ICU admissions,47.0,Chile
+2022-09-27,Weekly new ICU admissions,53.0,Chile
+2022-09-28,Weekly new ICU admissions,53.0,Chile
+2022-09-29,Weekly new ICU admissions,58.0,Chile
+2022-09-30,Weekly new ICU admissions,62.0,Chile
+2022-10-01,Weekly new ICU admissions,61.0,Chile
+2022-10-02,Weekly new ICU admissions,64.0,Chile
+2022-10-03,Weekly new ICU admissions,59.0,Chile
+2022-10-04,Weekly new ICU admissions,58.0,Chile
+2022-10-05,Weekly new ICU admissions,55.0,Chile
+2022-10-06,Weekly new ICU admissions,47.0,Chile
+2022-10-07,Weekly new ICU admissions,45.0,Chile
+2022-10-08,Weekly new ICU admissions,50.0,Chile
+2022-10-09,Weekly new ICU admissions,45.0,Chile
+2022-10-10,Weekly new ICU admissions,45.0,Chile
+2022-10-11,Weekly new ICU admissions,35.0,Chile
+2022-10-12,Weekly new ICU admissions,34.0,Chile
+2022-10-13,Weekly new ICU admissions,37.0,Chile
+2022-10-14,Weekly new ICU admissions,34.0,Chile
+2022-10-15,Weekly new ICU admissions,30.0,Chile
+2022-10-16,Weekly new ICU admissions,28.0,Chile
+2022-10-17,Weekly new ICU admissions,28.0,Chile
+2022-10-18,Weekly new ICU admissions,36.0,Chile
+2022-10-19,Weekly new ICU admissions,37.0,Chile
+2022-10-20,Weekly new ICU admissions,35.0,Chile
+2022-10-21,Weekly new ICU admissions,45.0,Chile
+2022-10-22,Weekly new ICU admissions,51.0,Chile
+2022-10-23,Weekly new ICU admissions,54.0,Chile
+2022-10-24,Weekly new ICU admissions,56.0,Chile
+2022-10-25,Weekly new ICU admissions,58.0,Chile
+2022-10-26,Weekly new ICU admissions,63.0,Chile
+2022-10-27,Weekly new ICU admissions,63.0,Chile
+2022-10-28,Weekly new ICU admissions,60.0,Chile
+2022-10-29,Weekly new ICU admissions,55.0,Chile
+2022-10-30,Weekly new ICU admissions,56.0,Chile
+2022-10-31,Weekly new ICU admissions,64.0,Chile
+2022-11-01,Weekly new ICU admissions,57.0,Chile
+2022-11-02,Weekly new ICU admissions,49.0,Chile
+2022-11-03,Weekly new ICU admissions,53.0,Chile
+2022-11-04,Weekly new ICU admissions,51.0,Chile
+2022-11-05,Weekly new ICU admissions,62.0,Chile
+2022-11-06,Weekly new ICU admissions,61.0,Chile
+2022-11-07,Weekly new ICU admissions,51.0,Chile
+2022-11-08,Weekly new ICU admissions,64.0,Chile
+2022-11-09,Weekly new ICU admissions,71.0,Chile
+2022-11-10,Weekly new ICU admissions,75.0,Chile
+2022-11-11,Weekly new ICU admissions,84.0,Chile
+2022-11-12,Weekly new ICU admissions,75.0,Chile
+2022-11-13,Weekly new ICU admissions,76.0,Chile
+2022-11-14,Weekly new ICU admissions,77.0,Chile
+2022-11-15,Weekly new ICU admissions,77.0,Chile
+2022-11-16,Weekly new ICU admissions,78.0,Chile
+2022-11-17,Weekly new ICU admissions,76.0,Chile
+2022-11-18,Weekly new ICU admissions,73.0,Chile
+2022-11-19,Weekly new ICU admissions,83.0,Chile
+2022-11-20,Weekly new ICU admissions,88.0,Chile
+2022-11-21,Weekly new ICU admissions,89.0,Chile
+2022-11-22,Weekly new ICU admissions,88.0,Chile
+2022-11-23,Weekly new ICU admissions,89.0,Chile
+2022-11-24,Weekly new ICU admissions,85.0,Chile
+2022-11-25,Weekly new ICU admissions,81.0,Chile
+2022-11-26,Weekly new ICU admissions,71.0,Chile
+2022-11-27,Weekly new ICU admissions,67.0,Chile
+2022-11-28,Weekly new ICU admissions,63.0,Chile
+2022-11-29,Weekly new ICU admissions,60.0,Chile
+2022-11-30,Weekly new ICU admissions,54.0,Chile
+2022-12-01,Weekly new ICU admissions,53.0,Chile
+2022-12-02,Weekly new ICU admissions,53.0,Chile
+2022-12-03,Weekly new ICU admissions,48.0,Chile
+2022-12-04,Weekly new ICU admissions,52.0,Chile
+2022-12-05,Weekly new ICU admissions,54.0,Chile
+2022-12-06,Weekly new ICU admissions,51.0,Chile
+2022-12-07,Weekly new ICU admissions,50.0,Chile
+2022-12-08,Weekly new ICU admissions,53.0,Chile
+2022-12-09,Weekly new ICU admissions,44.0,Chile
+2022-12-10,Weekly new ICU admissions,49.0,Chile
+2022-12-11,Weekly new ICU admissions,43.0,Chile
+2022-12-12,Weekly new ICU admissions,41.0,Chile
+2022-12-13,Weekly new ICU admissions,42.0,Chile
+2022-12-14,Weekly new ICU admissions,42.0,Chile
+2022-12-15,Weekly new ICU admissions,38.0,Chile
+2022-12-16,Weekly new ICU admissions,46.0,Chile
+2022-12-17,Weekly new ICU admissions,51.0,Chile
+2022-12-18,Weekly new ICU admissions,51.0,Chile
+2022-12-19,Weekly new ICU admissions,52.0,Chile
+2022-12-20,Weekly new ICU admissions,51.0,Chile
+2022-12-21,Weekly new ICU admissions,48.0,Chile
+2022-12-22,Weekly new ICU admissions,44.0,Chile
+2022-12-23,Weekly new ICU admissions,39.0,Chile
+2022-12-24,Weekly new ICU admissions,32.0,Chile
+2022-12-25,Weekly new ICU admissions,33.0,Chile
+2022-12-26,Weekly new ICU admissions,38.0,Chile
+2022-12-27,Weekly new ICU admissions,35.0,Chile
+2022-12-28,Weekly new ICU admissions,44.0,Chile
+2022-12-29,Weekly new ICU admissions,50.0,Chile
+2022-12-30,Weekly new ICU admissions,58.0,Chile
+2022-12-31,Weekly new ICU admissions,55.0,Chile
+2023-01-01,Weekly new ICU admissions,79.0,Chile
+2023-01-02,Weekly new ICU admissions,77.0,Chile
+2023-01-03,Weekly new ICU admissions,70.0,Chile
+2023-01-04,Weekly new ICU admissions,72.0,Chile
+2023-01-05,Weekly new ICU admissions,,Chile
+2023-01-06,Weekly new ICU admissions,,Chile
+2023-01-07,Weekly new ICU admissions,,Chile
+2023-01-08,Weekly new ICU admissions,,Chile
+2023-01-09,Weekly new ICU admissions,,Chile
+2023-01-10,Weekly new ICU admissions,,Chile
+2023-01-11,Weekly new ICU admissions,,Chile
+2023-01-12,Weekly new ICU admissions,,Chile
+2023-01-13,Weekly new ICU admissions,,Chile
+2023-01-14,Weekly new ICU admissions,,Chile
+2023-01-15,Weekly new ICU admissions,,Chile
+2023-01-16,Weekly new ICU admissions,,Chile
+2023-01-17,Weekly new ICU admissions,,Chile
+2023-01-18,Weekly new ICU admissions,,Chile
+2023-01-19,Weekly new ICU admissions,50.0,Chile
+2023-01-20,Weekly new ICU admissions,52.0,Chile
+2023-01-21,Weekly new ICU admissions,60.0,Chile
+2023-01-22,Weekly new ICU admissions,63.0,Chile
+2023-01-23,Weekly new ICU admissions,53.0,Chile
+2023-01-24,Weekly new ICU admissions,60.0,Chile
+2023-01-25,Weekly new ICU admissions,57.0,Chile
+2023-01-26,Weekly new ICU admissions,51.0,Chile
+2023-01-27,Weekly new ICU admissions,43.0,Chile
+2023-01-28,Weekly new ICU admissions,45.0,Chile
+2023-01-29,Weekly new ICU admissions,45.0,Chile
+2023-01-30,Weekly new ICU admissions,45.0,Chile
+2023-01-31,Weekly new ICU admissions,36.0,Chile
+2023-02-01,Weekly new ICU admissions,38.0,Chile
+2023-02-02,Weekly new ICU admissions,44.0,Chile
+2023-02-03,Weekly new ICU admissions,44.0,Chile
+2023-02-04,Weekly new ICU admissions,41.0,Chile
+2023-02-05,Weekly new ICU admissions,44.0,Chile
+2023-02-06,Weekly new ICU admissions,43.0,Chile
+2023-02-07,Weekly new ICU admissions,43.0,Chile
+2023-02-08,Weekly new ICU admissions,39.0,Chile
+2023-02-09,Weekly new ICU admissions,35.0,Chile
+2023-02-10,Weekly new ICU admissions,33.0,Chile
+2023-02-11,Weekly new ICU admissions,33.0,Chile
+2023-02-12,Weekly new ICU admissions,27.0,Chile
+2023-02-13,Weekly new ICU admissions,29.0,Chile
+2023-02-14,Weekly new ICU admissions,29.0,Chile
+2023-02-15,Weekly new ICU admissions,32.0,Chile
+2023-02-16,Weekly new ICU admissions,32.0,Chile
+2023-02-17,Weekly new ICU admissions,33.0,Chile
+2023-02-18,Weekly new ICU admissions,30.0,Chile
+2023-02-19,Weekly new ICU admissions,31.0,Chile
+2023-02-20,Weekly new ICU admissions,28.0,Chile
+2023-02-21,Weekly new ICU admissions,27.0,Chile
+2023-02-22,Weekly new ICU admissions,24.0,Chile
+2023-02-23,Weekly new ICU admissions,23.0,Chile
+2023-02-24,Weekly new ICU admissions,23.0,Chile
+2023-02-25,Weekly new ICU admissions,26.0,Chile
+2023-02-26,Weekly new ICU admissions,28.0,Chile
+2023-02-27,Weekly new ICU admissions,28.0,Chile
+2023-02-28,Weekly new ICU admissions,31.0,Chile
+2023-03-01,Weekly new ICU admissions,35.0,Chile
+2023-03-02,Weekly new ICU admissions,35.0,Chile
+2023-03-03,Weekly new ICU admissions,32.0,Chile
+2023-03-04,Weekly new ICU admissions,29.0,Chile
+2023-03-05,Weekly new ICU admissions,26.0,Chile
+2023-03-06,Weekly new ICU admissions,26.0,Chile
+2023-03-07,Weekly new ICU admissions,31.0,Chile
+2023-03-08,Weekly new ICU admissions,31.0,Chile
+2023-03-09,Weekly new ICU admissions,35.0,Chile
+2023-03-10,Weekly new ICU admissions,39.0,Chile
+2023-03-11,Weekly new ICU admissions,41.0,Chile
+2023-03-12,Weekly new ICU admissions,45.0,Chile
+2023-03-13,Weekly new ICU admissions,46.0,Chile
+2023-03-14,Weekly new ICU admissions,39.0,Chile
+2023-03-15,Weekly new ICU admissions,36.0,Chile
+2023-03-16,Weekly new ICU admissions,35.0,Chile
+2023-03-17,Weekly new ICU admissions,36.0,Chile
+2023-03-18,Weekly new ICU admissions,37.0,Chile
+2023-03-19,Weekly new ICU admissions,37.0,Chile
+2023-03-20,Weekly new ICU admissions,39.0,Chile
+2023-03-21,Weekly new ICU admissions,40.0,Chile
+2023-03-22,Weekly new ICU admissions,42.0,Chile
+2023-03-23,Weekly new ICU admissions,40.0,Chile
+2023-03-24,Weekly new ICU admissions,38.0,Chile
+2023-03-25,Weekly new ICU admissions,39.0,Chile
+2023-03-26,Weekly new ICU admissions,38.0,Chile
+2023-03-27,Weekly new ICU admissions,35.0,Chile
+2023-03-28,Weekly new ICU admissions,36.0,Chile
+2023-03-29,Weekly new ICU admissions,32.0,Chile
+2023-03-30,Weekly new ICU admissions,33.0,Chile
+2023-03-31,Weekly new ICU admissions,34.0,Chile
+2023-04-01,Weekly new ICU admissions,30.0,Chile
+2023-04-02,Weekly new ICU admissions,34.0,Chile
+2023-04-03,Weekly new ICU admissions,37.0,Chile
+2023-04-04,Weekly new ICU admissions,37.0,Chile
+2023-04-05,Weekly new ICU admissions,40.0,Chile
+2023-04-06,Weekly new ICU admissions,37.0,Chile
+2023-04-07,Weekly new ICU admissions,34.0,Chile
+2023-04-08,Weekly new ICU admissions,35.0,Chile
+2023-04-09,Weekly new ICU admissions,30.0,Chile
+2023-04-10,Weekly new ICU admissions,27.0,Chile
+2023-04-11,Weekly new ICU admissions,24.0,Chile
+2023-04-12,Weekly new ICU admissions,24.0,Chile
+2023-04-13,Weekly new ICU admissions,27.0,Chile
+2023-04-14,Weekly new ICU admissions,30.0,Chile
+2023-04-15,Weekly new ICU admissions,30.0,Chile
+2023-04-16,Weekly new ICU admissions,29.0,Chile
+2023-04-17,Weekly new ICU admissions,30.0,Chile
+2023-04-18,Weekly new ICU admissions,29.0,Chile
+2023-04-19,Weekly new ICU admissions,27.0,Chile
+2023-04-20,Weekly new ICU admissions,25.0,Chile
+2023-04-21,Weekly new ICU admissions,21.0,Chile
+2023-04-22,Weekly new ICU admissions,17.0,Chile
+2023-04-23,Weekly new ICU admissions,19.0,Chile
+2023-04-24,Weekly new ICU admissions,19.0,Chile
+2023-04-25,Weekly new ICU admissions,18.0,Chile
+2023-04-26,Weekly new ICU admissions,18.0,Chile
+2023-04-27,Weekly new ICU admissions,19.0,Chile
+2023-04-28,Weekly new ICU admissions,18.0,Chile
+2023-04-29,Weekly new ICU admissions,20.0,Chile
+2023-04-30,Weekly new ICU admissions,20.0,Chile
+2023-05-01,Weekly new ICU admissions,19.0,Chile
+2023-05-02,Weekly new ICU admissions,16.0,Chile
+2023-05-03,Weekly new ICU admissions,15.0,Chile
+2023-05-04,Weekly new ICU admissions,12.0,Chile
+2023-05-05,Weekly new ICU admissions,14.0,Chile
+2023-05-06,Weekly new ICU admissions,14.0,Chile
+2023-05-07,Weekly new ICU admissions,11.0,Chile
+2023-05-08,Weekly new ICU admissions,12.0,Chile
+2023-05-09,Weekly new ICU admissions,15.0,Chile
+2023-05-10,Weekly new ICU admissions,15.0,Chile
+2023-05-11,Weekly new ICU admissions,16.0,Chile
+2023-05-12,Weekly new ICU admissions,13.0,Chile
+2023-05-13,Weekly new ICU admissions,11.0,Chile
+2023-05-14,Weekly new ICU admissions,11.0,Chile
+2023-05-15,Weekly new ICU admissions,10.0,Chile
+2023-05-16,Weekly new ICU admissions,9.0,Chile
+2023-05-17,Weekly new ICU admissions,9.0,Chile
+2023-05-18,Weekly new ICU admissions,7.0,Chile
+2023-05-19,Weekly new ICU admissions,8.0,Chile
+2023-05-20,Weekly new ICU admissions,8.0,Chile
+2023-05-21,Weekly new ICU admissions,8.0,Chile
+2023-05-22,Weekly new ICU admissions,8.0,Chile
+2023-05-23,Weekly new ICU admissions,7.0,Chile
+2023-05-24,Weekly new ICU admissions,6.0,Chile
+2023-05-25,Weekly new ICU admissions,10.0,Chile
+2023-05-26,Weekly new ICU admissions,10.0,Chile
+2023-05-27,Weekly new ICU admissions,9.0,Chile
+2023-05-28,Weekly new ICU admissions,9.0,Chile
+2023-05-29,Weekly new ICU admissions,9.0,Chile
+2023-05-30,Weekly new ICU admissions,9.0,Chile
+2023-05-31,Weekly new ICU admissions,10.0,Chile
+2023-06-01,Weekly new ICU admissions,6.0,Chile
+2023-06-02,Weekly new ICU admissions,7.0,Chile
+2023-06-03,Weekly new ICU admissions,7.0,Chile
+2023-06-04,Weekly new ICU admissions,7.0,Chile
+2023-06-05,Weekly new ICU admissions,7.0,Chile
+2023-06-06,Weekly new ICU admissions,7.0,Chile
+2023-06-07,Weekly new ICU admissions,6.0,Chile
+2023-06-08,Weekly new ICU admissions,5.0,Chile
+2023-06-09,Weekly new ICU admissions,3.0,Chile
+2023-06-10,Weekly new ICU admissions,3.0,Chile
+2023-06-11,Weekly new ICU admissions,4.0,Chile
+2023-06-12,Weekly new ICU admissions,4.0,Chile
+2023-06-13,Weekly new ICU admissions,2.0,Chile
+2023-06-14,Weekly new ICU admissions,1.0,Chile
+2023-06-15,Weekly new ICU admissions,1.0,Chile
+2023-06-16,Weekly new ICU admissions,1.0,Chile
+2023-06-17,Weekly new ICU admissions,1.0,Chile
+2023-06-18,Weekly new ICU admissions,1.0,Chile
+2023-06-19,Weekly new ICU admissions,1.0,Chile
+2023-06-20,Weekly new ICU admissions,1.0,Chile
+2023-06-21,Weekly new ICU admissions,1.0,Chile
+2023-06-22,Weekly new ICU admissions,1.0,Chile
+2023-06-23,Weekly new ICU admissions,2.0,Chile
+2023-06-24,Weekly new ICU admissions,2.0,Chile
+2023-06-25,Weekly new ICU admissions,1.0,Chile
+2023-06-26,Weekly new ICU admissions,1.0,Chile
+2023-06-27,Weekly new ICU admissions,1.0,Chile
+2023-06-28,Weekly new ICU admissions,1.0,Chile
+2023-06-29,Weekly new ICU admissions,1.0,Chile
+2023-06-30,Weekly new ICU admissions,0.0,Chile
+2023-07-01,Weekly new ICU admissions,0.0,Chile
+2023-07-02,Weekly new ICU admissions,0.0,Chile
+2023-07-03,Weekly new ICU admissions,1.0,Chile
+2023-07-04,Weekly new ICU admissions,2.0,Chile
+2023-07-05,Weekly new ICU admissions,2.0,Chile
+2023-07-06,Weekly new ICU admissions,2.0,Chile
+2023-07-07,Weekly new ICU admissions,2.0,Chile
+2023-07-08,Weekly new ICU admissions,2.0,Chile
+2023-07-09,Weekly new ICU admissions,2.0,Chile
+2023-07-10,Weekly new ICU admissions,2.0,Chile
+2023-07-11,Weekly new ICU admissions,2.0,Chile
+2023-07-12,Weekly new ICU admissions,2.0,Chile
+2023-07-13,Weekly new ICU admissions,2.0,Chile
+2023-07-14,Weekly new ICU admissions,3.0,Chile
+2023-07-15,Weekly new ICU admissions,4.0,Chile
+2023-07-16,Weekly new ICU admissions,4.0,Chile
+2023-07-17,Weekly new ICU admissions,4.0,Chile
+2023-07-18,Weekly new ICU admissions,3.0,Chile
+2023-07-19,Weekly new ICU admissions,3.0,Chile
+2023-07-20,Weekly new ICU admissions,4.0,Chile
+2023-07-21,Weekly new ICU admissions,3.0,Chile
+2023-07-22,Weekly new ICU admissions,3.0,Chile
+2023-07-23,Weekly new ICU admissions,3.0,Chile
+2023-07-24,Weekly new ICU admissions,3.0,Chile
+2023-07-25,Weekly new ICU admissions,5.0,Chile
+2023-07-26,Weekly new ICU admissions,5.0,Chile
+2023-07-27,Weekly new ICU admissions,4.0,Chile
+2023-07-28,Weekly new ICU admissions,5.0,Chile
+2023-07-29,Weekly new ICU admissions,5.0,Chile
+2023-07-30,Weekly new ICU admissions,5.0,Chile
+2023-07-31,Weekly new ICU admissions,5.0,Chile
+2023-08-01,Weekly new ICU admissions,3.0,Chile
+2023-08-02,Weekly new ICU admissions,3.0,Chile
+2023-08-03,Weekly new ICU admissions,3.0,Chile
+2023-08-04,Weekly new ICU admissions,2.0,Chile
+2023-08-05,Weekly new ICU admissions,1.0,Chile
+2023-08-06,Weekly new ICU admissions,1.0,Chile
+2023-08-07,Weekly new ICU admissions,0.0,Chile
+2023-08-08,Weekly new ICU admissions,1.0,Chile
+2023-08-09,Weekly new ICU admissions,1.0,Chile
+2023-08-10,Weekly new ICU admissions,1.0,Chile
+2023-08-11,Weekly new ICU admissions,3.0,Chile
+2023-08-12,Weekly new ICU admissions,3.0,Chile
+2023-08-13,Weekly new ICU admissions,3.0,Chile
+2023-08-14,Weekly new ICU admissions,4.0,Chile
+2023-08-15,Weekly new ICU admissions,5.0,Chile
+2023-08-16,Weekly new ICU admissions,5.0,Chile
+2023-08-17,Weekly new ICU admissions,5.0,Chile
+2023-08-18,Weekly new ICU admissions,3.0,Chile
+2023-08-19,Weekly new ICU admissions,4.0,Chile
+2023-08-20,Weekly new ICU admissions,4.0,Chile
+2023-08-21,Weekly new ICU admissions,4.0,Chile
+2023-08-22,Weekly new ICU admissions,2.0,Chile
+2023-08-23,Weekly new ICU admissions,3.0,Chile
+2023-08-24,Weekly new ICU admissions,3.0,Chile
+2023-08-25,Weekly new ICU admissions,3.0,Chile
+2023-08-26,Weekly new ICU admissions,3.0,Chile
+2023-08-27,Weekly new ICU admissions,3.0,Chile
+2023-08-28,Weekly new ICU admissions,2.0,Chile
+2023-08-29,Weekly new ICU admissions,3.0,Chile
+2023-08-30,Weekly new ICU admissions,2.0,Chile
+2023-08-31,Weekly new ICU admissions,,Chile
+2020-04-01,Weekly new hospital admissions,,Chile
+2020-04-02,Weekly new hospital admissions,,Chile
+2020-04-03,Weekly new hospital admissions,,Chile
+2020-04-04,Weekly new hospital admissions,,Chile
+2020-04-05,Weekly new hospital admissions,,Chile
+2020-04-06,Weekly new hospital admissions,,Chile
+2020-04-07,Weekly new hospital admissions,660.0,Chile
+2020-04-08,Weekly new hospital admissions,644.0,Chile
+2020-04-09,Weekly new hospital admissions,636.0,Chile
+2020-04-10,Weekly new hospital admissions,603.0,Chile
+2020-04-11,Weekly new hospital admissions,580.0,Chile
+2020-04-12,Weekly new hospital admissions,561.0,Chile
+2020-04-13,Weekly new hospital admissions,558.0,Chile
+2020-04-14,Weekly new hospital admissions,538.0,Chile
+2020-04-15,Weekly new hospital admissions,550.0,Chile
+2020-04-16,Weekly new hospital admissions,547.0,Chile
+2020-04-17,Weekly new hospital admissions,578.0,Chile
+2020-04-18,Weekly new hospital admissions,605.0,Chile
+2020-04-19,Weekly new hospital admissions,618.0,Chile
+2020-04-20,Weekly new hospital admissions,623.0,Chile
+2020-04-21,Weekly new hospital admissions,635.0,Chile
+2020-04-22,Weekly new hospital admissions,632.0,Chile
+2020-04-23,Weekly new hospital admissions,634.0,Chile
+2020-04-24,Weekly new hospital admissions,639.0,Chile
+2020-04-25,Weekly new hospital admissions,654.0,Chile
+2020-04-26,Weekly new hospital admissions,689.0,Chile
+2020-04-27,Weekly new hospital admissions,707.0,Chile
+2020-04-28,Weekly new hospital admissions,734.0,Chile
+2020-04-29,Weekly new hospital admissions,796.0,Chile
+2020-04-30,Weekly new hospital admissions,841.0,Chile
+2020-05-01,Weekly new hospital admissions,897.0,Chile
+2020-05-02,Weekly new hospital admissions,935.0,Chile
+2020-05-03,Weekly new hospital admissions,1013.0,Chile
+2020-05-04,Weekly new hospital admissions,1082.0,Chile
+2020-05-05,Weekly new hospital admissions,1189.0,Chile
+2020-05-06,Weekly new hospital admissions,1285.0,Chile
+2020-05-07,Weekly new hospital admissions,1375.0,Chile
+2020-05-08,Weekly new hospital admissions,1498.0,Chile
+2020-05-09,Weekly new hospital admissions,1595.0,Chile
+2020-05-10,Weekly new hospital admissions,1655.0,Chile
+2020-05-11,Weekly new hospital admissions,1814.0,Chile
+2020-05-12,Weekly new hospital admissions,1925.0,Chile
+2020-05-13,Weekly new hospital admissions,2012.0,Chile
+2020-05-14,Weekly new hospital admissions,2141.0,Chile
+2020-05-15,Weekly new hospital admissions,2241.0,Chile
+2020-05-16,Weekly new hospital admissions,2421.0,Chile
+2020-05-17,Weekly new hospital admissions,2558.0,Chile
+2020-05-18,Weekly new hospital admissions,2684.0,Chile
+2020-05-19,Weekly new hospital admissions,2873.0,Chile
+2020-05-20,Weekly new hospital admissions,3081.0,Chile
+2020-05-21,Weekly new hospital admissions,3224.0,Chile
+2020-05-22,Weekly new hospital admissions,3408.0,Chile
+2020-05-23,Weekly new hospital admissions,3514.0,Chile
+2020-05-24,Weekly new hospital admissions,3672.0,Chile
+2020-05-25,Weekly new hospital admissions,3869.0,Chile
+2020-05-26,Weekly new hospital admissions,3957.0,Chile
+2020-05-27,Weekly new hospital admissions,4047.0,Chile
+2020-05-28,Weekly new hospital admissions,4141.0,Chile
+2020-05-29,Weekly new hospital admissions,4153.0,Chile
+2020-05-30,Weekly new hospital admissions,4170.0,Chile
+2020-05-31,Weekly new hospital admissions,4111.0,Chile
+2020-06-01,Weekly new hospital admissions,4117.0,Chile
+2020-06-02,Weekly new hospital admissions,4115.0,Chile
+2020-06-03,Weekly new hospital admissions,4071.0,Chile
+2020-06-04,Weekly new hospital admissions,4068.0,Chile
+2020-06-05,Weekly new hospital admissions,4128.0,Chile
+2020-06-06,Weekly new hospital admissions,4194.0,Chile
+2020-06-07,Weekly new hospital admissions,4247.0,Chile
+2020-06-08,Weekly new hospital admissions,4211.0,Chile
+2020-06-09,Weekly new hospital admissions,4248.0,Chile
+2020-06-10,Weekly new hospital admissions,4324.0,Chile
+2020-06-11,Weekly new hospital admissions,4336.0,Chile
+2020-06-12,Weekly new hospital admissions,4279.0,Chile
+2020-06-13,Weekly new hospital admissions,4258.0,Chile
+2020-06-14,Weekly new hospital admissions,4213.0,Chile
+2020-06-15,Weekly new hospital admissions,4157.0,Chile
+2020-06-16,Weekly new hospital admissions,4137.0,Chile
+2020-06-17,Weekly new hospital admissions,4044.0,Chile
+2020-06-18,Weekly new hospital admissions,4036.0,Chile
+2020-06-19,Weekly new hospital admissions,4057.0,Chile
+2020-06-20,Weekly new hospital admissions,3974.0,Chile
+2020-06-21,Weekly new hospital admissions,3924.0,Chile
+2020-06-22,Weekly new hospital admissions,3928.0,Chile
+2020-06-23,Weekly new hospital admissions,3811.0,Chile
+2020-06-24,Weekly new hospital admissions,3793.0,Chile
+2020-06-25,Weekly new hospital admissions,3668.0,Chile
+2020-06-26,Weekly new hospital admissions,3589.0,Chile
+2020-06-27,Weekly new hospital admissions,3528.0,Chile
+2020-06-28,Weekly new hospital admissions,3498.0,Chile
+2020-06-29,Weekly new hospital admissions,3284.0,Chile
+2020-06-30,Weekly new hospital admissions,3194.0,Chile
+2020-07-01,Weekly new hospital admissions,3136.0,Chile
+2020-07-02,Weekly new hospital admissions,3069.0,Chile
+2020-07-03,Weekly new hospital admissions,2989.0,Chile
+2020-07-04,Weekly new hospital admissions,2882.0,Chile
+2020-07-05,Weekly new hospital admissions,2781.0,Chile
+2020-07-06,Weekly new hospital admissions,2845.0,Chile
+2020-07-07,Weekly new hospital admissions,2838.0,Chile
+2020-07-08,Weekly new hospital admissions,2718.0,Chile
+2020-07-09,Weekly new hospital admissions,2739.0,Chile
+2020-07-10,Weekly new hospital admissions,2669.0,Chile
+2020-07-11,Weekly new hospital admissions,2631.0,Chile
+2020-07-12,Weekly new hospital admissions,2600.0,Chile
+2020-07-13,Weekly new hospital admissions,2482.0,Chile
+2020-07-14,Weekly new hospital admissions,2417.0,Chile
+2020-07-15,Weekly new hospital admissions,2348.0,Chile
+2020-07-16,Weekly new hospital admissions,2209.0,Chile
+2020-07-17,Weekly new hospital admissions,2156.0,Chile
+2020-07-18,Weekly new hospital admissions,2140.0,Chile
+2020-07-19,Weekly new hospital admissions,2082.0,Chile
+2020-07-20,Weekly new hospital admissions,2063.0,Chile
+2020-07-21,Weekly new hospital admissions,1973.0,Chile
+2020-07-22,Weekly new hospital admissions,1955.0,Chile
+2020-07-23,Weekly new hospital admissions,1943.0,Chile
+2020-07-24,Weekly new hospital admissions,1881.0,Chile
+2020-07-25,Weekly new hospital admissions,1798.0,Chile
+2020-07-26,Weekly new hospital admissions,1798.0,Chile
+2020-07-27,Weekly new hospital admissions,1776.0,Chile
+2020-07-28,Weekly new hospital admissions,1805.0,Chile
+2020-07-29,Weekly new hospital admissions,1772.0,Chile
+2020-07-30,Weekly new hospital admissions,1736.0,Chile
+2020-07-31,Weekly new hospital admissions,1726.0,Chile
+2020-08-01,Weekly new hospital admissions,1752.0,Chile
+2020-08-02,Weekly new hospital admissions,1720.0,Chile
+2020-08-03,Weekly new hospital admissions,1685.0,Chile
+2020-08-04,Weekly new hospital admissions,1617.0,Chile
+2020-08-05,Weekly new hospital admissions,1585.0,Chile
+2020-08-06,Weekly new hospital admissions,1581.0,Chile
+2020-08-07,Weekly new hospital admissions,1553.0,Chile
+2020-08-08,Weekly new hospital admissions,1512.0,Chile
+2020-08-09,Weekly new hospital admissions,1504.0,Chile
+2020-08-10,Weekly new hospital admissions,1484.0,Chile
+2020-08-11,Weekly new hospital admissions,1474.0,Chile
+2020-08-12,Weekly new hospital admissions,1486.0,Chile
+2020-08-13,Weekly new hospital admissions,1467.0,Chile
+2020-08-14,Weekly new hospital admissions,1451.0,Chile
+2020-08-15,Weekly new hospital admissions,1467.0,Chile
+2020-08-16,Weekly new hospital admissions,1457.0,Chile
+2020-08-17,Weekly new hospital admissions,1443.0,Chile
+2020-08-18,Weekly new hospital admissions,1424.0,Chile
+2020-08-19,Weekly new hospital admissions,1430.0,Chile
+2020-08-20,Weekly new hospital admissions,1406.0,Chile
+2020-08-21,Weekly new hospital admissions,1401.0,Chile
+2020-08-22,Weekly new hospital admissions,1361.0,Chile
+2020-08-23,Weekly new hospital admissions,1360.0,Chile
+2020-08-24,Weekly new hospital admissions,1360.0,Chile
+2020-08-25,Weekly new hospital admissions,1376.0,Chile
+2020-08-26,Weekly new hospital admissions,1320.0,Chile
+2020-08-27,Weekly new hospital admissions,1363.0,Chile
+2020-08-28,Weekly new hospital admissions,1356.0,Chile
+2020-08-29,Weekly new hospital admissions,1374.0,Chile
+2020-08-30,Weekly new hospital admissions,1373.0,Chile
+2020-08-31,Weekly new hospital admissions,1391.0,Chile
+2020-09-01,Weekly new hospital admissions,1401.0,Chile
+2020-09-02,Weekly new hospital admissions,1418.0,Chile
+2020-09-03,Weekly new hospital admissions,1380.0,Chile
+2020-09-04,Weekly new hospital admissions,1400.0,Chile
+2020-09-05,Weekly new hospital admissions,1418.0,Chile
+2020-09-06,Weekly new hospital admissions,1422.0,Chile
+2020-09-07,Weekly new hospital admissions,1425.0,Chile
+2020-09-08,Weekly new hospital admissions,1383.0,Chile
+2020-09-09,Weekly new hospital admissions,1376.0,Chile
+2020-09-10,Weekly new hospital admissions,1368.0,Chile
+2020-09-11,Weekly new hospital admissions,1353.0,Chile
+2020-09-12,Weekly new hospital admissions,1326.0,Chile
+2020-09-13,Weekly new hospital admissions,1305.0,Chile
+2020-09-14,Weekly new hospital admissions,1274.0,Chile
+2020-09-15,Weekly new hospital admissions,1300.0,Chile
+2020-09-16,Weekly new hospital admissions,1289.0,Chile
+2020-09-17,Weekly new hospital admissions,1282.0,Chile
+2020-09-18,Weekly new hospital admissions,1242.0,Chile
+2020-09-19,Weekly new hospital admissions,1231.0,Chile
+2020-09-20,Weekly new hospital admissions,1236.0,Chile
+2020-09-21,Weekly new hospital admissions,1247.0,Chile
+2020-09-22,Weekly new hospital admissions,1208.0,Chile
+2020-09-23,Weekly new hospital admissions,1205.0,Chile
+2020-09-24,Weekly new hospital admissions,1208.0,Chile
+2020-09-25,Weekly new hospital admissions,1224.0,Chile
+2020-09-26,Weekly new hospital admissions,1219.0,Chile
+2020-09-27,Weekly new hospital admissions,1207.0,Chile
+2020-09-28,Weekly new hospital admissions,1206.0,Chile
+2020-09-29,Weekly new hospital admissions,1236.0,Chile
+2020-09-30,Weekly new hospital admissions,1255.0,Chile
+2020-10-01,Weekly new hospital admissions,1231.0,Chile
+2020-10-02,Weekly new hospital admissions,1248.0,Chile
+2020-10-03,Weekly new hospital admissions,1261.0,Chile
+2020-10-04,Weekly new hospital admissions,1266.0,Chile
+2020-10-05,Weekly new hospital admissions,1238.0,Chile
+2020-10-06,Weekly new hospital admissions,1240.0,Chile
+2020-10-07,Weekly new hospital admissions,1204.0,Chile
+2020-10-08,Weekly new hospital admissions,1210.0,Chile
+2020-10-09,Weekly new hospital admissions,1190.0,Chile
+2020-10-10,Weekly new hospital admissions,1192.0,Chile
+2020-10-11,Weekly new hospital admissions,1184.0,Chile
+2020-10-12,Weekly new hospital admissions,1140.0,Chile
+2020-10-13,Weekly new hospital admissions,1089.0,Chile
+2020-10-14,Weekly new hospital admissions,1080.0,Chile
+2020-10-15,Weekly new hospital admissions,1096.0,Chile
+2020-10-16,Weekly new hospital admissions,1096.0,Chile
+2020-10-17,Weekly new hospital admissions,1059.0,Chile
+2020-10-18,Weekly new hospital admissions,1060.0,Chile
+2020-10-19,Weekly new hospital admissions,1086.0,Chile
+2020-10-20,Weekly new hospital admissions,1088.0,Chile
+2020-10-21,Weekly new hospital admissions,1100.0,Chile
+2020-10-22,Weekly new hospital admissions,1053.0,Chile
+2020-10-23,Weekly new hospital admissions,1031.0,Chile
+2020-10-24,Weekly new hospital admissions,1033.0,Chile
+2020-10-25,Weekly new hospital admissions,1016.0,Chile
+2020-10-26,Weekly new hospital admissions,1008.0,Chile
+2020-10-27,Weekly new hospital admissions,1013.0,Chile
+2020-10-28,Weekly new hospital admissions,975.0,Chile
+2020-10-29,Weekly new hospital admissions,983.0,Chile
+2020-10-30,Weekly new hospital admissions,988.0,Chile
+2020-10-31,Weekly new hospital admissions,976.0,Chile
+2020-11-01,Weekly new hospital admissions,955.0,Chile
+2020-11-02,Weekly new hospital admissions,951.0,Chile
+2020-11-03,Weekly new hospital admissions,945.0,Chile
+2020-11-04,Weekly new hospital admissions,948.0,Chile
+2020-11-05,Weekly new hospital admissions,932.0,Chile
+2020-11-06,Weekly new hospital admissions,918.0,Chile
+2020-11-07,Weekly new hospital admissions,931.0,Chile
+2020-11-08,Weekly new hospital admissions,949.0,Chile
+2020-11-09,Weekly new hospital admissions,950.0,Chile
+2020-11-10,Weekly new hospital admissions,931.0,Chile
+2020-11-11,Weekly new hospital admissions,945.0,Chile
+2020-11-12,Weekly new hospital admissions,952.0,Chile
+2020-11-13,Weekly new hospital admissions,952.0,Chile
+2020-11-14,Weekly new hospital admissions,942.0,Chile
+2020-11-15,Weekly new hospital admissions,933.0,Chile
+2020-11-16,Weekly new hospital admissions,912.0,Chile
+2020-11-17,Weekly new hospital admissions,915.0,Chile
+2020-11-18,Weekly new hospital admissions,933.0,Chile
+2020-11-19,Weekly new hospital admissions,947.0,Chile
+2020-11-20,Weekly new hospital admissions,968.0,Chile
+2020-11-21,Weekly new hospital admissions,981.0,Chile
+2020-11-22,Weekly new hospital admissions,1004.0,Chile
+2020-11-23,Weekly new hospital admissions,1023.0,Chile
+2020-11-24,Weekly new hospital admissions,1023.0,Chile
+2020-11-25,Weekly new hospital admissions,1022.0,Chile
+2020-11-26,Weekly new hospital admissions,1023.0,Chile
+2020-11-27,Weekly new hospital admissions,1007.0,Chile
+2020-11-28,Weekly new hospital admissions,1024.0,Chile
+2020-11-29,Weekly new hospital admissions,1014.0,Chile
+2020-11-30,Weekly new hospital admissions,1003.0,Chile
+2020-12-01,Weekly new hospital admissions,1023.0,Chile
+2020-12-02,Weekly new hospital admissions,984.0,Chile
+2020-12-03,Weekly new hospital admissions,959.0,Chile
+2020-12-04,Weekly new hospital admissions,926.0,Chile
+2020-12-05,Weekly new hospital admissions,902.0,Chile
+2020-12-06,Weekly new hospital admissions,908.0,Chile
+2020-12-07,Weekly new hospital admissions,943.0,Chile
+2020-12-08,Weekly new hospital admissions,899.0,Chile
+2020-12-09,Weekly new hospital admissions,938.0,Chile
+2020-12-10,Weekly new hospital admissions,979.0,Chile
+2020-12-11,Weekly new hospital admissions,1023.0,Chile
+2020-12-12,Weekly new hospital admissions,1044.0,Chile
+2020-12-13,Weekly new hospital admissions,1042.0,Chile
+2020-12-14,Weekly new hospital admissions,1061.0,Chile
+2020-12-15,Weekly new hospital admissions,1090.0,Chile
+2020-12-16,Weekly new hospital admissions,1096.0,Chile
+2020-12-17,Weekly new hospital admissions,1113.0,Chile
+2020-12-18,Weekly new hospital admissions,1110.0,Chile
+2020-12-19,Weekly new hospital admissions,1127.0,Chile
+2020-12-20,Weekly new hospital admissions,1143.0,Chile
+2020-12-21,Weekly new hospital admissions,1135.0,Chile
+2020-12-22,Weekly new hospital admissions,1188.0,Chile
+2020-12-23,Weekly new hospital admissions,1221.0,Chile
+2020-12-24,Weekly new hospital admissions,1238.0,Chile
+2020-12-25,Weekly new hospital admissions,1212.0,Chile
+2020-12-26,Weekly new hospital admissions,1248.0,Chile
+2020-12-27,Weekly new hospital admissions,1296.0,Chile
+2020-12-28,Weekly new hospital admissions,1336.0,Chile
+2020-12-29,Weekly new hospital admissions,1320.0,Chile
+2020-12-30,Weekly new hospital admissions,1317.0,Chile
+2020-12-31,Weekly new hospital admissions,1318.0,Chile
+2021-01-01,Weekly new hospital admissions,1360.0,Chile
+2021-01-02,Weekly new hospital admissions,1381.0,Chile
+2021-01-03,Weekly new hospital admissions,1416.0,Chile
+2021-01-04,Weekly new hospital admissions,1445.0,Chile
+2021-01-05,Weekly new hospital admissions,1553.0,Chile
+2021-01-06,Weekly new hospital admissions,1618.0,Chile
+2021-01-07,Weekly new hospital admissions,1700.0,Chile
+2021-01-08,Weekly new hospital admissions,1817.0,Chile
+2021-01-09,Weekly new hospital admissions,1871.0,Chile
+2021-01-10,Weekly new hospital admissions,1886.0,Chile
+2021-01-11,Weekly new hospital admissions,1957.0,Chile
+2021-01-12,Weekly new hospital admissions,1981.0,Chile
+2021-01-13,Weekly new hospital admissions,2067.0,Chile
+2021-01-14,Weekly new hospital admissions,2111.0,Chile
+2021-01-15,Weekly new hospital admissions,2150.0,Chile
+2021-01-16,Weekly new hospital admissions,2214.0,Chile
+2021-01-17,Weekly new hospital admissions,2284.0,Chile
+2021-01-18,Weekly new hospital admissions,2308.0,Chile
+2021-01-19,Weekly new hospital admissions,2366.0,Chile
+2021-01-20,Weekly new hospital admissions,2382.0,Chile
+2021-01-21,Weekly new hospital admissions,2399.0,Chile
+2021-01-22,Weekly new hospital admissions,2425.0,Chile
+2021-01-23,Weekly new hospital admissions,2433.0,Chile
+2021-01-24,Weekly new hospital admissions,2460.0,Chile
+2021-01-25,Weekly new hospital admissions,2480.0,Chile
+2021-01-26,Weekly new hospital admissions,2502.0,Chile
+2021-01-27,Weekly new hospital admissions,2499.0,Chile
+2021-01-28,Weekly new hospital admissions,2555.0,Chile
+2021-01-29,Weekly new hospital admissions,2571.0,Chile
+2021-01-30,Weekly new hospital admissions,2558.0,Chile
+2021-01-31,Weekly new hospital admissions,2508.0,Chile
+2021-02-01,Weekly new hospital admissions,2517.0,Chile
+2021-02-02,Weekly new hospital admissions,2484.0,Chile
+2021-02-03,Weekly new hospital admissions,2466.0,Chile
+2021-02-04,Weekly new hospital admissions,2411.0,Chile
+2021-02-05,Weekly new hospital admissions,2389.0,Chile
+2021-02-06,Weekly new hospital admissions,2340.0,Chile
+2021-02-07,Weekly new hospital admissions,2329.0,Chile
+2021-02-08,Weekly new hospital admissions,2294.0,Chile
+2021-02-09,Weekly new hospital admissions,2262.0,Chile
+2021-02-10,Weekly new hospital admissions,2249.0,Chile
+2021-02-11,Weekly new hospital admissions,2230.0,Chile
+2021-02-12,Weekly new hospital admissions,2218.0,Chile
+2021-02-13,Weekly new hospital admissions,2206.0,Chile
+2021-02-14,Weekly new hospital admissions,2184.0,Chile
+2021-02-15,Weekly new hospital admissions,2182.0,Chile
+2021-02-16,Weekly new hospital admissions,2215.0,Chile
+2021-02-17,Weekly new hospital admissions,2226.0,Chile
+2021-02-18,Weekly new hospital admissions,2230.0,Chile
+2021-02-19,Weekly new hospital admissions,2242.0,Chile
+2021-02-20,Weekly new hospital admissions,2277.0,Chile
+2021-02-21,Weekly new hospital admissions,2337.0,Chile
+2021-02-22,Weekly new hospital admissions,2308.0,Chile
+2021-02-23,Weekly new hospital admissions,2309.0,Chile
+2021-02-24,Weekly new hospital admissions,2344.0,Chile
+2021-02-25,Weekly new hospital admissions,2340.0,Chile
+2021-02-26,Weekly new hospital admissions,2339.0,Chile
+2021-02-27,Weekly new hospital admissions,2325.0,Chile
+2021-02-28,Weekly new hospital admissions,2347.0,Chile
+2021-03-01,Weekly new hospital admissions,2386.0,Chile
+2021-03-02,Weekly new hospital admissions,2397.0,Chile
+2021-03-03,Weekly new hospital admissions,2439.0,Chile
+2021-03-04,Weekly new hospital admissions,2564.0,Chile
+2021-03-05,Weekly new hospital admissions,2604.0,Chile
+2021-03-06,Weekly new hospital admissions,2706.0,Chile
+2021-03-07,Weekly new hospital admissions,2730.0,Chile
+2021-03-08,Weekly new hospital admissions,2793.0,Chile
+2021-03-09,Weekly new hospital admissions,2936.0,Chile
+2021-03-10,Weekly new hospital admissions,2948.0,Chile
+2021-03-11,Weekly new hospital admissions,2946.0,Chile
+2021-03-12,Weekly new hospital admissions,2989.0,Chile
+2021-03-13,Weekly new hospital admissions,3032.0,Chile
+2021-03-14,Weekly new hospital admissions,3065.0,Chile
+2021-03-15,Weekly new hospital admissions,3155.0,Chile
+2021-03-16,Weekly new hospital admissions,3104.0,Chile
+2021-03-17,Weekly new hospital admissions,3203.0,Chile
+2021-03-18,Weekly new hospital admissions,3271.0,Chile
+2021-03-19,Weekly new hospital admissions,3334.0,Chile
+2021-03-20,Weekly new hospital admissions,3438.0,Chile
+2021-03-21,Weekly new hospital admissions,3515.0,Chile
+2021-03-22,Weekly new hospital admissions,3566.0,Chile
+2021-03-23,Weekly new hospital admissions,3707.0,Chile
+2021-03-24,Weekly new hospital admissions,3719.0,Chile
+2021-03-25,Weekly new hospital admissions,3811.0,Chile
+2021-03-26,Weekly new hospital admissions,3897.0,Chile
+2021-03-27,Weekly new hospital admissions,3877.0,Chile
+2021-03-28,Weekly new hospital admissions,3965.0,Chile
+2021-03-29,Weekly new hospital admissions,4013.0,Chile
+2021-03-30,Weekly new hospital admissions,4046.0,Chile
+2021-03-31,Weekly new hospital admissions,4149.0,Chile
+2021-04-01,Weekly new hospital admissions,4165.0,Chile
+2021-04-02,Weekly new hospital admissions,4159.0,Chile
+2021-04-03,Weekly new hospital admissions,4236.0,Chile
+2021-04-04,Weekly new hospital admissions,4232.0,Chile
+2021-04-05,Weekly new hospital admissions,4290.0,Chile
+2021-04-06,Weekly new hospital admissions,4367.0,Chile
+2021-04-07,Weekly new hospital admissions,4361.0,Chile
+2021-04-08,Weekly new hospital admissions,4412.0,Chile
+2021-04-09,Weekly new hospital admissions,4486.0,Chile
+2021-04-10,Weekly new hospital admissions,4448.0,Chile
+2021-04-11,Weekly new hospital admissions,4440.0,Chile
+2021-04-12,Weekly new hospital admissions,4406.0,Chile
+2021-04-13,Weekly new hospital admissions,4315.0,Chile
+2021-04-14,Weekly new hospital admissions,4316.0,Chile
+2021-04-15,Weekly new hospital admissions,4244.0,Chile
+2021-04-16,Weekly new hospital admissions,4185.0,Chile
+2021-04-17,Weekly new hospital admissions,4185.0,Chile
+2021-04-18,Weekly new hospital admissions,4140.0,Chile
+2021-04-19,Weekly new hospital admissions,4127.0,Chile
+2021-04-20,Weekly new hospital admissions,4084.0,Chile
+2021-04-21,Weekly new hospital admissions,4022.0,Chile
+2021-04-22,Weekly new hospital admissions,3983.0,Chile
+2021-04-23,Weekly new hospital admissions,3939.0,Chile
+2021-04-24,Weekly new hospital admissions,3911.0,Chile
+2021-04-25,Weekly new hospital admissions,3925.0,Chile
+2021-04-26,Weekly new hospital admissions,3877.0,Chile
+2021-04-27,Weekly new hospital admissions,3844.0,Chile
+2021-04-28,Weekly new hospital admissions,3820.0,Chile
+2021-04-29,Weekly new hospital admissions,3812.0,Chile
+2021-04-30,Weekly new hospital admissions,3820.0,Chile
+2021-05-01,Weekly new hospital admissions,3705.0,Chile
+2021-05-02,Weekly new hospital admissions,3641.0,Chile
+2021-05-03,Weekly new hospital admissions,3573.0,Chile
+2021-05-04,Weekly new hospital admissions,3519.0,Chile
+2021-05-05,Weekly new hospital admissions,3499.0,Chile
+2021-05-06,Weekly new hospital admissions,3452.0,Chile
+2021-05-07,Weekly new hospital admissions,3397.0,Chile
+2021-05-08,Weekly new hospital admissions,3377.0,Chile
+2021-05-09,Weekly new hospital admissions,3302.0,Chile
+2021-05-10,Weekly new hospital admissions,3293.0,Chile
+2021-05-11,Weekly new hospital admissions,3330.0,Chile
+2021-05-12,Weekly new hospital admissions,3264.0,Chile
+2021-05-13,Weekly new hospital admissions,3259.0,Chile
+2021-05-14,Weekly new hospital admissions,3282.0,Chile
+2021-05-15,Weekly new hospital admissions,3339.0,Chile
+2021-05-16,Weekly new hospital admissions,3403.0,Chile
+2021-05-17,Weekly new hospital admissions,3441.0,Chile
+2021-05-18,Weekly new hospital admissions,3448.0,Chile
+2021-05-19,Weekly new hospital admissions,3506.0,Chile
+2021-05-20,Weekly new hospital admissions,3549.0,Chile
+2021-05-21,Weekly new hospital admissions,3534.0,Chile
+2021-05-22,Weekly new hospital admissions,3551.0,Chile
+2021-05-23,Weekly new hospital admissions,3625.0,Chile
+2021-05-24,Weekly new hospital admissions,3678.0,Chile
+2021-05-25,Weekly new hospital admissions,3747.0,Chile
+2021-05-26,Weekly new hospital admissions,3823.0,Chile
+2021-05-27,Weekly new hospital admissions,3911.0,Chile
+2021-05-28,Weekly new hospital admissions,3994.0,Chile
+2021-05-29,Weekly new hospital admissions,4048.0,Chile
+2021-05-30,Weekly new hospital admissions,4077.0,Chile
+2021-05-31,Weekly new hospital admissions,4059.0,Chile
+2021-06-01,Weekly new hospital admissions,4052.0,Chile
+2021-06-02,Weekly new hospital admissions,4055.0,Chile
+2021-06-03,Weekly new hospital admissions,4082.0,Chile
+2021-06-04,Weekly new hospital admissions,4134.0,Chile
+2021-06-05,Weekly new hospital admissions,4120.0,Chile
+2021-06-06,Weekly new hospital admissions,4066.0,Chile
+2021-06-07,Weekly new hospital admissions,4138.0,Chile
+2021-06-08,Weekly new hospital admissions,4207.0,Chile
+2021-06-09,Weekly new hospital admissions,4220.0,Chile
+2021-06-10,Weekly new hospital admissions,4150.0,Chile
+2021-06-11,Weekly new hospital admissions,4104.0,Chile
+2021-06-12,Weekly new hospital admissions,4143.0,Chile
+2021-06-13,Weekly new hospital admissions,4168.0,Chile
+2021-06-14,Weekly new hospital admissions,4102.0,Chile
+2021-06-15,Weekly new hospital admissions,4072.0,Chile
+2021-06-16,Weekly new hospital admissions,4033.0,Chile
+2021-06-17,Weekly new hospital admissions,3999.0,Chile
+2021-06-18,Weekly new hospital admissions,3909.0,Chile
+2021-06-19,Weekly new hospital admissions,3835.0,Chile
+2021-06-20,Weekly new hospital admissions,3757.0,Chile
+2021-06-21,Weekly new hospital admissions,3627.0,Chile
+2021-06-22,Weekly new hospital admissions,3448.0,Chile
+2021-06-23,Weekly new hospital admissions,3368.0,Chile
+2021-06-24,Weekly new hospital admissions,3245.0,Chile
+2021-06-25,Weekly new hospital admissions,3171.0,Chile
+2021-06-26,Weekly new hospital admissions,3091.0,Chile
+2021-06-27,Weekly new hospital admissions,3019.0,Chile
+2021-06-28,Weekly new hospital admissions,2904.0,Chile
+2021-06-29,Weekly new hospital admissions,2825.0,Chile
+2021-06-30,Weekly new hospital admissions,2725.0,Chile
+2021-07-01,Weekly new hospital admissions,2673.0,Chile
+2021-07-02,Weekly new hospital admissions,2572.0,Chile
+2021-07-03,Weekly new hospital admissions,2468.0,Chile
+2021-07-04,Weekly new hospital admissions,2362.0,Chile
+2021-07-05,Weekly new hospital admissions,2355.0,Chile
+2021-07-06,Weekly new hospital admissions,2275.0,Chile
+2021-07-07,Weekly new hospital admissions,2190.0,Chile
+2021-07-08,Weekly new hospital admissions,2108.0,Chile
+2021-07-09,Weekly new hospital admissions,2080.0,Chile
+2021-07-10,Weekly new hospital admissions,2002.0,Chile
+2021-07-11,Weekly new hospital admissions,1991.0,Chile
+2021-07-12,Weekly new hospital admissions,1941.0,Chile
+2021-07-13,Weekly new hospital admissions,1874.0,Chile
+2021-07-14,Weekly new hospital admissions,1786.0,Chile
+2021-07-15,Weekly new hospital admissions,1690.0,Chile
+2021-07-16,Weekly new hospital admissions,1592.0,Chile
+2021-07-17,Weekly new hospital admissions,1544.0,Chile
+2021-07-18,Weekly new hospital admissions,1450.0,Chile
+2021-07-19,Weekly new hospital admissions,1402.0,Chile
+2021-07-20,Weekly new hospital admissions,1369.0,Chile
+2021-07-21,Weekly new hospital admissions,1333.0,Chile
+2021-07-22,Weekly new hospital admissions,1321.0,Chile
+2021-07-23,Weekly new hospital admissions,1313.0,Chile
+2021-07-24,Weekly new hospital admissions,1274.0,Chile
+2021-07-25,Weekly new hospital admissions,1238.0,Chile
+2021-07-26,Weekly new hospital admissions,1173.0,Chile
+2021-07-27,Weekly new hospital admissions,1151.0,Chile
+2021-07-28,Weekly new hospital admissions,1088.0,Chile
+2021-07-29,Weekly new hospital admissions,1041.0,Chile
+2021-07-30,Weekly new hospital admissions,983.0,Chile
+2021-07-31,Weekly new hospital admissions,980.0,Chile
+2021-08-01,Weekly new hospital admissions,970.0,Chile
+2021-08-02,Weekly new hospital admissions,963.0,Chile
+2021-08-03,Weekly new hospital admissions,946.0,Chile
+2021-08-04,Weekly new hospital admissions,951.0,Chile
+2021-08-05,Weekly new hospital admissions,931.0,Chile
+2021-08-06,Weekly new hospital admissions,913.0,Chile
+2021-08-07,Weekly new hospital admissions,878.0,Chile
+2021-08-08,Weekly new hospital admissions,874.0,Chile
+2021-08-09,Weekly new hospital admissions,850.0,Chile
+2021-08-10,Weekly new hospital admissions,805.0,Chile
+2021-08-11,Weekly new hospital admissions,792.0,Chile
+2021-08-12,Weekly new hospital admissions,782.0,Chile
+2021-08-13,Weekly new hospital admissions,771.0,Chile
+2021-08-14,Weekly new hospital admissions,764.0,Chile
+2021-08-15,Weekly new hospital admissions,733.0,Chile
+2021-08-16,Weekly new hospital admissions,731.0,Chile
+2021-08-17,Weekly new hospital admissions,742.0,Chile
+2021-08-18,Weekly new hospital admissions,706.0,Chile
+2021-08-19,Weekly new hospital admissions,676.0,Chile
+2021-08-20,Weekly new hospital admissions,658.0,Chile
+2021-08-21,Weekly new hospital admissions,650.0,Chile
+2021-08-22,Weekly new hospital admissions,643.0,Chile
+2021-08-23,Weekly new hospital admissions,613.0,Chile
+2021-08-24,Weekly new hospital admissions,566.0,Chile
+2021-08-25,Weekly new hospital admissions,554.0,Chile
+2021-08-26,Weekly new hospital admissions,541.0,Chile
+2021-08-27,Weekly new hospital admissions,517.0,Chile
+2021-08-28,Weekly new hospital admissions,496.0,Chile
+2021-08-29,Weekly new hospital admissions,478.0,Chile
+2021-08-30,Weekly new hospital admissions,459.0,Chile
+2021-08-31,Weekly new hospital admissions,433.0,Chile
+2021-09-01,Weekly new hospital admissions,441.0,Chile
+2021-09-02,Weekly new hospital admissions,425.0,Chile
+2021-09-03,Weekly new hospital admissions,420.0,Chile
+2021-09-04,Weekly new hospital admissions,419.0,Chile
+2021-09-05,Weekly new hospital admissions,420.0,Chile
+2021-09-06,Weekly new hospital admissions,410.0,Chile
+2021-09-07,Weekly new hospital admissions,411.0,Chile
+2021-09-08,Weekly new hospital admissions,380.0,Chile
+2021-09-09,Weekly new hospital admissions,373.0,Chile
+2021-09-10,Weekly new hospital admissions,352.0,Chile
+2021-09-11,Weekly new hospital admissions,337.0,Chile
+2021-09-12,Weekly new hospital admissions,325.0,Chile
+2021-09-13,Weekly new hospital admissions,322.0,Chile
+2021-09-14,Weekly new hospital admissions,324.0,Chile
+2021-09-15,Weekly new hospital admissions,324.0,Chile
+2021-09-16,Weekly new hospital admissions,322.0,Chile
+2021-09-17,Weekly new hospital admissions,330.0,Chile
+2021-09-18,Weekly new hospital admissions,321.0,Chile
+2021-09-19,Weekly new hospital admissions,323.0,Chile
+2021-09-20,Weekly new hospital admissions,322.0,Chile
+2021-09-21,Weekly new hospital admissions,318.0,Chile
+2021-09-22,Weekly new hospital admissions,317.0,Chile
+2021-09-23,Weekly new hospital admissions,308.0,Chile
+2021-09-24,Weekly new hospital admissions,318.0,Chile
+2021-09-25,Weekly new hospital admissions,324.0,Chile
+2021-09-26,Weekly new hospital admissions,331.0,Chile
+2021-09-27,Weekly new hospital admissions,335.0,Chile
+2021-09-28,Weekly new hospital admissions,327.0,Chile
+2021-09-29,Weekly new hospital admissions,350.0,Chile
+2021-09-30,Weekly new hospital admissions,364.0,Chile
+2021-10-01,Weekly new hospital admissions,356.0,Chile
+2021-10-02,Weekly new hospital admissions,371.0,Chile
+2021-10-03,Weekly new hospital admissions,361.0,Chile
+2021-10-04,Weekly new hospital admissions,374.0,Chile
+2021-10-05,Weekly new hospital admissions,397.0,Chile
+2021-10-06,Weekly new hospital admissions,396.0,Chile
+2021-10-07,Weekly new hospital admissions,403.0,Chile
+2021-10-08,Weekly new hospital admissions,413.0,Chile
+2021-10-09,Weekly new hospital admissions,439.0,Chile
+2021-10-10,Weekly new hospital admissions,471.0,Chile
+2021-10-11,Weekly new hospital admissions,485.0,Chile
+2021-10-12,Weekly new hospital admissions,488.0,Chile
+2021-10-13,Weekly new hospital admissions,501.0,Chile
+2021-10-14,Weekly new hospital admissions,501.0,Chile
+2021-10-15,Weekly new hospital admissions,535.0,Chile
+2021-10-16,Weekly new hospital admissions,521.0,Chile
+2021-10-17,Weekly new hospital admissions,527.0,Chile
+2021-10-18,Weekly new hospital admissions,536.0,Chile
+2021-10-19,Weekly new hospital admissions,571.0,Chile
+2021-10-20,Weekly new hospital admissions,575.0,Chile
+2021-10-21,Weekly new hospital admissions,618.0,Chile
+2021-10-22,Weekly new hospital admissions,611.0,Chile
+2021-10-23,Weekly new hospital admissions,635.0,Chile
+2021-10-24,Weekly new hospital admissions,655.0,Chile
+2021-10-25,Weekly new hospital admissions,674.0,Chile
+2021-10-26,Weekly new hospital admissions,663.0,Chile
+2021-10-27,Weekly new hospital admissions,681.0,Chile
+2021-10-28,Weekly new hospital admissions,671.0,Chile
+2021-10-29,Weekly new hospital admissions,672.0,Chile
+2021-10-30,Weekly new hospital admissions,690.0,Chile
+2021-10-31,Weekly new hospital admissions,682.0,Chile
+2021-11-01,Weekly new hospital admissions,685.0,Chile
+2021-11-02,Weekly new hospital admissions,698.0,Chile
+2021-11-03,Weekly new hospital admissions,724.0,Chile
+2021-11-04,Weekly new hospital admissions,748.0,Chile
+2021-11-05,Weekly new hospital admissions,777.0,Chile
+2021-11-06,Weekly new hospital admissions,782.0,Chile
+2021-11-07,Weekly new hospital admissions,802.0,Chile
+2021-11-08,Weekly new hospital admissions,826.0,Chile
+2021-11-09,Weekly new hospital admissions,842.0,Chile
+2021-11-10,Weekly new hospital admissions,842.0,Chile
+2021-11-11,Weekly new hospital admissions,840.0,Chile
+2021-11-12,Weekly new hospital admissions,854.0,Chile
+2021-11-13,Weekly new hospital admissions,853.0,Chile
+2021-11-14,Weekly new hospital admissions,853.0,Chile
+2021-11-15,Weekly new hospital admissions,863.0,Chile
+2021-11-16,Weekly new hospital admissions,879.0,Chile
+2021-11-17,Weekly new hospital admissions,861.0,Chile
+2021-11-18,Weekly new hospital admissions,884.0,Chile
+2021-11-19,Weekly new hospital admissions,886.0,Chile
+2021-11-20,Weekly new hospital admissions,891.0,Chile
+2021-11-21,Weekly new hospital admissions,905.0,Chile
+2021-11-22,Weekly new hospital admissions,882.0,Chile
+2021-11-23,Weekly new hospital admissions,882.0,Chile
+2021-11-24,Weekly new hospital admissions,906.0,Chile
+2021-11-25,Weekly new hospital admissions,897.0,Chile
+2021-11-26,Weekly new hospital admissions,905.0,Chile
+2021-11-27,Weekly new hospital admissions,906.0,Chile
+2021-11-28,Weekly new hospital admissions,894.0,Chile
+2021-11-29,Weekly new hospital admissions,890.0,Chile
+2021-11-30,Weekly new hospital admissions,877.0,Chile
+2021-12-01,Weekly new hospital admissions,884.0,Chile
+2021-12-02,Weekly new hospital admissions,888.0,Chile
+2021-12-03,Weekly new hospital admissions,867.0,Chile
+2021-12-04,Weekly new hospital admissions,837.0,Chile
+2021-12-05,Weekly new hospital admissions,836.0,Chile
+2021-12-06,Weekly new hospital admissions,827.0,Chile
+2021-12-07,Weekly new hospital admissions,826.0,Chile
+2021-12-08,Weekly new hospital admissions,777.0,Chile
+2021-12-09,Weekly new hospital admissions,750.0,Chile
+2021-12-10,Weekly new hospital admissions,724.0,Chile
+2021-12-11,Weekly new hospital admissions,728.0,Chile
+2021-12-12,Weekly new hospital admissions,702.0,Chile
+2021-12-13,Weekly new hospital admissions,696.0,Chile
+2021-12-14,Weekly new hospital admissions,684.0,Chile
+2021-12-15,Weekly new hospital admissions,674.0,Chile
+2021-12-16,Weekly new hospital admissions,650.0,Chile
+2021-12-17,Weekly new hospital admissions,650.0,Chile
+2021-12-18,Weekly new hospital admissions,644.0,Chile
+2021-12-19,Weekly new hospital admissions,628.0,Chile
+2021-12-20,Weekly new hospital admissions,620.0,Chile
+2021-12-21,Weekly new hospital admissions,604.0,Chile
+2021-12-22,Weekly new hospital admissions,612.0,Chile
+2021-12-23,Weekly new hospital admissions,613.0,Chile
+2021-12-24,Weekly new hospital admissions,605.0,Chile
+2021-12-25,Weekly new hospital admissions,577.0,Chile
+2021-12-26,Weekly new hospital admissions,597.0,Chile
+2021-12-27,Weekly new hospital admissions,595.0,Chile
+2021-12-28,Weekly new hospital admissions,585.0,Chile
+2021-12-29,Weekly new hospital admissions,592.0,Chile
+2021-12-30,Weekly new hospital admissions,595.0,Chile
+2021-12-31,Weekly new hospital admissions,590.0,Chile
+2022-01-01,Weekly new hospital admissions,607.0,Chile
+2022-01-02,Weekly new hospital admissions,608.0,Chile
+2022-01-03,Weekly new hospital admissions,604.0,Chile
+2022-01-04,Weekly new hospital admissions,621.0,Chile
+2022-01-05,Weekly new hospital admissions,637.0,Chile
+2022-01-06,Weekly new hospital admissions,680.0,Chile
+2022-01-07,Weekly new hospital admissions,717.0,Chile
+2022-01-08,Weekly new hospital admissions,749.0,Chile
+2022-01-09,Weekly new hospital admissions,731.0,Chile
+2022-01-10,Weekly new hospital admissions,761.0,Chile
+2022-01-11,Weekly new hospital admissions,796.0,Chile
+2022-01-12,Weekly new hospital admissions,807.0,Chile
+2022-01-13,Weekly new hospital admissions,845.0,Chile
+2022-01-14,Weekly new hospital admissions,900.0,Chile
+2022-01-15,Weekly new hospital admissions,935.0,Chile
+2022-01-16,Weekly new hospital admissions,979.0,Chile
+2022-01-17,Weekly new hospital admissions,1020.0,Chile
+2022-01-18,Weekly new hospital admissions,1073.0,Chile
+2022-01-19,Weekly new hospital admissions,1144.0,Chile
+2022-01-20,Weekly new hospital admissions,1194.0,Chile
+2022-01-21,Weekly new hospital admissions,1256.0,Chile
+2022-01-22,Weekly new hospital admissions,1299.0,Chile
+2022-01-23,Weekly new hospital admissions,1405.0,Chile
+2022-01-24,Weekly new hospital admissions,1529.0,Chile
+2022-01-25,Weekly new hospital admissions,1646.0,Chile
+2022-01-26,Weekly new hospital admissions,1766.0,Chile
+2022-01-27,Weekly new hospital admissions,1909.0,Chile
+2022-01-28,Weekly new hospital admissions,2019.0,Chile
+2022-01-29,Weekly new hospital admissions,2174.0,Chile
+2022-01-30,Weekly new hospital admissions,2295.0,Chile
+2022-01-31,Weekly new hospital admissions,2404.0,Chile
+2022-02-01,Weekly new hospital admissions,2514.0,Chile
+2022-02-02,Weekly new hospital admissions,2673.0,Chile
+2022-02-03,Weekly new hospital admissions,2758.0,Chile
+2022-02-04,Weekly new hospital admissions,2878.0,Chile
+2022-02-05,Weekly new hospital admissions,2943.0,Chile
+2022-02-06,Weekly new hospital admissions,3023.0,Chile
+2022-02-07,Weekly new hospital admissions,3145.0,Chile
+2022-02-08,Weekly new hospital admissions,3306.0,Chile
+2022-02-09,Weekly new hospital admissions,3404.0,Chile
+2022-02-10,Weekly new hospital admissions,3470.0,Chile
+2022-02-11,Weekly new hospital admissions,3486.0,Chile
+2022-02-12,Weekly new hospital admissions,3536.0,Chile
+2022-02-13,Weekly new hospital admissions,3538.0,Chile
+2022-02-14,Weekly new hospital admissions,3516.0,Chile
+2022-02-15,Weekly new hospital admissions,3471.0,Chile
+2022-02-16,Weekly new hospital admissions,3430.0,Chile
+2022-02-17,Weekly new hospital admissions,3405.0,Chile
+2022-02-18,Weekly new hospital admissions,3389.0,Chile
+2022-02-19,Weekly new hospital admissions,3349.0,Chile
+2022-02-20,Weekly new hospital admissions,3314.0,Chile
+2022-02-21,Weekly new hospital admissions,3238.0,Chile
+2022-02-22,Weekly new hospital admissions,3187.0,Chile
+2022-02-23,Weekly new hospital admissions,3100.0,Chile
+2022-02-24,Weekly new hospital admissions,3008.0,Chile
+2022-02-25,Weekly new hospital admissions,2949.0,Chile
+2022-02-26,Weekly new hospital admissions,2920.0,Chile
+2022-02-27,Weekly new hospital admissions,2877.0,Chile
+2022-02-28,Weekly new hospital admissions,2809.0,Chile
+2022-03-01,Weekly new hospital admissions,2704.0,Chile
+2022-03-02,Weekly new hospital admissions,2618.0,Chile
+2022-03-03,Weekly new hospital admissions,2551.0,Chile
+2022-03-04,Weekly new hospital admissions,2441.0,Chile
+2022-03-05,Weekly new hospital admissions,2339.0,Chile
+2022-03-06,Weekly new hospital admissions,2248.0,Chile
+2022-03-07,Weekly new hospital admissions,2167.0,Chile
+2022-03-08,Weekly new hospital admissions,2069.0,Chile
+2022-03-09,Weekly new hospital admissions,1958.0,Chile
+2022-03-10,Weekly new hospital admissions,1883.0,Chile
+2022-03-11,Weekly new hospital admissions,1802.0,Chile
+2022-03-12,Weekly new hospital admissions,1721.0,Chile
+2022-03-13,Weekly new hospital admissions,1633.0,Chile
+2022-03-14,Weekly new hospital admissions,1558.0,Chile
+2022-03-15,Weekly new hospital admissions,1515.0,Chile
+2022-03-16,Weekly new hospital admissions,1459.0,Chile
+2022-03-17,Weekly new hospital admissions,1370.0,Chile
+2022-03-18,Weekly new hospital admissions,1327.0,Chile
+2022-03-19,Weekly new hospital admissions,1271.0,Chile
+2022-03-20,Weekly new hospital admissions,1226.0,Chile
+2022-03-21,Weekly new hospital admissions,1192.0,Chile
+2022-03-22,Weekly new hospital admissions,1099.0,Chile
+2022-03-23,Weekly new hospital admissions,1063.0,Chile
+2022-03-24,Weekly new hospital admissions,1010.0,Chile
+2022-03-25,Weekly new hospital admissions,954.0,Chile
+2022-03-26,Weekly new hospital admissions,911.0,Chile
+2022-03-27,Weekly new hospital admissions,884.0,Chile
+2022-03-28,Weekly new hospital admissions,836.0,Chile
+2022-03-29,Weekly new hospital admissions,790.0,Chile
+2022-03-30,Weekly new hospital admissions,731.0,Chile
+2022-03-31,Weekly new hospital admissions,706.0,Chile
+2022-04-01,Weekly new hospital admissions,707.0,Chile
+2022-04-02,Weekly new hospital admissions,668.0,Chile
+2022-04-03,Weekly new hospital admissions,637.0,Chile
+2022-04-04,Weekly new hospital admissions,611.0,Chile
+2022-04-05,Weekly new hospital admissions,593.0,Chile
+2022-04-06,Weekly new hospital admissions,568.0,Chile
+2022-04-07,Weekly new hospital admissions,563.0,Chile
+2022-04-08,Weekly new hospital admissions,503.0,Chile
+2022-04-09,Weekly new hospital admissions,503.0,Chile
+2022-04-10,Weekly new hospital admissions,494.0,Chile
+2022-04-11,Weekly new hospital admissions,478.0,Chile
+2022-04-12,Weekly new hospital admissions,478.0,Chile
+2022-04-13,Weekly new hospital admissions,463.0,Chile
+2022-04-14,Weekly new hospital admissions,442.0,Chile
+2022-04-15,Weekly new hospital admissions,434.0,Chile
+2022-04-16,Weekly new hospital admissions,416.0,Chile
+2022-04-17,Weekly new hospital admissions,416.0,Chile
+2022-04-18,Weekly new hospital admissions,401.0,Chile
+2022-04-19,Weekly new hospital admissions,385.0,Chile
+2022-04-20,Weekly new hospital admissions,386.0,Chile
+2022-04-21,Weekly new hospital admissions,389.0,Chile
+2022-04-22,Weekly new hospital admissions,383.0,Chile
+2022-04-23,Weekly new hospital admissions,379.0,Chile
+2022-04-24,Weekly new hospital admissions,377.0,Chile
+2022-04-25,Weekly new hospital admissions,372.0,Chile
+2022-04-26,Weekly new hospital admissions,355.0,Chile
+2022-04-27,Weekly new hospital admissions,344.0,Chile
+2022-04-28,Weekly new hospital admissions,329.0,Chile
+2022-04-29,Weekly new hospital admissions,330.0,Chile
+2022-04-30,Weekly new hospital admissions,327.0,Chile
+2022-05-01,Weekly new hospital admissions,309.0,Chile
+2022-05-02,Weekly new hospital admissions,309.0,Chile
+2022-05-03,Weekly new hospital admissions,317.0,Chile
+2022-05-04,Weekly new hospital admissions,325.0,Chile
+2022-05-05,Weekly new hospital admissions,327.0,Chile
+2022-05-06,Weekly new hospital admissions,335.0,Chile
+2022-05-07,Weekly new hospital admissions,347.0,Chile
+2022-05-08,Weekly new hospital admissions,371.0,Chile
+2022-05-09,Weekly new hospital admissions,384.0,Chile
+2022-05-10,Weekly new hospital admissions,396.0,Chile
+2022-05-11,Weekly new hospital admissions,405.0,Chile
+2022-05-12,Weekly new hospital admissions,415.0,Chile
+2022-05-13,Weekly new hospital admissions,426.0,Chile
+2022-05-14,Weekly new hospital admissions,443.0,Chile
+2022-05-15,Weekly new hospital admissions,457.0,Chile
+2022-05-16,Weekly new hospital admissions,481.0,Chile
+2022-05-17,Weekly new hospital admissions,501.0,Chile
+2022-05-18,Weekly new hospital admissions,510.0,Chile
+2022-05-19,Weekly new hospital admissions,533.0,Chile
+2022-05-20,Weekly new hospital admissions,572.0,Chile
+2022-05-21,Weekly new hospital admissions,578.0,Chile
+2022-05-22,Weekly new hospital admissions,571.0,Chile
+2022-05-23,Weekly new hospital admissions,570.0,Chile
+2022-05-24,Weekly new hospital admissions,590.0,Chile
+2022-05-25,Weekly new hospital admissions,610.0,Chile
+2022-05-26,Weekly new hospital admissions,624.0,Chile
+2022-05-27,Weekly new hospital admissions,627.0,Chile
+2022-05-28,Weekly new hospital admissions,628.0,Chile
+2022-05-29,Weekly new hospital admissions,649.0,Chile
+2022-05-30,Weekly new hospital admissions,699.0,Chile
+2022-05-31,Weekly new hospital admissions,720.0,Chile
+2022-06-01,Weekly new hospital admissions,755.0,Chile
+2022-06-02,Weekly new hospital admissions,779.0,Chile
+2022-06-03,Weekly new hospital admissions,816.0,Chile
+2022-06-04,Weekly new hospital admissions,853.0,Chile
+2022-06-05,Weekly new hospital admissions,883.0,Chile
+2022-06-06,Weekly new hospital admissions,905.0,Chile
+2022-06-07,Weekly new hospital admissions,929.0,Chile
+2022-06-08,Weekly new hospital admissions,939.0,Chile
+2022-06-09,Weekly new hospital admissions,953.0,Chile
+2022-06-10,Weekly new hospital admissions,971.0,Chile
+2022-06-11,Weekly new hospital admissions,989.0,Chile
+2022-06-12,Weekly new hospital admissions,987.0,Chile
+2022-06-13,Weekly new hospital admissions,958.0,Chile
+2022-06-14,Weekly new hospital admissions,948.0,Chile
+2022-06-15,Weekly new hospital admissions,944.0,Chile
+2022-06-16,Weekly new hospital admissions,974.0,Chile
+2022-06-17,Weekly new hospital admissions,976.0,Chile
+2022-06-18,Weekly new hospital admissions,974.0,Chile
+2022-06-19,Weekly new hospital admissions,999.0,Chile
+2022-06-20,Weekly new hospital admissions,1023.0,Chile
+2022-06-21,Weekly new hospital admissions,1005.0,Chile
+2022-06-22,Weekly new hospital admissions,1034.0,Chile
+2022-06-23,Weekly new hospital admissions,1040.0,Chile
+2022-06-24,Weekly new hospital admissions,1039.0,Chile
+2022-06-25,Weekly new hospital admissions,1048.0,Chile
+2022-06-26,Weekly new hospital admissions,1055.0,Chile
+2022-06-27,Weekly new hospital admissions,1016.0,Chile
+2022-06-28,Weekly new hospital admissions,1048.0,Chile
+2022-06-29,Weekly new hospital admissions,1057.0,Chile
+2022-06-30,Weekly new hospital admissions,1047.0,Chile
+2022-07-01,Weekly new hospital admissions,1058.0,Chile
+2022-07-02,Weekly new hospital admissions,1086.0,Chile
+2022-07-03,Weekly new hospital admissions,1066.0,Chile
+2022-07-04,Weekly new hospital admissions,1119.0,Chile
+2022-07-05,Weekly new hospital admissions,1168.0,Chile
+2022-07-06,Weekly new hospital admissions,1149.0,Chile
+2022-07-07,Weekly new hospital admissions,1145.0,Chile
+2022-07-08,Weekly new hospital admissions,1113.0,Chile
+2022-07-09,Weekly new hospital admissions,1094.0,Chile
+2022-07-10,Weekly new hospital admissions,1112.0,Chile
+2022-07-11,Weekly new hospital admissions,1122.0,Chile
+2022-07-12,Weekly new hospital admissions,1088.0,Chile
+2022-07-13,Weekly new hospital admissions,1103.0,Chile
+2022-07-14,Weekly new hospital admissions,1111.0,Chile
+2022-07-15,Weekly new hospital admissions,1107.0,Chile
+2022-07-16,Weekly new hospital admissions,1092.0,Chile
+2022-07-17,Weekly new hospital admissions,1061.0,Chile
+2022-07-18,Weekly new hospital admissions,1037.0,Chile
+2022-07-19,Weekly new hospital admissions,1010.0,Chile
+2022-07-20,Weekly new hospital admissions,1002.0,Chile
+2022-07-21,Weekly new hospital admissions,993.0,Chile
+2022-07-22,Weekly new hospital admissions,1001.0,Chile
+2022-07-23,Weekly new hospital admissions,981.0,Chile
+2022-07-24,Weekly new hospital admissions,996.0,Chile
+2022-07-25,Weekly new hospital admissions,987.0,Chile
+2022-07-26,Weekly new hospital admissions,985.0,Chile
+2022-07-27,Weekly new hospital admissions,970.0,Chile
+2022-07-28,Weekly new hospital admissions,943.0,Chile
+2022-07-29,Weekly new hospital admissions,921.0,Chile
+2022-07-30,Weekly new hospital admissions,919.0,Chile
+2022-07-31,Weekly new hospital admissions,912.0,Chile
+2022-08-01,Weekly new hospital admissions,904.0,Chile
+2022-08-02,Weekly new hospital admissions,904.0,Chile
+2022-08-03,Weekly new hospital admissions,917.0,Chile
+2022-08-04,Weekly new hospital admissions,928.0,Chile
+2022-08-05,Weekly new hospital admissions,935.0,Chile
+2022-08-06,Weekly new hospital admissions,920.0,Chile
+2022-08-07,Weekly new hospital admissions,898.0,Chile
+2022-08-08,Weekly new hospital admissions,901.0,Chile
+2022-08-09,Weekly new hospital admissions,898.0,Chile
+2022-08-10,Weekly new hospital admissions,889.0,Chile
+2022-08-11,Weekly new hospital admissions,868.0,Chile
+2022-08-12,Weekly new hospital admissions,856.0,Chile
+2022-08-13,Weekly new hospital admissions,862.0,Chile
+2022-08-14,Weekly new hospital admissions,853.0,Chile
+2022-08-15,Weekly new hospital admissions,821.0,Chile
+2022-08-16,Weekly new hospital admissions,797.0,Chile
+2022-08-17,Weekly new hospital admissions,793.0,Chile
+2022-08-18,Weekly new hospital admissions,833.0,Chile
+2022-08-19,Weekly new hospital admissions,863.0,Chile
+2022-08-20,Weekly new hospital admissions,898.0,Chile
+2022-08-21,Weekly new hospital admissions,908.0,Chile
+2022-08-22,Weekly new hospital admissions,934.0,Chile
+2022-08-23,Weekly new hospital admissions,943.0,Chile
+2022-08-24,Weekly new hospital admissions,936.0,Chile
+2022-08-25,Weekly new hospital admissions,902.0,Chile
+2022-08-26,Weekly new hospital admissions,873.0,Chile
+2022-08-27,Weekly new hospital admissions,837.0,Chile
+2022-08-28,Weekly new hospital admissions,823.0,Chile
+2022-08-29,Weekly new hospital admissions,793.0,Chile
+2022-08-30,Weekly new hospital admissions,792.0,Chile
+2022-08-31,Weekly new hospital admissions,775.0,Chile
+2022-09-01,Weekly new hospital admissions,755.0,Chile
+2022-09-02,Weekly new hospital admissions,753.0,Chile
+2022-09-03,Weekly new hospital admissions,750.0,Chile
+2022-09-04,Weekly new hospital admissions,754.0,Chile
+2022-09-05,Weekly new hospital admissions,746.0,Chile
+2022-09-06,Weekly new hospital admissions,736.0,Chile
+2022-09-07,Weekly new hospital admissions,711.0,Chile
+2022-09-08,Weekly new hospital admissions,705.0,Chile
+2022-09-09,Weekly new hospital admissions,704.0,Chile
+2022-09-10,Weekly new hospital admissions,672.0,Chile
+2022-09-11,Weekly new hospital admissions,661.0,Chile
+2022-09-12,Weekly new hospital admissions,661.0,Chile
+2022-09-13,Weekly new hospital admissions,653.0,Chile
+2022-09-14,Weekly new hospital admissions,658.0,Chile
+2022-09-15,Weekly new hospital admissions,646.0,Chile
+2022-09-16,Weekly new hospital admissions,593.0,Chile
+2022-09-17,Weekly new hospital admissions,605.0,Chile
+2022-09-18,Weekly new hospital admissions,595.0,Chile
+2022-09-19,Weekly new hospital admissions,569.0,Chile
+2022-09-20,Weekly new hospital admissions,550.0,Chile
+2022-09-21,Weekly new hospital admissions,572.0,Chile
+2022-09-22,Weekly new hospital admissions,587.0,Chile
+2022-09-23,Weekly new hospital admissions,607.0,Chile
+2022-09-24,Weekly new hospital admissions,601.0,Chile
+2022-09-25,Weekly new hospital admissions,604.0,Chile
+2022-09-26,Weekly new hospital admissions,639.0,Chile
+2022-09-27,Weekly new hospital admissions,656.0,Chile
+2022-09-28,Weekly new hospital admissions,625.0,Chile
+2022-09-29,Weekly new hospital admissions,612.0,Chile
+2022-09-30,Weekly new hospital admissions,594.0,Chile
+2022-10-01,Weekly new hospital admissions,580.0,Chile
+2022-10-02,Weekly new hospital admissions,575.0,Chile
+2022-10-03,Weekly new hospital admissions,551.0,Chile
+2022-10-04,Weekly new hospital admissions,524.0,Chile
+2022-10-05,Weekly new hospital admissions,510.0,Chile
+2022-10-06,Weekly new hospital admissions,494.0,Chile
+2022-10-07,Weekly new hospital admissions,498.0,Chile
+2022-10-08,Weekly new hospital admissions,498.0,Chile
+2022-10-09,Weekly new hospital admissions,495.0,Chile
+2022-10-10,Weekly new hospital admissions,482.0,Chile
+2022-10-11,Weekly new hospital admissions,482.0,Chile
+2022-10-12,Weekly new hospital admissions,482.0,Chile
+2022-10-13,Weekly new hospital admissions,491.0,Chile
+2022-10-14,Weekly new hospital admissions,493.0,Chile
+2022-10-15,Weekly new hospital admissions,516.0,Chile
+2022-10-16,Weekly new hospital admissions,521.0,Chile
+2022-10-17,Weekly new hospital admissions,560.0,Chile
+2022-10-18,Weekly new hospital admissions,601.0,Chile
+2022-10-19,Weekly new hospital admissions,623.0,Chile
+2022-10-20,Weekly new hospital admissions,647.0,Chile
+2022-10-21,Weekly new hospital admissions,659.0,Chile
+2022-10-22,Weekly new hospital admissions,670.0,Chile
+2022-10-23,Weekly new hospital admissions,676.0,Chile
+2022-10-24,Weekly new hospital admissions,694.0,Chile
+2022-10-25,Weekly new hospital admissions,673.0,Chile
+2022-10-26,Weekly new hospital admissions,669.0,Chile
+2022-10-27,Weekly new hospital admissions,642.0,Chile
+2022-10-28,Weekly new hospital admissions,667.0,Chile
+2022-10-29,Weekly new hospital admissions,662.0,Chile
+2022-10-30,Weekly new hospital admissions,666.0,Chile
+2022-10-31,Weekly new hospital admissions,624.0,Chile
+2022-11-01,Weekly new hospital admissions,641.0,Chile
+2022-11-02,Weekly new hospital admissions,680.0,Chile
+2022-11-03,Weekly new hospital admissions,728.0,Chile
+2022-11-04,Weekly new hospital admissions,752.0,Chile
+2022-11-05,Weekly new hospital admissions,789.0,Chile
+2022-11-06,Weekly new hospital admissions,812.0,Chile
+2022-11-07,Weekly new hospital admissions,856.0,Chile
+2022-11-08,Weekly new hospital admissions,871.0,Chile
+2022-11-09,Weekly new hospital admissions,857.0,Chile
+2022-11-10,Weekly new hospital admissions,846.0,Chile
+2022-11-11,Weekly new hospital admissions,824.0,Chile
+2022-11-12,Weekly new hospital admissions,821.0,Chile
+2022-11-13,Weekly new hospital admissions,809.0,Chile
+2022-11-14,Weekly new hospital admissions,800.0,Chile
+2022-11-15,Weekly new hospital admissions,805.0,Chile
+2022-11-16,Weekly new hospital admissions,800.0,Chile
+2022-11-17,Weekly new hospital admissions,798.0,Chile
+2022-11-18,Weekly new hospital admissions,807.0,Chile
+2022-11-19,Weekly new hospital admissions,793.0,Chile
+2022-11-20,Weekly new hospital admissions,786.0,Chile
+2022-11-21,Weekly new hospital admissions,775.0,Chile
+2022-11-22,Weekly new hospital admissions,737.0,Chile
+2022-11-23,Weekly new hospital admissions,730.0,Chile
+2022-11-24,Weekly new hospital admissions,713.0,Chile
+2022-11-25,Weekly new hospital admissions,689.0,Chile
+2022-11-26,Weekly new hospital admissions,663.0,Chile
+2022-11-27,Weekly new hospital admissions,643.0,Chile
+2022-11-28,Weekly new hospital admissions,645.0,Chile
+2022-11-29,Weekly new hospital admissions,635.0,Chile
+2022-11-30,Weekly new hospital admissions,611.0,Chile
+2022-12-01,Weekly new hospital admissions,596.0,Chile
+2022-12-02,Weekly new hospital admissions,611.0,Chile
+2022-12-03,Weekly new hospital admissions,607.0,Chile
+2022-12-04,Weekly new hospital admissions,618.0,Chile
+2022-12-05,Weekly new hospital admissions,584.0,Chile
+2022-12-06,Weekly new hospital admissions,599.0,Chile
+2022-12-07,Weekly new hospital admissions,606.0,Chile
+2022-12-08,Weekly new hospital admissions,579.0,Chile
+2022-12-09,Weekly new hospital admissions,544.0,Chile
+2022-12-10,Weekly new hospital admissions,538.0,Chile
+2022-12-11,Weekly new hospital admissions,511.0,Chile
+2022-12-12,Weekly new hospital admissions,535.0,Chile
+2022-12-13,Weekly new hospital admissions,514.0,Chile
+2022-12-14,Weekly new hospital admissions,500.0,Chile
+2022-12-15,Weekly new hospital admissions,524.0,Chile
+2022-12-16,Weekly new hospital admissions,546.0,Chile
+2022-12-17,Weekly new hospital admissions,562.0,Chile
+2022-12-18,Weekly new hospital admissions,569.0,Chile
+2022-12-19,Weekly new hospital admissions,565.0,Chile
+2022-12-20,Weekly new hospital admissions,557.0,Chile
+2022-12-21,Weekly new hospital admissions,569.0,Chile
+2022-12-22,Weekly new hospital admissions,582.0,Chile
+2022-12-23,Weekly new hospital admissions,578.0,Chile
+2022-12-24,Weekly new hospital admissions,557.0,Chile
+2022-12-25,Weekly new hospital admissions,576.0,Chile
+2022-12-26,Weekly new hospital admissions,600.0,Chile
+2022-12-27,Weekly new hospital admissions,645.0,Chile
+2022-12-28,Weekly new hospital admissions,654.0,Chile
+2022-12-29,Weekly new hospital admissions,677.0,Chile
+2022-12-30,Weekly new hospital admissions,675.0,Chile
+2022-12-31,Weekly new hospital admissions,700.0,Chile
+2023-01-01,Weekly new hospital admissions,711.0,Chile
+2023-01-02,Weekly new hospital admissions,667.0,Chile
+2023-01-03,Weekly new hospital admissions,650.0,Chile
+2023-01-04,Weekly new hospital admissions,674.0,Chile
+2023-01-05,Weekly new hospital admissions,689.0,Chile
+2023-01-06,Weekly new hospital admissions,721.0,Chile
+2023-01-07,Weekly new hospital admissions,714.0,Chile
+2023-01-08,Weekly new hospital admissions,710.0,Chile
+2023-01-09,Weekly new hospital admissions,745.0,Chile
+2023-01-10,Weekly new hospital admissions,759.0,Chile
+2023-01-11,Weekly new hospital admissions,742.0,Chile
+2023-01-12,Weekly new hospital admissions,689.0,Chile
+2023-01-13,Weekly new hospital admissions,674.0,Chile
+2023-01-14,Weekly new hospital admissions,673.0,Chile
+2023-01-15,Weekly new hospital admissions,655.0,Chile
+2023-01-16,Weekly new hospital admissions,627.0,Chile
+2023-01-17,Weekly new hospital admissions,592.0,Chile
+2023-01-18,Weekly new hospital admissions,576.0,Chile
+2023-01-19,Weekly new hospital admissions,591.0,Chile
+2023-01-20,Weekly new hospital admissions,566.0,Chile
+2023-01-21,Weekly new hospital admissions,552.0,Chile
+2023-01-22,Weekly new hospital admissions,547.0,Chile
+2023-01-23,Weekly new hospital admissions,532.0,Chile
+2023-01-24,Weekly new hospital admissions,531.0,Chile
+2023-01-25,Weekly new hospital admissions,505.0,Chile
+2023-01-26,Weekly new hospital admissions,474.0,Chile
+2023-01-27,Weekly new hospital admissions,448.0,Chile
+2023-01-28,Weekly new hospital admissions,450.0,Chile
+2023-01-29,Weekly new hospital admissions,435.0,Chile
+2023-01-30,Weekly new hospital admissions,437.0,Chile
+2023-01-31,Weekly new hospital admissions,432.0,Chile
+2023-02-01,Weekly new hospital admissions,432.0,Chile
+2023-02-02,Weekly new hospital admissions,424.0,Chile
+2023-02-03,Weekly new hospital admissions,425.0,Chile
+2023-02-04,Weekly new hospital admissions,417.0,Chile
+2023-02-05,Weekly new hospital admissions,422.0,Chile
+2023-02-06,Weekly new hospital admissions,425.0,Chile
+2023-02-07,Weekly new hospital admissions,417.0,Chile
+2023-02-08,Weekly new hospital admissions,410.0,Chile
+2023-02-09,Weekly new hospital admissions,422.0,Chile
+2023-02-10,Weekly new hospital admissions,422.0,Chile
+2023-02-11,Weekly new hospital admissions,409.0,Chile
+2023-02-12,Weekly new hospital admissions,398.0,Chile
+2023-02-13,Weekly new hospital admissions,382.0,Chile
+2023-02-14,Weekly new hospital admissions,367.0,Chile
+2023-02-15,Weekly new hospital admissions,359.0,Chile
+2023-02-16,Weekly new hospital admissions,340.0,Chile
+2023-02-17,Weekly new hospital admissions,332.0,Chile
+2023-02-18,Weekly new hospital admissions,334.0,Chile
+2023-02-19,Weekly new hospital admissions,343.0,Chile
+2023-02-20,Weekly new hospital admissions,363.0,Chile
+2023-02-21,Weekly new hospital admissions,368.0,Chile
+2023-02-22,Weekly new hospital admissions,389.0,Chile
+2023-02-23,Weekly new hospital admissions,400.0,Chile
+2023-02-24,Weekly new hospital admissions,410.0,Chile
+2023-02-25,Weekly new hospital admissions,418.0,Chile
+2023-02-26,Weekly new hospital admissions,431.0,Chile
+2023-02-27,Weekly new hospital admissions,412.0,Chile
+2023-02-28,Weekly new hospital admissions,403.0,Chile
+2023-03-01,Weekly new hospital admissions,399.0,Chile
+2023-03-02,Weekly new hospital admissions,404.0,Chile
+2023-03-03,Weekly new hospital admissions,406.0,Chile
+2023-03-04,Weekly new hospital admissions,421.0,Chile
+2023-03-05,Weekly new hospital admissions,425.0,Chile
+2023-03-06,Weekly new hospital admissions,450.0,Chile
+2023-03-07,Weekly new hospital admissions,478.0,Chile
+2023-03-08,Weekly new hospital admissions,486.0,Chile
+2023-03-09,Weekly new hospital admissions,490.0,Chile
+2023-03-10,Weekly new hospital admissions,510.0,Chile
+2023-03-11,Weekly new hospital admissions,494.0,Chile
+2023-03-12,Weekly new hospital admissions,491.0,Chile
+2023-03-13,Weekly new hospital admissions,485.0,Chile
+2023-03-14,Weekly new hospital admissions,483.0,Chile
+2023-03-15,Weekly new hospital admissions,485.0,Chile
+2023-03-16,Weekly new hospital admissions,498.0,Chile
+2023-03-17,Weekly new hospital admissions,498.0,Chile
+2023-03-18,Weekly new hospital admissions,502.0,Chile
+2023-03-19,Weekly new hospital admissions,509.0,Chile
+2023-03-20,Weekly new hospital admissions,503.0,Chile
+2023-03-21,Weekly new hospital admissions,502.0,Chile
+2023-03-22,Weekly new hospital admissions,501.0,Chile
+2023-03-23,Weekly new hospital admissions,495.0,Chile
+2023-03-24,Weekly new hospital admissions,461.0,Chile
+2023-03-25,Weekly new hospital admissions,445.0,Chile
+2023-03-26,Weekly new hospital admissions,439.0,Chile
+2023-03-27,Weekly new hospital admissions,449.0,Chile
+2023-03-28,Weekly new hospital admissions,440.0,Chile
+2023-03-29,Weekly new hospital admissions,422.0,Chile
+2023-03-30,Weekly new hospital admissions,402.0,Chile
+2023-03-31,Weekly new hospital admissions,422.0,Chile
+2023-04-01,Weekly new hospital admissions,425.0,Chile
+2023-04-02,Weekly new hospital admissions,404.0,Chile
+2023-04-03,Weekly new hospital admissions,378.0,Chile
+2023-04-04,Weekly new hospital admissions,365.0,Chile
+2023-04-05,Weekly new hospital admissions,339.0,Chile
+2023-04-06,Weekly new hospital admissions,319.0,Chile
+2023-04-07,Weekly new hospital admissions,279.0,Chile
+2023-04-08,Weekly new hospital admissions,266.0,Chile
+2023-04-09,Weekly new hospital admissions,261.0,Chile
+2023-04-10,Weekly new hospital admissions,256.0,Chile
+2023-04-11,Weekly new hospital admissions,240.0,Chile
+2023-04-12,Weekly new hospital admissions,249.0,Chile
+2023-04-13,Weekly new hospital admissions,248.0,Chile
+2023-04-14,Weekly new hospital admissions,247.0,Chile
+2023-04-15,Weekly new hospital admissions,,Chile
+2023-04-16,Weekly new hospital admissions,,Chile
+2023-04-17,Weekly new hospital admissions,,Chile
+2023-04-18,Weekly new hospital admissions,,Chile
+2023-04-19,Weekly new hospital admissions,,Chile
+2023-04-20,Weekly new hospital admissions,,Chile
+2023-04-21,Weekly new hospital admissions,,Chile
+2023-04-22,Weekly new hospital admissions,,Chile
+2023-04-23,Weekly new hospital admissions,,Chile
+2023-04-24,Weekly new hospital admissions,,Chile
+2023-04-25,Weekly new hospital admissions,,Chile
+2023-04-26,Weekly new hospital admissions,,Chile
+2023-04-27,Weekly new hospital admissions,,Chile
+2023-04-28,Weekly new hospital admissions,,Chile
+2023-04-29,Weekly new hospital admissions,,Chile
+2023-04-30,Weekly new hospital admissions,,Chile
+2023-05-01,Weekly new hospital admissions,,Chile
+2023-05-02,Weekly new hospital admissions,,Chile
+2023-05-03,Weekly new hospital admissions,,Chile
+2023-05-04,Weekly new hospital admissions,,Chile
+2023-05-05,Weekly new hospital admissions,,Chile
+2023-05-06,Weekly new hospital admissions,,Chile
+2023-05-07,Weekly new hospital admissions,,Chile
+2023-05-08,Weekly new hospital admissions,,Chile
+2023-05-09,Weekly new hospital admissions,,Chile
+2023-05-10,Weekly new hospital admissions,,Chile
+2023-05-11,Weekly new hospital admissions,,Chile
+2023-05-12,Weekly new hospital admissions,,Chile
+2023-05-13,Weekly new hospital admissions,,Chile
+2023-05-14,Weekly new hospital admissions,,Chile
+2023-05-15,Weekly new hospital admissions,,Chile
+2023-05-16,Weekly new hospital admissions,,Chile
+2023-05-17,Weekly new hospital admissions,,Chile
+2023-05-18,Weekly new hospital admissions,,Chile
+2023-05-19,Weekly new hospital admissions,,Chile
+2023-05-20,Weekly new hospital admissions,,Chile
+2023-05-21,Weekly new hospital admissions,,Chile
+2023-05-22,Weekly new hospital admissions,,Chile
+2023-05-23,Weekly new hospital admissions,,Chile
+2023-05-24,Weekly new hospital admissions,,Chile
+2023-05-25,Weekly new hospital admissions,,Chile
+2023-05-26,Weekly new hospital admissions,,Chile
+2023-05-27,Weekly new hospital admissions,,Chile
+2023-05-28,Weekly new hospital admissions,,Chile
+2023-05-29,Weekly new hospital admissions,,Chile
+2023-05-30,Weekly new hospital admissions,,Chile
+2023-05-31,Weekly new hospital admissions,,Chile
+2023-06-01,Weekly new hospital admissions,,Chile
+2023-06-02,Weekly new hospital admissions,,Chile
+2023-06-03,Weekly new hospital admissions,,Chile
+2023-06-04,Weekly new hospital admissions,,Chile
+2023-06-05,Weekly new hospital admissions,,Chile
+2023-06-06,Weekly new hospital admissions,,Chile
+2023-06-07,Weekly new hospital admissions,,Chile
+2023-06-08,Weekly new hospital admissions,,Chile
+2023-06-09,Weekly new hospital admissions,,Chile
+2023-06-10,Weekly new hospital admissions,,Chile
+2023-06-11,Weekly new hospital admissions,,Chile
+2023-06-12,Weekly new hospital admissions,,Chile
+2023-06-13,Weekly new hospital admissions,,Chile
+2023-06-14,Weekly new hospital admissions,,Chile
+2023-06-15,Weekly new hospital admissions,,Chile
+2023-06-16,Weekly new hospital admissions,,Chile
+2023-06-17,Weekly new hospital admissions,,Chile
+2023-06-18,Weekly new hospital admissions,,Chile
+2023-06-19,Weekly new hospital admissions,,Chile
+2023-06-20,Weekly new hospital admissions,,Chile
+2023-06-21,Weekly new hospital admissions,,Chile
+2023-06-22,Weekly new hospital admissions,,Chile
+2023-06-23,Weekly new hospital admissions,,Chile
+2023-06-24,Weekly new hospital admissions,,Chile
+2023-06-25,Weekly new hospital admissions,,Chile
+2023-06-26,Weekly new hospital admissions,,Chile
+2023-06-27,Weekly new hospital admissions,,Chile
+2023-06-28,Weekly new hospital admissions,,Chile
+2023-06-29,Weekly new hospital admissions,,Chile
+2023-06-30,Weekly new hospital admissions,,Chile
+2023-07-01,Weekly new hospital admissions,,Chile
+2023-07-02,Weekly new hospital admissions,,Chile
+2023-07-03,Weekly new hospital admissions,,Chile
+2023-07-04,Weekly new hospital admissions,,Chile
+2023-07-05,Weekly new hospital admissions,,Chile
+2023-07-06,Weekly new hospital admissions,,Chile
+2023-07-07,Weekly new hospital admissions,,Chile
+2023-07-08,Weekly new hospital admissions,,Chile
+2023-07-09,Weekly new hospital admissions,,Chile
+2023-07-10,Weekly new hospital admissions,,Chile
+2023-07-11,Weekly new hospital admissions,,Chile
+2023-07-12,Weekly new hospital admissions,,Chile
+2023-07-13,Weekly new hospital admissions,,Chile
+2023-07-14,Weekly new hospital admissions,,Chile
+2023-07-15,Weekly new hospital admissions,,Chile
+2023-07-16,Weekly new hospital admissions,,Chile
+2023-07-17,Weekly new hospital admissions,,Chile
+2023-07-18,Weekly new hospital admissions,,Chile
+2023-07-19,Weekly new hospital admissions,,Chile
+2023-07-20,Weekly new hospital admissions,,Chile
+2023-07-21,Weekly new hospital admissions,,Chile
+2023-07-22,Weekly new hospital admissions,,Chile
+2023-07-23,Weekly new hospital admissions,,Chile
+2023-07-24,Weekly new hospital admissions,,Chile
+2023-07-25,Weekly new hospital admissions,,Chile
+2023-07-26,Weekly new hospital admissions,,Chile
+2023-07-27,Weekly new hospital admissions,,Chile
+2023-07-28,Weekly new hospital admissions,,Chile
+2023-07-29,Weekly new hospital admissions,,Chile
+2023-07-30,Weekly new hospital admissions,,Chile
+2023-07-31,Weekly new hospital admissions,,Chile
+2023-08-01,Weekly new hospital admissions,,Chile
+2023-08-02,Weekly new hospital admissions,,Chile
+2023-08-03,Weekly new hospital admissions,,Chile
+2023-08-04,Weekly new hospital admissions,,Chile
+2023-08-05,Weekly new hospital admissions,,Chile
+2023-08-06,Weekly new hospital admissions,,Chile
+2023-08-07,Weekly new hospital admissions,,Chile
+2023-08-08,Weekly new hospital admissions,,Chile
+2023-08-09,Weekly new hospital admissions,,Chile
+2023-08-10,Weekly new hospital admissions,,Chile
+2023-08-11,Weekly new hospital admissions,,Chile
+2023-08-12,Weekly new hospital admissions,,Chile
+2023-08-13,Weekly new hospital admissions,,Chile
+2023-08-14,Weekly new hospital admissions,,Chile
+2023-08-15,Weekly new hospital admissions,,Chile
+2023-08-16,Weekly new hospital admissions,,Chile
+2023-08-17,Weekly new hospital admissions,,Chile
+2023-08-18,Weekly new hospital admissions,,Chile
+2023-08-19,Weekly new hospital admissions,,Chile
+2023-08-20,Weekly new hospital admissions,,Chile
+2023-08-21,Weekly new hospital admissions,,Chile
+2023-08-22,Weekly new hospital admissions,,Chile
+2023-08-23,Weekly new hospital admissions,,Chile
+2023-08-24,Weekly new hospital admissions,,Chile
+2023-08-25,Weekly new hospital admissions,,Chile
+2023-08-26,Weekly new hospital admissions,,Chile
+2023-08-27,Weekly new hospital admissions,,Chile
+2023-08-28,Weekly new hospital admissions,,Chile
+2023-08-29,Weekly new hospital admissions,,Chile
+2023-08-30,Weekly new hospital admissions,,Chile
+2023-08-31,Weekly new hospital admissions,,Chile

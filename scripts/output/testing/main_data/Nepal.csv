@@ -1,0 +1,770 @@
+Country,Date,Cumulative total,Positive rate,Units,Source URL,Source label,Notes,positive
+Nepal,2020-01-28,3,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-01-29,4,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-01-30,5,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-04,14,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-06,18,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-12,20,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-13,24,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-16,34,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-18,35,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-19,210,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-20,212,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-23,216,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-24,217,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-25,221,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-26,222,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-02-28,224,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-01,243,0.000,samples tested,https://drive.google.com/drive/folders/1yH0s9B5pv8zwqO9zBBO2fMIFYRMnsk6a,Ministry of Health and Population,Cross-checked on 2020-07-06 to ensure accuracy,1
+Nepal,2020-03-02,425,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-03,433,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-06,437,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-10,445,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-11,447,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-12,450,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-13,456,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-15,467,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-16,478,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-17,496,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-18,512,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-19,529,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-20,546,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-22,572,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1
+Nepal,2020-03-23,609,0.007,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,2
+Nepal,2020-03-24,610,0.008,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,2
+Nepal,2020-03-25,687,0.010,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,3
+Nepal,2020-03-26,758,0.008,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,3
+Nepal,2020-03-27,802,0.011,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,4
+Nepal,2020-03-28,875,0.012,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5
+Nepal,2020-03-29,917,0.012,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5
+Nepal,2020-03-30,993,0.008,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5
+Nepal,2020-03-31,1060,0.007,samples tested,https://drive.google.com/drive/folders/1uO2_GnQTSiCtJPDnbINv_Odtdl_VKpyD,Ministry of Health and Population,Cross-checked on 2020-06-22 to ensure accuracy,5
+Nepal,2020-04-01,1145,0.004,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5
+Nepal,2020-04-02,1185,0.007,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,6
+Nepal,2020-04-03,1308,0.004,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,6
+Nepal,2020-04-04,1521,0.006,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-05,1642,0.006,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-06,1890,0.004,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-07,2122,0.004,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-08,2366,0.003,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-09,2895,0.002,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-10,3525,0.001,samples tested,https://drive.google.com/drive/folders/1GcoNPNhWAv7y6rl4idKYEMVOsyCUlB2e,Ministry of Health and Population,Cross-checked on 2020-07-03 to ensure accuracy,9
+Nepal,2020-04-11,4426,0.000,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,9
+Nepal,2020-04-12,5184,0.001,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,12
+Nepal,2020-04-13,5691,0.001,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,14
+Nepal,2020-04-14,6299,0.002,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,16
+Nepal,2020-04-15,6871,0.002,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,16
+Nepal,2020-04-16,7240,0.002,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,16
+Nepal,2020-04-17,7458,0.005,samples tested,https://drive.google.com/drive/folders/1Im4kEmlqIBYMsbgm1m2F1ZhelyB4mBl9,Ministry of Health and Population,Cross-checked on 2020-05-11 to ensure accuracy,30
+Nepal,2020-04-18,8013,0.006,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,31
+Nepal,2020-04-19,8081,0.007,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,31
+Nepal,2020-04-20,8414,0.006,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,31
+Nepal,2020-04-21,8763,0.011,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,43
+Nepal,2020-04-22,9014,0.014,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,45
+Nepal,2020-04-23,9200,0.016,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,48
+Nepal,2020-04-24,9406,0.010,samples tested,https://drive.google.com/drive/folders/1enqv__aze8Vohq2XIPDYRXYj8ftVJkWB,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,49
+Nepal,2020-04-25,9666,0.011,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,49
+Nepal,2020-04-26,9931,0.011,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,52
+Nepal,2020-04-27,10471,0.010,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,52
+Nepal,2020-04-28,10807,0.005,samples tested,https://drive.google.com/drive/folders/1XkgfqqN5uAl8pFIkQ8T8S3GB_v3uCagh,Ministry of Health and Population,Cross-checked on 2020-07-03 to ensure accuracy,54
+Nepal,2020-04-29,11524,0.005,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,57
+Nepal,2020-04-30,12011,0.003,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,57
+Nepal,2020-05-01,12577,0.003,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,59
+Nepal,2020-05-02,13098,0.003,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,59
+Nepal,2020-05-03,13424,0.007,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,75
+Nepal,2020-05-04,13640,0.007,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,75
+Nepal,2020-05-05,13850,0.009,samples tested,https://drive.google.com/drive/folders/1_7yp89OuF6SZoYMBd1Ua-WILL_Vsqeor,Ministry of Health and Population,Cross-checked on 2020-06-05 to ensure accuracy,82
+Nepal,2020-05-06,14096,0.016,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,99
+Nepal,2020-05-07,14511,0.018,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,101
+Nepal,2020-05-08,15492,0.015,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,102
+Nepal,2020-05-09,16309,0.016,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,110
+Nepal,2020-05-10,16898,0.010,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,110
+Nepal,2020-05-11,17809,0.014,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,134
+Nepal,2020-05-12,18964,0.026,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,217
+Nepal,2020-05-13,21340,0.021,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,250
+Nepal,2020-05-14,22664,0.018,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,249
+Nepal,2020-05-15,23914,0.020,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,267
+Nepal,2020-05-16,26691,0.017,samples tested,https://drive.google.com/drive/folders/1SPfN_i7kEOgzPgBf2D8Yvkl9L6gTkNae,Ministry of Health and Population,Cross-checked on 2020-07-15 to ensure accuracy,291
+Nepal,2020-05-17,28161,0.016,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,295
+Nepal,2020-05-18,30724,0.019,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,375
+Nepal,2020-05-19,33006,0.013,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,402
+Nepal,2020-05-20,35494,0.013,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,427
+Nepal,2020-05-21,38737,0.013,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,457
+Nepal,2020-05-22,42517,0.013,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,516
+Nepal,2020-05-23,45959,0.015,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,584
+Nepal,2020-05-24,48815,0.015,samples tested,https://drive.google.com/drive/folders/1xJRo0riv0zzTln4FHCxoOSnVnFgbatf0,Ministry of Health and Population,Cross-checked on 2020-07-09 to ensure accuracy,603
+Nepal,2020-05-25,51642,0.015,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,682
+Nepal,2020-05-26,54697,0.017,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,772
+Nepal,2020-05-27,58277,0.020,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,886
+Nepal,2020-05-28,60916,0.026,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1042
+Nepal,2020-05-29,64154,0.032,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1212
+Nepal,2020-05-30,66729,0.039,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1401
+Nepal,2020-05-31,69587,0.047,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1572
+Nepal,2020-06-01,71903,0.056,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,1811
+Nepal,2020-06-02,75343,0.064,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,2099
+Nepal,2020-06-03,80267,0.064,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,2300
+Nepal,2020-06-04,84134,0.069,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,2634
+Nepal,2020-06-05,88366,0.070,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,2912
+Nepal,2020-06-06,92477,0.071,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,3235
+Nepal,2020-06-07,96205,0.070,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,3448
+Nepal,2020-06-08,100971,0.067,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,3762
+Nepal,2020-06-09,106330,0.064,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,4086
+Nepal,2020-06-10,110744,0.068,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,4364
+Nepal,2020-06-11,115937,0.062,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,4614
+Nepal,2020-06-12,121862,0.064,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5062
+Nepal,2020-06-13,127288,0.060,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5335
+Nepal,2020-06-14,133377,0.062,samples tested,https://github.com/raunakms/covid19nepal/blob/master/data/data_total.tsv,Ministry of Health and Population,Made available on GitHub by Raunak Shrestha,5760
+Nepal,2020-06-15,138683,0.065,samples tested,https://drive.google.com/drive/folders/1q8iu-MxQjj4E6U8dh5eV3m1GGGvUOXDU,Ministry of Health and Population,,6211
+Nepal,2020-06-16,143738,0.067,samples tested,https://drive.google.com/drive/folders/1Y4-cXU5EFCfFQgNW18GjN2I33n-gcMwT,Ministry of Health and Population,,6591
+Nepal,2020-06-17,149772,0.072,samples tested,https://drive.google.com/drive/folders/1vUWyBAzbHUq011mrrnfT8zDKIJ-3Zw-H,Ministry of Health and Population,,7177
+Nepal,2020-06-18,155518,0.082,samples tested,https://drive.google.com/drive/folders/1PM0o_x-svgdk6Fv08HZSZADnWZMysjGp,Ministry of Health and Population,,7848
+Nepal,2020-06-19,161749,0.081,samples tested,https://drive.google.com/drive/folders/1sgzQNZfHg0sE_F2e1tDE4mCPoeK5H_-x,Ministry of Health and Population,,8274
+Nepal,2020-06-20,169165,0.078,samples tested,https://drive.google.com/drive/folders/19ctUy4qYU7rzcLkpB74fb-MZophKXai7,Ministry of Health and Population,,8605
+Nepal,2020-06-21,175173,0.078,samples tested,https://drive.google.com/drive/folders/1xXDgakAuGv-QwJmdohXJpIHk2mQ_cogE,Ministry of Health and Population,,9026
+Nepal,2020-06-22,181371,0.078,samples tested,https://drive.google.com/drive/folders/1nfUbDAWL9ZIYnbSk69yUwFWlrDxJSUFw,Ministry of Health and Population,,9561
+Nepal,2020-06-23,186366,0.082,samples tested,https://drive.google.com/drive/folders/1A3NSM5txme2F3DOBdKxDoVo1T-ZmK0Li,Ministry of Health and Population,,10099
+Nepal,2020-06-24,193194,0.082,samples tested,https://drive.google.com/drive/folders/1dyMmddPqnJQ2CrP5SweaXExMWmQ8jmkZ,Ministry of Health and Population,,10728
+Nepal,2020-06-25,199737,0.075,samples tested,https://drive.google.com/drive/folders/1n6h2X7KU8hbsYojj62auPOkR8BonNThg,Ministry of Health and Population,,11162
+Nepal,2020-06-26,206271,0.078,samples tested,https://drive.google.com/drive/folders/12184e3UORREk5nAtkL6rfG1JWOLAQOk5,Ministry of Health and Population,,11755
+Nepal,2020-06-27,210877,0.089,samples tested,https://drive.google.com/drive/folders/1GSpFcDX6yNj9yJdyY0svnRdYNdrPUQX0,Ministry of Health and Population,,12309
+Nepal,2020-06-28,215839,0.092,samples tested,https://drive.google.com/drive/folders/1I2cnpj8lTZjtdiT7u6CZufxoSHgvbgZd,Ministry of Health and Population,,12772
+Nepal,2020-06-29,223630,0.087,samples tested,https://drive.google.com/drive/folders/1k_SJoBUSEhz9d6y64jpxk3Mq6QsJeoYK,Ministry of Health and Population,,13248
+Nepal,2020-06-30,228341,0.083,samples tested,https://drive.google.com/drive/folders/1Zy_JafN3legwaOhIvOh8vgve0NpE5Jfw,Ministry of Health and Population,,13564
+Nepal,2020-07-01,233227,0.083,samples tested,https://drive.google.com/drive/folders/1FAADIjZP2uDHDO6XC0Tmjn7nLpBRXN6o,Ministry of Health and Population,,14046
+Nepal,2020-07-02,237764,0.088,samples tested,https://drive.google.com/drive/folders/1ImT8AiKLHFY7NsL34OaL8hr6SThSiII5,Ministry of Health and Population,,14519
+Nepal,2020-07-03,242247,0.097,samples tested,https://drive.google.com/drive/folders/18dIcQBD7WSFD2UAR27LyJaqStqxAvrF7,Ministry of Health and Population,,15259
+Nepal,2020-07-04,246297,0.090,samples tested,https://drive.google.com/drive/folders/1Tw8aZQ78p2vc7shsyIB0N1cBq5Aloz7c,Ministry of Health and Population,,15491
+Nepal,2020-07-05,251007,0.086,samples tested,https://drive.google.com/drive/folders/1Hc_dajApQVKP4vIFMBOteuczvZIVsMWN,Ministry of Health and Population,,15784
+Nepal,2020-07-06,255728,0.085,samples tested,https://drive.google.com/drive/folders/1teypKBP-Okq8quX48fARHlbHgyO1JWc7,Ministry of Health and Population,,15964
+Nepal,2020-07-07,261861,0.078,samples tested,https://drive.google.com/drive/folders/1rUFiqzbJOoV03IrHF8RpCoIBwcndIILz,Ministry of Health and Population,,16168
+Nepal,2020-07-08,266557,0.071,samples tested,https://drive.google.com/drive/folders/1JEMRNmkhC-tnClX5Fk9eaqfPPexXIvrK,Ministry of Health and Population,,16423
+Nepal,2020-07-09,271145,0.060,samples tested,https://drive.google.com/drive/folders/18HeNd1pOf816MZEvVStvhdde3wVFq5Ba,Ministry of Health and Population,,16531
+Nepal,2020-07-10,275951,0.041,samples tested,https://drive.google.com/drive/folders/1pzWFyFOnerOX-7DCM7cbRm7wQRTI0K-d,Ministry of Health and Population,,16649
+Nepal,2020-07-11,279599,0.037,samples tested,https://drive.google.com/drive/folders/1DS_gf8N_FOx6Jv4rkNL0cQzlHV92mFhg,Ministry of Health and Population,,16719
+Nepal,2020-07-12,283515,0.031,samples tested,https://drive.google.com/drive/folders/1CVgwSUIsWEtP3tlOr9yIVQI-LGBtPFEH,Ministry of Health and Population,,16801
+Nepal,2020-07-13,289317,0.029,samples tested,https://drive.google.com/drive/folders/1YL6bycRzvdb4zHKXK_8t8qGNq3yr9bKH,Ministry of Health and Population,,16945
+Nepal,2020-07-14,293739,0.028,samples tested,https://drive.google.com/drive/folders/1A85E2jtR4glU0nUYrTRwVL6ZTVr-GHKe,Ministry of Health and Population,,17061
+Nepal,2020-07-15,298829,0.023,samples tested,https://drive.google.com/drive/folders/1gS2s1L2RbuzTAxrrRolvhpTHUn029iuM,Ministry of Health and Population,,17177
+Nepal,2020-07-16,303810,0.025,samples tested,https://drive.google.com/drive/folders/1Vra6kB7rw1DWsiskFOEw0Hohy4CAa5ed,Ministry of Health and Population,,17344
+Nepal,2020-07-17,308498,0.024,samples tested,https://drive.google.com/drive/folders/1ypnRNzYnAjP3hYxYVMXxscCNlgok7MNv,Ministry of Health and Population,,17445
+Nepal,2020-07-18,311829,0.024,samples tested,https://drive.google.com/drive/folders/1qF16KkIfAui0cukLimsSOBxbA-fD0n_k,Ministry of Health and Population,,17502
+Nepal,2020-07-19,315570,0.027,samples tested,https://drive.google.com/drive/folders/1OSUvO0GfeoHOobLoBeBT35baYepNH9yC,Ministry of Health and Population,,17658
+Nepal,2020-07-20,319872,0.029,samples tested,https://drive.google.com/drive/folders/1wABWG4Lsqee1CzEYQ2FJ6b4vGjSZV2Q5,Ministry of Health and Population,,17844
+Nepal,2020-07-21,323416,0.031,samples tested,https://drive.google.com/drive/folders/1aX11-9i_J2fMbpxJ7l9N0oykgYWrCeGp,Ministry of Health and Population,,17994
+Nepal,2020-07-22,327614,0.032,samples tested,https://drive.google.com/drive/folders/1Of9EskKTzlSyrZJhZcpXl98wEAWh7PXC,Ministry of Health and Population,,18094
+Nepal,2020-07-23,331095,0.033,samples tested,https://drive.google.com/drive/folders/1G0cbyBZzwdwg1ANtRlOq_2Z0r5UbVwcf,Ministry of Health and Population,,18241
+Nepal,2020-07-24,335082,0.035,samples tested,https://drive.google.com/drive/folders/1Kw8hy-YR4u9v3IwhbmRbvUgscBPbLtJ0,Ministry of Health and Population,,18374
+Nepal,2020-07-25,339157,0.036,samples tested,https://drive.google.com/drive/folders/1tv6SGDsgMc2hVxfe7usWxgm4TfjI_PU_,Ministry of Health and Population,,18483
+Nepal,2020-07-26,342457,0.036,samples tested,https://drive.google.com/drive/folders/1MNmBiWK4bTrxPOfXrwZ7diY59c8VNfyo,Ministry of Health and Population,,18613
+Nepal,2020-07-27,347275,0.033,samples tested,https://drive.google.com/drive/folders/1_WPfL8_2hnZgv-iHjgqE7glmFrrKVxYl,Ministry of Health and Population,,18752
+Nepal,2020-07-28,352307,0.037,samples tested,https://drive.google.com/drive/folders/1LGbqg70ss4CMVBppSbD1dEBn0ANXdyMM,Ministry of Health and Population,,19063
+Nepal,2020-07-29,358344,0.038,samples tested,https://drive.google.com/drive/folders/1z8ddX6wpS4mWEZgB5DUVqKGZyo9oqaT0,Ministry of Health and Population,,19273
+Nepal,2020-07-30,364648,0.039,samples tested,https://drive.google.com/drive/folders/1V--72MWgDyKwzbzUhbFXYtrITy-6bF-B,Ministry of Health and Population,,19547
+Nepal,2020-07-31,375416,0.035,samples tested,https://drive.google.com/drive/folders/1mgqdZykT84Gd8Xl2ozjs93bjIJ-UqW_k,Ministry of Health and Population,,19771
+Nepal,2020-08-01,382409,0.037,samples tested,https://drive.google.com/drive/folders/1VwfOq9rEqPc8rk-rrla8MDfrGLKNTU9a,Ministry of Health and Population,,20086
+Nepal,2020-08-02,391270,0.035,samples tested,https://drive.google.com/drive/folders/1xVisUIfV4axq4sJ0tAh8mNLE8lDPy241,Ministry of Health and Population,,20332
+Nepal,2020-08-03,398907,0.039,samples tested,https://drive.google.com/drive/folders/1vzjKFByfG1hg1XPooiWaWjkwT1hhd-wi,Ministry of Health and Population,,20750
+Nepal,2020-08-04,406594,0.036,samples tested,https://drive.google.com/drive/folders/1UMDazCZEVRF2fcyvkoq1dUUTS4xzjYa_,Ministry of Health and Population,,21009
+Nepal,2020-08-05,412953,0.039,samples tested,https://drive.google.com/drive/folders/1SKU6sGDHjAxiKarB0k_v61jQDaOqR6qH,Ministry of Health and Population,,21390
+Nepal,2020-08-06,419575,0.040,samples tested,https://drive.google.com/drive/folders/1b1dQwSgV6Fw10kpUdBwFDiFIN1YehzQ8,Ministry of Health and Population,,21750
+Nepal,2020-08-07,427501,0.047,samples tested,https://drive.google.com/drive/folders/1MnRxAMV0ypSCmPQOXH0ajUWWNmXL6IhD,Ministry of Health and Population,,22214
+Nepal,2020-08-08,435289,0.047,samples tested,https://drive.google.com/drive/folders/1AWHst-MjqPmJvCADQOT7d8n4LR4sRWVf,Ministry of Health and Population,,22592
+Nepal,2020-08-09,443804,0.050,samples tested,https://drive.google.com/drive/folders/1ZBX5aYeQE8DaPYf9f-IL52aHjy8LB918,Ministry of Health and Population,,22972
+Nepal,2020-08-10,452236,0.048,samples tested,https://drive.google.com/drive/folders/1U7hnx_2aRKIMLgGL7X9naGnEZ80NXC9s,Ministry of Health and Population,,23310
+Nepal,2020-08-11,462698,0.052,samples tested,https://drive.google.com/drive/folders/1O3VC_AWT2bSfZ1VrDY7e8OZ_mzsNjix-,Ministry of Health and Population,,23948
+Nepal,2020-08-12,473179,0.051,samples tested,https://drive.google.com/drive/folders/1TbrBwu2s2R_paKzuUU4QA6e956DnrJCB,Ministry of Health and Population,,24432
+Nepal,2020-08-13,483038,0.051,samples tested,https://drive.google.com/drive/folders/1hNjlpuQLYfn8PocMYmHBp1zXFvTDfyVX,Ministry of Health and Population,,24957
+Nepal,2020-08-14,494613,0.050,samples tested,https://drive.google.com/drive/folders/1xmm9iA0E3CvCT9I--0X2v69TpgLWbRUB,Ministry of Health and Population,,25551
+Nepal,2020-08-15,505660,0.049,samples tested,https://drive.google.com/drive/folders/1QD4ocuCcdsvFTHk_0acnEQjXZe4WNFJn,Ministry of Health and Population,,26019
+Nepal,2020-08-16,517907,0.050,samples tested,https://drive.google.com/drive/folders/1OcGKoZxTqdTWw6h0MfrEeXwg0PXaBaWa,Ministry of Health and Population,,26660
+Nepal,2020-08-17,529427,0.051,samples tested,https://drive.google.com/drive/folders/11aEDtfBtr471QStrVYp8ONHImy31LHma,Ministry of Health and Population,,27241
+Nepal,2020-08-18,542866,0.054,samples tested,https://drive.google.com/drive/folders/1E5lyqxrn1X_dl2PWiJ2JUPWvN3bjy3Uy,Ministry of Health and Population,,28257
+Nepal,2020-08-19,554388,0.055,samples tested,https://drive.google.com/drive/folders/1wbintzK9V_XDb6I2qqn5l1Blo2sVRMQ6,Ministry of Health and Population,,28938
+Nepal,2020-08-20,566220,0.056,samples tested,https://drive.google.com/drive/folders/1bN7iqcEjTE7RdRso2Dgas3zZCxj1ajOJ,Ministry of Health and Population,,29645
+Nepal,2020-08-21,579899,0.058,samples tested,https://drive.google.com/drive/folders/1FNEtWUUk3TEANbA3ZAN5pB33ruu3uNW6,Ministry of Health and Population,,30483
+Nepal,2020-08-22,592418,0.059,samples tested,https://drive.google.com/drive/folders/1RS3mV-9HKpV0Jbf5Ztb07R9gJHFKXPzm,Ministry of Health and Population,,31117
+Nepal,2020-08-23,600444,0.064,samples tested,https://drive.google.com/drive/folders/1iaIKQM1LMtBNB0aOQufLRvGVue7JVH1j,Ministry of Health and Population,,31935
+Nepal,2020-08-24,610678,0.067,samples tested,https://drive.google.com/drive/folders/1erqwPQXvYd270mU9ey8xXgp3XfJZ-F5k,Ministry of Health and Population,,32678
+Nepal,2020-08-25,621999,0.067,samples tested,https://drive.google.com/drive/folders/1fzAKctZF86RNbTbQaQKBlclXOBg7skXC,Ministry of Health and Population,,33533
+Nepal,2020-08-26,635252,0.068,samples tested,https://drive.google.com/drive/folders/1pg10MPaYApCgH3DEOqKdF3UdJ_gWXwXU,Ministry of Health and Population,,34418
+Nepal,2020-08-27,647881,0.072,samples tested,https://drive.google.com/drive/folders/1leBVlN_DF7LsLKVocnNuktG4d2eQiNpi,Ministry of Health and Population,,35529
+Nepal,2020-08-28,658110,0.076,samples tested,https://drive.google.com/drive/folders/1dwqlrE7vo4gFyBOL10CL-dS8aw56tgBH,Ministry of Health and Population,,36456
+Nepal,2020-08-29,669626,0.081,samples tested,https://drive.google.com/drive/folders/1QFQVQgwAwCEvDiyuGnyeXrVcqKqM_Ok2,Ministry of Health and Population,,37340
+Nepal,2020-08-30,682343,0.081,samples tested,https://drive.google.com/drive/folders/1SdomKlXLsSBemvn26_SzQ8YniWLiRx3Y,Ministry of Health and Population,,38561
+Nepal,2020-08-31,693472,0.082,samples tested,https://drive.google.com/drive/folders/1HDlmwufs_HEk91AwSvCjrP_tdfjiApf9,Ministry of Health and Population,,39460
+Nepal,2020-09-01,705560,0.084,samples tested,https://drive.google.com/drive/folders/1CUjrDYrYfsNGPyk_TWvvw3gTgXeAbF0U,Ministry of Health and Population,,40529
+Nepal,2020-09-02,718439,0.087,samples tested,https://drive.google.com/drive/folders/1r7n4Vp0qrPVlV9ZDsKqK-SQv_2KjHf5A,Ministry of Health and Population,,41649
+Nepal,2020-09-03,731852,0.088,samples tested,https://drive.google.com/drive/folders/1JmxZhW9n-sf-fH3__2L3poSoFlC9JvpH,Ministry of Health and Population,,42877
+Nepal,2020-09-04,745490,0.089,samples tested,https://drive.google.com/drive/folders/1U2vNNGtazx2z_5RzDEqPfwrLyirhENfr,Ministry of Health and Population,,44236
+Nepal,2020-09-05,757963,0.090,samples tested,https://drive.google.com/drive/folders/1rLogo4B5bIPhUK9KDs8__pHQSD29VtLM,Ministry of Health and Population,,45277
+Nepal,2020-09-06,768345,0.089,samples tested,https://drive.google.com/drive/folders/1pIg845kLKhCjfqvDRY4NxH11P5ApMZXx,Ministry of Health and Population,,46257
+Nepal,2020-09-07,777563,0.092,samples tested,https://drive.google.com/drive/folders/1A4oYuPyvi4XgHi6JZCfRK9CBcz3SWAjR,Ministry of Health and Population,,47236
+Nepal,2020-09-08,788174,0.092,samples tested,https://drive.google.com/drive/folders/14YJ21Ms7wGEBkf-7N0M5KusRaURyFAEV,Ministry of Health and Population,,48138
+Nepal,2020-09-09,799341,0.094,samples tested,https://drive.google.com/drive/folders/1LDuFSL7T54hhcjwxs8tEb5qmhRPe_26M,Ministry of Health and Population,,49219
+Nepal,2020-09-10,810485,0.096,samples tested,https://drive.google.com/drive/folders/10JYrRcNeyB99qlhAaOzRp7mgdnmyZmd6,Ministry of Health and Population,,50465
+Nepal,2020-09-11,821186,0.101,samples tested,https://drive.google.com/drive/folders/1M173AvfwxOkIncRYVsNVgsGqbdbDWvR_,Ministry of Health and Population,,51919
+Nepal,2020-09-12,831362,0.107,samples tested,https://drive.google.com/drive/folders/1tpPT3nh0I7GvIxraV_WIaoQk0iz02A3q,Ministry of Health and Population,,53120
+Nepal,2020-09-13,840527,0.109,samples tested,https://drive.google.com/drive/folders/15g8QUuVH6WPT0e4TKHXRLNPdnV8PNixF,Ministry of Health and Population,,54159
+Nepal,2020-09-14,851405,0.110,samples tested,https://drive.google.com/drive/folders/1ofXy41RuYpbaMz-IwZ_wPObGda-Mpxwa,Ministry of Health and Population,,55329
+Nepal,2020-09-15,861780,0.118,samples tested,https://drive.google.com/drive/folders/1S7mzBdZrxwfOtkfRZxPF5RzLCau2MfoO,Ministry of Health and Population,,56788
+Nepal,2020-09-16,872274,0.125,samples tested,https://drive.google.com/drive/folders/1xOkGreQAjES_kSVnsaDOvq3_DnyAidO5,Ministry of Health and Population,,58327
+Nepal,2020-09-17,882915,0.126,samples tested,https://drive.google.com/drive/folders/1DyALDeJ6etkj4yQGxQz3dQA2-WyK1kwM,Ministry of Health and Population,,59573
+Nepal,2020-09-18,894373,0.132,samples tested,https://drive.google.com/drive/folders/1IGovk4RaqfTaSc2dc2jez8GFnNWur9jf,Ministry of Health and Population,,61593
+Nepal,2020-09-19,904706,0.132,samples tested,https://drive.google.com/drive/folders/1duAxmJCL-1vWTMRgMwxH3PvfhvlWJE3J,Ministry of Health and Population,,62797
+Nepal,2020-09-20,914290,0.135,samples tested,https://drive.google.com/drive/folders/1UZfoyj3U7F3q4YigtECHB4SihEC43g-y,Ministry of Health and Population,,64122
+Nepal,2020-09-21,923823,0.137,samples tested,https://drive.google.com/drive/folders/1-BYOzm_lhXTGiwKf8dsrr12NQxBKunpj,Ministry of Health and Population,,65276
+Nepal,2020-09-22,934977,0.134,samples tested,https://drive.google.com/drive/folders/1EwIIbjvW688Fkjr5mO64mZmIY0wD6hVx,Ministry of Health and Population,,66632
+Nepal,2020-09-23,944474,0.131,samples tested,https://drive.google.com/drive/folders/1nRQvqDBDc2XX9gJNkOybelUxOcJFrqx0,Ministry of Health and Population,,67804
+Nepal,2020-09-24,955923,0.133,samples tested,https://drive.google.com/drive/folders/1qI7d--Ev_6lsW-ndp9jAy-ZaoE08VNiQ,Ministry of Health and Population,,69301
+Nepal,2020-09-25,968185,0.122,samples tested,https://drive.google.com/drive/folders/10LpPdO0Dpa3pHP8-dxxLGXHcqkURd69N,Ministry of Health and Population,,70614
+Nepal,2020-09-26,978204,0.123,samples tested,https://drive.google.com/drive/folders/1Oqo2eral3ezi3fQ5dt0RhyGG-TPRcEKZ,Ministry of Health and Population,,71821
+Nepal,2020-09-27,988327,0.125,samples tested,https://drive.google.com/drive/folders/1blyeeiGDZ_v_lBMl2n6fEnfIkFqxsSyo,Ministry of Health and Population,,73394
+Nepal,2020-09-28,998407,0.127,samples tested,https://drive.google.com/drive/folders/1g0Gd26chOYC29GO_WxomyIzslhZcDQEW,Ministry of Health and Population,,74745
+Nepal,2020-09-29,1009298,0.130,samples tested,https://drive.google.com/drive/folders/12l1MMnLtgkvNbCMyM7sZvRTq5nxzlG8b,Ministry of Health and Population,,76258
+Nepal,2020-09-30,1021503,0.130,samples tested,https://drive.google.com/drive/folders/1u4WjA4PWgFH_NKlpHhOSCoGKBb6VmLu1,Ministry of Health and Population,,77817
+Nepal,2020-10-01,1033947,0.134,samples tested,https://drive.google.com/drive/folders/1-55FeSrnzOFVZv8nx3e59sE3WiuQ8ePi,Ministry of Health and Population,,79728
+Nepal,2020-10-02,1048686,0.147,samples tested,https://drive.google.com/drive/folders/1YLi3E0WRAWuxADlMM_7UAEUGOUpSZ1nF,Ministry of Health and Population,,82450
+Nepal,2020-10-03,1061664,0.153,samples tested,https://drive.google.com/drive/folders/1tOKY4jqZHZ_x4GiMYdUtY0h9qhADDaQk,Ministry of Health and Population,,84570
+Nepal,2020-10-04,1074448,0.156,samples tested,https://drive.google.com/drive/folders/1J1tn6WresRvy1uNvw6cFcewMbNXU6nnN,Ministry of Health and Population,,86823
+Nepal,2020-10-05,1088229,0.162,samples tested,https://drive.google.com/drive/folders/1bER4ko2Cr_6YtffsTd8bLCf7UijTCYsf,Ministry of Health and Population,,89263
+Nepal,2020-10-06,1099276,0.162,samples tested,https://drive.google.com/drive/folders/1DorYT08AAVtt6aqWo44QyZya4N9gXKmP,Ministry of Health and Population,,90814
+Nepal,2020-10-07,1113485,0.179,samples tested,https://drive.google.com/drive/folders/1hKyiwgkcEg5Quh5bs1qaf4INHxmAr_01,Ministry of Health and Population,,94253
+Nepal,2020-10-08,1131958,0.193,samples tested,https://drive.google.com/drive/folders/1fbsvv1eS4o70A58wiHyUgPLjdHaNP5DU,Ministry of Health and Population,,98617
+Nepal,2020-10-09,1145237,0.189,samples tested,https://drive.google.com/drive/folders/1Bu4OlPteDrPFUsu82QokYTOQsOw-oNTc,Ministry of Health and Population,,100676
+Nepal,2020-10-10,1164557,0.205,samples tested,https://drive.google.com/drive/folders/1jzwSi_JvPCLPZlXxes_3Yx1HYn8UXp5B,Ministry of Health and Population,,105684
+Nepal,2020-10-11,1176984,0.204,samples tested,https://drive.google.com/drive/folders/1FTmNnX7I_loJ-6q2NrlfFdvhp5pwmpE_,Ministry of Health and Population,,107755
+Nepal,2020-10-12,1191514,0.218,samples tested,https://drive.google.com/drive/folders/1ToLMNKuFbGWMoW9tBZENwha854DiMTkC,Ministry of Health and Population,,111802
+Nepal,2020-10-13,1207091,0.228,samples tested,https://drive.google.com/drive/folders/12FGVZ3tuPlzBIb8Ayc_tqAaBC5kC-sWU,Ministry of Health and Population,,115358
+Nepal,2020-10-14,1221038,0.221,samples tested,https://drive.google.com/drive/folders/1ZvCo1hGw9KEuyy5noumPsv9a7hAsppyN,Ministry of Health and Population,,117996
+Nepal,2020-10-15,1237636,0.219,samples tested,https://drive.google.com/drive/folders/12zWzaOXZ01kHWlUXWC1Ev_2YO6OgifdH,Ministry of Health and Population,,121745
+Nepal,2020-10-16,1254167,0.234,samples tested,https://drive.google.com/drive/folders/1ZEfBJJjBpovChpM6UWLflxSxY0_xRg-K,Ministry of Health and Population,,126137
+Nepal,2020-10-17,1269605,0.225,samples tested,https://drive.google.com/drive/folders/1oZw7u-NaEOUpUHignCgkEAyW7YzLpN0o,Ministry of Health and Population,,129304
+Nepal,2020-10-18,1283354,0.230,samples tested,https://drive.google.com/drive/folders/10V6ifIHsMGyW_bR_vg2EIM0kITlInSgD,Ministry of Health and Population,,132246
+Nepal,2020-10-19,1300918,0.222,samples tested,https://drive.google.com/drive/folders/1kfgy3orCVaqxrLbeuLX7Z8x5jJroDu1h,Ministry of Health and Population,,136036
+Nepal,2020-10-20,1314779,0.221,samples tested,https://drive.google.com/drive/folders/1vCDrNEb8677iZlL-LDsBQx8i2YxNRG64,Ministry of Health and Population,,139129
+Nepal,2020-10-21,1334897,0.236,samples tested,https://drive.google.com/drive/folders/12guEe9petAOI4erezcRHs5ibP8_JOtp-,Ministry of Health and Population,,144872
+Nepal,2020-10-22,1350152,0.238,samples tested,https://drive.google.com/drive/folders/122NZVHUpcO7xei9FowymJcrhs5zaflCz,Ministry of Health and Population,,148509
+Nepal,2020-10-23,1367016,0.238,samples tested,https://drive.google.com/drive/folders/1Y3XGgfmUMiMRhlVZr_RIIbm0UVmtRPm5,Ministry of Health and Population,,153008
+Nepal,2020-10-24,1380862,0.233,samples tested,https://drive.google.com/drive/folders/1go4E62c1bO3Q78YjI695si4vdDa37MSu,Ministry of Health and Population,,155233
+Nepal,2020-10-25,1393173,0.235,samples tested,https://drive.google.com/drive/folders/1Bm-QxCfZ_Jxitchfk8NOKCqxSPWhZF8h,Ministry of Health and Population,,158089
+Nepal,2020-10-26,1398179,0.245,samples tested,https://drive.google.com/drive/folders/1xa7AUcL-qCN5kZuVxPDeF2RHc7M_8d30,Ministry of Health and Population,,159830
+Nepal,2020-10-27,1400694,0.248,samples tested,https://drive.google.com/drive/folders/1jfbI0wUQSBTKqrZKFgu3BuM4gEsv3WuR,Ministry of Health and Population,,160400
+Nepal,2020-10-28,1409295,0.235,samples tested,https://drive.google.com/drive/folders/1ZX356asQUkMacxA3aqelnOfRkbduoBSt,Ministry of Health and Population,,162354
+Nepal,2020-10-29,1419064,0.235,samples tested,https://drive.google.com/drive/folders/1UjvGb3AwTqDt8SlPOI9AGpF7vvQeQ2hW,Ministry of Health and Population,,164718
+Nepal,2020-10-30,1434053,0.227,samples tested,https://drive.google.com/drive/folders/1kUl5jZIje6PTY0zDNBDDU2p_OPojR_ZQ,Ministry of Health and Population,,168235
+Nepal,2020-10-31,1443343,0.248,samples tested,https://drive.google.com/drive/folders/1QoQM8zIZ50lHGeG0BrgY4SwQG3r4NgbM,Ministry of Health and Population,,170743
+Nepal,2020-11-01,1456366,0.245,samples tested,https://drive.google.com/drive/folders/1ZG6ECofJzDB63biIMVdL0UnvBatWYnm1,Ministry of Health and Population,,173567
+Nepal,2020-11-02,1469812,0.233,samples tested,https://drive.google.com/drive/folders/1_BDK7V8ZqNv0yTlLfzGhLPBgbF72c_qV,Ministry of Health and Population,,176500
+Nepal,2020-11-03,1480978,0.239,samples tested,https://drive.google.com/drive/folders/13z-IWCmZmbK3snb4ifmAMlg52H12IJeB,Ministry of Health and Population,,179614
+Nepal,2020-11-04,1494122,0.242,samples tested,https://drive.google.com/drive/folders/1JSLJ3p6jxqiWyu3fJgmB41UWtD2-Krt5,Ministry of Health and Population,,182923
+Nepal,2020-11-05,1507190,0.241,samples tested,https://drive.google.com/drive/folders/1lwwj7T_2FqA5w9fs9koWL05_liJKm8Ta,Ministry of Health and Population,,185974
+Nepal,2020-11-06,1517343,0.248,samples tested,https://drive.google.com/drive/folders/1WOXt9Hu60tkoowolLgl43sJJe9pPfDGK,Ministry of Health and Population,,188883
+Nepal,2020-11-07,1527766,0.247,samples tested,https://drive.google.com/drive/folders/1zK7rLSWwbfVHWAshtEDNEPZ5Qz1VHrch,Ministry of Health and Population,,191636
+Nepal,2020-11-08,1540077,0.250,samples tested,https://drive.google.com/drive/folders/1ywo4O2ZSzoaiac7LFSpqI6wzJ6Q29NSW,Ministry of Health and Population,,194453
+Nepal,2020-11-09,1551254,0.252,samples tested,https://drive.google.com/drive/folders/1dBEcfrgTTITyPkB1GPsUXP3SSSwBE3lX,Ministry of Health and Population,,197024
+Nepal,2020-11-10,1564214,0.242,samples tested,https://drive.google.com/drive/folders/1oRcy3kq4-O0JzX_bpFcvJzox6V8nmUno,Ministry of Health and Population,,199760
+Nepal,2020-11-11,1574295,0.242,samples tested,https://drive.google.com/drive/folders/1GXQ69i7oDFHMZcVVD5VgR4sKdhyliqZ1,Ministry of Health and Population,,202329
+Nepal,2020-11-12,1584317,0.237,samples tested,https://drive.google.com/drive/folders/1dbz5sIsu0bDVy1bfaoDyiMw-6JG3Tgfk,Ministry of Health and Population,,204242
+Nepal,2020-11-13,1593850,0.228,samples tested,https://drive.google.com/drive/folders/1PCVCiQlnvqytfJZYLPFfg2uv0lO_69ao,Ministry of Health and Population,,206353
+Nepal,2020-11-14,1602603,0.223,samples tested,https://drive.google.com/drive/folders/121jfgmjIxqJZFaQRrNrWOdjBzmDN1qSe,Ministry of Health and Population,,208299
+Nepal,2020-11-15,1609079,0.222,samples tested,https://drive.google.com/drive/folders/1Gpta8IudFU8WC6gQIZhce_v0DYTKHjxb,Ministry of Health and Population,,209776
+Nepal,2020-11-16,1613911,0.223,samples tested,https://drive.google.com/drive/folders/1p9azLKMEp2C-Vp6cq8siqgFi7bAe7DcL,Ministry of Health and Population,,210973
+Nepal,2020-11-17,1617023,0.222,samples tested,https://drive.google.com/drive/folders/1BFMWV2pAT9Cgne4tIilzvSbkslsY7XN3,Ministry of Health and Population,,211475
+Nepal,2020-11-18,1623754,0.214,samples tested,https://drive.google.com/drive/folders/14WRdnarmctUWlAvFYmCvZl4PdK2fi1td,Ministry of Health and Population,,212917
+Nepal,2020-11-19,1633559,0.219,samples tested,https://drive.google.com/drive/folders/1ijsoYvUyFCGg74xZK8b9QXrf6BFzSJ-G,Ministry of Health and Population,,215020
+Nepal,2020-11-20,1643899,0.212,samples tested,https://drive.google.com/drive/folders/1Sh0rdKRqLka4BHNI6re2YoPz5MFOuHHm,Ministry of Health and Population,,216965
+Nepal,2020-11-21,1652043,0.209,samples tested,https://drive.google.com/drive/folders/1Updmbx0VF3anO63HhEf5gMbRU2klmODJ,Ministry of Health and Population,,218639
+Nepal,2020-11-22,1660075,0.207,samples tested,https://drive.google.com/drive/folders/1l-_ThJPromY6uECaQ3OzbjcFB9qr73bk,Ministry of Health and Population,,220308
+Nepal,2020-11-23,1670456,0.200,samples tested,https://drive.google.com/drive/folders/1dh6va4irPvxp5fFwp2ahEmlbOq2OJPxw,Ministry of Health and Population,,222288
+Nepal,2020-11-24,1681299,0.196,samples tested,https://drive.google.com/drive/folders/1o5DwYkTJbs6Q8dUXPjHncCkM_7cejMxx,Ministry of Health and Population,,224078
+Nepal,2020-11-25,1690509,0.196,samples tested,https://drive.google.com/drive/folders/1zG_2wgNUleQfEKhD_JdDiUi5ftEMrDCi,Ministry of Health and Population,,226026
+Nepal,2020-11-26,1700000,0.190,samples tested,https://drive.google.com/drive/folders/1AHPAY5H7hYh4iT6yxYyfGRpDTppe284B,Ministry of Health and Population,,227640
+Nepal,2020-11-27,1710460,0.186,samples tested,https://drive.google.com/drive/folders/1hTY6h7a28e_mSTkBcSkB0uXAqI2rbzGY,Ministry of Health and Population,,229343
+Nepal,2020-11-28,1719828,0.178,samples tested,https://drive.google.com/drive/folders/1Jn-I4P75Ck-RNz7VewsyUzJttiMV94LV,Ministry of Health and Population,,230723
+Nepal,2020-11-29,1727836,0.172,samples tested,https://drive.google.com/drive/folders/1xtaHckyDflAuaxJNuxMHRr8PKz1_Ewxn,Ministry of Health and Population,,231978
+Nepal,2020-11-30,1737747,0.166,samples tested,https://drive.google.com/drive/folders/11yrZG5dAnJ9mHJn2iSqPzP7CugYcHic4,Ministry of Health and Population,,233452
+Nepal,2020-12-01,1746330,0.144,samples tested,https://drive.google.com/drive/folders/1RHePppMvzPjxQTBeVctVD9XQQGPpNvDV,Ministry of Health and Population,,233452
+Nepal,2020-12-02,1754630,0.159,samples tested,https://drive.google.com/drive/folders/14m3x_frYjnBCtUAMxtvzC9PvH1RZ4ZGH,Ministry of Health and Population,,236246
+Nepal,2020-12-03,1763919,0.156,samples tested,https://drive.google.com/drive/folders/169hqR0yVjN8U2d0ZmmfOGVh7BrrxYndj,Ministry of Health and Population,,237589
+Nepal,2020-12-04,1771950,0.155,samples tested,https://drive.google.com/drive/folders/1Dy0W2gmcp_gHFEIAm1w8x0Aizx9dDdWw,Ministry of Health and Population,,238861
+Nepal,2020-12-05,1778024,0.157,samples tested,https://drive.google.com/drive/folders/1IC7QFARG_-zpafK6VP5mwecnEHy29LXC,Ministry of Health and Population,,239885
+Nepal,2020-12-06,1784519,0.159,samples tested,https://drive.google.com/drive/folders/1Fky44kPhKtAve8JCqMpDdOlGRApbB0rp,Ministry of Health and Population,,240981
+Nepal,2020-12-07,1790739,0.161,samples tested,https://drive.google.com/drive/folders/1FkfS83NCnLyx5r5y_L2VBAC3K0Gbfe94,Ministry of Health and Population,,241995
+Nepal,2020-12-08,1799686,0.186,samples tested,https://drive.google.com/drive/folders/1wBb2vnm16G_m80Fj5O4u_cSUusRTkae9,Ministry of Health and Population,,243377
+Nepal,2020-12-09,1805972,0.159,samples tested,https://drive.google.com/drive/folders/1WhyY2oYAzVW4xAXoOMGUuX2TAURjylN0,Ministry of Health and Population,,244433
+Nepal,2020-12-10,1813204,0.164,samples tested,https://drive.google.com/drive/folders/1dW5N6cxcWBhLdXb-qY61pvSn042f5JMh,Ministry of Health and Population,,245650
+Nepal,2020-12-11,1820618,0.161,samples tested,https://drive.google.com/drive/folders/1BiH-6gUHCccjOv7gWkJ8z7uqlfjulehl,Ministry of Health and Population,,246694
+Nepal,2020-12-12,1825860,0.161,samples tested,https://drive.google.com/drive/folders/1GNcPHO6zUUJfY59kvQweBk2C-vlY1p0V,Ministry of Health and Population,,247593
+Nepal,2020-12-13,1831041,0.160,samples tested,https://drive.google.com/drive/folders/1gbUq-jgQIiT71DY0sKG0R9f2rqoWjVVZ,Ministry of Health and Population,,248423
+Nepal,2020-12-14,1836464,0.159,samples tested,https://drive.google.com/drive/folders/1hrEu16EfWfc7iv_QQvtmFaN3cbmLK1k0,Ministry of Health and Population,,249244
+Nepal,2020-12-15,1843581,0.155,samples tested,https://drive.google.com/drive/folders/1pKXr0Cv1g-g7e1D-G-oPYwXOX9dKzGQz,Ministry of Health and Population,,250180
+Nepal,2020-12-16,1849136,0.150,samples tested,https://drive.google.com/drive/folders/15IfRpjJ6XKJEtLjndRapdFUFkoUG_G_J,Ministry of Health and Population,,250916
+Nepal,2020-12-17,1855724,0.142,samples tested,https://drive.google.com/drive/folders/1fRWqvn0nS_xNM5N1AZ5_LhSCiBxxaHS_,Ministry of Health and Population,,251692
+Nepal,2020-12-18,1861430,0.142,samples tested,https://drive.google.com/drive/folders/1YpHC4Qnq6Ph0V7BvIcLKojTb1GZ8-ib5,Ministry of Health and Population,,252474
+Nepal,2020-12-19,1866210,0.139,samples tested,https://drive.google.com/drive/folders/1YpHC4Qnq6Ph0V7BvIcLKojTb1GZ8-ib5,Ministry of Health and Population,,253184
+Nepal,2020-12-20,1870830,0.134,samples tested,https://drive.google.com/drive/folders/1W1OB9yuFgDcDcEGaMR8O_I0dn88glGpP,Ministry of Health and Population,,253772
+Nepal,2020-12-22,1884181,0.126,samples tested,https://drive.google.com/drive/folders/1tI_s2C6UYDu8gRWWBHvDeB0b1c5I1k4K,Ministry of Health and Population,,255236
+Nepal,2020-12-23,1890740,0.123,samples tested,https://drive.google.com/drive/folders/1gDPuOc68pV_Fn5nhyg_wubQt5D8iFlMC,Ministry of Health and Population,,255979
+Nepal,2020-12-24,1896250,0.120,samples tested,https://drive.google.com/drive/folders/1k2pHhCGoBa1cTpREPQxw4ivuwm47gZfb,Ministry of Health and Population,,256592
+Nepal,2020-12-25,1900392,0.123,samples tested,https://drive.google.com/drive/folders/1HM8YI2OYYfShZcHgPq5NBY435aZgf5EN,Ministry of Health and Population,,257200
+Nepal,2020-12-26,1905826,0.118,samples tested,https://drive.google.com/drive/folders/1iH6kdZExx4_ULeZY3N-chYBalY_9KpyJ,Ministry of Health and Population,,257700
+Nepal,2020-12-27,1909654,0.115,samples tested,https://drive.google.com/drive/folders/1X65-Hy4IAnjOFVmigf0sVm1cX2-53q4T,Ministry of Health and Population,,258181
+Nepal,2020-12-28,1915232,0.114,samples tested,https://drive.google.com/drive/folders/1VnVXaf1TjkfwzXmOUIs-g5DR24SBiHiK,Ministry of Health and Population,,258840
+Nepal,2020-12-29,1921367,0.116,samples tested,https://drive.google.com/drive/folders/1o2NIwwD8_xE0uwPbxKzbo6Sk6ZLSvVdN,Ministry of Health and Population,,259548
+Nepal,2020-12-31,1932477,0.111,samples tested,https://drive.google.com/drive/folders/10ZltiDaTX46bq4TvHvCuY7UUy8_WrYG5,Ministry of Health and Population,,260593
+Nepal,2021-01-01,1937702,0.107,samples tested,https://drive.google.com/drive/folders/1P-a5gMXShBRHG9pBYZORYJ3-meMjEdsN,Ministry of Health and Population,,261019
+Nepal,2021-01-03,1948502,0.097,samples tested,https://drive.google.com/drive/folders/16lIIW84VfDuqRDlz3zhHbs9NU0Y-2HWx,Ministry of Health and Population,,261859
+Nepal,2021-01-04,1952903,0.097,samples tested,https://drive.google.com/drive/folders/17_dk9xlpcg4gT2WU2xqVDUPVfi47Egsm,Ministry of Health and Population,,262262
+Nepal,2021-01-05,1957454,0.096,samples tested,https://drive.google.com/drive/folders/1nzfmZI0SnbyDbPYy75seS6mPTBEnAu0D,Ministry of Health and Population,,262784
+Nepal,2021-01-06,1964160,0.089,samples tested,https://drive.google.com/drive/folders/1gnhkYhYlXWJaosxw7jzHZ0iFif1wTIo9,Ministry of Health and Population,,263193
+Nepal,2021-01-07,1969292,0.085,samples tested,https://drive.google.com/drive/folders/1a9fT2p59TvcM9w-f-osJCIwjRO8wHn20,Ministry of Health and Population,,263605
+Nepal,2021-01-08,1974561,0.085,samples tested,https://drive.google.com/drive/folders/1lMg_ZQVtnRkAjGlQ8aEIgRfBTh_kahMP,Ministry of Health and Population,,264159
+Nepal,2021-01-09,1978847,0.085,samples tested,https://drive.google.com/drive/folders/1QCaiqr39LsElVM3-kwpTtle62hs3pq-e,Ministry of Health and Population,,264521
+Nepal,2021-01-10,1982246,0.087,samples tested,https://drive.google.com/drive/folders/1Ft20a6Pq8Hu2AihM99sFe3gZZPJiYAzC,Ministry of Health and Population,,264780
+Nepal,2021-01-11,1987555,0.087,samples tested,https://drive.google.com/drive/folders/1SpDX3hUutlNb9tMw-EssrjEVqDtGuseN,Ministry of Health and Population,,265268
+Nepal,2021-01-12,1992855,0.082,samples tested,https://drive.google.com/drive/folders/1R30GRbPbL8Di1a2TrRFsMAcNgNTtTQL-,Ministry of Health and Population,,265698
+Nepal,2021-01-13,1997009,0.090,samples tested,https://drive.google.com/drive/folders/1z9lDOd_RyhNJ3CvNMSBR_Ue_zW0f3pWw,Ministry of Health and Population,,266143
+Nepal,2021-01-14,2002041,0.090,samples tested,https://drive.google.com/drive/folders/18N2ELd7sdWaDVqaWAGZqRD4u6omOahtw,Ministry of Health and Population,,266546
+Nepal,2021-01-15,2005125,0.087,samples tested,https://drive.google.com/drive/folders/1-NXQLn0gIsM9qX-lrnnUzEgJ8WdYlAG3,Ministry of Health and Population,,266816
+Nepal,2021-01-16,2008944,0.084,samples tested,https://drive.google.com/drive/folders/1fKOojxdQnd97OU9jiy4ngjDkFKu6cFXm,Ministry of Health and Population,,267056
+Nepal,2021-01-17,2012452,0.084,samples tested,https://drive.google.com/drive/folders/1JL0cMJj6xVRwvA_X6AWvVjJkXZXevugg,Ministry of Health and Population,,267322
+Nepal,2021-01-18,2016758,0.081,samples tested,https://drive.google.com/drive/folders/1AgKDVrTDS8AE_M4PAZNKSjPOwMUuAXVz,Ministry of Health and Population,,267644
+Nepal,2021-01-19,2021714,0.079,samples tested,https://drive.google.com/drive/folders/1l5YgwDxJxB11goU95m8EM0b_-a1c-KTN,Ministry of Health and Population,,267992
+Nepal,2021-01-20,2026726,0.073,samples tested,https://drive.google.com/drive/folders/1_Vhb8whgkoJrwsdiaK6XBwkF10KoSE1M,Ministry of Health and Population,,268310
+Nepal,2021-01-21,2031756,0.071,samples tested,https://drive.google.com/drive/folders/1-TqHRc3EYlBCMnHW_-6EKCX2AFRh7tXN,Ministry of Health and Population,,268646
+Nepal,2021-01-22,2035301,0.071,samples tested,https://drive.google.com/drive/folders/1yoFRJUw_UvJaZ1dYW7aYKXd34xUL2NO9,Ministry of Health and Population,,268948
+Nepal,2021-01-23,2038842,0.071,samples tested,https://drive.google.com/drive/folders/1Vuv0skIuGxiwH8eg5mozPPJpXRy8zEfN,Ministry of Health and Population,,269180
+Nepal,2021-01-24,2043255,0.069,samples tested,https://drive.google.com/drive/folders/1eD1198AZ1R_RLLh3_EMI8sr3gqE3gDJa,Ministry of Health and Population,,269450
+Nepal,2021-01-25,2048113,0.068,samples tested,https://drive.google.com/drive/folders/1mOUKv0Er04QPo9Ba8_cNL_Uan2Ne5Kzz,Ministry of Health and Population,,269789
+Nepal,2021-01-26,2052687,0.068,samples tested,https://drive.google.com/drive/folders/1C8g1xhvHst4KEvwXHx3T7XMsmXrJgG1_,Ministry of Health and Population,,270092
+Nepal,2021-01-27,2057069,0.068,samples tested,https://drive.google.com/drive/folders/1Y7YI6FkHYH0g3yVjXK9nGaj0vD5XXGjc,Ministry of Health and Population,,270375
+Nepal,2021-01-28,2060860,0.067,samples tested,https://drive.google.com/drive/folders/1asV3I1cBAkVfxxXAhkM5jGbrPgpc0FA3,Ministry of Health and Population,,270588
+Nepal,2021-01-29,2064081,0.062,samples tested,https://drive.google.com/drive/folders/1OAW2dWqTtHSJGzEfhpIq8ZvPMNCjGLU9,Ministry of Health and Population,,270745
+Nepal,2021-01-30,2067699,0.058,samples tested,https://drive.google.com/drive/folders/16ot78sxoL4PwXhJNushN9FXFPl8gIclc,Ministry of Health and Population,,270854
+Nepal,2021-01-31,2071007,0.054,samples tested,https://drive.google.com/drive/folders/1X1em3-zTdpg3oLrKrXQIJdNCJsLZtrj9,Ministry of Health and Population,,270959
+Nepal,2021-02-01,2075152,0.049,samples tested,https://drive.google.com/drive/folders/16a9_3Hapt0jj003E5Vv2B5Zy8_YnEmXR,Ministry of Health and Population,,271118
+Nepal,2021-02-02,2078098,0.047,samples tested,https://drive.google.com/drive/folders/135ZLtuTrs8PXCf-AbI6t8XYTACMjKfCZ,Ministry of Health and Population,,271289
+Nepal,2021-02-03,2081695,0.043,samples tested,https://drive.google.com/drive/folders/1oaPRnKdAB0JCNCV1q1y3Zs_-gyUtSKds,Ministry of Health and Population,,271431
+Nepal,2021-02-04,2085573,0.041,samples tested,https://drive.google.com/drive/folders/1cyWADnx_0y1xY8BL0JW2bI-ppLbu3THm,Ministry of Health and Population,,271602
+Nepal,2021-02-05,2088372,0.040,samples tested,https://drive.google.com/drive/folders/11qZ8ZuD-NJ6NYFpkxTKAW4sC2eNkE3by,Ministry of Health and Population,,271707
+Nepal,2021-02-06,2091166,0.041,samples tested,https://drive.google.com/drive/folders/1FWFmlGsAi6oPu3xGxZfXakaCbRMuoTVi,Ministry of Health and Population,,271806
+Nepal,2021-02-07,2093417,0.043,samples tested,https://drive.google.com/drive/folders/1ayD6XtcRqZ7fYMk5T5jSPjXhD3tnl6Oi,Ministry of Health and Population,,271925
+Nepal,2021-02-08,2096750,0.043,samples tested,https://drive.google.com/drive/folders/1SM2Zc9xsJPB_y9P3C9QyC5J1wvzOWPZI,Ministry of Health and Population,,272055
+Nepal,2021-02-09,2101059,0.040,samples tested,https://drive.google.com/drive/folders/1BpGEqVMCKnuxcPGo9EiJe-FjMwjwhb-Y,Ministry of Health and Population,,272215
+Nepal,2021-02-10,2104626,0.040,samples tested,https://drive.google.com/drive/folders/1hyjKsWrH7nI4qOgR407kHUx-NxbJMaOj,Ministry of Health and Population,,272349
+Nepal,2021-02-11,2107649,0.038,samples tested,https://drive.google.com/drive/folders/1J1A2Wi_kYNTpsJgySqUsabnfLdli675l,Ministry of Health and Population,,272430
+Nepal,2021-02-12,2111649,0.037,samples tested,https://drive.google.com/drive/folders/1eP6renGoYnrso7RAytLeTZpPxViXd3Up,Ministry of Health and Population,,272557
+Nepal,2021-02-13,2113549,0.036,samples tested,https://drive.google.com/drive/folders/1Id4w7pC3QNoWoq35SfINqw6QLhCILdia,Ministry of Health and Population,,272614
+Nepal,2021-02-14,2117050,0.034,samples tested,https://drive.google.com/drive/folders/1qAMu2JdK25P3Xz-y4asO6R7D9tHQD4bY,Ministry of Health and Population,,272718
+Nepal,2021-02-15,2120591,0.033,samples tested,https://drive.google.com/drive/folders/1ITwwM1ABX5VboLW-9pje4FEBNiuNxsBS,Ministry of Health and Population,,272840
+Nepal,2021-02-16,2123951,0.032,samples tested,https://drive.google.com/drive/folders/1NUYJ_y0VGfTa4fzABGVEFLP8LrZDkNQX,Ministry of Health and Population,,272945
+Nepal,2021-02-17,2127789,0.031,samples tested,https://drive.google.com/drive/folders/13pfNVBVIpC11z_z0bMBMaCB5W9s2NmID,Ministry of Health and Population,,273070
+Nepal,2021-02-18,2131330,0.031,samples tested,https://drive.google.com/drive/folders/1nLur2ly-JluySn2cF-cXYmXn-yHamodt,Ministry of Health and Population,,273166
+Nepal,2021-02-19,2134261,0.031,samples tested,https://drive.google.com/drive/folders/1y0r2WjDjq4Y7gN6uGt3CeNaP04cuLViP,Ministry of Health and Population,,273263
+Nepal,2021-02-20,2136309,0.032,samples tested,https://drive.google.com/drive/folders/1eb0UVe457mzskrDXkASBSco1aCwJAZiA,Ministry of Health and Population,,273351
+Nepal,2021-02-21,2139634,0.032,samples tested,https://drive.google.com/drive/folders/1AXFTyUs9dVUY4ZL7t57OKleDWmAoLFQb,Ministry of Health and Population,,273431
+Nepal,2021-02-22,2143315,0.032,samples tested,https://drive.google.com/drive/folders/15HhKwkfQhIr6EotQCD5-J8cnzguTazjQ,Ministry of Health and Population,,273556
+Nepal,2021-02-23,2146533,0.032,samples tested,https://drive.google.com/drive/folders/1HeFUBFRMf_mC6U0L8zGure6XxIVpdzfb,Ministry of Health and Population,,273666
+Nepal,2021-02-24,2150225,0.031,samples tested,https://drive.google.com/drive/folders/1h05GqnTmFv1XVPFE067Yd3z5tBASZ816,Ministry of Health and Population,,273760
+Nepal,2021-02-25,2153636,0.032,samples tested,https://drive.google.com/drive/folders/1If2hUHxtGzjoi5RYIZYG6FhWBYtejHIR,Ministry of Health and Population,,273872
+Nepal,2021-02-26,2157580,0.031,samples tested,https://drive.google.com/drive/folders/1K179C9MvtJLK6JmGitqa5uzz_krZTKAG,Ministry of Health and Population,,273984
+Nepal,2021-02-27,2160404,0.030,samples tested,https://drive.google.com/drive/folders/1qur2AqIPqM2ebsaiUx3Fjs1YGdvouDLc,Ministry of Health and Population,,274065
+Nepal,2021-02-28,2162936,0.031,samples tested,https://drive.google.com/drive/folders/1kg7m9BG0pmo2qaLmOK7_qkjnj1Evz5WQ,Ministry of Health and Population,,274143
+Nepal,2021-03-01,2165985,0.029,samples tested,https://drive.google.com/drive/folders/1hXhNYfgilYiingy-y7c8lpLn4Exoo0LQ,Ministry of Health and Population,,274216
+Nepal,2021-03-02,2170112,0.027,samples tested,https://drive.google.com/drive/folders/1llLXKpI6sWf05KRbpEUwQlPRdsuqpz7q,Ministry of Health and Population,,274294
+Nepal,2021-03-03,2173511,0.027,samples tested,https://drive.google.com/drive/folders/1g3FrZojutmgY-fn-CtaZ_ELr2y9D4n-g,Ministry of Health and Population,,274381
+Nepal,2021-03-04,2179047,0.024,samples tested,https://drive.google.com/drive/folders/1puNAzUqXdl4GVeby0Gg9AFC8gY-muAP7,Ministry of Health and Population,,274488
+Nepal,2021-03-05,2185190,0.023,samples tested,https://drive.google.com/drive/folders/1ot4OLG3hX_49LsjVqxdSeLVrLifWo96x,Ministry of Health and Population,,274608
+Nepal,2021-03-06,2188725,0.021,samples tested,https://drive.google.com/drive/folders/12T3EkdOMWTvPjFc0nR7ZviQVM_11Jpy5,Ministry of Health and Population,,274655
+Nepal,2021-03-07,2192836,0.019,samples tested,https://drive.google.com/drive/folders/1_TPDHsYD99ksFPU2DMu3LZ3p7W-bXCPp,Ministry of Health and Population,,274721
+Nepal,2021-03-08,2197235,0.019,samples tested,https://drive.google.com/drive/folders/1KmVbVmlRuhRneAhFQ5pxiMlnN81U5Err,Ministry of Health and Population,,274810
+Nepal,2021-03-09,2199950,0.019,samples tested,https://drive.google.com/drive/folders/1wzDOEr08NfAbBND2ffMgHU8_0MOWqFTy,Ministry of Health and Population,,274869
+Nepal,2021-03-10,2203438,0.020,samples tested,https://drive.google.com/drive/folders/1-nicDtBpq464warG6RguNJPc1MYOqKLU,Ministry of Health and Population,,274973
+Nepal,2021-03-11,2207922,0.020,samples tested,https://drive.google.com/drive/folders/1RFcci1B3JGu69S2Ei2rIiTmxo1spa7Qn,Ministry of Health and Population,,275070
+Nepal,2021-03-12,2210434,0.020,samples tested,https://drive.google.com/drive/folders/1s5pCTvid1T89zGGMgP_PmAbzc9bfoRmK,Ministry of Health and Population,,275118
+Nepal,2021-03-13,2212796,0.022,samples tested,https://drive.google.com/drive/folders/1ELlxApt64AMpsHJtSR5gli28JroiFRWB,Ministry of Health and Population,,275178
+Nepal,2021-03-14,2215411,0.023,samples tested,https://drive.google.com/drive/folders/1t24O5qM1K-1vp3mdSLgUD4NIHGAd2Z3y,Ministry of Health and Population,,275231
+Nepal,2021-03-15,2218722,0.023,samples tested,https://drive.google.com/drive/folders/1C4B79YCVLAVB4Yp0MJWW80tj8DRsFzk7,Ministry of Health and Population,,275310
+Nepal,2021-03-16,2221512,0.026,samples tested,https://drive.google.com/drive/folders/1X3_GcbugkXNMRCpR3DQvRQiG9hDruc4t,Ministry of Health and Population,,275424
+Nepal,2021-03-17,2224293,0.026,samples tested,https://drive.google.com/drive/folders/1jA4mhZM8H0TETEnbCVDWkUlCrK4mEimI,Ministry of Health and Population,,275518
+Nepal,2021-03-18,2227547,0.028,samples tested,https://drive.google.com/drive/folders/1ztNcd8lrrPe-nIAOEAO_-grAQh8dxHKO,Ministry of Health and Population,,275625
+Nepal,2021-03-19,2230708,0.031,samples tested,https://drive.google.com/drive/folders/1mROgUIpmL1XZXMcDq2bQxbdWMIjoATmt,Ministry of Health and Population,,275750
+Nepal,2021-03-20,2233345,0.032,samples tested,https://drive.google.com/drive/folders/1wyRgVHD7fmzEpCWM0ZRE9-R4Yh3rCRiR,Ministry of Health and Population,,275829
+Nepal,2021-03-21,2236526,0.032,samples tested,https://drive.google.com/drive/folders/1qlpS72nZ3xB537GF_MktH7CkI__pHMIG,Ministry of Health and Population,,275906
+Nepal,2021-03-22,2240998,0.033,samples tested,https://drive.google.com/drive/folders/1eFzDPzbpNhznzT3YTwKh6yxRGwCaxEuK,Ministry of Health and Population,,276056
+Nepal,2021-03-23,2245030,0.035,samples tested,https://drive.google.com/drive/folders/1xzATsGvYQP4z19v607sXncK77sM5kzYi,Ministry of Health and Population,,276244
+Nepal,2021-03-24,2248993,0.035,samples tested,https://drive.google.com/drive/folders/1bzbGe6ZI6ySxBmY8u6Rb8ubMK1L1dOOE,Ministry of Health and Population,,276389
+Nepal,2021-03-25,2251884,0.036,samples tested,https://drive.google.com/drive/folders/1lZQB7YVd5PuLofiLLuJ6qh5LkdktQC-J,Ministry of Health and Population,,276509
+Nepal,2021-03-26,2256300,0.036,samples tested,https://drive.google.com/drive/folders/1IJdvz7ASiUy7_wa7qmlgknig-wjiKOkB,Ministry of Health and Population,,276665
+Nepal,2021-03-27,2259045,0.036,samples tested,https://drive.google.com/drive/folders/1kTXVOAAc3M1iIih9BK230QMzc333pBZy,Ministry of Health and Population,,276750
+Nepal,2021-03-28,2261146,0.038,samples tested,https://drive.google.com/drive/folders/15IdnQoyRR7wtcx7JIsv6hLUNcASt9TSq,Ministry of Health and Population,,276839
+Nepal,2021-03-29,2264268,0.040,samples tested,https://drive.google.com/drive/folders/1pvj-n9K2owUFt-GNFlwc_S8jF0f0fHTw,Ministry of Health and Population,,276980
+Nepal,2021-03-30,2267408,0.040,samples tested,https://drive.google.com/drive/folders/1YeNOY-PZJUJknTGnbJSFOV4qa02EonMW,Ministry of Health and Population,,277147
+Nepal,2021-03-31,2271327,0.041,samples tested,https://drive.google.com/drive/folders/1o6ocF6jyTaRLwT5BoHytDlcZqYNX4fng,Ministry of Health and Population,,277309
+Nepal,2021-04-01,2275540,0.040,samples tested,https://drive.google.com/drive/folders/18A73XWVctBGk9KqhJoLv2376oJ8B7Bid,Ministry of Health and Population,,277461
+Nepal,2021-04-02,2279105,0.043,samples tested,https://drive.google.com/drive/folders/1e2VQDCtfZQ4NBQlxuZkmrUgpTYgI44Cu,Ministry of Health and Population,,277640
+Nepal,2021-04-03,2281832,0.045,samples tested,https://drive.google.com/drive/folders/1vLLa1OnKaG_imuSNFtY1S0B5TIBNmxys,Ministry of Health and Population,,277768
+Nepal,2021-04-04,2285288,0.046,samples tested,https://drive.google.com/drive/folders/1EiKdAvoiXhuhlBVNO_ZmtHwVt-MkyBVq,Ministry of Health and Population,,277944
+Nepal,2021-04-05,2289824,0.048,samples tested,https://drive.google.com/drive/folders/1qGkhHH_WaohtmMXVAyFreCp_EEsVyIN6,Ministry of Health and Population,,278210
+Nepal,2021-04-06,2294067,0.050,samples tested,https://drive.google.com/drive/folders/16gAcp4pQoo_fsIV4xc8YVhm144pypdTq,Ministry of Health and Population,,278470
+Nepal,2021-04-07,2298167,0.054,samples tested,https://drive.google.com/drive/folders/13ZsyMkhRx_rtn7B_TbU_5pmtATZkqVY4,Ministry of Health and Population,,278768
+Nepal,2021-04-08,2302173,0.062,samples tested,https://drive.google.com/drive/folders/1T8Cy8Hv3URTvqXXnGijwckTLEDTcA5ot,Ministry of Health and Population,,279100
+Nepal,2021-04-09,2306244,0.064,samples tested,https://drive.google.com/drive/folders/1_Mj0QrF9m88SPnYN-E4c_nw6tprZTeX6,Ministry of Health and Population,,279388
+Nepal,2021-04-10,2309776,0.070,samples tested,https://drive.google.com/drive/folders/1rqvc4R7GradvAbhUsregUHq5oFcPHIyD,Ministry of Health and Population,,279725
+Nepal,2021-04-11,2312901,0.075,samples tested,https://drive.google.com/drive/folders/1GqZwDbvVCB05pp7-bPBng8MupMifsY-0,Ministry of Health and Population,,280028
+Nepal,2021-04-12,2317284,0.084,samples tested,https://drive.google.com/drive/folders/1SGONLWayIgYmKPb7dYPrrmsPYNCxMfGq,Ministry of Health and Population,,280524
+Nepal,2021-04-13,2321670,0.091,samples tested,https://drive.google.com/drive/folders/1utoNtdFZSIy66RC6nN4WU9MAQ2hfOnjV,Ministry of Health and Population,,280984
+Nepal,2021-04-14,2325959,0.101,samples tested,https://drive.google.com/drive/folders/117-G4aiJU3EdWBID38J1V3QjKh8-P6vD,Ministry of Health and Population,,281564
+Nepal,2021-04-15,2329547,0.108,samples tested,https://drive.google.com/drive/folders/111iFk5S5jHyTRfg_CX6N3fvOzw-MAZG1,Ministry of Health and Population,,282054
+Nepal,2021-04-16,2335084,0.121,samples tested,https://drive.google.com/drive/folders/1gfoXrCRVfN5viBAxBc9rwFW06E_jZsTl,Ministry of Health and Population,,282890
+Nepal,2021-04-17,2340417,0.128,samples tested,https://drive.google.com/drive/folders/1a5OusVPe6wNQ3yoedo1C6QxVsyFVOn1I,Ministry of Health and Population,,283658
+Nepal,2021-04-18,2345501,0.142,samples tested,https://drive.google.com/drive/folders/1kD3sWcYqercOBeDcg0Z5o6p4--5f2wBg,Ministry of Health and Population,,284673
+Nepal,2021-04-19,2352502,0.153,samples tested,https://drive.google.com/drive/folders/1GiPD96fqBk9i4w9UIp0r9WEWw4-kqHR5,Ministry of Health and Population,,285900
+Nepal,2021-04-20,2360557,0.169,samples tested,https://drive.google.com/drive/folders/1x3AdJJSpTwh7KEQyLzrcApn4Ji8o4-PJ,Ministry of Health and Population,,287567
+Nepal,2021-04-21,2369401,0.189,samples tested,https://drive.google.com/drive/folders/1E_VZupSgQLrIE6EPzMyGhybzWnmNXx1E,Ministry of Health and Population,,289787
+Nepal,2021-04-22,2379402,0.203,samples tested,https://drive.google.com/drive/folders/18mPM33E7pwwqhVrC6-Mp59gIQ17GyH5K,Ministry of Health and Population,,292152
+Nepal,2021-04-23,2388200,0.220,samples tested,https://drive.google.com/drive/folders/1pLnenUtggOtEoiP2lsKPV9B4YEps0hBv,Ministry of Health and Population,,294601
+Nepal,2021-04-24,2395725,0.243,samples tested,https://drive.google.com/drive/folders/1jF0tTG1PTAv_KUM9oqD-DtHp_YxU68HX,Ministry of Health and Population,,297087
+Nepal,2021-04-25,2405017,0.260,samples tested,https://drive.google.com/drive/folders/1sMOd0BUfMW4SRpmk9Lk7Rq5_ySITR57q,Ministry of Health and Population,,300119
+Nepal,2021-04-26,2417417,0.272,samples tested,https://drive.google.com/drive/folders/186XO_IevWZAsoRPAwe4GWPTrp5Wcfer4,Ministry of Health and Population,,303561
+Nepal,2021-04-27,2432089,0.285,samples tested,https://drive.google.com/drive/folders/1rU1oRDrhjMFk22ivBNvUl3tLkrLavUeE,Ministry of Health and Population,,307925
+Nepal,2021-04-28,2445968,0.299,samples tested,https://drive.google.com/drive/folders/1PcratznPLJOq9xLCFpAlJmqLgF3YhyYw,Ministry of Health and Population,,312699
+Nepal,2021-04-29,2458565,0.321,samples tested,https://drive.google.com/drive/folders/1_BScK-JUPDjNQZgC61sWHtrRUI79yK9R,Ministry of Health and Population,,317530
+Nepal,2021-05-01,2488359,0.342,samples tested,https://drive.google.com/drive/folders/1msR0YuprFIJ5f083VX5ZWT-_yK_CWPqL,Ministry of Health and Population,,328893
+Nepal,2021-05-02,2504476,0.358,samples tested,https://drive.google.com/drive/folders/1hBJcXjg0hixmTESclvECpX-rw9EUm9of,Ministry of Health and Population,,336030
+Nepal,2021-05-03,2521164,0.373,samples tested,https://drive.google.com/drive/folders/1KKZ_WPOP9uh38_sByZX6_ePToM7ZDvin,Ministry of Health and Population,,343418
+Nepal,2021-05-04,2537295,0.396,samples tested,https://drive.google.com/drive/folders/1qZDBUuFjnJ7Jr9fiBFlVvJmqn52R3oQC,Ministry of Health and Population,,351005
+Nepal,2021-05-05,2558051,0.410,samples tested,https://drive.google.com/drive/folders/1ksQZWC9o_mGxqjr_iy2rXGlyCbWoNtr3,Ministry of Health and Population,,359610
+Nepal,2021-05-06,2578418,0.422,samples tested,https://drive.google.com/drive/folders/1Vp3MbShmkeeAYcdH2hk7GuNtnr_dUULj,Ministry of Health and Population,,368580
+Nepal,2021-05-07,2598405,0.430,samples tested,https://drive.google.com/drive/folders/1D-Ow_VSqz6LPgXNFvnw8IDE2BI7IweLp,Ministry of Health and Population,,377603
+Nepal,2021-05-09,2634504,0.450,samples tested,https://drive.google.com/drive/folders/1vW9KtivksnQKxDMXP_rFZn2Htob50tC6,Ministry of Health and Population,,394667
+Nepal,2021-05-10,2652130,0.459,samples tested,https://drive.google.com/drive/folders/1BUgHCIC-kKNubsJh2L4VrCFU8MOuef7W,Ministry of Health and Population,,403794
+Nepal,2021-05-11,2672726,0.460,samples tested,https://drive.google.com/drive/folders/1KMe-Y3gYKsBbIN2857-vaXVfqf-kKZZq,Ministry of Health and Population,,413111
+Nepal,2021-05-12,2693088,0.458,samples tested,https://drive.google.com/drive/folders/1useBI9rFDKrIc98KaSEqZNZsK2q7-7h9,Ministry of Health and Population,,422349
+Nepal,2021-05-13,2712562,0.463,samples tested,https://drive.google.com/drive/folders/1C-Ra9npENspHDfz3jJTt5AL7RPx08R48,Ministry of Health and Population,,431191
+Nepal,2021-05-14,2733510,0.458,samples tested,https://drive.google.com/drive/folders/1cZRAytc41yMITvL041GoloA9i3YWxCUm,Ministry of Health and Population,,439658
+Nepal,2021-05-15,2751481,0.458,samples tested,https://drive.google.com/drive/folders/1pd73Q4ZDkqIazRZYCcwfKbr1tzwOeOG4,Ministry of Health and Population,,447704
+Nepal,2021-05-16,2770980,0.442,samples tested,https://drive.google.com/drive/folders/1W94_drQGsIRKTlEYxOYRcwEym-1wDGfu,Ministry of Health and Population,,455020
+Nepal,2021-05-17,2792673,0.430,samples tested,https://drive.google.com/drive/folders/1YAO9ASmuyR1pdtDassQRUXoV8rb89luO,Ministry of Health and Population,,464218
+Nepal,2021-05-18,2812959,0.422,samples tested,https://drive.google.com/drive/folders/1mC7V-awTpFc1SxWJUHvmFMR9rKwaFPYa,Ministry of Health and Population,,472354
+Nepal,2021-05-19,2834098,0.412,samples tested,https://drive.google.com/drive/folders/1q0R3odIfS1Te7TCtdpira7PgkfpJ472g,Ministry of Health and Population,,480418
+Nepal,2021-05-20,2855793,0.401,samples tested,https://drive.google.com/drive/folders/11PJDglJQ2wyn9G_SxRtkfkxM6s9VY_u-,Ministry of Health and Population,,488645
+Nepal,2021-05-21,2878146,0.397,samples tested,https://drive.google.com/drive/folders/1U0vjydB9E7jjmKplx0qxARWwYtbQ9kW2,Ministry of Health and Population,,497052
+Nepal,2021-05-22,2897503,0.397,samples tested,https://drive.google.com/drive/folders/1ATyFJb2ksFA279PuLNWS351eectsLHp_,Ministry of Health and Population,,505643
+Nepal,2021-05-23,2916468,0.400,samples tested,https://drive.google.com/drive/folders/1EMe5R7_xsJLEZfMvgDHA_O7iz8q-m6za,Ministry of Health and Population,,513241
+Nepal,2021-05-24,2936314,0.392,samples tested,https://drive.google.com/drive/folders/1KLYoOy-MpNFXjiFo1lD69cFnq29LQUwJ,Ministry of Health and Population,,520461
+Nepal,2021-05-25,2958620,0.388,samples tested,https://drive.google.com/drive/folders/1PtnBDF4N6xvOMeBC1F3-unmsaVz8hZVi,Ministry of Health and Population,,528848
+Nepal,2021-05-26,2977650,0.384,samples tested,https://drive.google.com/drive/folders/1tYhUZzhB5lV0ZRWrtwQgaWx-xd-aIAqT,Ministry of Health and Population,,535525
+Nepal,2021-05-27,2998064,0.377,samples tested,https://drive.google.com/drive/folders/1n4DPihec0BNIpydGjlTWpws-XpkxrRI2,Ministry of Health and Population,,542256
+Nepal,2021-05-28,3017377,0.374,samples tested,https://drive.google.com/drive/folders/1em7wxYCsLxP2WIhkz2cVo63vUR34ro0Q,Ministry of Health and Population,,549111
+Nepal,2021-05-29,3031383,0.357,samples tested,https://drive.google.com/drive/folders/1Pw5R-HKHoHsxMM8DJM8YPjGybayzltvv,Ministry of Health and Population,,553422
+Nepal,2021-05-30,3042369,0.349,samples tested,https://drive.google.com/drive/folders/1aRZm62_GzOVld142UbeuJrEk5G1rEfuQ,Ministry of Health and Population,,557124
+Nepal,2021-05-31,3057424,0.337,samples tested,https://drive.google.com/drive/folders/1rioUMJNVTLucdmsiCIjyu4-WoYiG6HXf,Ministry of Health and Population,,561302
+Nepal,2021-06-01,3074571,0.325,samples tested,https://drive.google.com/drive/folders/16WCeT2O0t2urV7ly-OiK2Uo5c25Sp3pI,Ministry of Health and Population,,566587
+Nepal,2021-06-02,3088376,0.321,samples tested,https://drive.google.com/drive/folders/1Sf3Uob99NKWSrrtUTZ9ZlZRJjWixlEuv,Ministry of Health and Population,,571111
+Nepal,2021-06-03,3106938,0.319,samples tested,https://drive.google.com/drive/folders/1bvJ8eM7PAuu1eM5jf3HUDSEg7XedSvzo,Ministry of Health and Population,,576936
+Nepal,2021-06-04,3121120,0.313,samples tested,https://drive.google.com/drive/folders/1wteQzYd45Q0556sDThybCx4kIGSTEozb,Ministry of Health and Population,,581560
+Nepal,2021-06-05,3199280,0.267,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60bb85e2b1850_SitRep482_COVID-19_05-06-2021_EN.pdf,Ministry of Health and Population,,598204
+Nepal,2021-06-06,3213013,0.261,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60bcb421c38b3_SitRep483_COVID-19_06-06-2021_EN.pdf,Ministry of Health and Population,,601683
+Nepal,2021-06-07,3230916,0.259,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60be07951a571_SitRep484_COVID-19_07-06-2021_EN.pdf,Ministry of Health and Population,,606155
+Nepal,2021-06-08,3248592,0.257,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60bf4d8e6ff2c_SitRep485_COVID-19_08-06-2021_EN.pdf,Ministry of Health and Population,,611308
+Nepal,2021-06-09,3265234,0.252,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c0bbce2ce6d_SitRep486_COVID-19_09-06-2021_EN.pdf,Ministry of Health and Population,,615652
+Nepal,2021-06-10,3280472,0.245,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c1f96cc7b61_SitRep487_COVID-19_10-06-2021_EN.pdf,Ministry of Health and Population,,619401
+Nepal,2021-06-11,3295654,0.238,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c344b1cd88d_SitRep488_COVID-19_11-06-2021_EN.pdf,Ministry of Health and Population,,623151
+Nepal,2021-06-12,3310148,0.256,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c894388258f_SitRep489_COVID-19_12-06-2021_EN.pdf,Ministry of Health and Population,,626535
+Nepal,2021-06-13,3322554,0.249,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c893fe32193_SitRep490_COVID-19_13-06-2021_EN.pdf,Ministry of Health and Population,,628942
+Nepal,2021-06-14,3337373,0.241,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c8958f03ba0_SitRep491_COVID-19_14-06-2021_EN.pdf,Ministry of Health and Population,,631860
+Nepal,2021-06-15,3350663,0.228,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60c89030a0365_SitRep492_COVID-19_15-06-2021_EN.pdf,Ministry of Health and Population,,634605
+Nepal,2021-06-16,3363685,0.221,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60caccef266d9_SitRep493_COVID-19_16-06-2021_EN.pdf,Ministry of Health and Population,,637433
+Nepal,2021-06-17,3376169,0.216,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60cb2f94125b2_SitRep494_COVID-19_17-06-2021_EN.pdf,Ministry of Health and Population,,640040
+Nepal,2021-06-18,3389206,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60cd87ffd23c0_SitRep495_COVID-19_18-06-2021_EN.pdf,Ministry of Health and Population,,642808
+Nepal,2021-06-19,3400902,0.206,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60cdcbdabc01a_SitRep496_COVID-19_19-06-2021_EN.pdf,Ministry of Health and Population,,645209
+Nepal,2021-06-20,3411828,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60cf2adad020c_SitRep497_COVID-19_20-06-2021_EN.pdf,Ministry of Health and Population,,647651
+Nepal,2021-06-21,3422732,0.212,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d07391527fb_SitRep498_COVID-19_21-06-2021_EN.pdf,Ministry of Health and Population,,649948
+Nepal,2021-06-22,3439645,0.223,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d1c31f62d48_SitRep499_COVID-19_22-06-2021_EN.pdf,Ministry of Health and Population,,654470
+Nepal,2021-06-23,3452059,0.220,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d31ff80e2c3_SitRep500_COVID-19_23-06-2021_EN.pdf,Ministry of Health and Population,,656891
+Nepal,2021-06-24,3464291,0.219,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d465c1aa3df_SitRep501_COVID-19_24-06-2021_EN.pdf,Ministry of Health and Population,,659365
+Nepal,2021-06-25,3478642,0.213,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d5c3c178339_SitRep502_COVID-19_25-06-2021_EN.pdf,Ministry of Health and Population,,661841
+Nepal,2021-06-26,3488152,0.214,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d70548ae5c7_SitRep503_COVID-19_26-06-2021_EN.pdf,Ministry of Health and Population,,663857
+Nepal,2021-06-27,3497988,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d9a0fe85493_SitRep504_COVID-19_27-06-2021_EN.pdf,Ministry of Health and Population,,665777
+Nepal,2021-06-28,3509628,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60d9a5510942d_SitRep505_COVID-19_28-06-2021_EN.pdf,Ministry of Health and Population,,668221
+Nepal,2021-06-29,3521376,0.200,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60db05074c8ac_SitRep506_COVID-19_29-06-2021_EN.pdf,Ministry of Health and Population,,670857
+Nepal,2021-06-30,3532944,0.208,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60dd9d7e3cd28_SitRep507_COVID-19_30-06-2021_EN.pdf,Ministry of Health and Population,,673749
+Nepal,2021-07-01,3543929,0.215,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60dd9dd15e308_SitRep508_COVID-19_01-07-2021_EN.pdf,Ministry of Health and Population,,676509
+Nepal,2021-07-02,3554525,0.224,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60deeed3b8975_SitRep509_COVID-19_02-07-2021_EN.pdf,Ministry of Health and Population,,678808
+Nepal,2021-07-03,3564658,0.226,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e03bce3b3cb_SitRep510_COVID-19_03-07-2021_EN.pdf,Ministry of Health and Population,,681136
+Nepal,2021-07-04,3572790,0.227,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e2861e9ba61_SitRep511_COVID-19_04-07-2021_EN.pdf,Ministry of Health and Population,,682739
+Nepal,2021-07-05,3584317,0.229,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e32900cf9cc_SitRep512_COVID-19_05-07-2021_EN.pdf,Ministry of Health and Population,,685361
+Nepal,2021-07-06,3596902,0.227,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e437794a925_SitRep513_COVID-19_06-07-2021_EN.pdf,Ministry of Health and Population,,687995
+Nepal,2021-07-07,3608800,0.227,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e58eaf0cee0_SitRep514_COVID-19_07-07-2021_EN.pdf,Ministry of Health and Population,,690974
+Nepal,2021-07-08,3619304,0.217,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e6dce0eba56_SitRep515_COVID-19_08-07-2021_EN.pdf,Ministry of Health and Population,,692849
+Nepal,2021-07-09,3630617,0.214,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60e826444c10d_SitRep516_COVID-19_09-07-2021_EN.pdf,Ministry of Health and Population,,695088
+Nepal,2021-07-10,3641034,0.211,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60ea91870e1f8_SitRep517_COVID-19_10-07-2021_EN.pdf,Ministry of Health and Population,,697257
+Nepal,2021-07-11,3650252,0.211,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60ec01d93a06e_SitRep518_COVID-19_11-07-2021_EN.pdf,Ministry of Health and Population,,699088
+Nepal,2021-07-12,3661836,0.208,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60ec2084657ac_SitRep519_COVID-19_12-07-2021_EN.pdf,Ministry of Health and Population,,701458
+Nepal,2021-07-13,3672848,0.209,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60ed66f84420e_SitRep520_COVID-19_13-07-2021_EN.pdf,Ministry of Health and Population,,703856
+Nepal,2021-07-14,3685872,0.205,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60eeca51ead88_SitRep521_COVID-19_14-07-2021_EN.pdf,Ministry of Health and Population,,706761
+Nepal,2021-07-15,3698640,0.209,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f0149ce22e6_SitRep522_COVID-19_15-07-2021_EN.pdf,Ministry of Health and Population,,709437
+Nepal,2021-07-16,3712822,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f15c1ba01cd_SitRep523_COVID-19_16-07-2021_EN.pdf,Ministry of Health and Population,,712373
+Nepal,2021-07-17,3722888,0.208,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f2b4b218b38_SitRep524_COVID-19_17-07-2021_EN.pdf,Ministry of Health and Population,,714248
+Nepal,2021-07-18,3732516,0.206,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f412032fb09_SitRep525_COVID-19_18-07-2021_EN.pdf,Ministry of Health and Population,,716049
+Nepal,2021-07-19,3744180,0.207,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f678ae0fe1d_SitRep526_COVID-19_19-07-2021_EN.pdf,Ministry of Health and Population,,718494
+Nepal,2021-07-20,3757315,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f7f94f3c5d2_SitRep527_COVID-19_20-07-2021_EN.pdf,Ministry of Health and Population,,721617
+Nepal,2021-07-21,3769931,0.210,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f8044ca84da_SitRep528_COVID-19_21-07-2021_EN.pdf,Ministry of Health and Population,,724455
+Nepal,2021-07-22,3782760,0.211,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60f94e41638f0_SitRep529_COVID-19_22-07-2021_EN.pdf,Ministry of Health and Population,,727169
+Nepal,2021-07-23,3800068,0.204,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60fa913dd42b5_SitRep530_COVID-19_23-07-2021_EN.pdf,Ministry of Health and Population,,730146
+Nepal,2021-07-24,3814978,0.206,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60fd4c818f2ee_SitRep531_COVID-19_24-07-2021_EN.pdf,Ministry of Health and Population,,733260
+Nepal,2021-07-25,3828812,0.195,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60fd49e53adf2_SitRep532_COVID-19_25-07-2021_EN.pdf,Ministry of Health and Population,,734799
+Nepal,2021-07-26,3846084,0.200,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60fe91418b3d8_SitRep533_COVID-19_26-07-2021_EN.pdf,Ministry of Health and Population,,738918
+Nepal,2021-07-27,3863602,0.199,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/60ffdfab16c98_SitRep534_COVID-19_27-07-2021_EN.pdf,Ministry of Health and Population,,742817
+Nepal,2021-07-28,3879410,0.203,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61013c63c1bb2_SitRep535_COVID-19_28-07-2021_EN.pdf,Ministry of Health and Population,,746657
+Nepal,2021-07-29,3893652,0.206,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6102833497a5e_SitRep536_COVID-19_29-07-2021_EN.pdf,Ministry of Health and Population,,750022
+Nepal,2021-07-30,3908313,0.217,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61050904c30b7_SitRep537_COVID-19_30-07-2021_EN.pdf,Ministry of Health and Population,,753633
+Nepal,2021-07-31,3921832,0.220,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61052a976f2e3_SitRep538_COVID-19_31-07-2021_EN.pdf,Ministry of Health and Population,,756739
+Nepal,2021-08-01,3934468,0.232,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61067b0bc4bab_SitRep539_COVID-19_01-08-2021_EN.pdf,Ministry of Health and Population,,759307
+Nepal,2021-08-02,3948279,0.230,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6109692ee9067_SitRep540_COVID-19_02-08-2021_EN.pdf,Ministry of Health and Population,,762432
+Nepal,2021-08-03,3964997,0.227,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/610930421a0ea_SitRep541_COVID-19_03-08-2021_EN.pdf,Ministry of Health and Population,,765815
+Nepal,2021-08-04,3981295,0.228,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/610a77d23f34a_SitRep542_COVID-19_04-08-2021_EN.pdf,Ministry of Health and Population,,769922
+Nepal,2021-08-05,3999703,0.225,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/610bc1d54574b_SitRep543_COVID-19_05-08-2021_EN.pdf,Ministry of Health and Population,,773860
+Nepal,2021-08-06,4015378,0.224,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/610d1dec4f07e_SitRep544_COVID-19_06-08-2021_EN.pdf,Ministry of Health and Population,,777589
+Nepal,2021-08-07,4028951,0.225,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/610e684798d46_SitRep545_COVID-19_07-08-2021_EN.pdf,Ministry of Health and Population,,780807
+Nepal,2021-08-08,4041329,0.225,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/610faf990be96_SitRep546_COVID-19_08-08-2021_EN.pdf,Ministry of Health and Population,,783355
+Nepal,2021-08-09,4057923,0.224,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611117b210973_SitRep547_COVID-19_09-08-2021_EN.pdf,Ministry of Health and Population,,787006
+Nepal,2021-08-10,4077046,0.233,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611260b20167c_SitRep548_COVID-19_10-08-2021_EN.pdf,Ministry of Health and Population,,791910
+Nepal,2021-08-11,4093702,0.227,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6113b3e429294_SitRep549_COVID-19_11-08-2021_EN.pdf,Ministry of Health and Population,,795391
+Nepal,2021-08-12,4109164,0.226,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6115077d6b9c2_SitRep550_COVID-19_12-08-2021_EN.pdf,Ministry of Health and Population,,798651
+Nepal,2021-08-13,4127746,0.222,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6118dc5abbbc0_SitRep551_COVID-19_13-08-2021_EN.pdf,Ministry of Health and Population,,802566
+Nepal,2021-08-14,4141319,0.217,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611795d604c7c_SitRep552_COVID-19_14-08-2021_EN.pdf,Ministry of Health and Population,,805190
+Nepal,2021-08-15,4153425,0.215,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6118f29c908cf_SitRep553_COVID-19_15-08-2021_EN.pdf,Ministry of Health and Population,,807402
+Nepal,2021-08-16,4169036,0.215,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611a3fb60790a_SitRep554_COVID-19_16-08-2021_EN.pdf,Ministry of Health and Population,,810853
+Nepal,2021-08-17,4186725,0.203,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611ba16723b67_SitRep555_COVID-19_17-08-2021_EN.pdf,Ministry of Health and Population,,814127
+Nepal,2021-08-18,4203563,0.202,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611cefc71ff90_SitRep556_COVID-19_18-08-2021_EN.pdf,Ministry of Health and Population,,817530
+Nepal,2021-08-19,4220001,0.198,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611e3a2f0a643_SitRep557_COVID-19_19-08-2021_EN.pdf,Ministry of Health and Population,,820605
+Nepal,2021-08-20,4237655,0.192,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/611f86231479d_SitRep558_COVID-19_20-08-2021_EN.pdf,Ministry of Health and Population,,823647
+Nepal,2021-08-21,4250730,0.188,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6120d99ad1248_SitRep559_COVID-19_21-08-2021_EN.pdf,Ministry of Health and Population,,825722
+Nepal,2021-08-22,4263246,0.184,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6122288637f6a_SitRep560_COVID-19_22-08-2021_EN.pdf,Ministry of Health and Population,,827642
+Nepal,2021-08-23,4274572,0.176,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612387a085ece_SitRep561_COVID-19_23-08-2021_EN.pdf,Ministry of Health and Population,,829443
+Nepal,2021-08-24,4289382,0.174,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6124d7dd384af_SitRep562_COVID-19_24-08-2021_EN.pdf,Ministry of Health and Population,,831968
+Nepal,2021-08-25,4304672,0.167,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612625584816e_SitRep563_COVID-19_25-08-2021_EN.pdf,Ministry of Health and Population,,834450
+Nepal,2021-08-26,4319046,0.164,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6127790a38080_SitRep564_COVID-19_26-08-2021_EN.pdf,Ministry of Health and Population,,836883
+Nepal,2021-08-27,4332163,0.162,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6128bb18f0f0c_SitRep565_COVID-19_27-08-2021_EN.pdf,Ministry of Health and Population,,838948
+Nepal,2021-08-28,4345339,0.159,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612a1260a0600_SitRep566_COVID-19_28-08-2021_EN.pdf,Ministry of Health and Population,,840805
+Nepal,2021-08-29,4355636,0.157,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612b6a65d9958_SitRep567_COVID-19_29-08-2021_EN.pdf,Ministry of Health and Population,,842193
+Nepal,2021-08-30,4371869,0.155,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612cb51d3fe6b_SitRep568_COVID-19_30-08-2021_EN.pdf,Ministry of Health and Population,,844488
+Nepal,2021-08-31,4384091,0.150,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612e113c20d8a_SitRep569_COVID-19_31-08-2021_EN.pdf,Ministry of Health and Population,,846152
+Nepal,2021-09-01,4399026,0.146,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/612f66c750fc6_SitRep570_COVID-19_01-09-2021_EN.pdf,Ministry of Health and Population,,848204
+Nepal,2021-09-02,4413676,0.141,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6130ad5b729bf_SitRep571_COVID-19_02-09-2021_EN.pdf,Ministry of Health and Population,,850208
+Nepal,2021-09-03,4428010,0.136,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6133160470c7d_SitRep572_COVID-19_03-09-2021_EN.pdf,Ministry of Health and Population,,851964
+Nepal,2021-09-04,4437885,0.134,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61334b8ac5655_SitRep573_COVID-19_04-09-2021_EN.pdf,Ministry of Health and Population,,853232
+Nepal,2021-09-05,4445856,0.134,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61349d3f9599d_SitRep574_COVID-19_05-09-2021_EN.pdf,Ministry of Health and Population,,854321
+Nepal,2021-09-06,4461835,0.130,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6135f594ced0d_SitRep575_COVID-19_06-09-2021_EN.pdf,Ministry of Health and Population,,856218
+Nepal,2021-09-07,4476869,0.127,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61373f6f4baeb_SitRep576_COVID-19_07-09-2021_EN.pdf,Ministry of Health and Population,,857895
+Nepal,2021-09-08,4490324,0.124,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/613898f6596b9_SitRep577_COVID-19_08-09-2021_EN.pdf,Ministry of Health and Population,,859535
+Nepal,2021-09-09,4502268,0.120,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6139e42bc566b_SitRep578_COVID-19_09-09-2021_EN.pdf,Ministry of Health and Population,,860806
+Nepal,2021-09-10,4513184,0.117,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/613b2e55b3813_SitRep579_COVID-19_10-09-2021_EN.pdf,Ministry of Health and Population,,861952
+Nepal,2021-09-11,4523024,0.114,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/613c86ea5b496_SitRep580_COVID-19_11-09-2021_EN.pdf,Ministry of Health and Population,,862946
+Nepal,2021-09-12,4534042,0.108,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/613dd320c91dc_SitRep581_COVID-19_12-09-2021_EN.pdf,Ministry of Health and Population,,863857
+Nepal,2021-09-13,4550581,0.103,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/613f237c3f8e4_SitRep582_COVID-19_13-09-2021_EN.pdf,Ministry of Health and Population,,865343
+Nepal,2021-09-14,4565024,0.102,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61407f1ccfdeb_SitRep583_COVID-19_14-09-2021_EN.pdf,Ministry of Health and Population,,866905
+Nepal,2021-09-15,4581868,0.100,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6141dd3ad14bb_SitRep584_COVID-19_15-09-2021_EN.pdf,Ministry of Health and Population,,868665
+Nepal,2021-09-16,4597047,0.099,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6143240e59c19_SitRep585_COVID-19_16-09-2021_EN.pdf,Ministry of Health and Population,,870176
+Nepal,2021-09-17,4609432,0.102,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61446a7ed507c_SitRep586_COVID-19_17-09-2021_EN.pdf,Ministry of Health and Population,,871734
+Nepal,2021-09-18,4620790,0.101,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6145cb20cf893_SitRep587_COVID-19_18-09-2021_EN.pdf,Ministry of Health and Population,,872800
+Nepal,2021-09-19,4630803,0.100,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/614712704068a_SitRep588_COVID-19_19-09-2021_EN.pdf,Ministry of Health and Population,,873534
+Nepal,2021-09-20,4644620,0.099,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6148622612a31_SitRep589_COVID-19_20-09-2021_EN.pdf,Ministry of Health and Population,,874629
+Nepal,2021-09-21,4658242,0.097,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6149b39a055c8_SitRep590_COVID-19_21-09-2021_EN.pdf,Ministry of Health and Population,,875959
+Nepal,2021-09-22,4672172,0.097,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/614b0b39e5eea_SitRep591_COVID-19_22-09-2021_EN.pdf,Ministry of Health and Population,,877437
+Nepal,2021-09-23,4687415,0.094,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/614c5403ba6f5_SitRep592_COVID-19_23-09-2021_EN.pdf,Ministry of Health and Population,,878676
+Nepal,2021-09-24,4703105,0.090,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/614daed348715_SitRep593_COVID-19_24-09-2021_EN.pdf,Ministry of Health and Population,,880152
+Nepal,2021-09-25,4706634,0.097,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/614ef5d5b9be1_SitRep594_COVID-19_25-09-2021_EN.pdf,Ministry of Health and Population,,881105
+Nepal,2021-09-26,4727420,0.087,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61504da1aba8d_SitRep595_COVID-19_26-09-2021_EN.pdf,Ministry of Health and Population,,881939
+Nepal,2021-09-27,4742908,0.087,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61519dfa1365a_SitRep596_COVID-19_27-09-2021_EN.pdf,Ministry of Health and Population,,883221
+Nepal,2021-09-28,4756911,0.085,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6152f0f27c4e8_SitRep597_COVID-19_28-09-2021_EN.pdf,Ministry of Health and Population,,884379
+Nepal,2021-09-29,4771452,0.082,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61544562ae0a5_SitRep598_COVID-19_29-09-2021_EN.pdf,Ministry of Health and Population,,885536
+Nepal,2021-09-30,4783217,0.083,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6155a3246c93a_SitRep599_COVID-19_30-09-2021_EN.pdf,Ministry of Health and Population,,886614
+Nepal,2021-10-01,4796585,0.081,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/615836e836808_SitRep600_COVID-19_01-10-2021_EN.pdf,Ministry of Health and Population,,887680
+Nepal,2021-10-02,4804804,0.076,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/615835db09138_SitRep601_COVID-19_02-10-2021_EN.pdf,Ministry of Health and Population,,888547
+Nepal,2021-10-03,4815724,0.083,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6159888640a5e_SitRep602_COVID-19_03-10-2021_EN.pdf,Ministry of Health and Population,,889226
+Nepal,2021-10-04,4826598,0.084,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/615ae77d9c74a_SitRep603_COVID-19_04-10-2021_EN.pdf,Ministry of Health and Population,,890256
+Nepal,2021-10-05,4842640,0.080,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/615c338744550_SitRep604_COVID-19_05-10-2021_EN.pdf,Ministry of Health and Population,,891224
+Nepal,2021-10-06,4858105,0.078,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/615d836a67e34_SitRep605_COVID-19_06-10-2021_EN.pdf,Ministry of Health and Population,,892267
+Nepal,2021-10-07,4868777,0.075,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/615ed9d3527b6_SitRep606_COVID-19_07-10-2021_EN.pdf,Ministry of Health and Population,,893072
+Nepal,2021-10-08,4879465,0.074,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61601d7fca44e_SitRep607_COVID-19_08-10-2021_EN.pdf,Ministry of Health and Population,,893836
+Nepal,2021-10-09,4891496,0.070,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/616175f7ab501_SitRep608_COVID-19_09-10-2021_EN.pdf,Ministry of Health and Population,,894596
+Nepal,2021-10-10,4903900,0.068,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6162d731a5d04_SitRep609_COVID-19_10-10-2021_EN.pdf,Ministry of Health and Population,,895192
+Nepal,2021-10-11,4916095,0.064,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61641185a2a3f_SitRep610_COVID-19_11-10-2021_EN.pdf,Ministry of Health and Population,,895977
+Nepal,2021-10-12,4925714,0.067,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61658403994bd_SitRep611_COVID-19_12-10-2021_EN.pdf,Ministry of Health and Population,,896769
+Nepal,2021-10-13,4931308,0.066,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6167d25036add_SitRep612_COVID-19_13-10-2021_EN.pdf,Ministry of Health and Population,,897134
+Nepal,2021-10-14,4937522,0.066,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6168052749abc_SitRep613_COVID-19_14-10-2021_EN.pdf,Ministry of Health and Population,,897589
+Nepal,2021-10-15,4942234,0.064,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61695b226d75e_SitRep614_COVID-19_15-10-2021_EN.pdf,Ministry of Health and Population,,897861
+Nepal,2021-10-16,4944007,0.065,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/616bca31ca136_SitRep615_COVID-19_16-10-2021_EN.pdf,Ministry of Health and Population,,898008
+Nepal,2021-10-17,4952084,0.067,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/616c2a0666ea3_SitRep616_COVID-19_17-10-2021_EN.pdf,Ministry of Health and Population,,898399
+Nepal,2021-10-18,4961781,0.066,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/616d55ed02f0a_SitRep617_COVID-19_18-10-2021_EN.pdf,Ministry of Health and Population,,898990
+Nepal,2021-10-19,4971697,0.072,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61723cddd3dcc_SitRep618_COVID-19_19-10-2021_EN.pdf,Ministry of Health and Population,,900086
+Nepal,2021-10-20,4980123,0.074,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/616ff47ceac04_SitRep619_COVID-19_20-10-2021_EN.pdf,Ministry of Health and Population,,900748
+Nepal,2021-10-21,4988672,0.072,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/617145823a118_SitRep620_COVID-19_21-10-2021_EN.pdf,Ministry of Health and Population,,901293
+Nepal,2021-10-22,4998048,0.074,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61728e264ffb2_SitRep621_COVID-19_22-10-2021_EN.pdf,Ministry of Health and Population,,902001
+Nepal,2021-10-23,5004979,0.074,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6173f2ec53071_SitRep622_COVID-19_23-10-2021_EN.pdf,Ministry of Health and Population,,902514
+Nepal,2021-10-24,5012604,0.077,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61753eea04e74_SitRep623_COVID-19_24-10-2021_EN.pdf,Ministry of Health and Population,,903071
+Nepal,2021-10-25,5023468,0.079,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61768a45298df_SitRep624_COVID-19_25-10-2021_EN.pdf,Ministry of Health and Population,,903847
+Nepal,2021-10-26,5035488,0.069,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6177d675dd2af_SitRep625_COVID-19_26-10-2021_EN.pdf,Ministry of Health and Population,,904513
+Nepal,2021-10-27,5044983,0.068,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6179378f5e5f1_SitRep626_COVID-19_27-10-2021_EN.pdf,Ministry of Health and Population,,905185
+Nepal,2021-10-28,5056338,0.066,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/617bbfe41925b_SitRep627_COVID-19_28-10-2021_EN.pdf,Ministry of Health and Population,,905776
+Nepal,2021-10-29,5066084,0.064,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/617bc50384e14_SitRep628_COVID-19_29-10-2021_EN.pdf,Ministry of Health and Population,,906325
+Nepal,2021-10-30,5073995,0.061,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/617d295a0816d_SitRep629_COVID-19_30-10-2021_EN.pdf,Ministry of Health and Population,,906697
+Nepal,2021-10-31,5081894,0.058,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/617e6b8675eff_SitRep630_COVID-19_31-10-2021_EN.pdf,Ministry of Health and Population,,907105
+Nepal,2021-11-01,5093558,0.054,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/617fbe91d75b3_SitRep631_COVID-19_01-11-2021_EN.pdf,Ministry of Health and Population,,907638
+Nepal,2021-11-02,5103845,0.053,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61810dea7b80b_SitRep632_COVID-19_02-11-2021_EN.pdf,Ministry of Health and Population,,908107
+Nepal,2021-11-03,5113758,0.049,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6182694393fd7_SitRep633_COVID-19_03-11-2021_EN.pdf,Ministry of Health and Population,,908554
+Nepal,2021-11-04,5120142,0.049,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6183de7cb22ae_SitRep634_COVID-19_04-11-2021_EN.pdf,Ministry of Health and Population,,908910
+Nepal,2021-11-05,5124986,0.047,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61850dcfef5a1_SitRep635_COVID-19_05-11-2021_EN.pdf,Ministry of Health and Population,,909093
+Nepal,2021-11-06,5128918,0.046,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6186560078ee1_SitRep636_COVID-19_06-11-2021_NP.pdf,Ministry of Health and Population,,909232
+Nepal,2021-11-07,5131251,0.046,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6187ab552bd66_SitRep637_COVID-19_07-11-2021_EN.pdf,Ministry of Health and Population,,909375
+Nepal,2021-11-08,5136277,0.050,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6188f77ac1b4e_SitRep638_COVID-19_08-11-2021_EN.pdf,Ministry of Health and Population,,909765
+Nepal,2021-11-09,5153013,0.045,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/618a4cf2bbabe_SitRep639_COVID-19_09-11-2021_EN.pdf,Ministry of Health and Population,,910298
+Nepal,2021-11-10,5159827,0.047,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/618b972cc9b00_SitRep640_COVID-19_10-11-2021_EN.pdf,Ministry of Health and Population,,910738
+Nepal,2021-11-11,5172480,0.041,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/618cf2022ca16_SitRep641_COVID-19_11-11-2021_EN.pdf,Ministry of Health and Population,,911055
+Nepal,2021-11-12,5183546,0.040,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/618e359fe737b_SitRep642_COVID-19_12-11-2021_EN.pdf,Ministry of Health and Population,,911452
+Nepal,2021-11-13,5191789,0.040,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/618f943fc48ba_SitRep643_COVID-19_13-11-2021_EN.pdf,Ministry of Health and Population,,911747
+Nepal,2021-11-14,5201395,0.038,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6190e09a0163a_SitRep644_COVID-19_14-11-2021_EN.pdf,Ministry of Health and Population,,912053
+Nepal,2021-11-15,5213797,0.035,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61923d0abf92d_SitRep645_COVID-19_15-11-2021_EN.pdf,Ministry of Health and Population,,912469
+Nepal,2021-11-16,5222946,0.036,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61938800bed95_SitRep646_COVID-19_16-11-2021_EN.pdf,Ministry of Health and Population,,912846
+Nepal,2021-11-17,5234939,0.034,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6194de2d7454d_SitRep647_COVID-19_17-11-2021_EN.pdf,Ministry of Health and Population,,913258
+Nepal,2021-11-18,5246090,0.034,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61962900c1222_SitRep648_COVID-19_18-11-2021_EN.pdf,Ministry of Health and Population,,913557
+Nepal,2021-11-19,5255062,0.034,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/619772fd3977f_SitRep649_COVID-19_19-11-2021_EN.pdf,Ministry of Health and Population,,913853
+Nepal,2021-11-20,5262198,0.033,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6198ddf3e7fd6_SitRep650_COVID-19_20-11-2021_EN.pdf,Ministry of Health and Population,,914095
+Nepal,2021-11-21,5271321,0.033,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/619a2185cb7ef_SitRep651_COVID-19_21-11-2021_EN.pdf,Ministry of Health and Population,,914333
+Nepal,2021-11-22,5284018,0.032,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/619b6e6c5d467_SitRep652_COVID-19_22-11-2021_EN.pdf,Ministry of Health and Population,,914718
+Nepal,2021-11-23,5294192,0.031,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/619cc2109310c_SitRep653_COVID-19_23-11-2021_EN.pdf,Ministry of Health and Population,,915069
+Nepal,2021-11-24,5304112,0.031,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/619e1bc552ad6_SitRep654_COVID-19_24-11-2021_EN.pdf,Ministry of Health and Population,,915401
+Nepal,2021-11-25,5313021,0.032,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/619f66d94704f_SitRep655_COVID-19_25-11-2021_EN.pdf,Ministry of Health and Population,,915709
+Nepal,2021-11-26,5323467,0.031,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a0b3fcd3f1c_SitRep656_COVID-19_26-11-2021_EN.pdf,Ministry of Health and Population,,915979
+Nepal,2021-11-27,5330099,0.031,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a206fd24b2f_SitRep657_COVID-19_27-11-2021_EN.pdf,Ministry of Health and Population,,916192
+Nepal,2021-11-28,5339017,0.030,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a34c93114b8_SitRep658_COVID-19_28-11-2021_EN.pdf,Ministry of Health and Population,,916350
+Nepal,2021-11-29,5348905,0.029,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a4aa8723aac_SitRep659_COVID-19_29-11-2021_EN.pdf,Ministry of Health and Population,,916609
+Nepal,2021-11-30,5355374,0.029,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a6099f1a8e9_SitRep660_COVID-19_30-11-2021_EN.pdf,Ministry of Health and Population,,916864
+Nepal,2021-12-01,5368101,0.028,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a757a74fbe8_SitRep661_COVID-19_01-12-2021_EN.pdf,Ministry of Health and Population,,917180
+Nepal,2021-12-02,5379504,0.027,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a8a33aa9f4a_SitRep662_COVID-19_02-12-2021_EN.pdf,Ministry of Health and Population,,917495
+Nepal,2021-12-03,5387340,0.028,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61a9ed384283d_SitRep663_COVID-19_03-12-2021_EN.pdf,Ministry of Health and Population,,917741
+Nepal,2021-12-04,5394137,0.028,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ab4496af5be_SitRep664_COVID-19_04-12-2021_EN.pdf,Ministry of Health and Population,,917979
+Nepal,2021-12-05,5404884,0.028,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ac8c6837553_SitRep665_COVID-19_05-12-2021_EN.pdf,Ministry of Health and Population,,918184
+Nepal,2021-12-06,5413501,0.028,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ade2b3538c2_SitRep666_COVID-19_06-12-2021_EN.pdf,Ministry of Health and Population,,918449
+Nepal,2021-12-07,5425311,0.027,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61af2ad541925_SitRep667_COVID-19_07-12-2021_EN.pdf,Ministry of Health and Population,,918764
+Nepal,2021-12-08,5437485,0.027,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b092046bc45_SitRep668_COVID-19_08-12-2021_EN.pdf,Ministry of Health and Population,,919044
+Nepal,2021-12-09,5446936,0.026,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b1d21208892_SitRep669_COVID-19_09-12-2021_EN.pdf,Ministry of Health and Population,,919255
+Nepal,2021-12-10,5457423,0.025,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b31a46cecf3_SitRep670_COVID-19_10-12-2021_EN.pdf,Ministry of Health and Population,,919514
+Nepal,2021-12-11,5466601,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b594416287c_SitRep671_COVID-19_11-12-2021_EN.pdf,Ministry of Health and Population,,919750
+Nepal,2021-12-12,5475283,0.026,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b5bf4bc93db_SitRep672_COVID-19_12-12-2021_EN.pdf,Ministry of Health and Population,,920004
+Nepal,2021-12-13,5488519,0.025,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b722b8ef3ef_SitRep673_COVID-19_13-12-2021_EN.pdf,Ministry of Health and Population,,920345
+Nepal,2021-12-14,5502228,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b87da8a64de_SitRep674_COVID-19_14-12-2021_EN.pdf,Ministry of Health and Population,,920609
+Nepal,2021-12-15,5514222,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61b9caf9462a9_SitRep675_COVID-19_15-12-2021_EN.pdf,Ministry of Health and Population,,920889
+Nepal,2021-12-16,5525240,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61bb16baed724_SitRep676_COVID-19_16-12-2021_EN.pdf,Ministry of Health and Population,,921073
+Nepal,2021-12-17,5534256,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61bc8b204c7dc_SitRep677_COVID-19_17-12-2021_EN.pdf,Ministry of Health and Population,,921347
+Nepal,2021-12-18,5542253,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61bdc670c360d_SitRep678_COVID-19_18-12-2021_EN.pdf,Ministry of Health and Population,,921536
+Nepal,2021-12-19,5552125,0.022,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61bf0bd410846_SitRep679_COVID-19_19-12-2021_EN.pdf,Ministry of Health and Population,,921717
+Nepal,2021-12-20,5556266,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c05921a4698_SitRep680_COVID-19_20-12-2021_EN.pdf,Ministry of Health and Population,,921937
+Nepal,2021-12-21,5573355,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c1a45d666b1_SitRep681_COVID-19_21-12-2021_EN.pdf,Ministry of Health and Population,,922227
+Nepal,2021-12-22,5584664,0.022,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c3107488542_SitRep682_COVID-19_22-12-2021_EN.pdf,Ministry of Health and Population,,922463
+Nepal,2021-12-23,5596290,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c442527c42c_SitRep683_COVID-19_23-12-2021_EN.pdf,Ministry of Health and Population,,922756
+Nepal,2021-12-24,5608188,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c58d930448c_SitRep684_COVID-19_24-12-2021_EN.pdf,Ministry of Health and Population,,923016
+Nepal,2021-12-25,5614635,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c6f29d46367_SitRep685_COVID-19_25-12-2021_EN.pdf,Ministry of Health and Population,,923183
+Nepal,2021-12-26,5624312,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c83aba93656_SitRep686_COVID-19_26-12-2021_EN.pdf,Ministry of Health and Population,,923402
+Nepal,2021-12-27,5635198,0.022,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61c98d8468d0c_SitRep687_COVID-19_27-12-2021_EN.pdf,Ministry of Health and Population,,923673
+Nepal,2021-12-28,5647764,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61caedbae9cd4_SitRep688_COVID-19_28-12-2021_EN.pdf,Ministry of Health and Population,,923937
+Nepal,2021-12-29,5655372,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61cc53a389c78_SitRep689_COVID-19_29-12-2021_EN.pdf,Ministry of Health and Population,,924157
+Nepal,2021-12-30,5664269,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61cd8fb286494_SitRep690_COVID-19_30-12-2021_EN.pdf,Ministry of Health and Population,,924398
+Nepal,2021-12-31,5673353,0.025,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ced3370a639_SitRep691_COVID-19_31-12-2021_EN.pdf,Ministry of Health and Population,,924633
+Nepal,2022-01-01,5694312,0.023,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d0309933b53_SitRep692_COVID-19_01-01-2022_EN.pdf,Ministry of Health and Population,,925015
+Nepal,2022-01-02,5701943,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d17c5d764fb_SitRep693_COVID-19_02-01-2022_EN.pdf,Ministry of Health and Population,,925231
+Nepal,2022-01-03,5714441,0.024,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d2d23471446_SitRep694_COVID-19_03-01-2022_EN.pdf,Ministry of Health and Population,,925557
+Nepal,2022-01-04,5723770,0.026,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d41669a9696_SitRep695_COVID-19_04-01-2022_EN.pdf,Ministry of Health and Population,,925950
+Nepal,2022-01-05,5734037,0.028,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d57efd1fbb7_SitRep696_COVID-19_05-01-2022_EN.pdf,Ministry of Health and Population,,926385
+Nepal,2022-01-06,5746136,0.031,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d6d4b4bbab4_SitRep697_COVID-19_06-01-2022_EN.pdf,Ministry of Health and Population,,926925
+Nepal,2022-01-07,5761107,0.037,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61d84530bf962_SitRep698_COVID-19_07-01-2022_EN.pdf,Ministry of Health and Population,,927893
+Nepal,2022-01-08,5774371,0.048,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61da8b4861422_SitRep699_COVID-19_08-01-2022_EN.pdf,Ministry of Health and Population,,928837
+Nepal,2022-01-09,5787003,0.056,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61daccf26ad66_SitRep700_COVID-19_09-01-2022_EN.pdf,Ministry of Health and Population,,930004
+Nepal,2022-01-10,5798432,0.070,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61dc11666824c_SitRep701_COVID-19_10-01-2022_EN.pdf,Ministry of Health and Population,,931450
+Nepal,2022-01-11,5813465,0.089,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61dd5a4abe443_SitRep702_COVID-19_11-01-2022_EN.pdf,Ministry of Health and Population,,933894
+Nepal,2022-01-12,5826501,0.114,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61debb67c8629_SitRep703_COVID-19_12-01-2022_EN.pdf,Ministry of Health and Population,,936969
+Nepal,2022-01-13,5841582,0.142,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61dffed8678e8_SitRep704_COVID-19_13-01-2022_EN.pdf,Ministry of Health and Population,,940522
+Nepal,2022-01-14,5862142,0.175,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e1511e98a50_SitRep705_COVID-19_14-01-2022_EN.pdf,Ministry of Health and Population,,945609
+Nepal,2022-01-15,5876698,0.209,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e2a5ebecd73_SitRep706_COVID-19_15-01-2022_EN.pdf,Ministry of Health and Population,,950245
+Nepal,2022-01-16,5891829,0.240,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e4057d92950_SitRep707_COVID-19_16-01-2022_EN.pdf,Ministry of Health and Population,,955206
+Nepal,2022-01-17,5909294,0.275,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e547b09cc48_SitRep708_COVID-19_17-01-2022_EN.pdf,Ministry of Health and Population,,961940
+Nepal,2022-01-18,5932122,0.323,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e69502567c2_SitRep709_COVID-19_18-01-2022_EN.pdf,Ministry of Health and Population,,972198
+Nepal,2022-01-19,5955531,0.361,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e80647654e9_SitRep710_COVID-19_19-01-2022_EN.pdf,Ministry of Health and Population,,983550
+Nepal,2022-01-20,5983028,0.391,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61e94a165f7c8_SitRep711_COVID-19_20-01-2022_EN.pdf,Ministry of Health and Population,,995888
+Nepal,2022-01-21,6006120,0.424,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ea8c4883cc5_SitRep712_COVID-19_21-01-2022_EN.pdf,Ministry of Health and Population,,1006591
+Nepal,2022-01-22,6026307,0.445,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ebdcb441b8f_SitRep713_COVID-19_22-01-2022_EN.pdf,Ministry of Health and Population,,1016845
+Nepal,2022-01-23,6043744,0.448,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ed36f8b051c_SitRep714_COVID-19_23-01-2022_EN.pdf,Ministry of Health and Population,,1023307
+Nepal,2022-01-24,6064945,0.461,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ee7eda71388_SitRep715_COVID-19_24-01-2022_EN.pdf,Ministry of Health and Population,,1033626
+Nepal,2022-01-25,6090854,0.463,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61efd6e76bc08_SitRep716_COVID-19_25-01-2022_EN.pdf,Ministry of Health and Population,,1045634
+Nepal,2022-01-26,6111213,0.453,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f279d2c83a2_SitRep717_COVID-19_26-01-2022_EN.pdf,Ministry of Health and Population,,1054088
+Nepal,2022-01-27,6133021,0.441,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f2752d95252_SitRep718_COVID-19_27-01-2022_EN.pdf,Ministry of Health and Population,,1062105
+Nepal,2022-01-28,6152890,0.425,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f3c50b72279_SitRep719_COVID-19_28-01-2022_EN.pdf,Ministry of Health and Population,,1068932
+Nepal,2022-01-29,6167452,0.404,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f51ded15984_SitRep720_COVID-19_29-01-2022_EN.pdf,Ministry of Health and Population,,1073836
+Nepal,2022-01-30,6180597,0.395,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f681396e73e_SitRep721_COVID-19_30-01-2022_EN.pdf,Ministry of Health and Population,,1077376
+Nepal,2022-01-31,6196685,0.372,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f7c6e9f2e3f_SitRep722_COVID-19_31-01-2022_EN.pdf,Ministry of Health and Population,,1082668
+Nepal,2022-02-01,6214359,0.345,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61f9130631c17_SitRep723_COVID-19_01-02-2022_EN.pdf,Ministry of Health and Population,,1088251
+Nepal,2022-02-02,6225941,0.329,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61fa6d19c3782_SitRep724_COVID-19_02-02-2022_EN.pdf,Ministry of Health and Population,,1091888
+Nepal,2022-02-03,6238546,0.312,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61fe69983a337_SitRep725_COVID-19_03-02-2022_EN.pdf,Ministry of Health and Population,,1095063
+Nepal,2022-02-04,6242622,0.319,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61fe68108c57b_SitRep726_COVID-19_04-02-2022_EN.pdf,Ministry of Health and Population,,1097589
+Nepal,2022-02-05,6258132,0.281,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61fe622712326_SitRep727_COVID-19_05-02-2022_EN.pdf,Ministry of Health and Population,,1099303
+Nepal,2022-02-06,6267383,0.269,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/61ffab372a30a_SitRep728_COVID-19_06-02-2022_EN.pdf,Ministry of Health and Population,,1100689
+Nepal,2022-02-07,6278748,0.239,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62010309a4617_SitRep729_COVID-19_07-02-2022_EN.pdf,Ministry of Health and Population,,1102259
+Nepal,2022-02-08,6291440,0.207,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62024811c2fa5_SitRep730_COVID-19_08-02-2022_EN.pdf,Ministry of Health and Population,,1104216
+Nepal,2022-02-09,6307796,0.180,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6203a2eb7b13a_SitRep731_COVID-19_09-02-2022_EN.pdf,Ministry of Health and Population,,1106617
+Nepal,2022-02-10,6319676,0.159,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6204f56f1631a_SitRep732_COVID-19_10-02-2022_EN.pdf,Ministry of Health and Population,,1107986
+Nepal,2022-02-11,6340665,0.118,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62063679e6622_SitRep733_COVID-19_11-02-2022_EN.pdf,Ministry of Health and Population,,1109114
+Nepal,2022-02-12,6347319,0.119,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62078b1a21a31_SitRep734_COVID-19_12-02-2022_EN.pdf,Ministry of Health and Population,,1109950
+Nepal,2022-02-13,6357434,0.109,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6208e4c8d49b7_SitRep735_COVID-19_13-02-2022_EN.pdf,Ministry of Health and Population,,1110471
+Nepal,2022-02-14,6366130,0.103,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/620a33e927236_SitRep736_COVID-19_14-02-2022_EN.pdf,Ministry of Health and Population,,1111218
+Nepal,2022-02-15,6373225,0.094,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/620b86780ea89_SitRep737_COVID-19_15-02-2022_EN.pdf,Ministry of Health and Population,,1111898
+Nepal,2022-02-16,6382981,0.079,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/620cd8c01049e_SitRep738_COVID-19_16-02-2022_EN.pdf,Ministry of Health and Population,,1112537
+Nepal,2022-02-17,6392770,0.070,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/620f474b80c4f_SitRep739_COVID-19_17-02-2022_EN.pdf,Ministry of Health and Population,,1113107
+Nepal,2022-02-18,6401861,0.072,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/620f8628cd23d_SitRep740_COVID-19_18-02-2022_EN.pdf,Ministry of Health and Population,,1113544
+Nepal,2022-02-19,6408957,0.064,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6210d01e85401_SitRep741_COVID-19_19-02-2022_EN.pdf,Ministry of Health and Population,,1113894
+Nepal,2022-02-20,6418772,0.060,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62121d4088f15_SitRep742_COVID-19_20-02-2022_EN.pdf,Ministry of Health and Population,,1114156
+Nepal,2022-02-21,6426912,0.055,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/621367a796850_SitRep743_COVID-19_21-02-2022_EN.pdf,Ministry of Health and Population,,1114544
+Nepal,2022-02-22,6436336,0.045,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6214c863f0c12_SitRep744_COVID-19_22-02-2022_EN.pdf,Ministry of Health and Population,,1114721
+Nepal,2022-02-25,6461400,0.043,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62189f51362b8_SitRep747_COVID-19_25-02-2022_EN.pdf,Ministry of Health and Population,,1115925
+Nepal,2022-02-26,6466552,0.040,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6219fa949eb7e_SitRep748_COVID-19_26-02-2022_EN.pdf,Ministry of Health and Population,,1116080
+Nepal,2022-02-27,6476262,0.036,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/621b58bbb497e_SitRep749_COVID-19_27-02-2022_EN.pdf,Ministry of Health and Population,,1116191
+Nepal,2022-02-28,6484603,0.033,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/621c9e6dd8a16_SitRep750_COVID-19_28-02-2022_EN.pdf,Ministry of Health and Population,,1116371
+Nepal,2022-03-01,6491107,0.033,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/621df07e55592_SitRep751_COVID-19_01-03-2022_EN.pdf,Ministry of Health and Population,,1116529
+Nepal,2022-03-02,6497981,0.030,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/621f4b2bb0dfd_SitRep752_COVID-19_02-03-2022_EN.pdf,Ministry of Health and Population,,1116656
+Nepal,2022-03-04,6511838,0.029,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6221df6fc17a2_SitRep754_COVID-19_04-03-2022_EN.pdf,Ministry of Health and Population,,1116887
+Nepal,2022-03-05,6518058,0.019,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6223470284587_SitRep755_COVID-19_05-03-2022_EN.pdf,Ministry of Health and Population,,1116978
+Nepal,2022-03-06,6522987,0.017,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62259aefe9960_SitRep756_COVID-19_06-03-2022_EN.pdf,Ministry of Health and Population,,1117046
+Nepal,2022-03-07,6531625,0.017,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6225db837e6f7_SitRep757_COVID-19_07-03-2022_EN.pdf,Ministry of Health and Population,,1117134
+Nepal,2022-03-08,6538019,0.018,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62272d9db2c71_SitRep758_COVID-19_08-03-2022_EN.pdf,Ministry of Health and Population,,1117328
+Nepal,2022-03-11,6565420,0.016,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/622b14814dd44_SitRep761_COVID-19_11-03-2022_EN.pdf,Ministry of Health and Population,,1117741
+Nepal,2022-03-12,6570482,0.016,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/622d6fe8c4a42_SitRep762_COVID-19_12-03-2022_EN.pdf,Ministry of Health and Population,,1117814
+Nepal,2022-03-14,6583847,0.015,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/622f1b31056b4_SitRep764_COVID-19_14-03-2022_EN.pdf,Ministry of Health and Population,,1117937
+Nepal,2022-03-21,6621923,0.013,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62385bfce3967_SitRep771_COVID-19_21-03-2022_EN.pdf,Ministry of Health and Population,,1118279
+Nepal,2022-03-25,6643503,0.011,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/623d885fd4936_SitRep775_COVID-19_25-03-2022_EN.pdf,Ministry of Health and Population,,1118414
+Nepal,2022-03-28,6657689,0.011,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/624188f67d0be_SitRep778_COVID-19_28-03-2022_EN.pdf,Ministry of Health and Population,,1118466
+Nepal,2022-04-01,6677138,0.009,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6246d5e9bd15a_SitRep782_COVID-19_01-04-2022_EN.pdf,Ministry of Health and Population,,1118581
+Nepal,2022-04-08,6711877,0.007,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/625001fd8b6eb_SitRep789_COVID-19_08-04-2022_EN.pdf,Ministry of Health and Population,,1118704
+Nepal,2022-04-11,6723916,0.006,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6253fde5175d9_SitRep792_COVID-19_11-04-2022_EN.pdf,Ministry of Health and Population,,1118743
+Nepal,2022-04-15,6739954,0.006,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/625952d445592_SitRep796_COVID-19_15-04-2022_EN.pdf,Ministry of Health and Population,,1118806
+Nepal,2022-04-18,6752177,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/625d2cb262f63_SitRep799_COVID-19_18-04-2022_EN.pdf,Ministry of Health and Population,,1118837
+Nepal,2022-04-22,6767655,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/626293a952cf1_SitRep803_COVID-19_22-04-2022_EN.pdf,Ministry of Health and Population,,1118893
+Nepal,2022-04-25,6781632,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6266826429748_SitRep806_COVID-19_25-04-2022_EN.pdf,Ministry of Health and Population,,1118945
+Nepal,2022-04-29,6801395,0.003,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/626baebf75b25_SitRep810_COVID-19_29-04-2022_EN.pdf,Ministry of Health and Population,,1118995
+Nepal,2022-05-02,6811086,0.003,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/626fac1a7960a_SitRep813_COVID-19_02-05-2022_EN.pdf,Ministry of Health and Population,,1119029
+Nepal,2022-05-05,6821812,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6273a41cd5124_SitRep816_COVID-19_05-05-2022_EN.pdf,Ministry of Health and Population,,1119097
+Nepal,2022-05-09,6834993,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6278f70b2b4ff_SitRep820_COVID-19_09-05-2022_EN.pdf,Ministry of Health and Population,,1119151
+Nepal,2022-05-11,6842415,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/627b999ce02f9_SitRep822_COVID-19_11-05-2022_EN.pdf,Ministry of Health and Population,,1119185
+Nepal,2022-05-16,6852895,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62822f3e6acf3_SitRep827_COVID-19_16-05-2022_EN.pdf,Ministry of Health and Population,,1119212
+Nepal,2022-05-19,6864192,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62860cc91dcf3_SitRep830_COVID-19_19-05-2022_EN.pdf,Ministry of Health and Population,,1119247
+Nepal,2022-05-23,6875090,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/628b66550bec3_SitRep834_COVID-19_23-05-2022_EN.pdf,Ministry of Health and Population,,1119287
+Nepal,2022-05-26,6884355,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/628f57ac2a451_SitRep837_COVID-19_26-05-2022_EN.pdf,Ministry of Health and Population,,1119329
+Nepal,2022-05-30,6895478,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62948f336ff38_SitRep841_COVID-19_30-05-2022_EN.pdf,Ministry of Health and Population,,1119367
+Nepal,2022-06-03,6911567,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/6299d16d6acbf_SitRep845_COVID-19_03-06-2022_EN.pdf,Ministry of Health and Population,,1119431
+Nepal,2022-06-05,6916385,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/629c8511d78c9_SitRep847_COVID-19_05-06-2022_EN.pdf,Ministry of Health and Population,,1119460
+Nepal,2022-06-08,6926058,0.004,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62a07fda6c986_SitRep850_COVID-19_08-06-2022_EN.pdf,Ministry of Health and Population,,1119525
+Nepal,2022-06-13,6940718,0.005,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62a717b8d940d_SitRep855_COVID-19_13-06-2022_EN.pdf,Ministry of Health and Population,,1119615
+Nepal,2022-06-15,6946964,0.005,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62a9bbb1832ce_SitRep857_COVID-19_15-06-2022_EN.pdf,Ministry of Health and Population,,1119652
+Nepal,2022-06-20,6961317,0.006,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62b04ea325b74_SitRep862_COVID-19_20-06-2022_EN.pdf,Ministry of Health and Population,,1119767
+Nepal,2022-06-23,6969050,0.007,samples tested,https://covid19.mohp.gov.np/covid/englishSituationReport/62b44634e8c3c_SitRep865_COVID-19_23-06-2022_EN.pdf,Ministry of Health and Population,,1119866

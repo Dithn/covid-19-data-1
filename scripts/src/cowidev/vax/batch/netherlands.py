@@ -1,71 +1,114 @@
-import json
-
 import pandas as pd
 
-from cowidev.utils.web.scraping import get_soup
-from cowidev.utils import paths
+from cowidev.utils.clean.dates import week_to_date
+from cowidev.vax.utils.utils import build_vaccine_timeline
+from cowidev.vax.utils.checks import VACCINES_ONE_DOSE
+from cowidev.vax.utils.base import CountryVaxBase
 
 
-URL = "https://coronadashboard.government.nl/landelijk/vaccinaties"
+class Netherlands(CountryVaxBase):
+    source_url: str = (
+        "https://github.com/mzelst/covid-19/raw/master/data-rivm/vaccines-ecdc/vaccines_administered_nl.csv"
+    )
+    source_url_ref = "https://github.com/mzelst/covid-19"
+    location: str = "Netherlands"
+    vax_timeline: dict = None
+    vaccines_mapping: dict = {
+        "Oxford/AstraZeneca": "Oxford/AstraZeneca",
+        "Pfizer/BioNTech": "Pfizer/BioNTech",
+        "Moderna": "Moderna",
+        "Johnson&Johnson": "Johnson&Johnson",
+        "NVXD": "Novavax",
+    }
+
+    def read(self):
+        return pd.read_csv(self.source_url)
+
+    def pipe_filter_rows(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = df[df.total_administered > 0]
+        return df
+
+    def pipe_date(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = df.assign(date=df.apply(lambda x: week_to_date(x.year, x.week), axis=1)).drop(columns=["week", "year"])
+        return df
+
+    def pipe_get_vax_timeline(self, df: pd.DataFrame) -> pd.DataFrame:
+        df_ = df[df.vaccine != "UNK"]
+        vax_wrong = set(df_.vaccine).difference(self.vaccines_mapping)
+        if vax_wrong:
+            raise ValueError(f"Some unknown vaccines were found {vax_wrong}")
+        self.vax_timeline = df_[["vaccine", "date"]].groupby("vaccine").min().to_dict()["date"]
+        self.vax_timeline = {self.vaccines_mapping[vax]: date for vax, date in self.vax_timeline.items()}
+        # print(self.vax_timeline)
+        return df
+
+    def pipe_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
+        # Total vaccinations
+        df["total_vaccinations"] = df.total_administered
+        # People vaccinated
+        df.loc[df.dose_number == 1, "people_vaccinated"] = df.total_administered
+        # People fully vaccinated
+        df.loc[
+            (df.dose_number == 2) & (-df.vaccine.isin(VACCINES_ONE_DOSE)), "people_fully_vaccinated"
+        ] = df.total_administered
+        df.loc[
+            (df.dose_number == 1) & (df.vaccine.isin(VACCINES_ONE_DOSE)), "people_fully_vaccinated"
+        ] = df.total_administered
+        # Boosters
+        df.loc[(df.dose_number > 2) & (-df.vaccine.isin(VACCINES_ONE_DOSE)), "total_boosters"] = df.total_administered
+        df.loc[(df.dose_number > 1) & (df.vaccine.isin(VACCINES_ONE_DOSE)), "total_boosters"] = df.total_administered
+        return df
+
+    def pipe_metrics_aggregate(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = (
+            df.drop(columns=["dose_number", "total_administered", "vaccine"])
+            .fillna(0)
+            .groupby("date", as_index=False)
+            .sum()
+            .sort_values("date")
+        )
+        return df
+
+    def pipe_metrics_cumsum(self, df: pd.DataFrame) -> pd.DataFrame:
+        df[["people_vaccinated", "people_fully_vaccinated", "total_vaccinations", "total_boosters"]] = df[
+            ["people_vaccinated", "people_fully_vaccinated", "total_vaccinations", "total_boosters"]
+        ].cumsum()
+        return df
+
+    def pipe_metadata(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(location=self.location, source_url=self.source_url_ref)
+
+    def pipe_vaccine(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = build_vaccine_timeline(df, self.vax_timeline)
+        return df
+
+    def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
+        return (
+            df.pipe(self.pipe_filter_rows)
+            .pipe(self.pipe_date)
+            .pipe(self.pipe_get_vax_timeline)
+            .pipe(self.pipe_metrics)
+            .pipe(self.pipe_metrics_aggregate)
+            .pipe(self.pipe_metrics_cumsum)
+            .pipe(self.pipe_metadata)
+            .pipe(self.pipe_vaccine)[
+                [
+                    "location",
+                    "date",
+                    "vaccine",
+                    "source_url",
+                    "total_vaccinations",
+                    "people_vaccinated",
+                    "people_fully_vaccinated",
+                    "total_boosters",
+                ]
+            ]
+        )
+
+    def export(self):
+        df = self.read().pipe(self.pipeline)
+        self.export_datafile(df)
 
 
 def main():
-    soup = get_soup(URL)
-    script = soup.find("script", id="__NEXT_DATA__")
-    data = json.loads(script.string)
-
-    doses = (
-        pd.DataFrame.from_records(data["props"]["pageProps"]["selectedNlData"]["vaccine_administered_total"]["values"])
-        .rename(columns={"date_unix": "date", "estimated": "total_vaccinations"})
-        .drop(columns=["reported", "date_of_insertion_unix"])
-    )
-    doses["date"] = pd.to_datetime(doses.date, unit="s").dt.date.astype(str)
-
-    coverage = (
-        pd.DataFrame.from_records(data["props"]["pageProps"]["selectedNlData"]["vaccine_coverage"]["values"])
-        .rename(
-            columns={
-                "date_end_unix": "date",
-                "fully_vaccinated": "people_fully_vaccinated",
-                "partially_or_fully_vaccinated": "people_vaccinated",
-            }
-        )
-        .drop(columns=["date_of_insertion_unix", "partially_vaccinated", "date_start_unix"])
-    )
-    coverage["date"] = pd.to_datetime(coverage.date, unit="s").dt.date.astype(str)
-
-    df = (
-        pd.merge(doses, coverage, on="date", how="outer", validate="one_to_one")
-        .sort_values("date")
-        .assign(
-            location="Netherlands",
-            source_url="https://coronadashboard.government.nl/landelijk/vaccinaties",
-        )
-        .pipe(enrich_vaccine_name)
-    )
-
-    df = df[
-        (df.total_vaccinations >= df.people_vaccinated)
-        | (df.total_vaccinations.isna())
-        | (df.people_vaccinated.isna())
-    ]
-
-    df.to_csv(paths.out_vax("Netherlands"), index=False)
-
-
-def enrich_vaccine_name(df: pd.DataFrame) -> pd.DataFrame:
-    def _enrich_vaccine_name(dt: str) -> str:
-        if dt < "2021-01-18":
-            return "Pfizer/BioNTech"
-        elif "2021-01-18" <= dt < "2021-02-10":
-            return "Moderna, Pfizer/BioNTech"
-        elif "2021-02-10" <= dt < "2021-04-21":
-            return "Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
-        elif "2021-04-21" <= dt:
-            return "Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
-
-    return df.assign(vaccine=df.date.apply(_enrich_vaccine_name))
-
-
-if __name__ == "__main__":
-    main()
+    Netherlands().export()

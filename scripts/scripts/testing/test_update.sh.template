@@ -6,7 +6,7 @@ git pull origin master
 ​
 # Update source table on website
 url=$(python -c "import json; print(json.load(open('testing_dataset_config.json', 'r'))['owid_cloud_table_post'])")
-pbcopy < source_table.html
+pbcopy < ../../output/testing/source_table.html
 open $url
 
 # Update excess mortality data & megafile
@@ -16,11 +16,11 @@ python3 ../../scripts/megafile.py
 deactivate
 ​
 # Push to git
-git add automated_sheets/*
-git add automations/*
-git add ../../grapher/*
 git add ../../../public/data/*
-git add source_table.html
-git add grapher_annotations.txt
+git add ../../output/testing/main_data/*
+git add ../../output/testing/source_table.html
+git add ../../output/testinggrapher_annotations.txt
+git add ../../src/cowidev/testing/*
+git add ../../grapher/*
 git commit -m 'data(testing+xm): update'
 git push origin master

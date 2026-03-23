@@ -1,0 +1,478 @@
+entity,indicator,date,value
+Malta,Daily ICU occupancy,2020-03-08,0.0
+Malta,Daily ICU occupancy,2020-03-15,0.0
+Malta,Daily ICU occupancy,2020-03-22,0.0
+Malta,Daily ICU occupancy,2020-03-29,4.0
+Malta,Daily ICU occupancy,2020-04-05,0.0
+Malta,Daily ICU occupancy,2020-04-12,2.0
+Malta,Daily ICU occupancy,2020-04-19,1.0
+Malta,Daily ICU occupancy,2020-04-26,1.0
+Malta,Daily ICU occupancy,2020-05-03,0.0
+Malta,Daily ICU occupancy,2020-05-10,1.0
+Malta,Daily ICU occupancy,2020-05-17,0.0
+Malta,Daily ICU occupancy,2020-05-24,0.0
+Malta,Daily ICU occupancy,2020-05-31,2.0
+Malta,Daily ICU occupancy,2020-06-07,0.0
+Malta,Daily ICU occupancy,2020-06-14,0.0
+Malta,Daily ICU occupancy,2020-06-21,0.0
+Malta,Daily ICU occupancy,2020-06-28,0.0
+Malta,Daily ICU occupancy,2020-07-05,0.0
+Malta,Daily ICU occupancy,2020-07-12,0.0
+Malta,Daily ICU occupancy,2020-07-19,0.0
+Malta,Daily ICU occupancy,2020-07-26,0.0
+Malta,Daily ICU occupancy,2020-08-02,0.0
+Malta,Daily ICU occupancy,2020-08-09,0.0
+Malta,Daily ICU occupancy,2020-08-16,0.0
+Malta,Daily ICU occupancy,2020-08-23,0.0
+Malta,Daily ICU occupancy,2020-08-30,0.0
+Malta,Daily ICU occupancy,2020-09-06,0.0
+Malta,Daily ICU occupancy,2020-09-13,3.0
+Malta,Daily ICU occupancy,2020-09-20,3.0
+Malta,Daily ICU occupancy,2020-09-27,5.0
+Malta,Daily ICU occupancy,2020-10-04,5.0
+Malta,Daily ICU occupancy,2020-10-11,5.0
+Malta,Daily ICU occupancy,2020-10-18,4.0
+Malta,Daily ICU occupancy,2020-10-25,7.0
+Malta,Daily ICU occupancy,2020-11-01,17.0
+Malta,Daily ICU occupancy,2020-11-08,16.0
+Malta,Daily ICU occupancy,2020-11-15,19.0
+Malta,Daily ICU occupancy,2020-11-22,26.0
+Malta,Daily ICU occupancy,2020-11-29,17.0
+Malta,Daily ICU occupancy,2020-12-06,18.0
+Malta,Daily ICU occupancy,2020-12-13,20.0
+Malta,Daily ICU occupancy,2020-12-20,11.0
+Malta,Daily ICU occupancy,2020-12-27,10.0
+Malta,Daily ICU occupancy,2021-01-03,18.0
+Malta,Daily ICU occupancy,2021-01-10,20.0
+Malta,Daily ICU occupancy,2021-01-17,27.0
+Malta,Daily ICU occupancy,2021-01-24,14.0
+Malta,Daily ICU occupancy,2021-01-31,10.0
+Malta,Daily ICU occupancy,2021-02-07,15.0
+Malta,Daily ICU occupancy,2021-02-14,3.0
+Malta,Daily ICU occupancy,2021-02-21,4.0
+Malta,Daily ICU occupancy,2021-02-28,11.0
+Malta,Daily ICU occupancy,2021-03-07,5.0
+Malta,Daily ICU occupancy,2021-03-14,9.0
+Malta,Daily ICU occupancy,2021-03-21,7.0
+Malta,Daily ICU occupancy,2021-03-28,2.0
+Malta,Daily ICU occupancy,2021-04-04,4.0
+Malta,Daily ICU occupancy,2021-04-11,7.0
+Malta,Daily ICU occupancy,2021-04-18,1.0
+Malta,Daily ICU occupancy,2021-04-25,3.0
+Malta,Daily ICU occupancy,2021-05-02,3.0
+Malta,Daily ICU occupancy,2021-05-09,0.0
+Malta,Daily ICU occupancy,2021-05-16,2.0
+Malta,Daily ICU occupancy,2021-05-23,0.0
+Malta,Daily ICU occupancy,2021-05-30,0.0
+Malta,Daily ICU occupancy,2021-06-06,0.0
+Malta,Daily ICU occupancy,2021-06-13,0.0
+Malta,Daily ICU occupancy,2021-06-20,0.0
+Malta,Daily ICU occupancy,2021-06-27,0.0
+Malta,Daily ICU occupancy,2021-07-04,1.0
+Malta,Daily ICU occupancy,2021-07-11,1.0
+Malta,Daily ICU occupancy,2021-07-18,0.0
+Malta,Daily ICU occupancy,2021-07-25,1.0
+Malta,Daily ICU occupancy,2021-08-01,5.0
+Malta,Daily ICU occupancy,2021-08-08,6.0
+Malta,Daily ICU occupancy,2021-08-15,4.0
+Malta,Daily ICU occupancy,2021-08-22,2.0
+Malta,Daily ICU occupancy,2021-08-29,2.0
+Malta,Daily ICU occupancy,2021-09-05,2.0
+Malta,Daily ICU occupancy,2021-09-12,2.0
+Malta,Daily ICU occupancy,2021-09-19,1.0
+Malta,Daily ICU occupancy,2021-09-26,1.0
+Malta,Daily ICU occupancy,2021-10-03,0.0
+Malta,Daily ICU occupancy,2021-10-10,1.0
+Malta,Daily ICU occupancy,2021-10-17,0.0
+Malta,Daily ICU occupancy,2021-10-24,4.0
+Malta,Daily ICU occupancy,2021-10-31,0.0
+Malta,Daily ICU occupancy,2021-11-07,0.0
+Malta,Daily ICU occupancy,2021-11-14,1.0
+Malta,Daily ICU occupancy,2021-11-21,1.0
+Malta,Daily ICU occupancy,2021-11-28,0.0
+Malta,Daily ICU occupancy,2021-12-05,2.0
+Malta,Daily ICU occupancy,2021-12-12,3.0
+Malta,Daily ICU occupancy,2021-12-19,1.0
+Malta,Daily ICU occupancy,2021-12-26,4.0
+Malta,Daily ICU occupancy,2022-01-02,4.0
+Malta,Daily ICU occupancy,2022-01-09,4.0
+Malta,Daily ICU occupancy,2022-01-16,2.0
+Malta,Daily ICU occupancy,2022-01-23,0.0
+Malta,Daily ICU occupancy,2022-01-30,0.0
+Malta,Daily ICU occupancy,2022-02-06,1.0
+Malta,Daily ICU occupancy,2022-02-13,1.0
+Malta,Daily ICU occupancy,2022-02-20,0.0
+Malta,Daily ICU occupancy,2022-02-27,0.0
+Malta,Daily ICU occupancy,2022-03-06,0.0
+Malta,Daily ICU occupancy,2022-03-13,0.0
+Malta,Daily ICU occupancy,2022-03-20,1.0
+Malta,Daily ICU occupancy,2022-03-27,3.0
+Malta,Daily ICU occupancy,2022-04-03,0.0
+Malta,Daily ICU occupancy,2022-04-10,4.0
+Malta,Daily ICU occupancy,2022-04-17,0.0
+Malta,Daily ICU occupancy,2022-04-24,0.0
+Malta,Daily ICU occupancy,2022-05-01,2.0
+Malta,Daily ICU occupancy,2022-05-08,3.0
+Malta,Daily ICU occupancy,2022-05-15,2.0
+Malta,Daily ICU occupancy,2022-05-22,2.0
+Malta,Daily ICU occupancy,2022-05-29,1.0
+Malta,Daily ICU occupancy,2022-06-05,4.0
+Malta,Daily ICU occupancy,2022-06-12,3.0
+Malta,Daily ICU occupancy,2022-06-19,3.0
+Malta,Daily ICU occupancy,2022-06-26,2.0
+Malta,Daily ICU occupancy,2022-07-03,1.0
+Malta,Daily ICU occupancy,2022-07-10,4.0
+Malta,Daily ICU occupancy,2022-07-17,3.0
+Malta,Daily ICU occupancy,2022-07-24,2.0
+Malta,Daily ICU occupancy,2022-07-31,3.0
+Malta,Daily ICU occupancy,2022-08-07,4.0
+Malta,Daily ICU occupancy,2022-08-14,4.0
+Malta,Daily ICU occupancy,2022-08-21,2.0
+Malta,Daily ICU occupancy,2022-08-28,1.0
+Malta,Daily ICU occupancy,2022-09-04,0.0
+Malta,Daily ICU occupancy,2022-09-11,0.0
+Malta,Daily ICU occupancy,2022-09-18,0.0
+Malta,Daily ICU occupancy,2022-09-25,0.0
+Malta,Daily ICU occupancy,2022-10-02,0.0
+Malta,Daily ICU occupancy,2022-10-09,1.0
+Malta,Daily ICU occupancy,2022-10-16,1.0
+Malta,Daily ICU occupancy,2022-10-23,0.0
+Malta,Daily ICU occupancy,2022-10-30,1.0
+Malta,Daily ICU occupancy,2022-11-06,0.0
+Malta,Daily ICU occupancy,2022-11-13,1.0
+Malta,Daily ICU occupancy,2022-11-20,1.0
+Malta,Daily ICU occupancy,2022-11-27,1.0
+Malta,Daily ICU occupancy,2022-12-04,1.0
+Malta,Daily ICU occupancy,2022-12-11,1.0
+Malta,Daily ICU occupancy,2022-12-18,0.0
+Malta,Daily ICU occupancy,2022-12-25,1.0
+Malta,Daily ICU occupancy,2023-01-01,0.0
+Malta,Daily ICU occupancy,2023-01-08,0.0
+Malta,Daily ICU occupancy,2023-01-15,1.0
+Malta,Daily ICU occupancy,2023-01-22,0.0
+Malta,Daily ICU occupancy,2023-01-29,0.0
+Malta,Daily ICU occupancy,2023-02-05,0.0
+Malta,Daily ICU occupancy,2023-02-12,0.0
+Malta,Daily ICU occupancy,2023-02-19,0.0
+Malta,Daily ICU occupancy,2023-02-26,0.0
+Malta,Daily ICU occupancy,2023-03-05,0.0
+Malta,Daily ICU occupancy,2023-03-12,0.0
+Malta,Daily ICU occupancy,2023-03-19,0.0
+Malta,Daily ICU occupancy,2023-03-26,0.0
+Malta,Daily ICU occupancy,2023-04-02,0.0
+Malta,Daily ICU occupancy,2023-04-09,1.0
+Malta,Daily ICU occupancy,2023-04-16,1.0
+Malta,Daily ICU occupancy,2023-04-23,3.0
+Malta,Daily ICU occupancy,2023-04-30,3.0
+Malta,Daily ICU occupancy,2023-05-07,1.0
+Malta,Daily ICU occupancy,2023-05-14,0.0
+Malta,Daily ICU occupancy,2023-05-21,0.0
+Malta,Daily ICU occupancy,2023-05-28,0.0
+Malta,Daily ICU occupancy,2023-06-04,1.0
+Malta,Daily ICU occupancy,2023-06-11,0.0
+Malta,Daily ICU occupancy,2023-06-18,0.0
+Malta,Daily ICU occupancy,2023-06-25,0.0
+Malta,Daily ICU occupancy,2023-07-02,2.0
+Malta,Daily ICU occupancy,2023-07-09,3.0
+Malta,Daily ICU occupancy,2023-07-16,3.0
+Malta,Daily ICU occupancy,2023-07-23,3.0
+Malta,Daily ICU occupancy,2023-07-30,1.0
+Malta,Daily ICU occupancy,2023-08-06,2.0
+Malta,Daily ICU occupancy,2023-08-13,4.0
+Malta,Daily ICU occupancy,2023-08-20,5.0
+Malta,Daily ICU occupancy,2023-08-27,3.0
+Malta,Daily ICU occupancy,2023-09-03,3.0
+Malta,Daily ICU occupancy,2023-09-10,4.0
+Malta,Daily ICU occupancy,2023-09-17,5.0
+Malta,Daily ICU occupancy,2023-09-24,1.0
+Malta,Daily ICU occupancy,2023-10-01,0.0
+Malta,Daily ICU occupancy,2023-10-08,0.0
+Malta,Daily ICU occupancy,2023-10-15,0.0
+Malta,Daily ICU occupancy,2023-10-22,1.0
+Malta,Daily ICU occupancy,2023-10-29,1.0
+Malta,Daily ICU occupancy,2023-11-05,0.0
+Malta,Daily ICU occupancy,2023-11-12,0.0
+Malta,Daily ICU occupancy,2023-11-19,0.0
+Malta,Daily ICU occupancy,2023-11-26,1.0
+Malta,Weekly new hospital admissions,2020-03-15,7.165563918145156
+Malta,Weekly new hospital admissions,2020-03-22,4.094607953225803
+Malta,Weekly new hospital admissions,2020-03-29,4.094607953225803
+Malta,Weekly new hospital admissions,2020-04-05,7.165563918145156
+Malta,Weekly new hospital admissions,2020-04-12,14.331127836290312
+Malta,Weekly new hospital admissions,2020-04-19,2.0473039766129015
+Malta,Weekly new hospital admissions,2020-04-26,2.0473039766129015
+Malta,Weekly new hospital admissions,2020-05-03,1.0236519883064508
+Malta,Weekly new hospital admissions,2020-05-10,1.0236519883064508
+Malta,Weekly new hospital admissions,2020-05-24,4.094607953225803
+Malta,Weekly new hospital admissions,2020-05-31,3.070955964919353
+Malta,Weekly new hospital admissions,2020-06-07,0.0
+Malta,Weekly new hospital admissions,2020-06-14,1.0236519883064508
+Malta,Weekly new hospital admissions,2020-06-21,1.0236519883064508
+Malta,Weekly new hospital admissions,2020-06-28,1.0236519883064508
+Malta,Weekly new hospital admissions,2020-07-26,0.0
+Malta,Weekly new hospital admissions,2020-08-02,5.118259941532253
+Malta,Weekly new hospital admissions,2020-08-09,8.189215906451606
+Malta,Weekly new hospital admissions,2020-08-16,12.283823859677414
+Malta,Weekly new hospital admissions,2020-08-23,14.331127836290312
+Malta,Weekly new hospital admissions,2020-08-30,4.094607953225803
+Malta,Weekly new hospital admissions,2020-09-06,9.212867894758057
+Malta,Weekly new hospital admissions,2020-09-13,21.49669175443547
+Malta,Weekly new hospital admissions,2020-09-20,35.827819590725774
+Malta,Weekly new ICU admissions,2020-09-20,5.118259941532253
+Malta,Weekly new hospital admissions,2020-09-27,16.378431812903212
+Malta,Weekly new ICU admissions,2020-09-27,4.094607953225803
+Malta,Weekly new hospital admissions,2020-10-04,21.49669175443547
+Malta,Weekly new ICU admissions,2020-10-04,4.094607953225803
+Malta,Weekly new hospital admissions,2020-10-11,31.733211637499974
+Malta,Weekly new ICU admissions,2020-10-11,4.094607953225803
+Malta,Weekly new hospital admissions,2020-10-18,47.08799146209674
+Malta,Weekly new ICU admissions,2020-10-18,6.141911929838707
+Malta,Weekly new hospital admissions,2020-10-25,40.94607953225803
+Malta,Weekly new ICU admissions,2020-10-25,9.212867894758057
+Malta,Weekly new hospital admissions,2020-11-01,75.75024713467735
+Malta,Weekly new ICU admissions,2020-11-01,5.118259941532253
+Malta,Weekly new hospital admissions,2020-11-08,76.77389912298382
+Malta,Weekly new ICU admissions,2020-11-08,3.070955964919353
+Malta,Weekly new hospital admissions,2020-11-15,105.43615479556442
+Malta,Weekly new ICU admissions,2020-11-15,7.165563918145156
+Malta,Weekly new hospital admissions,2020-11-22,106.45980678387089
+Malta,Weekly new ICU admissions,2020-11-22,4.094607953225803
+Malta,Weekly new hospital admissions,2020-11-29,89.05772298266123
+Malta,Weekly new ICU admissions,2020-11-29,9.212867894758057
+Malta,Weekly new hospital admissions,2020-12-06,91.10502695927411
+Malta,Weekly new ICU admissions,2020-12-06,4.094607953225803
+Malta,Weekly new hospital admissions,2020-12-13,42.99338350887094
+Malta,Weekly new ICU admissions,2020-12-13,4.094607953225803
+Malta,Weekly new hospital admissions,2020-12-20,34.80416760241933
+Malta,Weekly new ICU admissions,2020-12-20,4.094607953225803
+Malta,Weekly new hospital admissions,2020-12-27,26.614951695967722
+Malta,Weekly new ICU admissions,2020-12-27,4.094607953225803
+Malta,Weekly new hospital admissions,2021-01-03,29.685907660887075
+Malta,Weekly new ICU admissions,2021-01-03,8.189215906451606
+Malta,Weekly new hospital admissions,2021-01-10,39.922427543951585
+Malta,Weekly new ICU admissions,2021-01-10,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-01-17,49.13529543870965
+Malta,Weekly new ICU admissions,2021-01-17,6.141911929838707
+Malta,Weekly new hospital admissions,2021-01-24,21.49669175443547
+Malta,Weekly new ICU admissions,2021-01-24,4.094607953225803
+Malta,Weekly new hospital admissions,2021-01-31,26.614951695967722
+Malta,Weekly new ICU admissions,2021-01-31,5.118259941532253
+Malta,Weekly new hospital admissions,2021-02-07,28.662255672580624
+Malta,Weekly new ICU admissions,2021-02-07,6.141911929838707
+Malta,Weekly new hospital admissions,2021-02-14,42.99338350887094
+Malta,Weekly new ICU admissions,2021-02-14,5.118259941532253
+Malta,Weekly new hospital admissions,2021-02-21,40.94607953225803
+Malta,Weekly new ICU admissions,2021-02-21,10.236519883064508
+Malta,Weekly new hospital admissions,2021-02-28,22.520343742741918
+Malta,Weekly new ICU admissions,2021-02-28,9.212867894758057
+Malta,Weekly new hospital admissions,2021-03-07,69.60833520483865
+Malta,Weekly new ICU admissions,2021-03-07,6.141911929838707
+Malta,Weekly new hospital admissions,2021-03-14,68.5846832165322
+Malta,Weekly new ICU admissions,2021-03-14,14.331127836290312
+Malta,Weekly new hospital admissions,2021-03-21,41.96973152056449
+Malta,Weekly new ICU admissions,2021-03-21,7.165563918145156
+Malta,Weekly new hospital admissions,2021-03-28,20.473039766129016
+Malta,Weekly new ICU admissions,2021-03-28,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-04-04,32.756863625806425
+Malta,Weekly new hospital admissions,2021-04-11,30.709559649193533
+Malta,Weekly new ICU admissions,2021-04-11,7.165563918145156
+Malta,Weekly new hospital admissions,2021-04-18,30.709559649193533
+Malta,Weekly new hospital admissions,2021-04-25,13.307475847983861
+Malta,Weekly new ICU admissions,2021-04-25,3.070955964919353
+Malta,Weekly new hospital admissions,2021-05-02,22.520343742741918
+Malta,Weekly new ICU admissions,2021-05-02,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-05-09,7.165563918145156
+Malta,Weekly new ICU admissions,2021-05-09,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-05-16,4.094607953225803
+Malta,Weekly new ICU admissions,2021-05-16,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-05-23,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-05-30,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-06-06,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-06-13,0.0
+Malta,Weekly new hospital admissions,2021-06-20,0.0
+Malta,Weekly new hospital admissions,2021-06-27,0.0
+Malta,Weekly new hospital admissions,2021-07-04,5.118259941532253
+Malta,Weekly new ICU admissions,2021-07-04,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-07-11,10.236519883064508
+Malta,Weekly new ICU admissions,2021-07-11,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-07-18,17.402083801209663
+Malta,Weekly new hospital admissions,2021-07-25,12.283823859677414
+Malta,Weekly new hospital admissions,2021-08-01,17.402083801209663
+Malta,Weekly new ICU admissions,2021-08-01,5.118259941532253
+Malta,Weekly new hospital admissions,2021-08-08,26.614951695967722
+Malta,Weekly new ICU admissions,2021-08-08,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-08-15,25.591299707661268
+Malta,Weekly new ICU admissions,2021-08-15,4.094607953225803
+Malta,Weekly new hospital admissions,2021-08-22,18.425735789516118
+Malta,Weekly new ICU admissions,2021-08-22,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-08-29,15.354779824596765
+Malta,Weekly new ICU admissions,2021-08-29,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-09-05,13.307475847983861
+Malta,Weekly new ICU admissions,2021-09-05,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-09-12,6.141911929838707
+Malta,Weekly new ICU admissions,2021-09-12,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-09-19,7.165563918145156
+Malta,Weekly new ICU admissions,2021-09-19,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-09-26,6.141911929838707
+Malta,Weekly new ICU admissions,2021-09-26,3.070955964919353
+Malta,Weekly new hospital admissions,2021-10-03,3.070955964919353
+Malta,Weekly new hospital admissions,2021-10-10,3.070955964919353
+Malta,Weekly new ICU admissions,2021-10-10,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-10-17,0.0
+Malta,Weekly new hospital admissions,2021-10-24,7.165563918145156
+Malta,Weekly new ICU admissions,2021-10-24,4.094607953225803
+Malta,Weekly new hospital admissions,2021-10-31,4.094607953225803
+Malta,Weekly new hospital admissions,2021-11-07,3.070955964919353
+Malta,Weekly new hospital admissions,2021-11-14,4.094607953225803
+Malta,Weekly new ICU admissions,2021-11-14,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-11-21,6.141911929838707
+Malta,Weekly new ICU admissions,2021-11-21,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-11-28,8.189215906451606
+Malta,Weekly new hospital admissions,2021-12-05,9.212867894758057
+Malta,Weekly new ICU admissions,2021-12-05,2.0473039766129015
+Malta,Weekly new hospital admissions,2021-12-12,10.236519883064508
+Malta,Weekly new ICU admissions,2021-12-12,3.070955964919353
+Malta,Weekly new hospital admissions,2021-12-19,15.354779824596765
+Malta,Weekly new ICU admissions,2021-12-19,1.0236519883064508
+Malta,Weekly new hospital admissions,2021-12-26,60.3954673100806
+Malta,Weekly new ICU admissions,2021-12-26,3.070955964919353
+Malta,Weekly new hospital admissions,2022-01-02,71.65563918145155
+Malta,Weekly new ICU admissions,2022-01-02,4.094607953225803
+Malta,Weekly new hospital admissions,2022-01-09,69.60833520483865
+Malta,Weekly new ICU admissions,2022-01-09,4.094607953225803
+Malta,Weekly new hospital admissions,2022-01-16,49.13529543870965
+Malta,Weekly new ICU admissions,2022-01-16,2.0473039766129015
+Malta,Weekly new hospital admissions,2022-01-23,46.06433947379029
+Malta,Weekly new hospital admissions,2022-01-30,41.96973152056449
+Malta,Weekly new hospital admissions,2022-02-06,58.34816333346769
+Malta,Weekly new ICU admissions,2022-02-06,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-02-13,27.638603684274173
+Malta,Weekly new ICU admissions,2022-02-13,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-02-20,30.709559649193533
+Malta,Weekly new hospital admissions,2022-02-27,24.567647719354824
+Malta,Weekly new hospital admissions,2022-03-06,27.638603684274173
+Malta,Weekly new hospital admissions,2022-03-13,54.2535553802419
+Malta,Weekly new hospital admissions,2022-03-20,56.300859356854794
+Malta,Weekly new hospital admissions,2022-03-27,105.43615479556442
+Malta,Weekly new hospital admissions,2022-04-03,123.86189058508054
+Malta,Weekly new hospital admissions,2022-04-10,126.9328465499999
+Malta,Weekly new hospital admissions,2022-04-17,49.13529543870965
+Malta,Weekly new hospital admissions,2022-04-24,52.206251403629
+Malta,Weekly new hospital admissions,2022-05-01,61.419119298387066
+Malta,Weekly new hospital admissions,2022-05-08,36.85147157903223
+Malta,Weekly new hospital admissions,2022-05-15,23.54399573104837
+Malta,Weekly new hospital admissions,2022-05-22,21.49669175443547
+Malta,Weekly new hospital admissions,2022-05-29,15.354779824596765
+Malta,Weekly new hospital admissions,2022-06-05,12.283823859677414
+Malta,Weekly new hospital admissions,2022-06-12,36.85147157903223
+Malta,Weekly new hospital admissions,2022-06-19,74.7265951463709
+Malta,Weekly new hospital admissions,2022-06-26,90.08137497096767
+Malta,Weekly new hospital admissions,2022-07-03,114.6490226903225
+Malta,Weekly new hospital admissions,2022-07-10,81.89215906451606
+Malta,Weekly new hospital admissions,2022-07-17,53.229903391935444
+Malta,Weekly new hospital admissions,2022-07-24,20.473039766129016
+Malta,Weekly new hospital admissions,2022-07-31,21.49669175443547
+Malta,Weekly new hospital admissions,2022-08-07,13.307475847983861
+Malta,Weekly new hospital admissions,2022-08-14,14.331127836290312
+Malta,Weekly new hospital admissions,2022-08-21,9.212867894758057
+Malta,Weekly new hospital admissions,2022-08-28,7.165563918145156
+Malta,Weekly new hospital admissions,2022-09-04,12.283823859677414
+Malta,Weekly new hospital admissions,2022-09-11,8.189215906451606
+Malta,Weekly new hospital admissions,2022-09-18,4.094607953225803
+Malta,Weekly new hospital admissions,2022-09-25,7.165563918145156
+Malta,Weekly new hospital admissions,2022-10-02,5.118259941532253
+Malta,Weekly new hospital admissions,2022-10-09,7.165563918145156
+Malta,Weekly new ICU admissions,2022-10-09,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-10-16,9.212867894758057
+Malta,Weekly new ICU admissions,2022-10-16,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-10-23,10.236519883064508
+Malta,Weekly new hospital admissions,2022-10-30,10.236519883064508
+Malta,Weekly new ICU admissions,2022-10-30,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-11-06,8.189215906451606
+Malta,Weekly new hospital admissions,2022-11-13,8.189215906451606
+Malta,Weekly new ICU admissions,2022-11-13,2.0473039766129015
+Malta,Weekly new hospital admissions,2022-11-20,9.212867894758057
+Malta,Weekly new hospital admissions,2022-11-27,5.118259941532253
+Malta,Weekly new hospital admissions,2022-12-04,6.141911929838707
+Malta,Weekly new ICU admissions,2022-12-04,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-12-11,12.283823859677414
+Malta,Weekly new hospital admissions,2022-12-18,13.307475847983861
+Malta,Weekly new ICU admissions,2022-12-18,1.0236519883064508
+Malta,Weekly new hospital admissions,2022-12-25,37.87512356733868
+Malta,Weekly new ICU admissions,2022-12-25,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-01-01,39.922427543951585
+Malta,Weekly new hospital admissions,2023-01-08,14.331127836290312
+Malta,Weekly new ICU admissions,2023-01-08,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-01-15,16.378431812903212
+Malta,Weekly new ICU admissions,2023-01-15,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-01-22,13.307475847983861
+Malta,Weekly new ICU admissions,2023-01-22,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-01-29,15.354779824596765
+Malta,Weekly new ICU admissions,2023-01-29,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-02-05,4.094607953225803
+Malta,Weekly new hospital admissions,2023-02-12,11.260171871370959
+Malta,Weekly new ICU admissions,2023-02-12,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-02-19,18.425735789516118
+Malta,Weekly new ICU admissions,2023-02-19,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-02-26,18.425735789516118
+Malta,Weekly new hospital admissions,2023-03-05,19.449387777822565
+Malta,Weekly new hospital admissions,2023-03-12,23.54399573104837
+Malta,Weekly new hospital admissions,2023-03-26,11.260171871370959
+Malta,Weekly new hospital admissions,2020-05-17,1.0236519883064508
+Malta,Weekly new hospital admissions,2020-07-05,0.0
+Malta,Weekly new hospital admissions,2020-07-12,0.0
+Malta,Weekly new hospital admissions,2020-07-19,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-03-19,20.473039766129016
+Malta,Weekly new hospital admissions,2023-04-02,17.402083801209663
+Malta,Weekly new hospital admissions,2023-04-09,16.378431812903212
+Malta,Weekly new hospital admissions,2023-04-16,11.260171871370959
+Malta,Weekly new hospital admissions,2023-04-23,17.402083801209663
+Malta,Weekly new ICU admissions,2023-04-23,3.070955964919353
+Malta,Weekly new hospital admissions,2023-04-30,7.165563918145156
+Malta,Weekly new ICU admissions,2023-04-30,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-05-07,7.165563918145156
+Malta,Weekly new ICU admissions,2023-05-07,2.0473039766129015
+Malta,Weekly new hospital admissions,2023-05-14,11.260171871370959
+Malta,Weekly new hospital admissions,2023-05-21,10.236519883064508
+Malta,Weekly new ICU admissions,2023-05-21,2.0473039766129015
+Malta,Weekly new hospital admissions,2023-05-28,24.567647719354824
+Malta,Weekly new hospital admissions,2023-06-04,24.567647719354824
+Malta,Weekly new ICU admissions,2023-06-04,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-06-11,14.331127836290312
+Malta,Weekly new ICU admissions,2023-06-11,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-06-18,24.567647719354824
+Malta,Weekly new hospital admissions,2023-06-25,31.733211637499974
+Malta,Weekly new ICU admissions,2023-06-25,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-07-02,34.80416760241933
+Malta,Weekly new ICU admissions,2023-07-02,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-07-09,16.378431812903212
+Malta,Weekly new ICU admissions,2023-07-09,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-07-16,28.662255672580624
+Malta,Weekly new ICU admissions,2023-07-16,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-07-23,27.638603684274173
+Malta,Weekly new ICU admissions,2023-07-23,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-08-06,48.11164345040319
+Malta,Weekly new ICU admissions,2023-08-06,3.070955964919353
+Malta,Weekly new hospital admissions,2023-08-13,41.96973152056449
+Malta,Weekly new ICU admissions,2023-08-13,2.0473039766129015
+Malta,Weekly new hospital admissions,2023-08-20,53.229903391935444
+Malta,Weekly new ICU admissions,2023-08-20,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-08-27,45.040687485483836
+Malta,Weekly new ICU admissions,2023-08-27,2.0473039766129015
+Malta,Weekly new hospital admissions,2023-09-03,31.733211637499974
+Malta,Weekly new hospital admissions,2023-09-10,22.520343742741918
+Malta,Weekly new hospital admissions,2023-09-17,20.473039766129016
+Malta,Weekly new hospital admissions,2023-09-24,32.756863625806425
+Malta,Weekly new hospital admissions,2023-10-01,25.591299707661268
+Malta,Weekly new hospital admissions,2023-10-08,21.49669175443547
+Malta,Weekly new hospital admissions,2023-10-15,19.449387777822565
+Malta,Weekly new hospital admissions,2023-10-22,20.473039766129016
+Malta,Weekly new hospital admissions,2023-10-29,11.260171871370959
+Malta,Weekly new hospital admissions,2023-11-05,9.212867894758057
+Malta,Weekly new ICU admissions,2023-11-05,1.0236519883064508
+Malta,Weekly new hospital admissions,2023-11-12,11.260171871370959
+Malta,Weekly new hospital admissions,2023-11-19,6.141911929838707
+Malta,Weekly new hospital admissions,2023-11-26,9.212867894758057
+Malta,Weekly new hospital admissions,2023-07-30,51.182599415322535
+Malta,Weekly new ICU admissions,2023-07-30,4.094607953225803
+Malta,Weekly new hospital admissions,2020-03-08,0.0

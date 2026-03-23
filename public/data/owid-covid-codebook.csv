@@ -1,29 +1,29 @@
 column,source,category,description
-iso_code,International Organization for Standardization,Others,ISO 3166-1 alpha-3 – three-letter country codes
+iso_code,International Organization for Standardization,Others,ISO 3166-1 alpha-3 – three-letter country codes. Note that OWID-defined regions (e.g. continents like 'Europe') contain prefix 'OWID_'.
 continent,Our World in Data,Others,Continent of the geographical location
 location,Our World in Data,Others,Geographical location
 date,Our World in Data,Others,Date of observation
-total_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed cases,Total confirmed cases of COVID-19
-new_cases,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed cases,New confirmed cases of COVID-19
-new_cases_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed cases,New confirmed cases of COVID-19 (7-day smoothed)
-total_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed deaths,Total deaths attributed to COVID-19
-new_deaths,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed deaths,New deaths attributed to COVID-19
-new_deaths_smoothed,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed deaths,New deaths attributed to COVID-19 (7-day smoothed)
-total_cases_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed cases,"Total confirmed cases of COVID-19 per 1,000,000 people"
-new_cases_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed cases,"New confirmed cases of COVID-19 per 1,000,000 people"
-new_cases_smoothed_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed cases,"New confirmed cases of COVID-19 (7-day smoothed) per 1,000,000 people"
-total_deaths_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed deaths,"Total deaths attributed to COVID-19 per 1,000,000 people"
-new_deaths_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed deaths,"New deaths attributed to COVID-19 per 1,000,000 people"
-new_deaths_smoothed_per_million,COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University,Confirmed deaths,"New deaths attributed to COVID-19 (7-day smoothed) per 1,000,000 people"
+total_cases,COVID-19 Dashboard by the WHO,Confirmed cases,"Total confirmed cases of COVID-19. Counts can include probable cases, where reported."
+new_cases,COVID-19 Dashboard by the WHO,Confirmed cases,"New confirmed cases of COVID-19. Counts can include probable cases, where reported. In rare cases where our source reports a negative daily change due to a data correction, we set this metric to NA."
+new_cases_smoothed,COVID-19 Dashboard by the WHO,Confirmed cases,"New confirmed cases of COVID-19 (7-day smoothed). Counts can include probable cases, where reported."
+total_deaths,COVID-19 Dashboard by the WHO,Confirmed deaths,"Total deaths attributed to COVID-19. Counts can include probable deaths, where reported."
+new_deaths,COVID-19 Dashboard by the WHO,Confirmed deaths,"New deaths attributed to COVID-19. Counts can include probable deaths, where reported. In rare cases where our source reports a negative daily change due to a data correction, we set this metric to NA."
+new_deaths_smoothed,COVID-19 Dashboard by the WHO,Confirmed deaths,"New deaths attributed to COVID-19 (7-day smoothed). Counts can include probable deaths, where reported."
+total_cases_per_million,COVID-19 Dashboard by the WHO,Confirmed cases,"Total confirmed cases of COVID-19 per 1,000,000 people. Counts can include probable cases, where reported."
+new_cases_per_million,COVID-19 Dashboard by the WHO,Confirmed cases,"New confirmed cases of COVID-19 per 1,000,000 people. Counts can include probable cases, where reported."
+new_cases_smoothed_per_million,COVID-19 Dashboard by the WHO,Confirmed cases,"New confirmed cases of COVID-19 (7-day smoothed) per 1,000,000 people. Counts can include probable cases, where reported."
+total_deaths_per_million,COVID-19 Dashboard by the WHO,Confirmed deaths,"Total deaths attributed to COVID-19 per 1,000,000 people. Counts can include probable deaths, where reported."
+new_deaths_per_million,COVID-19 Dashboard by the WHO,Confirmed deaths,"New deaths attributed to COVID-19 per 1,000,000 people. Counts can include probable deaths, where reported."
+new_deaths_smoothed_per_million,COVID-19 Dashboard by the WHO,Confirmed deaths,"New deaths attributed to COVID-19 (7-day smoothed) per 1,000,000 people. Counts can include probable deaths, where reported."
 reproduction_rate,Arroyo Marioli et al. (2020). https://doi.org/10.2139/ssrn.3581633,Reproduction rate,Real-time estimate of the effective reproduction rate (R) of COVID-19. See https://github.com/crondonm/TrackingR/tree/main/Estimates-Database
-icu_patients,"European CDC for EU countries, government sources for other countries",Hospital & ICU,Number of COVID-19 patients in intensive care units (ICUs) on a given day
-icu_patients_per_million,"European CDC for EU countries, government sources for other countries",Hospital & ICU,"Number of COVID-19 patients in intensive care units (ICUs) on a given day per 1,000,000 people"
-hosp_patients,"European CDC for EU countries, government sources for other countries",Hospital & ICU,Number of COVID-19 patients in hospital on a given day
-hosp_patients_per_million,"European CDC for EU countries, government sources for other countries",Hospital & ICU,"Number of COVID-19 patients in hospital on a given day per 1,000,000 people"
-weekly_icu_admissions,"European CDC for EU countries, government sources for other countries",Hospital & ICU,Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week
-weekly_icu_admissions_per_million,"European CDC for EU countries, government sources for other countries",Hospital & ICU,"Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week per 1,000,000 people"
-weekly_hosp_admissions,"European CDC for EU countries, government sources for other countries",Hospital & ICU,Number of COVID-19 patients newly admitted to hospitals in a given week
-weekly_hosp_admissions_per_million,"European CDC for EU countries, government sources for other countries",Hospital & ICU,"Number of COVID-19 patients newly admitted to hospitals in a given week per 1,000,000 people"
+icu_patients,"National government reports and European CDC",Hospital & ICU,Number of COVID-19 patients in intensive care units (ICUs) on a given day
+icu_patients_per_million,"National government reports and European CDC",Hospital & ICU,"Number of COVID-19 patients in intensive care units (ICUs) on a given day per 1,000,000 people"
+hosp_patients,"National government reports and European CDC",Hospital & ICU,Number of COVID-19 patients in hospital on a given day
+hosp_patients_per_million,"National government reports and European CDC",Hospital & ICU,"Number of COVID-19 patients in hospital on a given day per 1,000,000 people"
+weekly_icu_admissions,"National government reports and European CDC",Hospital & ICU,Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week (reporting date and the preceeding 6 days)
+weekly_icu_admissions_per_million,"National government reports and European CDC",Hospital & ICU,"Number of COVID-19 patients newly admitted to intensive care units (ICUs) in a given week per 1,000,000 people (reporting date and the preceeding 6 days)"
+weekly_hosp_admissions,"National government reports and European CDC",Hospital & ICU,Number of COVID-19 patients newly admitted to hospitals in a given week (reporting date and the preceeding 6 days)
+weekly_hosp_admissions_per_million,"National government reports and European CDC",Hospital & ICU,"Number of COVID-19 patients newly admitted to hospitals in a given week per 1,000,000 people (reporting date and the preceeding 6 days)"
 total_tests,National government reports,Tests & positivity,Total tests for COVID-19
 new_tests,National government reports,Tests & positivity,New tests for COVID-19 (only calculated for consecutive days)
 total_tests_per_thousand,National government reports,Tests & positivity,"Total tests for COVID-19 per 1,000 people"
@@ -32,16 +32,16 @@ new_tests_smoothed,National government reports,Tests & positivity,"New tests for
 new_tests_smoothed_per_thousand,National government reports,Tests & positivity,"New tests for COVID-19 (7-day smoothed) per 1,000 people"
 positive_rate,National government reports,Tests & positivity,"The share of COVID-19 tests that are positive, given as a rolling 7-day average (this is the inverse of tests_per_case)"
 tests_per_case,National government reports,Tests & positivity,"Tests conducted per new confirmed case of COVID-19, given as a rolling 7-day average (this is the inverse of positive_rate)"
-tests_units,National government reports,Tests & positivity,Units used by the location to report its testing data
+tests_units,National government reports,Tests & positivity,"Units used by the location to report its testing data. A country file can't contain mixed units. All metrics concerning testing data use the specified test unit. Valid units are 'people tested' (number of people tested), 'tests performed' (number of tests performed. a single person can be tested more than once in a given day) and 'samples tested' (number of samples tested. In some cases, more than one sample may be required to perform a given test.)"
 total_vaccinations,National government reports,Vaccinations,Total number of COVID-19 vaccination doses administered
 people_vaccinated,National government reports,Vaccinations,Total number of people who received at least one vaccine dose
-people_fully_vaccinated,National government reports,Vaccinations,Total number of people who received all doses prescribed by the vaccination protocol
+people_fully_vaccinated,National government reports,Vaccinations,Total number of people who received all doses prescribed by the initial vaccination protocol
 total_boosters,National government reports,Vaccinations,Total number of COVID-19 vaccination booster doses administered (doses administered beyond the number prescribed by the vaccination protocol)
 new_vaccinations,National government reports,Vaccinations,New COVID-19 vaccination doses administered (only calculated for consecutive days)
 new_vaccinations_smoothed,National government reports,Vaccinations,"New COVID-19 vaccination doses administered (7-day smoothed). For countries that don't report vaccination data on a daily basis, we assume that vaccination changed equally on a daily basis over any periods in which no data was reported. This produces a complete series of daily figures, which is then averaged over a rolling 7-day window"
 total_vaccinations_per_hundred,National government reports,Vaccinations,Total number of COVID-19 vaccination doses administered per 100 people in the total population
 people_vaccinated_per_hundred,National government reports,Vaccinations,Total number of people who received at least one vaccine dose per 100 people in the total population
-people_fully_vaccinated_per_hundred,National government reports,Vaccinations,Total number of people who received all doses prescribed by the vaccination protocol per 100 people in the total population
+people_fully_vaccinated_per_hundred,National government reports,Vaccinations,Total number of people who received all doses prescribed by the initial vaccination protocol per 100 people in the total population
 total_boosters_per_hundred,National government reports,Vaccinations,Total number of COVID-19 vaccination booster doses administered per 100 people in the total population
 new_vaccinations_smoothed_per_million,National government reports,Vaccinations,"New COVID-19 vaccination doses administered (7-day smoothed) per 1,000,000 people in the total population"
 new_people_vaccinated_smoothed,National government reports,Vaccinations,"Daily number of people receiving their first vaccine dose (7-day smoothed)"

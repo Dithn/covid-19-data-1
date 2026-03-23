@@ -1,0 +1,16 @@
+name: Bug ⚠️
+description: >-
+  Use this issue to report a bug in the code, a typo in the documentation, etc.
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing! Before doing so, please check our [contribution guideline](https://docs.owid.io/projects/covid/en/latest/contribute.html)."
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the bug and the affected files. If the bug occurs when running a piece of code, please copy the error.
+    validations:
+      required: true

@@ -1,340 +1,533 @@
-date,location,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-2020-12-27,Romania,Pfizer/BioNTech,https://datelazi.ro/,965,965,0
-2020-12-28,Romania,Pfizer/BioNTech,https://datelazi.ro/,2066,2066,0
-2020-12-29,Romania,Pfizer/BioNTech,https://datelazi.ro/,2778,2778,0
-2020-12-30,Romania,Pfizer/BioNTech,https://datelazi.ro/,5666,5666,0
-2020-12-31,Romania,Pfizer/BioNTech,https://datelazi.ro/,10289,10289,0
-2021-01-01,Romania,Pfizer/BioNTech,https://datelazi.ro/,11656,11656,0
-2021-01-02,Romania,Pfizer/BioNTech,https://datelazi.ro/,13242,13242,0
-2021-01-03,Romania,Pfizer/BioNTech,https://datelazi.ro/,13596,13596,0
-2021-01-04,Romania,Pfizer/BioNTech,https://datelazi.ro/,25508,25508,0
-2021-01-05,Romania,Pfizer/BioNTech,https://datelazi.ro/,41609,41609,0
-2021-01-06,Romania,Pfizer/BioNTech,https://datelazi.ro/,58554,58554,0
-2021-01-07,Romania,Pfizer/BioNTech,https://datelazi.ro/,76400,76400,0
-2021-01-08,Romania,Pfizer/BioNTech,https://datelazi.ro/,92706,92706,0
-2021-01-09,Romania,Pfizer/BioNTech,https://datelazi.ro/,102301,102301,0
-2021-01-10,Romania,Pfizer/BioNTech,https://datelazi.ro/,108294,108294,0
-2021-01-11,Romania,Pfizer/BioNTech,https://datelazi.ro/,125190,125190,0
-2021-01-12,Romania,Pfizer/BioNTech,https://datelazi.ro/,140447,140447,0
-2021-01-13,Romania,Pfizer/BioNTech,https://datelazi.ro/,154268,154268,0
-2021-01-14,Romania,Pfizer/BioNTech,https://datelazi.ro/,154268,154268,0
-2021-01-15,Romania,Pfizer/BioNTech,https://datelazi.ro/,183669,183669,0
-2021-01-16,Romania,Pfizer/BioNTech,https://datelazi.ro/,196090,196090,0
-2021-01-17,Romania,Pfizer/BioNTech,https://datelazi.ro/,204185,203310,875
-2021-01-18,Romania,Pfizer/BioNTech,https://datelazi.ro/,235239,233289,1950
-2021-01-19,Romania,Pfizer/BioNTech,https://datelazi.ro/,270046,267425,2621
-2021-01-20,Romania,Pfizer/BioNTech,https://datelazi.ro/,308384,302571,5813
-2021-01-21,Romania,Pfizer/BioNTech,https://datelazi.ro/,348096,338253,9843
-2021-01-22,Romania,Pfizer/BioNTech,https://datelazi.ro/,385936,374682,11254
-2021-01-23,Romania,Pfizer/BioNTech,https://datelazi.ro/,418885,406007,12878
-2021-01-24,Romania,Pfizer/BioNTech,https://datelazi.ro/,446285,433130,13155
-2021-01-25,Romania,Pfizer/BioNTech,https://datelazi.ro/,484631,459568,25063
-2021-01-26,Romania,Pfizer/BioNTech,https://datelazi.ro/,528378,487712,40666
-2021-01-27,Romania,Pfizer/BioNTech,https://datelazi.ro/,570704,513430,57274
-2021-01-28,Romania,Pfizer/BioNTech,https://datelazi.ro/,609396,534347,75049
-2021-01-29,Romania,Pfizer/BioNTech,https://datelazi.ro/,647000,554925,92075
-2021-01-30,Romania,Pfizer/BioNTech,https://datelazi.ro/,672396,571092,101304
-2021-01-31,Romania,Pfizer/BioNTech,https://datelazi.ro/,691415,585219,106196
-2021-02-01,Romania,Pfizer/BioNTech,https://datelazi.ro/,721184,598136,123048
-2021-02-02,Romania,Pfizer/BioNTech,https://datelazi.ro/,748732,610384,138348
-2021-02-03,Romania,Pfizer/BioNTech,https://datelazi.ro/,772202,620177,152025
-2021-02-04,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,794795,629280,165515
-2021-02-05,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,821552,638887,182665
-2021-02-06,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,840812,647691,193121
-2021-02-07,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,856322,656178,200144
-2021-02-08,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,891348,661063,230285
-2021-02-09,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,930155,666943,263212
-2021-02-10,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,970967,671449,299518
-2021-02-11,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1009421,675234,334187
-2021-02-12,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1048797,679333,369464
-2021-02-13,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1084096,683347,400749
-2021-02-14,Romania,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1113975,686635,427340
-2021-02-15,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1151112,696944,454168
-2021-02-16,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1197089,715749,481340
-2021-02-17,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1240408,734929,505479
-2021-02-18,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1280228,753753,526475
-2021-02-19,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1318355,771240,547115
-2021-02-20,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1351279,788508,562771
-2021-02-21,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1379223,803098,576125
-2021-02-22,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1409087,819447,589640
-2021-02-23,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1438432,836860,601572
-2021-02-24,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1466649,855097,611552
-2021-02-25,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1486907,872361,614546
-2021-02-26,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1506032,890068,615964
-2021-02-27,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1521736,905142,616594
-2021-02-28,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1532872,915761,617111
-2021-03-01,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1565021,946781,618240
-2021-03-02,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1603179,983997,619182
-2021-03-03,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1641874,1022066,619808
-2021-03-04,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1685611,1058452,627159
-2021-03-05,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1732964,1096911,636053
-2021-03-06,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1781602,1136895,644707
-2021-03-07,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1826786,1174219,652567
-2021-03-08,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1870244,1212503,657741
-2021-03-09,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1918443,1254801,663642
-2021-03-10,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1969846,1297161,672685
-2021-03-11,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2019757,1336828,682929
-2021-03-12,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2069143,1375595,693548
-2021-03-13,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2117865,1413636,704229
-2021-03-14,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2160564,1447358,713206
-2021-03-15,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2210140,1487184,722956
-2021-03-16,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2270124,1531483,738641
-2021-03-17,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2324405,1572466,751939
-2021-03-18,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2376330,1615577,760753
-2021-03-19,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2426191,1658270,767921
-2021-03-20,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2477095,1704448,772647
-2021-03-21,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2521512,1746105,775407
-2021-03-22,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2568108,1769379,798729
-2021-03-23,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2626770,1800681,826089
-2021-03-24,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2685878,1831478,854400
-2021-03-25,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2744764,1861647,883117
-2021-03-26,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2799895,1888033,911862
-2021-03-27,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2858442,1914885,943557
-2021-03-28,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2913155,1939485,973670
-2021-03-29,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2965613,1963149,1002464
-2021-03-30,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3030031,1990393,1039638
-2021-03-31,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3088292,2015307,1072985
-2021-04-01,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3145907,2040532,1105375
-2021-04-02,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3203876,2065575,1138301
-2021-04-03,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3259301,2090464,1168837
-2021-04-04,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3307636,2110922,1196714
-2021-04-05,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3359006,2132024,1226982
-2021-04-06,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3413955,2155906,1258049
-2021-04-07,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3469294,2180807,1288487
-2021-04-08,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3526117,2206254,1319863
-2021-04-09,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3580406,2228798,1351608
-2021-04-10,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3642345,2258352,1383993
-2021-04-11,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3699333,2286546,1412787
-2021-04-12,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3762214,2326484,1435730
-2021-04-13,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3838804,2372655,1466149
-2021-04-14,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3918924,2421982,1496942
-2021-04-15,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3998980,2471779,1527201
-2021-04-16,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4078614,2523620,1554994
-2021-04-17,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4159792,2578713,1581079
-2021-04-18,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4231714,2626810,1604904
-2021-04-19,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4306981,2675872,1631109
-2021-04-20,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4395865,2737514,1658351
-2021-04-21,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4487643,2801060,1686583
-2021-04-22,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4575020,2860598,1714422
-2021-04-23,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4665420,2921600,1743820
-2021-04-24,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4755099,2983609,1771490
-2021-04-25,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4832203,3037698,1794505
-2021-04-26,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4913012,3092378,1820634
-2021-04-27,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4997659,3147573,1850086
-2021-04-28,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5081449,3201106,1880343
-2021-04-29,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5161840,3252247,1909593
-2021-04-30,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5240452,3303419,1937033
-2021-05-01,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5300469,3336830,1963639
-2021-05-02,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5341742,3355073,1986669
-2021-05-03,Romania,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5408309,3378699,2029610
-2021-05-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5493913,3411328,2082630
-2021-05-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5588267,3449831,2138703
-2021-05-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5688721,3491189,2198691
-2021-05-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5781222,3529427,2254449
-2021-05-08,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5891855,3580368,2314812
-2021-05-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5995792,3629484,2369835
-2021-05-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6095252,3672354,2428168
-2021-05-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6201096,3711304,2498443
-2021-05-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6305850,3750015,2568497
-2021-05-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6409083,3789351,2636935
-2021-05-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6519397,3834311,2708201
-2021-05-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6638418,3886249,2777707
-2021-05-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6740080,3928681,2838407
-2021-05-17,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6834736,3963176,2902964
-2021-05-18,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6931689,3997170,2972379
-2021-05-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7026106,4029619,3041824
-2021-05-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7114065,4057860,3108713
-2021-05-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7199038,4086224,3172669
-2021-05-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7274491,4113110,3224111
-2021-05-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7328556,4136319,3257676
-2021-05-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7386171,4159340,3298077
-2021-05-25,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7454991,4183320,3349935
-2021-05-26,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7526513,4208724,3404056
-2021-05-27,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7593891,4232837,3455344
-2021-05-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7663368,4257317,3509016
-2021-05-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7740297,4279871,3568297
-2021-05-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7809390,4299481,3622680
-2021-05-31,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7873523,4320017,3673582
-2021-06-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7926291,4336728,3713590
-2021-06-02,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7981963,4356353,3756485
-2021-06-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8042576,4379534,3803015
-2021-06-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8110583,4404555,3857009
-2021-06-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8180838,4425234,3911801
-2021-06-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8238940,4440483,3958472
-2021-06-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8288345,4457688,3997752
-2021-06-08,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8337812,4476936,4036699
-2021-06-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8383685,4496033,4072855
-2021-06-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8425239,4514587,4104965
-2021-06-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8466467,4531945,4137956
-2021-06-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8505715,4545635,4168567
-2021-06-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8537162,4555523,4193755
-2021-06-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8568228,4567268,4219071
-2021-06-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8600553,4580633,4245251
-2021-06-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8632630,4594058,4271102
-2021-06-17,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8661632,4606562,4294484
-2021-06-18,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8690945,4619111,4318164
-2021-06-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8716424,4627395,4338583
-2021-06-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8736769,4633520,4355131
-2021-06-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8756809,4640330,4370693
-2021-06-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8780559,4650160,4389865
-2021-06-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8806645,4661527,4410810
-2021-06-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8832244,4672751,4431338
-2021-06-27,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8880515,4676750,4488051
-2021-06-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8916725,4702086,4503114
-2021-06-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8937289,4711630,4519003
-2021-06-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8958089,4721607,4534978
-2021-07-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8977086,4731279,4549454
-2021-07-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8997613,4733462,4579704
-2021-07-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9025715,4755418,4588099
-2021-07-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9042170,4764631,4599800
-2021-07-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9058875,4774498,4612007
-2021-07-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9075830,4784787,4624412
-2021-07-08,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9092141,4794725,4636305
-2021-07-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9108324,4810908,4636305
-2021-07-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9120659,4812655,4653694
-2021-07-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9129223,4813104,4665672
-2021-07-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9141320,4820514,4674095
-2021-07-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9155837,4829430,4684586
-2021-07-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9170950,4839176,4695506
-2021-07-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9185754,4848514,4706326
-2021-07-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9200964,4858430,4717574
-2021-07-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9220596,4865265,4740309
-2021-07-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9250557,4889930,4752361
-2021-07-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9265732,4900330,4762961
-2021-07-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9281707,4911478,4774482
-2021-07-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9298140,4922508,4786676
-2021-07-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9310355,4930100,4794895
-2021-07-25,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9318358,4934853,4800333
-2021-07-26,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9332709,4944136,4810721
-2021-07-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9348582,4949934,4834109
-2021-07-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9379068,4975672,4845121
-2021-07-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9394911,4986820,4857069
-2021-07-31,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9406063,4993968,4864843
-2021-08-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9413419,4998534,4869906
-2021-08-02,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9425801,5006958,4878971
-2021-08-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9441193,5018129,4890227
-2021-08-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9456458,5028965,4901541
-2021-08-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9471723,5040007,4913174
-2021-08-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9487092,5051480,4924505
-2021-08-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9497217,5058145,4931469
-2021-08-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9504071,5059737,4941293
-2021-08-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9531018,5082172,4947121
-2021-08-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9545104,5091535,4958156
-2021-08-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9558787,5100830,4968866
-2021-08-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9573496,5111207,4980796
-2021-08-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9583069,5117210,4988049
-2021-08-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9588628,5120486,4992425
-2021-08-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9600500,5128257,5002025
-2021-08-17,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9613888,5137362,5012813
-2021-08-18,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9627879,5147200,5024147
-2021-08-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9640934,5156605,5034584
-2021-08-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9654182,5165924,5045222
-2021-08-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9663370,5171866,5052020
-2021-08-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9669012,5175271,5056251
-2021-08-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9680674,5183081,5065518
-2021-08-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9694090,5192411,5076144
-2021-08-25,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9707596,5202058,5086628
-2021-08-26,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9720866,5211669,5096932
-2021-08-27,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9734239,5221161,5107382
-2021-08-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9742952,5226706,5113739
-2021-08-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9748576,5230297,5117809
-2021-08-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9759206,5237512,5125862
-2021-08-31,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9771316,5246235,5135003
-2021-09-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9782320,5254173,5143110
-2021-09-02,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9793157,5261954,5151276
-2021-09-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9803998,5269993,5159282
-2021-09-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9810718,5274612,5163785
-2021-09-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9814736,5277344,5166488
-2021-09-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9822812,5282882,5172483
-2021-09-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9831806,5289255,5179164
-2021-09-08,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9841281,5296108,5186126
-2021-09-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9850304,5302617,5192766
-2021-09-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9860502,5310136,5200211
-2021-09-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9867727,5315126,5204898
-2021-09-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9872288,5318264,5207984
-2021-09-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9880294,5323764,5213954
-2021-09-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9890710,5331254,5221369
-2021-09-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9901220,5338919,5228998
-2021-09-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9912393,5347116,5237170
-2021-09-17,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9925785,5357532,5246397
-2021-09-18,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9935978,5365230,5252394
-2021-09-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9940596,5368199,5256808
-2021-09-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9955326,5380254,5264841
-2021-09-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9971012,5392754,5275397
-2021-09-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9987918,5406546,5286774
-2021-09-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10006305,5422165,5298861
-2021-09-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10026290,5439231,5311887
-2021-09-25,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10043006,5453464,5321291
-2021-09-26,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10054036,5463036,5327628
-2021-09-27,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10071932,5478579,5338990
-2021-09-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10114580,,5353184
-2021-09-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10175695,,5368241
-2021-09-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10237524,,5384003
-2021-10-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10299425,,5401341
-2021-10-02,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10345107,,5413050
-2021-10-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10345107,,5421165
-2021-10-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10428307,,5434368
-2021-10-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10488777,,5451352
-2021-10-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10544773,,5466960
-2021-10-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10607680,,5485298
-2021-10-08,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10675095,,5506187
-2021-10-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10727863,,5521333
-2021-10-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10763280,,5531778
-2021-10-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10814828,,5546873
-2021-10-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10814828,,5566067
-2021-10-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10933473,,5586307
-2021-10-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10933473,,5608781
-2021-10-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11074621,,5635136
-2021-10-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11134093,,5654687
-2021-10-17,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11175648,,5668360
-2021-10-18,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11237605,,5689257
-2021-10-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11306239,,5714109
-2021-10-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11385711,,5741882
-2021-10-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11485084,,5778037
-2021-10-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11612914,,5828308
-2021-10-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11740280,,5876290
-2021-10-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11850881,,5919840
-2021-10-25,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11978451,,5974029
-2021-10-26,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12129295,,6041736
-2021-10-27,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12280258,,6110702
-2021-10-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12406566,,6171382
-2021-10-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12526286,,6230292
-2021-10-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12615792,,6269486
-2021-10-31,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12681048,,6297622
-2021-11-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12761100,,6334232
-2021-11-02,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12839550,,6370311
-2021-11-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12921964,,6407432
-2021-11-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13004585,,6444942
-2021-11-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13094503,,6485590
-2021-11-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13165832,,6514882
-2021-11-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13222558,,6537790
-2021-11-08,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13292391,,6567685
-2021-11-09,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13360246,,6599913
-2021-11-10,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13431824,,6635240
-2021-11-11,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13513901,,6680914
-2021-11-12,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13611328,,6737499
-2021-11-13,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13704556,,6792733
-2021-11-14,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13785039,,6843419
-2021-11-15,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13875819,,6897669
-2021-11-16,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13974270,,6958736
-2021-11-17,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14071356,,7017755
-2021-11-18,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14160109,,7068708
-2021-11-19,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14250518,,7117567
-2021-11-20,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14329972,,7156384
-2021-11-21,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14387707,,7185670
-2021-11-22,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14452740,,7217733
-2021-11-23,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14519190,,7250727
-2021-11-24,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14585468,,7282874
-2021-11-25,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14650539,,7314379
-2021-11-26,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14721122,,7346689
-2021-11-27,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14783340,,7373064
-2021-11-28,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://covid19.who.int/,,7766483.0,
-2021-11-29,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14885629,,7415357
-2021-11-30,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14927256,,7431916
-2021-12-01,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14952118,,7443783
-2021-12-02,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14996944,,7463963
-2021-12-03,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15052037,,7488507
-2021-12-04,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15095967,,7507203
-2021-12-05,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15128779,,7522127
-2021-12-06,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15174068,,7541662
-2021-12-07,Romania,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15214195,,7559544
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Romania,2020-12-27,Pfizer/BioNTech,https://datelazi.ro/,965,965,0
+Romania,2020-12-28,Pfizer/BioNTech,https://datelazi.ro/,2066,2066,0
+Romania,2020-12-29,Pfizer/BioNTech,https://datelazi.ro/,2778,2778,0
+Romania,2020-12-30,Pfizer/BioNTech,https://datelazi.ro/,5666,5666,0
+Romania,2020-12-31,Pfizer/BioNTech,https://datelazi.ro/,10289,10289,0
+Romania,2021-01-01,Pfizer/BioNTech,https://datelazi.ro/,11656,11656,0
+Romania,2021-01-02,Pfizer/BioNTech,https://datelazi.ro/,13242,13242,0
+Romania,2021-01-03,Pfizer/BioNTech,https://datelazi.ro/,13596,13596,0
+Romania,2021-01-04,Pfizer/BioNTech,https://datelazi.ro/,25508,25508,0
+Romania,2021-01-05,Pfizer/BioNTech,https://datelazi.ro/,41609,41609,0
+Romania,2021-01-06,Pfizer/BioNTech,https://datelazi.ro/,58554,58554,0
+Romania,2021-01-07,Pfizer/BioNTech,https://datelazi.ro/,76400,76400,0
+Romania,2021-01-08,Pfizer/BioNTech,https://datelazi.ro/,92706,92706,0
+Romania,2021-01-09,Pfizer/BioNTech,https://datelazi.ro/,102301,102301,0
+Romania,2021-01-10,Pfizer/BioNTech,https://datelazi.ro/,108294,108294,0
+Romania,2021-01-11,Pfizer/BioNTech,https://datelazi.ro/,125190,125190,0
+Romania,2021-01-12,Pfizer/BioNTech,https://datelazi.ro/,140447,140447,0
+Romania,2021-01-13,Pfizer/BioNTech,https://datelazi.ro/,154268,154268,0
+Romania,2021-01-14,Pfizer/BioNTech,https://datelazi.ro/,168089,168089,0
+Romania,2021-01-15,Pfizer/BioNTech,https://datelazi.ro/,184146,184146,0
+Romania,2021-01-16,Pfizer/BioNTech,https://datelazi.ro/,196567,196567,0
+Romania,2021-01-17,Pfizer/BioNTech,https://datelazi.ro/,204662,203787,875
+Romania,2021-01-18,Pfizer/BioNTech,https://datelazi.ro/,234899,232949,1950
+Romania,2021-01-19,Pfizer/BioNTech,https://datelazi.ro/,269706,267085,2621
+Romania,2021-01-20,Pfizer/BioNTech,https://datelazi.ro/,308044,302231,5813
+Romania,2021-01-21,Pfizer/BioNTech,https://datelazi.ro/,347756,337913,9843
+Romania,2021-01-22,Pfizer/BioNTech,https://datelazi.ro/,385596,374342,11254
+Romania,2021-01-23,Pfizer/BioNTech,https://datelazi.ro/,418545,405667,12878
+Romania,2021-01-24,Pfizer/BioNTech,https://datelazi.ro/,445945,432790,13155
+Romania,2021-01-25,Pfizer/BioNTech,https://datelazi.ro/,484291,459228,25063
+Romania,2021-01-26,Pfizer/BioNTech,https://datelazi.ro/,528038,487372,40666
+Romania,2021-01-27,Pfizer/BioNTech,https://datelazi.ro/,570364,513090,57274
+Romania,2021-01-28,Pfizer/BioNTech,https://datelazi.ro/,609056,534007,75049
+Romania,2021-01-29,Pfizer/BioNTech,https://datelazi.ro/,646660,554585,92075
+Romania,2021-01-30,Pfizer/BioNTech,https://datelazi.ro/,672056,570752,101304
+Romania,2021-01-31,Pfizer/BioNTech,https://datelazi.ro/,691075,584879,106196
+Romania,2021-02-01,Pfizer/BioNTech,https://datelazi.ro/,720844,597796,123048
+Romania,2021-02-02,Pfizer/BioNTech,https://datelazi.ro/,748392,610044,138348
+Romania,2021-02-03,Pfizer/BioNTech,https://datelazi.ro/,771862,619837,152025
+Romania,2021-02-04,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,794455,628940,165515
+Romania,2021-02-05,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,821212,638547,182665
+Romania,2021-02-06,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,840472,647351,193121
+Romania,2021-02-07,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,855982,655838,200144
+Romania,2021-02-08,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,891008,660723,230285
+Romania,2021-02-09,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,929815,666603,263212
+Romania,2021-02-10,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,970627,671109,299518
+Romania,2021-02-11,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1009081,674894,334187
+Romania,2021-02-12,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1048456,678992,369464
+Romania,2021-02-13,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1083755,683006,400749
+Romania,2021-02-14,"Moderna, Pfizer/BioNTech",https://datelazi.ro/,1113634,686294,427340
+Romania,2021-02-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1150771,696603,454168
+Romania,2021-02-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1188673,707333,481340
+Romania,2021-02-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1231992,726513,505479
+Romania,2021-02-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1271812,745337,526475
+Romania,2021-02-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1309940,762825,547115
+Romania,2021-02-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1342864,780093,562771
+Romania,2021-02-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1370808,794683,576125
+Romania,2021-02-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1400673,811033,589640
+Romania,2021-02-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1430017,828445,601572
+Romania,2021-02-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1458234,846682,611552
+Romania,2021-02-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1478492,863946,614546
+Romania,2021-02-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1497617,881653,615964
+Romania,2021-02-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1513321,896727,616594
+Romania,2021-02-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1524457,907346,617111
+Romania,2021-03-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1556606,938366,618240
+Romania,2021-03-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1594764,975582,619182
+Romania,2021-03-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1633449,1013641,619808
+Romania,2021-03-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1677187,1050028,627159
+Romania,2021-03-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1724540,1088487,636053
+Romania,2021-03-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1773178,1128471,644707
+Romania,2021-03-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1818362,1165795,652567
+Romania,2021-03-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1861820,1204079,657741
+Romania,2021-03-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1910020,1246378,663642
+Romania,2021-03-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,1961422,1288737,672685
+Romania,2021-03-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2011333,1328404,682929
+Romania,2021-03-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2060719,1367171,693548
+Romania,2021-03-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2109441,1405212,704229
+Romania,2021-03-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2152140,1438934,713206
+Romania,2021-03-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2201716,1478760,722956
+Romania,2021-03-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2261700,1523059,738641
+Romania,2021-03-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2315981,1564042,751939
+Romania,2021-03-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2367906,1607153,760753
+Romania,2021-03-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2417767,1649846,767921
+Romania,2021-03-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2468671,1696024,772647
+Romania,2021-03-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2513088,1737681,775407
+Romania,2021-03-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2560284,1761555,798729
+Romania,2021-03-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2618346,1792257,826089
+Romania,2021-03-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2677454,1823054,854400
+Romania,2021-03-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2736340,1853223,883117
+Romania,2021-03-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2791471,1879609,911862
+Romania,2021-03-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2850018,1906461,943557
+Romania,2021-03-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2904731,1931061,973670
+Romania,2021-03-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,2957189,1954725,1002464
+Romania,2021-03-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3021607,1981969,1039638
+Romania,2021-03-31,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3079868,2006883,1072985
+Romania,2021-04-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3137483,2032108,1105375
+Romania,2021-04-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3195452,2057151,1138301
+Romania,2021-04-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3250877,2082040,1168837
+Romania,2021-04-04,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3299212,2102498,1196714
+Romania,2021-04-05,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3350582,2123600,1226982
+Romania,2021-04-06,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3405531,2147482,1258049
+Romania,2021-04-07,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3460870,2172383,1288487
+Romania,2021-04-08,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3517693,2197830,1319863
+Romania,2021-04-09,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3571982,2220374,1351608
+Romania,2021-04-10,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3633921,2249928,1383993
+Romania,2021-04-11,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3690909,2278122,1412787
+Romania,2021-04-12,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3753790,2318060,1435730
+Romania,2021-04-13,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3830380,2364231,1466149
+Romania,2021-04-14,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3910500,2413558,1496942
+Romania,2021-04-15,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,3990556,2463355,1527201
+Romania,2021-04-16,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4070190,2515196,1554994
+Romania,2021-04-17,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4151368,2570289,1581079
+Romania,2021-04-18,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4223290,2618386,1604904
+Romania,2021-04-19,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4298557,2667448,1631109
+Romania,2021-04-20,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4387441,2729090,1658351
+Romania,2021-04-21,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4479219,2792636,1686583
+Romania,2021-04-22,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4566596,2852174,1714422
+Romania,2021-04-23,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4656996,2913176,1743820
+Romania,2021-04-24,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4746675,2975185,1771490
+Romania,2021-04-25,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4823779,3029274,1794505
+Romania,2021-04-26,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4904588,3083954,1820634
+Romania,2021-04-27,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,4989235,3139149,1850086
+Romania,2021-04-28,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5073025,3192682,1880343
+Romania,2021-04-29,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5153416,3243823,1909593
+Romania,2021-04-30,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5232028,3294995,1937033
+Romania,2021-05-01,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5292045,3328406,1963639
+Romania,2021-05-02,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5333318,3346649,1986669
+Romania,2021-05-03,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5399885,3370275,2029610
+Romania,2021-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5485489,3402904,2082630
+Romania,2021-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5579843,3441407,2138703
+Romania,2021-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5680297,3482765,2198691
+Romania,2021-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5772798,3521003,2254449
+Romania,2021-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5883431,3571944,2314812
+Romania,2021-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,5987368,3621060,2369835
+Romania,2021-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6086828,3663930,2428168
+Romania,2021-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6192672,3702880,2498443
+Romania,2021-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6297426,3741591,2568497
+Romania,2021-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6400659,3780927,2636935
+Romania,2021-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6510973,3825887,2708201
+Romania,2021-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6629994,3877825,2777707
+Romania,2021-05-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6731656,3920257,2838407
+Romania,2021-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6826312,3954752,2902964
+Romania,2021-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,6923265,3988746,2972379
+Romania,2021-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7017682,4021195,3041824
+Romania,2021-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7105641,4049436,3108713
+Romania,2021-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7190616,4077802,3172669
+Romania,2021-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7266067,4104686,3224111
+Romania,2021-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7320132,4127895,3257676
+Romania,2021-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7377747,4150916,3298077
+Romania,2021-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7446567,4174896,3349935
+Romania,2021-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7517689,4199900,3404056
+Romania,2021-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7585067,4224013,3455344
+Romania,2021-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7654544,4248493,3509016
+Romania,2021-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7731473,4271047,3568297
+Romania,2021-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7800566,4290657,3622680
+Romania,2021-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7864699,4311193,3673582
+Romania,2021-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7917467,4327904,3713590
+Romania,2021-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,7973139,4347529,3756485
+Romania,2021-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8033752,4370710,3803015
+Romania,2021-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8101759,4395731,3857009
+Romania,2021-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8172014,4416410,3911801
+Romania,2021-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8230116,4431659,3958472
+Romania,2021-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8279521,4448864,3997752
+Romania,2021-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8328988,4468112,4036699
+Romania,2021-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8374861,4487209,4072855
+Romania,2021-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8416415,4505763,4104965
+Romania,2021-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8457643,4523121,4137956
+Romania,2021-06-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8496891,4536811,4168567
+Romania,2021-06-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8528338,4546699,4193755
+Romania,2021-06-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8559404,4558444,4219071
+Romania,2021-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8591729,4571809,4245251
+Romania,2021-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8623806,4585234,4271102
+Romania,2021-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8652808,4597738,4294484
+Romania,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8682121,4610287,4318164
+Romania,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8707600,4618571,4338583
+Romania,2021-06-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8727945,4624696,4355131
+Romania,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8747985,4631506,4370693
+Romania,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8771735,4641336,4389865
+Romania,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8797821,4652703,4410810
+Romania,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8823420,4663927,4431338
+Romania,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8849148,4674879,4452249
+Romania,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8871691,4682674,4470150
+Romania,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8894234,4690469,4488051
+Romania,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8913454,4698815,4503114
+Romania,2021-06-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8934018,4708359,4519003
+Romania,2021-06-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8954818,4718336,4534978
+Romania,2021-07-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8973815,4728008,4549454
+Romania,2021-07-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,8994342,4739363,4564579
+Romania,2021-07-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9014869,4750718,4579704
+Romania,2021-07-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9026760,4756463,4588099
+Romania,2021-07-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9043215,4765676,4599800
+Romania,2021-07-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9059920,4775543,4612007
+Romania,2021-07-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9076995,4785952,4624412
+Romania,2021-07-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9093306,4795890,4636305
+Romania,2021-07-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9118629,4810625,4653694
+Romania,2021-07-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9136729,4820610,4665672
+Romania,2021-07-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9148811,4828005,4674095
+Romania,2021-07-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9163419,4837012,4684586
+Romania,2021-07-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9178455,4846681,4695506
+Romania,2021-07-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9193271,4856031,4706326
+Romania,2021-07-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9208472,4865938,4717574
+Romania,2021-07-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9220087,4872828,4725444
+Romania,2021-07-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9228150,4877419,4730895
+Romania,2021-07-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9241392,4886061,4740309
+Romania,2021-07-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9258063,4897436,4752361
+Romania,2021-07-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9273241,4907839,4762961
+Romania,2021-07-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9289238,4919009,4774482
+Romania,2021-07-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9305740,4930108,4786676
+Romania,2021-07-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9317852,4937597,4794895
+Romania,2021-07-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9325839,4942334,4800333
+Romania,2021-07-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9340211,4951638,4810721
+Romania,2021-07-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9356115,4962342,4822518
+Romania,2021-07-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9371721,4973073,4834109
+Romania,2021-07-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9386533,4983137,4845121
+Romania,2021-07-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9402396,4994305,4857069
+Romania,2021-07-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9413547,5001452,4864843
+Romania,2021-08-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9420877,5005992,4869906
+Romania,2021-08-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9433305,5014462,4878971
+Romania,2021-08-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9448700,5025636,4890227
+Romania,2021-08-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9463960,5036467,4901541
+Romania,2021-08-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9479255,5047539,4913174
+Romania,2021-08-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9494553,5058941,4924505
+Romania,2021-08-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9504679,5065607,4931469
+Romania,2021-08-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9511550,5069847,4936381
+Romania,2021-08-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9518421,5074087,4941293
+Romania,2021-08-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9527454,5078608,4947121
+Romania,2021-08-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9541532,5087963,4958156
+Romania,2021-08-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9555169,5097212,4968866
+Romania,2021-08-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9569926,5107637,4980796
+Romania,2021-08-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9579458,5113599,4988049
+Romania,2021-08-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9585012,5116870,4992425
+Romania,2021-08-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9596801,5124558,5002025
+Romania,2021-08-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9610245,5133719,5012813
+Romania,2021-08-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9624206,5143527,5024147
+Romania,2021-08-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9637172,5152843,5034584
+Romania,2021-08-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9650406,5162148,5045222
+Romania,2021-08-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9659566,5168062,5052020
+Romania,2021-08-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9665209,5171468,5056251
+Romania,2021-08-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9676899,5179306,5065518
+Romania,2021-08-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9690308,5188629,5076144
+Romania,2021-08-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9703797,5198259,5086628
+Romania,2021-08-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9717092,5207895,5096932
+Romania,2021-08-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9730455,5217377,5107382
+Romania,2021-08-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9739150,5222904,5113739
+Romania,2021-08-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9744770,5226491,5117809
+Romania,2021-08-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9755425,5233731,5125862
+Romania,2021-08-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9767531,5242450,5135003
+Romania,2021-09-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9778548,5250401,5143110
+Romania,2021-09-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9789397,5258194,5151276
+Romania,2021-09-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9800229,5266224,5159282
+Romania,2021-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9806905,5270799,5163785
+Romania,2021-09-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9810927,5273535,5166488
+Romania,2021-09-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9819017,5279087,5172483
+Romania,2021-09-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9827984,5285433,5179164
+Romania,2021-09-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9837452,5292279,5186126
+Romania,2021-09-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9846480,5298793,5192766
+Romania,2021-09-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9856663,5306297,5200211
+Romania,2021-09-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9863879,5311278,5204898
+Romania,2021-09-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9868450,5314426,5207984
+Romania,2021-09-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9876490,5319960,5213954
+Romania,2021-09-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9886543,5327087,5221369
+Romania,2021-09-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9897046,5334745,5228998
+Romania,2021-09-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9908235,5342958,5237170
+Romania,2021-09-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9921602,5353349,5246397
+Romania,2021-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9931786,5361038,5252394
+Romania,2021-09-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9939162,5366765,5256808
+Romania,2021-09-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9951188,5376116,5264841
+Romania,2021-09-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9966870,5388612,5275397
+Romania,2021-09-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,9983732,5402360,5286774
+Romania,2021-09-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10002146,5418006,5298861
+Romania,2021-09-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10022127,5435068,5311887
+Romania,2021-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10038861,5449319,5321291
+Romania,2021-09-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10049874,5458874,5327628
+Romania,2021-09-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10067860,5474507,5338990
+Romania,2021-09-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10110672,,5353184
+Romania,2021-09-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10171767,,5368241
+Romania,2021-09-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10233640,,5384003
+Romania,2021-10-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10295476,,5401341
+Romania,2021-10-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10341041,,5413050
+Romania,2021-10-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10371528,,5421165
+Romania,2021-10-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10424425,,5434368
+Romania,2021-10-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10484905,,5451352
+Romania,2021-10-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10540816,,5466960
+Romania,2021-10-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10603439,,5485298
+Romania,2021-10-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10670691,,5506187
+Romania,2021-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10723506,,5521333
+Romania,2021-10-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10758900,,5531778
+Romania,2021-10-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10810621,,5546873
+Romania,2021-10-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10869030,,5566067
+Romania,2021-10-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10929156,,5586307
+Romania,2021-10-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,10997009,,5608781
+Romania,2021-10-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11070386,,5635136
+Romania,2021-10-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11129705,,5654687
+Romania,2021-10-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11171271,,5668360
+Romania,2021-10-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11233327,,5689257
+Romania,2021-10-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11302068,,5714109
+Romania,2021-10-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11381627,,5741882
+Romania,2021-10-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11481003,,5778037
+Romania,2021-10-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11609017,,5828308
+Romania,2021-10-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11736326,,5876290
+Romania,2021-10-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11846865,,5919840
+Romania,2021-10-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,11974813,,5974029
+Romania,2021-10-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12125452,,6041736
+Romania,2021-10-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12276387,,6110702
+Romania,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12402879,,6171382
+Romania,2021-10-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12522686,,6230292
+Romania,2021-10-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12611562,,6269486
+Romania,2021-10-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12676731,,6297622
+Romania,2021-11-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12756911,,6334232
+Romania,2021-11-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12835332,,6370311
+Romania,2021-11-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,12917830,,6407432
+Romania,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13000444,,6444942
+Romania,2021-11-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13090373,,6485590
+Romania,2021-11-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13161544,,6514882
+Romania,2021-11-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13218245,,6537790
+Romania,2021-11-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13288145,,6567685
+Romania,2021-11-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13356019,,6599913
+Romania,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13427624,,6635240
+Romania,2021-11-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13509775,,6680914
+Romania,2021-11-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13607486,,6737499
+Romania,2021-11-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13700291,,6792733
+Romania,2021-11-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13780918,,6843419
+Romania,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13871760,,6897669
+Romania,2021-11-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,13970171,,6958736
+Romania,2021-11-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14054680,,7017755
+Romania,2021-11-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14143558,,7068708
+Romania,2021-11-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14234034,,7117567
+Romania,2021-11-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14313204,,7156384
+Romania,2021-11-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14370933,,7185670
+Romania,2021-11-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14436023,,7217733
+Romania,2021-11-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14502562,,7250727
+Romania,2021-11-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14568733,,7282874
+Romania,2021-11-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14633906,,7314379
+Romania,2021-11-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14704474,,7346689
+Romania,2021-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14766479,,7373064
+Romania,2021-11-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14813465,,7393228
+Romania,2021-11-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14868793,,7415357
+Romania,2021-11-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14910355,,7431916
+Romania,2021-12-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14935192,,7443783
+Romania,2021-12-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,14980192,,7463963
+Romania,2021-12-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15035366,,7488507
+Romania,2021-12-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15079161,,7507203
+Romania,2021-12-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15111895,,7522127
+Romania,2021-12-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15157189,,7541662
+Romania,2021-12-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15197332,,7559544
+Romania,2021-12-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15231255,,7575337
+Romania,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15270021,,7593882
+Romania,2021-12-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15315420,,7612830
+Romania,2021-12-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15353937,,7628548
+Romania,2021-12-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15380319,,7640006
+Romania,2021-12-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15413022,,7653570
+Romania,2021-12-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15448199,,7667484
+Romania,2021-12-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15482791,,7680716
+Romania,2021-12-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15515416,,7693689
+Romania,2021-12-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15551604,,7708072
+Romania,2021-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15579924,,7718704
+Romania,2021-12-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15600803,,7726940
+Romania,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15630621,,7738599
+Romania,2021-12-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15658705,,7749556
+Romania,2021-12-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15683688,,7758645
+Romania,2021-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15705974,,7768209
+Romania,2021-12-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15719411,,7774078
+Romania,2021-12-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15720896,,7775049
+Romania,2021-12-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15724114,,7776873
+Romania,2021-12-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15745511,,7786593
+Romania,2021-12-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15771186,,7796985
+Romania,2021-12-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15796781,,7806308
+Romania,2021-12-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15816487,,7813589
+Romania,2021-12-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15824909,,7817215
+Romania,2022-01-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15825626,,7817575
+Romania,2022-01-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15830772,,7819624
+Romania,2022-01-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15856687,,7829246
+Romania,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15887687,,7839365
+Romania,2022-01-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15920447,,7848712
+Romania,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15950969,,7857473
+Romania,2022-01-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,15983827,,7866153
+Romania,2022-01-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16024810,,7876009
+Romania,2022-01-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16039660,,7879354
+Romania,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16065053,,7886538
+Romania,2022-01-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16090958,,7893950
+Romania,2022-01-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16115653,,7900632
+Romania,2022-01-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16136632,,7906499
+Romania,2022-01-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16161475,,7912048
+Romania,2022-01-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16178998,,7914731
+Romania,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16188698,,7916347
+Romania,2022-01-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16205661,,7921134
+Romania,2022-01-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16222341,,7926434
+Romania,2022-01-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16239058,,7931630
+Romania,2022-01-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16254595,,7936434
+Romania,2022-01-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16271662,,7940321
+Romania,2022-01-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16288370,,7942418
+Romania,2022-01-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16292476,,7943875
+Romania,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16305409,,7946682
+Romania,2022-01-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16322725,,7951432
+Romania,2022-01-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16341598,,7956592
+Romania,2022-01-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16361802,,7961586
+Romania,2022-01-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16384935,,7967059
+Romania,2022-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16404068,,7970868
+Romania,2022-01-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16415359,,7973089
+Romania,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16432047,,7977592
+Romania,2022-02-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16449116,,7982198
+Romania,2022-02-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16465301,,7986889
+Romania,2022-02-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16479884,,7991323
+Romania,2022-02-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16496535,,7996163
+Romania,2022-02-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16509541,,7999397
+Romania,2022-02-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16516932,,8001228
+Romania,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16527803,,8004856
+Romania,2022-02-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16539272,,8008760
+Romania,2022-02-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16550114,,8012440
+Romania,2022-02-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16560705,,8015944
+Romania,2022-02-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16572070,,8019748
+Romania,2022-02-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16580212,,8022041
+Romania,2022-02-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16585057,,8023581
+Romania,2022-02-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16591748,,8025764
+Romania,2022-02-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16599286,,8028480
+Romania,2022-02-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16606721,,8031284
+Romania,2022-02-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16614395,,8034384
+Romania,2022-02-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16622974,,8037982
+Romania,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16630029,,8041055
+Romania,2022-02-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16633918,,8042658
+Romania,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16639982,,8045132
+Romania,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16646327,,8047825
+Romania,2022-02-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16652457,,8050324
+Romania,2022-02-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16658651,,8052763
+Romania,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16665233,,8055499
+Romania,2022-02-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16670100,,8057560
+Romania,2022-02-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16673252,,8058856
+Romania,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16677784,,8060825
+Romania,2022-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16682309,,8062797
+Romania,2022-03-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16686341,,8064452
+Romania,2022-03-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16690807,,8066252
+Romania,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16695626,,8068154
+Romania,2022-03-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16699247,,8069526
+Romania,2022-03-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16701125,,8070200
+Romania,2022-03-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16704114,,8071346
+Romania,2022-03-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16707166,,8072538
+Romania,2022-03-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16709785,,8073606
+Romania,2022-03-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16712425,,8074690
+Romania,2022-03-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16715398,,8075824
+Romania,2022-03-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16717558,,8076640
+Romania,2022-03-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16718766,,8077059
+Romania,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16719974,,8077478
+Romania,2022-03-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16721182,,8077897
+Romania,2022-03-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16722390,,8078316
+Romania,2022-03-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16723598,,8078735
+Romania,2022-03-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16724806,,8079154
+Romania,2022-03-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16726014,,8079573
+Romania,2022-03-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16727222,,8079992
+Romania,2022-03-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16728430,,8080411
+Romania,2022-03-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16729638,,8080830
+Romania,2022-03-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16730846,,8081249
+Romania,2022-03-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16732054,,8081668
+Romania,2022-03-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16733262,,8082087
+Romania,2022-03-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16734470,,8082506
+Romania,2022-03-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16735678,,8082925
+Romania,2022-03-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16736886,,8083344
+Romania,2022-03-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16738094,,8083763
+Romania,2022-03-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16739302,,8084182
+Romania,2022-03-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16740510,,8084601
+Romania,2022-04-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16741718,,8085020
+Romania,2022-04-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16742926,,8085439
+Romania,2022-04-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16744134,,8085858
+Romania,2022-04-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16745342,,8086277
+Romania,2022-04-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16746550,,8086696
+Romania,2022-04-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16747758,,8087115
+Romania,2022-04-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16748966,,8087534
+Romania,2022-04-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16750174,,8087953
+Romania,2022-04-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16751382,,8088372
+Romania,2022-04-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16752590,,8088791
+Romania,2022-04-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16753798,,8089210
+Romania,2022-04-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16755006,,8089629
+Romania,2022-04-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16756214,,8090048
+Romania,2022-04-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16757422,,8090467
+Romania,2022-04-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16758630,,8090886
+Romania,2022-04-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16759838,,8091305
+Romania,2022-04-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16761046,,8091724
+Romania,2022-04-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16762254,,8092143
+Romania,2022-04-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16763462,,8092562
+Romania,2022-04-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16764670,,8092981
+Romania,2022-04-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16765878,,8093400
+Romania,2022-04-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16767086,,8093819
+Romania,2022-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16768294,,8094238
+Romania,2022-04-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16769502,,8094657
+Romania,2022-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16770710,,8095076
+Romania,2022-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16771918,,8095495
+Romania,2022-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16773126,,8095914
+Romania,2022-04-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16774334,,8096333
+Romania,2022-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16775542,,8096752
+Romania,2022-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16776750,,8097171
+Romania,2022-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16777958,,8097590
+Romania,2022-05-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16779166,,8098009
+Romania,2022-05-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16780374,,8098428
+Romania,2022-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16781582,,8098847
+Romania,2022-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16782790,,8099266
+Romania,2022-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16783998,,8099685
+Romania,2022-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16785206,,8100104
+Romania,2022-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16786414,,8100523
+Romania,2022-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16787622,,8100942
+Romania,2022-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16788830,,8101361
+Romania,2022-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16790038,,8101780
+Romania,2022-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16791246,,8102199
+Romania,2022-05-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16792454,,8102618
+Romania,2022-05-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16793662,,8103037
+Romania,2022-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16794870,,8103456
+Romania,2022-05-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16796078,,8103875
+Romania,2022-05-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16797286,,8104294
+Romania,2022-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16798494,,8104713
+Romania,2022-05-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16799702,,8105132
+Romania,2022-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16800910,,8105551
+Romania,2022-05-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16802118,,8105970
+Romania,2022-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16803326,,8106389
+Romania,2022-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16804534,,8106808
+Romania,2022-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16805742,,8107227
+Romania,2022-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16806950,,8107646
+Romania,2022-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16808158,,8108065
+Romania,2022-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16809366,,8108484
+Romania,2022-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16810574,,8108903
+Romania,2022-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16811782,,8109322
+Romania,2022-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16812990,,8109741
+Romania,2022-05-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16814198,,8110160
+Romania,2022-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16815406,,8110579
+Romania,2022-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16816614,,8110998
+Romania,2022-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16817822,,8111417
+Romania,2022-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16819030,,8111836
+Romania,2022-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16820238,,8112255
+Romania,2022-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16821446,,8112674
+Romania,2022-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16822654,,8113093
+Romania,2022-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16823862,,8113512
+Romania,2022-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16825070,,8113931
+Romania,2022-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16826278,,8114350
+Romania,2022-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://datelazi.ro/,16827486,,8114769
+Romania,2023-12-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://data.who.int/dashboards/covid19/,,8188137,

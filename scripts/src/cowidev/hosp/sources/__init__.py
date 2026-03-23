@@ -1,3 +1,8 @@
+"""Add here processes for individual countries.
+
+All modules should have a main function that returns a dataframe with the data and a metadata dictionary with info
+regarding sources.
+"""
 import pkgutil
 
 

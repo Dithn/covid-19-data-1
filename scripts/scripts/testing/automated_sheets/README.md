@@ -1,0 +1,1 @@
+This directory has been moved to [https://github.com/owid/covid-19-data/tree/master/scripts/output/testing/main_data](https://github.com/owid/covid-19-data/tree/master/scripts/output/testing/main_data)

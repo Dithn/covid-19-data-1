@@ -1,21 +1,74 @@
-location,date,vaccine,total_vaccinations,source_url,people_vaccinated,people_fully_vaccinated,total_boosters
-Madagascar,2021-05-12,Oxford/AstraZeneca,609,https://covid19.who.int/,609,0,
-Madagascar,2021-05-18,Oxford/AstraZeneca,3890,https://covid19.who.int/,3890,0,
-Madagascar,2021-05-21,Oxford/AstraZeneca,13539,https://covid19.who.int/,13539,0,
-Madagascar,2021-05-24,Oxford/AstraZeneca,17258,https://covid19.who.int/,17258,0,
-Madagascar,2021-05-26,Oxford/AstraZeneca,21912,https://covid19.who.int/,21912,0,
-Madagascar,2021-05-31,Oxford/AstraZeneca,36640,https://covid19.who.int/,36640,0,
-Madagascar,2021-06-08,Oxford/AstraZeneca,78539,https://covid19.who.int/,78539,0,
-Madagascar,2021-06-10,Oxford/AstraZeneca,97300,https://covid19.who.int/,97300,0,
-Madagascar,2021-06-14,Oxford/AstraZeneca,136785,https://covid19.who.int/,136785,0,
-Madagascar,2021-06-15,Oxford/AstraZeneca,150329,https://covid19.who.int/,150329,0,
-Madagascar,2021-06-20,Oxford/AstraZeneca,188752,https://covid19.who.int/,188752,0,
-Madagascar,2021-06-24,Oxford/AstraZeneca,196291,https://covid19.who.int/,196291,0,
-Madagascar,2021-06-28,Oxford/AstraZeneca,197001,https://covid19.who.int/,197001,0,
-Madagascar,2021-09-06,Oxford/AstraZeneca,283091,https://covid19.who.int/,,,
-Madagascar,2021-09-20,Oxford/AstraZeneca,381633,https://covid19.who.int/,197001,184632,
-Madagascar,2021-10-20,Oxford/AstraZeneca,566265,https://africacdc.org/covid-19-vaccination/,381633,184632,
-Madagascar,2021-11-18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",606819,https://covid19.who.int/,455028,406159,
-Madagascar,2021-11-22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",625884,https://covid19.who.int/,473726,425211,
-Madagascar,2021-11-29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",685440,https://covid19.who.int/,532674,484570,
-Madagascar,2021-12-06,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",742069,https://covid19.who.int/,589003,541160,
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Madagascar,2021-05-12,Oxford/AstraZeneca,https://covid19.who.int/,609,609,0,
+Madagascar,2021-05-18,Oxford/AstraZeneca,https://covid19.who.int/,3890,3890,0,
+Madagascar,2021-05-21,Oxford/AstraZeneca,https://covid19.who.int/,13539,13539,0,
+Madagascar,2021-05-24,Oxford/AstraZeneca,https://covid19.who.int/,17258,17258,0,
+Madagascar,2021-05-26,Oxford/AstraZeneca,https://covid19.who.int/,21912,21912,0,
+Madagascar,2021-05-31,Oxford/AstraZeneca,https://covid19.who.int/,36640,36640,0,
+Madagascar,2021-06-08,Oxford/AstraZeneca,https://covid19.who.int/,78539,78539,0,
+Madagascar,2021-06-10,Oxford/AstraZeneca,https://covid19.who.int/,97300,97300,0,
+Madagascar,2021-06-14,Oxford/AstraZeneca,https://covid19.who.int/,136785,136785,0,
+Madagascar,2021-06-15,Oxford/AstraZeneca,https://covid19.who.int/,150329,150329,0,
+Madagascar,2021-06-20,Oxford/AstraZeneca,https://covid19.who.int/,188752,188752,0,
+Madagascar,2021-06-24,Oxford/AstraZeneca,https://covid19.who.int/,196291,196291,0,
+Madagascar,2021-06-28,Oxford/AstraZeneca,https://covid19.who.int/,197001,197001,0,
+Madagascar,2021-09-06,Oxford/AstraZeneca,https://covid19.who.int/,283091,,,
+Madagascar,2021-09-20,Oxford/AstraZeneca,https://covid19.who.int/,381633,197001,184632,
+Madagascar,2021-10-20,Oxford/AstraZeneca,https://africacdc.org/covid-19-vaccination/,566265,381633,184632,
+Madagascar,2021-11-18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,606819,455028,406159,
+Madagascar,2021-11-22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,625884,473726,425211,
+Madagascar,2021-11-29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,685440,532674,484570,
+Madagascar,2021-12-06,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,742069,589003,541160,
+Madagascar,2022-01-05,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,971426,817386,767113,
+Madagascar,2022-02-05,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1148971,978718,926543,
+Madagascar,2022-02-15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1185489,1007538,956396,
+Madagascar,2022-02-17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://africacdc.org/covid-19-vaccination/,,,,0
+Madagascar,2022-02-28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1228391,1038325,987960,
+Madagascar,2022-03-07,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1258980,1062980,1012453,
+Madagascar,2022-03-14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1279175,1077971,1027827,
+Madagascar,2022-03-22,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1306962,1098703,1050879,
+Madagascar,2022-03-31,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://africacdc.org/covid-19-vaccination/,,,1050879,
+Madagascar,2022-04-26,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,,1185420,1051811,
+Madagascar,2022-05-08,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,,1290584,1156975,
+Madagascar,2022-05-15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,,1290584,1156975,26792
+Madagascar,2022-05-29,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,,,,43528
+Madagascar,2022-06-05,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,,1290584,1199011,43528
+Madagascar,2022-07-10,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,,1316449,1277798,52244
+Madagascar,2022-07-17,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1596937,1330462,1289181,55708
+Madagascar,2022-07-24,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1610098,1340993,1297671,57964
+Madagascar,2022-08-07,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1666135,1393303,1341878,64402
+Madagascar,2022-08-14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1702913,1441319,1387190,67813
+Madagascar,2022-08-21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1735843,1454997,1398598,70726
+Madagascar,2022-08-28,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1776296,1491857,1432026,74590
+Madagascar,2022-09-04,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1809232,1522375,1460761,76383
+Madagascar,2022-09-18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1871165,1579817,1515383,
+Madagascar,2022-10-02,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1948290,1649391,1582691,
+Madagascar,2022-10-09,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,1999667,1698424,1629830,
+Madagascar,2022-10-16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2017607,1738967,1669079,
+Madagascar,2022-10-23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2069585,1769470,1697871,
+Madagascar,2022-10-30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2069585,1793522,1722381,
+Madagascar,2022-11-06,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2128889,1821317,1750071,
+Madagascar,2022-11-13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2191437,1883726,1810384,
+Madagascar,2022-11-20,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2193427,1885035,1811655,96121
+Madagascar,2022-11-27,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2278137,1964151,1889064,99573
+Madagascar,2022-12-04,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2308343,1992277,1916926,101498
+Madagascar,2022-12-18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2379808,2056662,1981152,108396
+Madagascar,2022-12-25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2426238,2099998,2024371,111274
+Madagascar,2023-01-15,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2514403,2183010,2107097,116188
+Madagascar,2023-02-05,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2575889,2243029,2166840,120325
+Madagascar,2023-02-19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2652348,2313010,2236386,126788
+Madagascar,2023-02-26,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2675087,2331784,2254972,128432
+Madagascar,2023-03-05,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2697574,2352235,2275259,130467
+Madagascar,2023-03-12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2709095,2365901,2288893,130642
+Madagascar,2023-03-19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2752435,2400157,2321826,139523
+Madagascar,2023-03-26,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2787212,2502027,2423671,140832
+Madagascar,2023-04-02,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2820301,2502027,2423671,140832
+Madagascar,2023-04-09,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2853869,,,146073
+Madagascar,2023-04-16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2884140,2519155,2440047,148685
+Madagascar,2023-04-23,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2904180,2537397,2458275,150276
+Madagascar,2023-04-30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2926203,2556731,2477373,152845
+Madagascar,2023-05-07,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2940399,2569590,2489918,154441
+Madagascar,2023-05-21,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,2973152,2580188,2519918,156776
+Madagascar,2023-06-18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,3021300,2643237,2563217,160752
+Madagascar,2023-07-16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,3081827,2700391,2619045,167393
+Madagascar,2023-07-30,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://data.who.int/dashboards/covid19/,3092063,2710365,2628849,169187

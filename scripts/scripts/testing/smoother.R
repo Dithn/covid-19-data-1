@@ -1,19 +1,9 @@
 add_smoothed_series <- function(collated) {
 
-    # Identify gaps of >3 weeks
-    testing_dates <- collated$Date
-    gaps <- testing_dates - lag(testing_dates)
-    to_be_removed_idx <- which(gaps > 31)
-
     # Create empty time series to fill
     start_date <- min(collated$Date)
     end_date <- max(collated$Date)
     date_seq <- seq.Date(from = start_date, to = end_date, by = "day")
-
-    # Remove long gaps
-    for (idx in to_be_removed_idx) {
-        date_seq <- date_seq[!(date_seq > testing_dates[idx-1] & date_seq < testing_dates[idx])]
-    }
 
     time_series <- tibble(
         Country = collated$Country[1],

@@ -1,7 +1,6 @@
 import argparse
 
-
-CHOICES = ["etl", "grapher-file", "grapher-db"]
+CHOICES = ["etl", "grapher-file"]
 
 
 def _parse_args():
@@ -15,8 +14,7 @@ def _parse_args():
         default="etl",
         help=(
             "Choose a step: 1) `etl` to get all data and DS ready file, 2) `grapher-file` to generate"
-            " a grapher-friendly file, 3) `explorer-file` to generate a explorer-friendly file, 4) `grapher-db`"
-            " to update Grapher DB."
+            " a grapher-friendly file, 3) `explorer-file` to generate a explorer-friendly file."
         ),
     )
     args = parser.parse_args()

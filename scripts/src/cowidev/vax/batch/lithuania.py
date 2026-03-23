@@ -1,20 +1,23 @@
 import json
-
+from cowidev.vax.utils.base import CountryVaxBase
 import requests
+
 import pandas as pd
 
-from cowidev.vax.utils.utils import make_monotonic
-from cowidev.utils import paths
 
 
-class Lithuania:
+class Lithuania(CountryVaxBase):
     location: str = "Lithuania"
     source_url_ref: str = "https://experience.arcgis.com/experience/cab84dcfe0464c2a8050a78f817924ca/page/page_3/"
     vaccine_mapping = {
         "AstraZeneca": "Oxford/AstraZeneca",
         "Johnson & Johnson": "Johnson&Johnson",
         "Moderna": "Moderna",
+        "Moderna BA.1": "Moderna",
         "Pfizer-BioNTech": "Pfizer/BioNTech",
+        "Pfizer-BioNTech BA.4-5": "Pfizer/BioNTech",
+        "Pfizer-BioNTech BA.1": "Pfizer/BioNTech",
+        "Novavax": "Novavax",
     }
 
     source_url_coverage: str = "https://services3.arcgis.com/MF53hRPmwfLccHCj/arcgis/rest/services/covid_vaccinations_chart_new/FeatureServer/0/query"
@@ -45,7 +48,8 @@ class Lithuania:
         res = requests.get(url, params=params)
         if res.ok:
             data = [elem["attributes"] for elem in json.loads(res.content)["features"]]
-            return pd.DataFrame.from_records(data)
+            df = pd.DataFrame.from_records(data)
+            return df
         raise ValueError("Source not valid/available!")
 
     def pipe_parse_dates(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -53,6 +57,10 @@ class Lithuania:
         return df
 
     def pipe_clean_doses(self, df: pd.DataFrame) -> pd.DataFrame:
+        known_vaccines = set(self.vaccine_mapping) | {"visos"}
+        vax_wrong = set(df.vaccine_name).difference(known_vaccines)
+        if vax_wrong:
+            raise ValueError(f"Some unknown vaccines were found {vax_wrong}")
         self.vaccine_start_dates = (
             df[(df.vaccines_used_cum > 0) & (df.vaccine_name != "visos")]
             .replace(self.vaccine_mapping)
@@ -67,6 +75,7 @@ class Lithuania:
         )
 
     def pipe_clean_coverage(self, df: pd.DataFrame) -> pd.DataFrame:
+        assert set(df.vaccination_state) == {"00visos", "03pakartotinai", "02pilnai"}
         df = (
             df.pivot(index="date", columns="vaccination_state", values="all_cum")
             .reset_index()
@@ -112,9 +121,9 @@ class Lithuania:
             pd.merge(coverage, doses, how="inner", on="date")
             .pipe(self.pipe_add_vaccines)
             .pipe(self.pipe_metadata)
-            .pipe(make_monotonic, max_removed_rows=20)
+            .pipe(self.make_monotonic, max_removed_rows=20)
         )
-        df.to_csv(paths.out_vax(self.location), index=False)
+        self.export_datafile(df)
 
 
 def main():

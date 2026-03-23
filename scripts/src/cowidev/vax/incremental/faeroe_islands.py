@@ -16,9 +16,10 @@ class FaeroeIslands:
         return pd.DataFrame.from_records(data).iloc[0]
 
     def pipe_metrics(self, ds: pd.Series) -> pd.Series:
-        ds = enrich_data(ds, "people_vaccinated", clean_count(ds["first_vaccine_number"]))
-        ds = enrich_data(ds, "people_fully_vaccinated", clean_count(ds["second_vaccine_number"]))
-        total_vaccinations = ds["people_vaccinated"] + ds["people_fully_vaccinated"]
+        ds = enrich_data(ds, "people_vaccinated", clean_count(ds["first_vaccine_total"]))
+        ds = enrich_data(ds, "people_fully_vaccinated", clean_count(ds["second_vaccine_total"]))
+        ds = enrich_data(ds, "total_boosters", clean_count(ds["third_vaccine_toal"]))
+        total_vaccinations = ds["people_vaccinated"] + ds["people_fully_vaccinated"] + ds["total_boosters"]
         return enrich_data(ds, "total_vaccinations", total_vaccinations)
 
     def pipe_format_date(self, ds: pd.Series) -> pd.Series:
@@ -50,6 +51,7 @@ class FaeroeIslands:
             total_vaccinations=int(data["total_vaccinations"]),
             people_vaccinated=int(data["people_vaccinated"]),
             people_fully_vaccinated=int(data["people_fully_vaccinated"]),
+            total_boosters=int(data["total_boosters"]),
             date=str(data["date"]),
             source_url=str(data["source_url"]),
             vaccine=str(data["vaccine"]),
@@ -58,7 +60,3 @@ class FaeroeIslands:
 
 def main():
     FaeroeIslands().export()
-
-
-if __name__ == "__main__":
-    main()

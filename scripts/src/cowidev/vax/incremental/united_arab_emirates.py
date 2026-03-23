@@ -104,6 +104,7 @@ class UnitedArabEmirates:
             date=data["date"],
             source_url=data["source_url"],
             vaccine=data["vaccine"],
+            make_series_monotonic=True,
         )
 
 

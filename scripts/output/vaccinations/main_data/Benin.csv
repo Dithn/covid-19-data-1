@@ -1,20 +1,44 @@
-location,date,vaccine,total_vaccinations,source_url,people_vaccinated,people_fully_vaccinated
-Benin,2021-05-12,"Oxford/AstraZeneca, Sinovac",10683,https://covid19.who.int/,10683,0
-Benin,2021-05-21,"Oxford/AstraZeneca, Sinovac",12934,https://covid19.who.int/,12516,418
-Benin,2021-06-08,"Oxford/AstraZeneca, Sinovac",26624,https://covid19.who.int/,21834,4790
-Benin,2021-06-28,"Oxford/AstraZeneca, Sinovac",46108,https://covid19.who.int/,36188,9920
-Benin,2021-07-12,"Oxford/AstraZeneca, Sinovac",52563,https://covid19.who.int/,40270,12293
-Benin,2021-07-24,"Oxford/AstraZeneca, Sinovac",57886,https://covid19.who.int/,43377,14509
-Benin,2021-08-03,"Oxford/AstraZeneca, Sinovac",70323,https://covid19.who.int/,48918,21405
-Benin,2021-08-16,"Oxford/AstraZeneca, Sinovac",72999,https://covid19.who.int/,50751,
-Benin,2021-08-25,"Oxford/AstraZeneca, Sinovac",117984,https://africacdc.org/covid-19-vaccination/,,
-Benin,2021-09-01,"Oxford/AstraZeneca, Sinovac",141738,https://africacdc.org/covid-19-vaccination/,120333,
-Benin,2021-09-09,"Oxford/AstraZeneca, Sinovac",174074,https://africacdc.org/covid-19-vaccination/,152669,
-Benin,2021-09-15,"Oxford/AstraZeneca, Sinovac",174104,https://africacdc.org/covid-19-vaccination/,152699,
-Benin,2021-10-12,"Oxford/AstraZeneca, Sinovac",252698,https://covid19.who.int/,216527,186951
-Benin,2021-10-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",277614,https://covid19.who.int/,238775,207440
-Benin,2021-11-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",310321,https://covid19.who.int/,269540,234686
-Benin,2021-11-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",347270,https://covid19.who.int/,304596,265501
-Benin,2021-11-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",383501,https://covid19.who.int/,339452,297726
-Benin,2021-11-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",827261,https://covid19.who.int/,774881,652351
-Benin,2021-12-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",1144390,https://covid19.who.int/,1087430,877113
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Benin,2021-05-12,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,10683,10683,0,
+Benin,2021-05-21,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,12934,12516,418,
+Benin,2021-06-08,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,26624,21834,4790,
+Benin,2021-06-28,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,46108,36188,9920,
+Benin,2021-07-12,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,52563,40270,12293,
+Benin,2021-07-24,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,57886,43377,14509,
+Benin,2021-08-03,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,70323,48918,21405,
+Benin,2021-08-16,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,72999,50751,,
+Benin,2021-08-25,"Oxford/AstraZeneca, Sinovac",https://africacdc.org/covid-19-vaccination/,117984,,,
+Benin,2021-09-01,"Oxford/AstraZeneca, Sinovac",https://africacdc.org/covid-19-vaccination/,141738,120333,,
+Benin,2021-09-09,"Oxford/AstraZeneca, Sinovac",https://africacdc.org/covid-19-vaccination/,174074,152669,,
+Benin,2021-09-15,"Oxford/AstraZeneca, Sinovac",https://africacdc.org/covid-19-vaccination/,174104,152699,,
+Benin,2021-10-12,"Oxford/AstraZeneca, Sinovac",https://covid19.who.int/,252698,216527,186951,
+Benin,2021-10-28,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,277614,238775,207440,
+Benin,2021-11-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,310321,269540,234686,
+Benin,2021-11-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,347270,304596,265501,
+Benin,2021-11-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,383501,339452,297726,
+Benin,2021-11-30,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,827261,774881,652351,
+Benin,2021-12-09,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,1144390,1087430,877113,
+Benin,2021-12-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,1425408,1363471,1062378,
+Benin,2021-12-21,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,1628352,1561336,1199635,
+Benin,2021-12-27,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,1773592,1699784,1319264,
+Benin,2022-01-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,1897214,1815764,1421442,
+Benin,2022-01-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,2138322,2039793,1625516,
+Benin,2022-02-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,2391396,2269942,1767745,
+Benin,2022-02-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://africacdc.org/covid-19-vaccination/,,,,0
+Benin,2022-02-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,2788620,2591583,2013843,
+Benin,2022-03-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3060435,2777245,2214327,
+Benin,2022-04-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3112919,3065188,2520562,
+Benin,2022-04-26,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3333450,3152148,2619609,
+Benin,2022-05-01,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3333450,3154360,2621821,
+Benin,2022-05-08,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3333450,3157864,2625325,
+Benin,2022-05-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3619590,3160654,2628115,
+Benin,2022-06-19,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3681560,3174135,,
+Benin,2022-07-03,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3681560,3174135,,0
+Benin,2022-08-07,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3681560,3190518,,
+Benin,2022-08-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3685113,3201065,2684742,
+Benin,2022-09-04,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3687739,,,
+Benin,2022-09-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3690703,3205878,2689382,
+Benin,2022-10-02,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3692096,3207032,2690517,
+Benin,2022-10-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3693045,3207889,2691413,
+Benin,2022-11-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,3694544,3209393,2692837,
+Benin,2022-12-18,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://data.who.int/dashboards/covid19/,4232541,3697190,2742837,

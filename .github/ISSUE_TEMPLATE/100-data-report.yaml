@@ -1,0 +1,45 @@
+name: New data source 📄
+description: >-
+  Use this issue to report new data sources for a location or metric.
+title: "data: "
+labels: ["report"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing! Before doing so, please check our [contribution guideline](https://docs.owid.io/projects/covid/en/latest/contribute.html)."
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: "Which location is the data source for?"
+      placeholder: "Afghanistan"
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain
+      description: Which domain is the data from?
+      options:
+        - Vaccinations
+        - Testing
+        - Hospital & ICU
+        - Excess mortality
+        - Variants
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Please add the source URL. 
+    validations:
+      required: true
+  - type: textarea
+    id: commnent
+    attributes:
+      label: Comments
+      description: Comments and caveats about the source.
+      placeholder: |
+        E.g. The source updates the data on a daily basis. Potentially, the data extraction could be automated.

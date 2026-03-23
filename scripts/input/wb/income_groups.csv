@@ -18,7 +18,7 @@ Bangladesh,BGD,Lower middle income,2020
 Barbados,BRB,High income,2020
 Belarus,BLR,Upper middle income,2020
 Belgium,BEL,High income,2020
-Belize,BLZ,Lower middle income,2020
+Belize,BLZ,Upper middle income,2020
 Benin,BEN,Lower middle income,2020
 Bermuda,BMU,High income,2020
 Bhutan,BTN,Lower middle income,2020
@@ -109,7 +109,7 @@ Kuwait,KWT,High income,2020
 Kyrgyzstan,KGZ,Lower middle income,2020
 Laos,LAO,Lower middle income,2020
 Latvia,LVA,High income,2020
-Lebanon,LBN,Upper middle income,2020
+Lebanon,LBN,Lower middle income,2020
 Lesotho,LSO,Lower middle income,2020
 Liberia,LBR,Low income,2020
 Libya,LBY,Upper middle income,2020
@@ -149,8 +149,8 @@ Northern Mariana Islands,MNP,High income,2020
 Norway,NOR,High income,2020
 Oman,OMN,High income,2020
 Pakistan,PAK,Lower middle income,2020
-Palau,PLW,High income,2020
-Panama,PAN,Upper middle income,2020
+Palau,PLW,Upper middle income,2020
+Panama,PAN,High income,2020
 Papua New Guinea,PNG,Lower middle income,2020
 Paraguay,PRY,Upper middle income,2020
 Peru,PER,Upper middle income,2020
@@ -159,7 +159,7 @@ Poland,POL,High income,2020
 Portugal,PRT,High income,2020
 Puerto Rico,PRI,High income,2020
 Qatar,QAT,High income,2020
-Romania,ROU,Upper middle income,2020
+Romania,ROU,High income,2020
 Russia,RUS,Upper middle income,2020
 Rwanda,RWA,Low income,2020
 Samoa,WSM,Lower middle income,2020
@@ -215,5 +215,5 @@ Vietnam,VNM,Lower middle income,2020
 United States Virgin Islands,VIR,High income,2020
 Palestine,PSE,Lower middle income,2020
 Yemen,YEM,Low income,2020
-Zambia,ZMB,Lower middle income,2020
+Zambia,ZMB,Low income,2020
 Zimbabwe,ZWE,Lower middle income,2020

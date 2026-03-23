@@ -13,7 +13,7 @@ class CostaRica:
     source_url: str = "https://www.ccss.sa.cr/web/coronavirus/vacunacion"
 
     def read(self) -> pd.Series:
-        soup = get_soup(self.source_url)
+        soup = get_soup(self.source_url, use_proxy=True)
         return self._parse_data(soup)
 
     def _parse_data(self, soup: BeautifulSoup) -> pd.Series:

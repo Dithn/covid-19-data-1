@@ -2,7 +2,6 @@ location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_ful
 Uganda,2021-03-09,Oxford/AstraZeneca,https://www.theeastafrican.co.ke/tea/science-health/uganda-starts-covid-19-vaccination-3318966,0,0,,
 Uganda,2021-03-12,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1370986251768057858,1015,1015,,
 Uganda,2021-03-13,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1371109215234883585,1215,1215,,
-Uganda,2021-03-14,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1371519873495498753,1215,1215,,
 Uganda,2021-03-15,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1371872716467363842,2841,2841,,
 Uganda,2021-03-16,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1372222013985730565,4684,4684,,
 Uganda,2021-03-17,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1372611219761344512,7920,7920,,
@@ -14,7 +13,6 @@ Uganda,2021-03-22,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/13
 Uganda,2021-03-23,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1375003565761171456,32526,32526,,
 Uganda,2021-03-24,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1375395333790896131,46444,46444,,
 Uganda,2021-03-25,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1375813107658932226,46664,46664,,
-Uganda,2021-03-26,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1376244078506020866,46664,46664,,
 Uganda,2021-03-27,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1376391640890417153,60139,60139,,
 Uganda,2021-03-28,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1376829651394387974,69701,69701,,
 Uganda,2021-03-29,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1377162131599097858,80836,80836,,
@@ -73,7 +71,6 @@ Uganda,2021-06-13,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/14
 Uganda,2021-06-14,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1405142446766538752,806129,,,
 Uganda,2021-06-15,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1405565449656541187,812118,,,
 Uganda,2021-06-16,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1405877584370483203,821659,,,
-Uganda,2021-06-17,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1406231643132735496,821659,,,
 Uganda,2021-06-19,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1407030890711158784,831146,,,
 Uganda,2021-06-20,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1407345901308461060,834271,,,
 Uganda,2021-06-22,Oxford/AstraZeneca,https://twitter.com/MinofHealthUG/status/1408076873696006145,841629,,,
@@ -107,3 +104,38 @@ Uganda,2021-10-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech
 Uganda,2021-11-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://africacdc.org/covid-19-vaccination/,3604659,3189173,415486,
 Uganda,2021-11-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://africacdc.org/covid-19-vaccination/,3898698,3483212,415486,
 Uganda,2021-11-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,4751422,3838439,912983,
+Uganda,2021-12-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,7813170,6525371,1287799,
+Uganda,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,9763030,8354808,1408222,
+Uganda,2022-01-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://twitter.com/MinofHealthUG/status/1479807103770443779,12085428,,,
+Uganda,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,12220106,10410479,1809627,
+Uganda,2022-01-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,12599741,10669724,1930017,
+Uganda,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,12911692,10896664,2015028,
+Uganda,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,14973293,12742231,,
+Uganda,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,16254268,13531724,2706785,
+Uganda,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,16672943,13809794,,
+Uganda,2022-03-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,17060289,14054059,2985472,
+Uganda,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,17197954,14131307,8014082,23898
+Uganda,2022-03-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,17605945,14247523,8014082,29385
+Uganda,2022-04-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,19399787,,10127207,52031
+Uganda,2022-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,19643808,,10235247,54546
+Uganda,2022-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,20223978,15208403,10250742,54546
+Uganda,2022-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,20899440,15686085,10568519,
+Uganda,2022-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,20899440,15746111,10643058,
+Uganda,2022-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,21044430,15753703,10663135,54546
+Uganda,2022-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,21268120,15896844,10790397,74990
+Uganda,2022-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,21490654,16032667,10966811,78309
+Uganda,2022-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,21756456,16226827,11144005,82919
+Uganda,2022-07-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,22965496,16960947,11647306,188743
+Uganda,2022-07-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,23972170,17616836,12029925,309502
+Uganda,2022-07-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,24655406,18081463,12280315,361585
+Uganda,2022-08-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,24859885,18203390,12434786,378659
+Uganda,2022-08-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,25078754,18339496,12527180,391233
+Uganda,2022-09-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,25120036,18386089,12560355,398627
+Uganda,2022-09-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,25273890,18483027,12668841,
+Uganda,2022-09-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,25400085,18582783,12704592,431349
+Uganda,2022-10-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,25783131,18867075,12765601,431349
+Uganda,2022-11-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,26244519,18867075,12950873,431349
+Uganda,2022-12-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,26299538,18867075,12961901,453508
+Uganda,2023-01-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,26299538,19488104,13023635,542628
+Uganda,2023-03-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://covid19.who.int/,26406936,19488104,13043107,745313
+Uganda,2023-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://data.who.int/dashboards/covid19/,26406936,20033189,13061126,764664

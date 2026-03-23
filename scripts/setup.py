@@ -1,9 +1,9 @@
 """setup script."""
 
 
-from setuptools import setup, find_packages
 import os
 
+from setuptools import find_packages, setup
 
 this_directory = os.path.abspath(os.path.dirname(__file__))
 # with open(os.path.join(this_directory, "README.md")) as f:
@@ -11,19 +11,20 @@ this_directory = os.path.abspath(os.path.dirname(__file__))
 
 with open(os.path.join(this_directory, "requirements.txt")) as f:
     requirements = f.readlines()
-
+with open(os.path.join(this_directory, "requirements-docs.txt")) as f:
+    requirements_docs = f.readlines()
 
 setup(
     name="cowidev",
     version="0.0.1.dev0",
     description="Update tools for OWID COVID dataset.",
-    #long_description=long_description,
+    # long_description=long_description,
     long_description_content_type="text/markdown",
     author="Our World in Data",
     author_email="info@ourworldindata.org",
     license="MIT",
     install_requires=requirements,
-    packages=find_packages('src'),
+    packages=find_packages("src"),
     package_dir={"": "src"},
     # py_modules=[
     #     os.path.splitext(os.path.basename(path))[0] for path in glob.glob("scripts/cowidev/*.py")
@@ -31,6 +32,7 @@ setup(
     # py_modules=[
     #     os.path.splitext(os.path.basename(path))[0] for path in glob.glob("scripts/*.py")
     # ],
+    url="http://github.com/owid/covid-19-data",
     include_package_data=True,
     zip_safe=False,
     classifiers=[
@@ -50,9 +52,8 @@ setup(
     python_requires=">=3.7",
     entry_points={
         "console_scripts": [
-            "cowidev-grapher-db=cowidev.grapher.db.__main__:main",
-            "cowid-vax=cowidev.vax.cmd.__main__:main",
-            "cowid-vax-track=cowidev.vax.tracking.__main__:main",
+            "cowid=cowidev.cmd.__main__:cli",
         ]
     },
+    extras_require={"docs": requirements_docs},
 )

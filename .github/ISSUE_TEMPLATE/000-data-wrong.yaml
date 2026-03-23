@@ -1,0 +1,51 @@
+name: Missing or inaccurate data 📊
+description: >-
+  Use this issue to report potentially missing or inaccurate data.
+title: "data: "
+labels: ["report"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing! Before doing so, please check our [contribution guideline](https://docs.owid.io/projects/covid/en/latest/contribute.html)."
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: "Which country or location does this apply to?"
+      placeholder: "Afghanistan"
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Domain
+      description: Which domain is the data from?
+      options:
+        - Vaccinations
+        - Testing
+        - Hospital & ICU
+        - Cases
+        - Deaths
+        - Excess mortality
+        - Variants
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: Which data is inaccurate or missing?
+      description: Please state which metrics and dates might have missing or wrong data.
+      placeholder: |
+        The value of total_vaccinations for this country on 2022-01-10 does not seem right.
+    validations:
+      required: true
+  - type: textarea
+    id: wrong-why
+    attributes:
+      label: Why do you think the data is inaccurate or missing?
+      description: Please elaborate on why you think the data is missing or inaccurate.
+      placeholder: |
+        Considering the number of people that have received one dose, two doses and boosters…
+    validations:
+      required: true

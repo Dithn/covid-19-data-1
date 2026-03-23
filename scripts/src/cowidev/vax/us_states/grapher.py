@@ -1,6 +1,6 @@
 from datetime import datetime
 
-from cowidev.grapher.files import Grapheriser, Exploriser
+from cowidev.grapher.files import Exploriser, Grapheriser
 
 
 def run_grapheriser(input_path: str, output_path: str):
@@ -12,7 +12,3 @@ def run_grapheriser(input_path: str, output_path: str):
 
 def run_explorerizer(input_path: str, output_path: str):
     raise NotImplementedError("Not implemented")
-
-
-def run_db_updater(input_path: str):
-    raise NotImplementedError("Not yet implemented")

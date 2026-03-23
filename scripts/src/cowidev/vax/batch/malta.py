@@ -1,26 +1,39 @@
+from cowidev.vax.utils.base import CountryVaxBase
 import pandas as pd
 
 from cowidev.utils.clean import clean_date_series
-from cowidev.vax.utils.utils import make_monotonic
-from cowidev.utils import paths
+from cowidev.utils.utils import check_known_columns
 
 
-class Malta:
+class Malta(CountryVaxBase):
     location: str = "Malta"
     source_url: str = (
         "https://github.com/COVID19-Malta/COVID19-Cases/raw/master/COVID-19%20Malta%20-%20Vaccination%20Data.csv"
     )
     source_url_ref: str = "https://github.com/COVID19-Malta/COVID19-Cases"
     columns_rename: dict = {
-        "Date": "date",
+        "Covering Dates & Week": "_",
+        "Date of Vaccination": "date",
         "Total Vaccination Doses": "total_vaccinations",
-        "Fully vaccinated (2 of 2 or 1 of 1)": "people_fully_vaccinated",
-        "Received one dose (1 of 2 or 1 of 1)": "people_vaccinated",
+        "Primary Vaccination": "people_fully_vaccinated",
+        "Received one dose": "people_vaccinated",
         "Total Booster doses": "total_boosters",
+        "Total 2nd Booster doses": "total_boosters_2",
+        "Total Omicron booster doses": "total_boosters_omicron",
+        "Omicron booster doses": "_",
+        "Adapted Omicron XBB.1.5 booster doses administered last week": 1,
+        "Total Adapted Omicron XBB.1.5 booster administered": "total_boosters_omicron_xbb15",
     }
 
     def read(self) -> pd.DataFrame:
-        return pd.read_csv(self.source_url)
+        df = pd.read_csv(self.source_url, na_values="na")
+        # Temporal fix
+        df.columns = [col.replace("\ufeff", "") for col in df.columns]
+        check_known_columns(
+            df,
+            list(self.columns_rename.keys()),
+        )
+        return df
 
     def pipe_check_columns(self, df: pd.DataFrame) -> pd.DataFrame:
         columns_wrong = set(df.columns).difference(self.columns_rename)
@@ -36,6 +49,7 @@ class Malta:
             (df.people_fully_vaccinated == 0) | df.people_fully_vaccinated.isnull(),
             "people_vaccinated",
         ] = df.total_vaccinations
+        df = df.assign(total_boosters=df["total_boosters"] + df["total_boosters_2"] + df["total_boosters_omicron"] + df["total_boosters_omicron_xbb15"])
         return df
 
     def pipe_date(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -77,13 +91,12 @@ class Malta:
             .pipe(self.pipe_metadata)
             .pipe(self.pipe_vaccine)
             .pipe(self.pipe_exclude_data_points)
-            .pipe(make_monotonic)
+            .pipe(self.make_monotonic)
         )
 
     def export(self):
         df = self.read().pipe(self.pipeline)
-        destination = paths.out_vax(self.location)
-        df.to_csv(destination, index=False)
+        self.export_datafile(df, valid_cols_only=True)
 
 
 def main():

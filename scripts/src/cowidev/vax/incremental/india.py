@@ -19,8 +19,7 @@ class India:
         return {
             "mohfw": "https://www.mygov.in/sites/default/files/covid/vaccine/vaccine_counts_today.json",
             "cowin": (
-                "https://api.cowin.gov.in/api/v1/reports/v2/getPublicReports?state_id=&district_id=&date="
-                f"{self.date_str}"
+                f"https://api.cowin.gov.in/api/v1/reports/v2/getPublicReports?state_id=&district_id=&date={self.date_str}"
             ),
         }
 
@@ -38,6 +37,7 @@ class India:
         people_vaccinated = data["tot_dose_1"]
         people_fully_vaccinated = data["tot_dose_2"]
         total_vaccinations = data["total"]
+        total_boosters = data["tot_pd"]
 
         return pd.Series(
             {
@@ -45,6 +45,7 @@ class India:
                 "people_vaccinated": people_vaccinated,
                 "people_fully_vaccinated": people_fully_vaccinated,
                 "total_vaccinations": total_vaccinations,
+                "total_boosters": total_boosters,
             }
         )
 
@@ -52,6 +53,7 @@ class India:
         people_vaccinated = json_data["india_dose1"]
         people_fully_vaccinated = json_data["india_dose2"]
         total_vaccinations = json_data["india_total_doses"]
+        total_boosters = json_data["precaution_dose"]
         date = json_data["day"]
 
         return pd.Series(
@@ -60,6 +62,7 @@ class India:
                 "people_vaccinated": people_vaccinated,
                 "people_fully_vaccinated": people_fully_vaccinated,
                 "total_vaccinations": total_vaccinations,
+                "total_boosters": total_boosters,
             }
         )
 
@@ -71,7 +74,7 @@ class India:
         return enrich_data(ds, "location", self.location)
 
     def pipe_vaccine(self, ds: pd.Series) -> pd.Series:
-        return enrich_data(ds, "vaccine", "Covaxin, Oxford/AstraZeneca, Sputnik V")
+        return enrich_data(ds, "vaccine", "Corbevax, Covaxin, Novavax, Oxford/AstraZeneca, Sputnik V")
 
     def pipe_source(self, ds: pd.Series) -> pd.Series:
         return enrich_data(ds, "source_url", self.source_url_ref[self.source_name])
@@ -86,6 +89,7 @@ class India:
             total_vaccinations=data["total_vaccinations"],
             people_vaccinated=data["people_vaccinated"],
             people_fully_vaccinated=data["people_fully_vaccinated"],
+            total_boosters=data["total_boosters"],
             date=data["date"],
             source_url=data["source_url"],
             vaccine=data["vaccine"],

@@ -1,7 +1,6 @@
 import argparse
 
-
-CHOICES = ["etl", "grapher-file", "explorer-file", "grapher-db"]
+CHOICES = ["etl", "grapher-file", "explorer-file"]
 
 
 def _parse_args():
@@ -15,8 +14,22 @@ def _parse_args():
         default="etl",
         help=(
             "Choose a step: 1) `etl` to get all data and DS ready file, 2) `grapher-file` to generate"
-            " a grapher-friendly file, 3) `explorer-file` to generate a explorer-friendly file, 4) `grapher-db`"
-            " to update Grapher DB."
+            " a grapher-friendly file, 3) `explorer-file` to generate a explorer-friendly file."
+        ),
+    )
+    parser.add_argument(
+        "-p",
+        "--monothread",
+        action="store_true",
+        help="Execution done in monothread. Otherwise, it is parallelized.",
+    )
+    parser.add_argument(
+        "-j",
+        "--njobs",
+        default=-2,
+        help=(
+            "Number of jobs for parallel processing. Check Parallel class in joblib library for more info  (only in "
+            "mode get-data)."
         ),
     )
     args = parser.parse_args()

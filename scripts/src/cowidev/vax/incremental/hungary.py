@@ -5,11 +5,11 @@ import pandas as pd
 
 from cowidev.utils.clean import clean_count, clean_string, extract_clean_date
 from cowidev.utils.web.scraping import get_soup
-from cowidev.vax.utils.incremental import merge_with_current_data
-from cowidev.utils import paths
+from cowidev.vax.utils.base import CountryVaxBase
+from cowidev.vax.utils.utils import add_latest_who_values
 
 
-class Hungary:
+class Hungary(CountryVaxBase):
     def __init__(self):
         self.source_url = "https://koronavirus.gov.hu"
         self.location = "Hungary"
@@ -17,9 +17,8 @@ class Hungary:
         self.regex = {
             "title": r"\d+ [millió]+ \d+ [ezer]+ a beoltott, [\d\s]+ az új fertőzött",
             "metrics": (
-                r"A beoltottak száma ([\d\s]+)(?: fő)?, közülük +([\d\s]+) fő már a második oltását is megkapta,"
-                r" ([\d\s(millió)(ezren)]+)"
-                r" (fő )?pedig már a harmadik oltást is felvették"
+                r"A beoltottak száma ([\d\s]+) fő, közülük ([\d\s]+) fő a második, ([\d\s]+) fő (?:a|már) harmadik"
+                r"(?:, ([\d\s]+) fő már ?a negyedik)? oltását is felvette"
             ),
         }
 
@@ -37,7 +36,6 @@ class Hungary:
 
     def parse_data(self, soup: BeautifulSoup, last_update: str) -> tuple:
         elems = self.get_elements(soup)
-        # print(elems)
         records = []
         for elem in elems:
             # print(elem)
@@ -77,19 +75,22 @@ class Hungary:
 
         people_vaccinated = clean_count(match.group(1))
         people_fully_vaccinated = clean_count(match.group(2))
-        total_boosters = clean_count(match.group(3))
+        total_boosters = clean_count(match.group(3)) + clean_count(match.group(4))
+
+        date = extract_clean_date(
+            soup.find("p").text,
+            regex=r"(202\d. .* \d+.) - .*",
+            date_format="%Y. %B %d.",
+            # loc="hu_HU.UTF-8",
+            lang="hu",
+            minus_days=1,
+        )
 
         return {
             "people_vaccinated": people_vaccinated,
             "people_fully_vaccinated": people_fully_vaccinated,
             "total_boosters": total_boosters,
-            "date": extract_clean_date(
-                soup.find("p").text,
-                regex="(202\d. .* \d+.) - .*",
-                date_format="%Y. %B %d.",
-                loc="hu_HU.UTF-8",
-                minus_days=1,
-            ),
+            "date": date,
         }
 
     def parse_link(self, elem):
@@ -131,19 +132,17 @@ class Hungary:
 
     def export(self):
         """Generalized."""
-        output_file = paths.out_vax(self.location)
-        last_update = pd.read_csv(output_file).date.max()
+        last_update = self.load_datafile().date.max()
         df = self.read(last_update)
         if not df.empty and "people_vaccinated" in df.columns:
             df = df.pipe(self.pipeline)
-            df = merge_with_current_data(df, output_file)
             df = df.pipe(self.pipe_drop_duplicates)
-            df.to_csv(output_file, index=False)
+            self.export_datafile(df, attach=True)
+        # Add WHO (WHO reportings are not consistent with Hungarian's latest ones)
+        # df = self.load_datafile()
+        # df = add_latest_who_values(df, "Hungary", ["total_vaccinations"])
+        # self.export_datafile(df)
 
 
 def main():
     Hungary().export()
-
-
-if __name__ == "__main__":
-    main()

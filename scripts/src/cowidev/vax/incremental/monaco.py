@@ -6,22 +6,20 @@ import pandas as pd
 
 from cowidev.utils.clean import clean_count, clean_date
 from cowidev.utils.web.scraping import get_soup
-from cowidev.vax.utils.incremental import merge_with_current_data
-from cowidev.utils import paths
+from cowidev.vax.utils.base import CountryVaxBase
 
 
-class Monaco:
-    def __init__(self, source_url: str, location: str):
-        self.source_url = source_url
-        self.location = location
-        self._num_max_pages = 5
-        self._base_url = "https://www.gouv.mc"
-        self.regex = {
-            "title": r"Covid-19 : .*",
-            "people_vaccinated": r"Nombre de personnes vaccinées en primo injection\s:\s([\d\.]+)",
-            "people_fully_vaccinated": r"Nombre de personnes ayant reçu l’injection de rappel\s:\s([\d\.]+)",
-            "date": r"voici les chiffres arrêtés au (\d+ \w+) inclus",
-        }
+class Monaco(CountryVaxBase):
+    source_url = "https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites/"
+    location = "Monaco"
+    _num_max_pages = 5
+    _base_url = "https://www.gouv.mc"
+    regex = {
+        "title": r"Covid-19 : .*",
+        "people_vaccinated": r"Nombre de personnes vaccinées en primo injection\s:\s([\d\.]+)",
+        "people_fully_vaccinated": r"Nombre de personnes ayant reçu l’injection de rappel\s:\s([\d\.]+)",
+        "date": r"voici les chiffres arrêtés au (\d+ \w+) inclus",
+    }
 
     def read(self, last_update: str) -> pd.DataFrame:
         data = []
@@ -76,7 +74,7 @@ class Monaco:
 
     def parse_date(self, elem):
         date_raw = elem.parent.find(class_="date").text
-        return clean_date(date_raw, "%d %B %Y", minus_days=1, loc="fr_FR")
+        return clean_date(date_raw, "%d %B %Y", minus_days=1, lang="fr")
 
     def parse_link(self, elem):
         href = elem.a.get("href")
@@ -128,24 +126,15 @@ class Monaco:
             .sort_values(by="date")
         )
 
-    def to_csv(self):
+    def export(self):
         """Generalized."""
-        output_file = paths.out_vax(self.location)
-        last_update = pd.read_csv(output_file).date.max()
+        last_update = self.load_datafile().date.max()
         df = self.read(last_update)
         if not df.empty and "people_vaccinated" in df.columns:
             df = df.pipe(self.pipeline)
-            df = merge_with_current_data(df, output_file)
             df = df.pipe(self.pipe_drop_duplicates)
-            df.to_csv(output_file, index=False)
+            self.export_datafile(df, attach=True)
 
 
 def main():
-    Monaco(
-        source_url="https://www.gouv.mc/Action-Gouvernementale/Coronavirus-Covid-19/Actualites/",
-        location="Monaco",
-    ).to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Monaco().export()

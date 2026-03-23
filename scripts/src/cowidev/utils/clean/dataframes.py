@@ -5,7 +5,10 @@ from cowidev.utils.clean.strings import clean_string
 
 def clean_column_name(colname: str):
     """Clean column name."""
-    colname_new = clean_string(colname)
+    if pd.isnull(colname):
+        colname_new = ""
+    else:
+        colname_new = clean_string(colname)
     if "Unnamed:" in colname_new:
         colname_new = ""
     return colname_new

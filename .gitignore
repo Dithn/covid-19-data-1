@@ -3,6 +3,7 @@
 .vscode
 env/
 venv/
+venv1/
 __pycache__/
 .ipynb_checkpoints/
 tmp/
@@ -44,9 +45,33 @@ scripts/scripts/testing/automated_sheets_new
 scripts/scripts/*.ipynb
 scripts/notebooks/Untitled*.ipynb
 scripts/notebooks/readme.ipynb
+scripts/subnational_cases_deaths.zip
+scripts/*.ipynb
+scripts/notebooks/
+scripts/scripts/testing/automations/incremental/Untitled.ipynb
+Untitled*.ipynb
+iso-numeric.ipynb
+scripts/scripts/schedule.yaml
+who-owid-missmatch.ipynb
+scripts/config.yaml
+.gitignore
 
 # Misc (Cam)
 misc/
 scripts/build
 .Rproj.user
 covid-19-data.Rproj
+gitsize.sh
+
+# local files
+public/data/variants/
+scripts/scripts/testing/auto_quick_collect.sh
+
+# secrets
+secrets.yaml
+
+# docs
+scripts/docs/_build/
+scripts/docs/cowidev/api/
+
+.env*

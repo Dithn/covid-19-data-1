@@ -1,35 +1,51 @@
+import re
+
 import pandas as pd
 
-from cowidev.utils.clean import extract_clean_date, clean_count
+from cowidev.utils.clean import extract_clean_date, clean_column_name
 from cowidev.utils.web.scraping import get_soup
 from cowidev.vax.utils.incremental import enrich_data, increment
 
 
 class Guernsey:
-    def __init__(self, source_url: str, location: str):
-        self.source_url = source_url
-        self.location = location
-        self._regex_date = r"This page was last updated on (\d{1,2} [A-Za-z]+ 202\d)"
+    source_url = "https://covid19.gov.gg/guidance/vaccine/stats"
+    location = "Guernsey"
+    _regex_date = r"This page was last updated on (\d{1,2} [A-Za-z]+ 202\d)"
 
     def read(self) -> pd.Series:
         soup = get_soup(self.source_url)
-        return self.parse_data(soup)
+        df = self.parse_data(soup)
+        # print(df)
+        return df
 
     def parse_data(self, soup):
-        # Get table
+        # print(soup)
+        # Date
+        data = {
+            "date": extract_clean_date(
+                soup.find("div", class_="ace-notice-paragraph").text, self._regex_date, "%d %B %Y"
+            ),
+        }
+        # Get tables
         tables = soup.find_all("table")
+        # Table 1
         ds = pd.read_html(str(tables[0]))[0].squeeze()
-        # Rename, add/remove columns
-        return pd.Series(
-            {
-                "date": extract_clean_date(
-                    text=str(soup.text), regex=self._regex_date, date_format="%d %B %Y", lang="en"
-                ),
-                "total_vaccinations": clean_count(
-                    ds.loc[ds[0] == "Total doses", 1].values[0],
-                ),
-            }
+        data["total_vaccinations"] = ds.loc[ds[0] == "Total number of doses delivered", 1].values[0]
+        # Table 2
+        df = pd.read_html(str(tables[1]), header=0)[0]
+        df.columns = [clean_column_name(col) for col in df.columns]
+        totals = df.iloc[-1]
+        data["people_vaccinated"] = int(totals["First dose"])
+        data["people_fully_vaccinated"] = int(totals["Second dose"])
+        data["total_boosters"] = (
+            int(totals["Third dose*"])
+            + int(totals["First booster"])
+            + int(re.sub(r"[\*,]*", "", totals["Second booster**"]))
+            + int(re.sub(r"[\*,]*", "", totals["Third booster**"]))
         )
+        # print(ds.loc[ds[0] == "Total doses", 1].values[0])
+        # Rename, add/remove columns
+        return pd.Series(data)
 
     def pipe_location(self, ds: pd.Series) -> pd.Series:
         return enrich_data(ds, "location", self.location)
@@ -43,12 +59,15 @@ class Guernsey:
     def pipeline(self, ds: pd.Series) -> pd.Series:
         return ds.pipe(self.pipe_location).pipe(self.pipe_vaccine).pipe(self.pipe_source)
 
-    def to_csv(self):
+    def export(self):
         """Generalized."""
         data = self.read().pipe(self.pipeline)
         increment(
             location=data["location"],
             total_vaccinations=data["total_vaccinations"],
+            people_vaccinated=data["people_vaccinated"],
+            people_fully_vaccinated=data["people_fully_vaccinated"],
+            total_boosters=data["total_boosters"],
             date=data["date"],
             source_url=data["source_url"],
             vaccine=data["vaccine"],
@@ -56,11 +75,4 @@ class Guernsey:
 
 
 def main():
-    Guernsey(
-        source_url="https://covid19.gov.gg/guidance/vaccine/stats",
-        location="Guernsey",
-    ).to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Guernsey().export()

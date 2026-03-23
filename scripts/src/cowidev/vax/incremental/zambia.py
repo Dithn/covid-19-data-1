@@ -5,9 +5,11 @@ import pandas as pd
 from cowidev.utils.clean import clean_date
 from cowidev.utils.web import request_json
 from cowidev.vax.utils.incremental import enrich_data, increment
+from cowidev.vax.utils.base import CountryVaxBase
+from cowidev.vax.utils.utils import add_latest_who_values
 
 
-class Zambia:
+class Zambia(CountryVaxBase):
     def __init__(self) -> None:
         self.location = "Zambia"
         self.source_url = (
@@ -20,11 +22,13 @@ class Zambia:
 
     def read(self):
         data = request_json(self.source_url)["features"][0]["attributes"]
+        date = clean_date(datetime.fromtimestamp(data["EditDate"] / 1000))
+
         return pd.Series(
             {
                 "total_vaccinations": data["Vaccine_total"],
                 "people_fully_vaccinated": data["Vaccine_total_last24"],
-                "date": clean_date(datetime.fromtimestamp(data["Date"] / 1000)),
+                "date": date,
             }
         )
 
@@ -37,19 +41,33 @@ class Zambia:
     def pipe_vaccine(self, ds: pd.Series) -> pd.Series:
         return enrich_data(ds, "vaccine", "Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing")
 
+    def pipe_to_df(self, ds: pd.Series) -> pd.DataFrame:
+        return pd.DataFrame(ds).T
+
+    def pipe_filter_dp(self, df: pd.DataFrame) -> pd.Series:
+        """There were duplicates on the 2022-12-01. This was a temporary fix."""
+        date = "2022-12-01"
+        msk = df["date"] == date
+        if df.loc[msk, "total_vaccinations"].item() > 80e6:
+            df.loc[msk, "total_vaccinations"] = None
+        if df.loc[msk, "people_fully_vaccinated"].item() > 80e6:
+            df.loc[msk, "people_fully_vaccinated"] = None
+        df = df.dropna(subset=["total_vaccinations", "people_fully_vaccinated", "people_vaccinated"], how="all")
+        return df
+
     def pipeline(self, ds: pd.Series) -> pd.Series:
-        return ds.pipe(self.pipe_location).pipe(self.pipe_source).pipe(self.pipe_vaccine)
+        return (
+            ds.pipe(self.pipe_location)
+            .pipe(self.pipe_source)
+            .pipe(self.pipe_vaccine)
+            .pipe(self.pipe_to_df)
+            .pipe(add_latest_who_values, "Zambia", ["people_vaccinated"])
+            # .pipe(self.pipe_filter_dp)
+        )
 
     def export(self):
-        data = self.read().pipe(self.pipeline)
-        increment(
-            location=data["location"],
-            total_vaccinations=data["total_vaccinations"],
-            people_fully_vaccinated=data["people_fully_vaccinated"],
-            date=data["date"],
-            source_url=data["source_url"],
-            vaccine=data["vaccine"],
-        )
+        df = self.read().pipe(self.pipeline)
+        self.export_datafile(df=df, attach=True)
 
 
 def main():

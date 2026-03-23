@@ -1,0 +1,2606 @@
+entity,indicator,date,value
+Slovakia,Daily hospital occupancy,2020-03-06,1.0
+Slovakia,Daily hospital occupancy,2020-03-07,2.0
+Slovakia,Daily hospital occupancy,2020-03-08,5.0
+Slovakia,Daily hospital occupancy,2020-03-09,5.0
+Slovakia,Daily hospital occupancy,2020-03-10,7.0
+Slovakia,Daily hospital occupancy,2020-03-11,7.0
+Slovakia,Daily hospital occupancy,2020-03-12,8.0
+Slovakia,Daily hospital occupancy,2020-03-13,11.0
+Slovakia,Daily hospital occupancy,2020-03-14,14.0
+Slovakia,Daily hospital occupancy,2020-03-15,21.0
+Slovakia,Daily hospital occupancy,2020-03-16,26.0
+Slovakia,Daily hospital occupancy,2020-03-17,25.0
+Slovakia,Daily hospital occupancy,2020-03-18,26.0
+Slovakia,Daily hospital occupancy,2020-03-19,26.0
+Slovakia,Daily hospital occupancy,2020-03-20,27.0
+Slovakia,Daily hospital occupancy,2020-03-21,29.0
+Slovakia,Daily hospital occupancy,2020-03-22,36.0
+Slovakia,Daily hospital occupancy,2020-03-23,31.0
+Slovakia,Daily hospital occupancy,2020-03-24,28.0
+Slovakia,Daily hospital occupancy,2020-03-25,27.0
+Slovakia,Daily hospital occupancy,2020-03-26,26.0
+Slovakia,Daily hospital occupancy,2020-03-27,33.0
+Slovakia,Daily hospital occupancy,2020-03-28,34.0
+Slovakia,Daily hospital occupancy,2020-03-29,35.0
+Slovakia,Daily hospital occupancy,2020-03-30,33.0
+Slovakia,Daily hospital occupancy,2020-03-31,31.0
+Slovakia,Daily hospital occupancy,2020-04-01,34.0
+Slovakia,Daily hospital occupancy,2020-04-02,39.0
+Slovakia,Daily hospital occupancy,2020-04-03,35.0
+Slovakia,Daily hospital occupancy,2020-04-04,38.0
+Slovakia,Daily hospital occupancy,2020-04-05,37.0
+Slovakia,Daily hospital occupancy,2020-04-06,38.0
+Slovakia,Daily hospital occupancy,2020-04-07,43.0
+Slovakia,Daily hospital occupancy,2020-04-08,6.0
+Slovakia,Daily hospital occupancy,2020-04-09,44.0
+Slovakia,Daily hospital occupancy,2020-04-10,47.0
+Slovakia,Daily hospital occupancy,2020-04-11,50.0
+Slovakia,Daily hospital occupancy,2020-04-12,52.0
+Slovakia,Daily hospital occupancy,2020-04-13,58.0
+Slovakia,Daily hospital occupancy,2020-04-14,60.0
+Slovakia,Daily hospital occupancy,2020-04-15,62.0
+Slovakia,Daily hospital occupancy,2020-04-16,65.0
+Slovakia,Daily hospital occupancy,2020-04-17,65.0
+Slovakia,Daily hospital occupancy,2020-04-18,3.0
+Slovakia,Daily hospital occupancy,2020-04-19,67.0
+Slovakia,Daily hospital occupancy,2020-04-20,60.0
+Slovakia,Daily hospital occupancy,2020-04-21,58.0
+Slovakia,Daily hospital occupancy,2020-04-22,55.0
+Slovakia,Daily hospital occupancy,2020-04-23,60.0
+Slovakia,Daily hospital occupancy,2020-04-24,54.0
+Slovakia,Daily hospital occupancy,2020-04-25,51.0
+Slovakia,Daily hospital occupancy,2020-04-26,52.0
+Slovakia,Daily hospital occupancy,2020-04-27,50.0
+Slovakia,Daily hospital occupancy,2020-04-28,43.0
+Slovakia,Daily hospital occupancy,2020-04-29,42.0
+Slovakia,Daily hospital occupancy,2020-04-30,38.0
+Slovakia,Daily hospital occupancy,2020-05-01,36.0
+Slovakia,Daily hospital occupancy,2020-05-02,37.0
+Slovakia,Daily hospital occupancy,2020-05-03,35.0
+Slovakia,Daily hospital occupancy,2020-05-04,31.0
+Slovakia,Daily hospital occupancy,2020-05-05,29.0
+Slovakia,Daily hospital occupancy,2020-05-06,24.0
+Slovakia,Daily hospital occupancy,2020-05-07,3.0
+Slovakia,Daily hospital occupancy,2020-05-08,21.0
+Slovakia,Daily hospital occupancy,2020-05-09,21.0
+Slovakia,Daily hospital occupancy,2020-05-10,21.0
+Slovakia,Daily hospital occupancy,2020-05-11,19.0
+Slovakia,Daily hospital occupancy,2020-05-12,17.0
+Slovakia,Daily hospital occupancy,2020-05-13,16.0
+Slovakia,Daily hospital occupancy,2020-05-14,17.0
+Slovakia,Daily hospital occupancy,2020-05-15,15.0
+Slovakia,Daily hospital occupancy,2020-05-16,16.0
+Slovakia,Daily hospital occupancy,2020-05-17,17.0
+Slovakia,Daily hospital occupancy,2020-05-18,15.0
+Slovakia,Daily hospital occupancy,2020-05-19,14.0
+Slovakia,Daily hospital occupancy,2020-05-20,13.0
+Slovakia,Daily hospital occupancy,2020-05-21,12.0
+Slovakia,Daily hospital occupancy,2020-05-22,11.0
+Slovakia,Daily hospital occupancy,2020-05-23,11.0
+Slovakia,Daily hospital occupancy,2020-05-24,11.0
+Slovakia,Daily hospital occupancy,2020-05-25,8.0
+Slovakia,Daily hospital occupancy,2020-05-26,8.0
+Slovakia,Daily hospital occupancy,2020-05-27,7.0
+Slovakia,Daily hospital occupancy,2020-05-28,6.0
+Slovakia,Daily hospital occupancy,2020-05-29,5.0
+Slovakia,Daily hospital occupancy,2020-05-30,5.0
+Slovakia,Daily hospital occupancy,2020-05-31,5.0
+Slovakia,Daily hospital occupancy,2020-06-01,4.0
+Slovakia,Daily hospital occupancy,2020-06-02,4.0
+Slovakia,Daily hospital occupancy,2020-06-03,4.0
+Slovakia,Daily hospital occupancy,2020-06-04,4.0
+Slovakia,Daily hospital occupancy,2020-06-05,3.0
+Slovakia,Daily hospital occupancy,2020-06-06,3.0
+Slovakia,Daily hospital occupancy,2020-06-07,3.0
+Slovakia,Daily hospital occupancy,2020-06-08,37.0
+Slovakia,Daily hospital occupancy,2020-06-09,28.0
+Slovakia,Daily hospital occupancy,2020-06-10,28.0
+Slovakia,Daily hospital occupancy,2020-06-11,2.0
+Slovakia,Daily hospital occupancy,2020-06-12,2.0
+Slovakia,Daily hospital occupancy,2020-06-13,2.0
+Slovakia,Daily hospital occupancy,2020-06-14,2.0
+Slovakia,Daily hospital occupancy,2020-06-15,2.0
+Slovakia,Daily hospital occupancy,2020-06-16,1.0
+Slovakia,Daily hospital occupancy,2020-06-17,1.0
+Slovakia,Daily hospital occupancy,2020-06-18,3.0
+Slovakia,Daily hospital occupancy,2020-06-19,2.0
+Slovakia,Daily hospital occupancy,2020-06-20,1.0
+Slovakia,Daily hospital occupancy,2020-06-21,2.0
+Slovakia,Daily hospital occupancy,2020-06-22,3.0
+Slovakia,Daily hospital occupancy,2020-06-23,4.0
+Slovakia,Daily hospital occupancy,2020-06-24,5.0
+Slovakia,Daily hospital occupancy,2020-06-25,5.0
+Slovakia,Daily hospital occupancy,2020-06-26,6.0
+Slovakia,Daily hospital occupancy,2020-06-27,4.0
+Slovakia,Daily hospital occupancy,2020-06-28,4.0
+Slovakia,Daily hospital occupancy,2020-06-29,3.0
+Slovakia,Daily hospital occupancy,2020-06-30,3.0
+Slovakia,Daily hospital occupancy,2020-07-01,4.0
+Slovakia,Daily hospital occupancy,2020-07-02,5.0
+Slovakia,Daily hospital occupancy,2020-07-03,6.0
+Slovakia,Daily hospital occupancy,2020-07-04,7.0
+Slovakia,Daily hospital occupancy,2020-07-05,7.0
+Slovakia,Daily hospital occupancy,2020-07-06,9.0
+Slovakia,Daily hospital occupancy,2020-07-07,9.0
+Slovakia,Daily hospital occupancy,2020-07-08,12.0
+Slovakia,Daily hospital occupancy,2020-07-09,13.0
+Slovakia,Daily hospital occupancy,2020-07-10,13.0
+Slovakia,Daily hospital occupancy,2020-07-11,13.0
+Slovakia,Daily hospital occupancy,2020-07-12,14.0
+Slovakia,Daily hospital occupancy,2020-07-13,15.0
+Slovakia,Daily hospital occupancy,2020-07-14,14.0
+Slovakia,Daily hospital occupancy,2020-07-15,15.0
+Slovakia,Daily hospital occupancy,2020-07-16,15.0
+Slovakia,Daily hospital occupancy,2020-07-17,14.0
+Slovakia,Daily hospital occupancy,2020-07-18,14.0
+Slovakia,Daily hospital occupancy,2020-07-19,15.0
+Slovakia,Daily hospital occupancy,2020-07-20,15.0
+Slovakia,Daily hospital occupancy,2020-07-21,17.0
+Slovakia,Daily hospital occupancy,2020-07-22,17.0
+Slovakia,Daily hospital occupancy,2020-07-23,18.0
+Slovakia,Daily hospital occupancy,2020-07-24,21.0
+Slovakia,Daily hospital occupancy,2020-07-25,24.0
+Slovakia,Daily hospital occupancy,2020-07-26,24.0
+Slovakia,Daily hospital occupancy,2020-07-27,33.0
+Slovakia,Daily hospital occupancy,2020-07-28,42.0
+Slovakia,Daily hospital occupancy,2020-07-29,42.0
+Slovakia,Daily hospital occupancy,2020-07-30,54.0
+Slovakia,Daily hospital occupancy,2020-07-31,68.0
+Slovakia,Daily hospital occupancy,2020-08-01,63.0
+Slovakia,Daily hospital occupancy,2020-08-02,65.0
+Slovakia,Daily hospital occupancy,2020-08-03,67.0
+Slovakia,Daily hospital occupancy,2020-08-04,72.0
+Slovakia,Daily hospital occupancy,2020-08-05,73.0
+Slovakia,Daily hospital occupancy,2020-08-06,75.0
+Slovakia,Daily hospital occupancy,2020-08-07,62.0
+Slovakia,Daily hospital occupancy,2020-08-08,60.0
+Slovakia,Daily hospital occupancy,2020-08-09,68.0
+Slovakia,Daily hospital occupancy,2020-08-10,58.0
+Slovakia,Daily hospital occupancy,2020-08-11,65.0
+Slovakia,Daily hospital occupancy,2020-08-12,71.0
+Slovakia,Daily hospital occupancy,2020-08-13,74.0
+Slovakia,Daily hospital occupancy,2020-08-14,83.0
+Slovakia,Daily hospital occupancy,2020-08-15,85.0
+Slovakia,Daily hospital occupancy,2020-08-16,86.0
+Slovakia,Daily hospital occupancy,2020-08-17,89.0
+Slovakia,Daily hospital occupancy,2020-08-18,86.0
+Slovakia,Daily hospital occupancy,2020-08-19,91.0
+Slovakia,Daily hospital occupancy,2020-08-20,70.0
+Slovakia,Daily hospital occupancy,2020-08-21,57.0
+Slovakia,Daily hospital occupancy,2020-08-22,58.0
+Slovakia,Daily hospital occupancy,2020-08-23,59.0
+Slovakia,Daily hospital occupancy,2020-08-24,65.0
+Slovakia,Daily hospital occupancy,2020-08-25,68.0
+Slovakia,Daily hospital occupancy,2020-08-26,60.0
+Slovakia,Daily hospital occupancy,2020-08-27,68.0
+Slovakia,Daily hospital occupancy,2020-08-28,76.0
+Slovakia,Daily hospital occupancy,2020-08-29,80.0
+Slovakia,Daily hospital occupancy,2020-08-30,83.0
+Slovakia,Daily hospital occupancy,2020-08-31,82.0
+Slovakia,Daily hospital occupancy,2020-09-01,85.0
+Slovakia,Daily hospital occupancy,2020-09-02,81.0
+Slovakia,Daily hospital occupancy,2020-09-03,91.0
+Slovakia,Daily hospital occupancy,2020-09-04,90.0
+Slovakia,Daily hospital occupancy,2020-09-05,103.0
+Slovakia,Daily hospital occupancy,2020-09-06,109.0
+Slovakia,Daily hospital occupancy,2020-09-07,112.0
+Slovakia,Daily hospital occupancy,2020-09-08,115.0
+Slovakia,Daily hospital occupancy,2020-09-09,121.0
+Slovakia,Daily hospital occupancy,2020-09-10,126.0
+Slovakia,Daily hospital occupancy,2020-09-11,119.0
+Slovakia,Daily hospital occupancy,2020-09-12,125.0
+Slovakia,Daily hospital occupancy,2020-09-13,135.0
+Slovakia,Daily hospital occupancy,2020-09-14,137.0
+Slovakia,Daily hospital occupancy,2020-09-15,145.0
+Slovakia,Daily hospital occupancy,2020-09-16,154.0
+Slovakia,Daily hospital occupancy,2020-09-17,147.0
+Slovakia,Daily hospital occupancy,2020-09-18,162.0
+Slovakia,Daily hospital occupancy,2020-09-19,164.0
+Slovakia,Daily hospital occupancy,2020-09-20,179.0
+Slovakia,Daily hospital occupancy,2020-09-21,185.0
+Slovakia,Daily hospital occupancy,2020-09-22,205.0
+Slovakia,Daily hospital occupancy,2020-09-23,220.0
+Slovakia,Daily hospital occupancy,2020-09-24,243.0
+Slovakia,Daily hospital occupancy,2020-09-25,254.0
+Slovakia,Daily hospital occupancy,2020-09-26,273.0
+Slovakia,Daily hospital occupancy,2020-09-27,288.0
+Slovakia,Daily hospital occupancy,2020-09-28,306.0
+Slovakia,Daily hospital occupancy,2020-09-29,311.0
+Slovakia,Daily hospital occupancy,2020-09-30,325.0
+Slovakia,Daily hospital occupancy,2020-10-01,336.0
+Slovakia,Daily hospital occupancy,2020-10-02,366.0
+Slovakia,Daily hospital occupancy,2020-10-03,398.0
+Slovakia,Daily hospital occupancy,2020-10-04,414.0
+Slovakia,Daily hospital occupancy,2020-10-05,432.0
+Slovakia,Daily hospital occupancy,2020-10-06,450.0
+Slovakia,Daily hospital occupancy,2020-10-07,472.0
+Slovakia,Daily hospital occupancy,2020-10-08,505.0
+Slovakia,Daily hospital occupancy,2020-10-09,495.0
+Slovakia,Daily hospital occupancy,2020-10-10,526.0
+Slovakia,Daily hospital occupancy,2020-10-11,554.0
+Slovakia,Daily hospital occupancy,2020-10-12,603.0
+Slovakia,Daily hospital occupancy,2020-10-13,623.0
+Slovakia,Daily hospital occupancy,2020-10-14,656.0
+Slovakia,Daily hospital occupancy,2020-10-15,716.0
+Slovakia,Daily hospital occupancy,2020-10-16,748.0
+Slovakia,Daily hospital occupancy,2020-10-17,801.0
+Slovakia,Daily hospital occupancy,2020-10-18,855.0
+Slovakia,Daily hospital occupancy,2020-10-19,927.0
+Slovakia,Daily hospital occupancy,2020-10-20,976.0
+Slovakia,Daily hospital occupancy,2020-10-21,1039.0
+Slovakia,Daily hospital occupancy,2020-10-22,1081.0
+Slovakia,Daily hospital occupancy,2020-10-23,1139.0
+Slovakia,Daily hospital occupancy,2020-10-24,1197.0
+Slovakia,Daily hospital occupancy,2020-10-25,1310.0
+Slovakia,Daily hospital occupancy,2020-10-26,1366.0
+Slovakia,Daily hospital occupancy,2020-10-27,1399.0
+Slovakia,Daily hospital occupancy,2020-10-28,1445.0
+Slovakia,Daily hospital occupancy,2020-10-29,1453.0
+Slovakia,Daily hospital occupancy,2020-10-30,1367.0
+Slovakia,Daily hospital occupancy,2020-10-31,1405.0
+Slovakia,Daily hospital occupancy,2020-11-01,1453.0
+Slovakia,Daily hospital occupancy,2020-11-02,1503.0
+Slovakia,Daily hospital occupancy,2020-11-03,1434.0
+Slovakia,Daily hospital occupancy,2020-11-04,1458.0
+Slovakia,Daily hospital occupancy,2020-11-05,1488.0
+Slovakia,Daily hospital occupancy,2020-11-06,1511.0
+Slovakia,Daily hospital occupancy,2020-11-07,1573.0
+Slovakia,Daily hospital occupancy,2020-11-08,1634.0
+Slovakia,Daily hospital occupancy,2020-11-09,1595.0
+Slovakia,Daily hospital occupancy,2020-11-10,1582.0
+Slovakia,Daily hospital occupancy,2020-11-11,1525.0
+Slovakia,Daily hospital occupancy,2020-11-12,1515.0
+Slovakia,Daily hospital occupancy,2020-11-13,1431.0
+Slovakia,Daily hospital occupancy,2020-11-14,1462.0
+Slovakia,Daily hospital occupancy,2020-11-15,1484.0
+Slovakia,Daily hospital occupancy,2020-11-16,1509.0
+Slovakia,Daily hospital occupancy,2020-11-17,1517.0
+Slovakia,Daily hospital occupancy,2020-11-18,1499.0
+Slovakia,Daily hospital occupancy,2020-11-19,1475.0
+Slovakia,Daily hospital occupancy,2020-11-20,1433.0
+Slovakia,Daily hospital occupancy,2020-11-21,1447.0
+Slovakia,Daily hospital occupancy,2020-11-22,1485.0
+Slovakia,Daily hospital occupancy,2020-11-23,1486.0
+Slovakia,Daily hospital occupancy,2020-11-24,1492.0
+Slovakia,Daily hospital occupancy,2020-11-25,1497.0
+Slovakia,Daily hospital occupancy,2020-11-26,1536.0
+Slovakia,Daily hospital occupancy,2020-11-27,1513.0
+Slovakia,Daily hospital occupancy,2020-11-28,1541.0
+Slovakia,Daily hospital occupancy,2020-11-29,1572.0
+Slovakia,Daily hospital occupancy,2020-11-30,1575.0
+Slovakia,Daily hospital occupancy,2020-12-01,1577.0
+Slovakia,Daily hospital occupancy,2020-12-02,1569.0
+Slovakia,Daily hospital occupancy,2020-12-03,1606.0
+Slovakia,Daily hospital occupancy,2020-12-04,1579.0
+Slovakia,Daily hospital occupancy,2020-12-05,1626.0
+Slovakia,Daily hospital occupancy,2020-12-06,1677.0
+Slovakia,Daily hospital occupancy,2020-12-07,1712.0
+Slovakia,Daily hospital occupancy,2020-12-08,1775.0
+Slovakia,Daily hospital occupancy,2020-12-09,1773.0
+Slovakia,Daily hospital occupancy,2020-12-10,1822.0
+Slovakia,Daily hospital occupancy,2020-12-11,1784.0
+Slovakia,Daily hospital occupancy,2020-12-12,1848.0
+Slovakia,Daily hospital occupancy,2020-12-13,1918.0
+Slovakia,Daily hospital occupancy,2020-12-14,1912.0
+Slovakia,Daily hospital occupancy,2020-12-15,1911.0
+Slovakia,Daily hospital occupancy,2020-12-16,1966.0
+Slovakia,Daily hospital occupancy,2020-12-17,1978.0
+Slovakia,Daily hospital occupancy,2020-12-18,1970.0
+Slovakia,Daily hospital occupancy,2020-12-19,2025.0
+Slovakia,Daily hospital occupancy,2020-12-20,2091.0
+Slovakia,Daily hospital occupancy,2020-12-21,2099.0
+Slovakia,Daily hospital occupancy,2020-12-22,2080.0
+Slovakia,Daily hospital occupancy,2020-12-23,1939.0
+Slovakia,Daily hospital occupancy,2020-12-24,1949.0
+Slovakia,Daily hospital occupancy,2020-12-25,2039.0
+Slovakia,Daily hospital occupancy,2020-12-26,2123.0
+Slovakia,Daily hospital occupancy,2020-12-27,2240.0
+Slovakia,Daily hospital occupancy,2020-12-28,2241.0
+Slovakia,Daily hospital occupancy,2020-12-29,2277.0
+Slovakia,Daily hospital occupancy,2020-12-30,2248.0
+Slovakia,Daily hospital occupancy,2020-12-31,2170.0
+Slovakia,Daily hospital occupancy,2021-01-01,2223.0
+Slovakia,Daily hospital occupancy,2021-01-02,2332.0
+Slovakia,Daily hospital occupancy,2021-01-03,2439.0
+Slovakia,Daily hospital occupancy,2021-01-04,2432.0
+Slovakia,Daily hospital occupancy,2021-01-05,2412.0
+Slovakia,Daily hospital occupancy,2021-01-06,2537.0
+Slovakia,Daily hospital occupancy,2021-01-07,2540.0
+Slovakia,Daily hospital occupancy,2021-01-08,2575.0
+Slovakia,Daily hospital occupancy,2021-01-09,2682.0
+Slovakia,Daily hospital occupancy,2021-01-10,2740.0
+Slovakia,Daily hospital occupancy,2021-01-11,2748.0
+Slovakia,Daily hospital occupancy,2021-01-12,2654.0
+Slovakia,Daily hospital occupancy,2021-01-13,2686.0
+Slovakia,Daily hospital occupancy,2021-01-14,2656.0
+Slovakia,Daily hospital occupancy,2021-01-15,2611.0
+Slovakia,Daily hospital occupancy,2021-01-16,2717.0
+Slovakia,Daily hospital occupancy,2021-01-17,2839.0
+Slovakia,Daily hospital occupancy,2021-01-18,2723.0
+Slovakia,Daily hospital occupancy,2021-01-19,2699.0
+Slovakia,Daily hospital occupancy,2021-01-20,2659.0
+Slovakia,Daily hospital occupancy,2021-01-21,2645.0
+Slovakia,Daily hospital occupancy,2021-01-22,2604.0
+Slovakia,Daily hospital occupancy,2021-01-23,2711.0
+Slovakia,Daily hospital occupancy,2021-01-24,2827.0
+Slovakia,Daily hospital occupancy,2021-01-25,2821.0
+Slovakia,Daily hospital occupancy,2021-01-26,2830.0
+Slovakia,Daily hospital occupancy,2021-01-27,2809.0
+Slovakia,Daily hospital occupancy,2021-01-28,2856.0
+Slovakia,Daily hospital occupancy,2021-01-29,2814.0
+Slovakia,Daily hospital occupancy,2021-01-30,2904.0
+Slovakia,Daily hospital occupancy,2021-01-31,3000.0
+Slovakia,Daily hospital occupancy,2021-02-01,3012.0
+Slovakia,Daily hospital occupancy,2021-02-02,2988.0
+Slovakia,Daily hospital occupancy,2021-02-03,2994.0
+Slovakia,Daily hospital occupancy,2021-02-04,3006.0
+Slovakia,Daily hospital occupancy,2021-02-05,2987.0
+Slovakia,Daily hospital occupancy,2021-02-06,3027.0
+Slovakia,Daily hospital occupancy,2021-02-07,3142.0
+Slovakia,Daily hospital occupancy,2021-02-08,3178.0
+Slovakia,Daily hospital occupancy,2021-02-09,3184.0
+Slovakia,Daily hospital occupancy,2021-02-10,3206.0
+Slovakia,Daily hospital occupancy,2021-02-11,3290.0
+Slovakia,Daily hospital occupancy,2021-02-12,3274.0
+Slovakia,Daily hospital occupancy,2021-02-13,3427.0
+Slovakia,Daily hospital occupancy,2021-02-14,3501.0
+Slovakia,Daily hospital occupancy,2021-02-15,3539.0
+Slovakia,Daily hospital occupancy,2021-02-16,3596.0
+Slovakia,Daily hospital occupancy,2021-02-17,3645.0
+Slovakia,Daily hospital occupancy,2021-02-18,3724.0
+Slovakia,Daily hospital occupancy,2021-02-19,3566.0
+Slovakia,Daily hospital occupancy,2021-02-20,3563.0
+Slovakia,Daily hospital occupancy,2021-02-21,3735.0
+Slovakia,Daily hospital occupancy,2021-02-22,3771.0
+Slovakia,Daily hospital occupancy,2021-02-23,3758.0
+Slovakia,Daily hospital occupancy,2021-02-24,3844.0
+Slovakia,Daily hospital occupancy,2021-02-25,3861.0
+Slovakia,Daily hospital occupancy,2021-02-26,3843.0
+Slovakia,Daily hospital occupancy,2021-02-27,3917.0
+Slovakia,Daily hospital occupancy,2021-02-28,3958.0
+Slovakia,Daily hospital occupancy,2021-03-01,3898.0
+Slovakia,Daily hospital occupancy,2021-03-02,3830.0
+Slovakia,Daily hospital occupancy,2021-03-03,3771.0
+Slovakia,Daily hospital occupancy,2021-03-04,3811.0
+Slovakia,Daily hospital occupancy,2021-03-05,3655.0
+Slovakia,Daily hospital occupancy,2021-03-06,3730.0
+Slovakia,Daily hospital occupancy,2021-03-07,3861.0
+Slovakia,Daily hospital occupancy,2021-03-08,3758.0
+Slovakia,Daily hospital occupancy,2021-03-09,3682.0
+Slovakia,Daily hospital occupancy,2021-03-10,3640.0
+Slovakia,Daily hospital occupancy,2021-03-11,3621.0
+Slovakia,Daily hospital occupancy,2021-03-12,3493.0
+Slovakia,Daily hospital occupancy,2021-03-13,3566.0
+Slovakia,Daily hospital occupancy,2021-03-14,3712.0
+Slovakia,Daily hospital occupancy,2021-03-15,3608.0
+Slovakia,Daily hospital occupancy,2021-03-16,3547.0
+Slovakia,Daily hospital occupancy,2021-03-17,3527.0
+Slovakia,Daily hospital occupancy,2021-03-18,3476.0
+Slovakia,Daily hospital occupancy,2021-03-19,3272.0
+Slovakia,Daily hospital occupancy,2021-03-20,3367.0
+Slovakia,Daily hospital occupancy,2021-03-21,3460.0
+Slovakia,Daily hospital occupancy,2021-03-22,3396.0
+Slovakia,Daily hospital occupancy,2021-03-23,3374.0
+Slovakia,Daily hospital occupancy,2021-03-24,3336.0
+Slovakia,Daily hospital occupancy,2021-03-25,3335.0
+Slovakia,Daily hospital occupancy,2021-03-26,3242.0
+Slovakia,Daily hospital occupancy,2021-03-27,3276.0
+Slovakia,Daily hospital occupancy,2021-03-28,3342.0
+Slovakia,Daily hospital occupancy,2021-03-29,2944.0
+Slovakia,Daily hospital occupancy,2021-03-30,2882.0
+Slovakia,Daily hospital occupancy,2021-03-31,2692.0
+Slovakia,Daily hospital occupancy,2021-04-01,2493.0
+Slovakia,Daily hospital occupancy,2021-04-02,2555.0
+Slovakia,Daily hospital occupancy,2021-04-03,2593.0
+Slovakia,Daily hospital occupancy,2021-04-04,2654.0
+Slovakia,Daily hospital occupancy,2021-04-05,2721.0
+Slovakia,Daily hospital occupancy,2021-04-06,2634.0
+Slovakia,Daily hospital occupancy,2021-04-07,2470.0
+Slovakia,Daily hospital occupancy,2021-04-08,2365.0
+Slovakia,Daily hospital occupancy,2021-04-09,2217.0
+Slovakia,Daily hospital occupancy,2021-04-10,2259.0
+Slovakia,Daily hospital occupancy,2021-04-11,2299.0
+Slovakia,Daily hospital occupancy,2021-04-12,2181.0
+Slovakia,Daily hospital occupancy,2021-04-13,2092.0
+Slovakia,Daily hospital occupancy,2021-04-14,1973.0
+Slovakia,Daily hospital occupancy,2021-04-15,1890.0
+Slovakia,Daily hospital occupancy,2021-04-16,1763.0
+Slovakia,Daily hospital occupancy,2021-04-17,1796.0
+Slovakia,Daily hospital occupancy,2021-04-18,1827.0
+Slovakia,Daily hospital occupancy,2021-04-19,1717.0
+Slovakia,Daily hospital occupancy,2021-04-20,1614.0
+Slovakia,Daily hospital occupancy,2021-04-21,1550.0
+Slovakia,Daily hospital occupancy,2021-04-22,1494.0
+Slovakia,Daily hospital occupancy,2021-04-23,1433.0
+Slovakia,Daily hospital occupancy,2021-04-24,1473.0
+Slovakia,Daily hospital occupancy,2021-04-25,1499.0
+Slovakia,Daily hospital occupancy,2021-04-26,1404.0
+Slovakia,Daily hospital occupancy,2021-04-27,1357.0
+Slovakia,Daily hospital occupancy,2021-04-28,1291.0
+Slovakia,Daily hospital occupancy,2021-04-29,1259.0
+Slovakia,Daily hospital occupancy,2021-04-30,1180.0
+Slovakia,Daily hospital occupancy,2021-05-01,1199.0
+Slovakia,Daily hospital occupancy,2021-05-02,1225.0
+Slovakia,Daily hospital occupancy,2021-05-03,1176.0
+Slovakia,Daily hospital occupancy,2021-05-04,1130.0
+Slovakia,Daily hospital occupancy,2021-05-05,1071.0
+Slovakia,Daily hospital occupancy,2021-05-06,1016.0
+Slovakia,Daily hospital occupancy,2021-05-07,980.0
+Slovakia,Daily hospital occupancy,2021-05-08,1001.0
+Slovakia,Daily hospital occupancy,2021-05-09,1031.0
+Slovakia,Daily hospital occupancy,2021-05-10,949.0
+Slovakia,Daily hospital occupancy,2021-05-11,890.0
+Slovakia,Daily hospital occupancy,2021-05-12,850.0
+Slovakia,Daily hospital occupancy,2021-05-13,805.0
+Slovakia,Daily hospital occupancy,2021-05-14,753.0
+Slovakia,Daily hospital occupancy,2021-05-15,761.0
+Slovakia,Daily hospital occupancy,2021-05-16,779.0
+Slovakia,Daily hospital occupancy,2021-05-17,741.0
+Slovakia,Daily hospital occupancy,2021-05-18,696.0
+Slovakia,Daily hospital occupancy,2021-05-19,631.0
+Slovakia,Daily hospital occupancy,2021-05-20,604.0
+Slovakia,Daily hospital occupancy,2021-05-21,560.0
+Slovakia,Daily hospital occupancy,2021-05-22,559.0
+Slovakia,Daily hospital occupancy,2021-05-23,564.0
+Slovakia,Daily hospital occupancy,2021-05-24,517.0
+Slovakia,Daily hospital occupancy,2021-05-25,477.0
+Slovakia,Daily hospital occupancy,2021-05-26,447.0
+Slovakia,Daily hospital occupancy,2021-05-27,429.0
+Slovakia,Daily hospital occupancy,2021-05-28,377.0
+Slovakia,Daily hospital occupancy,2021-05-29,386.0
+Slovakia,Daily hospital occupancy,2021-05-30,380.0
+Slovakia,Daily hospital occupancy,2021-05-31,356.0
+Slovakia,Daily hospital occupancy,2021-06-01,344.0
+Slovakia,Daily hospital occupancy,2021-06-02,322.0
+Slovakia,Daily hospital occupancy,2021-06-03,318.0
+Slovakia,Daily hospital occupancy,2021-06-04,285.0
+Slovakia,Daily hospital occupancy,2021-06-05,299.0
+Slovakia,Daily hospital occupancy,2021-06-06,307.0
+Slovakia,Daily hospital occupancy,2021-06-07,288.0
+Slovakia,Daily hospital occupancy,2021-06-08,267.0
+Slovakia,Daily hospital occupancy,2021-06-09,254.0
+Slovakia,Daily hospital occupancy,2021-06-10,242.0
+Slovakia,Daily hospital occupancy,2021-06-11,233.0
+Slovakia,Daily hospital occupancy,2021-06-12,243.0
+Slovakia,Daily hospital occupancy,2021-06-13,257.0
+Slovakia,Daily hospital occupancy,2021-06-14,234.0
+Slovakia,Daily hospital occupancy,2021-06-15,215.0
+Slovakia,Daily hospital occupancy,2021-06-16,208.0
+Slovakia,Daily hospital occupancy,2021-06-17,200.0
+Slovakia,Daily hospital occupancy,2021-06-18,198.0
+Slovakia,Daily hospital occupancy,2021-06-19,204.0
+Slovakia,Daily hospital occupancy,2021-06-20,206.0
+Slovakia,Daily hospital occupancy,2021-06-21,185.0
+Slovakia,Daily hospital occupancy,2021-06-22,186.0
+Slovakia,Daily hospital occupancy,2021-06-23,183.0
+Slovakia,Daily hospital occupancy,2021-06-24,172.0
+Slovakia,Daily hospital occupancy,2021-06-25,161.0
+Slovakia,Daily hospital occupancy,2021-06-26,172.0
+Slovakia,Daily hospital occupancy,2021-06-27,173.0
+Slovakia,Daily hospital occupancy,2021-06-28,162.0
+Slovakia,Daily hospital occupancy,2021-06-29,160.0
+Slovakia,Daily hospital occupancy,2021-06-30,147.0
+Slovakia,Daily hospital occupancy,2021-07-01,136.0
+Slovakia,Daily hospital occupancy,2021-07-02,129.0
+Slovakia,Daily hospital occupancy,2021-07-03,126.0
+Slovakia,Daily hospital occupancy,2021-07-04,127.0
+Slovakia,Daily hospital occupancy,2021-07-05,121.0
+Slovakia,Daily hospital occupancy,2021-07-06,107.0
+Slovakia,Daily hospital occupancy,2021-07-07,102.0
+Slovakia,Daily hospital occupancy,2021-07-08,103.0
+Slovakia,Daily hospital occupancy,2021-07-09,93.0
+Slovakia,Daily hospital occupancy,2021-07-10,98.0
+Slovakia,Daily hospital occupancy,2021-07-11,99.0
+Slovakia,Daily hospital occupancy,2021-07-12,89.0
+Slovakia,Daily hospital occupancy,2021-07-13,86.0
+Slovakia,Daily hospital occupancy,2021-07-14,83.0
+Slovakia,Daily hospital occupancy,2021-07-15,78.0
+Slovakia,Daily hospital occupancy,2021-07-16,79.0
+Slovakia,Daily hospital occupancy,2021-07-17,81.0
+Slovakia,Daily hospital occupancy,2021-07-18,82.0
+Slovakia,Daily hospital occupancy,2021-07-19,80.0
+Slovakia,Daily hospital occupancy,2021-07-20,22.0
+Slovakia,Daily hospital occupancy,2021-07-21,22.0
+Slovakia,Daily hospital occupancy,2021-07-22,76.0
+Slovakia,Daily hospital occupancy,2021-07-23,78.0
+Slovakia,Daily hospital occupancy,2021-07-24,81.0
+Slovakia,Daily hospital occupancy,2021-07-25,82.0
+Slovakia,Daily hospital occupancy,2021-07-26,83.0
+Slovakia,Daily hospital occupancy,2021-07-27,82.0
+Slovakia,Daily hospital occupancy,2021-07-28,81.0
+Slovakia,Daily hospital occupancy,2021-07-29,82.0
+Slovakia,Daily hospital occupancy,2021-07-30,88.0
+Slovakia,Daily hospital occupancy,2021-07-31,89.0
+Slovakia,Daily hospital occupancy,2021-08-01,90.0
+Slovakia,Daily hospital occupancy,2021-08-02,87.0
+Slovakia,Daily hospital occupancy,2021-08-03,85.0
+Slovakia,Daily hospital occupancy,2021-08-04,86.0
+Slovakia,Daily hospital occupancy,2021-08-05,81.0
+Slovakia,Daily hospital occupancy,2021-08-06,90.0
+Slovakia,Daily hospital occupancy,2021-08-07,93.0
+Slovakia,Daily hospital occupancy,2021-08-08,95.0
+Slovakia,Daily hospital occupancy,2021-08-09,89.0
+Slovakia,Daily hospital occupancy,2021-08-10,90.0
+Slovakia,Daily hospital occupancy,2021-08-11,84.0
+Slovakia,Daily hospital occupancy,2021-08-12,86.0
+Slovakia,Daily hospital occupancy,2021-08-13,88.0
+Slovakia,Daily hospital occupancy,2021-08-14,97.0
+Slovakia,Daily hospital occupancy,2021-08-15,105.0
+Slovakia,Daily hospital occupancy,2021-08-16,103.0
+Slovakia,Daily hospital occupancy,2021-08-17,106.0
+Slovakia,Daily hospital occupancy,2021-08-18,86.0
+Slovakia,Daily hospital occupancy,2021-08-19,89.0
+Slovakia,Daily hospital occupancy,2021-08-20,66.0
+Slovakia,Daily hospital occupancy,2021-08-21,71.0
+Slovakia,Daily hospital occupancy,2021-08-22,75.0
+Slovakia,Daily hospital occupancy,2021-08-23,70.0
+Slovakia,Daily hospital occupancy,2021-08-24,72.0
+Slovakia,Daily hospital occupancy,2021-08-25,73.0
+Slovakia,Daily hospital occupancy,2021-08-26,82.0
+Slovakia,Daily hospital occupancy,2021-08-27,84.0
+Slovakia,Daily hospital occupancy,2021-08-28,88.0
+Slovakia,Daily hospital occupancy,2021-08-29,98.0
+Slovakia,Daily hospital occupancy,2021-08-30,101.0
+Slovakia,Daily hospital occupancy,2021-08-31,108.0
+Slovakia,Daily hospital occupancy,2021-09-01,117.0
+Slovakia,Daily hospital occupancy,2021-09-02,127.0
+Slovakia,Daily hospital occupancy,2021-09-03,143.0
+Slovakia,Daily hospital occupancy,2021-09-04,154.0
+Slovakia,Daily hospital occupancy,2021-09-05,166.0
+Slovakia,Daily hospital occupancy,2021-09-06,176.0
+Slovakia,Daily hospital occupancy,2021-09-07,181.0
+Slovakia,Daily hospital occupancy,2021-09-08,190.0
+Slovakia,Daily hospital occupancy,2021-09-09,206.0
+Slovakia,Daily hospital occupancy,2021-09-10,229.0
+Slovakia,Daily hospital occupancy,2021-09-11,246.0
+Slovakia,Daily hospital occupancy,2021-09-12,270.0
+Slovakia,Daily hospital occupancy,2021-09-13,303.0
+Slovakia,Daily hospital occupancy,2021-09-14,307.0
+Slovakia,Daily hospital occupancy,2021-09-15,336.0
+Slovakia,Daily hospital occupancy,2021-09-16,331.0
+Slovakia,Daily hospital occupancy,2021-09-17,349.0
+Slovakia,Daily hospital occupancy,2021-09-18,375.0
+Slovakia,Daily hospital occupancy,2021-09-19,398.0
+Slovakia,Daily hospital occupancy,2021-09-20,407.0
+Slovakia,Daily hospital occupancy,2021-09-21,428.0
+Slovakia,Daily hospital occupancy,2021-09-22,459.0
+Slovakia,Daily hospital occupancy,2021-09-23,471.0
+Slovakia,Daily hospital occupancy,2021-09-24,459.0
+Slovakia,Daily hospital occupancy,2021-09-25,488.0
+Slovakia,Daily hospital occupancy,2021-09-26,522.0
+Slovakia,Daily hospital occupancy,2021-09-27,548.0
+Slovakia,Daily hospital occupancy,2021-09-28,572.0
+Slovakia,Daily hospital occupancy,2021-09-29,592.0
+Slovakia,Daily hospital occupancy,2021-09-30,610.0
+Slovakia,Daily hospital occupancy,2021-10-01,604.0
+Slovakia,Daily hospital occupancy,2021-10-02,633.0
+Slovakia,Daily hospital occupancy,2021-10-03,676.0
+Slovakia,Daily hospital occupancy,2021-10-04,725.0
+Slovakia,Daily hospital occupancy,2021-10-05,765.0
+Slovakia,Daily hospital occupancy,2021-10-06,793.0
+Slovakia,Daily hospital occupancy,2021-10-07,807.0
+Slovakia,Daily hospital occupancy,2021-10-08,813.0
+Slovakia,Daily hospital occupancy,2021-10-09,851.0
+Slovakia,Daily hospital occupancy,2021-10-10,892.0
+Slovakia,Daily hospital occupancy,2021-10-11,922.0
+Slovakia,Daily hospital occupancy,2021-10-12,941.0
+Slovakia,Daily hospital occupancy,2021-10-13,979.0
+Slovakia,Daily hospital occupancy,2021-10-14,998.0
+Slovakia,Daily hospital occupancy,2021-10-15,972.0
+Slovakia,Daily hospital occupancy,2021-10-16,1039.0
+Slovakia,Daily hospital occupancy,2021-10-17,1085.0
+Slovakia,Daily hospital occupancy,2021-10-18,1059.0
+Slovakia,Daily hospital occupancy,2021-10-19,1070.0
+Slovakia,Daily hospital occupancy,2021-10-20,1120.0
+Slovakia,Daily hospital occupancy,2021-10-21,1169.0
+Slovakia,Daily hospital occupancy,2021-10-22,1169.0
+Slovakia,Daily hospital occupancy,2021-10-23,1254.0
+Slovakia,Daily hospital occupancy,2021-10-24,1332.0
+Slovakia,Daily hospital occupancy,2021-10-25,1382.0
+Slovakia,Daily hospital occupancy,2021-10-26,1480.0
+Slovakia,Daily hospital occupancy,2021-10-27,1529.0
+Slovakia,Daily hospital occupancy,2021-10-28,1731.0
+Slovakia,Daily hospital occupancy,2021-10-29,1899.0
+Slovakia,Daily hospital occupancy,2021-10-30,1655.0
+Slovakia,Daily hospital occupancy,2021-10-31,1758.0
+Slovakia,Daily hospital occupancy,2021-11-01,1888.0
+Slovakia,Daily hospital occupancy,2021-11-02,1958.0
+Slovakia,Daily hospital occupancy,2021-11-03,2031.0
+Slovakia,Daily hospital occupancy,2021-11-04,2131.0
+Slovakia,Daily hospital occupancy,2021-11-05,2169.0
+Slovakia,Daily hospital occupancy,2021-11-06,2300.0
+Slovakia,Daily hospital occupancy,2021-11-07,2467.0
+Slovakia,Daily hospital occupancy,2021-11-08,2548.0
+Slovakia,Daily hospital occupancy,2021-11-09,2597.0
+Slovakia,Daily hospital occupancy,2021-11-10,2663.0
+Slovakia,Daily hospital occupancy,2021-11-11,2737.0
+Slovakia,Daily hospital occupancy,2021-11-12,2718.0
+Slovakia,Daily hospital occupancy,2021-11-13,2831.0
+Slovakia,Daily hospital occupancy,2021-11-14,2997.0
+Slovakia,Daily hospital occupancy,2021-11-15,2990.0
+Slovakia,Daily hospital occupancy,2021-11-16,3004.0
+Slovakia,Daily hospital occupancy,2021-11-17,3088.0
+Slovakia,Daily hospital occupancy,2021-11-18,3065.0
+Slovakia,Daily hospital occupancy,2021-11-19,2988.0
+Slovakia,Daily hospital occupancy,2021-11-20,3121.0
+Slovakia,Daily hospital occupancy,2021-11-21,3233.0
+Slovakia,Daily hospital occupancy,2021-11-22,3275.0
+Slovakia,Daily hospital occupancy,2021-11-23,3276.0
+Slovakia,Daily hospital occupancy,2021-11-24,3246.0
+Slovakia,Daily hospital occupancy,2021-11-25,3254.0
+Slovakia,Daily hospital occupancy,2021-11-26,3204.0
+Slovakia,Daily hospital occupancy,2021-11-27,3341.0
+Slovakia,Daily hospital occupancy,2021-11-28,3542.0
+Slovakia,Daily hospital occupancy,2021-11-29,3511.0
+Slovakia,Daily hospital occupancy,2021-11-30,3526.0
+Slovakia,Daily hospital occupancy,2021-12-01,3509.0
+Slovakia,Daily hospital occupancy,2021-12-02,3538.0
+Slovakia,Daily hospital occupancy,2021-12-03,3379.0
+Slovakia,Daily hospital occupancy,2021-12-04,3483.0
+Slovakia,Daily hospital occupancy,2021-12-05,3575.0
+Slovakia,Daily hospital occupancy,2021-12-06,3535.0
+Slovakia,Daily hospital occupancy,2021-12-07,3451.0
+Slovakia,Daily hospital occupancy,2021-12-08,3447.0
+Slovakia,Daily hospital occupancy,2021-12-09,3354.0
+Slovakia,Daily hospital occupancy,2021-12-10,3241.0
+Slovakia,Daily hospital occupancy,2021-12-11,3303.0
+Slovakia,Daily hospital occupancy,2021-12-12,3347.0
+Slovakia,Daily hospital occupancy,2021-12-13,3230.0
+Slovakia,Daily hospital occupancy,2021-12-14,3120.0
+Slovakia,Daily hospital occupancy,2021-12-15,3073.0
+Slovakia,Daily hospital occupancy,2021-12-16,2991.0
+Slovakia,Daily hospital occupancy,2021-12-17,2826.0
+Slovakia,Daily hospital occupancy,2021-12-18,2891.0
+Slovakia,Daily hospital occupancy,2021-12-19,2947.0
+Slovakia,Daily hospital occupancy,2021-12-20,2821.0
+Slovakia,Daily hospital occupancy,2021-12-21,2701.0
+Slovakia,Daily hospital occupancy,2021-12-22,2555.0
+Slovakia,Daily hospital occupancy,2021-12-23,2284.0
+Slovakia,Daily hospital occupancy,2021-12-24,2247.0
+Slovakia,Daily hospital occupancy,2021-12-25,2310.0
+Slovakia,Daily hospital occupancy,2021-12-26,2373.0
+Slovakia,Daily hospital occupancy,2021-12-27,2382.0
+Slovakia,Daily hospital occupancy,2021-12-28,2288.0
+Slovakia,Daily hospital occupancy,2021-12-29,2266.0
+Slovakia,Daily hospital occupancy,2021-12-30,2207.0
+Slovakia,Daily hospital occupancy,2021-12-31,2016.0
+Slovakia,Daily hospital occupancy,2022-01-01,2049.0
+Slovakia,Daily hospital occupancy,2022-01-02,2098.0
+Slovakia,Daily hospital occupancy,2022-01-03,2088.0
+Slovakia,Daily hospital occupancy,2022-01-04,1998.0
+Slovakia,Daily hospital occupancy,2022-01-05,1933.0
+Slovakia,Daily hospital occupancy,2022-01-06,1953.0
+Slovakia,Daily hospital occupancy,2022-01-07,1833.0
+Slovakia,Daily hospital occupancy,2022-01-08,1848.0
+Slovakia,Daily hospital occupancy,2022-01-09,1874.0
+Slovakia,Daily hospital occupancy,2022-01-10,1824.0
+Slovakia,Daily hospital occupancy,2022-01-11,1722.0
+Slovakia,Daily hospital occupancy,2022-01-12,1664.0
+Slovakia,Daily hospital occupancy,2022-01-13,1605.0
+Slovakia,Daily hospital occupancy,2022-01-14,1510.0
+Slovakia,Daily hospital occupancy,2022-01-15,1513.0
+Slovakia,Daily hospital occupancy,2022-01-16,1509.0
+Slovakia,Daily hospital occupancy,2022-01-17,1444.0
+Slovakia,Daily hospital occupancy,2022-01-18,1385.0
+Slovakia,Daily hospital occupancy,2022-01-19,1345.0
+Slovakia,Daily hospital occupancy,2022-01-20,1300.0
+Slovakia,Daily hospital occupancy,2022-01-21,1224.0
+Slovakia,Daily hospital occupancy,2022-01-22,1253.0
+Slovakia,Daily hospital occupancy,2022-01-23,1286.0
+Slovakia,Daily hospital occupancy,2022-01-24,1334.0
+Slovakia,Daily hospital occupancy,2022-01-25,1328.0
+Slovakia,Daily hospital occupancy,2022-01-26,1356.0
+Slovakia,Daily hospital occupancy,2022-01-27,1355.0
+Slovakia,Daily hospital occupancy,2022-01-28,1350.0
+Slovakia,Daily hospital occupancy,2022-01-29,1401.0
+Slovakia,Daily hospital occupancy,2022-01-30,1460.0
+Slovakia,Daily hospital occupancy,2022-01-31,1498.0
+Slovakia,Daily hospital occupancy,2022-02-01,1587.0
+Slovakia,Daily hospital occupancy,2022-02-02,1625.0
+Slovakia,Daily hospital occupancy,2022-02-03,1694.0
+Slovakia,Daily hospital occupancy,2022-02-04,1742.0
+Slovakia,Daily hospital occupancy,2022-02-05,1832.0
+Slovakia,Daily hospital occupancy,2022-02-06,1962.0
+Slovakia,Daily hospital occupancy,2022-02-07,2084.0
+Slovakia,Daily hospital occupancy,2022-02-08,2184.0
+Slovakia,Daily hospital occupancy,2022-02-09,2226.0
+Slovakia,Daily hospital occupancy,2022-02-10,2328.0
+Slovakia,Daily hospital occupancy,2022-02-11,2284.0
+Slovakia,Daily hospital occupancy,2022-02-12,2424.0
+Slovakia,Daily hospital occupancy,2022-02-13,2565.0
+Slovakia,Daily hospital occupancy,2022-02-14,2655.0
+Slovakia,Daily hospital occupancy,2022-02-15,2733.0
+Slovakia,Daily hospital occupancy,2022-02-16,2714.0
+Slovakia,Daily hospital occupancy,2022-02-17,2764.0
+Slovakia,Daily hospital occupancy,2022-02-18,2701.0
+Slovakia,Daily hospital occupancy,2022-02-19,2825.0
+Slovakia,Daily hospital occupancy,2022-02-20,2925.0
+Slovakia,Daily hospital occupancy,2022-02-21,2913.0
+Slovakia,Daily hospital occupancy,2022-02-22,2922.0
+Slovakia,Daily hospital occupancy,2022-02-23,2897.0
+Slovakia,Daily hospital occupancy,2022-02-24,2875.0
+Slovakia,Daily hospital occupancy,2022-02-25,2676.0
+Slovakia,Daily hospital occupancy,2022-02-26,2765.0
+Slovakia,Daily hospital occupancy,2022-02-27,2865.0
+Slovakia,Daily hospital occupancy,2022-02-28,2787.0
+Slovakia,Daily hospital occupancy,2022-03-01,2712.0
+Slovakia,Daily hospital occupancy,2022-03-02,2719.0
+Slovakia,Daily hospital occupancy,2022-03-03,2710.0
+Slovakia,Daily hospital occupancy,2022-03-04,2571.0
+Slovakia,Daily hospital occupancy,2022-03-05,2614.0
+Slovakia,Daily hospital occupancy,2022-03-06,2669.0
+Slovakia,Daily hospital occupancy,2022-03-07,2630.0
+Slovakia,Daily hospital occupancy,2022-03-08,2589.0
+Slovakia,Daily hospital occupancy,2022-03-09,2553.0
+Slovakia,Daily hospital occupancy,2022-03-10,2554.0
+Slovakia,Daily hospital occupancy,2022-03-11,2432.0
+Slovakia,Daily hospital occupancy,2022-03-12,2520.0
+Slovakia,Daily hospital occupancy,2022-03-13,2609.0
+Slovakia,Daily hospital occupancy,2022-03-14,2594.0
+Slovakia,Daily hospital occupancy,2022-03-15,2570.0
+Slovakia,Daily hospital occupancy,2022-03-16,2514.0
+Slovakia,Daily hospital occupancy,2022-03-17,2538.0
+Slovakia,Daily hospital occupancy,2022-03-18,2382.0
+Slovakia,Daily hospital occupancy,2022-03-19,2447.0
+Slovakia,Daily hospital occupancy,2022-03-20,2521.0
+Slovakia,Daily hospital occupancy,2022-03-21,2474.0
+Slovakia,Daily hospital occupancy,2022-03-22,2382.0
+Slovakia,Daily hospital occupancy,2022-03-23,2334.0
+Slovakia,Daily hospital occupancy,2022-03-24,2290.0
+Slovakia,Daily hospital occupancy,2022-03-25,2166.0
+Slovakia,Daily hospital occupancy,2022-03-26,2243.0
+Slovakia,Daily hospital occupancy,2022-03-27,2290.0
+Slovakia,Daily hospital occupancy,2022-03-28,2223.0
+Slovakia,Daily hospital occupancy,2022-03-29,2154.0
+Slovakia,Daily hospital occupancy,2022-03-30,2106.0
+Slovakia,Daily hospital occupancy,2022-03-31,2079.0
+Slovakia,Daily hospital occupancy,2022-04-01,1956.0
+Slovakia,Daily hospital occupancy,2022-04-02,2050.0
+Slovakia,Daily hospital occupancy,2022-04-03,2102.0
+Slovakia,Daily hospital occupancy,2022-04-04,2001.0
+Slovakia,Daily hospital occupancy,2022-04-05,1856.0
+Slovakia,Daily hospital occupancy,2022-04-06,1797.0
+Slovakia,Daily hospital occupancy,2022-04-07,1719.0
+Slovakia,Daily hospital occupancy,2022-04-08,1593.0
+Slovakia,Daily hospital occupancy,2022-04-09,1616.0
+Slovakia,Daily hospital occupancy,2022-04-10,1669.0
+Slovakia,Daily hospital occupancy,2022-04-11,1576.0
+Slovakia,Daily hospital occupancy,2022-04-12,1437.0
+Slovakia,Daily hospital occupancy,2022-04-13,1343.0
+Slovakia,Daily hospital occupancy,2022-04-14,1173.0
+Slovakia,Daily hospital occupancy,2022-04-15,1160.0
+Slovakia,Daily hospital occupancy,2022-04-16,1170.0
+Slovakia,Daily hospital occupancy,2022-04-17,1185.0
+Slovakia,Daily hospital occupancy,2022-04-18,1230.0
+Slovakia,Daily hospital occupancy,2022-04-19,1159.0
+Slovakia,Daily hospital occupancy,2022-04-20,1110.0
+Slovakia,Daily hospital occupancy,2022-04-21,1075.0
+Slovakia,Daily hospital occupancy,2022-04-22,982.0
+Slovakia,Daily hospital occupancy,2022-04-23,987.0
+Slovakia,Daily hospital occupancy,2022-04-24,1006.0
+Slovakia,Daily hospital occupancy,2022-04-25,942.0
+Slovakia,Daily hospital occupancy,2022-04-26,909.0
+Slovakia,Daily hospital occupancy,2022-04-27,864.0
+Slovakia,Daily hospital occupancy,2022-04-28,807.0
+Slovakia,Daily hospital occupancy,2022-04-29,705.0
+Slovakia,Daily hospital occupancy,2022-04-30,679.0
+Slovakia,Daily hospital occupancy,2022-05-01,703.0
+Slovakia,Daily hospital occupancy,2022-05-02,625.0
+Slovakia,Daily hospital occupancy,2022-05-03,564.0
+Slovakia,Daily hospital occupancy,2022-05-04,521.0
+Slovakia,Daily hospital occupancy,2022-05-05,482.0
+Slovakia,Daily hospital occupancy,2022-05-06,433.0
+Slovakia,Daily hospital occupancy,2022-05-07,437.0
+Slovakia,Daily hospital occupancy,2022-05-08,441.0
+Slovakia,Daily hospital occupancy,2022-05-09,425.0
+Slovakia,Daily hospital occupancy,2022-05-10,387.0
+Slovakia,Daily hospital occupancy,2022-05-11,362.0
+Slovakia,Daily hospital occupancy,2022-05-12,349.0
+Slovakia,Daily hospital occupancy,2022-05-13,308.0
+Slovakia,Daily hospital occupancy,2022-05-14,315.0
+Slovakia,Daily hospital occupancy,2022-05-15,315.0
+Slovakia,Daily hospital occupancy,2022-05-16,305.0
+Slovakia,Daily hospital occupancy,2022-05-17,284.0
+Slovakia,Daily hospital occupancy,2022-05-18,280.0
+Slovakia,Daily hospital occupancy,2022-05-19,270.0
+Slovakia,Daily hospital occupancy,2022-05-20,255.0
+Slovakia,Daily hospital occupancy,2022-05-21,253.0
+Slovakia,Daily hospital occupancy,2022-05-22,261.0
+Slovakia,Daily hospital occupancy,2022-05-23,260.0
+Slovakia,Daily hospital occupancy,2022-05-24,251.0
+Slovakia,Daily hospital occupancy,2022-05-25,240.0
+Slovakia,Daily hospital occupancy,2022-05-26,227.0
+Slovakia,Daily hospital occupancy,2022-05-27,214.0
+Slovakia,Daily hospital occupancy,2022-05-28,210.0
+Slovakia,Daily hospital occupancy,2022-05-29,213.0
+Slovakia,Daily hospital occupancy,2022-05-30,214.0
+Slovakia,Daily hospital occupancy,2022-05-31,196.0
+Slovakia,Daily hospital occupancy,2022-06-01,191.0
+Slovakia,Daily hospital occupancy,2022-06-02,23.0
+Slovakia,Daily hospital occupancy,2022-06-03,175.0
+Slovakia,Daily hospital occupancy,2022-06-04,171.0
+Slovakia,Daily hospital occupancy,2022-06-05,178.0
+Slovakia,Daily hospital occupancy,2022-06-06,182.0
+Slovakia,Daily hospital occupancy,2022-06-07,169.0
+Slovakia,Daily hospital occupancy,2022-06-08,174.0
+Slovakia,Daily hospital occupancy,2022-06-09,170.0
+Slovakia,Daily hospital occupancy,2022-06-10,160.0
+Slovakia,Daily hospital occupancy,2022-06-11,167.0
+Slovakia,Daily hospital occupancy,2022-06-12,173.0
+Slovakia,Daily hospital occupancy,2022-06-13,163.0
+Slovakia,Daily hospital occupancy,2022-06-14,161.0
+Slovakia,Daily hospital occupancy,2022-06-15,180.0
+Slovakia,Daily hospital occupancy,2022-06-16,184.0
+Slovakia,Daily hospital occupancy,2022-06-17,174.0
+Slovakia,Daily hospital occupancy,2022-06-18,183.0
+Slovakia,Daily hospital occupancy,2022-06-19,200.0
+Slovakia,Daily hospital occupancy,2022-06-20,204.0
+Slovakia,Daily hospital occupancy,2022-06-21,232.0
+Slovakia,Daily hospital occupancy,2022-06-22,237.0
+Slovakia,Daily hospital occupancy,2022-06-23,254.0
+Slovakia,Daily hospital occupancy,2022-06-24,262.0
+Slovakia,Daily hospital occupancy,2022-06-25,277.0
+Slovakia,Daily hospital occupancy,2022-06-26,294.0
+Slovakia,Daily hospital occupancy,2022-06-27,323.0
+Slovakia,Daily hospital occupancy,2022-06-28,329.0
+Slovakia,Daily hospital occupancy,2022-06-29,335.0
+Slovakia,Daily hospital occupancy,2022-06-30,347.0
+Slovakia,Daily hospital occupancy,2022-07-01,332.0
+Slovakia,Daily hospital occupancy,2022-07-02,343.0
+Slovakia,Daily hospital occupancy,2022-07-03,365.0
+Slovakia,Daily hospital occupancy,2022-07-04,351.0
+Slovakia,Daily hospital occupancy,2022-07-05,361.0
+Slovakia,Daily hospital occupancy,2022-07-06,349.0
+Slovakia,Daily hospital occupancy,2022-07-07,20.0
+Slovakia,Daily hospital occupancy,2022-07-08,338.0
+Slovakia,Daily hospital occupancy,2022-07-09,354.0
+Slovakia,Daily hospital occupancy,2022-07-10,370.0
+Slovakia,Daily hospital occupancy,2022-07-11,397.0
+Slovakia,Daily hospital occupancy,2022-07-12,380.0
+Slovakia,Daily hospital occupancy,2022-07-13,396.0
+Slovakia,Daily hospital occupancy,2022-07-14,414.0
+Slovakia,Daily hospital occupancy,2022-07-15,405.0
+Slovakia,Daily hospital occupancy,2022-07-16,443.0
+Slovakia,Daily hospital occupancy,2022-07-17,493.0
+Slovakia,Daily hospital occupancy,2022-07-18,520.0
+Slovakia,Daily hospital occupancy,2022-07-19,553.0
+Slovakia,Daily hospital occupancy,2022-07-20,565.0
+Slovakia,Daily hospital occupancy,2022-07-21,584.0
+Slovakia,Daily hospital occupancy,2022-07-22,610.0
+Slovakia,Daily hospital occupancy,2022-07-23,661.0
+Slovakia,Daily hospital occupancy,2022-07-24,717.0
+Slovakia,Daily hospital occupancy,2022-07-25,741.0
+Slovakia,Daily hospital occupancy,2022-07-26,762.0
+Slovakia,Daily hospital occupancy,2022-07-27,779.0
+Slovakia,Daily hospital occupancy,2022-07-28,758.0
+Slovakia,Daily hospital occupancy,2022-07-29,734.0
+Slovakia,Daily hospital occupancy,2022-07-30,742.0
+Slovakia,Daily hospital occupancy,2022-07-31,770.0
+Slovakia,Daily hospital occupancy,2022-08-01,742.0
+Slovakia,Daily hospital occupancy,2022-08-02,719.0
+Slovakia,Daily hospital occupancy,2022-08-03,676.0
+Slovakia,Daily hospital occupancy,2022-08-04,680.0
+Slovakia,Daily hospital occupancy,2022-08-05,607.0
+Slovakia,Daily hospital occupancy,2022-08-06,633.0
+Slovakia,Daily hospital occupancy,2022-08-07,671.0
+Slovakia,Daily hospital occupancy,2022-08-08,620.0
+Slovakia,Daily hospital occupancy,2022-08-09,583.0
+Slovakia,Daily hospital occupancy,2022-08-10,568.0
+Slovakia,Daily hospital occupancy,2022-08-11,549.0
+Slovakia,Daily hospital occupancy,2022-08-12,510.0
+Slovakia,Daily hospital occupancy,2022-08-13,534.0
+Slovakia,Daily hospital occupancy,2022-08-14,560.0
+Slovakia,Daily hospital occupancy,2022-08-15,534.0
+Slovakia,Daily hospital occupancy,2022-08-16,530.0
+Slovakia,Daily hospital occupancy,2022-08-17,530.0
+Slovakia,Daily hospital occupancy,2022-08-18,543.0
+Slovakia,Daily hospital occupancy,2022-08-19,517.0
+Slovakia,Daily hospital occupancy,2022-08-20,539.0
+Slovakia,Daily hospital occupancy,2022-08-21,573.0
+Slovakia,Daily hospital occupancy,2022-08-22,572.0
+Slovakia,Daily hospital occupancy,2022-08-23,534.0
+Slovakia,Daily hospital occupancy,2022-08-24,491.0
+Slovakia,Daily hospital occupancy,2022-08-25,497.0
+Slovakia,Daily hospital occupancy,2022-08-26,461.0
+Slovakia,Daily hospital occupancy,2022-08-27,463.0
+Slovakia,Daily hospital occupancy,2022-08-28,505.0
+Slovakia,Daily hospital occupancy,2022-08-29,522.0
+Slovakia,Daily hospital occupancy,2022-08-30,476.0
+Slovakia,Daily hospital occupancy,2022-08-31,432.0
+Slovakia,Daily hospital occupancy,2022-09-01,441.0
+Slovakia,Daily hospital occupancy,2022-09-02,403.0
+Slovakia,Daily hospital occupancy,2022-09-03,422.0
+Slovakia,Daily hospital occupancy,2022-09-04,440.0
+Slovakia,Daily hospital occupancy,2022-09-05,426.0
+Slovakia,Daily hospital occupancy,2022-09-06,417.0
+Slovakia,Daily hospital occupancy,2022-09-07,410.0
+Slovakia,Daily hospital occupancy,2022-09-08,427.0
+Slovakia,Daily hospital occupancy,2022-09-09,401.0
+Slovakia,Daily hospital occupancy,2022-09-10,411.0
+Slovakia,Daily hospital occupancy,2022-09-11,424.0
+Slovakia,Daily hospital occupancy,2022-09-12,400.0
+Slovakia,Daily hospital occupancy,2022-09-13,401.0
+Slovakia,Daily hospital occupancy,2022-09-14,397.0
+Slovakia,Daily hospital occupancy,2022-09-15,415.0
+Slovakia,Daily hospital occupancy,2022-09-16,413.0
+Slovakia,Daily hospital occupancy,2022-09-17,447.0
+Slovakia,Daily hospital occupancy,2022-09-18,484.0
+Slovakia,Daily hospital occupancy,2022-09-19,493.0
+Slovakia,Daily hospital occupancy,2022-09-20,481.0
+Slovakia,Daily hospital occupancy,2022-09-21,490.0
+Slovakia,Daily hospital occupancy,2022-09-22,523.0
+Slovakia,Daily hospital occupancy,2022-09-23,530.0
+Slovakia,Daily hospital occupancy,2022-09-24,587.0
+Slovakia,Daily hospital occupancy,2022-09-25,626.0
+Slovakia,Daily hospital occupancy,2022-09-26,681.0
+Slovakia,Daily hospital occupancy,2022-09-27,693.0
+Slovakia,Daily hospital occupancy,2022-09-28,739.0
+Slovakia,Daily hospital occupancy,2022-09-29,784.0
+Slovakia,Daily hospital occupancy,2022-09-30,768.0
+Slovakia,Daily hospital occupancy,2022-10-01,823.0
+Slovakia,Daily hospital occupancy,2022-10-02,876.0
+Slovakia,Daily hospital occupancy,2022-10-03,921.0
+Slovakia,Daily hospital occupancy,2022-10-04,915.0
+Slovakia,Daily hospital occupancy,2022-10-05,899.0
+Slovakia,Daily hospital occupancy,2022-10-06,885.0
+Slovakia,Daily hospital occupancy,2022-10-07,864.0
+Slovakia,Daily hospital occupancy,2022-10-08,884.0
+Slovakia,Daily hospital occupancy,2022-10-09,938.0
+Slovakia,Daily hospital occupancy,2022-10-10,897.0
+Slovakia,Daily hospital occupancy,2022-10-11,867.0
+Slovakia,Daily hospital occupancy,2022-10-12,866.0
+Slovakia,Daily hospital occupancy,2022-10-13,870.0
+Slovakia,Daily hospital occupancy,2022-10-14,815.0
+Slovakia,Daily hospital occupancy,2022-10-15,856.0
+Slovakia,Daily hospital occupancy,2022-10-16,889.0
+Slovakia,Daily hospital occupancy,2022-10-17,831.0
+Slovakia,Daily hospital occupancy,2022-10-18,806.0
+Slovakia,Daily hospital occupancy,2022-10-19,769.0
+Slovakia,Daily hospital occupancy,2022-10-20,756.0
+Slovakia,Daily hospital occupancy,2022-10-21,701.0
+Slovakia,Daily hospital occupancy,2022-10-22,712.0
+Slovakia,Daily hospital occupancy,2022-10-23,723.0
+Slovakia,Daily hospital occupancy,2022-10-24,673.0
+Slovakia,Daily hospital occupancy,2022-10-25,644.0
+Slovakia,Daily hospital occupancy,2022-10-26,612.0
+Slovakia,Daily hospital occupancy,2022-10-27,571.0
+Slovakia,Daily hospital occupancy,2022-10-28,517.0
+Slovakia,Daily hospital occupancy,2022-10-29,527.0
+Slovakia,Daily hospital occupancy,2022-10-30,553.0
+Slovakia,Daily hospital occupancy,2022-10-31,518.0
+Slovakia,Daily hospital occupancy,2022-11-01,536.0
+Slovakia,Daily hospital occupancy,2022-11-02,524.0
+Slovakia,Daily hospital occupancy,2022-11-03,507.0
+Slovakia,Daily hospital occupancy,2022-11-04,481.0
+Slovakia,Daily hospital occupancy,2022-11-05,493.0
+Slovakia,Daily hospital occupancy,2022-11-06,502.0
+Slovakia,Daily hospital occupancy,2022-11-07,486.0
+Slovakia,Daily hospital occupancy,2022-11-08,462.0
+Slovakia,Daily hospital occupancy,2022-11-09,444.0
+Slovakia,Daily hospital occupancy,2022-11-10,401.0
+Slovakia,Daily hospital occupancy,2022-11-11,380.0
+Slovakia,Daily hospital occupancy,2022-11-12,389.0
+Slovakia,Daily hospital occupancy,2022-11-13,402.0
+Slovakia,Daily hospital occupancy,2022-11-14,385.0
+Slovakia,Daily hospital occupancy,2022-11-15,373.0
+Slovakia,Daily hospital occupancy,2022-11-16,354.0
+Slovakia,Daily hospital occupancy,2022-11-17,376.0
+Slovakia,Daily hospital occupancy,2022-11-18,357.0
+Slovakia,Daily hospital occupancy,2022-11-19,371.0
+Slovakia,Daily hospital occupancy,2022-11-20,381.0
+Slovakia,Daily hospital occupancy,2022-11-21,377.0
+Slovakia,Daily hospital occupancy,2022-11-22,367.0
+Slovakia,Daily hospital occupancy,2022-11-23,353.0
+Slovakia,Daily hospital occupancy,2022-11-24,342.0
+Slovakia,Daily hospital occupancy,2022-11-25,346.0
+Slovakia,Daily hospital occupancy,2022-11-26,368.0
+Slovakia,Daily hospital occupancy,2022-11-27,392.0
+Slovakia,Daily hospital occupancy,2022-11-28,396.0
+Slovakia,Daily hospital occupancy,2022-11-29,411.0
+Slovakia,Daily hospital occupancy,2022-11-30,422.0
+Slovakia,Daily hospital occupancy,2022-12-01,444.0
+Slovakia,Daily hospital occupancy,2022-12-02,433.0
+Slovakia,Daily hospital occupancy,2022-12-03,438.0
+Slovakia,Daily hospital occupancy,2022-12-04,474.0
+Slovakia,Daily hospital occupancy,2022-12-05,462.0
+Slovakia,Daily hospital occupancy,2022-12-06,461.0
+Slovakia,Daily hospital occupancy,2022-12-07,471.0
+Slovakia,Daily hospital occupancy,2022-12-08,476.0
+Slovakia,Daily hospital occupancy,2022-12-09,484.0
+Slovakia,Daily hospital occupancy,2022-12-10,510.0
+Slovakia,Daily hospital occupancy,2022-12-11,551.0
+Slovakia,Daily hospital occupancy,2022-12-12,542.0
+Slovakia,Daily hospital occupancy,2022-12-13,524.0
+Slovakia,Daily hospital occupancy,2022-12-14,527.0
+Slovakia,Daily hospital occupancy,2022-12-15,522.0
+Slovakia,Daily hospital occupancy,2022-12-16,486.0
+Slovakia,Daily hospital occupancy,2022-12-17,501.0
+Slovakia,Daily hospital occupancy,2022-12-18,527.0
+Slovakia,Daily hospital occupancy,2022-12-19,536.0
+Slovakia,Daily hospital occupancy,2022-12-20,528.0
+Slovakia,Daily hospital occupancy,2022-12-21,498.0
+Slovakia,Daily hospital occupancy,2022-12-22,451.0
+Slovakia,Daily hospital occupancy,2022-12-23,375.0
+Slovakia,Daily hospital occupancy,2022-12-24,374.0
+Slovakia,Daily hospital occupancy,2022-12-25,408.0
+Slovakia,Daily hospital occupancy,2022-12-26,437.0
+Slovakia,Daily hospital occupancy,2022-12-27,449.0
+Slovakia,Daily hospital occupancy,2022-12-28,448.0
+Slovakia,Daily hospital occupancy,2022-12-29,474.0
+Slovakia,Daily hospital occupancy,2022-12-30,462.0
+Slovakia,Daily hospital occupancy,2022-12-31,469.0
+Slovakia,Daily hospital occupancy,2023-01-01,8.0
+Slovakia,Daily hospital occupancy,2023-01-02,435.0
+Slovakia,Daily hospital occupancy,2023-01-03,420.0
+Slovakia,Daily hospital occupancy,2023-01-04,416.0
+Slovakia,Daily hospital occupancy,2023-01-05,395.0
+Slovakia,Daily hospital occupancy,2023-01-06,402.0
+Slovakia,Daily hospital occupancy,2023-01-07,400.0
+Slovakia,Daily hospital occupancy,2023-01-08,412.0
+Slovakia,Daily hospital occupancy,2023-01-09,380.0
+Slovakia,Daily hospital occupancy,2023-01-10,368.0
+Slovakia,Daily hospital occupancy,2023-01-11,353.0
+Slovakia,Daily hospital occupancy,2023-01-12,350.0
+Slovakia,Daily hospital occupancy,2023-01-13,308.0
+Slovakia,Daily hospital occupancy,2023-01-14,315.0
+Slovakia,Daily hospital occupancy,2023-01-15,319.0
+Slovakia,Daily hospital occupancy,2023-01-16,302.0
+Slovakia,Daily hospital occupancy,2023-01-17,300.0
+Slovakia,Daily hospital occupancy,2023-01-18,301.0
+Slovakia,Daily hospital occupancy,2023-01-19,313.0
+Slovakia,Daily hospital occupancy,2023-01-20,300.0
+Slovakia,Daily hospital occupancy,2023-01-21,306.0
+Slovakia,Daily hospital occupancy,2023-01-22,315.0
+Slovakia,Daily hospital occupancy,2023-01-23,305.0
+Slovakia,Daily hospital occupancy,2023-01-24,285.0
+Slovakia,Daily hospital occupancy,2023-01-25,281.0
+Slovakia,Daily hospital occupancy,2023-01-26,282.0
+Slovakia,Daily hospital occupancy,2023-01-27,270.0
+Slovakia,Daily hospital occupancy,2023-01-28,272.0
+Slovakia,Daily hospital occupancy,2023-01-29,275.0
+Slovakia,Daily hospital occupancy,2023-01-30,265.0
+Slovakia,Daily hospital occupancy,2023-01-31,259.0
+Slovakia,Daily hospital occupancy,2023-02-01,276.0
+Slovakia,Daily hospital occupancy,2023-02-02,274.0
+Slovakia,Daily hospital occupancy,2023-02-03,286.0
+Slovakia,Daily hospital occupancy,2023-02-04,300.0
+Slovakia,Daily hospital occupancy,2023-02-05,311.0
+Slovakia,Daily hospital occupancy,2023-02-06,315.0
+Slovakia,Daily hospital occupancy,2023-02-07,323.0
+Slovakia,Daily hospital occupancy,2023-02-08,323.0
+Slovakia,Daily hospital occupancy,2023-02-09,342.0
+Slovakia,Daily hospital occupancy,2023-02-10,346.0
+Slovakia,Daily hospital occupancy,2023-02-11,373.0
+Slovakia,Daily hospital occupancy,2023-02-12,391.0
+Slovakia,Daily hospital occupancy,2023-02-13,410.0
+Slovakia,Daily hospital occupancy,2023-02-14,430.0
+Slovakia,Daily hospital occupancy,2023-02-15,407.0
+Slovakia,Daily hospital occupancy,2023-02-16,427.0
+Slovakia,Daily hospital occupancy,2023-02-17,407.0
+Slovakia,Daily hospital occupancy,2023-02-18,433.0
+Slovakia,Daily hospital occupancy,2023-02-19,449.0
+Slovakia,Daily hospital occupancy,2023-02-20,455.0
+Slovakia,Daily hospital occupancy,2023-02-21,459.0
+Slovakia,Daily hospital occupancy,2023-02-22,472.0
+Slovakia,Daily hospital occupancy,2023-02-23,480.0
+Slovakia,Daily hospital occupancy,2023-02-24,467.0
+Slovakia,Daily hospital occupancy,2023-02-25,488.0
+Slovakia,Daily hospital occupancy,2023-02-26,503.0
+Slovakia,Daily hospital occupancy,2023-02-27,504.0
+Slovakia,Daily hospital occupancy,2023-02-28,482.0
+Slovakia,Daily hospital occupancy,2023-03-01,494.0
+Slovakia,Daily hospital occupancy,2023-03-02,496.0
+Slovakia,Daily hospital occupancy,2023-03-03,476.0
+Slovakia,Daily hospital occupancy,2023-03-04,504.0
+Slovakia,Daily hospital occupancy,2023-03-05,537.0
+Slovakia,Daily hospital occupancy,2023-03-06,529.0
+Slovakia,Daily hospital occupancy,2023-03-07,553.0
+Slovakia,Daily hospital occupancy,2023-03-08,545.0
+Slovakia,Daily hospital occupancy,2023-03-09,544.0
+Slovakia,Daily hospital occupancy,2023-03-10,482.0
+Slovakia,Daily hospital occupancy,2023-03-11,487.0
+Slovakia,Daily hospital occupancy,2023-03-12,523.0
+Slovakia,Daily hospital occupancy,2023-03-13,511.0
+Slovakia,Daily hospital occupancy,2023-03-14,507.0
+Slovakia,Daily hospital occupancy,2023-03-15,493.0
+Slovakia,Daily hospital occupancy,2023-03-16,466.0
+Slovakia,Daily hospital occupancy,2023-03-17,428.0
+Slovakia,Daily hospital occupancy,2023-03-18,447.0
+Slovakia,Daily hospital occupancy,2023-03-19,476.0
+Slovakia,Daily hospital occupancy,2023-03-20,463.0
+Slovakia,Daily hospital occupancy,2023-03-21,465.0
+Slovakia,Daily hospital occupancy,2023-03-22,460.0
+Slovakia,Daily ICU occupancy,2020-03-08,2.0
+Slovakia,Daily ICU occupancy,2020-03-09,2.0
+Slovakia,Daily ICU occupancy,2020-03-10,2.0
+Slovakia,Daily ICU occupancy,2020-03-11,2.0
+Slovakia,Daily ICU occupancy,2020-03-12,3.0
+Slovakia,Daily ICU occupancy,2020-03-13,2.0
+Slovakia,Daily ICU occupancy,2020-03-14,2.0
+Slovakia,Daily ICU occupancy,2020-03-15,2.0
+Slovakia,Daily ICU occupancy,2020-03-16,2.0
+Slovakia,Daily ICU occupancy,2020-03-17,2.0
+Slovakia,Daily ICU occupancy,2020-03-18,2.0
+Slovakia,Daily ICU occupancy,2020-03-19,2.0
+Slovakia,Daily ICU occupancy,2020-03-20,2.0
+Slovakia,Daily ICU occupancy,2020-03-21,2.0
+Slovakia,Daily ICU occupancy,2020-03-22,2.0
+Slovakia,Daily ICU occupancy,2020-03-23,1.0
+Slovakia,Daily ICU occupancy,2020-03-24,1.0
+Slovakia,Daily ICU occupancy,2020-03-25,2.0
+Slovakia,Daily ICU occupancy,2020-03-26,2.0
+Slovakia,Daily ICU occupancy,2020-03-27,3.0
+Slovakia,Daily ICU occupancy,2020-03-28,3.0
+Slovakia,Daily ICU occupancy,2020-03-29,3.0
+Slovakia,Daily ICU occupancy,2020-03-30,3.0
+Slovakia,Daily ICU occupancy,2020-03-31,3.0
+Slovakia,Daily ICU occupancy,2020-04-01,4.0
+Slovakia,Daily ICU occupancy,2020-04-02,4.0
+Slovakia,Daily ICU occupancy,2020-04-03,4.0
+Slovakia,Daily ICU occupancy,2020-04-04,5.0
+Slovakia,Daily ICU occupancy,2020-04-05,5.0
+Slovakia,Daily ICU occupancy,2020-04-06,5.0
+Slovakia,Daily ICU occupancy,2020-04-07,7.0
+Slovakia,Daily ICU occupancy,2020-04-08,7.0
+Slovakia,Daily ICU occupancy,2020-04-09,5.0
+Slovakia,Daily ICU occupancy,2020-04-10,5.0
+Slovakia,Daily ICU occupancy,2020-04-11,7.0
+Slovakia,Daily ICU occupancy,2020-04-12,7.0
+Slovakia,Daily ICU occupancy,2020-04-13,8.0
+Slovakia,Daily ICU occupancy,2020-04-14,6.0
+Slovakia,Daily ICU occupancy,2020-04-15,5.0
+Slovakia,Daily ICU occupancy,2020-04-16,7.0
+Slovakia,Daily ICU occupancy,2020-04-17,7.0
+Slovakia,Daily ICU occupancy,2020-04-18,7.0
+Slovakia,Daily ICU occupancy,2020-04-19,7.0
+Slovakia,Daily ICU occupancy,2020-04-20,7.0
+Slovakia,Daily ICU occupancy,2020-04-21,8.0
+Slovakia,Daily ICU occupancy,2020-04-22,8.0
+Slovakia,Daily ICU occupancy,2020-04-23,9.0
+Slovakia,Daily ICU occupancy,2020-04-24,6.0
+Slovakia,Daily ICU occupancy,2020-04-25,5.0
+Slovakia,Daily ICU occupancy,2020-04-26,6.0
+Slovakia,Daily ICU occupancy,2020-04-27,5.0
+Slovakia,Daily ICU occupancy,2020-04-28,5.0
+Slovakia,Daily ICU occupancy,2020-04-29,4.0
+Slovakia,Daily ICU occupancy,2020-04-30,3.0
+Slovakia,Daily ICU occupancy,2020-05-01,3.0
+Slovakia,Daily ICU occupancy,2020-05-02,3.0
+Slovakia,Daily ICU occupancy,2020-05-03,3.0
+Slovakia,Daily ICU occupancy,2020-05-04,3.0
+Slovakia,Daily ICU occupancy,2020-05-05,3.0
+Slovakia,Daily ICU occupancy,2020-05-06,2.0
+Slovakia,Daily ICU occupancy,2020-05-07,2.0
+Slovakia,Daily ICU occupancy,2020-05-08,2.0
+Slovakia,Daily ICU occupancy,2020-05-09,2.0
+Slovakia,Daily ICU occupancy,2020-05-10,2.0
+Slovakia,Daily ICU occupancy,2020-05-11,2.0
+Slovakia,Daily ICU occupancy,2020-05-12,2.0
+Slovakia,Daily ICU occupancy,2020-05-13,1.0
+Slovakia,Daily ICU occupancy,2020-05-14,1.0
+Slovakia,Daily ICU occupancy,2020-05-15,1.0
+Slovakia,Daily ICU occupancy,2020-05-16,1.0
+Slovakia,Daily ICU occupancy,2020-05-17,1.0
+Slovakia,Daily ICU occupancy,2020-05-18,1.0
+Slovakia,Daily ICU occupancy,2020-05-19,1.0
+Slovakia,Daily ICU occupancy,2020-05-20,1.0
+Slovakia,Daily ICU occupancy,2020-05-21,1.0
+Slovakia,Daily ICU occupancy,2020-05-22,1.0
+Slovakia,Daily ICU occupancy,2020-05-23,1.0
+Slovakia,Daily ICU occupancy,2020-05-24,1.0
+Slovakia,Daily ICU occupancy,2020-05-25,1.0
+Slovakia,Daily ICU occupancy,2020-05-26,1.0
+Slovakia,Daily ICU occupancy,2020-05-27,1.0
+Slovakia,Daily ICU occupancy,2020-05-28,1.0
+Slovakia,Daily ICU occupancy,2020-05-29,1.0
+Slovakia,Daily ICU occupancy,2020-05-30,1.0
+Slovakia,Daily ICU occupancy,2020-05-31,1.0
+Slovakia,Daily ICU occupancy,2020-06-01,1.0
+Slovakia,Daily ICU occupancy,2020-06-02,1.0
+Slovakia,Daily ICU occupancy,2020-06-03,1.0
+Slovakia,Daily ICU occupancy,2020-06-04,1.0
+Slovakia,Daily ICU occupancy,2020-06-05,1.0
+Slovakia,Daily ICU occupancy,2020-06-06,1.0
+Slovakia,Daily ICU occupancy,2020-06-07,1.0
+Slovakia,Daily ICU occupancy,2020-06-11,1.0
+Slovakia,Daily ICU occupancy,2020-06-12,1.0
+Slovakia,Daily ICU occupancy,2020-06-13,1.0
+Slovakia,Daily ICU occupancy,2020-06-14,1.0
+Slovakia,Daily ICU occupancy,2020-06-15,1.0
+Slovakia,Daily ICU occupancy,2020-06-16,1.0
+Slovakia,Daily ICU occupancy,2020-06-17,1.0
+Slovakia,Daily ICU occupancy,2020-06-18,1.0
+Slovakia,Daily ICU occupancy,2020-06-19,1.0
+Slovakia,Daily ICU occupancy,2020-06-20,1.0
+Slovakia,Daily ICU occupancy,2020-06-21,1.0
+Slovakia,Daily ICU occupancy,2020-06-22,1.0
+Slovakia,Daily ICU occupancy,2020-06-23,1.0
+Slovakia,Daily ICU occupancy,2020-06-24,4.0
+Slovakia,Daily ICU occupancy,2020-06-25,4.0
+Slovakia,Daily ICU occupancy,2020-06-26,4.0
+Slovakia,Daily ICU occupancy,2020-06-27,4.0
+Slovakia,Daily ICU occupancy,2020-06-28,4.0
+Slovakia,Daily ICU occupancy,2020-06-29,3.0
+Slovakia,Daily ICU occupancy,2020-06-30,3.0
+Slovakia,Daily ICU occupancy,2020-07-01,3.0
+Slovakia,Daily ICU occupancy,2020-07-02,4.0
+Slovakia,Daily ICU occupancy,2020-07-03,4.0
+Slovakia,Daily ICU occupancy,2020-07-04,4.0
+Slovakia,Daily ICU occupancy,2020-07-05,4.0
+Slovakia,Daily ICU occupancy,2020-07-06,4.0
+Slovakia,Daily ICU occupancy,2020-07-07,4.0
+Slovakia,Daily ICU occupancy,2020-07-08,4.0
+Slovakia,Daily ICU occupancy,2020-07-09,3.0
+Slovakia,Daily ICU occupancy,2020-07-10,3.0
+Slovakia,Daily ICU occupancy,2020-07-11,3.0
+Slovakia,Daily ICU occupancy,2020-07-12,3.0
+Slovakia,Daily ICU occupancy,2020-07-13,3.0
+Slovakia,Daily ICU occupancy,2020-07-14,3.0
+Slovakia,Daily ICU occupancy,2020-07-15,3.0
+Slovakia,Daily ICU occupancy,2020-07-16,3.0
+Slovakia,Daily ICU occupancy,2020-07-17,3.0
+Slovakia,Daily ICU occupancy,2020-07-18,3.0
+Slovakia,Daily ICU occupancy,2020-07-19,3.0
+Slovakia,Daily ICU occupancy,2020-07-20,3.0
+Slovakia,Daily ICU occupancy,2020-07-21,3.0
+Slovakia,Daily ICU occupancy,2020-07-22,3.0
+Slovakia,Daily ICU occupancy,2020-07-23,3.0
+Slovakia,Daily ICU occupancy,2020-07-24,3.0
+Slovakia,Daily ICU occupancy,2020-07-25,3.0
+Slovakia,Daily ICU occupancy,2020-07-26,3.0
+Slovakia,Daily ICU occupancy,2020-07-27,4.0
+Slovakia,Daily ICU occupancy,2020-07-28,3.0
+Slovakia,Daily ICU occupancy,2020-07-29,3.0
+Slovakia,Daily ICU occupancy,2020-07-30,3.0
+Slovakia,Daily ICU occupancy,2020-07-31,3.0
+Slovakia,Daily ICU occupancy,2020-08-01,3.0
+Slovakia,Daily ICU occupancy,2020-08-02,3.0
+Slovakia,Daily ICU occupancy,2020-08-03,2.0
+Slovakia,Daily ICU occupancy,2020-08-04,4.0
+Slovakia,Daily ICU occupancy,2020-08-05,4.0
+Slovakia,Daily ICU occupancy,2020-08-06,5.0
+Slovakia,Daily ICU occupancy,2020-08-07,6.0
+Slovakia,Daily ICU occupancy,2020-08-08,5.0
+Slovakia,Daily ICU occupancy,2020-08-09,5.0
+Slovakia,Daily ICU occupancy,2020-08-10,5.0
+Slovakia,Daily ICU occupancy,2020-08-11,9.0
+Slovakia,Daily ICU occupancy,2020-08-12,12.0
+Slovakia,Daily ICU occupancy,2020-08-13,14.0
+Slovakia,Daily ICU occupancy,2020-08-14,14.0
+Slovakia,Daily ICU occupancy,2020-08-15,14.0
+Slovakia,Daily ICU occupancy,2020-08-16,14.0
+Slovakia,Daily ICU occupancy,2020-08-17,14.0
+Slovakia,Daily ICU occupancy,2020-08-18,11.0
+Slovakia,Daily ICU occupancy,2020-08-19,13.0
+Slovakia,Daily ICU occupancy,2020-08-20,9.0
+Slovakia,Daily ICU occupancy,2020-08-21,10.0
+Slovakia,Daily ICU occupancy,2020-08-22,10.0
+Slovakia,Daily ICU occupancy,2020-08-23,12.0
+Slovakia,Daily ICU occupancy,2020-08-24,15.0
+Slovakia,Daily ICU occupancy,2020-08-25,14.0
+Slovakia,Daily ICU occupancy,2020-08-26,11.0
+Slovakia,Daily ICU occupancy,2020-08-27,15.0
+Slovakia,Daily ICU occupancy,2020-08-28,21.0
+Slovakia,Daily ICU occupancy,2020-08-29,23.0
+Slovakia,Daily ICU occupancy,2020-08-30,23.0
+Slovakia,Daily ICU occupancy,2020-08-31,22.0
+Slovakia,Daily ICU occupancy,2020-09-01,22.0
+Slovakia,Daily ICU occupancy,2020-09-02,21.0
+Slovakia,Daily ICU occupancy,2020-09-03,22.0
+Slovakia,Daily ICU occupancy,2020-09-04,24.0
+Slovakia,Daily ICU occupancy,2020-09-05,23.0
+Slovakia,Daily ICU occupancy,2020-09-06,23.0
+Slovakia,Daily ICU occupancy,2020-09-07,24.0
+Slovakia,Daily ICU occupancy,2020-09-08,23.0
+Slovakia,Daily ICU occupancy,2020-09-09,24.0
+Slovakia,Daily ICU occupancy,2020-09-10,25.0
+Slovakia,Daily ICU occupancy,2020-09-11,26.0
+Slovakia,Daily ICU occupancy,2020-09-12,25.0
+Slovakia,Daily ICU occupancy,2020-09-13,26.0
+Slovakia,Daily ICU occupancy,2020-09-14,25.0
+Slovakia,Daily ICU occupancy,2020-09-15,22.0
+Slovakia,Daily ICU occupancy,2020-09-16,23.0
+Slovakia,Daily ICU occupancy,2020-09-17,23.0
+Slovakia,Daily ICU occupancy,2020-09-18,20.0
+Slovakia,Daily ICU occupancy,2020-09-19,20.0
+Slovakia,Daily ICU occupancy,2020-09-20,20.0
+Slovakia,Daily ICU occupancy,2020-09-21,17.0
+Slovakia,Daily ICU occupancy,2020-09-22,22.0
+Slovakia,Daily ICU occupancy,2020-09-23,23.0
+Slovakia,Daily ICU occupancy,2020-09-24,30.0
+Slovakia,Daily ICU occupancy,2020-09-25,31.0
+Slovakia,Daily ICU occupancy,2020-09-26,34.0
+Slovakia,Daily ICU occupancy,2020-09-27,35.0
+Slovakia,Daily ICU occupancy,2020-09-28,36.0
+Slovakia,Daily ICU occupancy,2020-09-29,36.0
+Slovakia,Daily ICU occupancy,2020-09-30,40.0
+Slovakia,Daily ICU occupancy,2020-10-01,42.0
+Slovakia,Daily ICU occupancy,2020-10-02,42.0
+Slovakia,Daily ICU occupancy,2020-10-03,44.0
+Slovakia,Daily ICU occupancy,2020-10-04,44.0
+Slovakia,Daily ICU occupancy,2020-10-05,49.0
+Slovakia,Daily ICU occupancy,2020-10-06,42.0
+Slovakia,Daily ICU occupancy,2020-10-07,45.0
+Slovakia,Daily ICU occupancy,2020-10-08,52.0
+Slovakia,Daily ICU occupancy,2020-10-09,52.0
+Slovakia,Daily ICU occupancy,2020-10-10,58.0
+Slovakia,Daily ICU occupancy,2020-10-11,59.0
+Slovakia,Daily ICU occupancy,2020-10-12,69.0
+Slovakia,Daily ICU occupancy,2020-10-13,70.0
+Slovakia,Daily ICU occupancy,2020-10-14,75.0
+Slovakia,Daily ICU occupancy,2020-10-15,74.0
+Slovakia,Daily ICU occupancy,2020-10-16,79.0
+Slovakia,Daily ICU occupancy,2020-10-17,86.0
+Slovakia,Daily ICU occupancy,2020-10-18,87.0
+Slovakia,Daily ICU occupancy,2020-10-19,82.0
+Slovakia,Daily ICU occupancy,2020-10-20,86.0
+Slovakia,Daily ICU occupancy,2020-10-21,88.0
+Slovakia,Daily ICU occupancy,2020-10-22,92.0
+Slovakia,Daily ICU occupancy,2020-10-23,105.0
+Slovakia,Daily ICU occupancy,2020-10-24,113.0
+Slovakia,Daily ICU occupancy,2020-10-25,124.0
+Slovakia,Daily ICU occupancy,2020-10-26,123.0
+Slovakia,Daily ICU occupancy,2020-10-27,132.0
+Slovakia,Daily ICU occupancy,2020-10-28,146.0
+Slovakia,Daily ICU occupancy,2020-10-29,145.0
+Slovakia,Daily ICU occupancy,2020-10-30,130.0
+Slovakia,Daily ICU occupancy,2020-10-31,123.0
+Slovakia,Daily ICU occupancy,2020-11-01,125.0
+Slovakia,Daily ICU occupancy,2020-11-02,131.0
+Slovakia,Daily ICU occupancy,2020-11-03,125.0
+Slovakia,Daily ICU occupancy,2020-11-04,128.0
+Slovakia,Daily ICU occupancy,2020-11-05,132.0
+Slovakia,Daily ICU occupancy,2020-11-06,137.0
+Slovakia,Daily ICU occupancy,2020-11-07,144.0
+Slovakia,Daily ICU occupancy,2020-11-08,146.0
+Slovakia,Daily ICU occupancy,2020-11-09,146.0
+Slovakia,Daily ICU occupancy,2020-11-10,148.0
+Slovakia,Daily ICU occupancy,2020-11-11,142.0
+Slovakia,Daily ICU occupancy,2020-11-12,139.0
+Slovakia,Daily ICU occupancy,2020-11-13,133.0
+Slovakia,Daily ICU occupancy,2020-11-14,148.0
+Slovakia,Daily ICU occupancy,2020-11-15,143.0
+Slovakia,Daily ICU occupancy,2020-11-16,139.0
+Slovakia,Daily ICU occupancy,2020-11-17,137.0
+Slovakia,Daily ICU occupancy,2020-11-18,140.0
+Slovakia,Daily ICU occupancy,2020-11-19,135.0
+Slovakia,Daily ICU occupancy,2020-11-20,136.0
+Slovakia,Daily ICU occupancy,2020-11-21,138.0
+Slovakia,Daily ICU occupancy,2020-11-22,146.0
+Slovakia,Daily ICU occupancy,2020-11-23,143.0
+Slovakia,Daily ICU occupancy,2020-11-24,149.0
+Slovakia,Daily ICU occupancy,2020-11-25,138.0
+Slovakia,Daily ICU occupancy,2020-11-26,142.0
+Slovakia,Daily ICU occupancy,2020-11-27,143.0
+Slovakia,Daily ICU occupancy,2020-11-28,154.0
+Slovakia,Daily ICU occupancy,2020-11-29,152.0
+Slovakia,Daily ICU occupancy,2020-11-30,146.0
+Slovakia,Daily ICU occupancy,2020-12-01,154.0
+Slovakia,Daily ICU occupancy,2020-12-02,155.0
+Slovakia,Daily ICU occupancy,2020-12-03,156.0
+Slovakia,Daily ICU occupancy,2020-12-04,159.0
+Slovakia,Daily ICU occupancy,2020-12-05,158.0
+Slovakia,Daily ICU occupancy,2020-12-06,159.0
+Slovakia,Daily ICU occupancy,2020-12-07,155.0
+Slovakia,Daily ICU occupancy,2020-12-08,158.0
+Slovakia,Daily ICU occupancy,2020-12-09,156.0
+Slovakia,Daily ICU occupancy,2020-12-10,159.0
+Slovakia,Daily ICU occupancy,2020-12-11,163.0
+Slovakia,Daily ICU occupancy,2020-12-12,163.0
+Slovakia,Daily ICU occupancy,2020-12-13,170.0
+Slovakia,Daily ICU occupancy,2020-12-14,168.0
+Slovakia,Daily ICU occupancy,2020-12-15,162.0
+Slovakia,Daily ICU occupancy,2020-12-16,173.0
+Slovakia,Daily ICU occupancy,2020-12-17,173.0
+Slovakia,Daily ICU occupancy,2020-12-18,175.0
+Slovakia,Daily ICU occupancy,2020-12-19,186.0
+Slovakia,Daily ICU occupancy,2020-12-20,189.0
+Slovakia,Daily ICU occupancy,2020-12-21,195.0
+Slovakia,Daily ICU occupancy,2020-12-22,195.0
+Slovakia,Daily ICU occupancy,2020-12-23,186.0
+Slovakia,Daily ICU occupancy,2020-12-24,190.0
+Slovakia,Daily ICU occupancy,2020-12-25,197.0
+Slovakia,Daily ICU occupancy,2020-12-26,202.0
+Slovakia,Daily ICU occupancy,2020-12-27,218.0
+Slovakia,Daily ICU occupancy,2020-12-28,218.0
+Slovakia,Daily ICU occupancy,2020-12-29,222.0
+Slovakia,Daily ICU occupancy,2020-12-30,229.0
+Slovakia,Daily ICU occupancy,2020-12-31,237.0
+Slovakia,Daily ICU occupancy,2021-01-01,245.0
+Slovakia,Daily ICU occupancy,2021-01-02,244.0
+Slovakia,Daily ICU occupancy,2021-01-03,249.0
+Slovakia,Daily ICU occupancy,2021-01-04,251.0
+Slovakia,Daily ICU occupancy,2021-01-05,253.0
+Slovakia,Daily ICU occupancy,2021-01-06,273.0
+Slovakia,Daily ICU occupancy,2021-01-07,267.0
+Slovakia,Daily ICU occupancy,2021-01-08,263.0
+Slovakia,Daily ICU occupancy,2021-01-09,268.0
+Slovakia,Daily ICU occupancy,2021-01-10,273.0
+Slovakia,Daily ICU occupancy,2021-01-11,276.0
+Slovakia,Daily ICU occupancy,2021-01-12,273.0
+Slovakia,Daily ICU occupancy,2021-01-13,274.0
+Slovakia,Daily ICU occupancy,2021-01-14,285.0
+Slovakia,Daily ICU occupancy,2021-01-15,295.0
+Slovakia,Daily ICU occupancy,2021-01-16,300.0
+Slovakia,Daily ICU occupancy,2021-01-17,303.0
+Slovakia,Daily ICU occupancy,2021-01-18,308.0
+Slovakia,Daily ICU occupancy,2021-01-19,305.0
+Slovakia,Daily ICU occupancy,2021-01-20,329.0
+Slovakia,Daily ICU occupancy,2021-01-21,331.0
+Slovakia,Daily ICU occupancy,2021-01-22,325.0
+Slovakia,Daily ICU occupancy,2021-01-23,326.0
+Slovakia,Daily ICU occupancy,2021-01-24,337.0
+Slovakia,Daily ICU occupancy,2021-01-25,337.0
+Slovakia,Daily ICU occupancy,2021-01-26,337.0
+Slovakia,Daily ICU occupancy,2021-01-27,326.0
+Slovakia,Daily ICU occupancy,2021-01-28,328.0
+Slovakia,Daily ICU occupancy,2021-01-29,343.0
+Slovakia,Daily ICU occupancy,2021-01-30,340.0
+Slovakia,Daily ICU occupancy,2021-01-31,330.0
+Slovakia,Daily ICU occupancy,2021-02-01,340.0
+Slovakia,Daily ICU occupancy,2021-02-02,335.0
+Slovakia,Daily ICU occupancy,2021-02-03,347.0
+Slovakia,Daily ICU occupancy,2021-02-04,357.0
+Slovakia,Daily ICU occupancy,2021-02-05,360.0
+Slovakia,Daily ICU occupancy,2021-02-06,365.0
+Slovakia,Daily ICU occupancy,2021-02-07,372.0
+Slovakia,Daily ICU occupancy,2021-02-08,373.0
+Slovakia,Daily ICU occupancy,2021-02-09,376.0
+Slovakia,Daily ICU occupancy,2021-02-10,381.0
+Slovakia,Daily ICU occupancy,2021-02-11,393.0
+Slovakia,Daily ICU occupancy,2021-02-12,414.0
+Slovakia,Daily ICU occupancy,2021-02-13,419.0
+Slovakia,Daily ICU occupancy,2021-02-14,430.0
+Slovakia,Daily ICU occupancy,2021-02-15,440.0
+Slovakia,Daily ICU occupancy,2021-02-16,466.0
+Slovakia,Daily ICU occupancy,2021-02-17,469.0
+Slovakia,Daily ICU occupancy,2021-02-18,504.0
+Slovakia,Daily ICU occupancy,2021-02-19,499.0
+Slovakia,Daily ICU occupancy,2021-02-20,491.0
+Slovakia,Daily ICU occupancy,2021-02-21,499.0
+Slovakia,Daily ICU occupancy,2021-02-22,500.0
+Slovakia,Daily ICU occupancy,2021-02-23,497.0
+Slovakia,Daily ICU occupancy,2021-02-24,517.0
+Slovakia,Daily ICU occupancy,2021-02-25,499.0
+Slovakia,Daily ICU occupancy,2021-02-26,509.0
+Slovakia,Daily ICU occupancy,2021-02-27,633.0
+Slovakia,Daily ICU occupancy,2021-02-28,584.0
+Slovakia,Daily ICU occupancy,2021-03-01,571.0
+Slovakia,Daily ICU occupancy,2021-03-02,569.0
+Slovakia,Daily ICU occupancy,2021-03-03,576.0
+Slovakia,Daily ICU occupancy,2021-03-04,591.0
+Slovakia,Daily ICU occupancy,2021-03-05,593.0
+Slovakia,Daily ICU occupancy,2021-03-06,604.0
+Slovakia,Daily ICU occupancy,2021-03-07,615.0
+Slovakia,Daily ICU occupancy,2021-03-08,593.0
+Slovakia,Daily ICU occupancy,2021-03-09,584.0
+Slovakia,Daily ICU occupancy,2021-03-10,573.0
+Slovakia,Daily ICU occupancy,2021-03-11,575.0
+Slovakia,Daily ICU occupancy,2021-03-12,573.0
+Slovakia,Daily ICU occupancy,2021-03-13,593.0
+Slovakia,Daily ICU occupancy,2021-03-14,609.0
+Slovakia,Daily ICU occupancy,2021-03-15,603.0
+Slovakia,Daily ICU occupancy,2021-03-16,615.0
+Slovakia,Daily ICU occupancy,2021-03-17,598.0
+Slovakia,Daily ICU occupancy,2021-03-18,596.0
+Slovakia,Daily ICU occupancy,2021-03-19,568.0
+Slovakia,Daily ICU occupancy,2021-03-20,586.0
+Slovakia,Daily ICU occupancy,2021-03-21,586.0
+Slovakia,Daily ICU occupancy,2021-03-22,565.0
+Slovakia,Daily ICU occupancy,2021-03-23,557.0
+Slovakia,Daily ICU occupancy,2021-03-24,559.0
+Slovakia,Daily ICU occupancy,2021-03-25,553.0
+Slovakia,Daily ICU occupancy,2021-03-26,539.0
+Slovakia,Daily ICU occupancy,2021-03-27,536.0
+Slovakia,Daily ICU occupancy,2021-03-28,534.0
+Slovakia,Daily ICU occupancy,2021-03-29,507.0
+Slovakia,Daily ICU occupancy,2021-03-30,524.0
+Slovakia,Daily ICU occupancy,2021-03-31,504.0
+Slovakia,Daily ICU occupancy,2021-04-01,502.0
+Slovakia,Daily ICU occupancy,2021-04-02,530.0
+Slovakia,Daily ICU occupancy,2021-04-03,530.0
+Slovakia,Daily ICU occupancy,2021-04-04,526.0
+Slovakia,Daily ICU occupancy,2021-04-05,518.0
+Slovakia,Daily ICU occupancy,2021-04-06,509.0
+Slovakia,Daily ICU occupancy,2021-04-07,486.0
+Slovakia,Daily ICU occupancy,2021-04-08,471.0
+Slovakia,Daily ICU occupancy,2021-04-09,456.0
+Slovakia,Daily ICU occupancy,2021-04-10,468.0
+Slovakia,Daily ICU occupancy,2021-04-11,461.0
+Slovakia,Daily ICU occupancy,2021-04-12,427.0
+Slovakia,Daily ICU occupancy,2021-04-13,428.0
+Slovakia,Daily ICU occupancy,2021-04-14,414.0
+Slovakia,Daily ICU occupancy,2021-04-15,394.0
+Slovakia,Daily ICU occupancy,2021-04-16,376.0
+Slovakia,Daily ICU occupancy,2021-04-17,384.0
+Slovakia,Daily ICU occupancy,2021-04-18,367.0
+Slovakia,Daily ICU occupancy,2021-04-19,358.0
+Slovakia,Daily ICU occupancy,2021-04-20,347.0
+Slovakia,Daily ICU occupancy,2021-04-21,350.0
+Slovakia,Daily ICU occupancy,2021-04-22,341.0
+Slovakia,Daily ICU occupancy,2021-04-23,318.0
+Slovakia,Daily ICU occupancy,2021-04-24,328.0
+Slovakia,Daily ICU occupancy,2021-04-25,321.0
+Slovakia,Daily ICU occupancy,2021-04-26,308.0
+Slovakia,Daily ICU occupancy,2021-04-27,313.0
+Slovakia,Daily ICU occupancy,2021-04-28,295.0
+Slovakia,Daily ICU occupancy,2021-04-29,283.0
+Slovakia,Daily ICU occupancy,2021-04-30,285.0
+Slovakia,Daily ICU occupancy,2021-05-01,285.0
+Slovakia,Daily ICU occupancy,2021-05-02,286.0
+Slovakia,Daily ICU occupancy,2021-05-03,285.0
+Slovakia,Daily ICU occupancy,2021-05-04,260.0
+Slovakia,Daily ICU occupancy,2021-05-05,253.0
+Slovakia,Daily ICU occupancy,2021-05-06,247.0
+Slovakia,Daily ICU occupancy,2021-05-07,238.0
+Slovakia,Daily ICU occupancy,2021-05-08,246.0
+Slovakia,Daily ICU occupancy,2021-05-09,241.0
+Slovakia,Daily ICU occupancy,2021-05-10,222.0
+Slovakia,Daily ICU occupancy,2021-05-11,216.0
+Slovakia,Daily ICU occupancy,2021-05-12,200.0
+Slovakia,Daily ICU occupancy,2021-05-13,189.0
+Slovakia,Daily ICU occupancy,2021-05-14,185.0
+Slovakia,Daily ICU occupancy,2021-05-15,186.0
+Slovakia,Daily ICU occupancy,2021-05-16,181.0
+Slovakia,Daily ICU occupancy,2021-05-17,172.0
+Slovakia,Daily ICU occupancy,2021-05-18,167.0
+Slovakia,Daily ICU occupancy,2021-05-19,157.0
+Slovakia,Daily ICU occupancy,2021-05-20,153.0
+Slovakia,Daily ICU occupancy,2021-05-21,146.0
+Slovakia,Daily ICU occupancy,2021-05-22,142.0
+Slovakia,Daily ICU occupancy,2021-05-23,142.0
+Slovakia,Daily ICU occupancy,2021-05-24,135.0
+Slovakia,Daily ICU occupancy,2021-05-25,128.0
+Slovakia,Daily ICU occupancy,2021-05-26,120.0
+Slovakia,Daily ICU occupancy,2021-05-27,112.0
+Slovakia,Daily ICU occupancy,2021-05-28,105.0
+Slovakia,Daily ICU occupancy,2021-05-29,97.0
+Slovakia,Daily ICU occupancy,2021-05-30,96.0
+Slovakia,Daily ICU occupancy,2021-05-31,95.0
+Slovakia,Daily ICU occupancy,2021-06-01,92.0
+Slovakia,Daily ICU occupancy,2021-06-02,85.0
+Slovakia,Daily ICU occupancy,2021-06-03,83.0
+Slovakia,Daily ICU occupancy,2021-06-04,76.0
+Slovakia,Daily ICU occupancy,2021-06-05,70.0
+Slovakia,Daily ICU occupancy,2021-06-06,70.0
+Slovakia,Daily ICU occupancy,2021-06-07,70.0
+Slovakia,Daily ICU occupancy,2021-06-08,65.0
+Slovakia,Daily ICU occupancy,2021-06-09,68.0
+Slovakia,Daily ICU occupancy,2021-06-10,64.0
+Slovakia,Daily ICU occupancy,2021-06-11,62.0
+Slovakia,Daily ICU occupancy,2021-06-12,70.0
+Slovakia,Daily ICU occupancy,2021-06-13,74.0
+Slovakia,Daily ICU occupancy,2021-06-14,69.0
+Slovakia,Daily ICU occupancy,2021-06-15,66.0
+Slovakia,Daily ICU occupancy,2021-06-16,66.0
+Slovakia,Daily ICU occupancy,2021-06-17,59.0
+Slovakia,Daily ICU occupancy,2021-06-18,51.0
+Slovakia,Daily ICU occupancy,2021-06-19,53.0
+Slovakia,Daily ICU occupancy,2021-06-20,52.0
+Slovakia,Daily ICU occupancy,2021-06-21,46.0
+Slovakia,Daily ICU occupancy,2021-06-22,52.0
+Slovakia,Daily ICU occupancy,2021-06-23,51.0
+Slovakia,Daily ICU occupancy,2021-06-24,51.0
+Slovakia,Daily ICU occupancy,2021-06-25,47.0
+Slovakia,Daily ICU occupancy,2021-06-26,51.0
+Slovakia,Daily ICU occupancy,2021-06-27,49.0
+Slovakia,Daily ICU occupancy,2021-06-28,50.0
+Slovakia,Daily ICU occupancy,2021-06-29,53.0
+Slovakia,Daily ICU occupancy,2021-06-30,53.0
+Slovakia,Daily ICU occupancy,2021-07-01,51.0
+Slovakia,Daily ICU occupancy,2021-07-02,47.0
+Slovakia,Daily ICU occupancy,2021-07-03,46.0
+Slovakia,Daily ICU occupancy,2021-07-04,48.0
+Slovakia,Daily ICU occupancy,2021-07-05,44.0
+Slovakia,Daily ICU occupancy,2021-07-06,41.0
+Slovakia,Daily ICU occupancy,2021-07-07,38.0
+Slovakia,Daily ICU occupancy,2021-07-08,37.0
+Slovakia,Daily ICU occupancy,2021-07-09,34.0
+Slovakia,Daily ICU occupancy,2021-07-10,33.0
+Slovakia,Daily ICU occupancy,2021-07-11,32.0
+Slovakia,Daily ICU occupancy,2021-07-12,29.0
+Slovakia,Daily ICU occupancy,2021-07-13,25.0
+Slovakia,Daily ICU occupancy,2021-07-14,26.0
+Slovakia,Daily ICU occupancy,2021-07-15,25.0
+Slovakia,Daily ICU occupancy,2021-07-16,27.0
+Slovakia,Daily ICU occupancy,2021-07-17,27.0
+Slovakia,Daily ICU occupancy,2021-07-18,27.0
+Slovakia,Daily ICU occupancy,2021-07-19,28.0
+Slovakia,Daily ICU occupancy,2021-07-20,28.0
+Slovakia,Daily ICU occupancy,2021-07-21,28.0
+Slovakia,Daily ICU occupancy,2021-07-22,29.0
+Slovakia,Daily ICU occupancy,2021-07-23,30.0
+Slovakia,Daily ICU occupancy,2021-07-24,31.0
+Slovakia,Daily ICU occupancy,2021-07-25,32.0
+Slovakia,Daily ICU occupancy,2021-07-26,30.0
+Slovakia,Daily ICU occupancy,2021-07-27,28.0
+Slovakia,Daily ICU occupancy,2021-07-28,29.0
+Slovakia,Daily ICU occupancy,2021-07-29,30.0
+Slovakia,Daily ICU occupancy,2021-07-30,29.0
+Slovakia,Daily ICU occupancy,2021-07-31,30.0
+Slovakia,Daily ICU occupancy,2021-08-01,29.0
+Slovakia,Daily ICU occupancy,2021-08-02,27.0
+Slovakia,Daily ICU occupancy,2021-08-03,28.0
+Slovakia,Daily ICU occupancy,2021-08-04,26.0
+Slovakia,Daily ICU occupancy,2021-08-05,24.0
+Slovakia,Daily ICU occupancy,2021-08-06,26.0
+Slovakia,Daily ICU occupancy,2021-08-07,27.0
+Slovakia,Daily ICU occupancy,2021-08-08,27.0
+Slovakia,Daily ICU occupancy,2021-08-09,28.0
+Slovakia,Daily ICU occupancy,2021-08-10,28.0
+Slovakia,Daily ICU occupancy,2021-08-11,29.0
+Slovakia,Daily ICU occupancy,2021-08-12,30.0
+Slovakia,Daily ICU occupancy,2021-08-13,29.0
+Slovakia,Daily ICU occupancy,2021-08-14,32.0
+Slovakia,Daily ICU occupancy,2021-08-15,34.0
+Slovakia,Daily ICU occupancy,2021-08-16,34.0
+Slovakia,Daily ICU occupancy,2021-08-17,37.0
+Slovakia,Daily ICU occupancy,2021-08-18,37.0
+Slovakia,Daily ICU occupancy,2021-08-19,38.0
+Slovakia,Daily ICU occupancy,2021-08-20,25.0
+Slovakia,Daily ICU occupancy,2021-08-21,25.0
+Slovakia,Daily ICU occupancy,2021-08-22,27.0
+Slovakia,Daily ICU occupancy,2021-08-23,23.0
+Slovakia,Daily ICU occupancy,2021-08-24,18.0
+Slovakia,Daily ICU occupancy,2021-08-25,16.0
+Slovakia,Daily ICU occupancy,2021-08-26,17.0
+Slovakia,Daily ICU occupancy,2021-08-27,17.0
+Slovakia,Daily ICU occupancy,2021-08-28,20.0
+Slovakia,Daily ICU occupancy,2021-08-29,24.0
+Slovakia,Daily ICU occupancy,2021-08-30,25.0
+Slovakia,Daily ICU occupancy,2021-08-31,26.0
+Slovakia,Daily ICU occupancy,2021-09-01,28.0
+Slovakia,Daily ICU occupancy,2021-09-02,33.0
+Slovakia,Daily ICU occupancy,2021-09-03,34.0
+Slovakia,Daily ICU occupancy,2021-09-04,35.0
+Slovakia,Daily ICU occupancy,2021-09-05,39.0
+Slovakia,Daily ICU occupancy,2021-09-06,41.0
+Slovakia,Daily ICU occupancy,2021-09-07,42.0
+Slovakia,Daily ICU occupancy,2021-09-08,44.0
+Slovakia,Daily ICU occupancy,2021-09-09,46.0
+Slovakia,Daily ICU occupancy,2021-09-10,48.0
+Slovakia,Daily ICU occupancy,2021-09-11,47.0
+Slovakia,Daily ICU occupancy,2021-09-12,45.0
+Slovakia,Daily ICU occupancy,2021-09-13,46.0
+Slovakia,Daily ICU occupancy,2021-09-14,50.0
+Slovakia,Daily ICU occupancy,2021-09-15,53.0
+Slovakia,Daily ICU occupancy,2021-09-16,51.0
+Slovakia,Daily ICU occupancy,2021-09-17,67.0
+Slovakia,Daily ICU occupancy,2021-09-18,77.0
+Slovakia,Daily ICU occupancy,2021-09-19,82.0
+Slovakia,Daily ICU occupancy,2021-09-20,81.0
+Slovakia,Daily ICU occupancy,2021-09-21,101.0
+Slovakia,Daily ICU occupancy,2021-09-22,104.0
+Slovakia,Daily ICU occupancy,2021-09-23,101.0
+Slovakia,Daily ICU occupancy,2021-09-24,102.0
+Slovakia,Daily ICU occupancy,2021-09-25,104.0
+Slovakia,Daily ICU occupancy,2021-09-26,108.0
+Slovakia,Daily ICU occupancy,2021-09-27,104.0
+Slovakia,Daily ICU occupancy,2021-09-28,112.0
+Slovakia,Daily ICU occupancy,2021-09-29,119.0
+Slovakia,Daily ICU occupancy,2021-09-30,121.0
+Slovakia,Daily ICU occupancy,2021-10-01,131.0
+Slovakia,Daily ICU occupancy,2021-10-02,134.0
+Slovakia,Daily ICU occupancy,2021-10-03,140.0
+Slovakia,Daily ICU occupancy,2021-10-04,148.0
+Slovakia,Daily ICU occupancy,2021-10-05,153.0
+Slovakia,Daily ICU occupancy,2021-10-06,156.0
+Slovakia,Daily ICU occupancy,2021-10-07,159.0
+Slovakia,Daily ICU occupancy,2021-10-08,180.0
+Slovakia,Daily ICU occupancy,2021-10-09,188.0
+Slovakia,Daily ICU occupancy,2021-10-10,193.0
+Slovakia,Daily ICU occupancy,2021-10-11,187.0
+Slovakia,Daily ICU occupancy,2021-10-12,178.0
+Slovakia,Daily ICU occupancy,2021-10-13,189.0
+Slovakia,Daily ICU occupancy,2021-10-14,193.0
+Slovakia,Daily ICU occupancy,2021-10-15,191.0
+Slovakia,Daily ICU occupancy,2021-10-16,205.0
+Slovakia,Daily ICU occupancy,2021-10-17,206.0
+Slovakia,Daily ICU occupancy,2021-10-18,207.0
+Slovakia,Daily ICU occupancy,2021-10-19,206.0
+Slovakia,Daily ICU occupancy,2021-10-20,213.0
+Slovakia,Daily ICU occupancy,2021-10-21,228.0
+Slovakia,Daily ICU occupancy,2021-10-22,207.0
+Slovakia,Daily ICU occupancy,2021-10-23,226.0
+Slovakia,Daily ICU occupancy,2021-10-24,224.0
+Slovakia,Daily ICU occupancy,2021-10-25,218.0
+Slovakia,Daily ICU occupancy,2021-10-26,245.0
+Slovakia,Daily ICU occupancy,2021-10-27,251.0
+Slovakia,Daily ICU occupancy,2021-10-28,286.0
+Slovakia,Daily ICU occupancy,2021-10-29,340.0
+Slovakia,Daily ICU occupancy,2021-10-30,322.0
+Slovakia,Daily ICU occupancy,2021-10-31,332.0
+Slovakia,Daily ICU occupancy,2021-11-01,338.0
+Slovakia,Daily ICU occupancy,2021-11-02,337.0
+Slovakia,Daily ICU occupancy,2021-11-03,347.0
+Slovakia,Daily ICU occupancy,2021-11-04,378.0
+Slovakia,Daily ICU occupancy,2021-11-05,409.0
+Slovakia,Daily ICU occupancy,2021-11-06,449.0
+Slovakia,Daily ICU occupancy,2021-11-07,451.0
+Slovakia,Daily ICU occupancy,2021-11-08,436.0
+Slovakia,Daily ICU occupancy,2021-11-09,457.0
+Slovakia,Daily ICU occupancy,2021-11-10,464.0
+Slovakia,Daily ICU occupancy,2021-11-11,490.0
+Slovakia,Daily ICU occupancy,2021-11-12,499.0
+Slovakia,Daily ICU occupancy,2021-11-13,534.0
+Slovakia,Daily ICU occupancy,2021-11-14,526.0
+Slovakia,Daily ICU occupancy,2021-11-15,520.0
+Slovakia,Daily ICU occupancy,2021-11-16,538.0
+Slovakia,Daily ICU occupancy,2021-11-17,552.0
+Slovakia,Daily ICU occupancy,2021-11-18,533.0
+Slovakia,Daily ICU occupancy,2021-11-19,550.0
+Slovakia,Daily ICU occupancy,2021-11-20,568.0
+Slovakia,Daily ICU occupancy,2021-11-21,563.0
+Slovakia,Daily ICU occupancy,2021-11-22,554.0
+Slovakia,Daily ICU occupancy,2021-11-23,567.0
+Slovakia,Daily ICU occupancy,2021-11-24,558.0
+Slovakia,Daily ICU occupancy,2021-11-25,546.0
+Slovakia,Daily ICU occupancy,2021-11-26,550.0
+Slovakia,Daily ICU occupancy,2021-11-27,586.0
+Slovakia,Daily ICU occupancy,2021-11-28,607.0
+Slovakia,Daily ICU occupancy,2021-11-29,603.0
+Slovakia,Daily ICU occupancy,2021-11-30,600.0
+Slovakia,Daily ICU occupancy,2021-12-01,596.0
+Slovakia,Daily ICU occupancy,2021-12-02,631.0
+Slovakia,Daily ICU occupancy,2021-12-03,631.0
+Slovakia,Daily ICU occupancy,2021-12-04,622.0
+Slovakia,Daily ICU occupancy,2021-12-05,629.0
+Slovakia,Daily ICU occupancy,2021-12-06,610.0
+Slovakia,Daily ICU occupancy,2021-12-07,586.0
+Slovakia,Daily ICU occupancy,2021-12-08,582.0
+Slovakia,Daily ICU occupancy,2021-12-09,566.0
+Slovakia,Daily ICU occupancy,2021-12-10,555.0
+Slovakia,Daily ICU occupancy,2021-12-11,571.0
+Slovakia,Daily ICU occupancy,2021-12-12,579.0
+Slovakia,Daily ICU occupancy,2021-12-13,562.0
+Slovakia,Daily ICU occupancy,2021-12-14,564.0
+Slovakia,Daily ICU occupancy,2021-12-15,557.0
+Slovakia,Daily ICU occupancy,2021-12-16,532.0
+Slovakia,Daily ICU occupancy,2021-12-17,531.0
+Slovakia,Daily ICU occupancy,2021-12-18,531.0
+Slovakia,Daily ICU occupancy,2021-12-19,507.0
+Slovakia,Daily ICU occupancy,2021-12-20,484.0
+Slovakia,Daily ICU occupancy,2021-12-21,484.0
+Slovakia,Daily ICU occupancy,2021-12-22,469.0
+Slovakia,Daily ICU occupancy,2021-12-23,450.0
+Slovakia,Daily ICU occupancy,2021-12-24,471.0
+Slovakia,Daily ICU occupancy,2021-12-25,471.0
+Slovakia,Daily ICU occupancy,2021-12-26,465.0
+Slovakia,Daily ICU occupancy,2021-12-27,455.0
+Slovakia,Daily ICU occupancy,2021-12-28,456.0
+Slovakia,Daily ICU occupancy,2021-12-29,438.0
+Slovakia,Daily ICU occupancy,2021-12-30,436.0
+Slovakia,Daily ICU occupancy,2021-12-31,413.0
+Slovakia,Daily ICU occupancy,2022-01-01,426.0
+Slovakia,Daily ICU occupancy,2022-01-02,426.0
+Slovakia,Daily ICU occupancy,2022-01-03,415.0
+Slovakia,Daily ICU occupancy,2022-01-04,402.0
+Slovakia,Daily ICU occupancy,2022-01-05,376.0
+Slovakia,Daily ICU occupancy,2022-01-06,390.0
+Slovakia,Daily ICU occupancy,2022-01-07,373.0
+Slovakia,Daily ICU occupancy,2022-01-08,380.0
+Slovakia,Daily ICU occupancy,2022-01-09,378.0
+Slovakia,Daily ICU occupancy,2022-01-10,367.0
+Slovakia,Daily ICU occupancy,2022-01-11,348.0
+Slovakia,Daily ICU occupancy,2022-01-12,348.0
+Slovakia,Daily ICU occupancy,2022-01-13,336.0
+Slovakia,Daily ICU occupancy,2022-01-14,329.0
+Slovakia,Daily ICU occupancy,2022-01-15,316.0
+Slovakia,Daily ICU occupancy,2022-01-16,308.0
+Slovakia,Daily ICU occupancy,2022-01-17,290.0
+Slovakia,Daily ICU occupancy,2022-01-18,274.0
+Slovakia,Daily ICU occupancy,2022-01-19,278.0
+Slovakia,Daily ICU occupancy,2022-01-20,259.0
+Slovakia,Daily ICU occupancy,2022-01-21,262.0
+Slovakia,Daily ICU occupancy,2022-01-22,263.0
+Slovakia,Daily ICU occupancy,2022-01-23,256.0
+Slovakia,Daily ICU occupancy,2022-01-24,254.0
+Slovakia,Daily ICU occupancy,2022-01-25,249.0
+Slovakia,Daily ICU occupancy,2022-01-26,244.0
+Slovakia,Daily ICU occupancy,2022-01-27,230.0
+Slovakia,Daily ICU occupancy,2022-01-28,236.0
+Slovakia,Daily ICU occupancy,2022-01-29,241.0
+Slovakia,Daily ICU occupancy,2022-01-30,248.0
+Slovakia,Daily ICU occupancy,2022-01-31,236.0
+Slovakia,Daily ICU occupancy,2022-02-01,234.0
+Slovakia,Daily ICU occupancy,2022-02-02,225.0
+Slovakia,Daily ICU occupancy,2022-02-03,227.0
+Slovakia,Daily ICU occupancy,2022-02-04,226.0
+Slovakia,Daily ICU occupancy,2022-02-05,242.0
+Slovakia,Daily ICU occupancy,2022-02-06,249.0
+Slovakia,Daily ICU occupancy,2022-02-07,250.0
+Slovakia,Daily ICU occupancy,2022-02-08,243.0
+Slovakia,Daily ICU occupancy,2022-02-09,237.0
+Slovakia,Daily ICU occupancy,2022-02-10,243.0
+Slovakia,Daily ICU occupancy,2022-02-11,241.0
+Slovakia,Daily ICU occupancy,2022-02-12,264.0
+Slovakia,Daily ICU occupancy,2022-02-13,263.0
+Slovakia,Daily ICU occupancy,2022-02-14,265.0
+Slovakia,Daily ICU occupancy,2022-02-15,260.0
+Slovakia,Daily ICU occupancy,2022-02-16,269.0
+Slovakia,Daily ICU occupancy,2022-02-17,260.0
+Slovakia,Daily ICU occupancy,2022-02-18,257.0
+Slovakia,Daily ICU occupancy,2022-02-19,266.0
+Slovakia,Daily ICU occupancy,2022-02-20,275.0
+Slovakia,Daily ICU occupancy,2022-02-21,272.0
+Slovakia,Daily ICU occupancy,2022-02-22,272.0
+Slovakia,Daily ICU occupancy,2022-02-23,257.0
+Slovakia,Daily ICU occupancy,2022-02-24,245.0
+Slovakia,Daily ICU occupancy,2022-02-25,238.0
+Slovakia,Daily ICU occupancy,2022-02-26,242.0
+Slovakia,Daily ICU occupancy,2022-02-27,244.0
+Slovakia,Daily ICU occupancy,2022-02-28,239.0
+Slovakia,Daily ICU occupancy,2022-03-01,238.0
+Slovakia,Daily ICU occupancy,2022-03-02,235.0
+Slovakia,Daily ICU occupancy,2022-03-03,234.0
+Slovakia,Daily ICU occupancy,2022-03-04,216.0
+Slovakia,Daily ICU occupancy,2022-03-05,219.0
+Slovakia,Daily ICU occupancy,2022-03-06,212.0
+Slovakia,Daily ICU occupancy,2022-03-07,218.0
+Slovakia,Daily ICU occupancy,2022-03-08,219.0
+Slovakia,Daily ICU occupancy,2022-03-09,225.0
+Slovakia,Daily ICU occupancy,2022-03-10,225.0
+Slovakia,Daily ICU occupancy,2022-03-11,232.0
+Slovakia,Daily ICU occupancy,2022-03-12,241.0
+Slovakia,Daily ICU occupancy,2022-03-13,240.0
+Slovakia,Daily ICU occupancy,2022-03-14,234.0
+Slovakia,Daily ICU occupancy,2022-03-15,235.0
+Slovakia,Daily ICU occupancy,2022-03-16,217.0
+Slovakia,Daily ICU occupancy,2022-03-17,215.0
+Slovakia,Daily ICU occupancy,2022-03-18,202.0
+Slovakia,Daily ICU occupancy,2022-03-19,206.0
+Slovakia,Daily ICU occupancy,2022-03-20,203.0
+Slovakia,Daily ICU occupancy,2022-03-21,209.0
+Slovakia,Daily ICU occupancy,2022-03-22,189.0
+Slovakia,Daily ICU occupancy,2022-03-23,198.0
+Slovakia,Daily ICU occupancy,2022-03-24,187.0
+Slovakia,Daily ICU occupancy,2022-03-25,182.0
+Slovakia,Daily ICU occupancy,2022-03-26,186.0
+Slovakia,Daily ICU occupancy,2022-03-27,190.0
+Slovakia,Daily ICU occupancy,2022-03-28,191.0
+Slovakia,Daily ICU occupancy,2022-03-29,196.0
+Slovakia,Daily ICU occupancy,2022-03-30,193.0
+Slovakia,Daily ICU occupancy,2022-03-31,183.0
+Slovakia,Daily ICU occupancy,2022-04-01,177.0
+Slovakia,Daily ICU occupancy,2022-04-02,178.0
+Slovakia,Daily ICU occupancy,2022-04-03,174.0
+Slovakia,Daily ICU occupancy,2022-04-04,174.0
+Slovakia,Daily ICU occupancy,2022-04-05,165.0
+Slovakia,Daily ICU occupancy,2022-04-06,151.0
+Slovakia,Daily ICU occupancy,2022-04-07,136.0
+Slovakia,Daily ICU occupancy,2022-04-08,133.0
+Slovakia,Daily ICU occupancy,2022-04-09,130.0
+Slovakia,Daily ICU occupancy,2022-04-10,134.0
+Slovakia,Daily ICU occupancy,2022-04-11,126.0
+Slovakia,Daily ICU occupancy,2022-04-12,125.0
+Slovakia,Daily ICU occupancy,2022-04-13,112.0
+Slovakia,Daily ICU occupancy,2022-04-14,102.0
+Slovakia,Daily ICU occupancy,2022-04-15,93.0
+Slovakia,Daily ICU occupancy,2022-04-16,100.0
+Slovakia,Daily ICU occupancy,2022-04-17,103.0
+Slovakia,Daily ICU occupancy,2022-04-18,105.0
+Slovakia,Daily ICU occupancy,2022-04-19,103.0
+Slovakia,Daily ICU occupancy,2022-04-20,99.0
+Slovakia,Daily ICU occupancy,2022-04-21,93.0
+Slovakia,Daily ICU occupancy,2022-04-22,84.0
+Slovakia,Daily ICU occupancy,2022-04-23,87.0
+Slovakia,Daily ICU occupancy,2022-04-24,82.0
+Slovakia,Daily ICU occupancy,2022-04-25,74.0
+Slovakia,Daily ICU occupancy,2022-04-26,79.0
+Slovakia,Daily ICU occupancy,2022-04-27,72.0
+Slovakia,Daily ICU occupancy,2022-04-28,72.0
+Slovakia,Daily ICU occupancy,2022-04-29,68.0
+Slovakia,Daily ICU occupancy,2022-04-30,59.0
+Slovakia,Daily ICU occupancy,2022-05-01,66.0
+Slovakia,Daily ICU occupancy,2022-05-02,60.0
+Slovakia,Daily ICU occupancy,2022-05-03,56.0
+Slovakia,Daily ICU occupancy,2022-05-04,53.0
+Slovakia,Daily ICU occupancy,2022-05-05,44.0
+Slovakia,Daily ICU occupancy,2022-05-06,44.0
+Slovakia,Daily ICU occupancy,2022-05-07,43.0
+Slovakia,Daily ICU occupancy,2022-05-08,42.0
+Slovakia,Daily ICU occupancy,2022-05-09,38.0
+Slovakia,Daily ICU occupancy,2022-05-10,37.0
+Slovakia,Daily ICU occupancy,2022-05-11,37.0
+Slovakia,Daily ICU occupancy,2022-05-12,36.0
+Slovakia,Daily ICU occupancy,2022-05-13,36.0
+Slovakia,Daily ICU occupancy,2022-05-14,36.0
+Slovakia,Daily ICU occupancy,2022-05-15,34.0
+Slovakia,Daily ICU occupancy,2022-05-16,37.0
+Slovakia,Daily ICU occupancy,2022-05-17,35.0
+Slovakia,Daily ICU occupancy,2022-05-18,34.0
+Slovakia,Daily ICU occupancy,2022-05-19,34.0
+Slovakia,Daily ICU occupancy,2022-05-20,31.0
+Slovakia,Daily ICU occupancy,2022-05-21,31.0
+Slovakia,Daily ICU occupancy,2022-05-22,32.0
+Slovakia,Daily ICU occupancy,2022-05-23,32.0
+Slovakia,Daily ICU occupancy,2022-05-24,31.0
+Slovakia,Daily ICU occupancy,2022-05-25,31.0
+Slovakia,Daily ICU occupancy,2022-05-26,31.0
+Slovakia,Daily ICU occupancy,2022-05-27,30.0
+Slovakia,Daily ICU occupancy,2022-05-28,30.0
+Slovakia,Daily ICU occupancy,2022-05-29,30.0
+Slovakia,Daily ICU occupancy,2022-05-30,28.0
+Slovakia,Daily ICU occupancy,2022-05-31,26.0
+Slovakia,Daily ICU occupancy,2022-06-01,26.0
+Slovakia,Daily ICU occupancy,2022-06-02,26.0
+Slovakia,Daily ICU occupancy,2022-06-03,22.0
+Slovakia,Daily ICU occupancy,2022-06-04,23.0
+Slovakia,Daily ICU occupancy,2022-06-05,23.0
+Slovakia,Daily ICU occupancy,2022-06-06,21.0
+Slovakia,Daily ICU occupancy,2022-06-07,14.0
+Slovakia,Daily ICU occupancy,2022-06-08,11.0
+Slovakia,Daily ICU occupancy,2022-06-09,11.0
+Slovakia,Daily ICU occupancy,2022-06-10,11.0
+Slovakia,Daily ICU occupancy,2022-06-11,11.0
+Slovakia,Daily ICU occupancy,2022-06-12,11.0
+Slovakia,Daily ICU occupancy,2022-06-13,11.0
+Slovakia,Daily ICU occupancy,2022-06-14,11.0
+Slovakia,Daily ICU occupancy,2022-06-15,10.0
+Slovakia,Daily ICU occupancy,2022-06-16,8.0
+Slovakia,Daily ICU occupancy,2022-06-17,7.0
+Slovakia,Daily ICU occupancy,2022-06-18,6.0
+Slovakia,Daily ICU occupancy,2022-06-19,6.0
+Slovakia,Daily ICU occupancy,2022-06-20,6.0
+Slovakia,Daily ICU occupancy,2022-06-21,8.0
+Slovakia,Daily ICU occupancy,2022-06-22,9.0
+Slovakia,Daily ICU occupancy,2022-06-23,9.0
+Slovakia,Daily ICU occupancy,2022-06-24,8.0
+Slovakia,Daily ICU occupancy,2022-06-25,7.0
+Slovakia,Daily ICU occupancy,2022-06-26,8.0
+Slovakia,Daily ICU occupancy,2022-06-27,11.0
+Slovakia,Daily ICU occupancy,2022-06-28,14.0
+Slovakia,Daily ICU occupancy,2022-06-29,14.0
+Slovakia,Daily ICU occupancy,2022-06-30,14.0
+Slovakia,Daily ICU occupancy,2022-07-01,14.0
+Slovakia,Daily ICU occupancy,2022-07-02,15.0
+Slovakia,Daily ICU occupancy,2022-07-03,18.0
+Slovakia,Daily ICU occupancy,2022-07-04,22.0
+Slovakia,Daily ICU occupancy,2022-07-05,21.0
+Slovakia,Daily ICU occupancy,2022-07-06,18.0
+Slovakia,Daily ICU occupancy,2022-07-07,18.0
+Slovakia,Daily ICU occupancy,2022-07-08,24.0
+Slovakia,Daily ICU occupancy,2022-07-09,26.0
+Slovakia,Daily ICU occupancy,2022-07-10,28.0
+Slovakia,Daily ICU occupancy,2022-07-11,27.0
+Slovakia,Daily ICU occupancy,2022-07-12,30.0
+Slovakia,Daily ICU occupancy,2022-07-13,32.0
+Slovakia,Daily ICU occupancy,2022-07-14,30.0
+Slovakia,Daily ICU occupancy,2022-07-15,25.0
+Slovakia,Daily ICU occupancy,2022-07-16,31.0
+Slovakia,Daily ICU occupancy,2022-07-17,31.0
+Slovakia,Daily ICU occupancy,2022-07-18,29.0
+Slovakia,Daily ICU occupancy,2022-07-19,32.0
+Slovakia,Daily ICU occupancy,2022-07-20,29.0
+Slovakia,Daily ICU occupancy,2022-07-21,29.0
+Slovakia,Daily ICU occupancy,2022-07-22,33.0
+Slovakia,Daily ICU occupancy,2022-07-23,34.0
+Slovakia,Daily ICU occupancy,2022-07-24,37.0
+Slovakia,Daily ICU occupancy,2022-07-25,34.0
+Slovakia,Daily ICU occupancy,2022-07-26,39.0
+Slovakia,Daily ICU occupancy,2022-07-27,40.0
+Slovakia,Daily ICU occupancy,2022-07-28,42.0
+Slovakia,Daily ICU occupancy,2022-07-29,40.0
+Slovakia,Daily ICU occupancy,2022-07-30,41.0
+Slovakia,Daily ICU occupancy,2022-07-31,41.0
+Slovakia,Daily ICU occupancy,2022-08-01,44.0
+Slovakia,Daily ICU occupancy,2022-08-02,41.0
+Slovakia,Daily ICU occupancy,2022-08-03,46.0
+Slovakia,Daily ICU occupancy,2022-08-04,45.0
+Slovakia,Daily ICU occupancy,2022-08-05,41.0
+Slovakia,Daily ICU occupancy,2022-08-06,40.0
+Slovakia,Daily ICU occupancy,2022-08-07,41.0
+Slovakia,Daily ICU occupancy,2022-08-08,37.0
+Slovakia,Daily ICU occupancy,2022-08-09,29.0
+Slovakia,Daily ICU occupancy,2022-08-10,28.0
+Slovakia,Daily ICU occupancy,2022-08-11,31.0
+Slovakia,Daily ICU occupancy,2022-08-12,30.0
+Slovakia,Daily ICU occupancy,2022-08-13,30.0
+Slovakia,Daily ICU occupancy,2022-08-14,33.0
+Slovakia,Daily ICU occupancy,2022-08-15,29.0
+Slovakia,Daily ICU occupancy,2022-08-16,30.0
+Slovakia,Daily ICU occupancy,2022-08-17,28.0
+Slovakia,Daily ICU occupancy,2022-08-18,27.0
+Slovakia,Daily ICU occupancy,2022-08-19,33.0
+Slovakia,Daily ICU occupancy,2022-08-20,37.0
+Slovakia,Daily ICU occupancy,2022-08-21,35.0
+Slovakia,Daily ICU occupancy,2022-08-22,36.0
+Slovakia,Daily ICU occupancy,2022-08-23,38.0
+Slovakia,Daily ICU occupancy,2022-08-24,37.0
+Slovakia,Daily ICU occupancy,2022-08-25,36.0
+Slovakia,Daily ICU occupancy,2022-08-26,34.0
+Slovakia,Daily ICU occupancy,2022-08-27,33.0
+Slovakia,Daily ICU occupancy,2022-08-28,32.0
+Slovakia,Daily ICU occupancy,2022-08-29,32.0
+Slovakia,Daily ICU occupancy,2022-08-30,30.0
+Slovakia,Daily ICU occupancy,2022-08-31,27.0
+Slovakia,Daily ICU occupancy,2022-09-01,28.0
+Slovakia,Daily ICU occupancy,2022-09-02,25.0
+Slovakia,Daily ICU occupancy,2022-09-03,24.0
+Slovakia,Daily ICU occupancy,2022-09-04,26.0
+Slovakia,Daily ICU occupancy,2022-09-05,28.0
+Slovakia,Daily ICU occupancy,2022-09-06,27.0
+Slovakia,Daily ICU occupancy,2022-09-07,25.0
+Slovakia,Daily ICU occupancy,2022-09-08,27.0
+Slovakia,Daily ICU occupancy,2022-09-09,28.0
+Slovakia,Daily ICU occupancy,2022-09-10,28.0
+Slovakia,Daily ICU occupancy,2022-09-11,28.0
+Slovakia,Daily ICU occupancy,2022-09-12,24.0
+Slovakia,Daily ICU occupancy,2022-09-13,26.0
+Slovakia,Daily ICU occupancy,2022-09-14,25.0
+Slovakia,Daily ICU occupancy,2022-09-15,23.0
+Slovakia,Daily ICU occupancy,2022-09-16,22.0
+Slovakia,Daily ICU occupancy,2022-09-17,23.0
+Slovakia,Daily ICU occupancy,2022-09-18,26.0
+Slovakia,Daily ICU occupancy,2022-09-19,24.0
+Slovakia,Daily ICU occupancy,2022-09-20,29.0
+Slovakia,Daily ICU occupancy,2022-09-21,25.0
+Slovakia,Daily ICU occupancy,2022-09-22,23.0
+Slovakia,Daily ICU occupancy,2022-09-23,21.0
+Slovakia,Daily ICU occupancy,2022-09-24,23.0
+Slovakia,Daily ICU occupancy,2022-09-25,25.0
+Slovakia,Daily ICU occupancy,2022-09-26,28.0
+Slovakia,Daily ICU occupancy,2022-09-27,25.0
+Slovakia,Daily ICU occupancy,2022-09-28,28.0
+Slovakia,Daily ICU occupancy,2022-09-29,28.0
+Slovakia,Daily ICU occupancy,2022-09-30,32.0
+Slovakia,Daily ICU occupancy,2022-10-01,35.0
+Slovakia,Daily ICU occupancy,2022-10-02,40.0
+Slovakia,Daily ICU occupancy,2022-10-03,40.0
+Slovakia,Daily ICU occupancy,2022-10-04,38.0
+Slovakia,Daily ICU occupancy,2022-10-05,42.0
+Slovakia,Daily ICU occupancy,2022-10-06,40.0
+Slovakia,Daily ICU occupancy,2022-10-07,34.0
+Slovakia,Daily ICU occupancy,2022-10-08,32.0
+Slovakia,Daily ICU occupancy,2022-10-09,34.0
+Slovakia,Daily ICU occupancy,2022-10-10,40.0
+Slovakia,Daily ICU occupancy,2022-10-11,37.0
+Slovakia,Daily ICU occupancy,2022-10-12,39.0
+Slovakia,Daily ICU occupancy,2022-10-13,41.0
+Slovakia,Daily ICU occupancy,2022-10-14,43.0
+Slovakia,Daily ICU occupancy,2022-10-15,49.0
+Slovakia,Daily ICU occupancy,2022-10-16,47.0
+Slovakia,Daily ICU occupancy,2022-10-17,45.0
+Slovakia,Daily ICU occupancy,2022-10-18,43.0
+Slovakia,Daily ICU occupancy,2022-10-19,42.0
+Slovakia,Daily ICU occupancy,2022-10-20,42.0
+Slovakia,Daily ICU occupancy,2022-10-21,40.0
+Slovakia,Daily ICU occupancy,2022-10-22,42.0
+Slovakia,Daily ICU occupancy,2022-10-23,44.0
+Slovakia,Daily ICU occupancy,2022-10-24,41.0
+Slovakia,Daily ICU occupancy,2022-10-25,35.0
+Slovakia,Daily ICU occupancy,2022-10-26,33.0
+Slovakia,Daily ICU occupancy,2022-10-27,27.0
+Slovakia,Daily ICU occupancy,2022-10-28,25.0
+Slovakia,Daily ICU occupancy,2022-10-29,28.0
+Slovakia,Daily ICU occupancy,2022-10-30,33.0
+Slovakia,Daily ICU occupancy,2022-10-31,31.0
+Slovakia,Daily ICU occupancy,2022-11-01,35.0
+Slovakia,Daily ICU occupancy,2022-11-02,30.0
+Slovakia,Daily ICU occupancy,2022-11-03,34.0
+Slovakia,Daily ICU occupancy,2022-11-04,31.0
+Slovakia,Daily ICU occupancy,2022-11-05,31.0
+Slovakia,Daily ICU occupancy,2022-11-06,28.0
+Slovakia,Daily ICU occupancy,2022-11-07,26.0
+Slovakia,Daily ICU occupancy,2022-11-08,27.0
+Slovakia,Daily ICU occupancy,2022-11-09,24.0
+Slovakia,Daily ICU occupancy,2022-11-10,17.0
+Slovakia,Daily ICU occupancy,2022-11-11,16.0
+Slovakia,Daily ICU occupancy,2022-11-12,15.0
+Slovakia,Daily ICU occupancy,2022-11-13,18.0
+Slovakia,Daily ICU occupancy,2022-11-14,18.0
+Slovakia,Daily ICU occupancy,2022-11-15,15.0
+Slovakia,Daily ICU occupancy,2022-11-16,18.0
+Slovakia,Daily ICU occupancy,2022-11-17,19.0
+Slovakia,Daily ICU occupancy,2022-11-18,16.0
+Slovakia,Daily ICU occupancy,2022-11-19,15.0
+Slovakia,Daily ICU occupancy,2022-11-20,14.0
+Slovakia,Daily ICU occupancy,2022-11-21,17.0
+Slovakia,Daily ICU occupancy,2022-11-22,16.0
+Slovakia,Daily ICU occupancy,2022-11-23,13.0
+Slovakia,Daily ICU occupancy,2022-11-24,11.0
+Slovakia,Daily ICU occupancy,2022-11-25,14.0
+Slovakia,Daily ICU occupancy,2022-11-26,16.0
+Slovakia,Daily ICU occupancy,2022-11-27,14.0
+Slovakia,Daily ICU occupancy,2022-11-28,14.0
+Slovakia,Daily ICU occupancy,2022-11-29,13.0
+Slovakia,Daily ICU occupancy,2022-11-30,15.0
+Slovakia,Daily ICU occupancy,2022-12-01,18.0
+Slovakia,Daily ICU occupancy,2022-12-02,16.0
+Slovakia,Daily ICU occupancy,2022-12-03,17.0
+Slovakia,Daily ICU occupancy,2022-12-04,18.0
+Slovakia,Daily ICU occupancy,2022-12-05,19.0
+Slovakia,Daily ICU occupancy,2022-12-06,22.0
+Slovakia,Daily ICU occupancy,2022-12-07,21.0
+Slovakia,Daily ICU occupancy,2022-12-08,20.0
+Slovakia,Daily ICU occupancy,2022-12-09,22.0
+Slovakia,Daily ICU occupancy,2022-12-10,24.0
+Slovakia,Daily ICU occupancy,2022-12-11,26.0
+Slovakia,Daily ICU occupancy,2022-12-12,24.0
+Slovakia,Daily ICU occupancy,2022-12-13,24.0
+Slovakia,Daily ICU occupancy,2022-12-14,22.0
+Slovakia,Daily ICU occupancy,2022-12-15,22.0
+Slovakia,Daily ICU occupancy,2022-12-16,17.0
+Slovakia,Daily ICU occupancy,2022-12-17,18.0
+Slovakia,Daily ICU occupancy,2022-12-18,20.0
+Slovakia,Daily ICU occupancy,2022-12-19,19.0
+Slovakia,Daily ICU occupancy,2022-12-20,18.0
+Slovakia,Daily ICU occupancy,2022-12-21,19.0
+Slovakia,Daily ICU occupancy,2022-12-22,19.0
+Slovakia,Daily ICU occupancy,2022-12-23,17.0
+Slovakia,Daily ICU occupancy,2022-12-24,17.0
+Slovakia,Daily ICU occupancy,2022-12-25,18.0
+Slovakia,Daily ICU occupancy,2022-12-26,20.0
+Slovakia,Daily ICU occupancy,2022-12-27,20.0
+Slovakia,Daily ICU occupancy,2022-12-28,19.0
+Slovakia,Daily ICU occupancy,2022-12-29,18.0
+Slovakia,Daily ICU occupancy,2022-12-30,19.0
+Slovakia,Daily ICU occupancy,2022-12-31,17.0
+Slovakia,Daily ICU occupancy,2023-01-01,17.0
+Slovakia,Daily ICU occupancy,2023-01-02,17.0
+Slovakia,Daily ICU occupancy,2023-01-03,24.0
+Slovakia,Daily ICU occupancy,2023-01-04,23.0
+Slovakia,Daily ICU occupancy,2023-01-05,27.0
+Slovakia,Daily ICU occupancy,2023-01-06,29.0
+Slovakia,Daily ICU occupancy,2023-01-07,30.0
+Slovakia,Daily ICU occupancy,2023-01-08,29.0
+Slovakia,Daily ICU occupancy,2023-01-09,27.0
+Slovakia,Daily ICU occupancy,2023-01-10,24.0
+Slovakia,Daily ICU occupancy,2023-01-11,24.0
+Slovakia,Daily ICU occupancy,2023-01-12,23.0
+Slovakia,Daily ICU occupancy,2023-01-13,16.0
+Slovakia,Daily ICU occupancy,2023-01-14,19.0
+Slovakia,Daily ICU occupancy,2023-01-15,18.0
+Slovakia,Daily ICU occupancy,2023-01-16,17.0
+Slovakia,Daily ICU occupancy,2023-01-17,18.0
+Slovakia,Daily ICU occupancy,2023-01-18,17.0
+Slovakia,Daily ICU occupancy,2023-01-19,17.0
+Slovakia,Daily ICU occupancy,2023-01-20,16.0
+Slovakia,Daily ICU occupancy,2023-01-21,15.0
+Slovakia,Daily ICU occupancy,2023-01-22,15.0
+Slovakia,Daily ICU occupancy,2023-01-23,17.0
+Slovakia,Daily ICU occupancy,2023-01-24,15.0
+Slovakia,Daily ICU occupancy,2023-01-25,15.0
+Slovakia,Daily ICU occupancy,2023-01-26,15.0
+Slovakia,Daily ICU occupancy,2023-01-27,15.0
+Slovakia,Daily ICU occupancy,2023-01-28,14.0
+Slovakia,Daily ICU occupancy,2023-01-29,11.0
+Slovakia,Daily ICU occupancy,2023-01-30,13.0
+Slovakia,Daily ICU occupancy,2023-01-31,10.0
+Slovakia,Daily ICU occupancy,2023-02-01,11.0
+Slovakia,Daily ICU occupancy,2023-02-02,13.0
+Slovakia,Daily ICU occupancy,2023-02-03,12.0
+Slovakia,Daily ICU occupancy,2023-02-04,12.0
+Slovakia,Daily ICU occupancy,2023-02-05,11.0
+Slovakia,Daily ICU occupancy,2023-02-06,13.0
+Slovakia,Daily ICU occupancy,2023-02-07,10.0
+Slovakia,Daily ICU occupancy,2023-02-08,10.0
+Slovakia,Daily ICU occupancy,2023-02-09,9.0
+Slovakia,Daily ICU occupancy,2023-02-10,12.0
+Slovakia,Daily ICU occupancy,2023-02-11,11.0
+Slovakia,Daily ICU occupancy,2023-02-12,11.0
+Slovakia,Daily ICU occupancy,2023-02-13,17.0
+Slovakia,Daily ICU occupancy,2023-02-14,16.0
+Slovakia,Daily ICU occupancy,2023-02-15,13.0
+Slovakia,Daily ICU occupancy,2023-02-16,13.0
+Slovakia,Daily ICU occupancy,2023-02-17,14.0
+Slovakia,Daily ICU occupancy,2023-02-18,14.0
+Slovakia,Daily ICU occupancy,2023-02-19,15.0
+Slovakia,Daily ICU occupancy,2023-02-20,17.0
+Slovakia,Daily ICU occupancy,2023-02-21,15.0
+Slovakia,Daily ICU occupancy,2023-02-22,18.0
+Slovakia,Daily ICU occupancy,2023-02-23,23.0
+Slovakia,Daily ICU occupancy,2023-02-24,26.0
+Slovakia,Daily ICU occupancy,2023-02-25,26.0
+Slovakia,Daily ICU occupancy,2023-02-26,24.0
+Slovakia,Daily ICU occupancy,2023-02-27,21.0
+Slovakia,Daily ICU occupancy,2023-02-28,19.0
+Slovakia,Daily ICU occupancy,2023-03-01,17.0
+Slovakia,Daily ICU occupancy,2023-03-02,18.0
+Slovakia,Daily ICU occupancy,2023-03-03,19.0
+Slovakia,Daily ICU occupancy,2023-03-04,18.0
+Slovakia,Daily ICU occupancy,2023-03-05,18.0
+Slovakia,Daily ICU occupancy,2023-03-06,17.0
+Slovakia,Daily ICU occupancy,2023-03-07,19.0
+Slovakia,Daily ICU occupancy,2023-03-08,17.0
+Slovakia,Daily ICU occupancy,2023-03-09,21.0
+Slovakia,Daily ICU occupancy,2023-03-10,18.0
+Slovakia,Daily ICU occupancy,2023-03-11,18.0
+Slovakia,Daily ICU occupancy,2023-03-12,18.0
+Slovakia,Daily ICU occupancy,2023-03-13,18.0
+Slovakia,Daily ICU occupancy,2023-03-14,17.0
+Slovakia,Daily ICU occupancy,2023-03-15,19.0
+Slovakia,Daily ICU occupancy,2023-03-16,20.0
+Slovakia,Daily ICU occupancy,2023-03-17,19.0
+Slovakia,Daily ICU occupancy,2023-03-18,18.0
+Slovakia,Daily ICU occupancy,2023-03-19,21.0
+Slovakia,Daily ICU occupancy,2023-03-20,21.0
+Slovakia,Daily ICU occupancy,2023-03-21,22.0
+Slovakia,Daily ICU occupancy,2023-03-22,22.0
+Slovakia,Weekly new hospital admissions,2020-03-15,23.883411853286795
+Slovakia,Weekly new ICU admissions,2020-03-15,4.153636844049874
+Slovakia,Weekly new hospital admissions,2020-03-22,33.22909475239902
+Slovakia,Weekly new ICU admissions,2020-03-22,3.115227633037406
+Slovakia,Weekly new hospital admissions,2020-03-29,25.960230275311734
+Slovakia,Weekly new ICU admissions,2020-03-29,4.153636844049874
+Slovakia,Weekly new hospital admissions,2020-04-05,21.80659343126186
+Slovakia,Weekly new ICU admissions,2020-04-05,2.076818422024937
+Slovakia,Weekly new hospital admissions,2020-04-12,28.037048697336676
+Slovakia,Weekly new ICU admissions,2020-04-12,6.230455266074812
+Slovakia,Weekly new hospital admissions,2020-04-19,60.22773423872323
+Slovakia,Weekly new ICU admissions,2020-04-19,16.61454737619951
+Slovakia,Weekly new hospital admissions,2020-04-26,26.998639486324205
+Slovakia,Weekly new ICU admissions,2020-04-26,7.268864477087286
+Slovakia,Weekly new hospital admissions,2020-05-03,5.1920460550623435
+Slovakia,Weekly new ICU admissions,2020-05-03,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2020-05-10,1.0384092110124685
+Slovakia,Weekly new ICU admissions,2020-05-10,0.0
+Slovakia,Weekly new hospital admissions,2020-05-24,2.076818422024937
+Slovakia,Weekly new ICU admissions,2020-05-24,0.0
+Slovakia,Weekly new hospital admissions,2020-05-31,1.0384092110124685
+Slovakia,Weekly new ICU admissions,2020-05-31,0.0
+Slovakia,Weekly new hospital admissions,2020-06-21,2.076818422024937
+Slovakia,Weekly new ICU admissions,2020-06-21,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2020-06-28,6.230455266074812
+Slovakia,Weekly new ICU admissions,2020-06-28,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2020-07-26,11.422501321137162
+Slovakia,Weekly new ICU admissions,2020-07-26,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2020-08-02,15.576138165187041
+Slovakia,Weekly new ICU admissions,2020-08-02,2.076818422024937
+Slovakia,Weekly new hospital admissions,2020-08-09,18.69136579822445
+Slovakia,Weekly new ICU admissions,2020-08-09,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2020-08-16,24.921821064299266
+Slovakia,Weekly new ICU admissions,2020-08-16,4.153636844049874
+Slovakia,Weekly new hospital admissions,2020-08-23,19.72977500923692
+Slovakia,Weekly new ICU admissions,2020-08-23,4.153636844049874
+Slovakia,Weekly new hospital admissions,2020-08-30,44.65159607353619
+Slovakia,Weekly new ICU admissions,2020-08-30,8.307273688099755
+Slovakia,Weekly new hospital admissions,2020-09-06,62.304552660748165
+Slovakia,Weekly new ICU admissions,2020-09-06,7.268864477087286
+Slovakia,Weekly new hospital admissions,2020-09-13,57.112506605685816
+Slovakia,Weekly new ICU admissions,2020-09-13,8.307273688099755
+Slovakia,Weekly new hospital admissions,2020-09-20,80.99591845897262
+Slovakia,Weekly new ICU admissions,2020-09-20,9.345682899112225
+Slovakia,Weekly new hospital admissions,2020-09-27,170.299110606045
+Slovakia,Weekly new ICU admissions,2020-09-27,9.345682899112225
+Slovakia,Weekly new hospital admissions,2020-10-04,250.25661985400518
+Slovakia,Weekly new ICU admissions,2020-10-04,24.921821064299266
+Slovakia,Weekly new hospital admissions,2020-10-11,311.5227633037408
+Slovakia,Weekly new ICU admissions,2020-10-11,28.037048697336676
+Slovakia,Weekly new hospital admissions,2020-10-18,477.668237065736
+Slovakia,Weekly new ICU admissions,2020-10-18,34.26750396341149
+Slovakia,Weekly new hospital admissions,2020-10-25,807.8823661677012
+Slovakia,Weekly new ICU admissions,2020-10-25,52.95886976163593
+Slovakia,Weekly new hospital admissions,2020-11-01,912.7616964799605
+Slovakia,Weekly new ICU admissions,2020-11-01,70.61182634884791
+Slovakia,Weekly new hospital admissions,2020-11-08,816.1896398558011
+Slovakia,Weekly new ICU admissions,2020-11-08,59.189325027710765
+Slovakia,Weekly new hospital admissions,2020-11-15,659.3898489929181
+Slovakia,Weekly new ICU admissions,2020-11-15,46.72841449556113
+Slovakia,Weekly new hospital admissions,2020-11-22,750.7698595620155
+Slovakia,Weekly new ICU admissions,2020-11-22,52.95886976163593
+Slovakia,Weekly new hospital admissions,2020-11-29,841.1114609201003
+Slovakia,Weekly new ICU admissions,2020-11-29,41.53636844049878
+Slovakia,Weekly new hospital admissions,2020-12-06,843.1882793421252
+Slovakia,Weekly new ICU admissions,2020-12-06,44.65159607353619
+Slovakia,Weekly new hospital admissions,2020-12-13,985.4503412508336
+Slovakia,Weekly new ICU admissions,2020-12-13,85.1495553030225
+Slovakia,Weekly new hospital admissions,2020-12-20,1043.6012570675318
+Slovakia,Weekly new ICU admissions,2020-12-20,92.4184197801098
+Slovakia,Weekly new hospital admissions,2020-12-27,885.7630569936365
+Slovakia,Weekly new ICU admissions,2020-12-27,83.07273688099755
+Slovakia,Weekly new hospital admissions,2021-01-03,1105.9058097282798
+Slovakia,Weekly new ICU admissions,2021-01-03,87.22637372504744
+Slovakia,Weekly new hospital admissions,2021-01-10,1136.0196768476414
+Slovakia,Weekly new ICU admissions,2021-01-10,123.57069611048388
+Slovakia,Weekly new hospital admissions,2021-01-17,1172.363999233078
+Slovakia,Weekly new ICU admissions,2021-01-17,125.64751453250881
+Slovakia,Weekly new hospital admissions,2021-01-24,1209.746730829527
+Slovakia,Weekly new ICU admissions,2021-01-24,96.57205662415966
+Slovakia,Weekly new hospital admissions,2021-01-31,1118.3667202604297
+Slovakia,Weekly new ICU admissions,2021-01-31,114.22501321137167
+Slovakia,Weekly new hospital admissions,2021-02-07,1117.3283110494172
+Slovakia,Weekly new ICU admissions,2021-02-07,123.57069611048388
+Slovakia,Weekly new hospital admissions,2021-02-14,1169.2487716000408
+Slovakia,Weekly new ICU admissions,2021-02-14,93.45682899112226
+Slovakia,Weekly new hospital admissions,2021-02-21,1272.051283490275
+Slovakia,Weekly new ICU admissions,2021-02-21,87.22637372504744
+Slovakia,Weekly new hospital admissions,2021-02-28,1249.2062808480005
+Slovakia,Weekly new ICU admissions,2021-02-28,106.95614873428435
+Slovakia,Weekly new hospital admissions,2021-03-07,1225.322868994714
+Slovakia,Weekly new ICU admissions,2021-03-07,119.417059266434
+Slovakia,Weekly new hospital admissions,2021-03-14,1098.6369452511926
+Slovakia,Weekly new ICU admissions,2021-03-14,115.26342242238408
+Slovakia,Weekly new hospital admissions,2021-03-21,936.6451083332474
+Slovakia,Weekly new ICU admissions,2021-03-21,98.6488750461846
+Slovakia,Weekly new hospital admissions,2021-03-28,868.1101004064243
+Slovakia,Weekly new ICU admissions,2021-03-28,72.68864477087286
+Slovakia,Weekly new hospital admissions,2021-04-04,710.2719003325291
+Slovakia,Weekly new ICU admissions,2021-04-04,72.68864477087286
+Slovakia,Weekly new hospital admissions,2021-04-11,584.6243858000204
+Slovakia,Weekly new ICU admissions,2021-04-11,59.189325027710765
+Slovakia,Weekly new hospital admissions,2021-04-18,488.0523291758607
+Slovakia,Weekly new ICU admissions,2021-04-18,49.84364212859853
+Slovakia,Weekly new hospital admissions,2021-04-25,391.48027255170103
+Slovakia,Weekly new ICU admissions,2021-04-25,38.42114080746137
+Slovakia,Weekly new hospital admissions,2021-05-02,315.67640014779073
+Slovakia,Weekly new ICU admissions,2021-05-02,31.152276330374082
+Slovakia,Weekly new hospital admissions,2021-05-09,231.56525405578068
+Slovakia,Weekly new ICU admissions,2021-05-09,24.921821064299266
+Slovakia,Weekly new hospital admissions,2021-05-16,215.98911589059364
+Slovakia,Weekly new ICU admissions,2021-05-16,35.305913174423964
+Slovakia,Weekly new hospital admissions,2021-05-23,137.07001585364597
+Slovakia,Weekly new ICU admissions,2021-05-23,7.268864477087286
+Slovakia,Weekly new hospital admissions,2021-05-30,120.45546847744646
+Slovakia,Weekly new ICU admissions,2021-05-30,10.384092110124692
+Slovakia,Weekly new hospital admissions,2021-06-06,103.84092110124693
+Slovakia,Weekly new ICU admissions,2021-06-06,10.384092110124692
+Slovakia,Weekly new hospital admissions,2021-06-13,78.91910003694768
+Slovakia,Weekly new ICU admissions,2021-06-13,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2021-06-20,67.49659871581052
+Slovakia,Weekly new ICU admissions,2021-06-20,4.153636844049874
+Slovakia,Weekly new hospital admissions,2021-06-27,30.113867119361615
+Slovakia,Weekly new ICU admissions,2021-06-27,4.153636844049874
+Slovakia,Weekly new hospital admissions,2021-07-04,17.65295658721198
+Slovakia,Weekly new ICU admissions,2021-07-04,2.076818422024937
+Slovakia,Weekly new hospital admissions,2021-07-11,13.499319743162097
+Slovakia,Weekly new ICU admissions,2021-07-11,0.0
+Slovakia,Weekly new hospital admissions,2021-07-18,14.537728954174572
+Slovakia,Weekly new ICU admissions,2021-07-18,0.0
+Slovakia,Weekly new hospital admissions,2021-07-25,10.384092110124692
+Slovakia,Weekly new ICU admissions,2021-07-25,3.115227633037406
+Slovakia,Weekly new hospital admissions,2021-08-01,20.76818422024939
+Slovakia,Weekly new ICU admissions,2021-08-01,0.0
+Slovakia,Weekly new hospital admissions,2021-08-08,16.61454737619951
+Slovakia,Weekly new ICU admissions,2021-08-08,0.0
+Slovakia,Weekly new hospital admissions,2021-08-15,22.845002642274327
+Slovakia,Weekly new ICU admissions,2021-08-15,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2021-08-22,23.883411853286795
+Slovakia,Weekly new ICU admissions,2021-08-22,3.115227633037406
+Slovakia,Weekly new hospital admissions,2021-08-29,31.152276330374082
+Slovakia,Weekly new ICU admissions,2021-08-29,6.230455266074812
+Slovakia,Weekly new hospital admissions,2021-09-05,69.57341713783546
+Slovakia,Weekly new ICU admissions,2021-09-05,9.345682899112225
+Slovakia,Weekly new hospital admissions,2021-09-12,161.99183691794525
+Slovakia,Weekly new ICU admissions,2021-09-12,17.65295658721198
+Slovakia,Weekly new hospital admissions,2021-09-19,198.3361593033817
+Slovakia,Weekly new ICU admissions,2021-09-19,21.80659343126186
+Slovakia,Weekly new hospital admissions,2021-09-26,302.1770804046286
+Slovakia,Weekly new ICU admissions,2021-09-26,28.037048697336676
+Slovakia,Weekly new hospital admissions,2021-10-03,386.28822649663863
+Slovakia,Weekly new ICU admissions,2021-10-03,39.45955001847384
+Slovakia,Weekly new hospital admissions,2021-10-10,388.3650449186636
+Slovakia,Weekly new ICU admissions,2021-10-10,38.42114080746137
+Slovakia,Weekly new hospital admissions,2021-10-17,475.591418643711
+Slovakia,Weekly new ICU admissions,2021-10-17,47.76682370657359
+Slovakia,Weekly new hospital admissions,2021-10-24,641.7368924057062
+Slovakia,Weekly new ICU admissions,2021-10-24,73.72705398188533
+Slovakia,Weekly new hospital admissions,2021-10-31,936.6451083332474
+Slovakia,Weekly new ICU admissions,2021-10-31,104.87933031225944
+Slovakia,Weekly new hospital admissions,2021-11-07,1175.4792268661154
+Slovakia,Weekly new ICU admissions,2021-11-07,126.68592374352126
+Slovakia,Weekly new hospital admissions,2021-11-14,1266.8592374352124
+Slovakia,Weekly new ICU admissions,2021-11-14,141.22365269769585
+Slovakia,Weekly new hospital admissions,2021-11-21,1413.2749361879708
+Slovakia,Weekly new ICU admissions,2021-11-21,131.87796979858362
+Slovakia,Weekly new hospital admissions,2021-11-28,1438.1967572522706
+Slovakia,Weekly new ICU admissions,2021-11-28,150.56933559680806
+Slovakia,Weekly new hospital admissions,2021-12-05,1362.39288484836
+Slovakia,Weekly new ICU admissions,2021-12-05,148.49251717478316
+Slovakia,Weekly new hospital admissions,2021-12-12,1188.9785466092778
+Slovakia,Weekly new ICU admissions,2021-12-12,124.60910532149633
+Slovakia,Weekly new hospital admissions,2021-12-19,979.2198859847588
+Slovakia,Weekly new ICU admissions,2021-12-19,97.61046583517214
+Slovakia,Weekly new hospital admissions,2021-12-26,697.8109898003795
+Slovakia,Weekly new ICU admissions,2021-12-26,59.189325027710765
+Slovakia,Weekly new hospital admissions,2022-01-02,688.4653069012674
+Slovakia,Weekly new ICU admissions,2022-01-02,75.80387240391028
+Slovakia,Weekly new hospital admissions,2022-01-09,524.3966515612971
+Slovakia,Weekly new ICU admissions,2022-01-09,43.61318686252372
+Slovakia,Weekly new hospital admissions,2022-01-16,404.9795922948631
+Slovakia,Weekly new ICU admissions,2022-01-16,46.72841449556113
+Slovakia,Weekly new hospital admissions,2022-01-23,429.90141335916235
+Slovakia,Weekly new ICU admissions,2022-01-23,22.845002642274327
+Slovakia,Weekly new hospital admissions,2022-01-30,694.695762167342
+Slovakia,Weekly new ICU admissions,2022-01-30,77.8806908259352
+Slovakia,Weekly new hospital admissions,2022-02-06,1058.1389860217064
+Slovakia,Weekly new ICU admissions,2022-02-06,75.80387240391028
+Slovakia,Weekly new hospital admissions,2022-02-13,1132.9044492146043
+Slovakia,Weekly new ICU admissions,2022-02-13,59.189325027710765
+Slovakia,Weekly new hospital admissions,2022-02-20,1250.2446900590132
+Slovakia,Weekly new ICU admissions,2022-02-20,57.112506605685816
+Slovakia,Weekly new hospital admissions,2022-02-27,1088.2528531410676
+Slovakia,Weekly new ICU admissions,2022-02-27,47.76682370657359
+Slovakia,Weekly new hospital admissions,2022-03-06,976.1046583517214
+Slovakia,Weekly new ICU admissions,2022-03-06,48.80523291758607
+Slovakia,Weekly new hospital admissions,2022-03-13,910.6848780579357
+Slovakia,Weekly new ICU admissions,2022-03-13,49.84364212859853
+Slovakia,Weekly new hospital admissions,2022-03-20,957.413292553497
+Slovakia,Weekly new ICU admissions,2022-03-20,61.266143449735694
+Slovakia,Weekly new hospital admissions,2022-03-27,861.8796451403497
+Slovakia,Weekly new ICU admissions,2022-03-27,46.72841449556113
+Slovakia,Weekly new hospital admissions,2022-04-03,752.8466779840404
+Slovakia,Weekly new ICU admissions,2022-04-03,15.576138165187041
+Slovakia,Weekly new hospital admissions,2022-04-10,609.5462068643195
+Slovakia,Weekly new ICU admissions,2022-04-10,23.883411853286795
+Slovakia,Weekly new hospital admissions,2022-04-17,310.4843540927284
+Slovakia,Weekly new ICU admissions,2022-04-17,8.307273688099755
+Slovakia,Weekly new hospital admissions,2022-04-24,343.7134488451274
+Slovakia,Weekly new ICU admissions,2022-04-24,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2022-05-01,300.1002619826037
+Slovakia,Weekly new ICU admissions,2022-05-01,7.268864477087286
+Slovakia,Weekly new hospital admissions,2022-05-08,163.0302461289577
+Slovakia,Weekly new ICU admissions,2022-05-08,7.268864477087286
+Slovakia,Weekly new hospital admissions,2022-05-15,119.417059266434
+Slovakia,Weekly new ICU admissions,2022-05-15,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-05-22,67.49659871581052
+Slovakia,Weekly new ICU admissions,2022-05-22,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2022-05-29,50.882051339610996
+Slovakia,Weekly new ICU admissions,2022-05-29,0.0
+Slovakia,Weekly new hospital admissions,2022-06-05,56.07409739467335
+Slovakia,Weekly new ICU admissions,2022-06-05,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2022-06-12,51.920460550623474
+Slovakia,Weekly new ICU admissions,2022-06-12,0.0
+Slovakia,Weekly new hospital admissions,2022-06-19,75.80387240391028
+Slovakia,Weekly new ICU admissions,2022-06-19,0.0
+Slovakia,Weekly new hospital admissions,2022-06-26,163.0302461289577
+Slovakia,Weekly new ICU admissions,2022-06-26,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-07-03,160.95342770693276
+Slovakia,Weekly new ICU admissions,2022-07-03,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2022-07-10,169.26070139503256
+Slovakia,Weekly new ICU admissions,2022-07-10,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-07-17,248.1798014319802
+Slovakia,Weekly new ICU admissions,2022-07-17,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-07-24,384.2114080746137
+Slovakia,Weekly new ICU admissions,2022-07-24,7.268864477087286
+Slovakia,Weekly new hospital admissions,2022-07-31,436.1318686252372
+Slovakia,Weekly new ICU admissions,2022-07-31,7.268864477087286
+Slovakia,Weekly new hospital admissions,2022-08-07,311.5227633037408
+Slovakia,Weekly new ICU admissions,2022-08-07,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2022-08-14,291.7929882945039
+Slovakia,Weekly new ICU admissions,2022-08-14,4.153636844049874
+Slovakia,Weekly new hospital admissions,2022-08-21,281.4088961843793
+Slovakia,Weekly new ICU admissions,2022-08-21,7.268864477087286
+Slovakia,Weekly new hospital admissions,2022-08-28,253.37184748704254
+Slovakia,Weekly new ICU admissions,2022-08-28,8.307273688099755
+Slovakia,Weekly new hospital admissions,2022-09-04,198.3361593033817
+Slovakia,Weekly new ICU admissions,2022-09-04,6.230455266074812
+Slovakia,Weekly new hospital admissions,2022-09-11,190.0288856152819
+Slovakia,Weekly new ICU admissions,2022-09-11,15.576138165187041
+Slovakia,Weekly new hospital admissions,2022-09-18,230.52684484476825
+Slovakia,Weekly new ICU admissions,2022-09-18,4.153636844049874
+Slovakia,Weekly new hospital admissions,2022-09-25,331.2525383129777
+Slovakia,Weekly new ICU admissions,2022-09-25,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-10-02,585.6627950110328
+Slovakia,Weekly new ICU admissions,2022-10-02,10.384092110124692
+Slovakia,Weekly new hospital admissions,2022-10-09,544.126426570534
+Slovakia,Weekly new ICU admissions,2022-10-09,8.307273688099755
+Slovakia,Weekly new hospital admissions,2022-10-16,485.9755107538357
+Slovakia,Weekly new ICU admissions,2022-10-16,8.307273688099755
+Slovakia,Weekly new hospital admissions,2022-10-23,380.0577712305638
+Slovakia,Weekly new ICU admissions,2022-10-23,8.307273688099755
+Slovakia,Weekly new hospital admissions,2022-10-30,323.9836738358905
+Slovakia,Weekly new ICU admissions,2022-10-30,2.076818422024937
+Slovakia,Weekly new hospital admissions,2022-11-06,275.17844091830443
+Slovakia,Weekly new ICU admissions,2022-11-06,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-11-13,191.06729482629436
+Slovakia,Weekly new ICU admissions,2022-11-13,0.0
+Slovakia,Weekly new hospital admissions,2022-11-20,176.52956587211983
+Slovakia,Weekly new ICU admissions,2022-11-20,3.115227633037406
+Slovakia,Weekly new hospital admissions,2022-11-27,177.56797508313227
+Slovakia,Weekly new ICU admissions,2022-11-27,7.268864477087286
+Slovakia,Weekly new hospital admissions,2022-12-04,257.5254843310924
+Slovakia,Weekly new ICU admissions,2022-12-04,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2022-12-11,329.17571989095285
+Slovakia,Weekly new ICU admissions,2022-12-11,4.153636844049874
+Slovakia,Weekly new hospital admissions,2022-12-18,259.6023027531173
+Slovakia,Weekly new ICU admissions,2022-12-18,6.230455266074812
+Slovakia,Weekly new hospital admissions,2022-12-25,248.1798014319802
+Slovakia,Weekly new ICU admissions,2022-12-25,0.0
+Slovakia,Weekly new hospital admissions,2023-01-01,240.91093695489292
+Slovakia,Weekly new ICU admissions,2023-01-01,4.153636844049874
+Slovakia,Weekly new hospital admissions,2023-01-08,158.87660928490786
+Slovakia,Weekly new ICU admissions,2023-01-08,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2023-01-15,161.99183691794525
+Slovakia,Weekly new ICU admissions,2023-01-15,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-01-22,154.72297244085797
+Slovakia,Weekly new ICU admissions,2023-01-22,6.230455266074812
+Slovakia,Weekly new hospital admissions,2023-01-29,132.91637900959608
+Slovakia,Weekly new ICU admissions,2023-01-29,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-02-05,186.91365798224453
+Slovakia,Weekly new ICU admissions,2023-02-05,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-02-12,287.63935145045406
+Slovakia,Weekly new ICU admissions,2023-02-12,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-02-19,311.5227633037408
+Slovakia,Weekly new ICU admissions,2023-02-19,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-02-26,276.2168501293169
+Slovakia,Weekly new ICU admissions,2023-02-26,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-03-05,355.13595016626454
+Slovakia,Weekly new ICU admissions,2023-03-05,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2023-03-12,394.5955001847384
+Slovakia,Weekly new ICU admissions,2023-03-12,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2023-03-26,278.29366855134185
+Slovakia,Weekly new ICU admissions,2023-03-26,3.115227633037406
+Slovakia,Weekly new hospital admissions,2020-05-17,4.153636844049874
+Slovakia,Weekly new ICU admissions,2020-05-17,0.0
+Slovakia,Weekly new hospital admissions,2020-07-05,4.153636844049874
+Slovakia,Weekly new ICU admissions,2020-07-05,0.0
+Slovakia,Weekly new hospital admissions,2020-07-12,3.115227633037406
+Slovakia,Weekly new ICU admissions,2020-07-12,0.0
+Slovakia,Weekly new hospital admissions,2020-07-19,10.384092110124692
+Slovakia,Weekly new ICU admissions,2020-07-19,0.0
+Slovakia,Weekly new hospital admissions,2023-03-19,319.83003699184064
+Slovakia,Weekly new ICU admissions,2023-03-19,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-04-02,230.52684484476825
+Slovakia,Weekly new ICU admissions,2023-04-02,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2023-04-09,155.7613816518704
+Slovakia,Weekly new ICU admissions,2023-04-09,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-04-16,198.3361593033817
+Slovakia,Weekly new ICU admissions,2023-04-16,5.1920460550623435
+Slovakia,Weekly new hospital admissions,2023-04-23,138.10842506465846
+Slovakia,Weekly new ICU admissions,2023-04-23,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-04-30,104.87933031225944
+Slovakia,Weekly new ICU admissions,2023-04-30,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-05-07,77.8806908259352
+Slovakia,Weekly new ICU admissions,2023-05-07,0.0
+Slovakia,Weekly new hospital admissions,2023-05-14,70.61182634884791
+Slovakia,Weekly new ICU admissions,2023-05-14,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-05-21,44.65159607353619
+Slovakia,Weekly new ICU admissions,2023-05-21,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-05-28,42.57477765151125
+Slovakia,Weekly new ICU admissions,2023-05-28,0.0
+Slovakia,Weekly new hospital admissions,2023-06-04,34.26750396341149
+Slovakia,Weekly new ICU admissions,2023-06-04,0.0
+Slovakia,Weekly new hospital admissions,2023-06-11,19.72977500923692
+Slovakia,Weekly new ICU admissions,2023-06-11,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-06-18,26.998639486324205
+Slovakia,Weekly new ICU admissions,2023-06-18,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-06-25,19.72977500923692
+Slovakia,Weekly new ICU admissions,2023-06-25,0.0
+Slovakia,Weekly new hospital admissions,2023-07-02,8.307273688099755
+Slovakia,Weekly new ICU admissions,2023-07-02,0.0
+Slovakia,Weekly new hospital admissions,2023-07-09,6.230455266074812
+Slovakia,Weekly new ICU admissions,2023-07-09,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-07-16,15.576138165187041
+Slovakia,Weekly new ICU admissions,2023-07-16,0.0
+Slovakia,Weekly new hospital admissions,2023-07-23,7.268864477087286
+Slovakia,Weekly new ICU admissions,2023-07-23,0.0
+Slovakia,Weekly new hospital admissions,2023-08-06,6.230455266074812
+Slovakia,Weekly new ICU admissions,2023-08-06,0.0
+Slovakia,Weekly new hospital admissions,2023-08-13,8.307273688099755
+Slovakia,Weekly new ICU admissions,2023-08-13,0.0
+Slovakia,Weekly new hospital admissions,2023-08-20,13.499319743162097
+Slovakia,Weekly new ICU admissions,2023-08-20,0.0
+Slovakia,Weekly new hospital admissions,2023-08-27,24.921821064299266
+Slovakia,Weekly new ICU admissions,2023-08-27,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-09-03,23.883411853286795
+Slovakia,Weekly new ICU admissions,2023-09-03,0.0
+Slovakia,Weekly new hospital admissions,2023-09-10,40.49795922948631
+Slovakia,Weekly new ICU admissions,2023-09-10,0.0
+Slovakia,Weekly new hospital admissions,2023-09-17,43.61318686252372
+Slovakia,Weekly new ICU admissions,2023-09-17,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-09-24,90.34160135808484
+Slovakia,Weekly new ICU admissions,2023-09-24,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-10-01,132.91637900959608
+Slovakia,Weekly new ICU admissions,2023-10-01,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-10-08,111.10978557833425
+Slovakia,Weekly new ICU admissions,2023-10-08,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-10-15,138.10842506465846
+Slovakia,Weekly new ICU admissions,2023-10-15,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-10-22,176.52956587211983
+Slovakia,Weekly new ICU admissions,2023-10-22,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-10-29,183.7984303492071
+Slovakia,Weekly new ICU admissions,2023-10-29,1.0384092110124685
+Slovakia,Weekly new hospital admissions,2023-11-05,165.10706455098264
+Slovakia,Weekly new ICU admissions,2023-11-05,3.115227633037406
+Slovakia,Weekly new hospital admissions,2023-11-12,166.1454737619951
+Slovakia,Weekly new ICU admissions,2023-11-12,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-11-19,148.49251717478316
+Slovakia,Weekly new ICU admissions,2023-11-19,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-11-26,182.76002113819462
+Slovakia,Weekly new ICU admissions,2023-11-26,2.076818422024937
+Slovakia,Weekly new hospital admissions,2023-07-30,6.230455266074812
+Slovakia,Weekly new ICU admissions,2023-07-30,0.0
+Slovakia,Weekly new hospital admissions,2020-03-08,7.268864477087286
+Slovakia,Weekly new ICU admissions,2020-03-08,2.076818422024937

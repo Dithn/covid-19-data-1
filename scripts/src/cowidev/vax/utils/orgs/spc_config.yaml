@@ -29,3 +29,10 @@ countries:
     owid_name: "Wallis and Futuna"
   - org_name: "WS"
     owid_name: "Samoa"
+
+  - org_name: "POL"
+    owid_name: "Polynesia"
+  - org_name: "MEL"
+    owid_name: "Melanesia"
+  - org_name: "MIC"
+    owid_name: "Micronesia"

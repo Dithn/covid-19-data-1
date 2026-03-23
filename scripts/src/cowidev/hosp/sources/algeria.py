@@ -1,17 +1,25 @@
 import pandas as pd
 
 
+METADATA = {
+    "source_url": (
+        "https://raw.githubusercontent.com/yasserkaddour/covid19-icu-data-algeria/main/algeria-covid19-icu-data.csv"
+    ),
+    "source_url_ref": "https://github.com/yasserkaddour/covid19-icu-data-algeria/",
+    "source_name": "Ministry of Health via github.com/yasserkaddour/covid19-icu-data-algeria/",
+    "entity": "Algeria",
+}
+
+
 def main():
+    df = pd.read_csv(METADATA["source_url"], usecols=["date", "in_icu"])
+    df = df.melt("date", ["in_icu"], "indicator")
+    df = df.assign(
+        indicator=df.indicator.replace({"in_icu": "Daily ICU occupancy"}),
+        entity=METADATA["entity"],
+    )
+    return df, METADATA
 
-    print("Downloading Algeria data…")
-    url = "https://raw.githubusercontent.com/yasserkaddour/covid19-icu-data-algeria/main/algeria-covid19-icu-data.csv"
-    algeria = pd.read_csv(url, usecols=["date", "in_icu"])
 
-    algeria = algeria.melt("date", ["in_icu"], "indicator")
-    algeria.loc[:, "indicator"] = algeria["indicator"].replace({"in_icu": "Daily ICU occupancy"})
-
-    algeria.loc[:, "entity"] = "Algeria"
-    algeria.loc[:, "iso_code"] = "DZA"
-    algeria.loc[:, "population"] = 44616626
-
-    return algeria
+if __name__ == "__main__":
+    main()

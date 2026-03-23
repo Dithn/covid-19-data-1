@@ -1,3 +1,7 @@
-location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
-Turkmenistan,2021-02-28,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://who.maps.arcgis.com/apps/dashboards/ead3c6475654481ca51c248d52ab9c61,51746,32240,19506
-Turkmenistan,2021-08-29,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://who.maps.arcgis.com/apps/dashboards/ead3c6475654481ca51c248d52ab9c61,7580976,4374694,3206282
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Turkmenistan,2021-02-28,"EpiVacCorona, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://who.maps.arcgis.com/apps/dashboards/ead3c6475654481ca51c248d52ab9c61,51746,32240,19506,
+Turkmenistan,2022-03-06,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",https://covid19.who.int/,7140000,2970000,2920000,
+Turkmenistan,2022-09-04,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",https://covid19.who.int/,,,,
+Turkmenistan,2022-12-04,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",https://covid19.who.int/,8286809,,,434817
+Turkmenistan,2023-02-05,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",https://covid19.who.int/,13040514,3359468,3358426,3171535
+Turkmenistan,2023-08-06,"EpiVacCorona, Oxford/AstraZeneca, QazVac, Sinopharm/Beijing, Sputnik V, ZF2001",https://data.who.int/dashboards/covid19/,16775970,4614869,4568901,3816400

@@ -1,5 +1,9 @@
-date,people_vaccinated,people_fully_vaccinated,total_vaccinations,location,source_url,vaccine
-2021-06-21,0,,0,Tokelau,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,Pfizer/BioNTech
-2021-08-02,953,0,953,Tokelau,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,Pfizer/BioNTech
-2021-08-16,968,0,968,Tokelau,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,Pfizer/BioNTech
-2021-10-12,968,968,1936,Tokelau,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,Pfizer/BioNTech
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Tokelau,2021-06-21,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,0,0,,
+Tokelau,2021-08-02,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,953,953,0,
+Tokelau,2021-08-16,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,968,968,0,
+Tokelau,2021-10-12,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,1936,968,968,
+Tokelau,2022-07-25,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,2464,1339,1125,0
+Tokelau,2022-08-08,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,3326,1339,1125,862
+Tokelau,2022-10-24,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,3956,1494,1494,968
+Tokelau,2022-12-05,Pfizer/BioNTech,https://stats.pacificdata.org/vis?tm=covid&pg=0&df[ds]=SPC2&df[id]=DF_COVID_VACCINATION&df[ag]=SPC&df[vs]=1.0,5374,2203,2203,968

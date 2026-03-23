@@ -1,0 +1,1690 @@
+entity,indicator,date,value
+Estonia,Daily hospital occupancy,2020-01-06,1.0
+Estonia,Daily hospital occupancy,2020-01-18,1.0
+Estonia,Daily hospital occupancy,2020-02-12,1.0
+Estonia,Daily hospital occupancy,2020-02-25,1.0
+Estonia,Daily hospital occupancy,2020-02-26,1.0
+Estonia,Daily hospital occupancy,2020-02-27,1.0
+Estonia,Daily hospital occupancy,2020-02-28,1.0
+Estonia,Daily hospital occupancy,2020-02-29,1.0
+Estonia,Daily hospital occupancy,2020-03-01,1.0
+Estonia,Daily hospital occupancy,2020-03-02,1.0
+Estonia,Daily hospital occupancy,2020-03-03,1.0
+Estonia,Daily hospital occupancy,2020-03-04,1.0
+Estonia,Daily hospital occupancy,2020-03-05,1.0
+Estonia,Daily hospital occupancy,2020-03-06,1.0
+Estonia,Daily hospital occupancy,2020-03-07,1.0
+Estonia,Daily hospital occupancy,2020-03-08,1.0
+Estonia,Daily hospital occupancy,2020-03-09,2.0
+Estonia,Daily hospital occupancy,2020-03-10,2.0
+Estonia,Daily hospital occupancy,2020-03-11,1.0
+Estonia,Daily hospital occupancy,2020-03-12,2.0
+Estonia,Daily hospital occupancy,2020-03-13,3.0
+Estonia,Daily hospital occupancy,2020-03-14,4.0
+Estonia,Daily hospital occupancy,2020-03-15,6.0
+Estonia,Daily hospital occupancy,2020-03-16,10.0
+Estonia,Daily hospital occupancy,2020-03-17,14.0
+Estonia,Daily hospital occupancy,2020-03-18,20.0
+Estonia,Daily hospital occupancy,2020-03-19,24.0
+Estonia,Daily hospital occupancy,2020-03-20,25.0
+Estonia,Daily hospital occupancy,2020-03-21,28.0
+Estonia,Daily hospital occupancy,2020-03-22,36.0
+Estonia,Daily hospital occupancy,2020-03-23,40.0
+Estonia,Daily hospital occupancy,2020-03-24,47.0
+Estonia,Daily hospital occupancy,2020-03-25,52.0
+Estonia,Daily hospital occupancy,2020-03-26,59.0
+Estonia,Daily hospital occupancy,2020-03-27,72.0
+Estonia,Daily hospital occupancy,2020-03-28,88.0
+Estonia,Daily hospital occupancy,2020-03-29,95.0
+Estonia,Daily hospital occupancy,2020-03-30,102.0
+Estonia,Daily hospital occupancy,2020-03-31,93.0
+Estonia,Daily hospital occupancy,2020-04-01,97.0
+Estonia,Daily hospital occupancy,2020-04-02,118.0
+Estonia,Daily hospital occupancy,2020-04-03,134.0
+Estonia,Daily hospital occupancy,2020-04-04,135.0
+Estonia,Daily hospital occupancy,2020-04-05,132.0
+Estonia,Daily hospital occupancy,2020-04-06,140.0
+Estonia,Daily hospital occupancy,2020-04-07,130.0
+Estonia,Daily hospital occupancy,2020-04-08,136.0
+Estonia,Daily hospital occupancy,2020-04-09,142.0
+Estonia,Daily hospital occupancy,2020-04-10,150.0
+Estonia,Daily hospital occupancy,2020-04-11,152.0
+Estonia,Daily hospital occupancy,2020-04-12,147.0
+Estonia,Daily hospital occupancy,2020-04-13,144.0
+Estonia,Daily hospital occupancy,2020-04-14,132.0
+Estonia,Daily hospital occupancy,2020-04-15,124.0
+Estonia,Daily hospital occupancy,2020-04-16,117.0
+Estonia,Daily hospital occupancy,2020-04-17,123.0
+Estonia,Daily hospital occupancy,2020-04-18,124.0
+Estonia,Daily hospital occupancy,2020-04-19,121.0
+Estonia,Daily hospital occupancy,2020-04-20,109.0
+Estonia,Daily hospital occupancy,2020-04-21,109.0
+Estonia,Daily hospital occupancy,2020-04-22,107.0
+Estonia,Daily hospital occupancy,2020-04-23,98.0
+Estonia,Daily hospital occupancy,2020-04-24,95.0
+Estonia,Daily hospital occupancy,2020-04-25,94.0
+Estonia,Daily hospital occupancy,2020-04-26,87.0
+Estonia,Daily hospital occupancy,2020-04-27,84.0
+Estonia,Daily hospital occupancy,2020-04-28,74.0
+Estonia,Daily hospital occupancy,2020-04-29,69.0
+Estonia,Daily hospital occupancy,2020-04-30,72.0
+Estonia,Daily hospital occupancy,2020-05-01,74.0
+Estonia,Daily hospital occupancy,2020-05-02,74.0
+Estonia,Daily hospital occupancy,2020-05-03,66.0
+Estonia,Daily hospital occupancy,2020-05-04,63.0
+Estonia,Daily hospital occupancy,2020-05-05,56.0
+Estonia,Daily hospital occupancy,2020-05-06,53.0
+Estonia,Daily hospital occupancy,2020-05-07,46.0
+Estonia,Daily hospital occupancy,2020-05-08,47.0
+Estonia,Daily hospital occupancy,2020-05-09,46.0
+Estonia,Daily hospital occupancy,2020-05-10,45.0
+Estonia,Daily hospital occupancy,2020-05-11,44.0
+Estonia,Daily hospital occupancy,2020-05-12,41.0
+Estonia,Daily hospital occupancy,2020-05-13,41.0
+Estonia,Daily hospital occupancy,2020-05-14,39.0
+Estonia,Daily hospital occupancy,2020-05-15,41.0
+Estonia,Daily hospital occupancy,2020-05-16,41.0
+Estonia,Daily hospital occupancy,2020-05-17,41.0
+Estonia,Daily hospital occupancy,2020-05-18,38.0
+Estonia,Daily hospital occupancy,2020-05-19,38.0
+Estonia,Daily hospital occupancy,2020-05-20,37.0
+Estonia,Daily hospital occupancy,2020-05-21,37.0
+Estonia,Daily hospital occupancy,2020-05-22,40.0
+Estonia,Daily hospital occupancy,2020-05-23,40.0
+Estonia,Daily hospital occupancy,2020-05-24,37.0
+Estonia,Daily hospital occupancy,2020-05-25,31.0
+Estonia,Daily hospital occupancy,2020-05-26,30.0
+Estonia,Daily hospital occupancy,2020-05-27,33.0
+Estonia,Daily hospital occupancy,2020-05-28,27.0
+Estonia,Daily hospital occupancy,2020-05-29,28.0
+Estonia,Daily hospital occupancy,2020-05-30,27.0
+Estonia,Daily hospital occupancy,2020-05-31,22.0
+Estonia,Daily hospital occupancy,2020-06-01,21.0
+Estonia,Daily hospital occupancy,2020-06-02,21.0
+Estonia,Daily hospital occupancy,2020-06-03,16.0
+Estonia,Daily hospital occupancy,2020-06-04,14.0
+Estonia,Daily hospital occupancy,2020-06-05,14.0
+Estonia,Daily hospital occupancy,2020-06-06,15.0
+Estonia,Daily hospital occupancy,2020-06-07,13.0
+Estonia,Daily hospital occupancy,2020-06-08,16.0
+Estonia,Daily hospital occupancy,2020-06-09,15.0
+Estonia,Daily hospital occupancy,2020-06-10,15.0
+Estonia,Daily hospital occupancy,2020-06-11,15.0
+Estonia,Daily hospital occupancy,2020-06-12,15.0
+Estonia,Daily hospital occupancy,2020-06-13,15.0
+Estonia,Daily hospital occupancy,2020-06-14,13.0
+Estonia,Daily hospital occupancy,2020-06-15,11.0
+Estonia,Daily hospital occupancy,2020-06-16,12.0
+Estonia,Daily hospital occupancy,2020-06-17,9.0
+Estonia,Daily hospital occupancy,2020-06-18,7.0
+Estonia,Daily hospital occupancy,2020-06-19,7.0
+Estonia,Daily hospital occupancy,2020-06-20,5.0
+Estonia,Daily hospital occupancy,2020-06-21,5.0
+Estonia,Daily hospital occupancy,2020-06-22,5.0
+Estonia,Daily hospital occupancy,2020-06-23,6.0
+Estonia,Daily hospital occupancy,2020-06-24,4.0
+Estonia,Daily hospital occupancy,2020-06-25,3.0
+Estonia,Daily hospital occupancy,2020-06-26,3.0
+Estonia,Daily hospital occupancy,2020-06-27,4.0
+Estonia,Daily hospital occupancy,2020-06-28,3.0
+Estonia,Daily hospital occupancy,2020-06-29,3.0
+Estonia,Daily hospital occupancy,2020-06-30,2.0
+Estonia,Daily hospital occupancy,2020-07-01,1.0
+Estonia,Daily hospital occupancy,2020-07-02,2.0
+Estonia,Daily hospital occupancy,2020-07-03,2.0
+Estonia,Daily hospital occupancy,2020-07-04,2.0
+Estonia,Daily hospital occupancy,2020-07-05,2.0
+Estonia,Daily hospital occupancy,2020-07-06,2.0
+Estonia,Daily hospital occupancy,2020-07-07,2.0
+Estonia,Daily hospital occupancy,2020-07-08,4.0
+Estonia,Daily hospital occupancy,2020-07-09,4.0
+Estonia,Daily hospital occupancy,2020-07-10,4.0
+Estonia,Daily hospital occupancy,2020-07-11,4.0
+Estonia,Daily hospital occupancy,2020-07-12,4.0
+Estonia,Daily hospital occupancy,2020-07-13,4.0
+Estonia,Daily hospital occupancy,2020-07-14,4.0
+Estonia,Daily hospital occupancy,2020-07-15,4.0
+Estonia,Daily hospital occupancy,2020-07-16,4.0
+Estonia,Daily hospital occupancy,2020-07-17,4.0
+Estonia,Daily hospital occupancy,2020-07-18,4.0
+Estonia,Daily hospital occupancy,2020-07-19,4.0
+Estonia,Daily hospital occupancy,2020-07-20,4.0
+Estonia,Daily hospital occupancy,2020-07-21,3.0
+Estonia,Daily hospital occupancy,2020-07-22,3.0
+Estonia,Daily hospital occupancy,2020-07-23,3.0
+Estonia,Daily hospital occupancy,2020-07-24,3.0
+Estonia,Daily hospital occupancy,2020-07-25,3.0
+Estonia,Daily hospital occupancy,2020-07-26,3.0
+Estonia,Daily hospital occupancy,2020-07-27,3.0
+Estonia,Daily hospital occupancy,2020-07-28,4.0
+Estonia,Daily hospital occupancy,2020-07-29,4.0
+Estonia,Daily hospital occupancy,2020-07-30,4.0
+Estonia,Daily hospital occupancy,2020-07-31,5.0
+Estonia,Daily hospital occupancy,2020-08-01,5.0
+Estonia,Daily hospital occupancy,2020-08-02,8.0
+Estonia,Daily hospital occupancy,2020-08-03,9.0
+Estonia,Daily hospital occupancy,2020-08-04,9.0
+Estonia,Daily hospital occupancy,2020-08-05,9.0
+Estonia,Daily hospital occupancy,2020-08-06,8.0
+Estonia,Daily hospital occupancy,2020-08-07,8.0
+Estonia,Daily hospital occupancy,2020-08-08,8.0
+Estonia,Daily hospital occupancy,2020-08-09,9.0
+Estonia,Daily hospital occupancy,2020-08-10,9.0
+Estonia,Daily hospital occupancy,2020-08-11,8.0
+Estonia,Daily hospital occupancy,2020-08-12,8.0
+Estonia,Daily hospital occupancy,2020-08-13,8.0
+Estonia,Daily hospital occupancy,2020-08-14,7.0
+Estonia,Daily hospital occupancy,2020-08-15,6.0
+Estonia,Daily hospital occupancy,2020-08-16,7.0
+Estonia,Daily hospital occupancy,2020-08-17,7.0
+Estonia,Daily hospital occupancy,2020-08-18,10.0
+Estonia,Daily hospital occupancy,2020-08-19,10.0
+Estonia,Daily hospital occupancy,2020-08-20,11.0
+Estonia,Daily hospital occupancy,2020-08-21,9.0
+Estonia,Daily hospital occupancy,2020-08-22,12.0
+Estonia,Daily hospital occupancy,2020-08-23,11.0
+Estonia,Daily hospital occupancy,2020-08-24,10.0
+Estonia,Daily hospital occupancy,2020-08-25,10.0
+Estonia,Daily hospital occupancy,2020-08-26,12.0
+Estonia,Daily hospital occupancy,2020-08-27,9.0
+Estonia,Daily hospital occupancy,2020-08-28,9.0
+Estonia,Daily hospital occupancy,2020-08-29,9.0
+Estonia,Daily hospital occupancy,2020-08-30,9.0
+Estonia,Daily hospital occupancy,2020-08-31,8.0
+Estonia,Daily hospital occupancy,2020-09-01,10.0
+Estonia,Daily hospital occupancy,2020-09-02,9.0
+Estonia,Daily hospital occupancy,2020-09-03,7.0
+Estonia,Daily hospital occupancy,2020-09-04,7.0
+Estonia,Daily hospital occupancy,2020-09-05,7.0
+Estonia,Daily hospital occupancy,2020-09-06,7.0
+Estonia,Daily hospital occupancy,2020-09-07,7.0
+Estonia,Daily hospital occupancy,2020-09-08,9.0
+Estonia,Daily hospital occupancy,2020-09-09,10.0
+Estonia,Daily hospital occupancy,2020-09-10,14.0
+Estonia,Daily hospital occupancy,2020-09-11,14.0
+Estonia,Daily hospital occupancy,2020-09-12,16.0
+Estonia,Daily hospital occupancy,2020-09-13,19.0
+Estonia,Daily hospital occupancy,2020-09-14,18.0
+Estonia,Daily hospital occupancy,2020-09-15,19.0
+Estonia,Daily hospital occupancy,2020-09-16,22.0
+Estonia,Daily hospital occupancy,2020-09-17,19.0
+Estonia,Daily hospital occupancy,2020-09-18,20.0
+Estonia,Daily hospital occupancy,2020-09-19,22.0
+Estonia,Daily hospital occupancy,2020-09-20,32.0
+Estonia,Daily hospital occupancy,2020-09-21,28.0
+Estonia,Daily hospital occupancy,2020-09-22,32.0
+Estonia,Daily hospital occupancy,2020-09-23,30.0
+Estonia,Daily hospital occupancy,2020-09-24,30.0
+Estonia,Daily hospital occupancy,2020-09-25,30.0
+Estonia,Daily hospital occupancy,2020-09-26,32.0
+Estonia,Daily hospital occupancy,2020-09-27,36.0
+Estonia,Daily hospital occupancy,2020-09-28,35.0
+Estonia,Daily hospital occupancy,2020-09-29,37.0
+Estonia,Daily hospital occupancy,2020-09-30,37.0
+Estonia,Daily hospital occupancy,2020-10-01,36.0
+Estonia,Daily hospital occupancy,2020-10-02,40.0
+Estonia,Daily hospital occupancy,2020-10-03,41.0
+Estonia,Daily hospital occupancy,2020-10-04,40.0
+Estonia,Daily hospital occupancy,2020-10-05,39.0
+Estonia,Daily hospital occupancy,2020-10-06,45.0
+Estonia,Daily hospital occupancy,2020-10-07,36.0
+Estonia,Daily hospital occupancy,2020-10-08,30.0
+Estonia,Daily hospital occupancy,2020-10-09,31.0
+Estonia,Daily hospital occupancy,2020-10-10,32.0
+Estonia,Daily hospital occupancy,2020-10-11,32.0
+Estonia,Daily hospital occupancy,2020-10-12,34.0
+Estonia,Daily hospital occupancy,2020-10-13,36.0
+Estonia,Daily hospital occupancy,2020-10-14,37.0
+Estonia,Daily hospital occupancy,2020-10-15,33.0
+Estonia,Daily hospital occupancy,2020-10-16,33.0
+Estonia,Daily hospital occupancy,2020-10-17,36.0
+Estonia,Daily hospital occupancy,2020-10-18,30.0
+Estonia,Daily hospital occupancy,2020-10-19,29.0
+Estonia,Daily hospital occupancy,2020-10-20,32.0
+Estonia,Daily hospital occupancy,2020-10-21,29.0
+Estonia,Daily hospital occupancy,2020-10-22,28.0
+Estonia,Daily hospital occupancy,2020-10-23,29.0
+Estonia,Daily hospital occupancy,2020-10-24,30.0
+Estonia,Daily hospital occupancy,2020-10-25,36.0
+Estonia,Daily hospital occupancy,2020-10-26,33.0
+Estonia,Daily hospital occupancy,2020-10-27,34.0
+Estonia,Daily hospital occupancy,2020-10-28,40.0
+Estonia,Daily hospital occupancy,2020-10-29,42.0
+Estonia,Daily hospital occupancy,2020-10-30,43.0
+Estonia,Daily hospital occupancy,2020-10-31,47.0
+Estonia,Daily hospital occupancy,2020-11-01,46.0
+Estonia,Daily hospital occupancy,2020-11-02,46.0
+Estonia,Daily hospital occupancy,2020-11-03,55.0
+Estonia,Daily hospital occupancy,2020-11-04,57.0
+Estonia,Daily hospital occupancy,2020-11-05,53.0
+Estonia,Daily hospital occupancy,2020-11-06,61.0
+Estonia,Daily hospital occupancy,2020-11-07,66.0
+Estonia,Daily hospital occupancy,2020-11-08,68.0
+Estonia,Daily hospital occupancy,2020-11-09,69.0
+Estonia,Daily hospital occupancy,2020-11-10,78.0
+Estonia,Daily hospital occupancy,2020-11-11,84.0
+Estonia,Daily hospital occupancy,2020-11-12,82.0
+Estonia,Daily hospital occupancy,2020-11-13,94.0
+Estonia,Daily hospital occupancy,2020-11-14,93.0
+Estonia,Daily hospital occupancy,2020-11-15,97.0
+Estonia,Daily hospital occupancy,2020-11-16,108.0
+Estonia,Daily hospital occupancy,2020-11-17,126.0
+Estonia,Daily hospital occupancy,2020-11-18,134.0
+Estonia,Daily hospital occupancy,2020-11-19,157.0
+Estonia,Daily hospital occupancy,2020-11-20,159.0
+Estonia,Daily hospital occupancy,2020-11-21,169.0
+Estonia,Daily hospital occupancy,2020-11-22,167.0
+Estonia,Daily hospital occupancy,2020-11-23,176.0
+Estonia,Daily hospital occupancy,2020-11-24,193.0
+Estonia,Daily hospital occupancy,2020-11-25,198.0
+Estonia,Daily hospital occupancy,2020-11-26,199.0
+Estonia,Daily hospital occupancy,2020-11-27,202.0
+Estonia,Daily hospital occupancy,2020-11-28,218.0
+Estonia,Daily hospital occupancy,2020-11-29,214.0
+Estonia,Daily hospital occupancy,2020-11-30,215.0
+Estonia,Daily hospital occupancy,2020-12-01,226.0
+Estonia,Daily hospital occupancy,2020-12-02,225.0
+Estonia,Daily hospital occupancy,2020-12-03,242.0
+Estonia,Daily hospital occupancy,2020-12-04,255.0
+Estonia,Daily hospital occupancy,2020-12-05,272.0
+Estonia,Daily hospital occupancy,2020-12-06,261.0
+Estonia,Daily hospital occupancy,2020-12-07,264.0
+Estonia,Daily hospital occupancy,2020-12-08,257.0
+Estonia,Daily hospital occupancy,2020-12-09,279.0
+Estonia,Daily hospital occupancy,2020-12-10,278.0
+Estonia,Daily hospital occupancy,2020-12-11,291.0
+Estonia,Daily hospital occupancy,2020-12-12,311.0
+Estonia,Daily hospital occupancy,2020-12-13,323.0
+Estonia,Daily hospital occupancy,2020-12-14,329.0
+Estonia,Daily hospital occupancy,2020-12-15,334.0
+Estonia,Daily hospital occupancy,2020-12-16,336.0
+Estonia,Daily hospital occupancy,2020-12-17,337.0
+Estonia,Daily hospital occupancy,2020-12-18,353.0
+Estonia,Daily hospital occupancy,2020-12-19,387.0
+Estonia,Daily hospital occupancy,2020-12-20,375.0
+Estonia,Daily hospital occupancy,2020-12-21,390.0
+Estonia,Daily hospital occupancy,2020-12-22,382.0
+Estonia,Daily hospital occupancy,2020-12-23,400.0
+Estonia,Daily hospital occupancy,2020-12-24,423.0
+Estonia,Daily hospital occupancy,2020-12-25,431.0
+Estonia,Daily hospital occupancy,2020-12-26,447.0
+Estonia,Daily hospital occupancy,2020-12-27,429.0
+Estonia,Daily hospital occupancy,2020-12-28,428.0
+Estonia,Daily hospital occupancy,2020-12-29,408.0
+Estonia,Daily hospital occupancy,2020-12-30,387.0
+Estonia,Daily hospital occupancy,2020-12-31,401.0
+Estonia,Daily hospital occupancy,2021-01-01,406.0
+Estonia,Daily hospital occupancy,2021-01-02,432.0
+Estonia,Daily hospital occupancy,2021-01-03,400.0
+Estonia,Daily hospital occupancy,2021-01-04,409.0
+Estonia,Daily hospital occupancy,2021-01-05,402.0
+Estonia,Daily hospital occupancy,2021-01-06,410.0
+Estonia,Daily hospital occupancy,2021-01-07,402.0
+Estonia,Daily hospital occupancy,2021-01-08,406.0
+Estonia,Daily hospital occupancy,2021-01-09,420.0
+Estonia,Daily hospital occupancy,2021-01-10,410.0
+Estonia,Daily hospital occupancy,2021-01-11,417.0
+Estonia,Daily hospital occupancy,2021-01-12,402.0
+Estonia,Daily hospital occupancy,2021-01-13,398.0
+Estonia,Daily hospital occupancy,2021-01-14,391.0
+Estonia,Daily hospital occupancy,2021-01-15,407.0
+Estonia,Daily hospital occupancy,2021-01-16,432.0
+Estonia,Daily hospital occupancy,2021-01-17,431.0
+Estonia,Daily hospital occupancy,2021-01-18,414.0
+Estonia,Daily hospital occupancy,2021-01-19,409.0
+Estonia,Daily hospital occupancy,2021-01-20,417.0
+Estonia,Daily hospital occupancy,2021-01-21,413.0
+Estonia,Daily hospital occupancy,2021-01-22,429.0
+Estonia,Daily hospital occupancy,2021-01-23,432.0
+Estonia,Daily hospital occupancy,2021-01-24,427.0
+Estonia,Daily hospital occupancy,2021-01-25,407.0
+Estonia,Daily hospital occupancy,2021-01-26,406.0
+Estonia,Daily hospital occupancy,2021-01-27,428.0
+Estonia,Daily hospital occupancy,2021-01-28,428.0
+Estonia,Daily hospital occupancy,2021-01-29,438.0
+Estonia,Daily hospital occupancy,2021-01-30,445.0
+Estonia,Daily hospital occupancy,2021-01-31,440.0
+Estonia,Daily hospital occupancy,2021-02-01,440.0
+Estonia,Daily hospital occupancy,2021-02-02,455.0
+Estonia,Daily hospital occupancy,2021-02-03,465.0
+Estonia,Daily hospital occupancy,2021-02-04,458.0
+Estonia,Daily hospital occupancy,2021-02-05,467.0
+Estonia,Daily hospital occupancy,2021-02-06,474.0
+Estonia,Daily hospital occupancy,2021-02-07,472.0
+Estonia,Daily hospital occupancy,2021-02-08,461.0
+Estonia,Daily hospital occupancy,2021-02-09,468.0
+Estonia,Daily hospital occupancy,2021-02-10,459.0
+Estonia,Daily hospital occupancy,2021-02-11,463.0
+Estonia,Daily hospital occupancy,2021-02-12,488.0
+Estonia,Daily hospital occupancy,2021-02-13,499.0
+Estonia,Daily hospital occupancy,2021-02-14,497.0
+Estonia,Daily hospital occupancy,2021-02-15,507.0
+Estonia,Daily hospital occupancy,2021-02-16,497.0
+Estonia,Daily hospital occupancy,2021-02-17,499.0
+Estonia,Daily hospital occupancy,2021-02-18,490.0
+Estonia,Daily hospital occupancy,2021-02-19,499.0
+Estonia,Daily hospital occupancy,2021-02-20,520.0
+Estonia,Daily hospital occupancy,2021-02-21,484.0
+Estonia,Daily hospital occupancy,2021-02-22,461.0
+Estonia,Daily hospital occupancy,2021-02-23,495.0
+Estonia,Daily hospital occupancy,2021-02-24,499.0
+Estonia,Daily hospital occupancy,2021-02-25,496.0
+Estonia,Daily hospital occupancy,2021-02-26,521.0
+Estonia,Daily hospital occupancy,2021-02-27,560.0
+Estonia,Daily hospital occupancy,2021-02-28,564.0
+Estonia,Daily hospital occupancy,2021-03-01,560.0
+Estonia,Daily hospital occupancy,2021-03-02,563.0
+Estonia,Daily hospital occupancy,2021-03-03,590.0
+Estonia,Daily hospital occupancy,2021-03-04,577.0
+Estonia,Daily hospital occupancy,2021-03-05,601.0
+Estonia,Daily hospital occupancy,2021-03-06,636.0
+Estonia,Daily hospital occupancy,2021-03-07,641.0
+Estonia,Daily hospital occupancy,2021-03-08,647.0
+Estonia,Daily hospital occupancy,2021-03-09,651.0
+Estonia,Daily hospital occupancy,2021-03-10,666.0
+Estonia,Daily hospital occupancy,2021-03-11,680.0
+Estonia,Daily hospital occupancy,2021-03-12,694.0
+Estonia,Daily hospital occupancy,2021-03-13,714.0
+Estonia,Daily hospital occupancy,2021-03-14,696.0
+Estonia,Daily hospital occupancy,2021-03-15,683.0
+Estonia,Daily hospital occupancy,2021-03-16,703.0
+Estonia,Daily hospital occupancy,2021-03-17,702.0
+Estonia,Daily hospital occupancy,2021-03-18,655.0
+Estonia,Daily hospital occupancy,2021-03-19,679.0
+Estonia,Daily hospital occupancy,2021-03-20,709.0
+Estonia,Daily hospital occupancy,2021-03-21,693.0
+Estonia,Daily hospital occupancy,2021-03-22,701.0
+Estonia,Daily hospital occupancy,2021-03-23,693.0
+Estonia,Daily hospital occupancy,2021-03-24,701.0
+Estonia,Daily hospital occupancy,2021-03-25,670.0
+Estonia,Daily hospital occupancy,2021-03-26,703.0
+Estonia,Daily hospital occupancy,2021-03-27,726.0
+Estonia,Daily hospital occupancy,2021-03-28,707.0
+Estonia,Daily hospital occupancy,2021-03-29,693.0
+Estonia,Daily hospital occupancy,2021-03-30,700.0
+Estonia,Daily hospital occupancy,2021-03-31,673.0
+Estonia,Daily hospital occupancy,2021-04-01,679.0
+Estonia,Daily hospital occupancy,2021-04-02,705.0
+Estonia,Daily hospital occupancy,2021-04-03,733.0
+Estonia,Daily hospital occupancy,2021-04-04,693.0
+Estonia,Daily hospital occupancy,2021-04-05,650.0
+Estonia,Daily hospital occupancy,2021-04-06,627.0
+Estonia,Daily hospital occupancy,2021-04-07,618.0
+Estonia,Daily hospital occupancy,2021-04-08,578.0
+Estonia,Daily hospital occupancy,2021-04-09,592.0
+Estonia,Daily hospital occupancy,2021-04-10,598.0
+Estonia,Daily hospital occupancy,2021-04-11,563.0
+Estonia,Daily hospital occupancy,2021-04-12,533.0
+Estonia,Daily hospital occupancy,2021-04-13,508.0
+Estonia,Daily hospital occupancy,2021-04-14,492.0
+Estonia,Daily hospital occupancy,2021-04-15,454.0
+Estonia,Daily hospital occupancy,2021-04-16,463.0
+Estonia,Daily hospital occupancy,2021-04-17,470.0
+Estonia,Daily hospital occupancy,2021-04-18,440.0
+Estonia,Daily hospital occupancy,2021-04-19,425.0
+Estonia,Daily hospital occupancy,2021-04-20,426.0
+Estonia,Daily hospital occupancy,2021-04-21,430.0
+Estonia,Daily hospital occupancy,2021-04-22,403.0
+Estonia,Daily hospital occupancy,2021-04-23,408.0
+Estonia,Daily hospital occupancy,2021-04-24,409.0
+Estonia,Daily hospital occupancy,2021-04-25,391.0
+Estonia,Daily hospital occupancy,2021-04-26,371.0
+Estonia,Daily hospital occupancy,2021-04-27,365.0
+Estonia,Daily hospital occupancy,2021-04-28,351.0
+Estonia,Daily hospital occupancy,2021-04-29,314.0
+Estonia,Daily hospital occupancy,2021-04-30,323.0
+Estonia,Daily hospital occupancy,2021-05-01,336.0
+Estonia,Daily hospital occupancy,2021-05-02,319.0
+Estonia,Daily hospital occupancy,2021-05-03,306.0
+Estonia,Daily hospital occupancy,2021-05-04,298.0
+Estonia,Daily hospital occupancy,2021-05-05,315.0
+Estonia,Daily hospital occupancy,2021-05-06,287.0
+Estonia,Daily hospital occupancy,2021-05-07,289.0
+Estonia,Daily hospital occupancy,2021-05-08,290.0
+Estonia,Daily hospital occupancy,2021-05-09,262.0
+Estonia,Daily hospital occupancy,2021-05-10,251.0
+Estonia,Daily hospital occupancy,2021-05-11,240.0
+Estonia,Daily hospital occupancy,2021-05-12,236.0
+Estonia,Daily hospital occupancy,2021-05-13,208.0
+Estonia,Daily hospital occupancy,2021-05-14,211.0
+Estonia,Daily hospital occupancy,2021-05-15,223.0
+Estonia,Daily hospital occupancy,2021-05-16,216.0
+Estonia,Daily hospital occupancy,2021-05-17,206.0
+Estonia,Daily hospital occupancy,2021-05-18,202.0
+Estonia,Daily hospital occupancy,2021-05-19,200.0
+Estonia,Daily hospital occupancy,2021-05-20,177.0
+Estonia,Daily hospital occupancy,2021-05-21,184.0
+Estonia,Daily hospital occupancy,2021-05-22,189.0
+Estonia,Daily hospital occupancy,2021-05-23,185.0
+Estonia,Daily hospital occupancy,2021-05-24,161.0
+Estonia,Daily hospital occupancy,2021-05-25,148.0
+Estonia,Daily hospital occupancy,2021-05-26,141.0
+Estonia,Daily hospital occupancy,2021-05-27,121.0
+Estonia,Daily hospital occupancy,2021-05-28,121.0
+Estonia,Daily hospital occupancy,2021-05-29,130.0
+Estonia,Daily hospital occupancy,2021-05-30,124.0
+Estonia,Daily hospital occupancy,2021-05-31,115.0
+Estonia,Daily hospital occupancy,2021-06-01,113.0
+Estonia,Daily hospital occupancy,2021-06-02,105.0
+Estonia,Daily hospital occupancy,2021-06-03,101.0
+Estonia,Daily hospital occupancy,2021-06-04,96.0
+Estonia,Daily hospital occupancy,2021-06-05,98.0
+Estonia,Daily hospital occupancy,2021-06-06,80.0
+Estonia,Daily hospital occupancy,2021-06-07,75.0
+Estonia,Daily hospital occupancy,2021-06-08,63.0
+Estonia,Daily hospital occupancy,2021-06-09,61.0
+Estonia,Daily hospital occupancy,2021-06-10,57.0
+Estonia,Daily hospital occupancy,2021-06-11,63.0
+Estonia,Daily hospital occupancy,2021-06-12,71.0
+Estonia,Daily hospital occupancy,2021-06-13,60.0
+Estonia,Daily hospital occupancy,2021-06-14,60.0
+Estonia,Daily hospital occupancy,2021-06-15,54.0
+Estonia,Daily hospital occupancy,2021-06-16,52.0
+Estonia,Daily hospital occupancy,2021-06-17,50.0
+Estonia,Daily hospital occupancy,2021-06-18,49.0
+Estonia,Daily hospital occupancy,2021-06-19,54.0
+Estonia,Daily hospital occupancy,2021-06-20,47.0
+Estonia,Daily hospital occupancy,2021-06-21,40.0
+Estonia,Daily hospital occupancy,2021-06-22,42.0
+Estonia,Daily hospital occupancy,2021-06-23,39.0
+Estonia,Daily hospital occupancy,2021-06-24,30.0
+Estonia,Daily hospital occupancy,2021-06-25,33.0
+Estonia,Daily hospital occupancy,2021-06-26,31.0
+Estonia,Daily hospital occupancy,2021-06-27,21.0
+Estonia,Daily hospital occupancy,2021-06-28,18.0
+Estonia,Daily hospital occupancy,2021-06-29,16.0
+Estonia,Daily hospital occupancy,2021-06-30,17.0
+Estonia,Daily hospital occupancy,2021-07-01,16.0
+Estonia,Daily hospital occupancy,2021-07-02,19.0
+Estonia,Daily hospital occupancy,2021-07-03,21.0
+Estonia,Daily hospital occupancy,2021-07-04,21.0
+Estonia,Daily hospital occupancy,2021-07-05,23.0
+Estonia,Daily hospital occupancy,2021-07-06,25.0
+Estonia,Daily hospital occupancy,2021-07-07,25.0
+Estonia,Daily hospital occupancy,2021-07-08,20.0
+Estonia,Daily hospital occupancy,2021-07-09,22.0
+Estonia,Daily hospital occupancy,2021-07-10,23.0
+Estonia,Daily hospital occupancy,2021-07-11,21.0
+Estonia,Daily hospital occupancy,2021-07-12,21.0
+Estonia,Daily hospital occupancy,2021-07-13,16.0
+Estonia,Daily hospital occupancy,2021-07-14,20.0
+Estonia,Daily hospital occupancy,2021-07-15,16.0
+Estonia,Daily hospital occupancy,2021-07-16,17.0
+Estonia,Daily hospital occupancy,2021-07-17,18.0
+Estonia,Daily hospital occupancy,2021-07-18,15.0
+Estonia,Daily hospital occupancy,2021-07-19,16.0
+Estonia,Daily hospital occupancy,2021-07-20,20.0
+Estonia,Daily hospital occupancy,2021-07-21,21.0
+Estonia,Daily hospital occupancy,2021-07-22,21.0
+Estonia,Daily hospital occupancy,2021-07-23,25.0
+Estonia,Daily hospital occupancy,2021-07-24,33.0
+Estonia,Daily hospital occupancy,2021-07-25,37.0
+Estonia,Daily hospital occupancy,2021-07-26,36.0
+Estonia,Daily hospital occupancy,2021-07-27,40.0
+Estonia,Daily hospital occupancy,2021-07-28,38.0
+Estonia,Daily hospital occupancy,2021-07-29,41.0
+Estonia,Daily hospital occupancy,2021-07-30,45.0
+Estonia,Daily hospital occupancy,2021-07-31,50.0
+Estonia,Daily hospital occupancy,2021-08-01,46.0
+Estonia,Daily hospital occupancy,2021-08-02,43.0
+Estonia,Daily hospital occupancy,2021-08-03,47.0
+Estonia,Daily hospital occupancy,2021-08-04,49.0
+Estonia,Daily hospital occupancy,2021-08-05,53.0
+Estonia,Daily hospital occupancy,2021-08-06,53.0
+Estonia,Daily hospital occupancy,2021-08-07,60.0
+Estonia,Daily hospital occupancy,2021-08-08,63.0
+Estonia,Daily hospital occupancy,2021-08-09,64.0
+Estonia,Daily hospital occupancy,2021-08-10,63.0
+Estonia,Daily hospital occupancy,2021-08-11,66.0
+Estonia,Daily hospital occupancy,2021-08-12,70.0
+Estonia,Daily hospital occupancy,2021-08-13,82.0
+Estonia,Daily hospital occupancy,2021-08-14,91.0
+Estonia,Daily hospital occupancy,2021-08-15,86.0
+Estonia,Daily hospital occupancy,2021-08-16,89.0
+Estonia,Daily hospital occupancy,2021-08-17,91.0
+Estonia,Daily hospital occupancy,2021-08-18,88.0
+Estonia,Daily hospital occupancy,2021-08-19,98.0
+Estonia,Daily hospital occupancy,2021-08-20,97.0
+Estonia,Daily hospital occupancy,2021-08-21,102.0
+Estonia,Daily hospital occupancy,2021-08-22,100.0
+Estonia,Daily hospital occupancy,2021-08-23,102.0
+Estonia,Daily hospital occupancy,2021-08-24,108.0
+Estonia,Daily hospital occupancy,2021-08-25,112.0
+Estonia,Daily hospital occupancy,2021-08-26,106.0
+Estonia,Daily hospital occupancy,2021-08-27,119.0
+Estonia,Daily hospital occupancy,2021-08-28,117.0
+Estonia,Daily hospital occupancy,2021-08-29,127.0
+Estonia,Daily hospital occupancy,2021-08-30,132.0
+Estonia,Daily hospital occupancy,2021-08-31,141.0
+Estonia,Daily hospital occupancy,2021-09-01,141.0
+Estonia,Daily hospital occupancy,2021-09-02,145.0
+Estonia,Daily hospital occupancy,2021-09-03,151.0
+Estonia,Daily hospital occupancy,2021-09-04,153.0
+Estonia,Daily hospital occupancy,2021-09-05,145.0
+Estonia,Daily hospital occupancy,2021-09-06,152.0
+Estonia,Daily hospital occupancy,2021-09-07,153.0
+Estonia,Daily hospital occupancy,2021-09-08,156.0
+Estonia,Daily hospital occupancy,2021-09-09,173.0
+Estonia,Daily hospital occupancy,2021-09-10,175.0
+Estonia,Daily hospital occupancy,2021-09-11,180.0
+Estonia,Daily hospital occupancy,2021-09-12,173.0
+Estonia,Daily hospital occupancy,2021-09-13,170.0
+Estonia,Daily hospital occupancy,2021-09-14,167.0
+Estonia,Daily hospital occupancy,2021-09-15,165.0
+Estonia,Daily hospital occupancy,2021-09-16,160.0
+Estonia,Daily hospital occupancy,2021-09-17,161.0
+Estonia,Daily hospital occupancy,2021-09-18,179.0
+Estonia,Daily hospital occupancy,2021-09-19,187.0
+Estonia,Daily hospital occupancy,2021-09-20,185.0
+Estonia,Daily hospital occupancy,2021-09-21,176.0
+Estonia,Daily hospital occupancy,2021-09-22,171.0
+Estonia,Daily hospital occupancy,2021-09-23,170.0
+Estonia,Daily hospital occupancy,2021-09-24,188.0
+Estonia,Daily hospital occupancy,2021-09-25,197.0
+Estonia,Daily hospital occupancy,2021-09-26,206.0
+Estonia,Daily hospital occupancy,2021-09-27,209.0
+Estonia,Daily hospital occupancy,2021-09-28,207.0
+Estonia,Daily hospital occupancy,2021-09-29,222.0
+Estonia,Daily hospital occupancy,2021-09-30,209.0
+Estonia,Daily hospital occupancy,2021-10-01,233.0
+Estonia,Daily hospital occupancy,2021-10-02,251.0
+Estonia,Daily hospital occupancy,2021-10-03,240.0
+Estonia,Daily hospital occupancy,2021-10-04,232.0
+Estonia,Daily hospital occupancy,2021-10-05,243.0
+Estonia,Daily hospital occupancy,2021-10-06,250.0
+Estonia,Daily hospital occupancy,2021-10-07,243.0
+Estonia,Daily hospital occupancy,2021-10-08,255.0
+Estonia,Daily hospital occupancy,2021-10-09,280.0
+Estonia,Daily hospital occupancy,2021-10-10,292.0
+Estonia,Daily hospital occupancy,2021-10-11,319.0
+Estonia,Daily hospital occupancy,2021-10-12,346.0
+Estonia,Daily hospital occupancy,2021-10-13,367.0
+Estonia,Daily hospital occupancy,2021-10-14,375.0
+Estonia,Daily hospital occupancy,2021-10-15,390.0
+Estonia,Daily hospital occupancy,2021-10-16,417.0
+Estonia,Daily hospital occupancy,2021-10-17,422.0
+Estonia,Daily hospital occupancy,2021-10-18,420.0
+Estonia,Daily hospital occupancy,2021-10-19,451.0
+Estonia,Daily hospital occupancy,2021-10-20,461.0
+Estonia,Daily hospital occupancy,2021-10-21,460.0
+Estonia,Daily hospital occupancy,2021-10-22,485.0
+Estonia,Daily hospital occupancy,2021-10-23,530.0
+Estonia,Daily hospital occupancy,2021-10-24,527.0
+Estonia,Daily hospital occupancy,2021-10-25,542.0
+Estonia,Daily hospital occupancy,2021-10-26,565.0
+Estonia,Daily hospital occupancy,2021-10-27,560.0
+Estonia,Daily hospital occupancy,2021-10-28,564.0
+Estonia,Daily hospital occupancy,2021-10-29,586.0
+Estonia,Daily hospital occupancy,2021-10-30,601.0
+Estonia,Daily hospital occupancy,2021-10-31,606.0
+Estonia,Daily hospital occupancy,2021-11-01,615.0
+Estonia,Daily hospital occupancy,2021-11-02,597.0
+Estonia,Daily hospital occupancy,2021-11-03,606.0
+Estonia,Daily hospital occupancy,2021-11-04,593.0
+Estonia,Daily hospital occupancy,2021-11-05,596.0
+Estonia,Daily hospital occupancy,2021-11-06,627.0
+Estonia,Daily hospital occupancy,2021-11-07,603.0
+Estonia,Daily hospital occupancy,2021-11-08,577.0
+Estonia,Daily hospital occupancy,2021-11-09,562.0
+Estonia,Daily hospital occupancy,2021-11-10,557.0
+Estonia,Daily hospital occupancy,2021-11-11,518.0
+Estonia,Daily hospital occupancy,2021-11-12,538.0
+Estonia,Daily hospital occupancy,2021-11-13,547.0
+Estonia,Daily hospital occupancy,2021-11-14,514.0
+Estonia,Daily hospital occupancy,2021-11-15,480.0
+Estonia,Daily hospital occupancy,2021-11-16,451.0
+Estonia,Daily hospital occupancy,2021-11-17,450.0
+Estonia,Daily hospital occupancy,2021-11-18,434.0
+Estonia,Daily hospital occupancy,2021-11-19,433.0
+Estonia,Daily hospital occupancy,2021-11-20,449.0
+Estonia,Daily hospital occupancy,2021-11-21,404.0
+Estonia,Daily hospital occupancy,2021-11-22,376.0
+Estonia,Daily hospital occupancy,2021-11-23,339.0
+Estonia,Daily hospital occupancy,2021-11-24,313.0
+Estonia,Daily hospital occupancy,2021-11-25,292.0
+Estonia,Daily hospital occupancy,2021-11-26,293.0
+Estonia,Daily hospital occupancy,2021-11-27,309.0
+Estonia,Daily hospital occupancy,2021-11-28,299.0
+Estonia,Daily hospital occupancy,2021-11-29,274.0
+Estonia,Daily hospital occupancy,2021-11-30,253.0
+Estonia,Daily hospital occupancy,2021-12-01,249.0
+Estonia,Daily hospital occupancy,2021-12-02,244.0
+Estonia,Daily hospital occupancy,2021-12-03,242.0
+Estonia,Daily hospital occupancy,2021-12-04,239.0
+Estonia,Daily hospital occupancy,2021-12-05,232.0
+Estonia,Daily hospital occupancy,2021-12-06,242.0
+Estonia,Daily hospital occupancy,2021-12-07,257.0
+Estonia,Daily hospital occupancy,2021-12-08,263.0
+Estonia,Daily hospital occupancy,2021-12-09,265.0
+Estonia,Daily hospital occupancy,2021-12-10,277.0
+Estonia,Daily hospital occupancy,2021-12-11,284.0
+Estonia,Daily hospital occupancy,2021-12-12,258.0
+Estonia,Daily hospital occupancy,2021-12-13,267.0
+Estonia,Daily hospital occupancy,2021-12-14,257.0
+Estonia,Daily hospital occupancy,2021-12-15,259.0
+Estonia,Daily hospital occupancy,2021-12-16,248.0
+Estonia,Daily hospital occupancy,2021-12-17,238.0
+Estonia,Daily hospital occupancy,2021-12-18,250.0
+Estonia,Daily hospital occupancy,2021-12-19,232.0
+Estonia,Daily hospital occupancy,2021-12-20,218.0
+Estonia,Daily hospital occupancy,2021-12-21,230.0
+Estonia,Daily hospital occupancy,2021-12-22,209.0
+Estonia,Daily hospital occupancy,2021-12-23,212.0
+Estonia,Daily hospital occupancy,2021-12-24,234.0
+Estonia,Daily hospital occupancy,2021-12-25,250.0
+Estonia,Daily hospital occupancy,2021-12-26,229.0
+Estonia,Daily hospital occupancy,2021-12-27,226.0
+Estonia,Daily hospital occupancy,2021-12-28,230.0
+Estonia,Daily hospital occupancy,2021-12-29,231.0
+Estonia,Daily hospital occupancy,2021-12-30,218.0
+Estonia,Daily hospital occupancy,2021-12-31,225.0
+Estonia,Daily hospital occupancy,2022-01-01,236.0
+Estonia,Daily hospital occupancy,2022-01-02,238.0
+Estonia,Daily hospital occupancy,2022-01-03,232.0
+Estonia,Daily hospital occupancy,2022-01-04,231.0
+Estonia,Daily hospital occupancy,2022-01-05,238.0
+Estonia,Daily hospital occupancy,2022-01-06,235.0
+Estonia,Daily hospital occupancy,2022-01-07,241.0
+Estonia,Daily hospital occupancy,2022-01-08,240.0
+Estonia,Daily hospital occupancy,2022-01-09,252.0
+Estonia,Daily hospital occupancy,2022-01-10,243.0
+Estonia,Daily hospital occupancy,2022-01-11,246.0
+Estonia,Daily hospital occupancy,2022-01-12,270.0
+Estonia,Daily hospital occupancy,2022-01-13,284.0
+Estonia,Daily hospital occupancy,2022-01-14,302.0
+Estonia,Daily hospital occupancy,2022-01-15,320.0
+Estonia,Daily hospital occupancy,2022-01-16,323.0
+Estonia,Daily hospital occupancy,2022-01-17,317.0
+Estonia,Daily hospital occupancy,2022-01-18,324.0
+Estonia,Daily hospital occupancy,2022-01-19,327.0
+Estonia,Daily hospital occupancy,2022-01-20,303.0
+Estonia,Daily hospital occupancy,2022-01-21,319.0
+Estonia,Daily hospital occupancy,2022-01-22,322.0
+Estonia,Daily hospital occupancy,2022-01-23,325.0
+Estonia,Daily hospital occupancy,2022-01-24,301.0
+Estonia,Daily hospital occupancy,2022-01-25,311.0
+Estonia,Daily hospital occupancy,2022-01-26,309.0
+Estonia,Daily hospital occupancy,2022-01-27,311.0
+Estonia,Daily hospital occupancy,2022-01-28,324.0
+Estonia,Daily hospital occupancy,2022-01-29,358.0
+Estonia,Daily hospital occupancy,2022-01-30,341.0
+Estonia,Daily hospital occupancy,2022-01-31,375.0
+Estonia,Daily hospital occupancy,2022-02-01,392.0
+Estonia,Daily hospital occupancy,2022-02-02,394.0
+Estonia,Daily hospital occupancy,2022-02-03,380.0
+Estonia,Daily hospital occupancy,2022-02-04,408.0
+Estonia,Daily hospital occupancy,2022-02-05,445.0
+Estonia,Daily hospital occupancy,2022-02-06,441.0
+Estonia,Daily hospital occupancy,2022-02-07,444.0
+Estonia,Daily hospital occupancy,2022-02-08,452.0
+Estonia,Daily hospital occupancy,2022-02-09,447.0
+Estonia,Daily hospital occupancy,2022-02-10,476.0
+Estonia,Daily hospital occupancy,2022-02-11,504.0
+Estonia,Daily hospital occupancy,2022-02-12,546.0
+Estonia,Daily hospital occupancy,2022-02-13,540.0
+Estonia,Daily hospital occupancy,2022-02-14,537.0
+Estonia,Daily hospital occupancy,2022-02-15,560.0
+Estonia,Daily hospital occupancy,2022-02-16,567.0
+Estonia,Daily hospital occupancy,2022-02-17,567.0
+Estonia,Daily hospital occupancy,2022-02-18,604.0
+Estonia,Daily hospital occupancy,2022-02-19,652.0
+Estonia,Daily hospital occupancy,2022-02-20,652.0
+Estonia,Daily hospital occupancy,2022-02-21,642.0
+Estonia,Daily hospital occupancy,2022-02-22,647.0
+Estonia,Daily hospital occupancy,2022-02-23,690.0
+Estonia,Daily hospital occupancy,2022-02-24,650.0
+Estonia,Daily hospital occupancy,2022-02-25,701.0
+Estonia,Daily hospital occupancy,2022-02-26,690.0
+Estonia,Daily hospital occupancy,2022-02-27,645.0
+Estonia,Daily hospital occupancy,2022-02-28,634.0
+Estonia,Daily hospital occupancy,2022-03-01,651.0
+Estonia,Daily hospital occupancy,2022-03-02,635.0
+Estonia,Daily hospital occupancy,2022-03-03,612.0
+Estonia,Daily hospital occupancy,2022-03-04,611.0
+Estonia,Daily hospital occupancy,2022-03-05,639.0
+Estonia,Daily hospital occupancy,2022-03-06,605.0
+Estonia,Daily hospital occupancy,2022-03-07,601.0
+Estonia,Daily hospital occupancy,2022-03-08,628.0
+Estonia,Daily hospital occupancy,2022-03-09,630.0
+Estonia,Daily hospital occupancy,2022-03-10,603.0
+Estonia,Daily hospital occupancy,2022-03-11,613.0
+Estonia,Daily hospital occupancy,2022-03-12,643.0
+Estonia,Daily hospital occupancy,2022-03-13,614.0
+Estonia,Daily hospital occupancy,2022-03-14,602.0
+Estonia,Daily hospital occupancy,2022-03-15,577.0
+Estonia,Daily hospital occupancy,2022-03-16,560.0
+Estonia,Daily hospital occupancy,2022-03-17,523.0
+Estonia,Daily hospital occupancy,2022-03-18,520.0
+Estonia,Daily hospital occupancy,2022-03-19,530.0
+Estonia,Daily hospital occupancy,2022-03-20,484.0
+Estonia,Daily hospital occupancy,2022-03-21,464.0
+Estonia,Daily hospital occupancy,2022-03-22,436.0
+Estonia,Daily hospital occupancy,2022-03-23,416.0
+Estonia,Daily hospital occupancy,2022-03-24,371.0
+Estonia,Daily hospital occupancy,2022-03-25,351.0
+Estonia,Daily hospital occupancy,2022-03-26,353.0
+Estonia,Daily hospital occupancy,2022-03-27,329.0
+Estonia,Daily hospital occupancy,2022-03-28,322.0
+Estonia,Daily hospital occupancy,2022-03-29,309.0
+Estonia,Daily hospital occupancy,2022-03-30,293.0
+Estonia,Daily hospital occupancy,2022-03-31,276.0
+Estonia,Daily hospital occupancy,2022-04-01,289.0
+Estonia,Daily hospital occupancy,2022-04-02,300.0
+Estonia,Daily hospital occupancy,2022-04-03,294.0
+Estonia,Daily hospital occupancy,2022-04-04,302.0
+Estonia,Daily hospital occupancy,2022-04-05,292.0
+Estonia,Daily hospital occupancy,2022-04-06,289.0
+Estonia,Daily hospital occupancy,2022-04-07,278.0
+Estonia,Daily hospital occupancy,2022-04-08,288.0
+Estonia,Daily hospital occupancy,2022-04-09,295.0
+Estonia,Daily hospital occupancy,2022-04-10,290.0
+Estonia,Daily hospital occupancy,2022-04-11,269.0
+Estonia,Daily hospital occupancy,2022-04-12,249.0
+Estonia,Daily hospital occupancy,2022-04-13,222.0
+Estonia,Daily hospital occupancy,2022-04-14,210.0
+Estonia,Daily hospital occupancy,2022-04-15,204.0
+Estonia,Daily hospital occupancy,2022-04-16,206.0
+Estonia,Daily hospital occupancy,2022-04-17,181.0
+Estonia,Daily hospital occupancy,2022-04-18,172.0
+Estonia,Daily hospital occupancy,2022-04-19,158.0
+Estonia,Daily hospital occupancy,2022-04-20,148.0
+Estonia,Daily hospital occupancy,2022-04-21,132.0
+Estonia,Daily hospital occupancy,2022-04-22,143.0
+Estonia,Daily hospital occupancy,2022-04-23,165.0
+Estonia,Daily hospital occupancy,2022-04-24,160.0
+Estonia,Daily hospital occupancy,2022-04-25,167.0
+Estonia,Daily hospital occupancy,2022-04-26,159.0
+Estonia,Daily hospital occupancy,2022-04-27,160.0
+Estonia,Daily hospital occupancy,2022-04-28,152.0
+Estonia,Daily hospital occupancy,2022-04-29,161.0
+Estonia,Daily hospital occupancy,2022-04-30,163.0
+Estonia,Daily hospital occupancy,2022-05-01,163.0
+Estonia,Daily hospital occupancy,2022-05-02,169.0
+Estonia,Daily hospital occupancy,2022-05-03,151.0
+Estonia,Daily hospital occupancy,2022-05-04,152.0
+Estonia,Daily hospital occupancy,2022-05-05,143.0
+Estonia,Daily hospital occupancy,2022-05-06,151.0
+Estonia,Daily hospital occupancy,2022-05-07,161.0
+Estonia,Daily hospital occupancy,2022-05-08,146.0
+Estonia,Daily hospital occupancy,2022-05-09,129.0
+Estonia,Daily hospital occupancy,2022-05-10,120.0
+Estonia,Daily hospital occupancy,2022-05-11,116.0
+Estonia,Daily hospital occupancy,2022-05-12,117.0
+Estonia,Daily hospital occupancy,2022-05-13,115.0
+Estonia,Daily hospital occupancy,2022-05-14,115.0
+Estonia,Daily hospital occupancy,2022-05-15,101.0
+Estonia,Daily hospital occupancy,2022-05-16,93.0
+Estonia,Daily hospital occupancy,2022-05-17,94.0
+Estonia,Daily hospital occupancy,2022-05-18,87.0
+Estonia,Daily hospital occupancy,2022-05-19,104.0
+Estonia,Daily hospital occupancy,2022-05-20,108.0
+Estonia,Daily hospital occupancy,2022-05-21,108.0
+Estonia,Daily hospital occupancy,2022-05-22,101.0
+Estonia,Daily hospital occupancy,2022-05-23,96.0
+Estonia,Daily hospital occupancy,2022-05-24,95.0
+Estonia,Daily hospital occupancy,2022-05-25,91.0
+Estonia,Daily hospital occupancy,2022-05-26,85.0
+Estonia,Daily hospital occupancy,2022-05-27,92.0
+Estonia,Daily hospital occupancy,2022-05-28,93.0
+Estonia,Daily hospital occupancy,2022-05-29,86.0
+Estonia,Daily hospital occupancy,2022-05-30,79.0
+Estonia,Daily hospital occupancy,2022-05-31,84.0
+Estonia,Daily hospital occupancy,2022-06-01,91.0
+Estonia,Daily hospital occupancy,2022-06-02,89.0
+Estonia,Daily hospital occupancy,2022-06-03,89.0
+Estonia,Daily hospital occupancy,2022-06-04,91.0
+Estonia,Daily hospital occupancy,2022-06-05,79.0
+Estonia,Daily hospital occupancy,2022-06-06,67.0
+Estonia,Daily hospital occupancy,2022-06-07,67.0
+Estonia,Daily hospital occupancy,2022-06-08,65.0
+Estonia,Daily hospital occupancy,2022-06-09,56.0
+Estonia,Daily hospital occupancy,2022-06-10,53.0
+Estonia,Daily hospital occupancy,2022-06-11,50.0
+Estonia,Daily hospital occupancy,2022-06-12,61.0
+Estonia,Daily hospital occupancy,2022-06-13,58.0
+Estonia,Daily hospital occupancy,2022-06-14,56.0
+Estonia,Daily hospital occupancy,2022-06-15,60.0
+Estonia,Daily hospital occupancy,2022-06-16,59.0
+Estonia,Daily hospital occupancy,2022-06-17,65.0
+Estonia,Daily hospital occupancy,2022-06-18,67.0
+Estonia,Daily hospital occupancy,2022-06-19,63.0
+Estonia,Daily hospital occupancy,2022-06-20,66.0
+Estonia,Daily hospital occupancy,2022-06-21,65.0
+Estonia,Daily hospital occupancy,2022-06-22,65.0
+Estonia,Daily hospital occupancy,2022-06-23,76.0
+Estonia,Daily hospital occupancy,2022-06-24,89.0
+Estonia,Daily hospital occupancy,2022-06-25,94.0
+Estonia,Daily hospital occupancy,2022-06-26,91.0
+Estonia,Daily hospital occupancy,2022-06-27,82.0
+Estonia,Daily hospital occupancy,2022-06-28,89.0
+Estonia,Daily hospital occupancy,2022-06-29,92.0
+Estonia,Daily hospital occupancy,2022-06-30,93.0
+Estonia,Daily hospital occupancy,2022-07-01,95.0
+Estonia,Daily hospital occupancy,2022-07-02,101.0
+Estonia,Daily hospital occupancy,2022-07-03,96.0
+Estonia,Daily hospital occupancy,2022-07-04,96.0
+Estonia,Daily hospital occupancy,2022-07-05,85.0
+Estonia,Daily hospital occupancy,2022-07-06,87.0
+Estonia,Daily hospital occupancy,2022-07-07,76.0
+Estonia,Daily hospital occupancy,2022-07-08,86.0
+Estonia,Daily hospital occupancy,2022-07-09,90.0
+Estonia,Daily hospital occupancy,2022-07-10,90.0
+Estonia,Daily hospital occupancy,2022-07-11,76.0
+Estonia,Daily hospital occupancy,2022-07-12,75.0
+Estonia,Daily hospital occupancy,2022-07-13,78.0
+Estonia,Daily hospital occupancy,2022-07-14,86.0
+Estonia,Daily hospital occupancy,2022-07-15,93.0
+Estonia,Daily hospital occupancy,2022-07-16,100.0
+Estonia,Daily hospital occupancy,2022-07-17,115.0
+Estonia,Daily hospital occupancy,2022-07-18,111.0
+Estonia,Daily hospital occupancy,2022-07-19,128.0
+Estonia,Daily hospital occupancy,2022-07-20,135.0
+Estonia,Daily hospital occupancy,2022-07-21,126.0
+Estonia,Daily hospital occupancy,2022-07-22,126.0
+Estonia,Daily hospital occupancy,2022-07-23,135.0
+Estonia,Daily hospital occupancy,2022-07-24,139.0
+Estonia,Daily hospital occupancy,2022-07-25,134.0
+Estonia,Daily hospital occupancy,2022-07-26,142.0
+Estonia,Daily hospital occupancy,2022-07-27,137.0
+Estonia,Daily hospital occupancy,2022-07-28,144.0
+Estonia,Daily hospital occupancy,2022-07-29,144.0
+Estonia,Daily hospital occupancy,2022-07-30,144.0
+Estonia,Daily hospital occupancy,2022-07-31,129.0
+Estonia,Daily hospital occupancy,2022-08-01,138.0
+Estonia,Daily hospital occupancy,2022-08-02,141.0
+Estonia,Daily hospital occupancy,2022-08-03,134.0
+Estonia,Daily hospital occupancy,2022-08-04,125.0
+Estonia,Daily hospital occupancy,2022-08-05,135.0
+Estonia,Daily hospital occupancy,2022-08-06,153.0
+Estonia,Daily hospital occupancy,2022-08-07,134.0
+Estonia,Daily hospital occupancy,2022-08-08,130.0
+Estonia,Daily hospital occupancy,2022-08-09,133.0
+Estonia,Daily hospital occupancy,2022-08-10,132.0
+Estonia,Daily hospital occupancy,2022-08-11,112.0
+Estonia,Daily hospital occupancy,2022-08-12,119.0
+Estonia,Daily hospital occupancy,2022-08-13,130.0
+Estonia,Daily hospital occupancy,2022-08-14,120.0
+Estonia,Daily hospital occupancy,2022-08-15,110.0
+Estonia,Daily hospital occupancy,2022-08-16,113.0
+Estonia,Daily hospital occupancy,2022-08-17,115.0
+Estonia,Daily hospital occupancy,2022-08-18,111.0
+Estonia,Daily hospital occupancy,2022-08-19,112.0
+Estonia,Daily hospital occupancy,2022-08-20,111.0
+Estonia,Daily hospital occupancy,2022-08-21,106.0
+Estonia,Daily hospital occupancy,2022-08-22,105.0
+Estonia,Daily hospital occupancy,2022-08-23,94.0
+Estonia,Daily hospital occupancy,2022-08-24,92.0
+Estonia,Daily hospital occupancy,2022-08-25,80.0
+Estonia,Daily hospital occupancy,2022-08-26,88.0
+Estonia,Daily hospital occupancy,2022-08-27,93.0
+Estonia,Daily hospital occupancy,2022-08-28,85.0
+Estonia,Daily hospital occupancy,2022-08-29,84.0
+Estonia,Daily hospital occupancy,2022-08-30,84.0
+Estonia,Daily hospital occupancy,2022-08-31,81.0
+Estonia,Daily hospital occupancy,2022-09-01,72.0
+Estonia,Daily hospital occupancy,2022-09-02,69.0
+Estonia,Daily hospital occupancy,2022-09-03,73.0
+Estonia,Daily hospital occupancy,2022-09-04,80.0
+Estonia,Daily hospital occupancy,2022-09-05,79.0
+Estonia,Daily hospital occupancy,2022-09-06,78.0
+Estonia,Daily hospital occupancy,2022-09-07,81.0
+Estonia,Daily hospital occupancy,2022-09-08,85.0
+Estonia,Daily hospital occupancy,2022-09-09,96.0
+Estonia,Daily hospital occupancy,2022-09-10,108.0
+Estonia,Daily hospital occupancy,2022-09-11,120.0
+Estonia,Daily hospital occupancy,2022-09-12,130.0
+Estonia,Daily hospital occupancy,2022-09-13,133.0
+Estonia,Daily hospital occupancy,2022-09-14,148.0
+Estonia,Daily hospital occupancy,2022-09-15,142.0
+Estonia,Daily hospital occupancy,2022-09-16,142.0
+Estonia,Daily hospital occupancy,2022-09-17,160.0
+Estonia,Daily hospital occupancy,2022-09-18,158.0
+Estonia,Daily hospital occupancy,2022-09-19,168.0
+Estonia,Daily hospital occupancy,2022-09-20,182.0
+Estonia,Daily hospital occupancy,2022-09-21,186.0
+Estonia,Daily hospital occupancy,2022-09-22,173.0
+Estonia,Daily hospital occupancy,2022-09-23,172.0
+Estonia,Daily hospital occupancy,2022-09-24,184.0
+Estonia,Daily hospital occupancy,2022-09-25,177.0
+Estonia,Daily hospital occupancy,2022-09-26,202.0
+Estonia,Daily hospital occupancy,2022-09-27,194.0
+Estonia,Daily hospital occupancy,2022-09-28,196.0
+Estonia,Daily hospital occupancy,2022-09-29,194.0
+Estonia,Daily hospital occupancy,2022-09-30,204.0
+Estonia,Daily hospital occupancy,2022-10-01,212.0
+Estonia,Daily hospital occupancy,2022-10-02,223.0
+Estonia,Daily hospital occupancy,2022-10-03,222.0
+Estonia,Daily hospital occupancy,2022-10-04,232.0
+Estonia,Daily hospital occupancy,2022-10-05,226.0
+Estonia,Daily hospital occupancy,2022-10-06,222.0
+Estonia,Daily hospital occupancy,2022-10-07,232.0
+Estonia,Daily hospital occupancy,2022-10-08,246.0
+Estonia,Daily hospital occupancy,2022-10-09,224.0
+Estonia,Daily hospital occupancy,2022-10-10,220.0
+Estonia,Daily hospital occupancy,2022-10-11,209.0
+Estonia,Daily hospital occupancy,2022-10-12,210.0
+Estonia,Daily hospital occupancy,2022-10-13,194.0
+Estonia,Daily hospital occupancy,2022-10-14,208.0
+Estonia,Daily hospital occupancy,2022-10-15,224.0
+Estonia,Daily hospital occupancy,2022-10-16,232.0
+Estonia,Daily hospital occupancy,2022-10-17,226.0
+Estonia,Daily hospital occupancy,2022-10-18,218.0
+Estonia,Daily hospital occupancy,2022-10-19,223.0
+Estonia,Daily hospital occupancy,2022-10-20,228.0
+Estonia,Daily hospital occupancy,2022-10-21,240.0
+Estonia,Daily hospital occupancy,2022-10-22,258.0
+Estonia,Daily hospital occupancy,2022-10-23,253.0
+Estonia,Daily hospital occupancy,2022-10-24,255.0
+Estonia,Daily hospital occupancy,2022-10-25,249.0
+Estonia,Daily hospital occupancy,2022-10-26,238.0
+Estonia,Daily hospital occupancy,2022-10-27,215.0
+Estonia,Daily hospital occupancy,2022-10-28,229.0
+Estonia,Daily hospital occupancy,2022-10-29,238.0
+Estonia,Daily hospital occupancy,2022-10-30,220.0
+Estonia,Daily hospital occupancy,2022-10-31,202.0
+Estonia,Daily hospital occupancy,2022-11-01,212.0
+Estonia,Daily hospital occupancy,2022-11-02,203.0
+Estonia,Daily hospital occupancy,2022-11-03,200.0
+Estonia,Daily hospital occupancy,2022-11-04,207.0
+Estonia,Daily hospital occupancy,2022-11-05,210.0
+Estonia,Daily hospital occupancy,2022-11-06,211.0
+Estonia,Daily hospital occupancy,2022-11-07,211.0
+Estonia,Daily hospital occupancy,2022-11-08,213.0
+Estonia,Daily hospital occupancy,2022-11-09,193.0
+Estonia,Daily hospital occupancy,2022-11-10,184.0
+Estonia,Daily hospital occupancy,2022-11-11,189.0
+Estonia,Daily hospital occupancy,2022-11-12,196.0
+Estonia,Daily hospital occupancy,2022-11-13,177.0
+Estonia,Daily hospital occupancy,2022-11-14,171.0
+Estonia,Daily hospital occupancy,2022-11-15,171.0
+Estonia,Daily hospital occupancy,2022-11-16,167.0
+Estonia,Daily hospital occupancy,2022-11-17,149.0
+Estonia,Daily hospital occupancy,2022-11-18,158.0
+Estonia,Daily hospital occupancy,2022-11-19,166.0
+Estonia,Daily hospital occupancy,2022-11-20,154.0
+Estonia,Daily hospital occupancy,2022-11-21,148.0
+Estonia,Daily hospital occupancy,2022-11-22,139.0
+Estonia,Daily hospital occupancy,2022-11-23,155.0
+Estonia,Daily hospital occupancy,2022-11-24,161.0
+Estonia,Daily hospital occupancy,2022-11-25,167.0
+Estonia,Daily hospital occupancy,2022-11-26,172.0
+Estonia,Daily hospital occupancy,2022-11-27,175.0
+Estonia,Daily hospital occupancy,2022-11-28,173.0
+Estonia,Daily hospital occupancy,2022-11-29,185.0
+Estonia,Daily hospital occupancy,2022-11-30,201.0
+Estonia,Daily hospital occupancy,2022-12-01,182.0
+Estonia,Daily hospital occupancy,2022-12-02,195.0
+Estonia,Daily hospital occupancy,2022-12-03,202.0
+Estonia,Daily hospital occupancy,2022-12-04,215.0
+Estonia,Daily hospital occupancy,2022-12-05,227.0
+Estonia,Daily hospital occupancy,2022-12-06,250.0
+Estonia,Daily hospital occupancy,2022-12-07,250.0
+Estonia,Daily hospital occupancy,2022-12-08,263.0
+Estonia,Daily hospital occupancy,2022-12-09,277.0
+Estonia,Daily hospital occupancy,2022-12-10,270.0
+Estonia,Daily hospital occupancy,2022-12-11,262.0
+Estonia,Daily hospital occupancy,2022-12-12,287.0
+Estonia,Daily hospital occupancy,2022-12-13,278.0
+Estonia,Daily hospital occupancy,2022-12-14,286.0
+Estonia,Daily hospital occupancy,2022-12-15,279.0
+Estonia,Daily hospital occupancy,2022-12-16,283.0
+Estonia,Daily hospital occupancy,2022-12-17,299.0
+Estonia,Daily hospital occupancy,2022-12-18,284.0
+Estonia,Daily hospital occupancy,2022-12-19,302.0
+Estonia,Daily hospital occupancy,2022-12-20,307.0
+Estonia,Daily hospital occupancy,2022-12-21,297.0
+Estonia,Daily hospital occupancy,2022-12-22,276.0
+Estonia,Daily hospital occupancy,2022-12-23,284.0
+Estonia,Daily hospital occupancy,2022-12-24,285.0
+Estonia,Daily hospital occupancy,2022-12-25,290.0
+Estonia,Daily hospital occupancy,2022-12-26,274.0
+Estonia,Daily hospital occupancy,2022-12-27,276.0
+Estonia,Daily hospital occupancy,2022-12-28,266.0
+Estonia,Daily hospital occupancy,2022-12-29,254.0
+Estonia,Daily hospital occupancy,2022-12-30,258.0
+Estonia,Daily hospital occupancy,2022-12-31,275.0
+Estonia,Daily hospital occupancy,2023-01-01,255.0
+Estonia,Daily hospital occupancy,2023-01-02,234.0
+Estonia,Daily hospital occupancy,2023-01-03,231.0
+Estonia,Daily hospital occupancy,2023-01-04,225.0
+Estonia,Daily hospital occupancy,2023-01-05,207.0
+Estonia,Daily hospital occupancy,2023-01-06,203.0
+Estonia,Daily hospital occupancy,2023-01-07,200.0
+Estonia,Daily hospital occupancy,2023-01-08,181.0
+Estonia,Daily hospital occupancy,2023-01-09,173.0
+Estonia,Daily hospital occupancy,2023-01-10,169.0
+Estonia,Daily hospital occupancy,2023-01-11,166.0
+Estonia,Daily hospital occupancy,2023-01-12,153.0
+Estonia,Daily hospital occupancy,2023-01-13,152.0
+Estonia,Daily hospital occupancy,2023-01-14,157.0
+Estonia,Daily hospital occupancy,2023-01-15,162.0
+Estonia,Daily hospital occupancy,2023-01-16,152.0
+Estonia,Daily hospital occupancy,2023-01-17,152.0
+Estonia,Daily hospital occupancy,2023-01-18,137.0
+Estonia,Daily hospital occupancy,2023-01-19,132.0
+Estonia,Daily hospital occupancy,2023-01-20,134.0
+Estonia,Daily hospital occupancy,2023-01-21,141.0
+Estonia,Daily hospital occupancy,2023-01-22,144.0
+Estonia,Daily hospital occupancy,2023-01-23,138.0
+Estonia,Daily hospital occupancy,2023-01-24,145.0
+Estonia,Daily hospital occupancy,2023-01-25,151.0
+Estonia,Daily hospital occupancy,2023-01-26,148.0
+Estonia,Daily hospital occupancy,2023-01-27,146.0
+Estonia,Daily hospital occupancy,2023-01-28,149.0
+Estonia,Daily hospital occupancy,2023-01-29,150.0
+Estonia,Daily hospital occupancy,2023-01-30,157.0
+Estonia,Daily hospital occupancy,2023-01-31,160.0
+Estonia,Daily hospital occupancy,2023-02-01,166.0
+Estonia,Daily hospital occupancy,2023-02-02,161.0
+Estonia,Daily hospital occupancy,2023-02-03,160.0
+Estonia,Daily hospital occupancy,2023-02-04,155.0
+Estonia,Daily hospital occupancy,2023-02-05,144.0
+Estonia,Daily hospital occupancy,2023-02-06,147.0
+Estonia,Daily hospital occupancy,2023-02-07,148.0
+Estonia,Daily hospital occupancy,2023-02-08,132.0
+Estonia,Daily hospital occupancy,2023-02-09,126.0
+Estonia,Daily hospital occupancy,2023-02-10,135.0
+Estonia,Daily hospital occupancy,2023-02-11,141.0
+Estonia,Daily hospital occupancy,2023-02-12,137.0
+Estonia,Daily hospital occupancy,2023-02-13,124.0
+Estonia,Daily hospital occupancy,2023-02-14,117.0
+Estonia,Daily hospital occupancy,2023-02-15,122.0
+Estonia,Daily hospital occupancy,2023-02-16,117.0
+Estonia,Daily hospital occupancy,2023-02-17,124.0
+Estonia,Daily hospital occupancy,2023-02-18,128.0
+Estonia,Daily hospital occupancy,2023-02-19,115.0
+Estonia,Daily hospital occupancy,2023-02-20,117.0
+Estonia,Daily hospital occupancy,2023-02-21,114.0
+Estonia,Daily hospital occupancy,2023-02-22,117.0
+Estonia,Daily hospital occupancy,2023-02-23,122.0
+Estonia,Daily hospital occupancy,2023-02-24,141.0
+Estonia,Daily hospital occupancy,2023-02-25,147.0
+Estonia,Daily hospital occupancy,2023-02-26,143.0
+Estonia,Daily hospital occupancy,2023-02-27,142.0
+Estonia,Daily hospital occupancy,2023-02-28,132.0
+Estonia,Daily hospital occupancy,2023-03-01,131.0
+Estonia,Daily hospital occupancy,2023-03-02,138.0
+Estonia,Daily hospital occupancy,2023-03-03,142.0
+Estonia,Daily hospital occupancy,2023-03-04,149.0
+Estonia,Daily hospital occupancy,2023-03-05,140.0
+Estonia,Daily hospital occupancy,2023-03-06,139.0
+Estonia,Daily hospital occupancy,2023-03-07,141.0
+Estonia,Daily hospital occupancy,2023-03-08,141.0
+Estonia,Daily hospital occupancy,2023-03-09,127.0
+Estonia,Daily hospital occupancy,2023-03-10,135.0
+Estonia,Daily hospital occupancy,2023-03-11,146.0
+Estonia,Daily hospital occupancy,2023-03-12,130.0
+Estonia,Daily hospital occupancy,2023-03-13,123.0
+Estonia,Daily hospital occupancy,2023-03-14,127.0
+Estonia,Daily hospital occupancy,2023-03-15,121.0
+Estonia,Daily hospital occupancy,2023-03-16,123.0
+Estonia,Daily hospital occupancy,2023-03-17,131.0
+Estonia,Daily hospital occupancy,2023-03-18,135.0
+Estonia,Daily hospital occupancy,2023-03-19,147.0
+Estonia,Daily hospital occupancy,2023-03-20,151.0
+Estonia,Daily hospital occupancy,2023-03-21,159.0
+Estonia,Daily hospital occupancy,2023-03-22,157.0
+Estonia,Daily hospital occupancy,2023-03-23,159.0
+Estonia,Daily hospital occupancy,2023-03-24,162.0
+Estonia,Daily hospital occupancy,2023-03-25,153.0
+Estonia,Daily hospital occupancy,2023-03-26,150.0
+Estonia,Daily hospital occupancy,2023-03-27,146.0
+Estonia,Daily hospital occupancy,2023-03-28,161.0
+Estonia,Daily hospital occupancy,2023-03-29,164.0
+Estonia,Daily hospital occupancy,2023-03-30,149.0
+Estonia,Daily hospital occupancy,2023-03-31,165.0
+Estonia,Daily hospital occupancy,2023-04-01,179.0
+Estonia,Daily hospital occupancy,2023-04-02,176.0
+Estonia,Daily hospital occupancy,2023-04-03,171.0
+Estonia,Daily hospital occupancy,2023-04-04,172.0
+Estonia,Daily hospital occupancy,2023-04-05,166.0
+Estonia,Daily hospital occupancy,2023-04-06,169.0
+Estonia,Daily hospital occupancy,2023-04-07,180.0
+Estonia,Daily hospital occupancy,2023-04-08,194.0
+Estonia,Daily hospital occupancy,2023-04-09,187.0
+Estonia,Daily hospital occupancy,2023-04-10,175.0
+Estonia,Daily hospital occupancy,2023-04-11,165.0
+Estonia,Daily hospital occupancy,2023-04-12,167.0
+Estonia,Daily hospital occupancy,2023-04-13,151.0
+Estonia,Daily hospital occupancy,2023-04-14,160.0
+Estonia,Daily hospital occupancy,2023-04-15,157.0
+Estonia,Daily hospital occupancy,2023-04-16,157.0
+Estonia,Daily hospital occupancy,2023-04-17,146.0
+Estonia,Daily hospital occupancy,2023-04-18,142.0
+Estonia,Daily hospital occupancy,2023-04-19,142.0
+Estonia,Daily hospital occupancy,2023-04-20,137.0
+Estonia,Daily hospital occupancy,2023-04-21,136.0
+Estonia,Daily hospital occupancy,2023-04-22,148.0
+Estonia,Daily hospital occupancy,2023-04-23,135.0
+Estonia,Daily hospital occupancy,2023-04-24,132.0
+Estonia,Daily hospital occupancy,2023-04-25,133.0
+Estonia,Daily hospital occupancy,2023-04-26,119.0
+Estonia,Daily hospital occupancy,2023-04-27,118.0
+Estonia,Daily hospital occupancy,2023-04-28,129.0
+Estonia,Daily hospital occupancy,2023-04-29,132.0
+Estonia,Daily hospital occupancy,2023-04-30,134.0
+Estonia,Daily ICU occupancy,2020-03-29,70.0
+Estonia,Daily ICU occupancy,2020-11-22,14.0
+Estonia,Daily ICU occupancy,2020-11-29,21.0
+Estonia,Daily ICU occupancy,2020-12-06,24.0
+Estonia,Daily ICU occupancy,2020-12-13,25.0
+Estonia,Daily ICU occupancy,2020-12-20,29.0
+Estonia,Daily ICU occupancy,2020-12-27,33.0
+Estonia,Daily ICU occupancy,2021-01-03,40.0
+Estonia,Daily ICU occupancy,2021-01-10,50.0
+Estonia,Daily ICU occupancy,2021-01-17,44.0
+Estonia,Daily ICU occupancy,2021-01-24,45.0
+Estonia,Daily ICU occupancy,2021-01-31,41.0
+Estonia,Daily ICU occupancy,2021-02-07,34.0
+Estonia,Daily ICU occupancy,2021-02-14,32.0
+Estonia,Daily ICU occupancy,2021-02-21,34.0
+Estonia,Daily ICU occupancy,2021-02-28,41.0
+Estonia,Daily ICU occupancy,2021-03-07,47.0
+Estonia,Daily ICU occupancy,2021-03-14,59.0
+Estonia,Daily ICU occupancy,2021-03-21,67.0
+Estonia,Daily ICU occupancy,2021-03-28,69.0
+Estonia,Daily ICU occupancy,2021-04-11,66.0
+Estonia,Daily ICU occupancy,2021-04-18,57.0
+Estonia,Daily ICU occupancy,2021-04-25,53.0
+Estonia,Daily ICU occupancy,2021-05-02,47.0
+Estonia,Daily ICU occupancy,2021-05-09,47.0
+Estonia,Daily ICU occupancy,2021-05-16,30.0
+Estonia,Daily ICU occupancy,2021-05-23,26.0
+Estonia,Daily ICU occupancy,2021-05-30,16.0
+Estonia,Daily ICU occupancy,2021-06-06,6.0
+Estonia,Daily ICU occupancy,2021-06-13,6.0
+Estonia,Daily ICU occupancy,2021-06-20,4.0
+Estonia,Daily ICU occupancy,2021-06-27,5.0
+Estonia,Daily ICU occupancy,2021-07-04,6.0
+Estonia,Daily ICU occupancy,2021-07-11,3.0
+Estonia,Daily ICU occupancy,2021-07-18,1.0
+Estonia,Daily ICU occupancy,2021-07-25,13.0
+Estonia,Daily ICU occupancy,2021-08-01,1.0
+Estonia,Daily ICU occupancy,2021-08-08,3.0
+Estonia,Daily ICU occupancy,2021-08-15,5.0
+Estonia,Daily ICU occupancy,2021-08-22,13.0
+Estonia,Daily ICU occupancy,2021-08-29,15.0
+Estonia,Daily ICU occupancy,2021-09-05,12.0
+Estonia,Daily ICU occupancy,2021-09-12,13.0
+Estonia,Daily ICU occupancy,2021-09-19,15.0
+Estonia,Daily ICU occupancy,2021-09-26,18.0
+Estonia,Daily ICU occupancy,2021-10-03,23.0
+Estonia,Daily ICU occupancy,2021-10-10,24.0
+Estonia,Daily ICU occupancy,2021-10-17,37.0
+Estonia,Daily ICU occupancy,2021-10-24,36.0
+Estonia,Daily ICU occupancy,2021-10-31,47.0
+Estonia,Daily ICU occupancy,2021-11-14,56.0
+Estonia,Daily ICU occupancy,2021-11-21,49.0
+Estonia,Daily ICU occupancy,2021-11-28,42.0
+Estonia,Daily ICU occupancy,2021-12-05,34.0
+Estonia,Daily ICU occupancy,2021-12-12,29.0
+Estonia,Daily ICU occupancy,2021-12-19,16.0
+Estonia,Daily ICU occupancy,2021-12-26,17.0
+Estonia,Daily ICU occupancy,2022-01-02,19.0
+Estonia,Daily ICU occupancy,2022-01-09,18.0
+Estonia,Daily ICU occupancy,2022-01-16,18.0
+Estonia,Daily ICU occupancy,2022-01-23,17.0
+Estonia,Daily ICU occupancy,2022-01-30,18.0
+Estonia,Daily ICU occupancy,2022-02-06,15.0
+Estonia,Daily ICU occupancy,2022-02-13,17.0
+Estonia,Daily ICU occupancy,2022-02-20,17.0
+Estonia,Daily ICU occupancy,2022-02-27,18.0
+Estonia,Daily ICU occupancy,2022-03-06,22.0
+Estonia,Daily ICU occupancy,2022-03-13,23.0
+Estonia,Daily ICU occupancy,2022-03-20,21.0
+Estonia,Daily ICU occupancy,2022-03-27,16.0
+Estonia,Daily ICU occupancy,2022-04-03,12.0
+Estonia,Daily ICU occupancy,2022-04-10,6.0
+Estonia,Daily ICU occupancy,2022-04-17,3.0
+Estonia,Daily ICU occupancy,2022-04-24,6.0
+Estonia,Daily ICU occupancy,2022-05-01,1.0
+Estonia,Daily ICU occupancy,2022-05-08,9.0
+Estonia,Daily ICU occupancy,2022-05-15,3.0
+Estonia,Daily ICU occupancy,2022-05-22,4.0
+Estonia,Daily ICU occupancy,2022-05-29,2.0
+Estonia,Daily ICU occupancy,2022-06-05,7.0
+Estonia,Daily ICU occupancy,2022-06-12,0.0
+Estonia,Daily ICU occupancy,2022-06-19,5.0
+Estonia,Daily ICU occupancy,2022-06-26,2.0
+Estonia,Daily ICU occupancy,2022-07-03,5.0
+Estonia,Daily ICU occupancy,2022-07-10,2.0
+Estonia,Daily ICU occupancy,2022-07-17,4.0
+Estonia,Daily ICU occupancy,2022-07-24,2.0
+Estonia,Daily ICU occupancy,2022-07-31,3.0
+Estonia,Daily ICU occupancy,2022-08-07,3.0
+Estonia,Daily ICU occupancy,2022-08-14,6.0
+Estonia,Daily ICU occupancy,2022-08-21,5.0
+Estonia,Daily ICU occupancy,2022-08-28,2.0
+Estonia,Daily ICU occupancy,2022-09-04,2.0
+Estonia,Daily ICU occupancy,2022-09-11,1.0
+Estonia,Daily ICU occupancy,2022-09-18,4.0
+Estonia,Daily ICU occupancy,2022-09-25,5.0
+Estonia,Daily ICU occupancy,2022-10-02,8.0
+Estonia,Daily ICU occupancy,2022-10-09,8.0
+Estonia,Daily ICU occupancy,2022-10-16,7.0
+Estonia,Daily ICU occupancy,2022-10-23,5.0
+Estonia,Daily ICU occupancy,2022-10-30,7.0
+Estonia,Daily ICU occupancy,2022-11-06,3.0
+Estonia,Daily ICU occupancy,2022-11-13,4.0
+Estonia,Daily ICU occupancy,2022-11-20,3.0
+Estonia,Daily ICU occupancy,2022-11-27,2.0
+Estonia,Daily ICU occupancy,2022-12-04,5.0
+Estonia,Daily ICU occupancy,2022-12-11,5.0
+Estonia,Daily ICU occupancy,2022-12-18,9.0
+Estonia,Daily ICU occupancy,2022-12-25,11.0
+Estonia,Daily ICU occupancy,2023-01-01,12.0
+Estonia,Daily ICU occupancy,2023-01-08,6.0
+Estonia,Daily ICU occupancy,2023-01-15,5.0
+Estonia,Daily ICU occupancy,2023-01-22,3.0
+Estonia,Daily ICU occupancy,2023-01-29,2.0
+Estonia,Daily ICU occupancy,2023-02-05,4.0
+Estonia,Daily ICU occupancy,2023-02-12,1.0
+Estonia,Daily ICU occupancy,2023-02-19,1.0
+Estonia,Daily ICU occupancy,2023-02-26,3.0
+Estonia,Daily ICU occupancy,2023-03-05,6.0
+Estonia,Daily ICU occupancy,2023-03-12,2.0
+Estonia,Daily ICU occupancy,2023-03-19,2.0
+Estonia,Daily ICU occupancy,2023-03-26,6.0
+Estonia,Daily ICU occupancy,2023-04-02,6.0
+Estonia,Daily ICU occupancy,2023-04-09,5.0
+Estonia,Daily ICU occupancy,2023-04-16,5.0
+Estonia,Daily ICU occupancy,2023-04-23,5.0
+Estonia,Daily ICU occupancy,2023-04-30,4.0
+Estonia,Daily ICU occupancy,2023-05-07,1.0
+Estonia,Daily ICU occupancy,2023-05-21,0.0
+Estonia,Daily ICU occupancy,2023-05-28,0.0
+Estonia,Daily ICU occupancy,2023-06-04,0.0
+Estonia,Daily ICU occupancy,2023-06-11,1.0
+Estonia,Daily ICU occupancy,2023-06-18,0.0
+Estonia,Daily ICU occupancy,2023-06-25,0.0
+Estonia,Daily ICU occupancy,2023-07-02,0.0
+Estonia,Daily ICU occupancy,2023-07-09,0.0
+Estonia,Daily ICU occupancy,2023-07-16,0.0
+Estonia,Daily ICU occupancy,2023-07-23,0.0
+Estonia,Daily ICU occupancy,2023-08-06,0.0
+Estonia,Daily ICU occupancy,2023-08-13,0.0
+Estonia,Daily ICU occupancy,2023-08-20,0.0
+Estonia,Daily ICU occupancy,2023-08-27,0.0
+Estonia,Daily ICU occupancy,2023-09-03,0.0
+Estonia,Daily ICU occupancy,2023-09-10,0.0
+Estonia,Daily ICU occupancy,2023-09-17,0.0
+Estonia,Daily ICU occupancy,2023-09-24,0.0
+Estonia,Daily ICU occupancy,2023-10-01,0.0
+Estonia,Daily ICU occupancy,2023-10-08,0.0
+Estonia,Daily ICU occupancy,2023-10-15,0.0
+Estonia,Daily ICU occupancy,2023-10-22,0.0
+Estonia,Daily ICU occupancy,2023-10-29,0.0
+Estonia,Daily ICU occupancy,2023-11-05,8.0
+Estonia,Daily ICU occupancy,2023-11-12,8.0
+Estonia,Daily ICU occupancy,2023-11-19,7.0
+Estonia,Daily ICU occupancy,2023-11-26,10.0
+Estonia,Weekly new hospital admissions,2020-03-29,521.7447236663874
+Estonia,Weekly new ICU admissions,2020-03-29,51.77619395162622
+Estonia,Weekly new hospital admissions,2020-04-26,23.896704900750564
+Estonia,Weekly new ICU admissions,2020-04-26,7.965568300250188
+Estonia,Weekly new hospital admissions,2020-05-03,23.896704900750564
+Estonia,Weekly new ICU admissions,2020-05-03,7.965568300250188
+Estonia,Weekly new hospital admissions,2020-05-10,4.978480187656367
+Estonia,Weekly new ICU admissions,2020-05-10,4.978480187656367
+Estonia,Weekly new hospital admissions,2020-05-24,26.883793013344388
+Estonia,Weekly new ICU admissions,2020-05-24,0.9956960375312731
+Estonia,Weekly new hospital admissions,2020-05-31,8.961264337781461
+Estonia,Weekly new ICU admissions,2020-05-31,0.9956960375312731
+Estonia,Weekly new hospital admissions,2020-06-07,3.982784150125094
+Estonia,Weekly new ICU admissions,2020-06-07,0.0
+Estonia,Weekly new hospital admissions,2020-06-14,7.965568300250188
+Estonia,Weekly new ICU admissions,2020-06-14,0.0
+Estonia,Weekly new hospital admissions,2020-06-28,1.991392075062547
+Estonia,Weekly new ICU admissions,2020-06-28,0.9956960375312731
+Estonia,Weekly new hospital admissions,2020-07-26,0.9956960375312731
+Estonia,Weekly new ICU admissions,2020-07-26,0.0
+Estonia,Weekly new hospital admissions,2020-08-02,1.991392075062547
+Estonia,Weekly new ICU admissions,2020-08-02,0.0
+Estonia,Weekly new hospital admissions,2020-08-09,4.978480187656367
+Estonia,Weekly new ICU admissions,2020-08-09,0.9956960375312731
+Estonia,Weekly new hospital admissions,2020-08-16,2.98708811259382
+Estonia,Weekly new ICU admissions,2020-08-16,0.0
+Estonia,Weekly new hospital admissions,2020-08-23,7.965568300250188
+Estonia,Weekly new ICU admissions,2020-08-23,0.0
+Estonia,Weekly new hospital admissions,2020-08-30,8.961264337781461
+Estonia,Weekly new ICU admissions,2020-08-30,0.0
+Estonia,Weekly new hospital admissions,2020-09-06,4.978480187656367
+Estonia,Weekly new ICU admissions,2020-09-06,0.0
+Estonia,Weekly new hospital admissions,2020-09-13,11.948352450375282
+Estonia,Weekly new ICU admissions,2020-09-13,0.9956960375312731
+Estonia,Weekly new hospital admissions,2020-09-20,26.883793013344388
+Estonia,Weekly new ICU admissions,2020-09-20,2.98708811259382
+Estonia,Weekly new hospital admissions,2020-09-27,32.857969238532036
+Estonia,Weekly new ICU admissions,2020-09-27,2.98708811259382
+Estonia,Weekly new hospital admissions,2020-10-04,29.870881125938205
+Estonia,Weekly new ICU admissions,2020-10-04,3.982784150125094
+Estonia,Weekly new hospital admissions,2020-10-11,14.935440562969102
+Estonia,Weekly new ICU admissions,2020-10-11,3.982784150125094
+Estonia,Weekly new hospital admissions,2020-10-18,20.909616788156747
+Estonia,Weekly new ICU admissions,2020-10-18,1.991392075062547
+Estonia,Weekly new hospital admissions,2020-10-25,17.92252867556292
+Estonia,Weekly new ICU admissions,2020-10-25,3.982784150125094
+Estonia,Weekly new hospital admissions,2020-11-01,31.86227320100075
+Estonia,Weekly new ICU admissions,2020-11-01,2.98708811259382
+Estonia,Weekly new hospital admissions,2020-11-08,42.81492961384476
+Estonia,Weekly new ICU admissions,2020-11-08,3.982784150125094
+Estonia,Weekly new hospital admissions,2020-11-15,59.74176225187641
+Estonia,Weekly new ICU admissions,2020-11-15,7.965568300250188
+Estonia,Weekly new hospital admissions,2020-11-22,127.449092804003
+Estonia,Weekly new ICU admissions,2020-11-22,7.965568300250188
+Estonia,Weekly new hospital admissions,2020-11-29,156.32427789240998
+Estonia,Weekly new ICU admissions,2020-11-29,11.948352450375282
+Estonia,Weekly new hospital admissions,2020-12-06,190.17794316847326
+Estonia,Weekly new ICU admissions,2020-12-06,14.935440562969102
+Estonia,Weekly new hospital admissions,2020-12-13,186.19515901834814
+Estonia,Weekly new ICU admissions,2020-12-13,18.9182247130942
+Estonia,Weekly new hospital admissions,2020-12-20,241.9541371200995
+Estonia,Weekly new ICU admissions,2020-12-20,19.913920750625472
+Estonia,Weekly new hospital admissions,2020-12-27,272.820714283569
+Estonia,Weekly new ICU admissions,2020-12-27,28.875185088406933
+Estonia,Weekly new hospital admissions,2021-01-03,281.7819786213504
+Estonia,Weekly new ICU admissions,2021-01-03,32.857969238532036
+Estonia,Weekly new hospital admissions,2021-01-10,275.8078023961628
+Estonia,Weekly new ICU admissions,2021-01-10,30.86657716346948
+Estonia,Weekly new hospital admissions,2021-01-17,296.7174191843195
+Estonia,Weekly new ICU admissions,2021-01-17,28.875185088406933
+Estonia,Weekly new hospital admissions,2021-01-24,293.7303310717257
+Estonia,Weekly new ICU admissions,2021-01-24,31.86227320100075
+Estonia,Weekly new hospital admissions,2021-01-31,296.7174191843195
+Estonia,Weekly new ICU admissions,2021-01-31,25.88809697581311
+Estonia,Weekly new hospital admissions,2021-02-07,322.60551616013265
+Estonia,Weekly new ICU admissions,2021-02-07,20.909616788156747
+Estonia,Weekly new hospital admissions,2021-02-14,363.42905369891486
+Estonia,Weekly new ICU admissions,2021-02-14,21.905312825688018
+Estonia,Weekly new hospital admissions,2021-02-21,368.40753388657123
+Estonia,Weekly new ICU admissions,2021-02-21,27.87948905087566
+Estonia,Weekly new hospital admissions,2021-02-28,410.22676746288477
+Estonia,Weekly new ICU admissions,2021-02-28,27.87948905087566
+Estonia,Weekly new hospital admissions,2021-03-07,543.6500364920754
+Estonia,Weekly new ICU admissions,2021-03-07,39.827841501250944
+Estonia,Weekly new hospital admissions,2021-03-14,567.546741392826
+Estonia,Weekly new ICU admissions,2021-03-14,51.77619395162622
+Estonia,Weekly new hospital admissions,2021-03-21,551.6156047923256
+Estonia,Weekly new ICU admissions,2021-03-21,56.75467413928259
+Estonia,Weekly new hospital admissions,2021-03-28,567.546741392826
+Estonia,Weekly new ICU admissions,2021-03-28,50.78049791409495
+Estonia,Weekly new hospital admissions,2021-04-11,393.29993482485304
+Estonia,Weekly new ICU admissions,2021-04-11,52.7718899891575
+Estonia,Weekly new hospital admissions,2021-04-18,295.7217231467883
+Estonia,Weekly new ICU admissions,2021-04-18,39.827841501250944
+Estonia,Weekly new hospital admissions,2021-04-25,264.8551459833188
+Estonia,Weekly new ICU admissions,2021-04-25,40.82353753878222
+Estonia,Weekly new hospital admissions,2021-05-02,216.06604014428638
+Estonia,Weekly new ICU admissions,2021-05-02,41.81923357631349
+Estonia,Weekly new hospital admissions,2021-05-09,196.15211939366085
+Estonia,Weekly new ICU admissions,2021-05-09,30.86657716346948
+Estonia,Weekly new hospital admissions,2021-05-16,142.3845333669721
+Estonia,Weekly new ICU admissions,2021-05-16,28.875185088406933
+Estonia,Weekly new hospital admissions,2021-05-23,134.41896506672197
+Estonia,Weekly new ICU admissions,2021-05-23,19.913920750625472
+Estonia,Weekly new hospital admissions,2021-05-30,81.64707507756444
+Estonia,Weekly new ICU admissions,2021-05-30,7.965568300250188
+Estonia,Weekly new hospital admissions,2021-06-06,46.79771376396986
+Estonia,Weekly new ICU admissions,2021-06-06,6.969872262718915
+Estonia,Weekly new hospital admissions,2021-06-13,40.82353753878222
+Estonia,Weekly new ICU admissions,2021-06-13,4.978480187656367
+Estonia,Weekly new hospital admissions,2021-06-20,39.827841501250944
+Estonia,Weekly new ICU admissions,2021-06-20,2.98708811259382
+Estonia,Weekly new hospital admissions,2021-06-27,23.896704900750564
+Estonia,Weekly new ICU admissions,2021-06-27,3.982784150125094
+Estonia,Weekly new hospital admissions,2021-07-04,16.92683263803165
+Estonia,Weekly new ICU admissions,2021-07-04,3.982784150125094
+Estonia,Weekly new hospital admissions,2021-07-11,21.905312825688018
+Estonia,Weekly new ICU admissions,2021-07-11,1.991392075062547
+Estonia,Weekly new hospital admissions,2021-07-18,15.931136600500375
+Estonia,Weekly new ICU admissions,2021-07-18,0.9956960375312731
+Estonia,Weekly new hospital admissions,2021-07-25,28.875185088406933
+Estonia,Weekly new ICU admissions,2021-07-25,1.991392075062547
+Estonia,Weekly new hospital admissions,2021-08-01,41.81923357631349
+Estonia,Weekly new ICU admissions,2021-08-01,1.991392075062547
+Estonia,Weekly new hospital admissions,2021-08-08,47.79340980150113
+Estonia,Weekly new ICU admissions,2021-08-08,0.9956960375312731
+Estonia,Weekly new hospital admissions,2021-08-15,66.71163451459533
+Estonia,Weekly new ICU admissions,2021-08-15,5.974176225187641
+Estonia,Weekly new hospital admissions,2021-08-22,68.70302658965787
+Estonia,Weekly new ICU admissions,2021-08-22,10.952656412844009
+Estonia,Weekly new hospital admissions,2021-08-29,111.51795620350264
+Estonia,Weekly new ICU admissions,2021-08-29,9.956960375312736
+Estonia,Weekly new hospital admissions,2021-09-05,114.50504431609646
+Estonia,Weekly new ICU admissions,2021-09-05,10.952656412844009
+Estonia,Weekly new hospital admissions,2021-09-12,143.38022940450335
+Estonia,Weekly new ICU admissions,2021-09-12,9.956960375312736
+Estonia,Weekly new hospital admissions,2021-09-19,133.42326902919066
+Estonia,Weekly new ICU admissions,2021-09-19,12.944048487906555
+Estonia,Weekly new hospital admissions,2021-09-26,147.36301355462848
+Estonia,Weekly new ICU admissions,2021-09-26,13.93974452543783
+Estonia,Weekly new hospital admissions,2021-10-03,198.14351146872343
+Estonia,Weekly new ICU admissions,2021-10-03,12.944048487906555
+Estonia,Weekly new hospital admissions,2021-10-10,240.95844108256819
+Estonia,Weekly new ICU admissions,2021-10-10,19.913920750625472
+Estonia,Weekly new hospital admissions,2021-10-17,346.5022210608832
+Estonia,Weekly new ICU admissions,2021-10-17,16.92683263803165
+Estonia,Weekly new hospital admissions,2021-10-24,427.1536001009164
+Estonia,Weekly new ICU admissions,2021-10-24,32.857969238532036
+Estonia,Weekly new hospital admissions,2021-10-31,458.02017726438584
+Estonia,Weekly new ICU admissions,2021-10-31,36.84075338865712
+Estonia,Weekly new hospital admissions,2021-11-14,365.42044577397746
+Estonia,Weekly new ICU admissions,2021-11-14,33.8536652760633
+Estonia,Weekly new hospital admissions,2021-11-21,254.898185608006
+Estonia,Weekly new ICU admissions,2021-11-21,26.883793013344388
+Estonia,Weekly new hospital admissions,2021-11-28,204.11768769391108
+Estonia,Weekly new ICU admissions,2021-11-28,23.896704900750564
+Estonia,Weekly new hospital admissions,2021-12-05,149.35440562969103
+Estonia,Weekly new ICU admissions,2021-12-05,18.9182247130942
+Estonia,Weekly new hospital admissions,2021-12-12,221.04452033194272
+Estonia,Weekly new ICU admissions,2021-12-12,16.92683263803165
+Estonia,Weekly new hospital admissions,2021-12-19,172.25541449291032
+Estonia,Weekly new ICU admissions,2021-12-19,20.909616788156747
+Estonia,Weekly new hospital admissions,2021-12-26,179.22528675562927
+Estonia,Weekly new ICU admissions,2021-12-26,14.935440562969102
+Estonia,Weekly new hospital admissions,2022-01-02,160.30706204253505
+Estonia,Weekly new ICU admissions,2022-01-02,15.931136600500375
+Estonia,Weekly new hospital admissions,2022-01-09,196.15211939366085
+Estonia,Weekly new ICU admissions,2022-01-09,11.948352450375282
+Estonia,Weekly new hospital admissions,2022-01-16,258.88096975813113
+Estonia,Weekly new ICU admissions,2022-01-16,15.931136600500375
+Estonia,Weekly new hospital admissions,2022-01-23,275.8078023961628
+Estonia,Weekly new ICU admissions,2022-01-23,21.905312825688018
+Estonia,Weekly new hospital admissions,2022-01-30,317.62703597247634
+Estonia,Weekly new ICU admissions,2022-01-30,12.944048487906555
+Estonia,Weekly new hospital admissions,2022-02-06,367.4118378490399
+Estonia,Weekly new ICU admissions,2022-02-06,6.969872262718915
+Estonia,Weekly new hospital admissions,2022-02-13,482.91257820266776
+Estonia,Weekly new ICU admissions,2022-02-13,13.93974452543783
+Estonia,Weekly new hospital admissions,2022-02-20,606.3788868565456
+Estonia,Weekly new ICU admissions,2022-02-20,15.931136600500375
+Estonia,Weekly new hospital admissions,2022-02-27,562.5682612051696
+Estonia,Weekly new ICU admissions,2022-02-27,15.931136600500375
+Estonia,Weekly new hospital admissions,2022-03-06,546.6371246046692
+Estonia,Weekly new ICU admissions,2022-03-06,8.961264337781461
+Estonia,Weekly new hospital admissions,2022-03-13,493.86523461551167
+Estonia,Weekly new ICU admissions,2022-03-13,13.93974452543783
+Estonia,Weekly new hospital admissions,2022-03-20,344.51082898582064
+Estonia,Weekly new ICU admissions,2022-03-20,10.952656412844009
+Estonia,Weekly new hospital admissions,2022-03-27,340.52804483569554
+Estonia,Weekly new ICU admissions,2022-03-27,7.965568300250188
+Estonia,Weekly new hospital admissions,2022-04-03,238.96704900750564
+Estonia,Weekly new ICU admissions,2022-04-03,6.969872262718915
+Estonia,Weekly new hospital admissions,2022-04-10,245.9369212702246
+Estonia,Weekly new ICU admissions,2022-04-10,3.982784150125094
+Estonia,Weekly new hospital admissions,2022-04-17,134.41896506672197
+Estonia,Weekly new ICU admissions,2022-04-17,3.982784150125094
+Estonia,Weekly new hospital admissions,2022-04-24,140.39314129190956
+Estonia,Weekly new ICU admissions,2022-04-24,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-05-01,109.52656412844009
+Estonia,Weekly new ICU admissions,2022-05-01,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-05-08,131.43187695412811
+Estonia,Weekly new ICU admissions,2022-05-08,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-05-15,97.57821167806482
+Estonia,Weekly new ICU admissions,2022-05-15,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-05-22,80.65137904003316
+Estonia,Weekly new ICU admissions,2022-05-22,3.982784150125094
+Estonia,Weekly new hospital admissions,2022-05-29,82.6427711150957
+Estonia,Weekly new ICU admissions,2022-05-29,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-06-05,75.67289885237679
+Estonia,Weekly new ICU admissions,2022-06-05,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-06-12,58.746066214345134
+Estonia,Weekly new ICU admissions,2022-06-12,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-06-19,63.7245464020015
+Estonia,Weekly new ICU admissions,2022-06-19,3.982784150125094
+Estonia,Weekly new hospital admissions,2022-06-26,79.65568300250189
+Estonia,Weekly new ICU admissions,2022-06-26,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-07-03,96.58251564053353
+Estonia,Weekly new ICU admissions,2022-07-03,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-07-10,78.65998696497061
+Estonia,Weekly new ICU admissions,2022-07-10,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-07-17,96.58251564053353
+Estonia,Weekly new ICU admissions,2022-07-17,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-07-24,116.49643639115902
+Estonia,Weekly new ICU admissions,2022-07-24,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-07-31,142.3845333669721
+Estonia,Weekly new ICU admissions,2022-07-31,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-08-07,121.47491657881541
+Estonia,Weekly new ICU admissions,2022-08-07,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-08-14,128.44478884153426
+Estonia,Weekly new ICU admissions,2022-08-14,6.969872262718915
+Estonia,Weekly new hospital admissions,2022-08-21,89.61264337781463
+Estonia,Weekly new ICU admissions,2022-08-21,4.978480187656367
+Estonia,Weekly new hospital admissions,2022-08-28,94.591123565471
+Estonia,Weekly new ICU admissions,2022-08-28,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-09-04,74.67720281484551
+Estonia,Weekly new ICU admissions,2022-09-04,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-09-11,100.56529979065864
+Estonia,Weekly new ICU admissions,2022-09-11,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-09-18,149.35440562969103
+Estonia,Weekly new ICU admissions,2022-09-18,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-09-25,149.35440562969103
+Estonia,Weekly new ICU admissions,2022-09-25,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-10-02,149.35440562969103
+Estonia,Weekly new ICU admissions,2022-10-02,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-10-09,200.13490354378598
+Estonia,Weekly new ICU admissions,2022-10-09,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-10-16,175.24250260550414
+Estonia,Weekly new ICU admissions,2022-10-16,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-10-23,217.0617361818176
+Estonia,Weekly new ICU admissions,2022-10-23,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-10-30,173.2511105304416
+Estonia,Weekly new ICU admissions,2022-10-30,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-11-06,178.2295907180979
+Estonia,Weekly new ICU admissions,2022-11-06,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-11-13,163.29415015512888
+Estonia,Weekly new ICU admissions,2022-11-13,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-11-20,163.29415015512888
+Estonia,Weekly new ICU admissions,2022-11-20,0.0
+Estonia,Weekly new hospital admissions,2022-11-27,160.30706204253505
+Estonia,Weekly new ICU admissions,2022-11-27,3.982784150125094
+Estonia,Weekly new hospital admissions,2022-12-04,189.182247130942
+Estonia,Weekly new ICU admissions,2022-12-04,0.9956960375312731
+Estonia,Weekly new hospital admissions,2022-12-11,231.00148070725547
+Estonia,Weekly new ICU admissions,2022-12-11,2.98708811259382
+Estonia,Weekly new hospital admissions,2022-12-18,258.88096975813113
+Estonia,Weekly new ICU admissions,2022-12-18,1.991392075062547
+Estonia,Weekly new hospital admissions,2022-12-25,243.94552919516198
+Estonia,Weekly new ICU admissions,2022-12-25,2.98708811259382
+Estonia,Weekly new hospital admissions,2023-01-01,233.98856881984926
+Estonia,Weekly new ICU admissions,2023-01-01,2.98708811259382
+Estonia,Weekly new hospital admissions,2023-01-08,148.35870959215976
+Estonia,Weekly new ICU admissions,2023-01-08,3.982784150125094
+Estonia,Weekly new hospital admissions,2023-01-15,135.4146611042532
+Estonia,Weekly new ICU admissions,2023-01-15,3.982784150125094
+Estonia,Weekly new hospital admissions,2023-01-22,107.53517205337755
+Estonia,Weekly new ICU admissions,2023-01-22,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-01-29,131.43187695412811
+Estonia,Weekly new ICU admissions,2023-01-29,1.991392075062547
+Estonia,Weekly new hospital admissions,2023-02-05,108.5308680909088
+Estonia,Weekly new ICU admissions,2023-02-05,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-02-12,112.51365224103391
+Estonia,Weekly new ICU admissions,2023-02-12,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-02-19,107.53517205337755
+Estonia,Weekly new ICU admissions,2023-02-19,1.991392075062547
+Estonia,Weekly new hospital admissions,2023-02-26,114.50504431609646
+Estonia,Weekly new ICU admissions,2023-02-26,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-03-05,119.48352450375282
+Estonia,Weekly new ICU admissions,2023-03-05,3.982784150125094
+Estonia,Weekly new hospital admissions,2023-03-12,99.56960375312735
+Estonia,Weekly new ICU admissions,2023-03-12,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-03-26,131.43187695412811
+Estonia,Weekly new ICU admissions,2023-03-26,1.991392075062547
+Estonia,Weekly new hospital admissions,2020-05-17,9.956960375312736
+Estonia,Weekly new ICU admissions,2020-05-17,4.978480187656367
+Estonia,Weekly new hospital admissions,2020-07-05,0.9956960375312731
+Estonia,Weekly new ICU admissions,2020-07-05,0.9956960375312731
+Estonia,Weekly new hospital admissions,2020-07-12,1.991392075062547
+Estonia,Weekly new ICU admissions,2020-07-12,1.991392075062547
+Estonia,Weekly new hospital admissions,2020-07-19,0.0
+Estonia,Weekly new ICU admissions,2020-07-19,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-03-19,114.50504431609646
+Estonia,Weekly new ICU admissions,2023-03-19,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-04-02,162.2984541175976
+Estonia,Weekly new ICU admissions,2023-04-02,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-04-09,144.37592544203468
+Estonia,Weekly new ICU admissions,2023-04-09,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-04-16,111.51795620350264
+Estonia,Weekly new ICU admissions,2023-04-16,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-04-23,142.3845333669721
+Estonia,Weekly new ICU admissions,2023-04-23,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-04-30,97.57821167806482
+Estonia,Weekly new ICU admissions,2023-04-30,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-05-07,52.7718899891575
+Estonia,Weekly new ICU admissions,2023-05-07,0.0
+Estonia,Weekly new hospital admissions,2023-05-14,79.65568300250189
+Estonia,Weekly new ICU admissions,2023-05-14,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-05-21,39.827841501250944
+Estonia,Weekly new ICU admissions,2023-05-21,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-05-28,37.836449426188395
+Estonia,Weekly new ICU admissions,2023-05-28,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-06-04,31.86227320100075
+Estonia,Weekly new ICU admissions,2023-06-04,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-06-11,28.875185088406933
+Estonia,Weekly new ICU admissions,2023-06-11,0.0
+Estonia,Weekly new hospital admissions,2023-06-18,13.93974452543783
+Estonia,Weekly new ICU admissions,2023-06-18,0.0
+Estonia,Weekly new hospital admissions,2023-06-25,14.935440562969102
+Estonia,Weekly new ICU admissions,2023-06-25,0.0
+Estonia,Weekly new hospital admissions,2023-07-02,8.961264337781461
+Estonia,Weekly new ICU admissions,2023-07-02,0.0
+Estonia,Weekly new hospital admissions,2023-07-09,5.974176225187641
+Estonia,Weekly new ICU admissions,2023-07-09,0.0
+Estonia,Weekly new hospital admissions,2023-07-16,12.944048487906555
+Estonia,Weekly new ICU admissions,2023-07-16,0.0
+Estonia,Weekly new hospital admissions,2023-07-23,8.961264337781461
+Estonia,Weekly new ICU admissions,2023-07-23,0.0
+Estonia,Weekly new hospital admissions,2023-08-06,9.956960375312736
+Estonia,Weekly new ICU admissions,2023-08-06,0.0
+Estonia,Weekly new hospital admissions,2023-08-13,5.974176225187641
+Estonia,Weekly new ICU admissions,2023-08-13,0.0
+Estonia,Weekly new hospital admissions,2023-08-20,4.978480187656367
+Estonia,Weekly new ICU admissions,2023-08-20,0.0
+Estonia,Weekly new hospital admissions,2023-08-27,5.974176225187641
+Estonia,Weekly new ICU admissions,2023-08-27,0.0
+Estonia,Weekly new hospital admissions,2023-09-03,18.9182247130942
+Estonia,Weekly new ICU admissions,2023-09-03,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-09-10,16.92683263803165
+Estonia,Weekly new ICU admissions,2023-09-10,0.0
+Estonia,Weekly new hospital admissions,2023-09-17,27.87948905087566
+Estonia,Weekly new ICU admissions,2023-09-17,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-09-24,19.913920750625472
+Estonia,Weekly new ICU admissions,2023-09-24,0.0
+Estonia,Weekly new hospital admissions,2023-10-01,25.88809697581311
+Estonia,Weekly new ICU admissions,2023-10-01,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-10-08,20.909616788156747
+Estonia,Weekly new ICU admissions,2023-10-08,0.0
+Estonia,Weekly new hospital admissions,2023-10-15,20.909616788156747
+Estonia,Weekly new ICU admissions,2023-10-15,0.0
+Estonia,Weekly new hospital admissions,2023-10-22,41.81923357631349
+Estonia,Weekly new ICU admissions,2023-10-22,0.0
+Estonia,Weekly new hospital admissions,2023-10-29,85.62985922768952
+Estonia,Weekly new ICU admissions,2023-10-29,0.0
+Estonia,Weekly new hospital admissions,2023-11-05,148.35870959215976
+Estonia,Weekly new ICU admissions,2023-11-05,3.982784150125094
+Estonia,Weekly new hospital admissions,2023-11-12,77.66429092743932
+Estonia,Weekly new ICU admissions,2023-11-12,0.9956960375312731
+Estonia,Weekly new hospital admissions,2023-11-19,111.51795620350264
+Estonia,Weekly new ICU admissions,2023-11-19,1.991392075062547
+Estonia,Weekly new hospital admissions,2023-11-26,120.47922054128409
+Estonia,Weekly new ICU admissions,2023-11-26,2.98708811259382

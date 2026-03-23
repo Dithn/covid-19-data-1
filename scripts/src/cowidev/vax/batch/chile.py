@@ -1,7 +1,7 @@
 import pandas as pd
 
-from cowidev.vax.utils.files import export_metadata_manufacturer
-from cowidev.utils import paths
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.base import CountryVaxBase
 
 
 vaccine_mapping = {
@@ -9,10 +9,11 @@ vaccine_mapping = {
     "Sinovac": "Sinovac",
     "Astra-Zeneca": "Oxford/AstraZeneca",
     "CanSino": "CanSino",
+    "Moderna": "Moderna",
 }
 
 
-class Chile:
+class Chile(CountryVaxBase):
     def __init__(self):
         self.location = "Chile"
         # Alternative: https://github.com/MinCiencia/Datos-COVID19/tree/master/output/producto83
@@ -26,7 +27,8 @@ class Chile:
 
     # Generalized methods
     def read(self, url: str) -> pd.DataFrame:
-        return pd.read_csv(url)
+        df = pd.read_csv(url)
+        return df
 
     def pipe_melt(self, df: pd.DataFrame, id_vars: list) -> pd.DataFrame:
         return df.melt(id_vars, var_name="date", value_name="value")
@@ -39,13 +41,14 @@ class Chile:
         return df[(df[colname] == "Total") & (df.value > 0)]
 
     def pipe_calculate_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
+        check_known_columns(df, ["Region", "date", "Primera", "Refuerzo", "Segunda", "Unica", "Cuarta"])
         df = df.fillna(0)
         return df.assign(
             people_vaccinated=df.Primera + df.Unica,
             people_fully_vaccinated=df.Segunda + df.Unica,
-            total_vaccinations=df.Primera + df.Refuerzo + df.Segunda + df.Unica,
-            total_boosters=df.Refuerzo,
-        ).drop(columns=["Primera", "Refuerzo", "Segunda", "Unica"])
+            total_vaccinations=df.Primera + df.Refuerzo + df.Segunda + df.Unica + df.Cuarta,
+            total_boosters=df.Refuerzo + df.Cuarta,
+        ).drop(columns=["Primera", "Refuerzo", "Segunda", "Unica", "Cuarta"])
 
     def pipe_add_vaccine_list(self, df: pd.DataFrame) -> pd.DataFrame:
         df = df.merge(self.vaccine_list, on="date", how="left").sort_values("date")
@@ -101,24 +104,21 @@ class Chile:
             .sort_values(["location", "date", "vaccine"])
         )
 
-    def to_csv(self):
+    def export(self):
         # Manufacturer
         df_man = self.read(self.source_url_manufacturer).pipe(self.pipeline_manufacturer)
-        df_man.to_csv(paths.out_vax(self.location, manufacturer=True), index=False)
-        export_metadata_manufacturer(
-            df_man,
-            "Ministerio de Ciencia, Tecnología, Conocimiento e Innovación",
-            self.source_url_ref,
-        )
-
         # Main data
         df = self.read(self.source_url_vaccinations).pipe(self.pipeline_vaccinations)
-        df.to_csv(paths.out_vax(self.location), index=False)
+        # Export
+        self.export_datafile(
+            df=df,
+            df_manufacturer=df_man,
+            meta_manufacturer={
+                "source_name": "Ministry of Health, via Ministry of Science GitHub repository",
+                "source_url": self.source_url_ref,
+            },
+        )
 
 
 def main():
-    Chile().to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Chile().export()

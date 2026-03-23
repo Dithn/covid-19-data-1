@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Feature request ⚙️
+    url: https://github.com/owid/covid-19-data/discussions/categories/ideas
+    about: Are we missing something? Start an "Ideas" discussion.
+  - name: General question 🙋
+    url: https://github.com/owid/covid-19-data/discussions/categories/general
+    about: Not sure where to post your issue? Start a "General" discussion. 
+  - name: Our developer documentation 📚
+    url: https://docs.owid.io/projects/covid/
+    about: Refer to our developer documentation to know more about how we maintain this project. 

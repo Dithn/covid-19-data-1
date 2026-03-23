@@ -13,7 +13,6 @@ Taiwan,2021-03-31,Oxford/AstraZeneca,https://www.cdc.gov.tw/File/Get/XKCGkbm_Y-P
 Taiwan,2021-04-01,Oxford/AstraZeneca,https://www.cdc.gov.tw/File/Get/ZEgt5pazQMtu1a-T9wLoJA,16450,16450,0,
 Taiwan,2021-04-02,Oxford/AstraZeneca,https://www.cdc.gov.tw/Uploads/c9f7dca2-96fd-4238-bd39-46318cd0e353.pdf,17056,17056,0,
 Taiwan,2021-04-03,Oxford/AstraZeneca,https://www.cdc.gov.tw/Uploads/2b8b62e6-8dc4-45c4-8402-d336a3459d6b.pdf,17078,17078,0,
-Taiwan,2021-04-04,Oxford/AstraZeneca,https://www.cdc.gov.tw/Uploads/0133ff8f-71a6-4e75-b81a-799f4e5d1035.pdf,17078,17078,0,
 Taiwan,2021-04-05,Oxford/AstraZeneca,https://www.cdc.gov.tw/Uploads/0133ff8f-71a6-4e75-b81a-799f4e5d1035.pdf,17245,17245,0,
 Taiwan,2021-04-06,Oxford/AstraZeneca,https://www.cdc.gov.tw/File/Get/dvIhH6wnng17XsYuOy7ylw,18657,18657,0,
 Taiwan,2021-04-07,Oxford/AstraZeneca,https://www.cdc.gov.tw/Uploads/e72faf47-1ff6-421e-a7cf-ec6d1cc51497.pdf,20075,20075,0,
@@ -215,3 +214,372 @@ Taiwan,2021-12-05,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https:
 Taiwan,2021-12-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,32680126,18317806,14362320,9093
 Taiwan,2021-12-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,32885283,18338424,14546859,13118
 Taiwan,2021-12-08,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33071707,18355174,14716533,16557
+Taiwan,2021-12-09,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33200156,18391917,14808239,22688
+Taiwan,2021-12-10,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33374778,18436686,14938092,28850
+Taiwan,2021-12-12,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33497204,18472049,15025155,30288
+Taiwan,2021-12-13,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33607831,18503657,15104174,32939
+Taiwan,2021-12-14,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33681869,18525192,15156677,35964
+Taiwan,2021-12-15,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33752634,18544759,15207875,40584
+Taiwan,2021-12-16,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33814393,18562693,15251700,47494
+Taiwan,2021-12-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33911110,18585322,15325788,56580
+Taiwan,2021-12-19,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,33972881,18602263,15370618,58750
+Taiwan,2021-12-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34033524,18616700,15416824,64155
+Taiwan,2021-12-21,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34094516,18631066,15463450,68282
+Taiwan,2021-12-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34156661,18643736,15512925,74765
+Taiwan,2021-12-23,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34207789,18651286,15556503,82316
+Taiwan,2021-12-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34323445,18660339,15663106,94647
+Taiwan,2021-12-26,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34352780,18667883,15684897,97913
+Taiwan,2021-12-27,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34412193,18676061,15736132,105759
+Taiwan,2021-12-28,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34493865,18684915,15808950,116860
+Taiwan,2021-12-30,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34824423,18706490,16117933,151423
+Taiwan,2021-12-31,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34872136,18712858,16159278,158706
+Taiwan,2022-01-02,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34890100,18716801,16173299,161763
+Taiwan,2022-01-03,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34936462,18724023,16212439,169098
+Taiwan,2022-01-04,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,34993341,18732602,16260739,180662
+Taiwan,2022-01-05,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,35055472,18741943,16313529,194422
+Taiwan,2022-01-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,35147108,18751788,16395320,217245
+Taiwan,2022-01-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,35306926,18766646,16540280,274304
+Taiwan,2022-01-12,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,35538991,18812827,16726164,852096
+Taiwan,2022-01-14,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,35698752,18846087,16852665,1432500
+Taiwan,2022-01-16,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,37468756,18865900,16906379,1696477
+Taiwan,2022-01-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,37917556,18881397,16950016,2086143
+Taiwan,2022-01-18,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,38359182,18897143,16991717,2470322
+Taiwan,2022-01-19,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,38825635,18913497,17032790,2879348
+Taiwan,2022-01-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,39296381,18930412,17103848,3262121
+Taiwan,2022-01-21,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,39795263,18949968,17157687,3687608
+Taiwan,2022-01-23,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,40209215,18971987,17203039,4034189
+Taiwan,2022-01-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,40597586,18995846,17252125,4349615
+Taiwan,2022-01-25,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,40955834,19020549,17301857,4633428
+Taiwan,2022-01-26,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,41313585,19045429,17349229,4918927
+Taiwan,2022-01-27,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,41659662,19070001,17395522,5194139
+Taiwan,2022-01-28,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,41984449,19091332,17443080,5450037
+Taiwan,2022-02-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,42304177,19128417,17500885,5674875
+Taiwan,2022-02-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,42494576,19143317,17522132,5829127
+Taiwan,2022-02-08,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,42711112,19158088,17547825,6005199
+Taiwan,2022-02-09,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,42972945,19173592,17575605,6223748
+Taiwan,2022-02-10,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,43301507,19188185,17601632,6511690
+Taiwan,2022-02-11,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,43675231,19202240,17628144,6844847
+Taiwan,2022-02-13,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,43949438,19215321,17651385,7082732
+Taiwan,2022-02-14,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,44240634,19229131,17675305,7336198
+Taiwan,2022-02-15,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,44535618,19243196,17703242,7589180
+Taiwan,2022-02-16,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,44870859,19256314,17728325,7886220
+Taiwan,2022-02-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,45187411,19268236,17753956,8165219
+Taiwan,2022-02-18,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,45519126,19280344,17782531,8456251
+Taiwan,2022-02-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,45774604,19289517,17802516,8682571
+Taiwan,2022-02-21,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,45969148,19298010,17821014,8850124
+Taiwan,2022-02-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,46146010,19306415,17840967,8998628
+Taiwan,2022-02-23,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,46309072,19313791,17859720,9135561
+Taiwan,2022-02-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,46498444,19321620,17881661,9295163
+Taiwan,2022-02-25,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,46814037,19330531,17908348,9575158
+Taiwan,2022-02-28,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,47148570,19342050,17938722,9867798
+Taiwan,2022-03-01,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,47328210,19348245,17954500,10025465
+Taiwan,2022-03-02,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,47473704,19354205,17969812,10149687
+Taiwan,2022-03-03,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,47610594,19360394,17985375,10264825
+Taiwan,2022-03-04,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,47794860,19366499,18003704,10424657
+Taiwan,2022-03-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,47949019,19371559,18018937,10558523
+Taiwan,2022-03-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48068834,19375913,18031096,10661825
+Taiwan,2022-03-08,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48167394,19380656,18044157,10742581
+Taiwan,2022-03-09,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48256933,19384961,18056622,10815350
+Taiwan,2022-03-10,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48350253,19389727,18070980,10889546
+Taiwan,2022-03-11,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48470509,19395032,18087413,10988064
+Taiwan,2022-03-13,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48565707,19399436,18100969,11065302
+Taiwan,2022-03-14,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48650083,19404031,18114609,11131443
+Taiwan,2022-03-15,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48721653,19407962,18127189,11186502
+Taiwan,2022-03-16,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48781646,19411677,18139419,11230550
+Taiwan,2022-03-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48861874,19416858,18153902,11291114
+Taiwan,2022-03-18,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,48954969,19421373,18169396,11364200
+Taiwan,2022-03-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49025107,19425469,18182604,11417034
+Taiwan,2022-03-21,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49105829,19429241,18194291,11482297
+Taiwan,2022-03-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49167713,19432546,18205737,11529430
+Taiwan,2022-03-23,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49222626,19435784,18216589,11570253
+Taiwan,2022-03-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49257341,19438065,18223457,11595819
+Taiwan,2022-03-25,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49310076,19440522,18231357,11638197
+Taiwan,2022-03-27,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49351562,19442628,18238757,11670177
+Taiwan,2022-03-29,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49481298,19449353,18254357,11777588
+Taiwan,2022-03-30,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49542475,19452249,18263764,11826462
+Taiwan,2022-03-31,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49607595,19456216,18273476,11877903
+Taiwan,2022-04-01,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49707619,19460769,18284317,11962533
+Taiwan,2022-04-05,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49860865,19468679,18303023,12089163
+Taiwan,2022-04-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,49946136,19475279,18316625,12154232
+Taiwan,2022-04-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50037760,19482724,18330323,12224713
+Taiwan,2022-04-08,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50168924,19492297,18347930,12328697
+Taiwan,2022-04-10,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50286760,19501815,18363810,12421135
+Taiwan,2022-04-11,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50390458,19512462,18378613,12499383
+Taiwan,2022-04-12,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50484317,19521876,18392203,12570238
+Taiwan,2022-04-13,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50583977,19532520,18406481,12644976
+Taiwan,2022-04-14,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,50693438,19544597,18422830,12726011
+Taiwan,2022-04-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51063934,19575164,18463673,13025097
+Taiwan,2022-04-18,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51208459,19590254,18481163,13137042
+Taiwan,2022-04-19,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51324101,19602331,18495627,13226143
+Taiwan,2022-04-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51448391,19615722,18510983,13321686
+Taiwan,2022-04-21,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51590308,19631579,18528665,13430064
+Taiwan,2022-04-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51757881,19648569,18548358,13560954
+Taiwan,2022-04-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,51884722,19663569,18563770,13657383
+Taiwan,2022-04-25,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52007981,19679107,18578328,13750546
+Taiwan,2022-04-26,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52104727,19692380,18590793,13821554
+Taiwan,2022-04-27,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52207186,19707610,18604902,13894674
+Taiwan,2022-04-28,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52309491,19722265,18618888,13968338
+Taiwan,2022-04-29,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52430493,19737798,18634418,14058277
+Taiwan,2022-05-01,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52523178,19749743,18646470,14126965
+Taiwan,2022-05-02,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52597022,19761449,18656778,14178795
+Taiwan,2022-05-03,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52675933,19774629,18668059,14233245
+Taiwan,2022-05-04,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52804298,19793333,18685737,14325228
+Taiwan,2022-05-05,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,52904519,19809571,18699646,14395302
+Taiwan,2022-05-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53031302,19832764,18715881,14482657
+Taiwan,2022-05-08,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53132163,19848511,18729594,14554058
+Taiwan,2022-05-09,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53210223,19865219,18741504,14603500
+Taiwan,2022-05-10,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53284732,19884741,18752383,14647608
+Taiwan,2022-05-11,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53364771,19904865,18764672,14695234
+Taiwan,2022-05-12,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53444577,19930415,18776345,14737817
+Taiwan,2022-05-13,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53571370,19978334,18792077,14800959
+Taiwan,2022-05-15,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53660470,19999868,18805023,14855579
+Taiwan,2022-05-16,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53736131,20021131,18817584,14897416
+Taiwan,2022-05-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53814583,20050318,18828843,14935422
+Taiwan,2022-05-18,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53892813,20076887,18841185,14974741
+Taiwan,2022-05-19,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,53973940,20106678,18853763,15013499
+Taiwan,2022-05-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54083554,20148051,18869502,15066001
+Taiwan,2022-05-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54170932,20168183,18885717,15117032
+Taiwan,2022-05-23,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54238724,20183400,18900036,15155288
+Taiwan,2022-05-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54300283,20199700,18912720,15187863
+Taiwan,2022-05-25,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54393040,20241339,18927878,15223823
+Taiwan,2022-05-26,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54518176,20300674,18945642,15271860
+Taiwan,2022-05-27,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54667393,20383044,18963624,15320725
+Taiwan,2022-05-29,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54817813,20470666,18980392,15366755
+Taiwan,2022-05-30,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,54934541,20528763,18993785,15411993
+Taiwan,2022-05-31,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55072565,20608998,19006359,15457208
+Taiwan,2022-06-01,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55233124,20703963,19018172,15510989
+Taiwan,2022-06-02,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55454029,20818967,19034292,15600770
+Taiwan,2022-06-03,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55524585,20856827,19040882,15626876
+Taiwan,2022-06-05,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55608294,20908631,19049515,15650148
+Taiwan,2022-06-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55724988,20958720,19060956,15705312
+Taiwan,2022-06-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55829045,20998712,19070432,15759901
+Taiwan,2022-06-08,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,55939794,21045793,19079913,15814088
+Taiwan,2022-06-09,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56053322,21075930,19089893,15887499
+Taiwan,2022-06-10,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56217878,21102821,19103206,16011851
+Taiwan,2022-06-12,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56273409,21112470,19110497,16050442
+Taiwan,2022-06-13,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56346834,21119579,19119116,16108139
+Taiwan,2022-06-14,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56417613,21126070,19126298,16165245
+Taiwan,2022-06-15,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56501765,21131243,19133732,16236790
+Taiwan,2022-06-16,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56596591,21136609,19144697,16315285
+Taiwan,2022-06-17,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56748727,21143972,19160571,16444184
+Taiwan,2022-06-19,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56832106,21148511,19181545,16502050
+Taiwan,2022-06-20,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,56936435,21151115,19191422,16593898
+Taiwan,2022-06-21,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57034108,21153897,19201252,16678959
+Taiwan,2022-06-22,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57192072,21157763,19213983,16820326
+Taiwan,2022-06-23,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57339563,21160550,19226401,16952612
+Taiwan,2022-06-24,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57464849,21163845,19248465,17052539
+Taiwan,2022-06-26,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57554160,21167541,19271884,17114735
+Taiwan,2022-06-27,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57652381,21169733,19293086,17189562
+Taiwan,2022-06-28,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57744693,21172341,19324925,17247427
+Taiwan,2022-06-29,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57857021,21175625,19369247,17312149
+Taiwan,2022-06-30,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,57970591,21178300,19423800,17368491
+Taiwan,2022-07-01,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58075099,21183085,19476719,17415295
+Taiwan,2022-07-03,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58138741,21183411,19509591,17445739
+Taiwan,2022-07-04,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58215158,21185340,19550756,17479062
+Taiwan,2022-07-05,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58303126,21187479,19592892,17522755
+Taiwan,2022-07-06,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58386712,21190216,19634647,17561849
+Taiwan,2022-07-07,"Medigen, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58463820,21192349,19681220,17590251
+Taiwan,2022-07-10,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58609789,21197079,19754448,17658262
+Taiwan,2022-07-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58656119,21199516,19768368,17688235
+Taiwan,2022-07-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58700816,21201282,19780485,17719049
+Taiwan,2022-07-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58742452,21203217,19791228,17748007
+Taiwan,2022-07-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58782349,21205071,19802006,17775272
+Taiwan,2022-07-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58838093,,19816276,17812611
+Taiwan,2022-07-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58867766,21209099,19827559,17831108
+Taiwan,2022-07-18,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58903473,21210557,19834072,17858844
+Taiwan,2022-07-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58938763,21211766,19841210,17885787
+Taiwan,2022-07-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,58972465,21213100,19848946,17910419
+Taiwan,2022-07-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59017423,21215957,19855822,17945644
+Taiwan,2022-07-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59128572,21233320,19865335,18029917
+Taiwan,2022-07-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59216817,21262457,19874392,18079968
+Taiwan,2022-07-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59290207,21271416,19880190,18138601
+Taiwan,2022-07-26,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59366623,21278899,19886263,18201461
+Taiwan,2022-07-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59438027,21285371,19892929,18259727
+Taiwan,2022-07-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59517454,21293934,19898628,18324892
+Taiwan,2022-07-29,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59600890,21305125,19907129,18388636
+Taiwan,2022-07-31,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59654910,21316770,19915249,18422891
+Taiwan,2022-08-01,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59694260,21320752,19919919,18453589
+Taiwan,2022-08-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59731970,21324642,19925044,18482284
+Taiwan,2022-08-03,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59766737,21328226,19930646,18507865
+Taiwan,2022-08-04,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59800720,21332212,19935366,18533142
+Taiwan,2022-08-05,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59848300,21338555,19942658,18567087
+Taiwan,2022-08-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59882600,21345432,19949642,18587526
+Taiwan,2022-08-08,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59909475,21348460,19953337,18607678
+Taiwan,2022-08-09,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59938508,21351964,19957822,18628722
+Taiwan,2022-08-10,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,59969420,21356298,19963176,18649946
+Taiwan,2022-08-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60005237,21360715,19968014,18676508
+Taiwan,2022-08-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60049113,21367481,19975357,18706275
+Taiwan,2022-08-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60090559,21377890,19985276,18727393
+Taiwan,2022-08-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60122960,21383080,19991089,18748791
+Taiwan,2022-08-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60159311,21388795,19997436,18773080
+Taiwan,2022-08-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60196686,21393560,20004280,18798846
+Taiwan,2022-08-18,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60234519,21398441,20010401,18825677
+Taiwan,2022-08-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60288583,21407883,20020250,18860450
+Taiwan,2022-08-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60334133,21418252,20032508,18883373
+Taiwan,2022-08-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60370291,21423189,20038833,18908269
+Taiwan,2022-08-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60411038,21429907,20046743,18934388
+Taiwan,2022-08-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60453202,21436852,20055391,18960959
+Taiwan,2022-08-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60495075,21443466,20064146,18987463
+Taiwan,2022-08-26,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60551060,21453405,20077464,19020191
+Taiwan,2022-08-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60629448,21483203,20091187,19055058
+Taiwan,2022-08-29,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60669785,21494858,20097233,19077694
+Taiwan,2022-08-30,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60714144,21510270,20102075,19101799
+Taiwan,2022-08-31,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60757657,21522622,20108035,19127000
+Taiwan,2022-09-01,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60797230,21531302,20113633,19152295
+Taiwan,2022-09-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60849679,21545628,20123629,19180422
+Taiwan,2022-09-04,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60902242,21563968,20139963,19198311
+Taiwan,2022-09-05,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60941005,21570470,20145431,19225104
+Taiwan,2022-09-06,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,60983311,21579935,20152679,19250697
+Taiwan,2022-09-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61027668,21591386,20162650,19273632
+Taiwan,2022-09-08,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61091336,21603303,20175844,19312189
+Taiwan,2022-09-09,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61125704,21611878,20184541,19329285
+Taiwan,2022-09-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61142215,21616172,20189261,19336782
+Taiwan,2022-09-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61171988,21620684,20195515,19355789
+Taiwan,2022-09-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61203890,21627419,20201624,19374847
+Taiwan,2022-09-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61238283,21634247,20209338,19394698
+Taiwan,2022-09-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61267705,21639179,20214992,19413534
+Taiwan,2022-09-18,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61357890,21660063,20241055,19456772
+Taiwan,2022-09-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61384128,21663522,20246851,19473755
+Taiwan,2022-09-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61419479,21671127,20256310,19492042
+Taiwan,2022-09-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61448862,21676926,20263324,19508612
+Taiwan,2022-09-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61481295,21682465,20271900,19526930
+Taiwan,2022-09-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61531001,21691189,20288219,19551593
+Taiwan,2022-09-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61577308,21697959,20300584,19578765
+Taiwan,2022-09-26,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61616131,21700979,20306228,19608924
+Taiwan,2022-09-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61662566,21704867,20313023,19644676
+Taiwan,2022-09-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61701223,21709557,20322449,19669217
+Taiwan,2022-09-29,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61737802,21713782,20331089,19692931
+Taiwan,2022-09-30,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61787492,21721462,20345491,19720539
+Taiwan,2022-10-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61812708,21723088,20353651,19735969
+Taiwan,2022-10-03,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61856261,21724888,20357758,19773615
+Taiwan,2022-10-04,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61908113,21727103,20362996,19818014
+Taiwan,2022-10-05,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,61953854,21729720,20369221,19854913
+Taiwan,2022-10-06,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62000124,21731825,20374167,19894132
+Taiwan,2022-10-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62053752,21736781,20383219,19933752
+Taiwan,2022-10-10,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62117563,21738916,20397836,19980811
+Taiwan,2022-10-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62194169,21742337,20402287,20049545
+Taiwan,2022-10-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62326790,21746071,20410823,20169896
+Taiwan,2022-10-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62403740,21748790,20417627,20237323
+Taiwan,2022-10-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62489935,21752620,20426853,20310462
+Taiwan,2022-10-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62542646,21753946,20429777,20358923
+Taiwan,2022-10-18,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62608225,21755722,20433257,20419246
+Taiwan,2022-10-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62669203,21757549,20437676,20473978
+Taiwan,2022-10-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62729526,21759406,20441950,20528170
+Taiwan,2022-10-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62799084,21761873,20447829,20589382
+Taiwan,2022-10-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62864570,21764985,20454706,20644879
+Taiwan,2022-10-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62914423,21766376,20457486,20690561
+Taiwan,2022-10-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,62960928,21768111,20460939,20731878
+Taiwan,2022-10-26,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63007431,21769753,20464613,20773065
+Taiwan,2022-10-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63051601,21771181,20468085,20812335
+Taiwan,2022-10-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63106901,21773105,20472592,20861204
+Taiwan,2022-10-31,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63184581,21776330,20479784,20928467
+Taiwan,2022-11-01,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63215083,21777653,20482273,20955157
+Taiwan,2022-11-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63244586,21778856,20485211,20980519
+Taiwan,2022-11-03,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63276335,21780157,20488293,21007885
+Taiwan,2022-11-04,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63317297,21781694,20492466,21043137
+Taiwan,2022-11-06,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63352728,21783510,20497903,21071315
+Taiwan,2022-11-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63375232,21784347,20499947,21090938
+Taiwan,2022-11-08,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63400012,21785496,20502569,21111947
+Taiwan,2022-11-09,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63422580,21786623,20505461,21130496
+Taiwan,2022-11-10,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63446451,21787792,20508096,21150563
+Taiwan,2022-11-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63477310,21789335,20512039,21175936
+Taiwan,2022-11-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63504247,21791072,20516576,21196599
+Taiwan,2022-11-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63522862,21791883,20518446,21212533
+Taiwan,2022-11-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63540840,21793085,20520940,21226815
+Taiwan,2022-11-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63557810,21794226,20523734,21239850
+Taiwan,2022-11-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63574834,21795331,20526544,21252959
+Taiwan,2022-11-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63634855,21797932,20533851,21303072
+Taiwan,2022-11-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63680400,21799656,20537860,21342884
+Taiwan,2022-11-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63707274,21800547,20540433,21366294
+Taiwan,2022-11-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63733433,21801417,20542655,21389361
+Taiwan,2022-11-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63768461,21802750,20546190,21419521
+Taiwan,2022-11-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63790249,21803834,20549439,21436976
+Taiwan,2022-11-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63807009,21804468,20550919,21451622
+Taiwan,2022-11-29,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63828983,21805391,20553090,21470502
+Taiwan,2022-11-30,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63848597,21806429,20556008,21486160
+Taiwan,2022-12-01,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63871155,21807355,20558313,21505487
+Taiwan,2022-12-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63909544,21808550,20562014,21538980
+Taiwan,2022-12-03,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63930435,21809500,20565458,21555477
+Taiwan,2022-12-04,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63936813,21809758,20566394,21560661
+Taiwan,2022-12-05,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63957983,21810499,20568587,21578897
+Taiwan,2022-12-06,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,63972670,21811333,20570491,21590846
+Taiwan,2022-12-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64000960,21812256,20572845,21615859
+Taiwan,2022-12-08,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64028032,21813359,20575512,21639161
+Taiwan,2022-12-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64097818,21815630,20583784,21698404
+Taiwan,2022-12-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64120222,21816269,20585778,21718175
+Taiwan,2022-12-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64145609,21817083,20588047,21740479
+Taiwan,2022-12-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64177620,21817953,20590955,21768712
+Taiwan,2022-12-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64214517,21818844,20593759,21801914
+Taiwan,2022-12-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64330816,21821532,20603659,21905625
+Taiwan,2022-12-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64373324,21822480,20606259,21944585
+Taiwan,2022-12-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64414639,21823315,20608849,21982475
+Taiwan,2022-12-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64458051,21824367,20611795,22021889
+Taiwan,2022-12-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64544997,21826159,20618430,22100408
+Taiwan,2022-12-26,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64580572,21826989,20620518,22133065
+Taiwan,2022-12-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64623918,21827988,20622672,22173258
+Taiwan,2022-12-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64673049,21829015,20625461,22218573
+Taiwan,2022-12-29,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,64721772,21829864,20627469,22264439
+Taiwan,2023-01-31,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66514440,21854842,20691620,23967978
+Taiwan,2023-02-01,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66536109,21855524,20693318,23987267
+Taiwan,2023-02-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66557703,21856150,20695002,24006551
+Taiwan,2023-02-03,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66584309,21856841,20697039,24030429
+Taiwan,2023-02-05,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66607252,21857502,20698873,24050877
+Taiwan,2023-02-06,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66630773,21858042,20700401,24072330
+Taiwan,2023-02-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66654699,21858627,20702634,24093438
+Taiwan,2023-02-08,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66676951,21859305,20705041,24112605
+Taiwan,2023-02-09,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66698700,21859931,20707030,24131739
+Taiwan,2023-02-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66750218,21861234,20712065,24176919
+Taiwan,2023-02-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66770809,21861699,20713222,24195888
+Taiwan,2023-02-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66790483,21862258,20714968,24213257
+Taiwan,2023-02-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66809203,21862787,20716711,24229705
+Taiwan,2023-02-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66827970,21863364,20718269,24246337
+Taiwan,2023-02-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66854800,21864118,20720316,24270366
+Taiwan,2023-02-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66906349,21864860,20722142,24319347
+Taiwan,2023-02-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66929818,21865392,20723282,24341144
+Taiwan,2023-02-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66949542,21865836,20724665,24359041
+Taiwan,2023-02-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66971090,21866340,20726122,24378628
+Taiwan,2023-02-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,66993502,21866812,20727293,24399397
+Taiwan,2023-02-28,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67094500,21868978,20732707,24492815
+Taiwan,2023-03-01,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67120979,21869389,20733959,24517631
+Taiwan,2023-03-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67148173,21869836,20735011,24543326
+Taiwan,2023-03-05,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67209459,21870798,20738080,24600581
+Taiwan,2023-03-06,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67229873,21871177,20738903,24619793
+Taiwan,2023-03-07,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67257177,21871607,20739992,24645578
+Taiwan,2023-03-08,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67287907,21871968,20741195,24674744
+Taiwan,2023-03-09,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67316451,21872466,20742238,24701747
+Taiwan,2023-03-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67376758,21873542,20745363,24757853
+Taiwan,2023-03-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67395713,21873909,20746200,24775604
+Taiwan,2023-03-14,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67414466,21874267,20747333,24792866
+Taiwan,2023-03-15,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67432979,21874679,20748432,24809868
+Taiwan,2023-03-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67452329,21875104,20749350,24827875
+Taiwan,2023-03-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67498413,21876028,20751998,24870387
+Taiwan,2023-03-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67515458,21876348,20752722,24886388
+Taiwan,2023-03-21,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67529275,21876677,20753492,24899106
+Taiwan,2023-03-22,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67544747,21877036,20754342,24913369
+Taiwan,2023-03-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67557903,21877457,20755192,24925254
+Taiwan,2023-03-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67577192,21877888,20756187,24943117
+Taiwan,2023-04-10,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67758378,21881651,20764508,25112219
+Taiwan,2023-04-11,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67768331,21881925,20764954,25121452
+Taiwan,2023-04-12,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67780478,21882162,20765574,25132742
+Taiwan,2023-04-13,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67791921,21882373,20766229,25143319
+Taiwan,2023-04-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67820000,21882959,20767445,25169596
+Taiwan,2023-04-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67829706,21883186,20767869,25178651
+Taiwan,2023-04-18,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67838603,21883469,20768349,25186785
+Taiwan,2023-04-19,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67846849,21883695,20768895,25194259
+Taiwan,2023-04-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67855322,21883909,20769342,25202071
+Taiwan,2023-04-23,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67877189,21884382,20770472,25222335
+Taiwan,2023-04-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67883091,21884540,20770787,25227764
+Taiwan,2023-04-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67891564,21884800,20771190,25235574
+Taiwan,2023-04-26,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67903084,21885057,20771667,25246360
+Taiwan,2023-04-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,67913330,21885289,20772207,25255834
+Taiwan,2023-06-18,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68073932,21892580,20784351,25397001
+Taiwan,2023-06-25,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68086309,21893342,20785358,25407609
+Taiwan,2023-07-02,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68099073,21894263,20786650,25418160
+Taiwan,2023-07-09,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68108383,21894891,20787601,25425891
+Taiwan,2023-07-16,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68117402,21895519,20788620,25433263
+Taiwan,2023-08-20,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68144046,21897729,20791549,25454768
+Taiwan,2023-08-27,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68148341,21898175,20791992,25458174
+Taiwan,2023-09-03,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68151936,21898467,20792280,25461189
+Taiwan,2023-09-10,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68154294,21898668,20792544,25463082
+Taiwan,2023-09-17,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68156724,21898940,20792816,25464968
+Taiwan,2023-09-24,"Medigen, Moderna, Novavax, Oxford/AstraZeneca, Pfizer/BioNTech",https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og,68158988,21899240,20793089,25466659

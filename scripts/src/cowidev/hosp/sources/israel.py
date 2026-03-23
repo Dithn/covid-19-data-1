@@ -1,41 +1,54 @@
 import pandas as pd
-from datetime import date
-import numpy as np
+from cowidev.utils.web import request_json
+
+
+METADATA = {
+    "source_url": "https://datadashboardapi.health.gov.il/api/queries/hospitalizationStatus",
+    "source_url_ref": "https://datadashboard.health.gov.il/COVID-19/",
+    "source_name": "Ministry of Health",
+    "entity": "Israel",
+}
 
 
 def main():
-    print("Downloading Israel data…")
-    url = "https://datadashboardapi.health.gov.il/api/queries/patientsPerDate"
-    israel = pd.read_json(url)
-    israel.loc[:, "date"] = pd.to_datetime(israel["date"])
 
-    stock = israel[["date", "Counthospitalized", "CountCriticalStatus"]].copy()
-    stock.loc[:, "date"] = stock["date"].dt.date
-    stock.loc[stock["date"].astype(str) < "2020-08-17", "CountCriticalStatus"] = np.nan
-    stock = stock.melt("date", var_name="indicator")
+    data = request_json(METADATA["source_url"], verify=False)
+    df = pd.DataFrame.from_records(
+        data,
+        columns=["dayDate", "newHospitalized", "countHospitalized", "countBreathCum", "countCriticalStatus"],
+    ).rename(columns={"dayDate": "date"})
 
-    flow = israel[["date", "new_hospitalized", "serious_critical_new"]].copy()
-    flow.loc[:, "date"] = (flow["date"] + pd.to_timedelta(6 - flow["date"].dt.dayofweek, unit="d")).dt.date
-    flow = flow[flow["date"] <= date.today()]
-    flow = flow.groupby("date", as_index=False).agg(
-        {"new_hospitalized": ["sum", "count"], "serious_critical_new": "sum"}
+    df["date"] = df.date.str.slice(0, 10)
+
+    df = df.sort_values("date")
+
+    df.loc[df.date < "2020-09-01", "countCriticalStatus"] = pd.NA
+
+    df["newHospitalized"] = df.newHospitalized.rolling(7).sum()
+    df["icu_admissions"] = (df.countBreathCum - df.countBreathCum.shift()).rolling(7).sum()
+
+    df = (
+        df.drop(columns="countBreathCum")
+        .melt("date", var_name="indicator")
+        .dropna(subset=["value"])
+        .sort_values("date")
+        .head(-1)
     )
-    flow.columns = ["date", "new_hospitalized", "count", "serious_critical_new"]
-    flow = flow[flow["count"] == 7]
-    flow = flow.drop(columns="count").melt("date", var_name="indicator")
-
-    israel = pd.concat([stock, flow]).dropna(subset=["value"])
-    israel.loc[:, "indicator"] = israel["indicator"].replace(
+    df["indicator"] = df.indicator.replace(
         {
-            "Counthospitalized": "Daily hospital occupancy",
-            "CountCriticalStatus": "Daily ICU occupancy",
-            "new_hospitalized": "Weekly new hospital admissions",
-            "serious_critical_new": "Weekly new ICU admissions",
+            "countHospitalized": "Daily hospital occupancy",
+            "countCriticalStatus": "Daily ICU occupancy",
+            "icu_admissions": "Weekly new ICU admissions",
+            "newHospitalized": "Weekly new hospital admissions",
         }
     )
 
-    israel.loc[:, "entity"] = "Israel"
-    israel.loc[:, "iso_code"] = "ISR"
-    israel.loc[:, "population"] = 9291000
+    df["entity"] = METADATA["entity"]
 
-    return israel
+    df = df.sort_values(["date", "indicator"])
+
+    return df, METADATA
+
+
+if __name__ == "__main__":
+    main()

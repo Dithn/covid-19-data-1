@@ -40,16 +40,29 @@ internal_files_columns = {
         ],
         "dropna": "all",
     },
+    "stringency": {
+        "columns": [
+            "location",
+            "date",
+            "stringency_index",
+            "stringency_index_nonvac",
+            "stringency_index_vac",
+            "stringency_index_weighted_avg",
+        ],
+        "dropna": "all",
+    },
     "deaths": {
         "columns": [
             "continent",
             "location",
             "date",
             "total_deaths",
-            "new_deaths",
-            "new_deaths_smoothed",
             "total_deaths_per_million",
+            "total_deaths_last12m",
+            "total_deaths_last12m_per_million",
+            "new_deaths",
             "new_deaths_per_million",
+            "new_deaths_smoothed",
             "new_deaths_smoothed_per_million",
             "cfr",
             "cfr_short_term",
@@ -138,6 +151,28 @@ internal_files_columns = {
             "cumulative_estimated_daily_excess_deaths_per_100k",
             "cumulative_estimated_daily_excess_deaths_ci_95_top_per_100k",
             "cumulative_estimated_daily_excess_deaths_ci_95_bot_per_100k",
+            "estimated_daily_excess_deaths",
+            "estimated_daily_excess_deaths_ci_95_top",
+            "estimated_daily_excess_deaths_ci_95_bot",
+            "estimated_daily_excess_deaths_per_100k",
+            "estimated_daily_excess_deaths_ci_95_top_per_100k",
+            "estimated_daily_excess_deaths_ci_95_bot_per_100k",
+            # TODO https://github.com/owid/owid-issues/issues/553
+            "excess_mortality_cumulative_absolute_last12m",
+            "excess_mortality_cumulative_absolute_last12m_per_million",
+            "cumulative_estimated_daily_excess_deaths_last12m",
+            "cumulative_estimated_daily_excess_deaths_last12m_per_100k",
+            "cumulative_estimated_daily_excess_deaths_ci_95_top_last12m",
+            "cumulative_estimated_daily_excess_deaths_ci_95_top_last12m_per_100k",
+            "cumulative_estimated_daily_excess_deaths_ci_95_bot_last12m",
+            "cumulative_estimated_daily_excess_deaths_ci_95_bot_last12m_per_100k",
+            # Add confirmed deaths so we can plot them together in the Explorer
+            "total_deaths",
+            "total_deaths_per_million",
+            "total_deaths_last12m",
+            "total_deaths_last12m_per_million",
+            "new_deaths_smoothed",
+            "new_deaths_smoothed_per_million",
         ],
         "dropna": "all",
     },
@@ -190,7 +225,9 @@ internal_files_columns = {
 }
 
 
-def create_internal(df: pd.DataFrame, output_dir: str, annotations_path: str, country_data: str):
+def create_internal(
+    df: pd.DataFrame, output_dir: str, annotations_path: str, country_data: str, logger, categories_filter=None
+):
     # Ensure internal/ dir is created
     os.makedirs(output_dir, exist_ok=True)
 
@@ -199,7 +236,7 @@ def create_internal(df: pd.DataFrame, output_dir: str, annotations_path: str, co
     non_value_columns = ["iso_code", "continent", "location", "date", "population"]
 
     # Load annotations
-    annotator = AnnotatorInternal.from_yaml(annotations_path)
+    annotator = AnnotatorInternal.from_yaml(annotations_path, logger)
 
     # Copy df
     df = df.copy()
@@ -208,7 +245,7 @@ def create_internal(df: pd.DataFrame, output_dir: str, annotations_path: str, co
     annotator = add_annotations_countries_100_percentage(df, annotator)
     # Insert CFR column to avoid calculating it on the client, and enable
     # splitting up into cases & deaths columns.
-    df["cfr"] = (df["total_deaths"] * 100 / df["total_cases"]).round(3)
+    df["cfr"] = (df["total_deaths"] * 100 / df["total_cases"]).round(3).replace([np.inf, -np.inf], np.nan)
 
     # Insert short-term CFR
     cfr_day_shift = 10  # We compute number of deaths divided by number of cases `cfr_day_shift` days before.
@@ -220,15 +257,17 @@ def create_internal(df: pd.DataFrame, output_dir: str, annotations_path: str, co
     df.loc[
         (df.cfr_short_term < 0) | (df.cfr_short_term > 10) | (df.date.astype(str) < "2020-09-01"),
         "cfr_short_term",
-    ] = pd.NA
+    ] = np.nan
 
     # Add partly vaccinated
     df = df.pipe(add_partially_vaccinated, country_data)
     # Add total vaccinations without boosters
     df = df.pipe(add_total_vaccinations_no_boosters)
 
-    # Export
-    for name, config in internal_files_columns.items():
+    # Replace pd.NA with np.nan
+    df = df.replace({pd.NA: np.nan})
+
+    def _export_internal(output_dir, name, config, annotator):
         output_path = os.path.join(output_dir, f"megafile--{name}.json")
         value_columns = list(set(config["columns"]) - set(non_value_columns))
         df_output = df[config["columns"]]
@@ -237,6 +276,14 @@ def create_internal(df: pd.DataFrame, output_dir: str, annotations_path: str, co
         df_output = df_output.dropna(subset=value_columns, how=config["dropna"])
         df_output = annotator.add_annotations(df_output, name)
         df_to_columnar_json(df_output, output_path)
+
+    # Export
+    for name, config in internal_files_columns.items():
+        if categories_filter:
+            if name in categories_filter:
+                _export_internal(output_dir, name, config, annotator)
+        else:
+            _export_internal(output_dir, name, config, annotator)
 
 
 def add_partially_vaccinated(df: pd.DataFrame, country_data: str):
@@ -287,12 +334,13 @@ def fillna_boosters_till_valid(df):
 
 
 def df_to_columnar_json(complete_dataset, output_path):
-    """
-    Writes a columnar JSON version of the complete dataset.
+    """Writes a columnar JSON version of the complete dataset.
+
     NA values are dropped from the output.
 
     In columnar JSON, the table headers are keys, and the values are lists
     of all cells for a column.
+
     Example:
         {
             "iso_code": ["AFG", "AFG", ... ],

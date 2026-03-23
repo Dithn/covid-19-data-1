@@ -1,9 +1,14 @@
+import os
+
 import pandas as pd
 
-from cowidev.grapher.files import Grapheriser, Exploriser
+from cowidev import PATHS
+from cowidev.grapher.files import Exploriser, Grapheriser
 
-
-NUM_SEQUENCES_TOTAL_THRESHOLD = 30
+NUM_SEQUENCES_TOTAL_THRESHOLD = 100
+FILE_GRAPHER = os.path.join(PATHS.INTERNAL_GRAPHER_DIR, "COVID-19 - Variants.csv")
+FILE_SEQ_GRAPHER = os.path.join(PATHS.INTERNAL_GRAPHER_DIR, "COVID-19 - Sequencing.csv")
+FILE_EXPLORER = os.path.join(PATHS.DATA_INTERNAL_DIR, "megafile--variants.json")
 
 
 def filter_by_num_sequences(df: pd.DataFrame) -> pd.DataFrame:
@@ -19,23 +24,33 @@ def filter_by_num_sequences(df: pd.DataFrame) -> pd.DataFrame:
     return df[~msk]
 
 
-def run_grapheriser(input_path: str, output_path: str):
+def variant_url_frienldy_name(df: pd.DataFrame) -> pd.DataFrame:
+    def _slug(x):
+        return x.replace(" ", "_").replace(".", "_").replace("(", "").replace(")", "")
+
+    df.columns = [_slug(col) for col in df.columns]
+    return df
+
+
+def run_grapheriser():
+    # Variants
     Grapheriser(
         pivot_column="variant",
         pivot_values=["num_sequences", "perc_sequences"],
         fillna_0=True,
         function_input=filter_by_num_sequences,
         suffixes=["", "_percentage"],
-    ).run(input_path, output_path)
+    ).run(PATHS.INTERNAL_OUTPUT_VARIANTS_FILE, FILE_GRAPHER)
+    # Sequencing
+    Grapheriser(fillna_0=True, columns_non_fillna_0=["variant_dominant"]).run(
+        PATHS.INTERNAL_OUTPUT_VARIANTS_SEQ_FILE, FILE_SEQ_GRAPHER
+    )
 
 
-def run_explorerizer(input_path: str, output_path: str):
+def run_explorerizer():
     Exploriser(
         pivot_column="variant",
         pivot_values="perc_sequences",
         function_input=filter_by_num_sequences,
-    ).run(input_path, output_path)
-
-
-def run_db_updater(input_path: str):
-    raise NotImplementedError("Not yet implemented")
+        function_output=variant_url_frienldy_name,
+    ).run(PATHS.INTERNAL_OUTPUT_VARIANTS_FILE, FILE_EXPLORER)

@@ -1,20 +1,18 @@
 import os
 import pandas as pd
 
-from cowidev.utils.utils import get_project_dir
+from cowidev import PATHS
 
 
-INPUT_DIR = os.path.join(get_project_dir(), "scripts", "input")
-GRAPHER_DIR = os.path.join(get_project_dir(), "scripts", "grapher")
-DATA_DIR = os.path.join(get_project_dir(), "public", "data")
-VACCINATIONS_CSV = os.path.join(DATA_DIR, "vaccinations", "vaccinations.csv")
-TESTING_CSV = os.path.join(DATA_DIR, "testing", "covid-testing-all-observations.csv")
-CASES_CSV = os.path.join(DATA_DIR, "jhu", "total_cases.csv")
-DEATHS_CSV = os.path.join(DATA_DIR, "jhu", "total_deaths.csv")
-HOSP_CSV = os.path.join(GRAPHER_DIR, "COVID-2019 - Hospital & ICU.csv")
-REPR_CSV = "https://github.com/crondonm/TrackingR/raw/main/Estimates-Database/database.csv"
-POL_CSV = os.path.join(INPUT_DIR, "bsg", "latest.csv")
-CODEBOOK_CSV = os.path.join(DATA_DIR, "owid-covid-codebook.csv")
+INPUT_DIR = PATHS.INTERNAL_INPUT_DIR
+VACCINATIONS_CSV = PATHS.DATA_VAX_MAIN_FILE
+TESTING_CSV = PATHS.DATA_TEST_MAIN_FILE
+CASES_CSV = PATHS.DATA_CASES_FILE
+DEATHS_CSV = PATHS.DATA_DEATHS_FILE
+HOSP_CSV = os.path.join(PATHS.INTERNAL_GRAPHER_DIR, "COVID-2019 - Hospital & ICU.csv")
+REPR_CSV = "https://github.com/crondonm/TrackingR/raw/main/Estimates-Database/database_7.csv"
+POL_CSV = PATHS.INTERNAL_INPUT_BSG_FILE
+CODEBOOK_CSV = PATHS.DATA_CODEBOOK_FILE
 
 
 def get_excluded_locations():
@@ -44,7 +42,7 @@ def get_num_countries_by_location(csv_filepath, location_colname, low_memory=Tru
     return len(locations)
 
 
-def get_num_countries_jhu(csv_filepath):
+def get_num_countries_cases_deaths(csv_filepath):
     df = pd.read_csv(csv_filepath, low_memory=False)
     columns = df.columns
     return len(columns[~columns.isin(EXCLUDE_LOCATIONS)]) - 1
@@ -76,16 +74,43 @@ def load_macro_df():
 
 
 def get_variable_section():
-    template = """### {title}\n{table}"""
+    template = """### {title}\n{notes_top}\n{table}\n{notes}"""
     df = pd.read_csv(CODEBOOK_CSV).rename(columns={"description": "Description"})
+    df_notes = pd.read_csv(PATHS.INTERNAL_INPUT_OWID_COVID_NOTES_FILE, index_col="category")
     df = df.assign(Variable=df.column.apply(lambda x: f"`{x}`"))
     variable_description = []
     categories = list(filter(lambda x: x != "Others", sorted(df.category.unique()))) + ["Others"]
     for cat in categories:
         df_ = df[df.category == cat]
         table = df_[["Variable", "Description"]].to_markdown(index=False)
-        variable_description.append(template.format(title=cat, table=table))
+        notes = _generate_category_notes(df_notes, cat)
+        notes_top = _generate_category_notes_top(df_notes, cat)
+        variable_description.append(template.format(title=cat, table=table, notes=notes, notes_top=notes_top))
     return variable_description
+
+
+def _generate_category_notes(df_notes, category):
+    notes_pretty = "\n#### Notes:\n"
+    if category in df_notes.index:
+        notes = df_notes.loc[category, "notes"]
+        if not pd.isnull(notes):
+            if isinstance(notes, list):
+                for note in notes:
+                    notes_pretty += f"* {note}\n"
+            else:
+                notes_pretty += f"* {notes}\n"
+        else:
+            notes_pretty = ""
+        return notes_pretty
+    return ""
+
+
+def _generate_category_notes_top(df_notes, category):
+    if category in df_notes.index:
+        note_top = df_notes.loc[category, "notes_top"]
+        if not pd.isnull(note_top):
+            return note_top
+    return ""
 
 
 def get_placeholder():
@@ -94,8 +119,8 @@ def get_placeholder():
             csv_filepath=VACCINATIONS_CSV, iso_code_colname="iso_code"
         ),
         "num_countries_testing": get_num_countries_by_iso(csv_filepath=TESTING_CSV, iso_code_colname="ISO code"),
-        "num_countries_cases": get_num_countries_jhu(csv_filepath=CASES_CSV),
-        "num_countries_deaths": get_num_countries_jhu(csv_filepath=DEATHS_CSV),
+        "num_countries_cases": "219",  # get_num_countries_cases_deaths(csv_filepath=CASES_CSV),
+        "num_countries_deaths": "219",  # get_num_countries_cases_deaths(csv_filepath=DEATHS_CSV),
         "num_countries_hospital": get_num_countries_by_location(csv_filepath=HOSP_CSV, location_colname="Country"),
         "num_countries_reproduction": get_num_countries_by_location(
             csv_filepath=REPR_CSV, location_colname="Country/Region"

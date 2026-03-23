@@ -1,16 +1,20 @@
+import os
 from datetime import datetime
 
 import pandas as pd
 
-import cowidev.megafile.generate
-from cowidev.grapher.db.base import GrapherBaseUpdater
-from cowidev.utils.utils import time_str_grapher, get_filename, export_timestamp
+from cowidev import PATHS
 from cowidev.utils.clean.dates import DATE_FORMAT
+from cowidev.utils.log import get_logger
+from cowidev.utils.utils import export_timestamp
 
 ZERO_DAY = "2020-01-21"
 zero_day = datetime.strptime(ZERO_DAY, DATE_FORMAT)
 
 URL_VACCINE = "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/master/data/OxCGRT_vaccines_full.csv"
+DATA_HOSP_GRAPHER_FILE = os.path.join(PATHS.INTERNAL_GRAPHER_DIR, "COVID-2019 - Hospital & ICU.csv")
+
+logger = get_logger()
 
 
 def _owid_format(df):
@@ -35,25 +39,9 @@ def _date_to_owid_year(df):
     return df
 
 
-def run_grapheriser(input_path: str, output_path: str):
-    df = pd.read_csv(input_path)
+def run_grapheriser():
+    df = pd.read_csv(PATHS.DATA_HOSP_MAIN_FILE)
     df = df.pipe(_owid_format).pipe(_date_to_owid_year)
     df = df.drop_duplicates(keep=False, subset=["Country", "Year"])
-    df.to_csv(output_path, index=False)
-    export_timestamp("owid-covid-data-last-updated-timestamp-hosp.txt")
-
-    print("Generating megafile…")
-    cowidev.megafile.generate.generate_megafile()
-
-
-def run_db_updater(input_path: str):
-    dataset_name = get_filename(input_path)
-    GrapherBaseUpdater(
-        dataset_name=dataset_name,
-        source_name=(
-            "European CDC for EU countries, government sources for other countries – Last updated"
-            f" {time_str_grapher()} (London time)"
-        ),
-        zero_day=ZERO_DAY,
-        slack_notifications=True,
-    ).run()
+    df.to_csv(DATA_HOSP_GRAPHER_FILE, index=False)
+    export_timestamp(PATHS.DATA_TIMESTAMP_HOSP_FILE)

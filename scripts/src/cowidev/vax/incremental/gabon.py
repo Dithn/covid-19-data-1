@@ -9,10 +9,9 @@ from cowidev.vax.utils.incremental import increment, enrich_data
 
 
 class Gabon:
-    def __init__(self, source_url: str, location: str):
-        self.source_url = source_url
-        self.location = location
-        self.regex = {"date": r"(\d{1,2}-\d{1,2}-202\d) \d{1,2}:\d{1,2}:\d{1,2}"}
+    source_url = "https://monitoring-covid19gabon.ga/"
+    location = "Gabon"
+    regex = {"date": r"(\d{1,2}-\d{1,2}-202\d) \d{1,2}:\d{1,2}:\d{1,2}"}
 
     def read(self) -> pd.DataFrame:
         soup = get_soup(self.source_url)
@@ -60,7 +59,7 @@ class Gabon:
             .pipe(self.pipe_source)
         )
 
-    def to_csv(self):
+    def export(self):
         """Generalized."""
         ds = self.read().pipe(self.pipeline)
         increment(
@@ -75,11 +74,4 @@ class Gabon:
 
 
 def main():
-    Gabon(
-        source_url="https://monitoring-covid19gabon.ga/",
-        location="Gabon",
-    ).to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Gabon().export()

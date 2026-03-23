@@ -1,6 +1,11 @@
 include *.md
 include requirements.txt
 include requirements-flake.txt
+include src/cowidev/vax/utils/orgs/*.yaml
+include src/cowidev/vax/utils/orgs/*.csv
+include src/cowidev/vax/_static/*/*
+include src/cowidev/testing/utils/orgs/*.yaml
+include src/cowidev/testing/utils/orgs/*.csv
 
-recursive-include altair *.py *.json *.ipynb *.html
+recursive-include altair *.py *.json *.ipynb *.html *.yaml
 global-exclude *.py[co] __pycache__

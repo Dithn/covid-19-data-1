@@ -1,0 +1,540 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+South Africa,2021-02-16,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1361979084671250436,0,0,0,
+South Africa,2021-02-18,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1362510569631346688,2260,2260,2260,
+South Africa,2021-02-19,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1362851290758397958,6524,6524,6524,
+South Africa,2021-02-20,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1363219317958008836,10414,10414,10414,
+South Africa,2021-02-21,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1363584633775001601,15388,15388,15388,
+South Africa,2021-02-22,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1363951125582516225,23059,23059,23059,
+South Africa,2021-02-23,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1364313341078945801,32315,32315,32315,
+South Africa,2021-02-24,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1364670956501934081,41809,41809,41809,
+South Africa,2021-02-25,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1365047170328633347,52647,52647,52647,
+South Africa,2021-02-26,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1365388112503930888,63648,63648,63648,
+South Africa,2021-02-27,Johnson&Johnson,https://twitter.com/DrZweliMkhize/status/1365747933648404484,67303,67303,67303,
+South Africa,2021-02-28,Johnson&Johnson,https://sacoronavirus.co.za/,70527,70527,70527,
+South Africa,2021-03-01,Johnson&Johnson,https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-1-mar-2021/,73047,73047,73047,
+South Africa,2021-03-02,Johnson&Johnson,https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-2-mar-2021/,76037,76037,76037,
+South Africa,2021-03-03,Johnson&Johnson,https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-3-mar-2021/,83570,83570,83570,
+South Africa,2021-03-04,Johnson&Johnson,https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-4-mar-2021/,92029,92029,92029,
+South Africa,2021-03-05,Johnson&Johnson,https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-5-mar-2021/,100180,100180,100180,
+South Africa,2021-03-06,Johnson&Johnson,https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-6-mar-2021/,101573,101573,101573,
+South Africa,2021-03-08,Johnson&Johnson,https://sacoronavirus.co.za/,101841,101841,101841,
+South Africa,2021-03-09,Johnson&Johnson,https://sacoronavirus.co.za/,107054,107054,107054,
+South Africa,2021-03-10,Johnson&Johnson,https://sacoronavirus.co.za/,128887,128887,128887,
+South Africa,2021-03-11,Johnson&Johnson,https://sacoronavirus.co.za/,138014,138014,138014,
+South Africa,2021-03-12,Johnson&Johnson,https://sacoronavirus.co.za/,145215,145215,145215,
+South Africa,2021-03-13,Johnson&Johnson,https://sacoronavirus.co.za/,145544,145544,145544,
+South Africa,2021-03-15,Johnson&Johnson,https://sacoronavirus.co.za/,147753,147753,147753,
+South Africa,2021-03-16,Johnson&Johnson,https://sacoronavirus.co.za/,157286,157286,157286,
+South Africa,2021-03-17,Johnson&Johnson,https://sacoronavirus.co.za/,168413,168413,168413,
+South Africa,2021-03-18,Johnson&Johnson,https://sacoronavirus.co.za/,177275,177275,177275,
+South Africa,2021-03-19,Johnson&Johnson,https://sacoronavirus.co.za/,182983,182983,182983,
+South Africa,2021-03-23,Johnson&Johnson,https://sacoronavirus.co.za/,194257,194257,194257,
+South Africa,2021-03-24,Johnson&Johnson,https://sacoronavirus.co.za/,207808,207808,207808,
+South Africa,2021-03-25,Johnson&Johnson,https://sacoronavirus.co.za/,220129,220129,220129,
+South Africa,2021-03-26,Johnson&Johnson,https://sacoronavirus.co.za/,231002,231002,231002,
+South Africa,2021-03-27,Johnson&Johnson,https://sacoronavirus.co.za/,231605,231605,231605,
+South Africa,2021-03-29,Johnson&Johnson,https://sacoronavirus.co.za/,239665,239665,239665,
+South Africa,2021-03-30,Johnson&Johnson,https://sacoronavirus.co.za/,251707,251707,251707,
+South Africa,2021-03-31,Johnson&Johnson,https://sacoronavirus.co.za/,263878,263878,263878,
+South Africa,2021-04-01,Johnson&Johnson,https://sacoronavirus.co.za/,269102,269102,269102,
+South Africa,2021-04-06,Johnson&Johnson,https://sacoronavirus.co.za/,272438,272438,272438,
+South Africa,2021-04-07,Johnson&Johnson,https://sacoronavirus.co.za/,278909,278909,278909,
+South Africa,2021-04-08,Johnson&Johnson,https://sacoronavirus.co.za/,283629,283629,283629,
+South Africa,2021-04-09,Johnson&Johnson,https://sacoronavirus.co.za/,288368,288368,288368,
+South Africa,2021-04-10,Johnson&Johnson,https://sacoronavirus.co.za/,288406,288406,288406,
+South Africa,2021-04-12,Johnson&Johnson,https://sacoronavirus.co.za/,289787,289787,289787,
+South Africa,2021-04-13,Johnson&Johnson,https://sacoronavirus.co.za/,292623,292623,292623,
+South Africa,2021-04-28,Johnson&Johnson,https://sacoronavirus.co.za/,298153,298153,298153,
+South Africa,2021-04-29,Johnson&Johnson,https://sacoronavirus.co.za/,307591,307591,307591,
+South Africa,2021-04-30,Johnson&Johnson,https://sacoronavirus.co.za/,317656,317656,317656,
+South Africa,2021-05-01,Johnson&Johnson,https://sacoronavirus.co.za/,318670,318670,318670,
+South Africa,2021-05-03,Johnson&Johnson,https://sacoronavirus.co.za/,329098,329098,329098,
+South Africa,2021-05-04,Johnson&Johnson,https://sacoronavirus.co.za/,353181,353181,353181,
+South Africa,2021-05-05,Johnson&Johnson,https://sacoronavirus.co.za/,366101,366101,366101,
+South Africa,2021-05-07,Johnson&Johnson,https://sacoronavirus.co.za/,381171,381171,381171,
+South Africa,2021-05-08,Johnson&Johnson,https://sacoronavirus.co.za/,382480,382480,382480,
+South Africa,2021-05-10,Johnson&Johnson,https://sacoronavirus.co.za/,395230,395230,395230,
+South Africa,2021-05-11,Johnson&Johnson,https://sacoronavirus.co.za/,414372,414372,414372,
+South Africa,2021-05-12,Johnson&Johnson,https://sacoronavirus.co.za/,430730,430730,430730,
+South Africa,2021-05-13,Johnson&Johnson,https://sacoronavirus.co.za/,455169,455169,455169,
+South Africa,2021-05-14,Johnson&Johnson,https://sacoronavirus.co.za/,474318,474318,474318,
+South Africa,2021-05-15,Johnson&Johnson,https://sacoronavirus.co.za/,478452,478452,478452,
+South Africa,2021-05-16,Johnson&Johnson,https://sacoronavirus.co.za/,478733,478733,478733,
+South Africa,2021-05-18,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-18-may-2021/,519139,519139,479768,
+South Africa,2021-05-19,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-19-may-2021/,558170,558170,,
+South Africa,2021-05-20,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-20-may-2021/,597406,597406,,
+South Africa,2021-05-21,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-21-may-2021/,642382,642382,,
+South Africa,2021-05-22,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-23-may-2021/,647983,647983,,
+South Africa,2021-05-23,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-24-may-2021/,651628,651628,,
+South Africa,2021-05-24,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-25-may-2021/,700904,700904,,
+South Africa,2021-05-25,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-26-may-2021/,761903,761903,,
+South Africa,2021-05-26,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-27-may-2021/,828204,828204,,
+South Africa,2021-05-27,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-28-may-2021/,898955,898955,,
+South Africa,2021-05-28,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-29-may-2021/,963876,963876,,
+South Africa,2021-05-29,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-30-may-2021/,968319,968319,,
+South Africa,2021-05-30,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-31-may-2021/,970448,970448,,
+South Africa,2021-05-31,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-1-june-2021/,1045104,1045104,,
+South Africa,2021-06-01,"Johnson&Johnson, Pfizer/BioNTech",https://www.nicd.ac.za/latest-confirmed-cases-of-covid-19-in-south-africa-2-june-2021/,1117569,1117569,,
+South Africa,2021-06-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1193352,1193352,,
+South Africa,2021-06-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1266893,1266893,,
+South Africa,2021-06-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1336547,1336547,,
+South Africa,2021-06-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1343433,1343433,,
+South Africa,2021-06-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1350245,1350245,,
+South Africa,2021-06-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1433730,1433730,,
+South Africa,2021-06-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1525271,1525271,,
+South Africa,2021-06-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1619011,1619011,,
+South Africa,2021-06-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1690026,1690026,,
+South Africa,2021-06-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1767415,1767415,,
+South Africa,2021-06-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1773417,1773417,,
+South Africa,2021-06-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1777288,1777288,,
+South Africa,2021-06-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1871987,1871987,,
+South Africa,2021-06-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1965812,1965812,,
+South Africa,2021-06-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,1974099,1974099,,
+South Africa,2021-06-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2069346,2069346,,
+South Africa,2021-06-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2137071,2137071,,
+South Africa,2021-06-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2141624,2141624,,
+South Africa,2021-06-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2229242,2229242,,
+South Africa,2021-06-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2550248,2550248,,
+South Africa,2021-06-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2661378,2661378,,
+South Africa,2021-06-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2682710,2682710,,
+South Africa,2021-06-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2779912,2779912,,
+South Africa,2021-06-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2787996,2787996,,
+South Africa,2021-06-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,2900666,2900666,,
+South Africa,2021-06-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,3026636,3026636,,
+South Africa,2021-07-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,3155717,3155717,,
+South Africa,2021-07-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,3307588,3307588,,
+South Africa,2021-07-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,3314278,3314278,,
+South Africa,2021-07-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,3466228,3466228,,
+South Africa,2021-07-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,3631102,3631102,,
+South Africa,2021-07-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,4017442,3639039,1253978,
+South Africa,2021-07-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,4203293,3756282,1344690,
+South Africa,2021-07-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,4236718,3783990,1355743,
+South Africa,2021-07-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,4390891,3887113,1399497,
+South Africa,2021-07-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,4535222,3995020,1459950,
+South Africa,2021-07-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,5046267,4335517,1674152,
+South Africa,2021-07-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,5095013,4376024,1688514,
+South Africa,2021-07-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,5328110,4533966,1786939,
+South Africa,2021-07-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,6085108,5045795,2154922,
+South Africa,2021-07-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,6308201,5202583,2274267,
+South Africa,2021-07-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,6384382,5266979,2311559,
+South Africa,2021-07-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/2021/07/26/update-on-covid-19-monday-26-july-2021/,6613704,,,
+South Africa,2021-07-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,6854667,5580927,2580001,
+South Africa,2021-07-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,7297912,5921627,2835930,
+South Africa,2021-08-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,7550367,,,
+South Africa,2021-08-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,7567757,6123925,2982952,
+South Africa,2021-08-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,7981822,6403808,3212974,
+South Africa,2021-08-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,8182380,6546410,3327950,
+South Africa,2021-08-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,8602124,6866089,3576698,
+South Africa,2021-08-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,8811608,6995459,3719508,
+South Africa,2021-08-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,9185756,7249045,3958231,
+South Africa,2021-08-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,9387129,7389049,4082852,
+South Africa,2021-08-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,9557542,7486036,4197442,
+South Africa,2021-08-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,9962111,7702298,4482893,
+South Africa,2021-08-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,10167749,7808653,4629371,
+South Africa,2021-08-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,10431124,7986245,4782071,
+South Africa,2021-08-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,10479363,8017522,4832763,
+South Africa,2021-08-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,10790501,8240067,4983911,
+South Africa,2021-08-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,11076106,8439579,5141248,
+South Africa,2021-08-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,11924972,9026420,5601878,
+South Africa,2021-08-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,12289478,9253007,5818291,
+South Africa,2021-08-31,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,12568525,9418185,5985293,
+South Africa,2021-09-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,12841537,9581161,6145216,
+South Africa,2021-09-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,13112268,9741655,6301758,
+South Africa,2021-09-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,13454823,9961650,6492469,
+South Africa,2021-09-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,13892301,10218230,6751662,
+South Africa,2021-09-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,14126008,10359652,6888163,
+South Africa,2021-09-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,14610572,10664881,7153911,
+South Africa,2021-09-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,14670161,10707263,7187179,
+South Africa,2021-09-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,14690586,10720370,7199405,
+South Africa,2021-09-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,14922954,10860642,7330517,
+South Africa,2021-09-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,15188787,11034034,7473903,
+South Africa,2021-09-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,15447034,11206776,7609183,
+South Africa,2021-09-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,15683797,11367049,7734069,
+South Africa,2021-09-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,15992374,11579000,7911171,
+South Africa,2021-09-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,16358076,11848402,8108520,
+South Africa,2021-09-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,16560718,11987011,8228296,
+South Africa,2021-09-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,16755133,12115821,8344762,
+South Africa,2021-09-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,16781838,12136460,8362232,
+South Africa,2021-09-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,16827790,12167828,8391620,
+South Africa,2021-09-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,16999722,12268498,8501712,
+South Africa,2021-09-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,17505358,12593276,8819130,
+South Africa,2021-10-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,17875187,12840302,9075189,
+South Africa,2021-10-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,18285920,13063132,9364725,
+South Africa,2021-10-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,18510943,13182547,9526247,
+South Africa,2021-10-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,18735127,13302682,9686443,
+South Africa,2021-10-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,19041535,13466577,9911989,
+South Africa,2021-10-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,19679751,13907243,10218549,
+South Africa,2021-10-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,19899964,13929429,10539458,
+South Africa,2021-10-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,20200231,14097921,10759755,
+South Africa,2021-10-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,20580832,14313392,11036024,
+South Africa,2021-10-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,21300098,14742868,11546163,
+South Africa,2021-10-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,21514033,14864813,11697646,
+South Africa,2021-10-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,22363310,15314788,12305320,
+South Africa,2021-10-31,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,22381951,15329097,12317435,
+South Africa,2021-11-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,22632920,15440005,12537511,
+South Africa,2021-11-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,22799682,15562387,12620892,
+South Africa,2021-11-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,22965123,15655530,12737700,
+South Africa,2021-11-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23095893,15770712,12803590,
+South Africa,2021-11-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23151823,15779126,12810692,
+South Africa,2021-11-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23264992,15840842,12934946,
+South Africa,2021-11-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23402284,15917833,13030588,
+South Africa,2021-11-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23540547,15995893,13124865,
+South Africa,2021-11-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23832368,16166105,13324316,
+South Africa,2021-11-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23911466,16220848,13375972,
+South Africa,2021-11-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,23950945,16252396,13402141,
+South Africa,2021-11-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24082675,16327413,13492174,
+South Africa,2021-11-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24216602,16404841,13583910,
+South Africa,2021-11-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24346905,16479699,13673027,
+South Africa,2021-11-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24471210,16550176,13758743,
+South Africa,2021-11-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24630804,16640017,13869342,
+South Africa,2021-11-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24646053,16652562,13876443,
+South Africa,2021-11-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24754316,16712749,13949705,
+South Africa,2021-11-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,24874528,16781364,14031159,
+South Africa,2021-11-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,25002232,16857214,14115744,
+South Africa,2021-11-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,25238789,16994112,14267533,
+South Africa,2021-11-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,25274889,17018870,14288326,
+South Africa,2021-11-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,25448767,17139535,14384276,
+South Africa,2021-11-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,25619891,17260202,14475754,
+South Africa,2021-12-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,25782259,17376900,14561395,
+South Africa,2021-12-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,26109436,17660930,14815845,
+South Africa,2021-12-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,26324383,17820083,14934457,
+South Africa,2021-12-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,26348830,17840592,14948436,
+South Africa,2021-12-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,26490416,17944783,15023858,
+South Africa,2021-12-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,26639293,18053081,15104933,
+South Africa,2021-12-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,26781642,18157324,15182986,
+South Africa,2021-12-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27043034,18344024,15330635,
+South Africa,2021-12-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27090975,18379697,15357823,
+South Africa,2021-12-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27188606,18452800,15410168,
+South Africa,2021-12-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27298525,18530650,15473473,
+South Africa,2021-12-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27400778,18600540,15532710,
+South Africa,2021-12-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27489267,18657599,15584899,
+South Africa,2021-12-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27513878,18674488,15599136,
+South Africa,2021-12-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27661593,18768087,15684338,
+South Africa,2021-12-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27792388,18844628,15763189,
+South Africa,2021-12-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27794896,18846402,15764673,
+South Africa,2021-12-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27798057,18848374,15766591,
+South Africa,2021-12-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27850779,18874881,15801609,
+South Africa,2021-12-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27903338,18905708,15833594,
+South Africa,2022-01-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27966664,18943212,15871913,
+South Africa,2022-01-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,27967541,18944167,15872469,
+South Africa,2022-01-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28022126,18979366,15904347,
+South Africa,2022-01-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28153104,19065094,15978622,
+South Africa,2022-01-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28296823,19157785,16060329,
+South Africa,2022-01-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28317883,19171775,16072851,
+South Africa,2022-01-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28514757,,,
+South Africa,2022-01-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28617042,,,
+South Africa,2022-01-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28706020,,,
+South Africa,2022-01-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28794410,,,
+South Africa,2022-01-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28884710,,,
+South Africa,2022-01-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28906789,,,
+South Africa,2022-01-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28911169,,,
+South Africa,2022-01-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,28999088,19220274,16166163,405959
+South Africa,2022-01-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29084973,19257383,16213145,422407
+South Africa,2022-01-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29169144,19293345,16259453,439457
+South Africa,2022-01-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29251262,19328210,16303929,456410
+South Africa,2022-01-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29339383,19363834,16351861,474596
+South Africa,2022-01-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29363052,19373583,16365725,478454
+South Africa,2022-01-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29452653,19412803,16413113,498162
+South Africa,2022-01-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29626329,19488784,16501024,537449
+South Africa,2022-01-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29702542,19526619,16534632,556205
+South Africa,2022-01-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29784202,19563985,16574467,574247
+South Africa,2022-01-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29812348,19577079,16590076,579009
+South Africa,2022-01-31,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,29884699,19611652,16625575,594479
+South Africa,2022-02-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30031893,19682367,16693235,628986
+South Africa,2022-02-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30101146,19716641,16723246,646466
+South Africa,2022-02-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30189744,19758807,16762998,667444
+South Africa,2022-02-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30397805,19865842,16846623,723602
+South Africa,2022-02-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30540615,19941021,16901809,760771
+South Africa,2022-02-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30555190,19946944,16907701,764447
+South Africa,2022-02-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30570386,19958082,16917849,766629
+South Africa,2022-02-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30627415,19982433,16935309,785483
+South Africa,2022-02-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30779273,20053450,16992726,831872
+South Africa,2022-02-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30858874,20092237,17022026,855139
+South Africa,2022-02-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30959837,20138111,17064887,882651
+South Africa,2022-02-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,30964954,20139964,17067077,884447
+South Africa,2022-02-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,31123187,20210659,17129212,932096
+South Africa,2022-02-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,31217929,20249900,17162477,966165
+South Africa,2022-02-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,31404302,20322017,17229080,1035596
+South Africa,2022-02-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,31439128,20336132,17245407,1048137
+South Africa,2022-03-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,31652555,20396606,17301807,1162202
+South Africa,2022-03-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,31989917,20493423,17387125,1342654
+South Africa,2022-03-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32019752,20499960,17396062,1359275
+South Africa,2022-03-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32027166,20501676,17398184,1363737
+South Africa,2022-03-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32126152,20529787,17423434,1417569
+South Africa,2022-03-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32225496,20558264,17448183,1471593
+South Africa,2022-03-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32322691,20585989,17472851,1524310
+South Africa,2022-03-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32517834,20642570,17522887,1628556
+South Africa,2022-03-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32540997,20647974,17529312,1641525
+South Africa,2022-03-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32548342,20650525,17531396,1644959
+South Africa,2022-03-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32630886,20674733,17553465,1688214
+South Africa,2022-03-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32722417,20701915,17577118,1736027
+South Africa,2022-03-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32817492,20729866,17602956,1784871
+South Africa,2022-03-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32903329,20753252,17628065,1829060
+South Africa,2022-03-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,32987853,20772989,17654789,1873640
+South Africa,2022-03-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33008136,20777048,17660887,1885226
+South Africa,2022-03-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33014381,20778875,17662694,1888503
+South Africa,2022-03-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33023123,20781379,17665311,1892943
+South Africa,2022-03-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33105213,20802093,17694103,1933115
+South Africa,2022-03-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33201427,20826204,17727718,1980212
+South Africa,2022-03-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33296217,20849944,17762272,2025294
+South Africa,2022-03-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33379248,20868945,17793692,2064966
+South Africa,2022-03-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33405701,20875084,17802789,2078695
+South Africa,2022-03-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33485691,20894155,17833534,2116328
+South Africa,2022-03-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33569841,20913645,17865218,2157554
+South Africa,2022-03-31,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33656772,20934382,17898249,2199299
+South Africa,2022-04-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33738165,20954169,17929482,2238006
+South Africa,2022-04-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33821204,20973752,17960728,2277971
+South Africa,2022-04-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33875176,20987044,17981695,2302998
+South Africa,2022-04-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33931060,21001488,18000778,2331516
+South Africa,2022-04-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,33991918,21017169,18021801,2361872
+South Africa,2022-04-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34054426,21035635,18043782,2390484
+South Africa,2022-04-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34118324,21054387,18066728,2419211
+South Africa,2022-04-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34139709,21060350,18074455,2429478
+South Africa,2022-04-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34146981,21062995,18077058,2432669
+South Africa,2022-04-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34195988,21079205,18095166,2452928
+South Africa,2022-04-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34253459,21097500,18116074,2477161
+South Africa,2022-04-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34309973,21115282,18136746,2501087
+South Africa,2022-04-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34350797,21127625,18151340,2519105
+South Africa,2022-04-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34362003,21130966,18155537,2524058
+South Africa,2022-04-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34366442,21132296,18157162,2526097
+South Africa,2022-04-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34413466,21147587,18175011,2545438
+South Africa,2022-04-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34469342,21166254,18196475,2566971
+South Africa,2022-04-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34526599,21185860,18218678,2588689
+South Africa,2022-04-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34596427,21209463,18243562,2616916
+South Africa,2022-04-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34600601,21211199,18244961,2618589
+South Africa,2022-04-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34659733,21231368,18267341,2641455
+South Africa,2022-04-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34726984,21252895,18291966,2669435
+South Africa,2022-04-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34739327,21257362,18296163,2674528
+South Africa,2022-04-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34806757,21279854,18319838,2702753
+South Africa,2022-04-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34864969,21298735,18339920,2727831
+South Africa,2022-05-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34877539,21302363,18344181,2733750
+South Africa,2022-05-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34881319,21303491,18345493,2735589
+South Africa,2022-05-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34887157,21305271,18347677,2738123
+South Africa,2022-05-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34941461,21323742,18367289,2760393
+South Africa,2022-05-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,34999285,21343519,18387993,2783890
+South Africa,2022-05-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35058457,21364436,18408410,2808108
+South Africa,2022-05-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35112052,21383128,18426826,2830291
+South Africa,2022-05-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35124794,21387271,18430998,2836165
+South Africa,2022-05-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35128412,21388927,18432285,2837367
+South Africa,2022-05-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35182056,21408366,18451136,2858722
+South Africa,2022-05-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35243240,21430421,18472807,2882655
+South Africa,2022-05-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35307618,21454556,18495192,2907045
+South Africa,2022-05-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35370563,21477273,18517880,2931554
+South Africa,2022-05-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35425251,21497152,18536811,2953350
+South Africa,2022-05-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35436933,21500938,18540730,2958541
+South Africa,2022-05-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35441399,21502593,18542344,2960412
+South Africa,2022-05-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35494610,21521824,18562145,2980670
+South Africa,2022-05-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35556934,21544408,18584665,3004285
+South Africa,2022-05-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35617595,21567977,18605593,3026816
+South Africa,2022-05-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35679922,21591879,18628194,3049134
+South Africa,2022-05-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35731661,21611749,18646326,3068186
+South Africa,2022-05-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35740663,21614937,18649455,3071718
+South Africa,2022-05-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35744528,21616425,18650863,3073130
+South Africa,2022-05-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35794074,21636221,18668965,3090174
+South Africa,2022-05-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35849352,21658175,18689063,3109278
+South Africa,2022-05-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35903813,21679158,18708785,3129148
+South Africa,2022-05-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,35959268,21700754,18729493,3148094
+South Africa,2022-05-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36005670,21719395,18746469,3164104
+South Africa,2022-05-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36015744,21723060,18750051,3168105
+South Africa,2022-05-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36020076,21724648,18751649,3169901
+South Africa,2022-05-31,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36063285,21742087,18767585,3184611
+South Africa,2022-06-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36105946,21759015,18783522,3199093
+South Africa,2022-06-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36148904,21776154,18799631,3213884
+South Africa,2022-06-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36192016,21793671,18815753,3228459
+South Africa,2022-06-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36230916,21808776,18830454,3241826
+South Africa,2022-06-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36238288,21811715,18833277,3244428
+South Africa,2022-06-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36240713,21812703,18834233,3245291
+South Africa,2022-06-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36277964,21826541,18848823,3258427
+South Africa,2022-06-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36319056,21842401,18863998,3273147
+South Africa,2022-06-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36363675,21858805,18880779,3289700
+South Africa,2022-06-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36406003,21874855,18896622,3305117
+South Africa,2022-06-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36439266,21887217,18909259,3317377
+South Africa,2022-06-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36446543,21890079,18911963,3320000
+South Africa,2022-06-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36448670,21890917,18912817,3320722
+South Africa,2022-06-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36484428,21905030,18926605,3333190
+South Africa,2022-06-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36522914,21920327,18941548,3346281
+South Africa,2022-06-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36558454,21934417,18954843,3358592
+South Africa,2022-06-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36565633,21937255,18957381,3361395
+South Africa,2022-06-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36594656,21948222,18968591,3372056
+South Africa,2022-06-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36600625,21950438,18971037,3374196
+South Africa,2022-06-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36602354,21951004,18971691,3374971
+South Africa,2022-06-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36634824,21963613,18984856,3386198
+South Africa,2022-06-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36669717,21976431,18998336,3399130
+South Africa,2022-06-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36703505,21988658,19011859,3411648
+South Africa,2022-06-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36731686,21998826,19022904,3422332
+South Africa,2022-06-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36754405,22006560,19031751,3431460
+South Africa,2022-06-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36758843,22008030,19033532,3433141
+South Africa,2022-06-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36760098,22008449,19034033,3433678
+South Africa,2022-06-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36780463,22015067,19041761,3442388
+South Africa,2022-06-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36802355,22022098,19050087,3451773
+South Africa,2022-06-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36823695,22028992,19058285,3460795
+South Africa,2022-07-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36843272,22035325,19065825,3469201
+South Africa,2022-07-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36857675,22039892,19071499,3475276
+South Africa,2022-07-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36860698,22040799,19072550,3476680
+South Africa,2022-07-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36861626,22041102,19072854,3477132
+South Africa,2022-07-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36877585,22046379,19079077,3483863
+South Africa,2022-07-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36894896,22052002,19085496,3491472
+South Africa,2022-07-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36911182,22057391,19091706,3498270
+South Africa,2022-07-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36928268,22062964,19097984,3505814
+South Africa,2022-07-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36945840,22068908,19104817,3513059
+South Africa,2022-07-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36946616,22069173,19105064,3513425
+South Africa,2022-07-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36962546,22074885,19111385,3519845
+South Africa,2022-07-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36979793,22080819,19117945,3527037
+South Africa,2022-07-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,36996750,22086445,19124411,3534218
+South Africa,2022-07-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37012038,22090961,19130038,3541187
+South Africa,2022-07-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37025629,22095424,19135444,3546751
+South Africa,2022-07-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37044632,22101956,19143289,3554218
+South Africa,2022-07-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37060820,22107503,19149590,3561010
+South Africa,2022-07-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37077459,22113468,19156458,3567281
+South Africa,2022-07-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37095461,22119874,19163895,3573837
+South Africa,2022-07-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37110233,22124911,19169985,3579222
+South Africa,2022-07-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37128596,22131636,19177726,3585537
+South Africa,2022-07-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37146065,22138189,19185501,3591063
+South Africa,2022-07-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37162754,22144118,19193037,3596377
+South Africa,2022-07-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37179144,22149808,19200417,3601802
+South Africa,2022-07-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37192985,22154824,19206569,3606263
+South Africa,2022-08-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37210790,22161600,19214852,3611219
+South Africa,2022-08-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37225158,22167075,19221127,3615453
+South Africa,2022-08-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37240214,22172678,19227810,3619841
+South Africa,2022-08-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37254563,22178184,19234310,3623865
+South Africa,2022-08-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37265934,22182661,19239158,3627168
+South Africa,2022-08-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37276271,22186213,19243457,3630986
+South Africa,2022-08-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37277458,22186697,19244003,3631345
+South Africa,2022-08-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37290784,22191659,19249959,3635275
+South Africa,2022-08-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37305157,22197521,19255893,3639377
+South Africa,2022-08-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37316663,22202393,19260611,3642610
+South Africa,2022-08-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37318036,22202885,19261250,3643016
+South Africa,2022-08-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37318866,22203178,19261644,3643250
+South Africa,2022-08-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37331317,22208480,19267064,3646258
+South Africa,2022-08-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37343941,22213805,19272157,3649583
+South Africa,2022-08-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37356903,22219207,19277606,3653113
+South Africa,2022-08-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37369962,22224518,19283243,3656716
+South Africa,2022-08-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37379850,22228483,19287423,3659568
+South Africa,2022-08-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37381114,22228965,19287961,3659956
+South Africa,2022-08-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37381696,22229134,19288156,3660254
+South Africa,2022-08-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37393438,22233734,19293505,3663444
+South Africa,2022-08-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37405743,22238722,19298607,3667090
+South Africa,2022-08-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37414274,22241820,19302167,3670102
+South Africa,2022-08-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37425711,22245963,19307033,3673870
+South Africa,2022-08-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37434569,22248826,19310896,3676976
+South Africa,2022-08-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37436152,22249358,19311660,3677469
+South Africa,2022-08-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37436769,22249545,19311913,3677706
+South Africa,2022-08-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37446594,22253194,19316295,3680739
+South Africa,2022-08-31,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37456345,22256881,19320571,3683589
+South Africa,2022-09-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37466505,22260487,19325218,3686549
+South Africa,2022-09-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37476658,22264093,19329795,3689483
+South Africa,2022-09-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37485310,22267152,19333557,3692217
+South Africa,2022-09-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37487347,22267763,19334395,3692977
+South Africa,2022-09-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37487964,22267964,19334645,3693214
+South Africa,2022-09-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37496444,22271026,19338556,3695696
+South Africa,2022-09-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37506007,22274662,19342661,3698619
+South Africa,2022-09-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37515117,22277836,19346913,3701335
+South Africa,2022-09-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37524691,22281426,19350984,3704302
+South Africa,2022-09-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37534055,22285599,19354984,3706640
+South Africa,2022-09-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37535318,22286063,19355490,3707094
+South Africa,2022-09-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37535745,22286239,19355655,3707234
+South Africa,2022-09-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37544120,22289745,19359218,3709579
+South Africa,2022-09-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37553463,22293695,19362968,3712264
+South Africa,2022-09-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37562742,22297598,19366848,3714890
+South Africa,2022-09-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37571929,22301433,19370702,3717461
+South Africa,2022-09-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37580269,22304934,19374123,3719908
+South Africa,2022-09-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37580608,22305030,19374254,3720058
+South Africa,2022-09-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37587301,22307874,19377183,3721918
+South Africa,2022-09-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37594492,22310904,19380163,3724105
+South Africa,2022-09-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37600784,22313529,19382894,3726004
+South Africa,2022-09-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37607361,22316361,19385822,3728000
+South Africa,2022-09-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37612482,22318556,19388209,3729617
+South Africa,2022-09-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37613037,22318810,19388498,3729792
+South Africa,2022-09-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37613399,22318997,19388636,3729883
+South Africa,2022-09-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37619988,22321720,19391582,3731884
+South Africa,2022-09-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37627223,22324680,19394789,3733986
+South Africa,2022-09-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37634853,22327904,19398009,3736352
+South Africa,2022-09-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37641904,22330558,19401052,3738814
+South Africa,2022-10-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37653469,22335029,19405831,3743089
+South Africa,2022-10-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37659460,22337392,19408217,3745374
+South Africa,2022-10-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37666463,22339976,19410934,3748244
+South Africa,2022-10-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37673007,22342540,19413509,3750784
+South Africa,2022-10-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37678611,22344759,19415769,3752886
+South Africa,2022-10-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37679258,22345016,19416039,3753119
+South Africa,2022-10-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37679458,22345080,19416147,3753184
+South Africa,2022-10-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37685885,22347592,19418797,3755571
+South Africa,2022-10-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37692917,22350336,19421657,3758265
+South Africa,2022-10-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37708729,22356713,19428352,3763465
+South Africa,2022-10-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37715750,22359640,19431289,3765713
+South Africa,2022-10-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37716539,22360042,19431623,3765958
+South Africa,2022-10-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37716831,22360161,19431737,3766056
+South Africa,2022-10-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37724286,22363383,19435169,3768093
+South Africa,2022-10-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37732345,22366763,19438771,3770415
+South Africa,2022-10-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37741417,22370600,19442985,3772879
+South Africa,2022-10-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37750215,22374184,19447022,3775427
+South Africa,2022-10-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37758822,22378012,19450579,3778059
+South Africa,2022-10-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37759279,22378192,19450730,3778244
+South Africa,2022-10-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37766941,22381391,19454047,3780522
+South Africa,2022-10-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37775735,22385182,19457819,3783050
+South Africa,2022-10-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37783368,22388404,19461154,3785345
+South Africa,2022-10-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37790150,22391104,19464037,3787557
+South Africa,2022-10-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37795990,22393826,19466552,3789159
+South Africa,2022-10-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37796701,22394195,19466838,3789338
+South Africa,2022-11-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37803448,22397220,19469651,3791276
+South Africa,2022-11-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37810070,22399703,19472623,3793360
+South Africa,2022-11-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37818301,22403421,19476081,3795628
+South Africa,2022-11-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37826461,22407144,19479320,3798010
+South Africa,2022-11-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37833135,22410135,19482174,3799840
+South Africa,2022-11-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37833886,22410492,19482509,3800040
+South Africa,2022-11-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37834064,22410565,19482584,3800096
+South Africa,2022-11-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37840769,22413413,19485550,3802066
+South Africa,2022-11-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37847847,22416541,19488621,3804067
+South Africa,2022-11-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37856678,22420448,19492292,3806684
+South Africa,2022-11-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37865436,22424275,19495739,3809395
+South Africa,2022-11-12,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37872764,22427526,19498774,3811539
+South Africa,2022-11-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37873475,22427889,19499045,3811730
+South Africa,2022-11-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37873660,22427989,19499131,3811768
+South Africa,2022-11-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37881330,22431293,19502489,3814088
+South Africa,2022-11-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37889885,22434844,19506092,3816852
+South Africa,2022-11-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37898854,22438427,19509654,3819941
+South Africa,2022-11-18,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37907435,22441947,19513195,3822729
+South Africa,2022-11-19,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37914717,22445074,19516140,3825100
+South Africa,2022-11-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37915540,22445380,19516528,3825381
+South Africa,2022-11-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37915803,22445476,19516623,3825486
+South Africa,2022-11-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37922524,22448310,19519329,3827896
+South Africa,2022-11-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37929074,22451107,19522018,3830138
+South Africa,2022-11-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37936533,22454292,19524954,3832836
+South Africa,2022-11-25,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37944997,22457594,19528498,3835825
+South Africa,2022-11-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37951019,22460120,19531073,3837792
+South Africa,2022-11-27,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37951691,22460434,19531374,3837983
+South Africa,2022-11-28,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37952064,22460541,19531520,3838168
+South Africa,2022-11-29,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37958997,22463405,19534288,3840708
+South Africa,2022-11-30,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37967080,22466615,19537503,3843724
+South Africa,2022-12-01,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37974920,22469707,19540712,3846586
+South Africa,2022-12-02,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37982823,22472709,19543985,3849560
+South Africa,2022-12-03,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37988317,22474988,19546272,3851490
+South Africa,2022-12-04,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37988794,22475190,19546497,3851638
+South Africa,2022-12-05,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37989092,22475267,19546617,3851769
+South Africa,2022-12-06,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,37993879,22477273,19548379,3853759
+South Africa,2022-12-07,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38000170,22479906,19550512,3856429
+South Africa,2022-12-08,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38006145,22482325,19552517,3858999
+South Africa,2022-12-09,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38012272,22484769,19554553,3861717
+South Africa,2022-12-10,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38016970,22486686,19556194,3863713
+South Africa,2022-12-11,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38017614,22486951,19556427,3863941
+South Africa,2022-12-13,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38022437,22488911,19558052,3866037
+South Africa,2022-12-14,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38027236,22490787,19559654,3868177
+South Africa,2022-12-15,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38032683,22492978,19561575,3870460
+South Africa,2022-12-16,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38036088,22494364,19562838,3871910
+South Africa,2022-12-17,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38036467,22494565,19562988,3872018
+South Africa,2022-12-18,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38036993,23962787,21031216,3872217
+South Africa,2022-12-20,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38040275,,,3873523
+South Africa,2022-12-21,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38043656,,,3874848
+South Africa,2022-12-22,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38046706,,,3876110
+South Africa,2022-12-23,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38049123,,,3877037
+South Africa,2022-12-24,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38050295,,,3877443
+South Africa,2022-12-25,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38050611,23970891,21038797,3877516
+South Africa,2022-12-26,"Johnson&Johnson, Pfizer/BioNTech",https://sacoronavirus.co.za/latest-vaccine-statistics/,38050611,,,3877516
+South Africa,2023-02-26,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38578896,23970891,21038797,4112169
+South Africa,2023-03-12,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38609441,24154718,21038797,4293085
+South Africa,2023-03-19,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38645389,24165157,21038797,4306786
+South Africa,2023-04-02,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38711609,24165157,21038797,4334775
+South Africa,2023-04-16,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38768176,24165157,21038797,4358291
+South Africa,2023-04-30,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38813021,24165157,21038797,4377439
+South Africa,2023-05-14,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38841308,24209938,21038797,4377439
+South Africa,2023-06-04,"Johnson&Johnson, Pfizer/BioNTech",https://covid19.who.int/,38882146,24210953,21038797,4410601
+South Africa,2023-09-24,"Johnson&Johnson, Pfizer/BioNTech",https://data.who.int/dashboards/covid19/,41798812,24210953,21038797,4410601

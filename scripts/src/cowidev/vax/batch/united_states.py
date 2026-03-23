@@ -1,15 +1,16 @@
-import os
 from glob import glob
+import os
 
 import pandas as pd
 
-from cowidev.vax.utils.files import export_metadata_manufacturer
-from cowidev.utils import paths
-from cowidev.utils.clean.dates import clean_date_series
+from cowidev import PATHS
+from cowidev.utils import clean_date_series
+from cowidev.utils.utils import check_known_columns
 from cowidev.vax.utils.utils import build_vaccine_timeline
+from cowidev.vax.utils.base import CountryVaxBase
 
 
-class UnitedStates:
+class UnitedStates(CountryVaxBase):
     def __init__(self):
         self.source_url = "https://data.cdc.gov/api/views/rh2h-3yt2/rows.csv?accessType=DOWNLOAD"
         self.source_url_ref = (
@@ -21,9 +22,43 @@ class UnitedStates:
     ### Main processing ###
 
     def read(self) -> pd.DataFrame:
-        return pd.read_csv(
-            self.source_url,
-            usecols=[
+        df = pd.read_csv(self.source_url)
+        check_known_columns(
+            df,
+            [
+                "Date",
+                "MMWR_week",
+                "Location",
+                "Administered_Daily",
+                "Administered_Cumulative",
+                "Administered_7_Day_Rolling_Average",
+                "Admin_Dose_1_Daily",
+                "Admin_Dose_1_Cumulative",
+                "Admin_Dose_1_Day_Rolling_Average",
+                "date_type",
+                "Administered_daily_change_report",
+                "Administered_daily_change_report_7dayroll",
+                "Series_Complete_Daily",
+                "Series_Complete_Cumulative",
+                "Series_Complete_Day_Rolling_Average",
+                "Booster_Daily",
+                "Booster_Cumulative",
+                "Booster_7_Day_Rolling_Average",
+                "Series_Complete_Pop_Pct",
+                "Administered_Dose1_Pop_Pct",
+                "Additional_Doses_Vax_Pct",
+                "Second_Booster_50Plus_Daily",
+                "Second_Booster_50Plus_Vax_Pct",
+                "Second_Booster_50Plus_7_Day_Rolling_Average",
+                "Second_Booster_50Plus_Cumulative",
+                "Bivalent_Booster_Daily",
+                "Bivalent_Booster_Pop_Pct",
+                "Bivalent_Booster_7_Day_Rolling_Average",
+                "Bivalent_Booster_Cumulative",
+            ],
+        )
+        return df[
+            [
                 "Date",
                 "Location",
                 "Administered_Cumulative",
@@ -31,8 +66,10 @@ class UnitedStates:
                 "date_type",
                 "Series_Complete_Cumulative",
                 "Booster_Cumulative",
-            ],
-        )
+                "Second_Booster_50Plus_Cumulative",
+                "Bivalent_Booster_Cumulative",
+            ]
+        ]
 
     def pipe_filter_rows(self, df: pd.DataFrame) -> pd.DataFrame:
         return df[(df.Location == "US") & (df.date_type == "Admin")]
@@ -49,11 +86,18 @@ class UnitedStates:
                     "Admin_Dose_1_Cumulative": "people_vaccinated",
                     "Series_Complete_Cumulative": "people_fully_vaccinated",
                     "Booster_Cumulative": "total_boosters",
+                    "Second_Booster_50Plus_Cumulative": "total_boosters_2",
+                    "Bivalent_Booster_Cumulative": "total_boosters_biv",
                 }
             )
             .sort_values("date")
         )
-        return df[df.total_vaccinations > 0]
+        df = df[df.total_vaccinations > 0].drop_duplicates(subset=["date"], keep=False)
+
+        # Boosters
+        df = df.assign(total_boosters=df.total_boosters + df.total_boosters_2)  # + df.total_boosters_biv)
+        df.loc[df.date > "2022-09-01", "total_boosters"] = pd.NA
+        return df
 
     def pipe_add_source(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.assign(source_url=self.source_url_ref)
@@ -63,6 +107,7 @@ class UnitedStates:
             "Pfizer/BioNTech": "2020-12-01",
             "Moderna": "2020-12-23",
             "Johnson&Johnson": "2021-03-05",
+            "Novavax": "2022-10-20",
         }
         return build_vaccine_timeline(df, schedule)
 
@@ -81,9 +126,10 @@ class UnitedStates:
             "Administered_Pfizer",
             "Administered_Moderna",
             "Administered_Janssen",
+            "Administered_Novavax",
         ]
         dfs = []
-        for file in glob(os.path.join(paths.SCRIPTS.INPUT_CDC_VAX, "cdc_data_*.csv")):
+        for file in glob(os.path.join(PATHS.INTERNAL_INPUT_CDC_VAX_DIR, "cdc_data_*.csv")):
             try:
                 df = pd.read_csv(file)
                 for vc in vaccine_cols:
@@ -94,6 +140,10 @@ class UnitedStates:
             except Exception:
                 continue
         df = pd.concat(dfs)
+        return df
+
+    def pipeline_manufacturer(self, df: pd.DataFrame) -> pd.DataFrame:
+        # Renaming
         df = (
             df[df.LongName == "United States"]
             .sort_values("Date")
@@ -104,28 +154,39 @@ class UnitedStates:
                     "Administered_Pfizer": "Pfizer/BioNTech",
                     "Administered_Moderna": "Moderna",
                     "Administered_Janssen": "Johnson&Johnson",
+                    "Administered_Novavax": "Novavax",
                 }
             )
         )
+        # Melting
         df = df.melt(["date", "location"], var_name="vaccine", value_name="total_vaccinations")
+        # Filter datapoint
+        msk = (df.date == "2022-03-16") & (df.vaccine == "Johnson&Johnson")
+        if (df.loc[msk, "total_vaccinations"] == 516219).all():
+            df = df[-msk]
+        else:
+            raise Exception("Please check value for J&J and date 2022-03-16 in manufacturer data")
+        # Dropna
         df = df.dropna(subset=["total_vaccinations"])
+        # Make monotonic
+        df = df.pipe(self.make_monotonic, "vaccine")
         return df
 
     def export(self):
-        self.read().pipe(self.pipeline).to_csv(paths.out_vax(self.location), index=False)
-
-        df_manufacturer = self.read_manufacturer()
-        df_manufacturer.to_csv(paths.out_vax(self.location, manufacturer=True), index=False)
-        export_metadata_manufacturer(
-            df_manufacturer,
-            "Centers for Disease Control and Prevention",
-            "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data",
+        # Main
+        df = self.read().pipe(self.pipeline)
+        # Manufacturer
+        # df_manufacturer = self.read_manufacturer().pipe(self.pipeline_manufacturer)
+        # Export
+        self.export_datafile(
+            df,
+            # df_manufacturer=df_manufacturer,
+            meta_manufacturer={
+                "source_name": "Centers for Disease Control and Prevention",
+                "source_url": "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=vaccination_data",
+            },
         )
 
 
 def main():
     UnitedStates().export()
-
-
-if __name__ == "__main__":
-    main()

@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from cowidev.utils import paths
+from cowidev import PATHS
 
 
 COLUMN_METRICS_ALL = [
@@ -31,7 +31,7 @@ class TwitterCollectorBase:
 
     def _set_output_path(self, output_path):
         if output_path is None:
-            return paths.out_vax(self.location, proposal=True)
+            return PATHS.out_vax(self.location, proposal=True)
         else:
             raise AttributeError("Either specify attribute `paths` or method argument `output_path`")
 
@@ -103,6 +103,6 @@ class TwitterCollectorBase:
         elif dt < self.last_update:
             return True
 
-    def to_csv(self):
+    def export(self):
         df = self.propose_df()
         df.to_csv(self.output_path, index=False)

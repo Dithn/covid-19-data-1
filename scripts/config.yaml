@@ -1,44 +1,133 @@
-global:
-  project_dir: !ENV ${OWID_COVID_PROJECT_DIR}
-  credentials: !ENV ${OWID_COVID_VAX_CREDENTIALS_FILE}
+execution:
+  parallel: True
+  njobs: -2
+
 pipeline:
-  get-data:
-    parallel: True
-    countries:
-    njobs: -2
-    skip_countries:
-      - Andorra
-      - Gabon
-      - Morocco # Government data doesn't differentiate 1- and 2-dose vaccines so we use WHO instead
-      - North Macedonia
-      - South Africa
-      - Faeroe Islands
-  process-data:
-    skip_complete:
-      - Pitcairn
-    skip_monotonic_check:
-    skip_anomaly_check:
-      Australia:
-        - date: 2021-05-23
-          metrics: people_vaccinated
-      Bahrain:
-        - date: 2021-03-06
-          metrics: total_vaccinations
-      Bolivia:
-        - date: 2021-03-06
-          metrics: people_vaccinated
-      Brazil:
-        - date: 2021-01-21
-          metrics: 
-           - total_vaccinations
-           - people_vaccinated
-      Luxembourg:
-        - date: 2021-11-29
-          metrics: people_fully_vaccinated
-      Nigeria:
-        - date: 2021-06-15
-          metrics: people_fully_vaccinated
-      United States:
-        - date: 2020-12-16
-          metrics: people_vaccinated
-  generate-dataset:
+  vaccinations:
+    get:
+      countries:
+      skip_countries:
+        - Gabon
+        - Morocco # Government data doesn't differentiate 1- and 2-dose vaccines so we use WHO instead
+        - North Macedonia
+        #- South Africa
+        - africacdc
+        - Guatemala
+        # - Ukraine # server down
+        - Saint Lucia # switched to paho. previous source not reporting boosters.
+        # - Faeroe Islands
+        # - Austria  # Moved to ECDC
+        # - Denmark  # Moved to ECDC
+        # - Colombia  # Moved to PAHO
+        # - Vietnam  # Moved to WHO
+        - austria_old # using ECDC
+        - austria # using ECDC
+        - Sri Lanka # Moved to WHO
+        - Ukraine # Moved to WHO
+        - Portugal # Temporary moved to ECDC
+        - Myanmar # Moved to WHO
+        - Costa Rica # moved to WHO
+        - Philippines # moved to WHO
+        - Indonesia # Moved to WHO
+        - Qatar # Moved to WHO
+        - United Arab Emirates # Moved to WHO
+        - Netherlands # Temporary disabled (https://github.com/owid/covid-19-data/issues/2694), Moved to ECDC
+        - Nepal # Moved to WHO
+        - Vietnam # Moved to WHO
+        - Iran # Moved to WHO
+        - Azerbaijan # Moved to WHO
+        - Antigua Barbuda # Moved to WHO
+        - Moldova # Moved to WHO
+        - Barbados # Moved to WHO
+        # - Australia # Moved to WHO
+        - Ecuador # Moved to PAHO
+        # - South Korea  # Moved to WHO
+        - Bahrain
+        - Pakistan # Moved to WHO
+        - South Africa # Moved to WHO
+        # - Japan # Moved to WHO
+        - Denmark # Moved to ECDC
+
+        # No longer publishing data or page unavailable
+        - Guernsey # No longer publishing data
+        - Greenland # No longer publishing data
+        - Kosovo # Page not available
+        - Curacao # Moved to PAHO
+        - Australia # Moved to WHO
+        - Macao # Stop reporting bc website returns 403 error
+        - South Korea  # Moved to WHO
+        - Chile  # Moved to WHO
+        - Kazakhstan  # Moved to WHO
+
+        # No reliable sources
+        - Saudi Arabia
+        - Kyrgyzstan
+        - Switzerland
+        - Turkey # Blocked external IP
+        - Japan  # Too complex to maintain
+        - Taiwan # Too complex to maintain
+    process:
+      skip_complete:
+        - Pitcairn
+      skip_monotonic_check:
+      skip_anomaly_check:
+        Algeria:
+          - date: 2022-02-17
+            metrics: total_boosters
+        Australia:
+          - date: 2021-05-23
+            metrics: people_vaccinated
+        Bahrain:
+          - date: 2021-03-06
+            metrics: total_vaccinations
+        Bolivia:
+          - date: 2021-03-06
+            metrics: people_vaccinated
+        Brazil:
+          - date: 2021-01-21
+            metrics:
+              - total_vaccinations
+              - people_vaccinated
+        Bulgaria:
+          - date: 2021-12-14
+            metrics: total_boosters
+        Luxembourg:
+          - date: 2023-06-11
+            metrics: people_fully_vaccinated
+        Nigeria:
+          - date: 2021-06-15
+            metrics: people_fully_vaccinated
+        United States:
+          - date: 2020-12-16
+            metrics: people_vaccinated
+    generate:
+    export:
+
+  testing:
+    get:
+      countries:
+      skip_countries:
+        - Kazakhstan
+        - Ukraine
+        - Andorra
+        #- Jordan
+        - Benin
+        - Vanuatu #source no longer updated
+        - Guatemala #source no longer updated
+        - Indonesia #source no longer updated
+        - Gibraltar #source no longer updated
+        - Philippines #now manual
+    process:
+    generate:
+    export:
+
+  hospitalizations:
+    generate:
+      countries:
+      skip_countries:
+        # - South Africa
+        # - France
+        # - Italy
+        # - Israel
+        # - Spain
+        # - Argentina

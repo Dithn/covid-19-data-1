@@ -1,72 +1,70 @@
 import pandas as pd
 from typing import List, Tuple
 
-from cowidev.vax.utils.files import export_metadata_manufacturer
-from cowidev.utils import paths
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.base import CountryVaxBase
 
 
-LOCATION = "Italy"
-SOURCE_URL = (
-    "https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv"
-)
-COLUMNS = [
-    "data_somministrazione",
-    "fornitore",
-    "fascia_anagrafica",
-    "prima_dose",
-    "seconda_dose",
-    "pregressa_infezione",
-    "dose_addizionale_booster",
-]
-COLUMNS_RENAME = {
-    "data_somministrazione": "date",
-    "fornitore": "vaccine",
-    "fascia_anagrafica": "age_group",
-}
-VACCINE_MAPPING = {
-    "Pfizer/BioNTech": "Pfizer/BioNTech",
-    "Moderna": "Moderna",
-    "Vaxzevria (AstraZeneca)": "Oxford/AstraZeneca",
-    "Janssen": "Johnson&Johnson",
-}
-ONE_DOSE_VACCINES = ["Johnson&Johnson"]
-
-
-class Italy:
-    def __init__(
-        self,
-        source_url: str,
-        location: str,
-        columns: list = None,
-        columns_rename: dict = None,
-        vaccine_mapping: dict = None,
-        one_dose_vaccines: list = None,
-    ):
-        self.source_url = source_url
-        self.location = location
-        self.columns = columns
-        self.columns_rename = columns_rename
-        self.vaccine_mapping = vaccine_mapping
-        self.one_dose_vaccines = one_dose_vaccines
-        self.vax_date_mapping = None
+class Italy(CountryVaxBase):
+    source_url: str = "https://raw.githubusercontent.com/italia/covid19-opendata-vaccini/master/dati/somministrazioni-vaccini-latest.csv"
+    location: str = "Italy"
+    columns: list = [
+        "data",
+        "forn",
+        "eta",
+        "d1",
+        "d2",
+        "dpi",
+        "db1",
+        # "dbi",
+        "db2",
+        "db3",
+    ]
+    columns_rename: dict = {
+        "data": "date",
+        "forn": "vaccine",
+        "eta": "age_group",
+    }
+    vaccine_mapping: dict = {
+        "Pfizer/BioNTech": "Pfizer/BioNTech",
+        "Pfizer Pediatrico": "Pfizer/BioNTech",
+        "Moderna": "Moderna",
+        "Vaxzevria (AstraZeneca)": "Oxford/AstraZeneca",
+        "Janssen": "Johnson&Johnson",
+        "Novavax": "Novavax",
+        "ND": "unknown",
+        "Sanofi": "Sanofi/GSK",
+    }
+    one_dose_vaccines: list = ["Johnson&Johnson"]
+    vax_date_mapping = None
 
     def read(self) -> pd.DataFrame:
-        return pd.read_csv(self.source_url, usecols=self.columns)
+        df = pd.read_csv(self.source_url)
+        check_known_columns(
+            df,
+            self.columns + ["m", "f", "N1", "N2", "ISTAT", "reg", "area", "reg"],
+        )
+        return df[self.columns]
 
     def _check_vaccines(self, df: pd.DataFrame) -> pd.DataFrame:
-        assert set(df["fornitore"].unique()) == set(self.vaccine_mapping.keys())
+        vax_wrong = set(df["forn"]).difference(self.vaccine_mapping.keys())
+        if vax_wrong:
+            raise ValueError(f"Unknown vaccine(s) {vax_wrong}")
         return df
 
     def rename_columns(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.rename(columns=self.columns_rename)
 
     def translate_vaccine_columns(self, df: pd.DataFrame) -> pd.DataFrame:
-        return df.replace({"vaccine": self.vaccine_mapping})
+        df = df.replace({"vaccine": self.vaccine_mapping})
+        return df[df.vaccine != "unknown"]
 
     def get_total_vaccinations(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.assign(
-            total_vaccinations=df.prima_dose + df.seconda_dose + df.pregressa_infezione + df.dose_addizionale_booster,
-            total_boosters=df.dose_addizionale_booster,
+            total_vaccinations=df.d1 + df.d2 + df.dpi + df.db1
+            # + df.dbi
+            + df.db2,
+            total_boosters=df.db1 + df.db2 + df.db3,  # + df.dbi ,
         )
 
     def pipeline_base(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -78,14 +76,12 @@ class Italy:
         )
 
     def get_people_vaccinated(self, df: pd.DataFrame) -> pd.DataFrame:
-        return df.assign(people_vaccinated=df["prima_dose"] + df["pregressa_infezione"])
+        return df.assign(people_vaccinated=df["d1"] + df["dpi"])
 
     def get_people_fully_vaccinated(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.assign(
             people_fully_vaccinated=lambda x: x.apply(
-                lambda row: row["prima_dose"] + row["pregressa_infezione"]
-                if row["vaccine"] in self.one_dose_vaccines
-                else row["seconda_dose"],
+                lambda row: row["d1"] + row["dpi"] if row["vaccine"] in self.one_dose_vaccines else row["d2"],
                 axis=1,
             )
         )
@@ -109,11 +105,11 @@ class Italy:
 
     def vaccine_start_dates(self, df: pd.DataFrame) -> List[Tuple[str, str]]:
         date2vax = sorted(
-            ((df.loc[df["vaccine"] == vaccine, "date"].min(), vaccine) for vaccine in self.vaccine_mapping.values()),
+            ((df.loc[df["vaccine"] == vaccine, "date"].min(), vaccine) for vaccine in df.vaccine.unique()),
             key=lambda x: x[0],
             reverse=True,
         )
-        return [(date2vax[i][0], ", ".join(sorted([v[1] for v in date2vax[i:]]))) for i in range(len(date2vax))]
+        return [(date2vax[i][0], ", ".join(sorted(set([v[1] for v in date2vax[i:]])))) for i in range(len(date2vax))]
 
     def enrich_vaccine(self, df: pd.DataFrame) -> pd.DataFrame:
         def _enrich_vaccine(date: str) -> str:
@@ -146,28 +142,23 @@ class Italy:
     def pipeline_manufacturer(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.pipe(self.get_total_vaccinations_by_manufacturer).pipe(self.enrich_location)
 
-    def to_csv(self) -> None:
-        vaccine_data = self.read().pipe(self.pipeline_base)
-
-        self.vax_date_mapping = self.vaccine_start_dates(vaccine_data)
-
-        vaccine_data.pipe(self.pipeline).to_csv(paths.out_vax(self.location), index=False)
-
-        df_man = vaccine_data.pipe(self.pipeline_manufacturer)
-        df_man.to_csv(paths.out_vax(self.location, manufacturer=True), index=False)
-        export_metadata_manufacturer(df_man, "Extraordinary commissioner for the Covid-19 emergency", self.source_url)
+    def export(self) -> None:
+        df_base = self.read().pipe(self.pipeline_base)
+        self.vax_date_mapping = self.vaccine_start_dates(df_base)
+        # Main
+        df = df_base.pipe(self.pipeline)
+        # Manufacturer
+        df_man = df_base.pipe(self.pipeline_manufacturer)
+        # Export
+        self.export_datafile(
+            df,
+            df_manufacturer=df_man,
+            meta_manufacturer={
+                "source_name": "Extraordinary commissioner for the Covid-19 emergency",
+                "source_url": self.source_url,
+            },
+        )
 
 
 def main():
-    Italy(
-        source_url=SOURCE_URL,
-        location=LOCATION,
-        columns=COLUMNS,
-        columns_rename=COLUMNS_RENAME,
-        vaccine_mapping=VACCINE_MAPPING,
-        one_dose_vaccines=ONE_DOSE_VACCINES,
-    ).to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Italy().export()

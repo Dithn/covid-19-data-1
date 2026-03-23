@@ -5,6 +5,8 @@ from typing import Callable
 import pandas as pd
 import numpy as np
 
+from cowidev.utils.s3 import obj_from_s3
+
 
 @dataclass
 class Exploriser:
@@ -14,6 +16,11 @@ class Exploriser:
     pivot_values: str = None
     function_input: Callable = lambda x: x
     function_output: Callable = lambda x: x
+
+    def read(self, input_path: str):
+        if input_path.startswith("s3://"):
+            return obj_from_s3(input_path)
+        return pd.read_csv(input_path)
 
     def pipe_pivot(self, df: pd.DataFrame) -> pd.DataFrame:
         if self.pivot_column is not None and self.pivot_values is not None:
@@ -52,7 +59,7 @@ class Exploriser:
         )
 
     def run(self, input_path: str, output_path: str):
-        df = pd.read_csv(input_path)
+        df = self.read(input_path)
         data = df.pipe(self.pipeline)
         with open(output_path, "w") as f:
             f.write(self.to_json(data))

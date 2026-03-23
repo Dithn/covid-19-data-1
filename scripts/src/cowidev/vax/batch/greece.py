@@ -3,19 +3,38 @@ import requests
 import pandas as pd
 
 from cowidev.utils.clean import clean_date_series
-from cowidev.utils import paths
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.base import CountryVaxBase
+from cowidev.vax.utils.utils import build_vaccine_timeline
 
 
-class Greece:
-    def __init__(self, source_url: str, source_url_ref: str, location: str, token: str):
-        self.source_url = source_url
-        self.source_url_ref = source_url_ref
-        self.location = location
-        self.token = token
+class Greece(CountryVaxBase):
+    location = "Greece"
+    source_url = "https://www.data.gov.gr/api/v1/query/mdg_emvolio?date_from=2020-12-28"
+    source_url_ref = "https://www.data.gov.gr/datasets/mdg_emvolio/"
+    token = "b1ef5949bebace574a0d7e58b5cdf4018353121e"
 
     def read(self) -> pd.DataFrame:
         data = requests.get(self.source_url, headers={"Authorization": f"Token {self.token}"}).json()
         df = pd.DataFrame.from_records(data)
+        check_known_columns(
+            df,
+            [
+                "area",
+                "areaid",
+                "dailydose1",
+                "dailydose2",
+                "dailydose3",
+                "daydiff",
+                "daytotal",
+                "referencedate",
+                "totaldistinctpersons",
+                "totaldose1",
+                "totaldose2",
+                "totaldose3",
+                "totalvaccinations",
+            ],
+        )
         return (
             df.rename(
                 columns={
@@ -41,34 +60,24 @@ class Greece:
         )
 
     def pipe_vaccine(self, df: pd.DataFrame) -> pd.DataFrame:
-        def _enrich_vaccine_name(date: str) -> str:
-            if date < "2021-01-13":
-                return "Pfizer/BioNTech"
-            elif "2021-01-13" <= date < "2021-02-10":
-                return "Moderna, Pfizer/BioNTech"
-            elif "2021-02-10" <= date < "2021-04-28":
-                return "Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
-            elif "2021-04-28" <= date:
-                return "Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
-
-        return df.assign(vaccine=df.date.apply(_enrich_vaccine_name))
+        return build_vaccine_timeline(
+            df,
+            {
+                "Pfizer/BioNTech": "2020-12-01",
+                "Moderna": "2021-01-13",
+                "Oxford/AstraZeneca": "2021-02-10",
+                "Johnson&Johnson": "2021-04-28",
+                "Novavax": "2022-03-02", # Source: https://covid19.who.int/
+            },
+        )
 
     def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
         return df.pipe(self.pipe_metadata).pipe(self.pipe_vaccine).pipe(self.pipe_date)
 
     def export(self):
         df = self.read().pipe(self.pipeline)
-        df.to_csv(paths.out_vax(self.location), index=False)
+        self.export_datafile(df)
 
 
 def main():
-    Greece(
-        source_url="https://www.data.gov.gr/api/v1/query/mdg_emvolio?date_from=2020-12-28",
-        source_url_ref="https://www.data.gov.gr/datasets/mdg_emvolio/",
-        location="Greece",
-        token="b1ef5949bebace574a0d7e58b5cdf4018353121e",
-    ).export()
-
-
-if __name__ == "__main__":
-    main()
+    Greece().export()

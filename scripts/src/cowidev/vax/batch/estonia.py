@@ -1,62 +1,95 @@
 import pandas as pd
-from cowidev.utils import paths
+
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.base import CountryVaxBase
+from cowidev.vax.utils.utils import build_vaccine_timeline
 
 
-def read(source: str) -> pd.DataFrame:
-    return parse_data(source)
+class Estonia(CountryVaxBase):
+    location: str = "Estonia"
+    source_url: str = "https://opendata.digilugu.ee/covid19/vaccination/v3/opendata_covid19_vaccination_total.csv"
+    source_url_ref: str = "https://opendata.digilugu.ee"
 
+    def read(self) -> pd.DataFrame:
+        return self._parse_data()
 
-def parse_data(source: str) -> pd.DataFrame:
-    df = pd.read_json(source)
-    df = (
-        df[["StatisticsDate", "MeasurementType", "TotalCount"]]
-        .pivot(index="StatisticsDate", columns="MeasurementType", values="TotalCount")
-        .reset_index()
-        .rename(
-            columns={
-                "StatisticsDate": "date",
-                "DosesAdministered": "total_vaccinations",
-                "FullyVaccinated": "people_fully_vaccinated",
-                "Vaccinated": "people_vaccinated",
-            }
+    def _parse_metric(self, df, series, measurement, metric_name) -> pd.DataFrame:
+        df = (
+            df[(df.VaccinationSeries.isin(series)) & (df.MeasurementType == measurement)][
+                ["StatisticsDate", "TotalCount"]
+            ]
+            .rename(columns={"StatisticsDate": "date", "TotalCount": metric_name})
+            .groupby("date", as_index=False)
+            .sum()
         )
-    )
-    return df[["date", "people_fully_vaccinated", "people_vaccinated", "total_vaccinations"]]
+        return df
 
+    def _parse_data(self) -> pd.DataFrame:
+        df = pd.read_csv(self.source_url)
 
-def enrich_location(df: pd.DataFrame) -> pd.DataFrame:
-    return df.assign(location="Estonia")
+        check_known_columns(
+            df,
+            [
+                "StatisticsDate",
+                "TargetDiseaseCode",
+                "TargetDisease",
+                "MeasurementType",
+                "DailyCount",
+                "TotalCount",
+                "PopulationCoverage",
+                "VaccinationSeries",
+                "LocationPopulation",
+            ],
+        )
 
+        total_vaccinations = self._parse_metric(
+            df, series=range(1, 1000), measurement="DosesAdministered", metric_name="total_vaccinations"
+        )
+        people_vaccinated = self._parse_metric(
+            df, series=[1], measurement="Vaccinated", metric_name="people_vaccinated"
+        )
+        people_fully_vaccinated = self._parse_metric(
+            df, series=[1], measurement="FullyVaccinated", metric_name="people_fully_vaccinated"
+        )
+        total_boosters = self._parse_metric(
+            df, series=range(2, 1000), measurement="DosesAdministered", metric_name="total_boosters"
+        )
 
-def enrich_vaccine_name(df: pd.DataFrame) -> pd.DataFrame:
-    def _enrich_vaccine_name(date: str) -> str:
-        if date < "2021-01-14":
-            return "Pfizer/BioNTech"
-        elif "2021-01-14" <= date < "2021-02-09":
-            return "Moderna, Pfizer/BioNTech"
-        elif "2021-02-09" <= date < "2021-04-14":
-            return "Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
-        elif "2021-04-14" <= date:
-            # https://vaktsineeri.ee/covid-19/vaktsineerimine-eestis/
-            # https://vaktsineeri.ee/uudised/sel-nadalal-alustatakse-lamavate-haigete-ja-liikumisraskustega-inimeste-kodus-vaktsineerimist/
-            return "Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech"
+        df = (
+            pd.merge(people_fully_vaccinated, people_vaccinated, on="date", how="outer", validate="one_to_one")
+            .merge(total_vaccinations, on="date", how="outer", validate="one_to_one")
+            .merge(total_boosters, on="date", how="outer", validate="one_to_one")
+        )
 
-    return df.assign(vaccine=df.date.apply(_enrich_vaccine_name))
+        return df
 
+    def pipe_location(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(location=self.location)
 
-def enrich_source(df: pd.DataFrame) -> pd.DataFrame:
-    return df.assign(source_url="https://opendata.digilugu.ee")
+    def pipe_vaccine_name(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = build_vaccine_timeline(
+            df,
+            {
+                "Pfizer/BioNTech": "2020-12-01",
+                "Moderna": "2021-01-14",
+                "Oxford/AstraZeneca": "2021-02-09",
+                "Johnson&Johnson": "2021-04-14",
+                # Source: https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+                "Novavax": "2022-03-04",
+            },
+        )
+        return df
 
+    def pipe_source(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(source_url=self.source_url_ref)
 
-def pipeline(df: pd.DataFrame) -> pd.DataFrame:
-    return df.pipe(enrich_location).pipe(enrich_vaccine_name).pipe(enrich_source)
+    def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.pipe(self.pipe_location).pipe(self.pipe_vaccine_name).pipe(self.pipe_source)
+
+    def export(self):
+        df = self.read().pipe(self.pipeline)
+        self.export_datafile(df)
 
 
 def main():
-    source = "https://opendata.digilugu.ee/covid19/vaccination/v2/opendata_covid19_vaccination_total.json"
-    destination = paths.out_vax("Estonia")
-    read(source).pipe(pipeline).to_csv(destination, index=False)
-
-
-if __name__ == "__main__":
-    main()
+    Estonia().export()

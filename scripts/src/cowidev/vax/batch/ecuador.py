@@ -1,167 +1,158 @@
 import pandas as pd
 
 from cowidev.utils.clean import clean_date_series
-from cowidev.vax.utils.checks import VACCINES_ONE_DOSE
-from cowidev.vax.utils.files import export_metadata_manufacturer
-from cowidev.vax.utils.utils import make_monotonic
-from cowidev.utils import paths
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.utils import build_vaccine_timeline
+from cowidev.vax.utils.base import CountryVaxBase
 
 
-class Ecuador:
-    def __init__(self):
-        """Constructor.
+class Ecuador(CountryVaxBase):
+    location = "Ecuador"
+    source_url_ref = "https://github.com/andrab/ecuacovid"
+    source_url = {
+        "manufacturer": f"{source_url_ref}/raw/master/datos_crudos/vacunometro/fabricantes.csv",
+        "main": f"{source_url_ref}/raw/master/datos_crudos/vacunas/vacunas.csv",
+    }
+    columns_rename_manuf = {
+        "fabricante": "vaccine",
+        "dosis_total": "total_vaccinations",
+        "administered_at": "date",
+    }
+    columns_rename = {
+        "fecha": "date",
+        "dosis_total": "total_vaccinations",
+        "primera_dosis": "people_vaccinated",
+        "segunda_dosis": "people_fully_vaccinated",
+        "dosis_unica": "single_shots",
+        "refuerzo_1": "boosters_1",
+        "refuerzo_2": "boosters_2",
+    }
+    vaccine_mapping = {
+        "Pfizer/BioNTech": "Pfizer/BioNTech",
+        "Sinovac": "Sinovac",
+        "Oxford/AstraZeneca": "Oxford/AstraZeneca",
+        "CanSino": "CanSino",
+    }
+    vax_timeline = {
+        "Pfizer/BioNTech": "2020-12-01",
+        "Sinovac": "2021-03-06",
+        "Oxford/AstraZeneca": "2021-03-17",
+        "CanSino": "2021-08-03",
+    }
 
-        Args:
-            source_url (str): Source data url
-            location (str): Location name
-            columns_rename (dict, optional): Maps original to new names. Defaults to None.
-        """
-        self.source_url_ref = "https://github.com/andrab/ecuacovid"
-        self.source_url = f"{self.source_url_ref}/raw/master/datos_crudos/vacunometro/fabricantes.csv"
-        self.source_url_boosters = f"{self.source_url_ref}/raw/master/datos_crudos/vacunas/vacunas.csv"
-        self.location = "Ecuador"
-        self.columns_rename = {
-            "fabricante": "vaccine",
-            "dosis_total": "total_vaccinations",
-            "primera_dosis": "people_vaccinated",
-            "segunda_dosis": "people_fully_vaccinated",
-            "administered_at": "date",
-        }
-        self.vaccine_mapping = {
-            "Pfizer/BioNTech": "Pfizer/BioNTech",
-            "Sinovac": "Sinovac",
-            "Oxford/AstraZeneca": "Oxford/AstraZeneca",
-            "CanSino": "CanSino",
-        }
+    def read_manuf(self) -> pd.DataFrame:
+        return pd.read_csv(self.source_url["manufacturer"])
 
-    def read(self, source_url: str) -> pd.DataFrame:
-        return pd.read_csv(source_url)
+    def pipe_manuf_rename_cols(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.rename(columns=self.columns_rename_manuf)
 
-    def pipe_check_columns(self, df: pd.DataFrame) -> pd.DataFrame:
-        n_columns = df.shape[1]
-        if n_columns != 6:
-            raise ValueError(f"The provided input does not have {n_columns} columns. It has n_columns columns")
-        return df
+    def pipe_manuf_aggregate(self, df: pd.DataFrame) -> pd.DataFrame:
+        # Aggregate zones
+        return df.groupby(["vaccine", "date"], as_index=False).sum()
 
-    def pipe_column_rename(self, df: pd.DataFrame) -> pd.DataFrame:
-        if self.columns_rename:
-            return df.rename(columns=self.columns_rename)
-        return df
-
-    def pipe_vaccines(self, df: pd.DataFrame) -> pd.DataFrame:
+    def pipe_manuf_vaccine_checks(self, df: pd.DataFrame) -> pd.DataFrame:
         # Check vaccines
         vaccines_wrong = set(df.vaccine).difference(self.vaccine_mapping)
         if vaccines_wrong:
             raise ValueError(f"Unknown vaccine(s) {vaccines_wrong}")
-        return df.assign(vaccine=df.vaccine.replace(self.vaccine_mapping))
-
-    def pipe_date(self, df: pd.DataFrame, date_var: str) -> pd.DataFrame:
-        return df.assign(date=clean_date_series(df[date_var], "%d/%m/%Y"))
-
-    def pipe_check_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
-        x = df.groupby("vaccine").sum()
-        vax_1d = x.index.intersection(VACCINES_ONE_DOSE)
-        if not (x.loc[vax_1d, "people_vaccinated"] == 0).all():
-            raise ValueError(
-                f"First doses for one dose vaccines should be 0, as they are only counted in second doses."
-            )
         return df
 
-    def pipe_aggregate_zonas(self, df: pd.DataFrame) -> pd.DataFrame:
-        # Aggregate zones
-        df = df.drop(columns=["zona"])
-        df = df.groupby(["vaccine", "date"], as_index=False).sum()
-        return df
-
-    def pipeline_base(self, df: pd.DataFrame) -> pd.DataFrame:
-        return (
-            df.pipe(self.pipe_check_columns)
-            .pipe(self.pipe_column_rename)
-            .pipe(self.pipe_vaccines)
-            .pipe(self.pipe_date, "date")
-            .pipe(self.pipe_check_metrics)
-            .pipe(self.pipe_aggregate_zonas)
-        )
-
-    def pipeline_boosters(self, df: pd.DataFrame) -> pd.DataFrame:
-        return df.pipe(self.pipe_date, "fecha")[["date", "refuerzo"]].rename(columns={"refuerzo": "total_boosters"})
+    def pipe_manuf_date(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(date=clean_date_series(df.date, format_input="%d/%m/%Y"))
 
     def pipeline_manufacturer(self, df: pd.DataFrame) -> pd.DataFrame:
-        df = df[["date", "vaccine", "total_vaccinations"]]
-        df = df.assign(location="Ecuador")
-        df = df.sort_values(["vaccine", "date"])
-        return df[["location", "date", "vaccine", "total_vaccinations"]]
-
-    def _get_single_shots(self, df: pd.DataFrame) -> pd.DataFrame:
-        # Get single shots
-        return df.loc[df.vaccine.isin(VACCINES_ONE_DOSE), ["date", "total_vaccinations"]].rename(
-            columns={"total_vaccinations": "single_shots"}
+        check_known_columns(
+            df,
+            [
+                "zona",
+                "fabricante",
+                "dosis_total",
+                "primera_dosis",
+                "segunda_dosis",
+                "dosis_unica",
+                "dosis_refuerzo",
+                "administered_at",
+            ],
+        )
+        return (
+            df.pipe(self.pipe_manuf_rename_cols)
+            .pipe(self.pipe_manuf_aggregate)
+            .pipe(self.pipe_manuf_vaccine_checks)
+            .pipe(self.pipe_manuf_date)
+            .assign(location=self.location)
+            .pipe(self.make_monotonic, ["vaccine"])
+            .sort_values(["vaccine", "date"])[["location", "date", "vaccine", "total_vaccinations"]]
         )
 
-    def pipe_aggregate(self, df: pd.DataFrame) -> pd.DataFrame:
-        # Get single shots
-        return df.groupby("date", as_index=False).agg(
-            {
-                "total_vaccinations": sum,
-                "people_vaccinated": sum,
-                "people_fully_vaccinated": sum,
-                "vaccine": lambda x: ", ".join(sorted(x.unique())),
-            }
+    def read(self) -> pd.DataFrame:
+        df = pd.read_csv(self.source_url["main"])
+        return df
+
+    def pipe_column_rename(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.rename(columns=self.columns_rename)
+
+    def pipe_metrics(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(
+            people_vaccinated=df.people_vaccinated + df.single_shots,
+            people_fully_vaccinated=df.people_fully_vaccinated + df.single_shots,
+            total_boosters=df.boosters_1 + df.boosters_2,
         )
 
-    def pipe_single_shot_correction(self, df: pd.DataFrame, df_single) -> pd.DataFrame:
-        # Single shot correction
-        single_shots = df.merge(df_single, on="date", how="left")["single_shots"]
-        df["people_vaccinated"] = (df.people_vaccinated + single_shots.fillna(0)).astype(int)
+    def pipe_checks(self, df: pd.DataFrame) -> pd.DataFrame:
         return df
 
-    def pipe_metadata(self, df: pd.DataFrame) -> pd.DataFrame:
-        df = df.assign(location=self.location, source_url=self.source_url_ref)
-        return df
+    def pipe_date(self, df: pd.DataFrame) -> pd.DataFrame:
+        return df.assign(date=clean_date_series(df.date, "%d/%m/%Y"))
+
+    def pipe_vaccines(self, df: pd.DataFrame) -> pd.DataFrame:
+        return build_vaccine_timeline(df, self.vax_timeline)
 
     def pipe_exclude_dp(self, df: pd.DataFrame) -> pd.DataFrame:
         return df[(df.date < "2021-09-01") | (df.date > "2021-09-07")]
 
-    def pipe_sort_date(self, df: pd.DataFrame) -> pd.DataFrame:
-        df = df.sort_values("date")
-        return df
-
     def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
-        df_single = self._get_single_shots(df)
-        df = (
-            df.pipe(self.pipe_aggregate)
-            .pipe(self.pipe_single_shot_correction, df_single)
-            .pipe(self.pipe_metadata)
+        check_known_columns(
+            df,
+            ["fecha", "dosis_total", "primera_dosis", "segunda_dosis", "dosis_unica", "refuerzo_1", "refuerzo_2"],
+        )
+        return (
+            df.pipe(self.pipe_column_rename)
+            .pipe(self.pipe_metrics)
+            .pipe(self.pipe_checks)
+            .pipe(self.pipe_date)
+            .pipe(self.pipe_vaccines)
+            .assign(location=self.location, source_url=self.source_url_ref)[
+                [
+                    "location",
+                    "date",
+                    "vaccine",
+                    "source_url",
+                    "total_vaccinations",
+                    "people_vaccinated",
+                    "people_fully_vaccinated",
+                    "total_boosters",
+                ]
+            ]
+            .sort_values("date")
             .pipe(self.pipe_exclude_dp)
-            .pipe(self.pipe_sort_date)
             .pipe(make_monotonic)
         )
-        return df
 
-    def to_csv(self):
-
-        df = self.read(self.source_url).pipe(self.pipeline_base)
-
+    def export(self):
         # Manufacturer
-        df_man = df.pipe(self.pipeline_manufacturer)
-        df_man.to_csv(paths.out_vax(self.location, manufacturer=True), index=False)
-        export_metadata_manufacturer(
-            df_man,
-            "Ministerio de Salud Pública del Ecuador (via https://github.com/andrab/ecuacovid)",
-            self.source_url_ref,
-        )
-
-        # Main data
-        df = df.pipe(self.pipeline)
-        boosters = self.read(self.source_url_boosters).pipe(self.pipeline_boosters)
-        df.merge(boosters, on="date", how="left", validate="one_to_one").to_csv(
-            paths.out_vax(self.location), index=False
+        df_man = self.read_manuf().pipe(self.pipeline_manufacturer)
+        # Main
+        df = self.read().pipe(self.pipeline)
+        # Export
+        self.export_datafile(
+            df=df,
+            df_manufacturer=df_man,
+            meta_manufacturer={
+                "source_name": f"Ministerio de Salud Pública del Ecuador (via {self.source_url_ref})",
+                "source_url": self.source_url_ref,
+            },
         )
 
 
 def main():
-    Ecuador().to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Ecuador().export()

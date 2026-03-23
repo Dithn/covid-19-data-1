@@ -57,7 +57,3 @@ def main():
         source_url="https://www.government.aw",
         vaccine=data["vaccine"],
     )
-
-
-if __name__ == "__main__":
-    main()

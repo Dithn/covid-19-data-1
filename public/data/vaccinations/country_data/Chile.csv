@@ -1,350 +1,763 @@
-date,people_vaccinated,people_fully_vaccinated,total_vaccinations,total_boosters,vaccine,location,source_url
-2020-12-24,420,0,420,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-25,5203,0,5203,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-26,8346,0,8346,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-27,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-28,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-29,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-30,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2020-12-31,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-01,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-02,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-03,8657,0,8657,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-04,9062,0,9062,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-05,10505,0,10505,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-06,10710,0,10710,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-07,10710,0,10710,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-08,10711,0,10711,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-09,10711,0,10711,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-10,10712,0,10712,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-11,10712,0,10712,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-12,10712,0,10712,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-13,10713,1032,11745,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-14,12833,5829,18662,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-15,13790,8304,22094,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-16,13813,8371,22184,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-17,13813,8371,22184,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-18,24864,8371,33235,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-19,44232,8372,52604,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-20,53542,8372,61914,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-21,56599,8372,64971,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-22,57010,8376,65386,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-23,57010,8376,65386,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-24,57010,8376,65386,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-25,57027,9779,66806,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-26,57046,10374,67420,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-27,57047,10408,67455,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-28,57047,10408,67455,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-29,57047,10413,67460,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-30,57048,10413,67461,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-01-31,57048,10414,67462,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-01,57048,10414,67462,0,Pfizer/BioNTech,Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-02,70235,10420,80655,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-03,240623,10420,251043,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-04,414675,12528,427203,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-05,583517,13198,596715,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-06,611371,13203,624574,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-07,620010,13205,633215,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-08,841526,24988,866514,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-09,1084047,44378,1128425,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-10,1356498,52726,1409224,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-11,1607912,55615,1663527,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-12,1837199,55825,1893024,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-13,1866729,55858,1922587,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-14,1871197,55858,1927055,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-15,2137082,55858,2192940,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-16,2357168,55870,2413038,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-17,2545227,55870,2601097,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-18,2700514,55871,2756385,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-19,2842661,55872,2898533,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-20,2852302,55872,2908174,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-21,2853464,55872,2909336,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-22,2961585,55894,3017479,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-23,3055803,55934,3111737,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-24,3141912,56108,3198020,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-25,3227857,56253,3284110,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-26,3306143,56371,3362514,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-27,3316187,56375,3372562,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-02-28,3316542,56375,3372917,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-01,3453708,56784,3510492,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-02,3612672,69204,3681876,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-03,3770532,223340,3993872,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-04,3915286,389229,4304515,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-05,4051519,550994,4602513,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-06,4061165,575140,4636305,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-07,4062232,582041,4644273,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-08,4198858,796186,4995044,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-09,4337903,1033794,5371697,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-10,4473731,1299431,5773162,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-11,4645176,1545173,6190349,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-12,4796434,1768418,6564852,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-13,4820723,1794610,6615333,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-14,4823473,1798449,6621922,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-15,4981371,2070993,7052364,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-16,5148038,2314702,7462740,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-17,5299353,2530803,7830156,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-18,5448213,2717018,8165231,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-19,5588115,2871844,8459959,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-20,5611305,2882863,8494168,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-21,5614158,2884035,8498193,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-22,5760951,3006077,8767028,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-23,5911273,3096745,9008018,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-24,6065585,3161588,9227173,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-25,6223085,3216850,9439935,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-26,6389701,3268005,9657706,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-27,6402646,3270756,9673402,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-28,6403615,3271180,9674795,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-29,6554906,3386749,9941655,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-30,6688912,3531510,10220422,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-03-31,6816047,3684823,10500870,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-01,6950856,3853454,10804310,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-02,6952715,3858642,10811357,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-03,6954596,3859990,10814586,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-04,6955254,3860458,10815712,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-05,7035222,4065430,11100652,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-06,7128396,4212184,11340580,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-07,7223298,4350659,11573957,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-08,7300055,4513541,11813596,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-09,7370947,4661684,12032631,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-10,7382144,4676527,12058671,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-11,7383242,4677883,12061125,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-12,7461378,4836890,12298268,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-13,7536405,4997300,12533705,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-14,7615773,5147552,12763325,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-15,7678085,5292532,12970617,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-16,7736491,5428477,13164968,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-17,7744396,5442870,13187266,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-18,7745272,5444637,13189909,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-19,7789201,5595897,13385098,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-20,7828444,5746111,13574555,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-21,7859598,5892644,13752242,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-22,7915973,6037077,13953050,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-23,7955831,6180941,14136772,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-24,7961581,6192884,14154465,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-25,7961933,6193577,14155510,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-26,8005018,6347295,14352313,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-27,8044045,6479895,14523940,0,"Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-28,8087552,6605616,14693168,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-29,8118427,6730231,14848658,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-04-30,8169379,6767195,14936574,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-01,8170470,6768405,14938875,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-02,8171269,6769071,14940340,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-03,8247308,6845006,15092314,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-04,8328399,6933691,15262090,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-05,8409922,7027430,15437352,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-06,8491527,7104178,15595705,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-07,8575633,7168109,15743742,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-08,8593019,7176322,15769341,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-09,8593981,7176768,15770749,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-10,8697295,7247252,15944547,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-11,8804722,7332668,16137390,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-12,8909590,7411228,16320818,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-13,9006614,7471954,16478568,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-14,9109868,7528238,16638106,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-15,9110920,7528645,16639565,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-16,9111188,7528818,16640006,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-17,9235800,7575960,16811760,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-18,9371921,7623723,16995644,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-19,9497673,7665042,17162715,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-20,9626194,7728446,17354640,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-21,9634497,7729815,17364312,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-22,9661344,7736102,17397446,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-23,9665041,7736692,17401733,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-24,9840928,7797875,17638803,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-25,10030829,7854841,17885670,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-26,10211520,7903260,18114780,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-27,10378484,7939588,18318072,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-28,10523957,7980525,18504482,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-29,10565556,7986320,18551876,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-30,10574676,7987295,18561971,0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-05-31,10730744,8047090,18777760,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-01,10880596,8129157,18999290,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-02,11013046,8224334,19203589,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-03,11108299,8332592,19367470,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-04,11185075,8435473,19512746,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-05,11209741,8458457,19550483,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-06,11213513,8461480,19555487,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-07,11294885,8589086,19736992,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-08,11375209,8713709,19921851,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-09,11468562,8830842,20115605,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-10,11578070,8937692,20318801,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-11,11662750,9036133,20497876,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-12,11685862,9045935,20530397,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-13,11687337,9046581,20532469,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-14,11796579,9163297,20754248,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-15,11885378,9289048,20965118,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-16,11994924,9410457,21192119,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-17,12068922,9523586,21376204,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-18,12132777,9569432,21483528,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-19,12149635,9589600,21520276,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-20,12151444,9591762,21524235,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-21,12158850,9604197,21543998,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-22,12262266,9813557,21853011,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-23,12350227,9989781,22104771,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-24,12462288,10194659,22358119,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-25,12550624,10367847,22569509,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-26,12571805,10409710,22622472,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-27,12574098,10414348,22628148,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-28,12576568,10418721,22633765,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-29,12648438,10628318,22883318,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-06-30,12719481,10785325,23088452,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-01,12820409,10881298,23271332,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-02,12897329,10957719,23413194,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-03,12916315,10980164,23451194,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-04,12918723,10982672,23455709,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-05,12976915,11090139,23610954,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-06,13028222,11176845,23741373,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-07,13106848,11265249,23903603,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-08,13168786,11363907,24060330,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-09,13223303,11452858,24199880,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-10,13244893,11476298,24243335,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-11,13247468,11479014,24248454,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-12,13300774,11609685,24428339,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-13,13383841,11713581,24612467,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-14,13441298,11821810,24775428,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-15,13518164,11917707,24942880,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-16,13520391,11920410,24947713,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-17,13530827,11934345,24971615,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-18,13531860,11935649,24973850,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-19,13582169,12011405,25097279,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-20,13624137,12105667,25231773,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-21,13658903,12177187,25336657,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-22,13696358,12219764,25415095,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-23,13755782,12277713,25531238,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-24,13780256,12289300,25565871,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-25,13782360,12290203,25568836,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-26,13798801,12331533,25625657,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-27,13808866,12373355,25676765,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-28,13816740,12401487,25712238,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-29,13825879,12483190,25802601,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-30,13834619,12551631,25879506,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-07-31,13835696,12561783,25890723,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-01,13835731,12562219,25891193,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-02,13936278,12586927,26015448,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-03,14049962,12613178,26154529,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-04,14054981,12673145,26219291,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-05,14058433,12716207,26265623,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-06,14061604,12747945,26300352,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-07,14061862,12748873,26301522,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-08,14061918,12748896,26301601,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-09,14139044,12770348,26399959,0,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-10,14207335,12790077,26487756,30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-11,14210271,12908050,26678719,70194,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-12,14212716,12987509,26850562,160244,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-13,14214912,13036711,26998956,257337,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-14,14215206,13037732,27003728,260807,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-15,14215430,13037932,27004241,260896,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-16,14254420,13060341,27223565,419242,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-17,14291797,13087184,27463127,597666,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-18,14295030,13165548,27653639,707884,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-19,14298086,13226278,27823583,815528,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-20,14301269,13282738,27973763,907939,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-21,14302618,13285726,27980226,911236,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-22,14303311,13286539,27981534,911655,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-23,14333310,13316293,28100732,976040,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-24,14360292,13339010,28219559,1049947,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-25,14378255,13356343,28333061,1131731,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-26,14381313,13437505,28517476,1233407,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-27,14384192,13491540,28651010,1311492,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-28,14385470,13493731,28655268,1313335,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-29,14385943,13494293,28656126,1313554,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-30,14407899,13575489,28849978,1408266,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-08-31,14429850,13670077,29053271,1499318,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-01,14432646,13704680,29210469,1620488,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-02,14435035,13729352,29351114,1735204,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-03,14437314,13747464,29453210,1818233,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-04,14437855,13748303,29455887,1819888,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-05,14437997,13748461,29456177,1820002,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-06,14455150,13810043,29611014,1898480,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-07,14472470,13873278,29793961,2002973,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-08,14474381,13889217,29944720,2136622,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-09,14476128,13900870,30082260,2261409,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-10,14477621,13910411,30217321,2386015,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-11,14477998,13911028,30220667,2388569,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-12,14478043,13911087,30220983,2388808,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-13,14544556,13950952,30413556,2476166,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-14,14597712,13990951,30592947,2563702,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-15,14653783,14007267,30733770,2633166,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-16,14681405,14015758,30800407,2664268,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-17,14681486,14015812,30800591,2664321,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-18,14681501,14015827,30800611,2664321,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-19,14681504,14015832,30800616,2664321,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-20,14748285,14039207,30946161,2720664,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-21,14810778,14063706,31104893,2793325,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-22,14885251,14081737,31271645,2868231,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-23,14937248,14093051,31415489,2949340,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-24,15009468,14102785,31564549,3016956,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-25,15010380,14103187,31567274,3018499,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-26,15010620,14103248,31567693,3018656,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-27,15110104,14121161,31766616,3100748,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-28,15231774,14141326,32000150,3193032,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-29,15355940,14152978,32222043,3279672,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-09-30,15471673,14161909,32422936,3356330,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-01,15577388,14169705,32605582,3426090,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-02,15583388,14170072,32614010,3428207,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-03,15583830,14170156,32614959,3428657,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-04,15668045,14185527,32785841,3500275,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-05,15745461,14201334,32954856,3576383,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-06,15815522,14208902,33109160,3653476,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-07,15879605,14215079,33264242,3738556,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-08,15934514,14220791,33409203,3823084,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-09,15936577,14221086,33412947,3824518,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-10,15936683,14221107,33413343,3824787,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-11,15937203,14221384,33414840,3825487,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-12,15995290,14286924,33628998,3916229,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-13,16053412,14340437,33854291,4030052,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-14,16103254,14372966,34049805,4143371,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-15,16143446,14391203,34223570,4258886,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-16,16145282,14391632,34229685,4262743,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-17,16145388,14391672,34230502,4263416,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-18,16185197,14438775,34421743,4367905,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-19,16230708,14493254,34648482,4494830,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-20,16270647,14554926,34886728,4631736,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-21,16307005,14603401,35118467,4778772,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-22,16336879,14658931,35361393,4936428,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-23,16338293,14660181,35371050,4943434,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-24,16338421,14660246,35372083,4944274,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-25,16373281,14739068,35649478,5108146,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-26,16405920,14833591,35970510,5302164,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-27,16437903,14935208,36294680,5492893,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-28,16467581,15036224,36614465,5682070,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-29,16492490,15127380,36908757,5860374,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-30,16494871,15131645,36935932,5880907,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-10-31,16495137,15131905,36938712,5883165,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-01,16495340,15132428,36941176,5884909,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-02,16521694,15226291,37199938,6023654,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-03,16548525,15314576,37508376,6217113,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-04,16574235,15395642,37801343,6403471,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-05,16598140,15466208,38061449,6569221,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-06,16600962,15470446,38094240,6594959,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-07,16601168,15470658,38097476,6597777,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-08,16625085,15513477,38282444,6716170,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-09,16647575,15572544,38511793,6864126,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-10,16667496,15629770,38723865,6999100,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-11,16685398,15684478,38913283,7115953,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-12,16703469,15732238,39108538,7245420,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-13,16706406,15736025,39141364,7271539,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-14,16706625,15736278,39144610,7274327,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-15,16726586,15782683,39337669,7401073,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-16,16744898,15829185,39529537,7528171,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-17,16760771,15871616,39711274,7651642,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-18,16774828,15909341,39874916,7763546,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-19,16787601,15941219,40033239,7877261,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-20,16789224,15943366,40055289,7895544,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-21,16789362,15943499,40057329,7897314,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-22,16802865,15974748,40195022,7990286,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-23,16815298,16008856,40337186,8085950,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-24,16826393,16041179,40474810,8180198,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-25,16836693,16072257,40599938,8263975,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-26,16846456,16100776,40725322,8351095,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-27,16848338,16103754,40749702,8370625,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-28,16848589,16104038,40752843,8373233,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-29,16860911,16124012,40889004,8477147,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-11-30,16872952,16151476,41056909,8605582,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-01,16883687,16175548,41216449,8730352,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-02,16893426,16198675,41366435,8847498,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-03,16902375,16220382,41513713,8964151,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-04,16903855,16222775,41538880,8985457,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-05,16904065,16223013,41542388,8988517,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-06,16919090,16246932,41703867,9111097,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
-2021-12-07,16927922,16261200,41811078,9195236,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",Chile,https://github.com/MinCiencia/Datos-COVID19
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated,total_boosters
+Chile,2020-12-24,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,420,420,0,0
+Chile,2020-12-25,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,5199,5199,0,0
+Chile,2020-12-26,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,8339,8339,0,0
+Chile,2020-12-27,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,8648,8648,0,0
+Chile,2021-01-04,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,9053,9053,0,0
+Chile,2021-01-05,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,10497,10497,0,0
+Chile,2021-01-06,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,10703,10703,0,0
+Chile,2021-01-08,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,10704,10704,0,0
+Chile,2021-01-10,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,10705,10705,0,0
+Chile,2021-01-11,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,10706,10706,0,0
+Chile,2021-01-13,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,11739,10707,1032,0
+Chile,2021-01-14,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,18656,12827,5829,0
+Chile,2021-01-15,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,22087,13783,8304,0
+Chile,2021-01-16,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,22177,13806,8371,0
+Chile,2021-01-18,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,33227,24856,8371,0
+Chile,2021-01-19,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,52594,44222,8372,0
+Chile,2021-01-20,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,61904,53532,8372,0
+Chile,2021-01-21,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,64960,56588,8372,0
+Chile,2021-01-22,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,65375,56999,8376,0
+Chile,2021-01-25,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,66795,57016,9779,0
+Chile,2021-01-26,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,67409,57035,10374,0
+Chile,2021-01-27,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,67444,57036,10408,0
+Chile,2021-01-29,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,67449,57036,10413,0
+Chile,2021-01-30,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,67450,57037,10413,0
+Chile,2021-01-31,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,67451,57037,10414,0
+Chile,2021-02-01,Pfizer/BioNTech,https://github.com/MinCiencia/Datos-COVID19,67452,57038,10414,0
+Chile,2021-02-02,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,80651,70231,10420,0
+Chile,2021-02-03,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,251039,240619,10420,0
+Chile,2021-02-04,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,427221,414693,12528,0
+Chile,2021-02-05,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,596744,583545,13199,0
+Chile,2021-02-06,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,624605,611401,13204,0
+Chile,2021-02-07,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,633247,620040,13207,0
+Chile,2021-02-08,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,866556,841567,24989,0
+Chile,2021-02-09,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,1128499,1084120,44379,0
+Chile,2021-02-10,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,1409321,1356594,52727,0
+Chile,2021-02-11,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,1663640,1608024,55616,0
+Chile,2021-02-12,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,1893137,1837311,55826,0
+Chile,2021-02-13,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,1922701,1866842,55859,0
+Chile,2021-02-14,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,1927169,1871310,55859,0
+Chile,2021-02-15,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2193078,2137219,55859,0
+Chile,2021-02-16,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2413184,2357313,55871,0
+Chile,2021-02-17,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2601234,2545363,55871,0
+Chile,2021-02-18,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2756533,2700661,55872,0
+Chile,2021-02-19,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2898688,2842813,55875,0
+Chile,2021-02-20,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2908329,2852454,55875,0
+Chile,2021-02-21,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,2909492,2853617,55875,0
+Chile,2021-02-22,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3017657,2961760,55897,0
+Chile,2021-02-23,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3111918,3055981,55937,0
+Chile,2021-02-24,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3198205,3142094,56111,0
+Chile,2021-02-25,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3284329,3228073,56256,0
+Chile,2021-02-26,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3362760,3306386,56374,0
+Chile,2021-02-27,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3372810,3316432,56378,0
+Chile,2021-02-28,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3373164,3316786,56378,0
+Chile,2021-03-01,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3510763,3453973,56790,0
+Chile,2021-03-02,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3682160,3612951,69209,0
+Chile,2021-03-03,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,3994192,3770837,223355,0
+Chile,2021-03-04,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,4304882,3915618,389264,0
+Chile,2021-03-05,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,4602952,4051909,551043,0
+Chile,2021-03-06,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,4636755,4061558,575197,0
+Chile,2021-03-07,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,4644731,4062633,582098,0
+Chile,2021-03-08,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,4995552,4199280,796272,0
+Chile,2021-03-09,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,5372261,4338349,1033912,0
+Chile,2021-03-10,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,5773785,4474208,1299577,0
+Chile,2021-03-11,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,6191013,4645674,1545339,0
+Chile,2021-03-12,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,6565543,4796939,1768604,0
+Chile,2021-03-13,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,6616030,4821231,1794799,0
+Chile,2021-03-14,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,6622622,4823984,1798638,0
+Chile,2021-03-15,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,7053117,4981912,2071205,0
+Chile,2021-03-16,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,7463549,5148612,2314937,0
+Chile,2021-03-17,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,7831014,5299960,2531054,0
+Chile,2021-03-18,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,8166174,5448894,2717280,0
+Chile,2021-03-19,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,8460921,5588807,2872114,0
+Chile,2021-03-20,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,8495137,5612003,2883134,0
+Chile,2021-03-21,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,8499162,5614855,2884307,0
+Chile,2021-03-22,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,8768062,5761677,3006385,0
+Chile,2021-03-23,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9009097,5912024,3097073,0
+Chile,2021-03-24,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9228297,6066368,3161929,0
+Chile,2021-03-25,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9441129,6223903,3217226,0
+Chile,2021-03-26,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9658969,6390547,3268422,0
+Chile,2021-03-27,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9674671,6403496,3271175,0
+Chile,2021-03-28,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9676065,6404466,3271599,0
+Chile,2021-03-29,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,9943001,6555812,3387189,0
+Chile,2021-03-30,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,10221829,6689816,3532013,0
+Chile,2021-03-31,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,10502321,6817032,3685289,0
+Chile,2021-04-01,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,10805884,6951934,3853950,0
+Chile,2021-04-02,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,10812994,6953829,3859165,0
+Chile,2021-04-03,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,10816224,6955710,3860514,0
+Chile,2021-04-04,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,10817358,6956375,3860983,0
+Chile,2021-04-05,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,11102409,7036395,4066014,0
+Chile,2021-04-06,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,11342436,7129599,4212837,0
+Chile,2021-04-07,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,11575876,7224533,4351343,0
+Chile,2021-04-08,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,11815587,7301339,4514248,0
+Chile,2021-04-09,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12034695,7372279,4662416,0
+Chile,2021-04-10,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12060745,7383480,4677265,0
+Chile,2021-04-11,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12063203,7384581,4678622,0
+Chile,2021-04-12,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12300474,7462808,4837666,0
+Chile,2021-04-13,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12535966,7537863,4998103,0
+Chile,2021-04-14,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12765700,7617289,5148411,0
+Chile,2021-04-15,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,12973082,7679641,5293441,0
+Chile,2021-04-16,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13167529,7738118,5429411,0
+Chile,2021-04-17,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13189836,7746030,5443806,0
+Chile,2021-04-18,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13192479,7746906,5445573,0
+Chile,2021-04-19,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13387805,7790903,5596902,0
+Chile,2021-04-20,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13577382,7830189,5747193,0
+Chile,2021-04-21,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13755163,7861400,5893763,0
+Chile,2021-04-22,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,13956092,7917837,6038255,0
+Chile,2021-04-23,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14139907,7957733,6182174,0
+Chile,2021-04-24,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14157611,7963483,6194128,0
+Chile,2021-04-25,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14158657,7963836,6194821,0
+Chile,2021-04-26,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14355594,8006984,6348610,0
+Chile,2021-04-27,"Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14527269,8046025,6481244,0
+Chile,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14696571,8089549,6607022,0
+Chile,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14852182,8120469,6731713,0
+Chile,2021-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14940220,8171482,6768738,0
+Chile,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14942520,8172573,6769947,0
+Chile,2021-05-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,14943988,8173374,6770614,0
+Chile,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15096118,8249505,6846613,0
+Chile,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15265974,8330642,6935332,0
+Chile,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15441311,8412209,7029102,0
+Chile,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15599762,8493862,7105900,0
+Chile,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15747944,8578042,7169902,0
+Chile,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15773545,8595429,7178116,0
+Chile,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15774958,8596394,7178564,0
+Chile,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,15948912,8699763,7249149,0
+Chile,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16141825,8807229,7334596,0
+Chile,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16325349,8912145,7413204,0
+Chile,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16483169,9009204,7473965,0
+Chile,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16642843,9112514,7530329,0
+Chile,2021-05-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16644310,9113572,7530738,0
+Chile,2021-05-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16644751,9113838,7530913,0
+Chile,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,16816615,9238506,7578109,0
+Chile,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17000631,9374688,7625943,0
+Chile,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17167826,9500518,7667308,0
+Chile,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17359883,9629092,7730791,0
+Chile,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17369736,9637543,7732193,0
+Chile,2021-05-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17402970,9664490,7738480,0
+Chile,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17407262,9668191,7739071,0
+Chile,2021-05-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17644459,9844134,7800325,0
+Chile,2021-05-25,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,17891422,10034086,7857336,0
+Chile,2021-05-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,18120604,10214816,7905788,0
+Chile,2021-05-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,18323983,10381818,7942165,0
+Chile,2021-05-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,18510506,10527321,7983185,0
+Chile,2021-05-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,18557909,10568923,7988986,0
+Chile,2021-05-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,18568011,10578046,7989965,0
+Chile,2021-05-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,18783901,10734157,8049818,0
+Chile,2021-06-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19005597,10884127,8131943,0
+Chile,2021-06-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19209981,11016626,8227160,0
+Chile,2021-06-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19373941,11111919,8335468,0
+Chile,2021-06-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19519332,11188744,8438422,0
+Chile,2021-06-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19557075,11213411,8461408,0
+Chile,2021-06-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19562093,11217188,8464440,0
+Chile,2021-06-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19743725,11298616,8592132,0
+Chile,2021-06-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,19928738,11379021,8716834,0
+Chile,2021-06-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20122588,11472426,8834022,0
+Chile,2021-06-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20325896,11582005,8940921,0
+Chile,2021-06-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20505039,11666705,9039409,0
+Chile,2021-06-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20537566,11689821,9049214,0
+Chile,2021-06-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20539643,11691299,9049863,0
+Chile,2021-06-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20761545,11800583,9166663,0
+Chile,2021-06-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,20972518,11889426,9292474,0
+Chile,2021-06-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21199636,11999035,9413937,0
+Chile,2021-06-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21383853,12073076,9527158,0
+Chile,2021-06-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21491267,12136954,9573072,0
+Chile,2021-06-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21528045,12153827,9593256,0
+Chile,2021-06-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21532003,12155635,9595418,0
+Chile,2021-06-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21551806,12163059,9607876,0
+Chile,2021-06-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,21861240,12266584,9817550,0
+Chile,2021-06-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22113114,12354598,9993848,0
+Chile,2021-06-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22366602,12466716,10198821,0
+Chile,2021-06-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22578084,12555075,10372098,0
+Chile,2021-06-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22631057,12576254,10413973,0
+Chile,2021-06-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22636735,12578548,10418613,0
+Chile,2021-06-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22642372,12581022,10423003,0
+Chile,2021-06-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,22892099,12652934,10632749,0
+Chile,2021-06-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23097345,12724005,10789844,0
+Chile,2021-07-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23280385,12825034,10885888,0
+Chile,2021-07-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23422336,12901979,10962375,0
+Chile,2021-07-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23460350,12920970,10984831,0
+Chile,2021-07-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23464874,12923381,10987346,0
+Chile,2021-07-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23620288,12981610,11094951,0
+Chile,2021-07-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23750867,13032945,11181794,0
+Chile,2021-07-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,23913209,13111602,11270280,0
+Chile,2021-07-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24070047,13173568,11369024,0
+Chile,2021-07-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24209675,13228098,11458041,0
+Chile,2021-07-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24253149,13249694,11481495,0
+Chile,2021-07-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24258271,13252270,11484213,0
+Chile,2021-07-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24438312,13305605,11615012,0
+Chile,2021-07-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24622610,13388716,11719036,0
+Chile,2021-07-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24785627,13446183,11827316,0
+Chile,2021-07-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24953063,13523004,11923248,0
+Chile,2021-07-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24957902,13525229,11925961,0
+Chile,2021-07-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24981763,13535642,11939878,0
+Chile,2021-07-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,24983999,13536676,11941182,0
+Chile,2021-07-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25107522,13587035,12016982,0
+Chile,2021-07-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25242187,13629053,12111366,0
+Chile,2021-07-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25347171,13663857,12182950,0
+Chile,2021-07-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25425674,13701332,12225571,0
+Chile,2021-07-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25541884,13760773,12283572,0
+Chile,2021-07-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25576524,13785246,12295168,0
+Chile,2021-07-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25579493,13787352,12296073,0
+Chile,2021-07-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25636367,13803811,12337438,0
+Chile,2021-07-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25687528,13813894,12379296,0
+Chile,2021-07-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25723044,13821782,12407459,0
+Chile,2021-07-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25813504,13830927,12489252,0
+Chile,2021-07-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25890515,13839732,12557734,0
+Chile,2021-07-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25901746,13840812,12567898,0
+Chile,2021-08-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,25902222,13840851,12568336,0
+Chile,2021-08-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26026546,13941463,12593049,0
+Chile,2021-08-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26165719,14055195,12619345,0
+Chile,2021-08-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26230549,14060216,12679378,0
+Chile,2021-08-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26276920,14063681,12722466,0
+Chile,2021-08-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26311684,14066857,12754235,0
+Chile,2021-08-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26312856,14067115,12755165,0
+Chile,2021-08-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26312938,14067171,12755191,0
+Chile,2021-08-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26411348,14144305,12776688,0
+Chile,2021-08-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26499230,14212625,12796462,41
+Chile,2021-08-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26690175,14215583,12914484,70117
+Chile,2021-08-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,26861877,14218023,12993972,160002
+Chile,2021-08-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27010046,14220222,13043178,256863
+Chile,2021-08-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27014812,14220518,13044198,260326
+Chile,2021-08-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27015332,14220744,13044402,260416
+Chile,2021-08-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27234693,14259756,13066864,418724
+Chile,2021-08-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27473958,14297161,13093763,596770
+Chile,2021-08-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27664311,14300419,13172196,706742
+Chile,2021-08-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27834188,14303480,13232984,814258
+Chile,2021-08-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27984307,14306702,13289491,906522
+Chile,2021-08-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27990770,14308055,13292484,909813
+Chile,2021-08-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,27992087,14308751,13293302,910235
+Chile,2021-08-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28111202,14338783,13323082,974487
+Chile,2021-08-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28229945,14365790,13345857,1048230
+Chile,2021-08-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28343300,14383742,13363225,1129849
+Chile,2021-08-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28527606,14386807,13444440,1231359
+Chile,2021-08-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28661162,14389705,13498624,1309299
+Chile,2021-08-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28665427,14390988,13500820,1311140
+Chile,2021-08-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28666293,14391463,13501388,1311359
+Chile,2021-08-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,28860128,14413442,13582728,1405889
+Chile,2021-08-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29063307,14435409,13677343,1496784
+Chile,2021-09-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29220350,14438201,13712006,1617744
+Chile,2021-09-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29360798,14440612,13736700,1732220
+Chile,2021-09-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29462793,14442900,13754826,1815128
+Chile,2021-09-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29465464,14443442,13755665,1816776
+Chile,2021-09-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29465760,14443587,13755825,1816891
+Chile,2021-09-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29620569,14460825,13817455,1895213
+Chile,2021-09-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29803403,14478159,13880738,1999531
+Chile,2021-09-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,29953967,14480088,13896692,2132955
+Chile,2021-09-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30091262,14481838,13908357,2257483
+Chile,2021-09-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30226111,14483340,13917918,2381848
+Chile,2021-09-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30229463,14483718,13918536,2384406
+Chile,2021-09-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30229779,14483763,13918595,2384645
+Chile,2021-09-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30422336,14550325,13958525,2471871
+Chile,2021-09-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30601721,14603524,13998564,2559319
+Chile,2021-09-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30742535,14659624,14014923,2628703
+Chile,2021-09-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30809180,14687269,14023432,2659772
+Chile,2021-09-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30809366,14687351,14023487,2659825
+Chile,2021-09-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30809388,14687367,14023504,2659825
+Chile,2021-09-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30809393,14687370,14023509,2659825
+Chile,2021-09-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,30954910,14754160,14046937,2716079
+Chile,2021-09-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31113519,14816674,14071435,2788596
+Chile,2021-09-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31280232,14891170,14089465,2863441
+Chile,2021-09-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31424036,14943165,14100793,2944498
+Chile,2021-09-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31573053,15015405,14110546,3012032
+Chile,2021-09-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31575783,15016318,14110950,3013577
+Chile,2021-09-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31576208,15016559,14111014,3013736
+Chile,2021-09-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,31775134,15116057,14128942,3095802
+Chile,2021-09-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32008668,15237765,14149136,3188021
+Chile,2021-09-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32230533,15361953,14160815,3274584
+Chile,2021-09-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32431464,15477708,14169765,3351238
+Chile,2021-10-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32614188,15583474,14177582,3421004
+Chile,2021-10-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32622615,15589475,14177949,3423119
+Chile,2021-10-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32623573,15589917,14178037,3423574
+Chile,2021-10-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32794517,15674134,14193505,3495155
+Chile,2021-10-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,32963497,15751560,14209347,3571184
+Chile,2021-10-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33117755,15821660,14216920,3648184
+Chile,2021-10-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33272882,15885777,14223115,3733258
+Chile,2021-10-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33417865,15940704,14228837,3817780
+Chile,2021-10-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33421611,15942767,14229134,3819214
+Chile,2021-10-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33422022,15942874,14229158,3819495
+Chile,2021-10-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33423539,15943397,14229444,3820203
+Chile,2021-10-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33637784,16001506,14295066,3910929
+Chile,2021-10-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,33863053,16059654,14348631,4024650
+Chile,2021-10-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34058584,16109519,14381193,4137930
+Chile,2021-10-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34232349,16149726,14399462,4253396
+Chile,2021-10-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34238462,16151565,14399893,4257246
+Chile,2021-10-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34239281,16151672,14399933,4257920
+Chile,2021-10-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34430530,16191507,14447079,4362350
+Chile,2021-10-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34657264,16237053,14501594,4489198
+Chile,2021-10-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,34895653,16277021,14563314,4626169
+Chile,2021-10-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,35127403,16313391,14611834,4773161
+Chile,2021-10-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,35370360,16343290,14667414,4930773
+Chile,2021-10-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,35380034,16344705,14668664,4937795
+Chile,2021-10-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,35381067,16344833,14668728,4938636
+Chile,2021-10-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,35658553,16379723,14747622,5102497
+Chile,2021-10-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,35979559,16412367,14842244,5296384
+Chile,2021-10-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,36303819,16444370,14943936,5487107
+Chile,2021-10-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,36623702,16474061,15045060,5676261
+Chile,2021-10-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,36918152,16498986,15136334,5854590
+Chile,2021-10-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,36945352,16501387,15140605,5875122
+Chile,2021-10-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,36948136,16501654,15140866,5877382
+Chile,2021-11-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,36950640,16501863,15141393,5879156
+Chile,2021-11-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,37209648,16528270,15235338,6018012
+Chile,2021-11-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,37518077,16555129,15323699,6211358
+Chile,2021-11-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,37811168,16580877,15404877,6397692
+Chile,2021-11-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38071347,16604803,15475584,6563354
+Chile,2021-11-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38104143,16607630,15479835,6589080
+Chile,2021-11-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38107379,16607836,15480047,6591898
+Chile,2021-11-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38292386,16631793,15522919,6710236
+Chile,2021-11-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38521723,16654325,15582051,6858072
+Chile,2021-11-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38733795,16674274,15639343,6992952
+Chile,2021-11-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,38923267,16692197,15694143,7109745
+Chile,2021-11-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39118531,16710320,15741966,7239106
+Chile,2021-11-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39151340,16713264,15745758,7265196
+Chile,2021-11-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39154617,16713490,15746021,7267998
+Chile,2021-11-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39347741,16733482,15792462,7394742
+Chile,2021-11-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39539637,16751833,15839007,7521786
+Chile,2021-11-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39721443,16767733,15881511,7645226
+Chile,2021-11-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,39885185,16781823,15919279,7757151
+Chile,2021-11-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40043568,16794613,15951204,7870858
+Chile,2021-11-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40065624,16796237,15953355,7889142
+Chile,2021-11-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40067665,16796375,15953491,7890910
+Chile,2021-11-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40205622,16809905,15984806,7984053
+Chile,2021-11-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40347927,16822378,16018978,8079754
+Chile,2021-11-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40485566,16833482,16051349,8173960
+Chile,2021-11-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40610829,16843815,16082489,8257778
+Chile,2021-11-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40736136,16853600,16111061,8344746
+Chile,2021-11-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40760514,16855493,16114049,8364253
+Chile,2021-11-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40763657,16855744,16114335,8366861
+Chile,2021-11-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,40899910,16868099,16134349,8470794
+Chile,2021-11-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41067929,16880177,16161871,8599248
+Chile,2021-12-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41227753,16891062,16185989,8724106
+Chile,2021-12-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41377939,16900830,16209183,8841356
+Chile,2021-12-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41525468,16909810,16230942,8958178
+Chile,2021-12-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41550656,16911298,16233338,8979494
+Chile,2021-12-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41554182,16911508,16233578,8982570
+Chile,2021-12-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41716246,16926732,16257584,9105449
+Chile,2021-12-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41886888,16942444,16281176,9236829
+Chile,2021-12-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,41890073,16942763,16281451,9239420
+Chile,2021-12-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42051401,16982566,16305287,9337124
+Chile,2021-12-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42200949,17019408,16325569,9429573
+Chile,2021-12-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42229791,17023382,16328271,9451741
+Chile,2021-12-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42233587,17023737,16328602,9454851
+Chile,2021-12-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42403782,17057099,16351519,9568794
+Chile,2021-12-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42565004,17087833,16372508,9678342
+Chile,2021-12-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42710504,17115099,16391701,9777442
+Chile,2021-12-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42841066,17140169,16408442,9866223
+Chile,2021-12-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42956897,17161698,16422987,9945998
+Chile,2021-12-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42978274,17164519,16424788,9962756
+Chile,2021-12-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,42980816,17164753,16424939,9964916
+Chile,2021-12-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43107532,17185002,16439978,10056365
+Chile,2021-12-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43227184,17203018,16454362,10143633
+Chile,2021-12-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43327725,17217406,16467029,10217130
+Chile,2021-12-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43405231,17227318,16477237,10274530
+Chile,2021-12-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43425283,17229114,16479758,10290265
+Chile,2021-12-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43425367,17229115,16479760,10290346
+Chile,2021-12-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43426681,17229220,16479881,10291434
+Chile,2021-12-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43591811,17247668,16495828,10422181
+Chile,2021-12-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,43810034,17268111,16512815,10602992
+Chile,2021-12-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44039752,17287590,16529228,10796837
+Chile,2021-12-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44258503,17304517,16544272,10983629
+Chile,2021-12-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44314172,17307888,16547811,11032389
+Chile,2022-01-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44314282,17307896,16547817,11032485
+Chile,2022-01-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44315163,17307937,16547873,11033269
+Chile,2022-01-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44497515,17327764,16564546,11179135
+Chile,2022-01-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44669346,17348482,16582359,11312448
+Chile,2022-01-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44812591,17367556,16595021,11423984
+Chile,2022-01-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,44953281,17384970,16622787,11519514
+Chile,2022-01-07,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45090431,17402219,16651537,11610673
+Chile,2022-01-08,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45105429,17403995,16653658,11621775
+Chile,2022-01-09,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45107797,17404217,16653863,11623716
+Chile,2022-01-10,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45257322,17424387,16683513,11723435
+Chile,2022-01-11,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45385979,17441926,16710390,11807696
+Chile,2022-01-12,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45496669,17457004,16734280,11879430
+Chile,2022-01-13,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45595478,17470666,16757070,11941793
+Chile,2022-01-14,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45690013,17484142,16778285,12001648
+Chile,2022-01-15,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45701683,17485742,16780218,12009786
+Chile,2022-01-16,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45702615,17485844,16780316,12010518
+Chile,2022-01-17,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45807180,17502428,16803305,12075534
+Chile,2022-01-18,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45891887,17515941,16821602,12128445
+Chile,2022-01-19,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,45979837,17530538,16840819,12182604
+Chile,2022-01-20,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46098327,17542792,16855724,12273941
+Chile,2022-01-21,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46195823,17553921,16867000,12349049
+Chile,2022-01-22,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46205124,17555123,16868031,12356118
+Chile,2022-01-23,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46206100,17555229,16868100,12356919
+Chile,2022-01-24,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46310098,17569216,16884489,12430557
+Chile,2022-01-25,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46402434,17581525,16901042,12494036
+Chile,2022-01-26,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46482312,17591967,16916600,12547922
+Chile,2022-01-27,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46553696,17601752,16930808,12595324
+Chile,2022-01-28,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46620275,17610830,16941706,12641937
+Chile,2022-01-29,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46628042,17611998,16942577,12647665
+Chile,2022-01-30,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46628760,17612082,16942650,12648226
+Chile,2022-01-31,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46712392,17624051,16958979,12703570
+Chile,2022-02-01,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46785238,17634374,16974421,12750664
+Chile,2022-02-02,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46851257,17643628,16989628,12792230
+Chile,2022-02-03,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46913590,17652227,17003774,12831826
+Chile,2022-02-04,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46974824,17660008,17018014,12871044
+Chile,2022-02-05,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46980301,17660757,17019032,12874754
+Chile,2022-02-06,"CanSino, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,46980909,17660839,17019135,12875177
+Chile,2022-02-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47090884,17670781,17035693,12958659
+Chile,2022-02-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47188100,17680164,17051541,13030649
+Chile,2022-02-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47268159,17688446,17065646,13088326
+Chile,2022-02-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47338315,17696325,17078724,13137528
+Chile,2022-02-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47399798,17703094,17090723,13180246
+Chile,2022-02-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47405281,17703765,17091726,13184057
+Chile,2022-02-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47405965,17703877,17091834,13184521
+Chile,2022-02-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47554766,17710928,17104659,13313452
+Chile,2022-02-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47688179,17717741,17117010,13427712
+Chile,2022-02-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47805771,17724547,17129950,13525567
+Chile,2022-02-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47910738,17731575,17142145,13611314
+Chile,2022-02-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,47999997,17738465,17154074,13681760
+Chile,2022-02-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48006050,17739027,17154995,13686330
+Chile,2022-02-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48006455,17739073,17155044,13686640
+Chile,2022-02-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48153409,17749251,17168810,13809659
+Chile,2022-02-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48284849,17758692,17182662,13917813
+Chile,2022-02-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48397200,17767619,17195144,14008758
+Chile,2022-02-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48497899,17776659,17207932,14087633
+Chile,2022-02-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48587348,17785564,17220591,14155525
+Chile,2022-02-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48594549,17786468,17221715,14160698
+Chile,2022-02-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48595118,17786547,17221792,14161111
+Chile,2022-02-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48750980,17798028,17237600,14289700
+Chile,2022-03-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48889064,17807373,17250751,14405295
+Chile,2022-03-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,48999104,17813696,17259371,14500429
+Chile,2022-03-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49098944,17819270,17267314,14586760
+Chile,2022-03-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49202331,17825532,17277157,14674059
+Chile,2022-03-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49212862,17826152,17278172,14682955
+Chile,2022-03-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49213374,17826194,17278236,14683361
+Chile,2022-03-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49332574,17830766,17285673,14790560
+Chile,2022-03-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49439974,17834200,17292048,14888160
+Chile,2022-03-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49537320,17837380,17298393,14976027
+Chile,2022-03-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49627762,17840255,17304237,15057755
+Chile,2022-03-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49724188,17844262,17312203,15142212
+Chile,2022-03-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49737344,17844772,17313166,15153895
+Chile,2022-03-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49737998,17844804,17313226,15154457
+Chile,2022-03-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49829451,17848099,17319289,15236557
+Chile,2022-03-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49918562,17850961,17324849,15317247
+Chile,2022-03-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,49996902,17853418,17330068,15387916
+Chile,2022-03-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50070015,17855914,17334913,15453691
+Chile,2022-03-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50158149,17858871,17341575,15532221
+Chile,2022-03-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50170843,17859222,17342363,15543776
+Chile,2022-03-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50171427,17859248,17342405,15544292
+Chile,2022-03-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50255615,17861932,17348252,15619950
+Chile,2022-03-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50336745,17864357,17353943,15692975
+Chile,2022-03-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50410432,17866756,17359347,15758861
+Chile,2022-03-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50477645,17868971,17364366,15818842
+Chile,2022-03-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50558403,17871938,17371504,15889503
+Chile,2022-03-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50571564,17872358,17372450,15901298
+Chile,2022-03-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50572163,17872390,17372514,15901801
+Chile,2022-03-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50638725,17875094,17379138,15959035
+Chile,2022-03-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50698650,17877335,17384737,16011163
+Chile,2022-03-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50755085,17879680,17389792,16060199
+Chile,2022-03-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50804747,17881671,17394140,16103524
+Chile,2022-04-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50861896,17884102,17400171,16152212
+Chile,2022-04-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50870791,17884393,17400846,16160143
+Chile,2022-04-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50871175,17884406,17400869,16160491
+Chile,2022-04-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,50945026,17886775,17405754,16227090
+Chile,2022-04-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51015379,17888936,17409874,16291164
+Chile,2022-04-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51083663,17890898,17413633,16353727
+Chile,2022-04-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51144561,17892762,17417026,16409371
+Chile,2022-04-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51209600,17894853,17421639,16467711
+Chile,2022-04-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51221926,17895188,17422429,16478913
+Chile,2022-04-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51222302,17895207,17422455,16479244
+Chile,2022-04-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51307093,17897175,17426204,16558319
+Chile,2022-04-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51392928,17898774,17429262,16639497
+Chile,2022-04-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51477977,17900330,17432205,16720047
+Chile,2022-04-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51571836,17902113,17435604,16808724
+Chile,2022-04-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51572697,17902132,17435624,16809546
+Chile,2022-04-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51573335,17902140,17435646,16810154
+Chile,2022-04-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51573745,17902149,17435657,16810544
+Chile,2022-04-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51686795,17903940,17439024,16918437
+Chile,2022-04-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51810533,17905427,17441949,17037765
+Chile,2022-04-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,51936777,17906981,17444723,17159681
+Chile,2022-04-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52056113,17908423,17447138,17275162
+Chile,2022-04-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52183106,17909994,17450235,17397493
+Chile,2022-04-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52202892,17910285,17450768,17416455
+Chile,2022-04-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52203884,17910293,17450784,17417423
+Chile,2022-04-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52321267,17912004,17453669,17530217
+Chile,2022-04-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52430383,17913521,17456155,17635337
+Chile,2022-04-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52530253,17914944,17458590,17731356
+Chile,2022-04-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52635462,17916424,17461128,17832552
+Chile,2022-04-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52762192,17918059,17463949,17954830
+Chile,2022-04-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52785078,17918357,17464428,17976939
+Chile,2022-05-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52785283,17918359,17464429,17977141
+Chile,2022-05-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,52919759,17920063,17467138,18107207
+Chile,2022-05-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53049494,17921656,17469726,18232767
+Chile,2022-05-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53171639,17923249,17472354,18350697
+Chile,2022-05-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53283541,17924852,17474838,18458518
+Chile,2022-05-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53397492,17926555,17477611,18568001
+Chile,2022-05-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53418908,17926901,17478135,18588547
+Chile,2022-05-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53420223,17926915,17478164,18589819
+Chile,2022-05-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53531480,17928625,17480948,18696585
+Chile,2022-05-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53655278,17930204,17483414,18816338
+Chile,2022-05-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,53840669,17931881,17485873,18997593
+Chile,2022-05-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54026216,17933716,17488348,19178831
+Chile,2022-05-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54212522,17935661,17490886,19360655
+Chile,2022-05-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54258572,17936099,17491455,19405698
+Chile,2022-05-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54262349,17936124,17491499,19409406
+Chile,2022-05-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54464879,17938385,17494375,19606800
+Chile,2022-05-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54667550,17940726,17497352,19804155
+Chile,2022-05-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,54865647,17943026,17500497,19996808
+Chile,2022-05-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55045967,17945338,17503418,20171895
+Chile,2022-05-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55240007,17947826,17506596,20360270
+Chile,2022-05-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55268796,17948090,17506964,20388428
+Chile,2022-05-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55273047,17948122,17507015,20392596
+Chile,2022-05-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55469447,17950683,17510152,20583301
+Chile,2022-05-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55661424,17953176,17513049,20769889
+Chile,2022-05-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,55846873,17955631,17516087,20949848
+Chile,2022-05-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56025389,17958000,17519137,21122948
+Chile,2022-05-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56216150,17960296,17522057,21308496
+Chile,2022-05-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56287771,17961002,17522915,21378554
+Chile,2022-05-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56294602,17961052,17522983,21385267
+Chile,2022-05-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56527323,17963413,17526033,21612577
+Chile,2022-05-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56780691,17965797,17529324,21860270
+Chile,2022-06-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,56991828,17968229,17532407,22065893
+Chile,2022-06-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57172225,17970364,17535180,22241384
+Chile,2022-06-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57332086,17972127,17537602,22397061
+Chile,2022-06-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57381876,17972625,17538221,22445734
+Chile,2022-06-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57386766,17972671,17538282,22450517
+Chile,2022-06-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57561034,17974984,17541211,22619546
+Chile,2022-06-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57715714,17977099,17543815,22769508
+Chile,2022-06-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57856199,17979213,17546447,22905247
+Chile,2022-06-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,57983176,17981251,17549035,23027601
+Chile,2022-06-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58117296,17983121,17551692,23157196
+Chile,2022-06-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58157737,17983594,17552253,23196603
+Chile,2022-06-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58161647,17983654,17552303,23200403
+Chile,2022-06-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58286937,17985603,17554856,23321192
+Chile,2022-06-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58399415,17987303,17557273,23429553
+Chile,2022-06-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58507578,17989136,17559677,23533479
+Chile,2022-06-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58604570,17990830,17562083,23626371
+Chile,2022-06-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58705465,17992445,17564294,23723440
+Chile,2022-06-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58734424,17992803,17564775,23751560
+Chile,2022-06-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58736565,17992831,17564811,23753637
+Chile,2022-06-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58869072,17994429,17567254,23882103
+Chile,2022-06-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58875300,17994499,17567356,23888159
+Chile,2022-06-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,58969586,17996104,17569655,23978541
+Chile,2022-06-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59049161,17997491,17571494,24054890
+Chile,2022-06-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59138108,17998953,17573696,24140173
+Chile,2022-06-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59165881,17999287,17574188,24167120
+Chile,2022-06-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59168548,17999324,17574247,24169691
+Chile,2022-06-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59173763,17999394,17574339,24174744
+Chile,2022-06-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59268601,18000969,17576900,24265446
+Chile,2022-06-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59360976,18002434,17579212,24354044
+Chile,2022-06-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59453650,18003810,17581546,24443008
+Chile,2022-07-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59526956,18004721,17583186,24513763
+Chile,2022-07-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59549117,18005009,17583577,24535245
+Chile,2022-07-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59551431,18005044,17583625,24537476
+Chile,2022-07-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59657295,18006599,17586275,24639135
+Chile,2022-07-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59752887,18008041,17588723,24730837
+Chile,2022-07-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59835824,18009273,17590724,24810541
+Chile,2022-07-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59920331,18010803,17593016,24891226
+Chile,2022-07-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,59999506,18012017,17595116,24967087
+Chile,2022-07-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60017282,18012263,17595509,24984224
+Chile,2022-07-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60019308,18012300,17595578,24986144
+Chile,2022-07-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60105456,18013743,17597918,25068509
+Chile,2022-07-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60187183,18015138,17600264,25146495
+Chile,2022-07-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60264740,18016431,17602373,25220650
+Chile,2022-07-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60325163,18017524,17604007,25278346
+Chile,2022-07-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60385309,18018679,17605662,25335682
+Chile,2022-07-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60391814,18018777,17605802,25341949
+Chile,2022-07-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60393306,18018809,17605835,25343376
+Chile,2022-07-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60478566,18020421,17608293,25424566
+Chile,2022-07-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60557592,18021984,17610477,25499845
+Chile,2022-07-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60632301,18023477,17612784,25570754
+Chile,2022-07-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60703091,18024932,17614936,25637937
+Chile,2022-07-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60773566,18026465,17617249,25704566
+Chile,2022-07-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60790462,18026833,17617732,25720611
+Chile,2022-07-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60792166,18026865,17617778,25722237
+Chile,2022-07-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60850645,18028317,17619526,25777516
+Chile,2022-07-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60903163,18029572,17621172,25827133
+Chile,2022-07-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,60955134,18030803,17622924,25876121
+Chile,2022-07-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61005594,18032134,17624706,25923468
+Chile,2022-07-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61058099,18033411,17626354,25973048
+Chile,2022-07-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61071462,18033693,17626780,25985703
+Chile,2022-07-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61072832,18033721,17626819,25987006
+Chile,2022-08-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61120835,18034965,17628464,26032120
+Chile,2022-08-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61165878,18036144,17630016,26074432
+Chile,2022-08-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61210064,18037304,17631514,26115960
+Chile,2022-08-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61250753,18038334,17633052,26154081
+Chile,2022-08-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61294137,18039350,17634465,26195036
+Chile,2022-08-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61303611,18039534,17634701,26204090
+Chile,2022-08-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61304681,18039555,17634732,26205108
+Chile,2022-08-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61347860,18040729,17636394,26245451
+Chile,2022-08-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61387840,18041949,17637977,26282628
+Chile,2022-08-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61427725,18043069,17639583,26319787
+Chile,2022-08-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61464489,18044073,17640962,26354168
+Chile,2022-08-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61504845,18045145,17642386,26392030
+Chile,2022-08-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61515038,18045382,17642677,26401695
+Chile,2022-08-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61516098,18045399,17642698,26402717
+Chile,2022-08-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61517684,18045425,17642733,26404242
+Chile,2022-08-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61554468,18046475,17644325,26438384
+Chile,2022-08-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61591696,18047543,17645834,26473035
+Chile,2022-08-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61628986,18048618,17647403,26507681
+Chile,2022-08-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61668847,18049709,17649025,26544829
+Chile,2022-08-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61679394,18049929,17649350,26554831
+Chile,2022-08-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61680262,18049941,17649382,26555655
+Chile,2022-08-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61717984,18051001,17651014,26590685
+Chile,2022-08-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61751829,18051983,17652450,26622112
+Chile,2022-08-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61786416,18052975,17653920,26654237
+Chile,2022-08-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61818265,18053862,17655252,26683867
+Chile,2022-08-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61852728,18054836,17656721,26715887
+Chile,2022-08-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61861897,18055047,17657014,26724552
+Chile,2022-08-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61862851,18055071,17657051,26725445
+Chile,2022-08-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61895720,18056174,17658701,26755561
+Chile,2022-08-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61927405,18057101,17660082,26784938
+Chile,2022-08-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61956723,18057943,17661351,26812145
+Chile,2022-09-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,61984409,18058739,17662528,26837858
+Chile,2022-09-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62020101,18059702,17663817,26871298
+Chile,2022-09-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62026618,18059865,17664030,26877439
+Chile,2022-09-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62027156,18059872,17664042,26877958
+Chile,2022-09-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62059928,18060753,17665388,26908503
+Chile,2022-09-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62085475,18061520,17666502,26932169
+Chile,2022-09-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62110285,18062311,17667631,26955059
+Chile,2022-09-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62132967,18062942,17668608,26976133
+Chile,2022-09-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62157808,18063722,17669741,26999061
+Chile,2022-09-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62164028,18063855,17669982,27004907
+Chile,2022-09-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62164615,18063864,17670007,27005460
+Chile,2022-09-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62191786,18064622,17670968,27030912
+Chile,2022-09-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62219184,18065255,17672008,27056637
+Chile,2022-09-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62242203,18065848,17672880,27078191
+Chile,2022-09-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62256180,18066181,17673433,27091282
+Chile,2022-09-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62256812,18066197,17673466,27091865
+Chile,2022-09-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62257289,18066210,17673487,27092308
+Chile,2022-09-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62257381,18066210,17673487,27092400
+Chile,2022-09-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62257496,18066213,17673492,27092507
+Chile,2022-09-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62277434,18066775,17674499,27110876
+Chile,2022-09-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62300713,18067453,17675581,27132395
+Chile,2022-09-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62320760,18068010,17676431,27151035
+Chile,2022-09-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62340211,18068496,17677321,27169110
+Chile,2022-09-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62342918,18068559,17677453,27171622
+Chile,2022-09-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62343103,18068563,17677460,27171796
+Chile,2022-09-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62353104,18068928,17678043,27180849
+Chile,2022-09-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62363127,18069376,17678637,27189830
+Chile,2022-09-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62372614,18069852,17679285,27198193
+Chile,2022-09-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62381182,18070177,17679804,27205917
+Chile,2022-09-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62390254,18070508,17680341,27214121
+Chile,2022-10-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62391658,18070561,17680432,27215381
+Chile,2022-10-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62391757,18070566,17680434,27215473
+Chile,2022-10-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62397403,18070858,17680910,27220351
+Chile,2022-10-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62403739,18071174,17681394,27225887
+Chile,2022-10-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62410223,18071451,17681835,27231653
+Chile,2022-10-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62417156,18071762,17682243,27237867
+Chile,2022-10-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62424530,18072056,17682676,27244514
+Chile,2022-10-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62425539,18072099,17682730,27245426
+Chile,2022-10-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62425610,18072103,17682732,27245491
+Chile,2022-10-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62425772,18072109,17682743,27245636
+Chile,2022-10-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62430922,18072356,17683152,27250130
+Chile,2022-10-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62436808,18072623,17683506,27255395
+Chile,2022-10-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62441960,18072831,17683792,27260053
+Chile,2022-10-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62449258,18073123,17684131,27266720
+Chile,2022-10-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62450205,18073163,17684174,27267584
+Chile,2022-10-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62450291,18073173,17684180,27267654
+Chile,2022-10-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62455412,18073463,17684489,27272176
+Chile,2022-10-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62460152,18073718,17684777,27276373
+Chile,2022-10-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62465386,18073975,17685133,27280994
+Chile,2022-10-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62471197,18074266,17685504,27286143
+Chile,2022-10-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62476823,18074497,17685828,27291214
+Chile,2022-10-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62477719,18074539,17685881,27292015
+Chile,2022-10-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62477784,18074543,17685887,27292070
+Chile,2022-10-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62481951,18074740,17686153,27295774
+Chile,2022-10-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62487260,18074933,17686473,27300570
+Chile,2022-10-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62492157,18075139,17686792,27304942
+Chile,2022-10-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62496952,18075381,17687076,27309211
+Chile,2022-10-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62501311,18075582,17687342,27313103
+Chile,2022-10-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62501822,18075600,17687363,27313575
+Chile,2022-10-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62501903,18075603,17687363,27313653
+Chile,2022-10-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62501960,18075604,17687367,27313705
+Chile,2022-11-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62502031,18075604,17687369,27313774
+Chile,2022-11-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62505146,18075789,17687600,27316473
+Chile,2022-11-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62508983,18075974,17687890,27319835
+Chile,2022-11-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62513352,18076165,17688172,27323731
+Chile,2022-11-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62513882,18076191,17688196,27324211
+Chile,2022-11-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62513929,18076192,17688198,27324255
+Chile,2022-11-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62517416,18076397,17688400,27327335
+Chile,2022-11-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62520957,18076591,17688647,27330435
+Chile,2022-11-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62524844,18076789,17688900,27333871
+Chile,2022-11-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62528739,18077006,17689178,27337271
+Chile,2022-11-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62532972,18077220,17689447,27341021
+Chile,2022-11-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62533622,18077255,17689478,27341605
+Chile,2022-11-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62533657,18077256,17689478,27341639
+Chile,2022-11-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62537056,18077472,17689734,27344566
+Chile,2022-11-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62540298,18077669,17689980,27347365
+Chile,2022-11-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62544492,18077945,17690275,27350988
+Chile,2022-11-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62548376,18078139,17690524,27354429
+Chile,2022-11-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62552780,18078370,17690786,27358340
+Chile,2022-11-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62553445,18078401,17690804,27358956
+Chile,2022-11-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62553481,18078401,17690806,27358990
+Chile,2022-11-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62556698,18078613,17691027,27361774
+Chile,2022-11-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62560013,18078802,17691250,27364677
+Chile,2022-11-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62563312,18079010,17691448,27367570
+Chile,2022-11-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62566705,18079188,17691682,27370551
+Chile,2022-11-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62569945,18079423,17691906,27373332
+Chile,2022-11-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62570411,18079443,17691925,27373759
+Chile,2022-11-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62570440,18079443,17691930,27373783
+Chile,2022-11-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62572985,18079635,17692082,27375984
+Chile,2022-11-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62576002,18079835,17692294,27378589
+Chile,2022-11-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62579286,18080059,17692563,27381380
+Chile,2022-12-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62582227,18080326,17692785,27383832
+Chile,2022-12-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62585141,18080548,17693019,27386290
+Chile,2022-12-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62585547,18080556,17693032,27386675
+Chile,2022-12-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62585565,18080558,17693032,27386691
+Chile,2022-12-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62587578,18080672,17693159,27388463
+Chile,2022-12-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62589993,18080813,17693285,27390611
+Chile,2022-12-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62592945,18080971,17693440,27393250
+Chile,2022-12-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62593033,18080973,17693442,27393334
+Chile,2022-12-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62595811,18081138,17693644,27395745
+Chile,2022-12-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62596033,18081150,17693652,27395947
+Chile,2022-12-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62596062,18081151,17693652,27395975
+Chile,2022-12-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62597817,18081283,17693804,27397446
+Chile,2022-12-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62599560,18081403,17693950,27398923
+Chile,2022-12-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62601484,18081521,17694096,27400583
+Chile,2022-12-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62603480,18081647,17694231,27402318
+Chile,2022-12-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62605359,18081779,17694352,27403944
+Chile,2022-12-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62605660,18081796,17694372,27404208
+Chile,2022-12-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62605681,18081798,17694373,27404226
+Chile,2022-12-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62607481,18081900,17694512,27405785
+Chile,2022-12-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62609498,18082027,17694661,27407526
+Chile,2022-12-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62611413,18082137,17694822,27409170
+Chile,2022-12-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62613084,18082235,17694949,27410616
+Chile,2022-12-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62614146,18082296,17695075,27411491
+Chile,2022-12-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62614178,18082301,17695077,27411516
+Chile,2022-12-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62615703,18082420,17695202,27412797
+Chile,2022-12-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62618078,18082565,17695365,27414864
+Chile,2022-12-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62620304,18082708,17695519,27416793
+Chile,2022-12-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62622523,18082855,17695683,27418701
+Chile,2022-12-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62623801,18082951,17695789,27419777
+Chile,2022-12-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62623838,18082953,17695792,27419809
+Chile,2023-01-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62624900,18083079,17695923,27420614
+Chile,2023-01-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62626582,18083244,17696075,27421979
+Chile,2023-01-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62628526,18083409,17696217,27423616
+Chile,2023-01-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62631023,18083605,17696391,27425743
+Chile,2023-01-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62631254,18083624,17696402,27425944
+Chile,2023-01-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62631279,18083624,17696403,27425968
+Chile,2023-01-09,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62633634,18083843,17696580,27427927
+Chile,2023-01-10,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62636335,18084091,17696748,27430212
+Chile,2023-01-11,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62639435,18084321,17696899,27432931
+Chile,2023-01-12,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62642387,18084562,17697052,27435489
+Chile,2023-01-13,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62645320,18084790,17697222,27438024
+Chile,2023-01-14,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62645595,18084801,17697235,27438275
+Chile,2023-01-15,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62645616,18084801,17697235,27438296
+Chile,2023-01-16,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62647958,18085023,17697390,27440261
+Chile,2023-01-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62651501,18085296,17697571,27443350
+Chile,2023-01-18,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62654493,18085494,17697748,27445967
+Chile,2023-01-19,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62657073,18085730,17697911,27448148
+Chile,2023-01-20,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62659823,18085926,17698063,27450550
+Chile,2023-01-21,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62660092,18085940,17698082,27450786
+Chile,2023-01-22,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62660106,18085940,17698082,27450800
+Chile,2023-01-23,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62662358,18086197,17698240,27452637
+Chile,2023-01-24,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62664909,18086475,17698404,27454746
+Chile,2023-01-25,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62667552,18086670,17698568,27457030
+Chile,2023-01-26,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62670195,18086886,17698723,27459302
+Chile,2023-01-27,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62672716,18087068,17698849,27461515
+Chile,2023-01-28,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62673010,18087089,17698860,27461777
+Chile,2023-01-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62673028,18087090,17698861,27461793
+Chile,2023-01-30,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62674924,18087283,17698996,27463361
+Chile,2023-01-31,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62676859,18087451,17699139,27464985
+Chile,2023-02-01,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62679136,18087649,17699296,27466907
+Chile,2023-02-02,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62681227,18087826,17699473,27468644
+Chile,2023-02-03,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62683268,18088020,17699630,27470334
+Chile,2023-02-04,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62683487,18088044,17699641,27470518
+Chile,2023-02-05,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62683499,18088044,17699641,27470530
+Chile,2023-02-06,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62685246,18088215,17699807,27471940
+Chile,2023-02-07,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62687505,18088417,17699996,27473808
+Chile,2023-02-08,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://github.com/MinCiencia/Datos-COVID19,62688847,18088517,17700117,27474929
+Chile,2023-11-17,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://data.who.int/dashboards/covid19/,66860038,,,
+Chile,2023-12-29,"CanSino, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac",https://data.who.int/dashboards/covid19/,66864900,,,

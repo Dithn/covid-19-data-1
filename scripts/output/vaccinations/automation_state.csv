@@ -15,6 +15,7 @@ Azerbaijan,True
 Bahamas,True
 Bahrain,True
 Bangladesh,True
+Barbados,True
 Belarus,True
 Belgium,True
 Belize,True
@@ -27,9 +28,11 @@ Bosnia and Herzegovina,True
 Botswana,True
 Brazil,True
 British Virgin Islands,True
+Brunei,True
 Bulgaria,True
 Burkina Faso,True
 Burundi,True
+Cambodia,True
 Cameroon,True
 Canada,True
 Cape Verde,True
@@ -61,7 +64,9 @@ England,True
 Equatorial Guinea,True
 Estonia,True
 Eswatini,True
+Ethiopia,True
 Faeroe Islands,True
+Falkland Islands,True
 Fiji,True
 Finland,True
 France,True
@@ -71,12 +76,16 @@ Gambia,True
 Georgia,True
 Germany,True
 Ghana,True
+Gibraltar,True
 Greece,True
 Greenland,True
 Grenada,True
 Guatemala,True
 Guernsey,True
+Guinea,True
 Guinea-Bissau,True
+Guyana,True
+Haiti,True
 Honduras,True
 Hong Kong,True
 Hungary,True
@@ -96,6 +105,7 @@ Jordan,True
 Kazakhstan,True
 Kenya,True
 Kiribati,True
+Kosovo,True
 Kuwait,True
 Kyrgyzstan,True
 Laos,True
@@ -109,7 +119,9 @@ Lithuania,True
 Luxembourg,True
 Macao,True
 Madagascar,True
+Malawi,True
 Malaysia,True
+Maldives,True
 Mali,True
 Malta,True
 Mauritania,True
@@ -133,6 +145,7 @@ Nicaragua,True
 Niger,True
 Nigeria,True
 Niue,True
+North Macedonia,True
 Northern Cyprus,True
 Northern Ireland,True
 Norway,True
@@ -151,8 +164,10 @@ Qatar,True
 Romania,True
 Russia,True
 Rwanda,True
+Saint Helena,True
 Saint Kitts and Nevis,True
 Saint Lucia,True
+Saint Vincent and the Grenadines,True
 Samoa,True
 San Marino,True
 Sao Tome and Principe,True
@@ -168,6 +183,7 @@ Slovakia,True
 Slovenia,True
 Solomon Islands,True
 Somalia,True
+South Africa,True
 South Korea,True
 South Sudan,True
 Spain,True
@@ -186,6 +202,7 @@ Togo,True
 Tokelau,True
 Tonga,True
 Trinidad and Tobago,True
+Tunisia,True
 Turkey,True
 Turkmenistan,True
 Turks and Caicos Islands,True
@@ -205,20 +222,3 @@ Wallis and Futuna,True
 Yemen,True
 Zambia,True
 Zimbabwe,True
-Barbados,False
-Brunei,False
-Cambodia,False
-Ethiopia,False
-Falkland Islands,False
-Gibraltar,False
-Guinea,False
-Guyana,False
-Haiti,False
-Kosovo,False
-Malawi,False
-Maldives,False
-North Macedonia,False
-Saint Helena,False
-Saint Vincent and the Grenadines,False
-South Africa,False
-Tunisia,False

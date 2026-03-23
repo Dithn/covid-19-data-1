@@ -1,0 +1,48 @@
+global:
+  project_dir: !ENV ${OWID_COVID_PROJECT_DIR}
+  credentials: !ENV ${OWID_COVID_VAX_CREDENTIALS_FILE}
+pipeline:
+  get-data:
+    parallel: True
+    countries:
+    njobs: -2
+    skip_countries:
+      - Andorra
+      - Gabon
+      - Morocco # Government data doesn't differentiate 1- and 2-dose vaccines so we use WHO instead
+      - North Macedonia
+      - South Africa
+      - africacdc
+      # - Faeroe Islands
+  process-data:
+    skip_complete:
+      - Pitcairn
+    skip_monotonic_check:
+    skip_anomaly_check:
+      Australia:
+        - date: 2021-05-23
+          metrics: people_vaccinated
+      Bahrain:
+        - date: 2021-03-06
+          metrics: total_vaccinations
+      Bolivia:
+        - date: 2021-03-06
+          metrics: people_vaccinated
+      Brazil:
+        - date: 2021-01-21
+          metrics: 
+           - total_vaccinations
+           - people_vaccinated
+      Bulgaria:
+        - date: 2021-12-14
+          metrics: total_boosters
+      Luxembourg:
+        - date: 2021-11-29
+          metrics: people_fully_vaccinated
+      Nigeria:
+        - date: 2021-06-15
+          metrics: people_fully_vaccinated
+      United States:
+        - date: 2020-12-16
+          metrics: people_vaccinated
+  generate-dataset:

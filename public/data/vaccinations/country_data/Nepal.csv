@@ -140,11 +140,163 @@ Nepal,2021-10-12,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https:
 Nepal,2021-10-13,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.mohp.gov.np/covid/englishSituationReport/6167d25036add_SitRep612_COVID-19_13-10-2021_EN.pdf,14852777,8383887,6468890,
 Nepal,2021-10-14,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.mohp.gov.np/covid/englishSituationReport/6168052749abc_SitRep613_COVID-19_14-10-2021_EN.pdf,14857561,8388402,6469159,
 Nepal,2021-10-18,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.mohp.gov.np/covid/englishSituationReport/616d55ed02f0a_SitRep617_COVID-19_18-10-2021_EN.pdf,14885262,8415067,6470195,
-Nepal,2021-10-19,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,15048288,8562365,6485923,
-Nepal,2021-10-25,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,15268771,8621449,6647322,
-Nepal,2021-11-01,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,15918578,8670024,7248554,
-Nepal,2021-11-07,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,16173246,8736532,7436714,
-Nepal,2021-11-16,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,16536009,8911971,7624038,
-Nepal,2021-11-22,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,17196377,9206187,7990190,
-Nepal,2021-11-29,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,18317508,9879648,8437860,
-Nepal,2021-12-06,"Covaxin, Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,19157444,10431659,8725785,
+Nepal,2021-10-19,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,15048288,8562365,6485923,
+Nepal,2021-10-25,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,15268771,8621449,6647322,
+Nepal,2021-11-01,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,15918578,8670024,7248554,
+Nepal,2021-11-07,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,16173246,8736532,7436714,
+Nepal,2021-11-16,"Johnson&Johnson, Oxford/AstraZeneca, Sinopharm/Beijing",https://covid19.who.int/,16536009,8911971,7624038,
+Nepal,2021-11-22,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,17196377,9206187,7990190,
+Nepal,2021-11-29,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,18317508,9879648,8437860,
+Nepal,2021-12-06,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,19157444,10431659,8725785,
+Nepal,2021-12-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,21988516,12251183,9737333,
+Nepal,2022-01-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,25275254,14564533,10710721,
+Nepal,2022-01-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,26585667,15249129,11336538,
+Nepal,2022-01-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,27965500,15837671,12127829,
+Nepal,2022-01-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,29664607,16333937,13106726,
+Nepal,2022-01-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,31642503,16830395,14407775,
+Nepal,2022-02-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,34358217,17911939,15801734,
+Nepal,2022-02-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.who.int/,35546280,18261165,16525155,
+Nepal,2022-02-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,,21334218,,877490
+Nepal,2022-02-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,,21345539,,882292
+Nepal,2022-02-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,,21371742,,906533
+Nepal,2022-02-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,,21412986,,943956
+Nepal,2022-02-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,36576224,21459966,17173830,979850
+Nepal,2022-02-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,36691630,21481168,17235938,1020541
+Nepal,2022-02-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,36814123,21508937,17306642,1056772
+Nepal,2022-02-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,36984611,21524836,17419344,1110550
+Nepal,2022-02-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,37125732,21575023,17490473,1147229
+Nepal,2022-03-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,37233872,21594817,17547281,1189716
+Nepal,2022-03-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,37269660,21603183,17567825,1199508
+Nepal,2022-03-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,37431640,21627227,17681043,1231042
+Nepal,2022-03-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,37682890,21645983,17843980,1312118
+Nepal,2022-03-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38242703,21703489,18151365,1527105
+Nepal,2022-03-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38342802,21720895,18200930,1565790
+Nepal,2022-03-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38598032,21760650,18352121,1642457
+Nepal,2022-03-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38699896,21773697,18399451,1688819
+Nepal,2022-03-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38791546,21779635,18452467,1723833
+Nepal,2022-03-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38883962,21801530,18502119,1757697
+Nepal,2022-03-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,38994812,21825357,18547345,1805555
+Nepal,2022-03-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39101413,21850541,18594712,1845736
+Nepal,2022-03-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39251518,21886586,18678409,1881290
+Nepal,2022-03-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39281058,,18698595,1886637
+Nepal,2022-03-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39289842,21890015,18703726,1892810
+Nepal,2022-03-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39374392,21903002,18748545,1925234
+Nepal,2022-03-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39448435,21914335,18770559,1970389
+Nepal,2022-03-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39551107,21937330,18817844,2011730
+Nepal,2022-03-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39635151,21948907,18852979,2055139
+Nepal,2022-03-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39701499,21953195,18895906,2077337
+Nepal,2022-03-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39751266,21961905,18916400,2104308
+Nepal,2022-03-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39777115,21966002,18932518,2112328
+Nepal,2022-03-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39884435,21984499,18987229,2152086
+Nepal,2022-03-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,39935568,21994736,19014212,2171347
+Nepal,2022-03-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40007310,22009251,19054582,2196059
+Nepal,2022-03-31,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40068218,22018430,19085632,2219859
+Nepal,2022-04-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40219259,22045735,19165274,2274497
+Nepal,2022-04-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40280829,22053904,19195930,2299655
+Nepal,2022-04-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40298842,22057932,19207632,2303669
+Nepal,2022-04-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40356245,22076596,19230548,2323899
+Nepal,2022-04-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40406877,22083714,19253884,2347068
+Nepal,2022-04-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40433299,22087147,19263737,2361795
+Nepal,2022-04-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40455160,22093046,19277986,2367964
+Nepal,2022-04-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40470603,22096856,19288340,2372732
+Nepal,2022-04-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40520242,22106435,19305700,2398038
+Nepal,2022-04-13,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40577032,22127166,19336604,2407975
+Nepal,2022-04-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40638405,22145663,19359782,2429736
+Nepal,2022-04-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40684272,22152198,19375179,2456236
+Nepal,2022-04-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40712323,22156131,19382176,2474667
+Nepal,2022-04-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40785144,22160418,19391162,2535964
+Nepal,2022-04-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40862191,22166767,19405045,2596126
+Nepal,2022-04-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,40897919,22170066,19418684,2616476
+Nepal,2022-04-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41075782,22185237,19452877,2751207
+Nepal,2022-04-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41123876,22201664,19479252,2771166
+Nepal,2022-04-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41247086,22206244,19494453,2877468
+Nepal,2022-04-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41333222,22209916,19506642,2949694
+Nepal,2022-04-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41456812,22224120,19518925,3049359
+Nepal,2022-04-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41768411,22254268,19574894,3283764
+Nepal,2022-04-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41843057,22261575,19586196,3340769
+Nepal,2022-05-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41872631,22263497,19591350,3364130
+Nepal,2022-05-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41888641,22264477,19596394,3374858
+Nepal,2022-05-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,41982187,22271084,19618901,3442884
+Nepal,2022-05-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42012843,22273558,19625334,3465884
+Nepal,2022-05-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42104931,22289710,19640380,3530533
+Nepal,2022-05-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42189552,22295475,19658950,3593072
+Nepal,2022-05-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42259208,22318684,19685621,3626245
+Nepal,2022-05-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42281314,22323233,19692303,3638853
+Nepal,2022-05-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42319673,22326785,19701003,3665435
+Nepal,2022-05-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42399815,22344413,19733893,3695448
+Nepal,2022-05-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42410820,22344980,19735153,3704682
+Nepal,2022-05-12,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42431999,22346109,19738517,3721552
+Nepal,2022-05-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42443691,22346138,19740770,3730991
+Nepal,2022-05-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42479543,22350819,19747028,3758085
+Nepal,2022-05-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42499577,22352285,19750586,3773437
+Nepal,2022-05-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42516879,22353385,19751773,3788666
+Nepal,2022-05-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42548267,22354377,19756501,3814511
+Nepal,2022-05-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42569157,22355662,19761502,3829426
+Nepal,2022-05-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42617136,22358424,19783597,3854040
+Nepal,2022-05-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42680521,22367391,19796636,3897655
+Nepal,2022-05-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42746702,22370829,19804863,3952825
+Nepal,2022-05-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42851236,22378744,19825343,4029839
+Nepal,2022-05-29,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42902927,22380300,19828687,4076754
+Nepal,2022-05-30,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,42916756,22381118,19831322,4087310
+Nepal,2022-06-01,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43220513,22407979,19872193,4330091
+Nepal,2022-06-02,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43364095,22413482,19885258,4456127
+Nepal,2022-06-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43446508,22425004,19902055,4515114
+Nepal,2022-06-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43631029,22435566,19917125,4675687
+Nepal,2022-06-05,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43643002,22436638,19919340,4684745
+Nepal,2022-06-06,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43743276,22441717,19926930,4773150
+Nepal,2022-06-07,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43852068,22447580,19939784,4864530
+Nepal,2022-06-08,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,43968451,22452894,19953304,4963420
+Nepal,2022-06-09,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,44085568,22458729,19969662,5058965
+Nepal,2022-06-10,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,44166069,22462593,19976900,5129232
+Nepal,2022-06-11,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,44247981,22465417,19981665,5204193
+Nepal,2022-06-14,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,44633887,22476182,19997583,5567194
+Nepal,2022-06-15,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,44802104,22492202,20027781,5692302
+Nepal,2022-06-16,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,44905237,22517204,20054777,5745991
+Nepal,2022-06-17,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45057574,22571837,20090817,5827235
+Nepal,2022-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45122852,22578546,20107569,5870095
+Nepal,2022-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45175161,22581229,20112984,5914332
+Nepal,2022-06-20,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,,22587603,20123223,6045699
+Nepal,2022-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45396016,22594126,20151061,6085076
+Nepal,2022-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45498949,22628015,20187733,6128122
+Nepal,2022-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45584606,22649277,20196496,6184109
+Nepal,2022-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45734667,22710320,20229212,6242325
+Nepal,2022-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45791355,22758672,20235863,6245732
+Nepal,2022-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45849079,22810898,20237066,6250027
+Nepal,2022-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,45976871,22899642,20249513,6277763
+Nepal,2022-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,46113867,22995709,20267818,6300646
+Nepal,2022-07-03,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,46743409,23350416,20352238,6497323
+Nepal,2022-07-04,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing",https://covid19.mohp.gov.np/situation-report,46888075,23433211,20359274,6552610
+Nepal,2022-07-11,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,50859914,23749274,20404410,6706230
+Nepal,2022-07-19,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,51564516,24056165,20497729,7010622
+Nepal,2022-07-23,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,52269883,24607594,20523367,7138922
+Nepal,2022-07-30,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,52867991,25026214,20579365,7262412
+Nepal,2022-08-08,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,53260490,25251001,20640381,7369108
+Nepal,2022-08-15,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,53747378,25419295,20876075,7452008
+Nepal,2022-08-29,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,55409828,25997644,21686037,7726147
+Nepal,2022-09-13,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,57015910,26718186,22324933,7972791
+Nepal,2022-09-25,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,57909436,27148456,22565230,8195750
+Nepal,2022-09-28,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,58094360,27189865,22667676,8236819
+Nepal,2022-10-18,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,59014127,,23310071,8412774
+Nepal,2022-10-23,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,59118206,27290944,23389561,8437701
+Nepal,2022-11-08,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,59431338,27316278,23616893,8498167
+Nepal,2022-11-15,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,59672708,27356497,23737019,8579192
+Nepal,2022-11-16,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,59705970,27357469,23749154,8599347
+Nepal,2022-11-29,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,59930762,27398529,23857858,8674375
+Nepal,2022-12-06,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,60184003,27484915,23949225,
+Nepal,2022-12-20,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,,27566723,24057021,
+Nepal,2023-01-03,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,60403215,27588121,24082373,8732721
+Nepal,2023-01-17,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,60789000,27678479,24159118,8951403
+Nepal,2023-02-14,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,60976433,27718158,24232876,9025399
+Nepal,2023-03-21,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61174872,27763693,24303411,9107768
+Nepal,2023-04-04,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61411604,27772996,24324965,9313643
+Nepal,2023-04-11,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61476637,27774365,24331076,9371196
+Nepal,2023-05-02,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61748291,27790780,24352165,9605346
+Nepal,2023-05-09,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61825430,27794462,24357523,9673445
+Nepal,2023-05-16,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61871588,27795727,24365112,9710749
+Nepal,2023-05-23,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61933902,27797754,24369133,9767015
+Nepal,2023-05-30,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,61989256,27800314,24377743,9811199
+Nepal,2023-06-06,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,62032595,27801458,24379336,9851801
+Nepal,2023-06-13,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,62069210,27804084,24387074,9878052
+Nepal,2023-06-20,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,62086946,27804935,24389063,9892948
+Nepal,2023-10-17,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://covid19.who.int/,62608595,27882327,24469977,10256291
+Nepal,2023-11-23,"Covaxin, Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",https://data.who.int/dashboards/covid19/,62627629,27883196,24471043,10273390

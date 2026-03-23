@@ -1,48 +1,57 @@
-"""Czechia.
-
-Since we need to translate vaccine names, we'll check that no new
-manufacturers were added, so that we can maintain control over this.
-"""
 import pandas as pd
 
-from cowidev.vax.utils.files import export_metadata_manufacturer
+from cowidev.utils.utils import check_known_columns
+from cowidev.vax.utils.base import CountryVaxBase
 from cowidev.vax.utils.utils import build_vaccine_timeline
-from cowidev.utils import paths
-
 
 vaccine_mapping = {
     "Comirnaty": "Pfizer/BioNTech",
-    "Spikevax": "Moderna",
+    "Comirnaty 6m-4": "Pfizer/BioNTech",
+    "Comirnaty 5-11": "Pfizer/BioNTech",
+    "Comirnaty Original/Omicron BA.1": "Pfizer/BioNTech",
+    "Comirnaty Original/Omicron BA.4/BA.5": "Pfizer/BioNTech",
+    "Comirnaty Omicron XBB.1.5.": "Pfizer/BioNTech",
+    "Comirnaty Omicron XBB.1.5. 5-11": "Pfizer/BioNTech",
+    "COMIRNATY OMICRON XBB.1.5 6m-4": "Pfizer/BioNTech",
     "SPIKEVAX": "Moderna",
+    "Spikevax bivalent Original/Omicron BA.1": "Moderna",
+    "SPIKEVAX BIVALENT ORIGINAL/OMICRON BA.4-5": "Moderna",
+    "Covishield": "Oxford/AstraZeneca",
     "VAXZEVRIA": "Oxford/AstraZeneca",
     "COVID-19 Vaccine Janssen": "Johnson&Johnson",
+    "Nuvaxovid": "Novavax",
+    "Nuvaxovid XBB 1.5": "Novavax",
+    "Covovax": "Novavax",
+    "Sinopharm": "Sinopharm/Beijing",
+    "Sinovac": "Sinovac",
+    "COVAXIN": "Covaxin",
+    "Sputnik V": "Sputnik V",
+    "Valneva": "Valneva",
 }
-
 one_dose_vaccines = ["Johnson&Johnson"]
 
 
 def read(source: str) -> pd.DataFrame:
-    return pd.read_csv(source)
-
-
-def check_columns(df: pd.DataFrame) -> pd.DataFrame:
-    expected = [
-        "id",
-        "datum",
-        "vakcina",
-        "kraj_nuts_kod",
-        "kraj_nazev",
-        "vekova_skupina",
-        "prvnich_davek",
-        "druhych_davek",
-        "celkem_davek",
-    ]
-    if list(df.columns) != expected:
-        raise ValueError("Wrong columns. Was expecting {} and got {}".format(expected, list(df.columns)))
+    df = pd.read_csv(source)
+    check_known_columns(
+        df,
+        [
+            "id",
+            "datum",
+            "vakcina",
+            "kraj_nuts_kod",
+            "kraj_nazev",
+            "vekova_skupina",
+            "prvnich_davek",
+            "druhych_davek",
+            "celkem_davek",
+        ],
+    )
     return df
 
 
 def check_vaccine_names(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.dropna(subset=["vakcina"])
     unknown_vaccines = set(df.vakcina.unique()).difference(set(vaccine_mapping.keys()))
     if unknown_vaccines:
         raise ValueError("Found unknown vaccines: {}".format(unknown_vaccines))
@@ -66,7 +75,7 @@ def enrich_metadata(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def base_pipeline(df: pd.DataFrame) -> pd.DataFrame:
-    return df.pipe(check_columns).pipe(check_vaccine_names).pipe(translate_vaccine_names)
+    return df.pipe(check_vaccine_names).pipe(translate_vaccine_names)
 
 
 def breakdown_per_vaccine(df: pd.DataFrame) -> pd.DataFrame:
@@ -110,8 +119,17 @@ def infer_one_dose_vaccines(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
+def remove_vaccines(df: pd.DataFrame, vaccine_schedule: dict) -> dict:
+    vax_amount = df[["vakcina", "total_vaccinations"]].groupby("vakcina").sum()
+    vax_amount = vax_amount.where(lambda x: x < 100).dropna()
+    for v in vax_amount.index:
+        vaccine_schedule.pop(v, None)  # It has never been approved in Czechia
+    return vaccine_schedule
+
+
 def aggregate_by_date(df: pd.DataFrame) -> pd.DataFrame:
     vaccine_schedule = df[["datum", "vakcina"]].groupby("vakcina").min().to_dict()["datum"]
+    vaccine_schedule = remove_vaccines(df, vaccine_schedule)
     return (
         df.groupby(by="datum")
         .agg(
@@ -144,30 +162,34 @@ def enrich_cumulated_sums(df: pd.DataFrame) -> pd.DataFrame:
     )
 
 
-def global_pipeline(df: pd.DataFrame) -> pd.DataFrame:
-    return (
-        df.pipe(aggregate_by_date_vaccine)
-        .pipe(infer_one_dose_vaccines)
-        .pipe(aggregate_by_date)
-        .pipe(format_date)
-        .pipe(enrich_cumulated_sums)
-        .pipe(enrich_metadata)
-    )
+class Czechia(CountryVaxBase):
+    location = "Czechia"
+    source_url = "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani.csv"
+
+    def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
+        return (
+            df.pipe(aggregate_by_date_vaccine)
+            .pipe(infer_one_dose_vaccines)
+            .pipe(aggregate_by_date)
+            .pipe(format_date)
+            .pipe(enrich_cumulated_sums)
+            .pipe(enrich_metadata)
+        )
+
+    def export(self):
+        base = read(self.source_url).pipe(base_pipeline)
+
+        # Manufacturer data
+        df_man = base.pipe(breakdown_per_vaccine)
+
+        # Main data
+        df = base.pipe(self.pipeline)
+        self.export_datafile(
+            df=df,
+            df_manufacturer=df_man,
+            meta_manufacturer={"source_name": "Ministry of Health", "source_url": self.source_url},
+        )
 
 
 def main():
-    source = "https://onemocneni-aktualne.mzcr.cz/api/v2/covid-19/ockovani.csv"
-
-    base = read(source).pipe(base_pipeline)
-
-    # Manufacturer data
-    df_man = base.pipe(breakdown_per_vaccine)
-    df_man.to_csv(paths.out_vax("Czechia", manufacturer=True), index=False)
-    export_metadata_manufacturer(df_man, "Ministry of Health", source)
-
-    # Main data
-    base.pipe(global_pipeline).to_csv(paths.out_vax("Czechia"), index=False)
-
-
-if __name__ == "__main__":
-    main()
+    Czechia().export()

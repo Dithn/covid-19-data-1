@@ -1,0 +1,2555 @@
+entity,indicator,date,value
+Slovenia,Daily hospital occupancy,2020-03-10,18.0
+Slovenia,Daily hospital occupancy,2020-03-11,18.0
+Slovenia,Daily hospital occupancy,2020-03-12,17.0
+Slovenia,Daily hospital occupancy,2020-03-13,22.0
+Slovenia,Daily hospital occupancy,2020-03-14,29.0
+Slovenia,Daily hospital occupancy,2020-03-15,33.0
+Slovenia,Daily hospital occupancy,2020-03-16,32.0
+Slovenia,Daily hospital occupancy,2020-03-17,38.0
+Slovenia,Daily hospital occupancy,2020-03-18,43.0
+Slovenia,Daily hospital occupancy,2020-03-19,47.0
+Slovenia,Daily hospital occupancy,2020-03-20,46.0
+Slovenia,Daily hospital occupancy,2020-03-21,51.0
+Slovenia,Daily hospital occupancy,2020-03-22,52.0
+Slovenia,Daily hospital occupancy,2020-03-23,56.0
+Slovenia,Daily hospital occupancy,2020-03-24,69.0
+Slovenia,Daily hospital occupancy,2020-03-25,78.0
+Slovenia,Daily hospital occupancy,2020-03-26,81.0
+Slovenia,Daily hospital occupancy,2020-03-27,102.0
+Slovenia,Daily hospital occupancy,2020-03-28,102.0
+Slovenia,Daily hospital occupancy,2020-03-29,108.0
+Slovenia,Daily hospital occupancy,2020-03-30,117.0
+Slovenia,Daily hospital occupancy,2020-03-31,110.0
+Slovenia,Daily hospital occupancy,2020-04-01,109.0
+Slovenia,Daily hospital occupancy,2020-04-02,108.0
+Slovenia,Daily hospital occupancy,2020-04-03,114.0
+Slovenia,Daily hospital occupancy,2020-04-04,109.0
+Slovenia,Daily hospital occupancy,2020-04-05,110.0
+Slovenia,Daily hospital occupancy,2020-04-06,112.0
+Slovenia,Daily hospital occupancy,2020-04-07,109.0
+Slovenia,Daily hospital occupancy,2020-04-08,111.0
+Slovenia,Daily hospital occupancy,2020-04-09,108.0
+Slovenia,Daily hospital occupancy,2020-04-10,106.0
+Slovenia,Daily hospital occupancy,2020-04-11,94.0
+Slovenia,Daily hospital occupancy,2020-04-12,95.0
+Slovenia,Daily hospital occupancy,2020-04-13,95.0
+Slovenia,Daily hospital occupancy,2020-04-14,103.0
+Slovenia,Daily hospital occupancy,2020-04-15,96.0
+Slovenia,Daily hospital occupancy,2020-04-16,99.0
+Slovenia,Daily hospital occupancy,2020-04-17,95.0
+Slovenia,Daily hospital occupancy,2020-04-18,93.0
+Slovenia,Daily hospital occupancy,2020-04-19,89.0
+Slovenia,Daily hospital occupancy,2020-04-20,87.0
+Slovenia,Daily hospital occupancy,2020-04-21,86.0
+Slovenia,Daily hospital occupancy,2020-04-22,82.0
+Slovenia,Daily hospital occupancy,2020-04-23,80.0
+Slovenia,Daily hospital occupancy,2020-04-24,78.0
+Slovenia,Daily hospital occupancy,2020-04-25,77.0
+Slovenia,Daily hospital occupancy,2020-04-26,80.0
+Slovenia,Daily hospital occupancy,2020-04-27,80.0
+Slovenia,Daily hospital occupancy,2020-04-28,77.0
+Slovenia,Daily hospital occupancy,2020-04-29,70.0
+Slovenia,Daily hospital occupancy,2020-04-30,63.0
+Slovenia,Daily hospital occupancy,2020-05-01,58.0
+Slovenia,Daily hospital occupancy,2020-05-02,60.0
+Slovenia,Daily hospital occupancy,2020-05-03,58.0
+Slovenia,Daily hospital occupancy,2020-05-04,58.0
+Slovenia,Daily hospital occupancy,2020-05-05,55.0
+Slovenia,Daily hospital occupancy,2020-05-06,53.0
+Slovenia,Daily hospital occupancy,2020-05-07,52.0
+Slovenia,Daily hospital occupancy,2020-05-08,46.0
+Slovenia,Daily hospital occupancy,2020-05-09,43.0
+Slovenia,Daily hospital occupancy,2020-05-10,41.0
+Slovenia,Daily hospital occupancy,2020-05-11,42.0
+Slovenia,Daily hospital occupancy,2020-05-12,40.0
+Slovenia,Daily hospital occupancy,2020-05-13,38.0
+Slovenia,Daily hospital occupancy,2020-05-14,32.0
+Slovenia,Daily hospital occupancy,2020-05-15,29.0
+Slovenia,Daily hospital occupancy,2020-05-16,27.0
+Slovenia,Daily hospital occupancy,2020-05-17,26.0
+Slovenia,Daily hospital occupancy,2020-05-18,25.0
+Slovenia,Daily hospital occupancy,2020-05-19,24.0
+Slovenia,Daily hospital occupancy,2020-05-20,23.0
+Slovenia,Daily hospital occupancy,2020-05-21,21.0
+Slovenia,Daily hospital occupancy,2020-05-22,21.0
+Slovenia,Daily hospital occupancy,2020-05-23,18.0
+Slovenia,Daily hospital occupancy,2020-05-24,18.0
+Slovenia,Daily hospital occupancy,2020-05-25,16.0
+Slovenia,Daily hospital occupancy,2020-05-26,9.0
+Slovenia,Daily hospital occupancy,2020-05-27,8.0
+Slovenia,Daily hospital occupancy,2020-05-28,7.0
+Slovenia,Daily hospital occupancy,2020-05-29,7.0
+Slovenia,Daily hospital occupancy,2020-05-30,7.0
+Slovenia,Daily hospital occupancy,2020-05-31,6.0
+Slovenia,Daily hospital occupancy,2020-06-01,5.0
+Slovenia,Daily hospital occupancy,2020-06-02,5.0
+Slovenia,Daily hospital occupancy,2020-06-03,5.0
+Slovenia,Daily hospital occupancy,2020-06-04,5.0
+Slovenia,Daily hospital occupancy,2020-06-05,6.0
+Slovenia,Daily hospital occupancy,2020-06-06,6.0
+Slovenia,Daily hospital occupancy,2020-06-07,5.0
+Slovenia,Daily hospital occupancy,2020-06-08,5.0
+Slovenia,Daily hospital occupancy,2020-06-09,6.0
+Slovenia,Daily hospital occupancy,2020-06-10,6.0
+Slovenia,Daily hospital occupancy,2020-06-11,6.0
+Slovenia,Daily hospital occupancy,2020-06-12,6.0
+Slovenia,Daily hospital occupancy,2020-06-13,6.0
+Slovenia,Daily hospital occupancy,2020-06-14,6.0
+Slovenia,Daily hospital occupancy,2020-06-15,7.0
+Slovenia,Daily hospital occupancy,2020-06-16,7.0
+Slovenia,Daily hospital occupancy,2020-06-17,7.0
+Slovenia,Daily hospital occupancy,2020-06-18,6.0
+Slovenia,Daily hospital occupancy,2020-06-19,8.0
+Slovenia,Daily hospital occupancy,2020-06-20,6.0
+Slovenia,Daily hospital occupancy,2020-06-21,6.0
+Slovenia,Daily hospital occupancy,2020-06-22,6.0
+Slovenia,Daily hospital occupancy,2020-06-23,5.0
+Slovenia,Daily hospital occupancy,2020-06-24,7.0
+Slovenia,Daily hospital occupancy,2020-06-25,7.0
+Slovenia,Daily hospital occupancy,2020-06-26,8.0
+Slovenia,Daily hospital occupancy,2020-06-27,8.0
+Slovenia,Daily hospital occupancy,2020-06-28,7.0
+Slovenia,Daily hospital occupancy,2020-06-29,8.0
+Slovenia,Daily hospital occupancy,2020-06-30,8.0
+Slovenia,Daily hospital occupancy,2020-07-01,8.0
+Slovenia,Daily hospital occupancy,2020-07-02,9.0
+Slovenia,Daily hospital occupancy,2020-07-03,10.0
+Slovenia,Daily hospital occupancy,2020-07-04,6.0
+Slovenia,Daily hospital occupancy,2020-07-05,6.0
+Slovenia,Daily hospital occupancy,2020-07-06,11.0
+Slovenia,Daily hospital occupancy,2020-07-07,12.0
+Slovenia,Daily hospital occupancy,2020-07-08,14.0
+Slovenia,Daily hospital occupancy,2020-07-09,15.0
+Slovenia,Daily hospital occupancy,2020-07-10,16.0
+Slovenia,Daily hospital occupancy,2020-07-11,16.0
+Slovenia,Daily hospital occupancy,2020-07-12,16.0
+Slovenia,Daily hospital occupancy,2020-07-13,17.0
+Slovenia,Daily hospital occupancy,2020-07-14,17.0
+Slovenia,Daily hospital occupancy,2020-07-15,16.0
+Slovenia,Daily hospital occupancy,2020-07-16,18.0
+Slovenia,Daily hospital occupancy,2020-07-17,19.0
+Slovenia,Daily hospital occupancy,2020-07-18,19.0
+Slovenia,Daily hospital occupancy,2020-07-19,19.0
+Slovenia,Daily hospital occupancy,2020-07-20,19.0
+Slovenia,Daily hospital occupancy,2020-07-21,22.0
+Slovenia,Daily hospital occupancy,2020-07-22,22.0
+Slovenia,Daily hospital occupancy,2020-07-23,24.0
+Slovenia,Daily hospital occupancy,2020-07-24,23.0
+Slovenia,Daily hospital occupancy,2020-07-25,19.0
+Slovenia,Daily hospital occupancy,2020-07-26,21.0
+Slovenia,Daily hospital occupancy,2020-07-27,20.0
+Slovenia,Daily hospital occupancy,2020-07-28,17.0
+Slovenia,Daily hospital occupancy,2020-07-29,21.0
+Slovenia,Daily hospital occupancy,2020-07-30,22.0
+Slovenia,Daily hospital occupancy,2020-07-31,24.0
+Slovenia,Daily hospital occupancy,2020-08-01,22.0
+Slovenia,Daily hospital occupancy,2020-08-02,22.0
+Slovenia,Daily hospital occupancy,2020-08-03,20.0
+Slovenia,Daily hospital occupancy,2020-08-04,22.0
+Slovenia,Daily hospital occupancy,2020-08-05,22.0
+Slovenia,Daily hospital occupancy,2020-08-06,24.0
+Slovenia,Daily hospital occupancy,2020-08-07,24.0
+Slovenia,Daily hospital occupancy,2020-08-08,22.0
+Slovenia,Daily hospital occupancy,2020-08-09,24.0
+Slovenia,Daily hospital occupancy,2020-08-10,24.0
+Slovenia,Daily hospital occupancy,2020-08-11,23.0
+Slovenia,Daily hospital occupancy,2020-08-12,23.0
+Slovenia,Daily hospital occupancy,2020-08-13,19.0
+Slovenia,Daily hospital occupancy,2020-08-14,18.0
+Slovenia,Daily hospital occupancy,2020-08-15,16.0
+Slovenia,Daily hospital occupancy,2020-08-16,17.0
+Slovenia,Daily hospital occupancy,2020-08-17,19.0
+Slovenia,Daily hospital occupancy,2020-08-18,16.0
+Slovenia,Daily hospital occupancy,2020-08-19,17.0
+Slovenia,Daily hospital occupancy,2020-08-20,17.0
+Slovenia,Daily hospital occupancy,2020-08-21,18.0
+Slovenia,Daily hospital occupancy,2020-08-22,18.0
+Slovenia,Daily hospital occupancy,2020-08-23,17.0
+Slovenia,Daily hospital occupancy,2020-08-24,17.0
+Slovenia,Daily hospital occupancy,2020-08-25,17.0
+Slovenia,Daily hospital occupancy,2020-08-26,20.0
+Slovenia,Daily hospital occupancy,2020-08-27,23.0
+Slovenia,Daily hospital occupancy,2020-08-28,22.0
+Slovenia,Daily hospital occupancy,2020-08-29,23.0
+Slovenia,Daily hospital occupancy,2020-08-30,24.0
+Slovenia,Daily hospital occupancy,2020-08-31,25.0
+Slovenia,Daily hospital occupancy,2020-09-01,25.0
+Slovenia,Daily hospital occupancy,2020-09-02,26.0
+Slovenia,Daily hospital occupancy,2020-09-03,26.0
+Slovenia,Daily hospital occupancy,2020-09-04,24.0
+Slovenia,Daily hospital occupancy,2020-09-05,22.0
+Slovenia,Daily hospital occupancy,2020-09-06,23.0
+Slovenia,Daily hospital occupancy,2020-09-07,26.0
+Slovenia,Daily hospital occupancy,2020-09-08,28.0
+Slovenia,Daily hospital occupancy,2020-09-09,27.0
+Slovenia,Daily hospital occupancy,2020-09-10,26.0
+Slovenia,Daily hospital occupancy,2020-09-11,27.0
+Slovenia,Daily hospital occupancy,2020-09-12,31.0
+Slovenia,Daily hospital occupancy,2020-09-13,38.0
+Slovenia,Daily hospital occupancy,2020-09-14,42.0
+Slovenia,Daily hospital occupancy,2020-09-15,50.0
+Slovenia,Daily hospital occupancy,2020-09-16,61.0
+Slovenia,Daily hospital occupancy,2020-09-17,62.0
+Slovenia,Daily hospital occupancy,2020-09-18,67.0
+Slovenia,Daily hospital occupancy,2020-09-19,67.0
+Slovenia,Daily hospital occupancy,2020-09-20,66.0
+Slovenia,Daily hospital occupancy,2020-09-21,70.0
+Slovenia,Daily hospital occupancy,2020-09-22,71.0
+Slovenia,Daily hospital occupancy,2020-09-23,65.0
+Slovenia,Daily hospital occupancy,2020-09-24,63.0
+Slovenia,Daily hospital occupancy,2020-09-25,60.0
+Slovenia,Daily hospital occupancy,2020-09-26,72.0
+Slovenia,Daily hospital occupancy,2020-09-27,80.0
+Slovenia,Daily hospital occupancy,2020-09-28,79.0
+Slovenia,Daily hospital occupancy,2020-09-29,84.0
+Slovenia,Daily hospital occupancy,2020-09-30,86.0
+Slovenia,Daily hospital occupancy,2020-10-01,86.0
+Slovenia,Daily hospital occupancy,2020-10-02,86.0
+Slovenia,Daily hospital occupancy,2020-10-03,94.0
+Slovenia,Daily hospital occupancy,2020-10-04,101.0
+Slovenia,Daily hospital occupancy,2020-10-05,107.0
+Slovenia,Daily hospital occupancy,2020-10-06,111.0
+Slovenia,Daily hospital occupancy,2020-10-07,122.0
+Slovenia,Daily hospital occupancy,2020-10-08,131.0
+Slovenia,Daily hospital occupancy,2020-10-09,138.0
+Slovenia,Daily hospital occupancy,2020-10-10,149.0
+Slovenia,Daily hospital occupancy,2020-10-11,158.0
+Slovenia,Daily hospital occupancy,2020-10-12,172.0
+Slovenia,Daily hospital occupancy,2020-10-13,180.0
+Slovenia,Daily hospital occupancy,2020-10-14,210.0
+Slovenia,Daily hospital occupancy,2020-10-15,222.0
+Slovenia,Daily hospital occupancy,2020-10-16,240.0
+Slovenia,Daily hospital occupancy,2020-10-17,250.0
+Slovenia,Daily hospital occupancy,2020-10-18,265.0
+Slovenia,Daily hospital occupancy,2020-10-19,291.0
+Slovenia,Daily hospital occupancy,2020-10-20,313.0
+Slovenia,Daily hospital occupancy,2020-10-21,333.0
+Slovenia,Daily hospital occupancy,2020-10-22,356.0
+Slovenia,Daily hospital occupancy,2020-10-23,394.0
+Slovenia,Daily hospital occupancy,2020-10-24,449.0
+Slovenia,Daily hospital occupancy,2020-10-25,508.0
+Slovenia,Daily hospital occupancy,2020-10-26,523.0
+Slovenia,Daily hospital occupancy,2020-10-27,560.0
+Slovenia,Daily hospital occupancy,2020-10-28,612.0
+Slovenia,Daily hospital occupancy,2020-10-29,660.0
+Slovenia,Daily hospital occupancy,2020-10-30,703.0
+Slovenia,Daily hospital occupancy,2020-10-31,779.0
+Slovenia,Daily hospital occupancy,2020-11-01,821.0
+Slovenia,Daily hospital occupancy,2020-11-02,868.0
+Slovenia,Daily hospital occupancy,2020-11-03,925.0
+Slovenia,Daily hospital occupancy,2020-11-04,979.0
+Slovenia,Daily hospital occupancy,2020-11-05,1023.0
+Slovenia,Daily hospital occupancy,2020-11-06,1069.0
+Slovenia,Daily hospital occupancy,2020-11-07,1084.0
+Slovenia,Daily hospital occupancy,2020-11-08,1125.0
+Slovenia,Daily hospital occupancy,2020-11-09,1143.0
+Slovenia,Daily hospital occupancy,2020-11-10,1171.0
+Slovenia,Daily hospital occupancy,2020-11-11,1192.0
+Slovenia,Daily hospital occupancy,2020-11-12,1210.0
+Slovenia,Daily hospital occupancy,2020-11-13,1199.0
+Slovenia,Daily hospital occupancy,2020-11-14,1224.0
+Slovenia,Daily hospital occupancy,2020-11-15,1261.0
+Slovenia,Daily hospital occupancy,2020-11-16,1264.0
+Slovenia,Daily hospital occupancy,2020-11-17,1275.0
+Slovenia,Daily hospital occupancy,2020-11-18,1280.0
+Slovenia,Daily hospital occupancy,2020-11-19,1238.0
+Slovenia,Daily hospital occupancy,2020-11-20,1254.0
+Slovenia,Daily hospital occupancy,2020-11-21,1219.0
+Slovenia,Daily hospital occupancy,2020-11-22,1244.0
+Slovenia,Daily hospital occupancy,2020-11-23,1292.0
+Slovenia,Daily hospital occupancy,2020-11-24,1299.0
+Slovenia,Daily hospital occupancy,2020-11-25,1297.0
+Slovenia,Daily hospital occupancy,2020-11-26,1302.0
+Slovenia,Daily hospital occupancy,2020-11-27,1324.0
+Slovenia,Daily hospital occupancy,2020-11-28,1257.0
+Slovenia,Daily hospital occupancy,2020-11-29,1278.0
+Slovenia,Daily hospital occupancy,2020-11-30,1298.0
+Slovenia,Daily hospital occupancy,2020-12-01,1299.0
+Slovenia,Daily hospital occupancy,2020-12-02,1285.0
+Slovenia,Daily hospital occupancy,2020-12-03,1289.0
+Slovenia,Daily hospital occupancy,2020-12-04,1284.0
+Slovenia,Daily hospital occupancy,2020-12-05,1272.0
+Slovenia,Daily hospital occupancy,2020-12-06,1302.0
+Slovenia,Daily hospital occupancy,2020-12-07,1301.0
+Slovenia,Daily hospital occupancy,2020-12-08,1304.0
+Slovenia,Daily hospital occupancy,2020-12-09,1282.0
+Slovenia,Daily hospital occupancy,2020-12-10,1258.0
+Slovenia,Daily hospital occupancy,2020-12-11,1268.0
+Slovenia,Daily hospital occupancy,2020-12-12,1276.0
+Slovenia,Daily hospital occupancy,2020-12-13,1315.0
+Slovenia,Daily hospital occupancy,2020-12-14,1320.0
+Slovenia,Daily hospital occupancy,2020-12-15,1284.0
+Slovenia,Daily hospital occupancy,2020-12-16,1251.0
+Slovenia,Daily hospital occupancy,2020-12-17,1229.0
+Slovenia,Daily hospital occupancy,2020-12-18,1212.0
+Slovenia,Daily hospital occupancy,2020-12-19,1199.0
+Slovenia,Daily hospital occupancy,2020-12-20,1214.0
+Slovenia,Daily hospital occupancy,2020-12-21,1271.0
+Slovenia,Daily hospital occupancy,2020-12-22,1261.0
+Slovenia,Daily hospital occupancy,2020-12-23,1226.0
+Slovenia,Daily hospital occupancy,2020-12-24,1189.0
+Slovenia,Daily hospital occupancy,2020-12-25,1142.0
+Slovenia,Daily hospital occupancy,2020-12-26,1165.0
+Slovenia,Daily hospital occupancy,2020-12-27,1179.0
+Slovenia,Daily hospital occupancy,2020-12-28,1221.0
+Slovenia,Daily hospital occupancy,2020-12-29,1170.0
+Slovenia,Daily hospital occupancy,2020-12-30,1172.0
+Slovenia,Daily hospital occupancy,2020-12-31,1174.0
+Slovenia,Daily hospital occupancy,2021-01-01,1110.0
+Slovenia,Daily hospital occupancy,2021-01-02,1111.0
+Slovenia,Daily hospital occupancy,2021-01-03,1173.0
+Slovenia,Daily hospital occupancy,2021-01-04,1209.0
+Slovenia,Daily hospital occupancy,2021-01-05,1193.0
+Slovenia,Daily hospital occupancy,2021-01-06,1177.0
+Slovenia,Daily hospital occupancy,2021-01-07,1169.0
+Slovenia,Daily hospital occupancy,2021-01-08,1160.0
+Slovenia,Daily hospital occupancy,2021-01-09,1143.0
+Slovenia,Daily hospital occupancy,2021-01-10,1192.0
+Slovenia,Daily hospital occupancy,2021-01-11,1205.0
+Slovenia,Daily hospital occupancy,2021-01-12,1202.0
+Slovenia,Daily hospital occupancy,2021-01-13,1244.0
+Slovenia,Daily hospital occupancy,2021-01-14,1266.0
+Slovenia,Daily hospital occupancy,2021-01-15,1266.0
+Slovenia,Daily hospital occupancy,2021-01-16,1224.0
+Slovenia,Daily hospital occupancy,2021-01-17,1220.0
+Slovenia,Daily hospital occupancy,2021-01-18,1237.0
+Slovenia,Daily hospital occupancy,2021-01-19,1200.0
+Slovenia,Daily hospital occupancy,2021-01-20,1178.0
+Slovenia,Daily hospital occupancy,2021-01-21,1159.0
+Slovenia,Daily hospital occupancy,2021-01-22,1140.0
+Slovenia,Daily hospital occupancy,2021-01-23,1129.0
+Slovenia,Daily hospital occupancy,2021-01-24,1149.0
+Slovenia,Daily hospital occupancy,2021-01-25,1173.0
+Slovenia,Daily hospital occupancy,2021-01-26,1157.0
+Slovenia,Daily hospital occupancy,2021-01-27,1144.0
+Slovenia,Daily hospital occupancy,2021-01-28,1106.0
+Slovenia,Daily hospital occupancy,2021-01-29,1082.0
+Slovenia,Daily hospital occupancy,2021-01-30,1047.0
+Slovenia,Daily hospital occupancy,2021-01-31,1053.0
+Slovenia,Daily hospital occupancy,2021-02-01,1066.0
+Slovenia,Daily hospital occupancy,2021-02-02,1032.0
+Slovenia,Daily hospital occupancy,2021-02-03,1012.0
+Slovenia,Daily hospital occupancy,2021-02-04,989.0
+Slovenia,Daily hospital occupancy,2021-02-05,988.0
+Slovenia,Daily hospital occupancy,2021-02-06,926.0
+Slovenia,Daily hospital occupancy,2021-02-07,931.0
+Slovenia,Daily hospital occupancy,2021-02-08,946.0
+Slovenia,Daily hospital occupancy,2021-02-09,945.0
+Slovenia,Daily hospital occupancy,2021-02-10,864.0
+Slovenia,Daily hospital occupancy,2021-02-11,828.0
+Slovenia,Daily hospital occupancy,2021-02-12,789.0
+Slovenia,Daily hospital occupancy,2021-02-13,738.0
+Slovenia,Daily hospital occupancy,2021-02-14,740.0
+Slovenia,Daily hospital occupancy,2021-02-15,738.0
+Slovenia,Daily hospital occupancy,2021-02-16,691.0
+Slovenia,Daily hospital occupancy,2021-02-17,648.0
+Slovenia,Daily hospital occupancy,2021-02-18,619.0
+Slovenia,Daily hospital occupancy,2021-02-19,623.0
+Slovenia,Daily hospital occupancy,2021-02-20,579.0
+Slovenia,Daily hospital occupancy,2021-02-21,566.0
+Slovenia,Daily hospital occupancy,2021-02-22,584.0
+Slovenia,Daily hospital occupancy,2021-02-23,567.0
+Slovenia,Daily hospital occupancy,2021-02-24,546.0
+Slovenia,Daily hospital occupancy,2021-02-25,546.0
+Slovenia,Daily hospital occupancy,2021-02-26,529.0
+Slovenia,Daily hospital occupancy,2021-02-27,513.0
+Slovenia,Daily hospital occupancy,2021-02-28,529.0
+Slovenia,Daily hospital occupancy,2021-03-01,543.0
+Slovenia,Daily hospital occupancy,2021-03-02,528.0
+Slovenia,Daily hospital occupancy,2021-03-03,516.0
+Slovenia,Daily hospital occupancy,2021-03-04,511.0
+Slovenia,Daily hospital occupancy,2021-03-05,521.0
+Slovenia,Daily hospital occupancy,2021-03-06,498.0
+Slovenia,Daily hospital occupancy,2021-03-07,510.0
+Slovenia,Daily hospital occupancy,2021-03-08,527.0
+Slovenia,Daily hospital occupancy,2021-03-09,506.0
+Slovenia,Daily hospital occupancy,2021-03-10,485.0
+Slovenia,Daily hospital occupancy,2021-03-11,453.0
+Slovenia,Daily hospital occupancy,2021-03-12,437.0
+Slovenia,Daily hospital occupancy,2021-03-13,431.0
+Slovenia,Daily hospital occupancy,2021-03-14,438.0
+Slovenia,Daily hospital occupancy,2021-03-15,463.0
+Slovenia,Daily hospital occupancy,2021-03-16,451.0
+Slovenia,Daily hospital occupancy,2021-03-17,444.0
+Slovenia,Daily hospital occupancy,2021-03-18,462.0
+Slovenia,Daily hospital occupancy,2021-03-19,485.0
+Slovenia,Daily hospital occupancy,2021-03-20,458.0
+Slovenia,Daily hospital occupancy,2021-03-21,473.0
+Slovenia,Daily hospital occupancy,2021-03-22,494.0
+Slovenia,Daily hospital occupancy,2021-03-23,507.0
+Slovenia,Daily hospital occupancy,2021-03-24,500.0
+Slovenia,Daily hospital occupancy,2021-03-25,501.0
+Slovenia,Daily hospital occupancy,2021-03-26,500.0
+Slovenia,Daily hospital occupancy,2021-03-27,497.0
+Slovenia,Daily hospital occupancy,2021-03-28,499.0
+Slovenia,Daily hospital occupancy,2021-03-29,526.0
+Slovenia,Daily hospital occupancy,2021-03-30,515.0
+Slovenia,Daily hospital occupancy,2021-03-31,500.0
+Slovenia,Daily hospital occupancy,2021-04-01,518.0
+Slovenia,Daily hospital occupancy,2021-04-02,515.0
+Slovenia,Daily hospital occupancy,2021-04-03,531.0
+Slovenia,Daily hospital occupancy,2021-04-04,534.0
+Slovenia,Daily hospital occupancy,2021-04-05,556.0
+Slovenia,Daily hospital occupancy,2021-04-06,573.0
+Slovenia,Daily hospital occupancy,2021-04-07,581.0
+Slovenia,Daily hospital occupancy,2021-04-08,599.0
+Slovenia,Daily hospital occupancy,2021-04-09,618.0
+Slovenia,Daily hospital occupancy,2021-04-10,605.0
+Slovenia,Daily hospital occupancy,2021-04-11,615.0
+Slovenia,Daily hospital occupancy,2021-04-12,636.0
+Slovenia,Daily hospital occupancy,2021-04-13,617.0
+Slovenia,Daily hospital occupancy,2021-04-14,622.0
+Slovenia,Daily hospital occupancy,2021-04-15,624.0
+Slovenia,Daily hospital occupancy,2021-04-16,639.0
+Slovenia,Daily hospital occupancy,2021-04-17,629.0
+Slovenia,Daily hospital occupancy,2021-04-18,631.0
+Slovenia,Daily hospital occupancy,2021-04-19,652.0
+Slovenia,Daily hospital occupancy,2021-04-20,649.0
+Slovenia,Daily hospital occupancy,2021-04-21,631.0
+Slovenia,Daily hospital occupancy,2021-04-22,620.0
+Slovenia,Daily hospital occupancy,2021-04-23,629.0
+Slovenia,Daily hospital occupancy,2021-04-24,618.0
+Slovenia,Daily hospital occupancy,2021-04-25,630.0
+Slovenia,Daily hospital occupancy,2021-04-26,643.0
+Slovenia,Daily hospital occupancy,2021-04-27,649.0
+Slovenia,Daily hospital occupancy,2021-04-28,621.0
+Slovenia,Daily hospital occupancy,2021-04-29,636.0
+Slovenia,Daily hospital occupancy,2021-04-30,626.0
+Slovenia,Daily hospital occupancy,2021-05-01,616.0
+Slovenia,Daily hospital occupancy,2021-05-02,605.0
+Slovenia,Daily hospital occupancy,2021-05-03,608.0
+Slovenia,Daily hospital occupancy,2021-05-04,584.0
+Slovenia,Daily hospital occupancy,2021-05-05,560.0
+Slovenia,Daily hospital occupancy,2021-05-06,551.0
+Slovenia,Daily hospital occupancy,2021-05-07,538.0
+Slovenia,Daily hospital occupancy,2021-05-08,503.0
+Slovenia,Daily hospital occupancy,2021-05-09,499.0
+Slovenia,Daily hospital occupancy,2021-05-10,509.0
+Slovenia,Daily hospital occupancy,2021-05-11,477.0
+Slovenia,Daily hospital occupancy,2021-05-12,463.0
+Slovenia,Daily hospital occupancy,2021-05-13,450.0
+Slovenia,Daily hospital occupancy,2021-05-14,443.0
+Slovenia,Daily hospital occupancy,2021-05-15,421.0
+Slovenia,Daily hospital occupancy,2021-05-16,408.0
+Slovenia,Daily hospital occupancy,2021-05-17,407.0
+Slovenia,Daily hospital occupancy,2021-05-18,383.0
+Slovenia,Daily hospital occupancy,2021-05-19,368.0
+Slovenia,Daily hospital occupancy,2021-05-20,362.0
+Slovenia,Daily hospital occupancy,2021-05-21,348.0
+Slovenia,Daily hospital occupancy,2021-05-22,319.0
+Slovenia,Daily hospital occupancy,2021-05-23,306.0
+Slovenia,Daily hospital occupancy,2021-05-24,316.0
+Slovenia,Daily hospital occupancy,2021-05-25,295.0
+Slovenia,Daily hospital occupancy,2021-05-26,277.0
+Slovenia,Daily hospital occupancy,2021-05-27,265.0
+Slovenia,Daily hospital occupancy,2021-05-28,252.0
+Slovenia,Daily hospital occupancy,2021-05-29,233.0
+Slovenia,Daily hospital occupancy,2021-05-30,242.0
+Slovenia,Daily hospital occupancy,2021-05-31,245.0
+Slovenia,Daily hospital occupancy,2021-06-01,227.0
+Slovenia,Daily hospital occupancy,2021-06-02,214.0
+Slovenia,Daily hospital occupancy,2021-06-03,213.0
+Slovenia,Daily hospital occupancy,2021-06-04,205.0
+Slovenia,Daily hospital occupancy,2021-06-05,201.0
+Slovenia,Daily hospital occupancy,2021-06-06,198.0
+Slovenia,Daily hospital occupancy,2021-06-07,203.0
+Slovenia,Daily hospital occupancy,2021-06-08,195.0
+Slovenia,Daily hospital occupancy,2021-06-09,188.0
+Slovenia,Daily hospital occupancy,2021-06-10,172.0
+Slovenia,Daily hospital occupancy,2021-06-11,165.0
+Slovenia,Daily hospital occupancy,2021-06-12,138.0
+Slovenia,Daily hospital occupancy,2021-06-13,135.0
+Slovenia,Daily hospital occupancy,2021-06-14,134.0
+Slovenia,Daily hospital occupancy,2021-06-15,122.0
+Slovenia,Daily hospital occupancy,2021-06-16,121.0
+Slovenia,Daily hospital occupancy,2021-06-17,112.0
+Slovenia,Daily hospital occupancy,2021-06-18,109.0
+Slovenia,Daily hospital occupancy,2021-06-19,101.0
+Slovenia,Daily hospital occupancy,2021-06-20,102.0
+Slovenia,Daily hospital occupancy,2021-06-21,105.0
+Slovenia,Daily hospital occupancy,2021-06-22,92.0
+Slovenia,Daily hospital occupancy,2021-06-23,83.0
+Slovenia,Daily hospital occupancy,2021-06-24,80.0
+Slovenia,Daily hospital occupancy,2021-06-25,74.0
+Slovenia,Daily hospital occupancy,2021-06-26,74.0
+Slovenia,Daily hospital occupancy,2021-06-27,75.0
+Slovenia,Daily hospital occupancy,2021-06-28,74.0
+Slovenia,Daily hospital occupancy,2021-06-29,71.0
+Slovenia,Daily hospital occupancy,2021-06-30,68.0
+Slovenia,Daily hospital occupancy,2021-07-01,66.0
+Slovenia,Daily hospital occupancy,2021-07-02,64.0
+Slovenia,Daily hospital occupancy,2021-07-03,61.0
+Slovenia,Daily hospital occupancy,2021-07-04,60.0
+Slovenia,Daily hospital occupancy,2021-07-05,58.0
+Slovenia,Daily hospital occupancy,2021-07-06,59.0
+Slovenia,Daily hospital occupancy,2021-07-07,52.0
+Slovenia,Daily hospital occupancy,2021-07-08,47.0
+Slovenia,Daily hospital occupancy,2021-07-09,41.0
+Slovenia,Daily hospital occupancy,2021-07-10,43.0
+Slovenia,Daily hospital occupancy,2021-07-11,43.0
+Slovenia,Daily hospital occupancy,2021-07-12,41.0
+Slovenia,Daily hospital occupancy,2021-07-13,39.0
+Slovenia,Daily hospital occupancy,2021-07-14,34.0
+Slovenia,Daily hospital occupancy,2021-07-15,32.0
+Slovenia,Daily hospital occupancy,2021-07-16,30.0
+Slovenia,Daily hospital occupancy,2021-07-17,28.0
+Slovenia,Daily hospital occupancy,2021-07-18,29.0
+Slovenia,Daily hospital occupancy,2021-07-19,30.0
+Slovenia,Daily hospital occupancy,2021-07-20,28.0
+Slovenia,Daily hospital occupancy,2021-07-21,27.0
+Slovenia,Daily hospital occupancy,2021-07-22,27.0
+Slovenia,Daily hospital occupancy,2021-07-23,29.0
+Slovenia,Daily hospital occupancy,2021-07-24,29.0
+Slovenia,Daily hospital occupancy,2021-07-25,29.0
+Slovenia,Daily hospital occupancy,2021-07-26,29.0
+Slovenia,Daily hospital occupancy,2021-07-27,28.0
+Slovenia,Daily hospital occupancy,2021-07-28,28.0
+Slovenia,Daily hospital occupancy,2021-07-29,29.0
+Slovenia,Daily hospital occupancy,2021-07-30,30.0
+Slovenia,Daily hospital occupancy,2021-07-31,29.0
+Slovenia,Daily hospital occupancy,2021-08-01,29.0
+Slovenia,Daily hospital occupancy,2021-08-02,31.0
+Slovenia,Daily hospital occupancy,2021-08-03,30.0
+Slovenia,Daily hospital occupancy,2021-08-04,30.0
+Slovenia,Daily hospital occupancy,2021-08-05,28.0
+Slovenia,Daily hospital occupancy,2021-08-06,29.0
+Slovenia,Daily hospital occupancy,2021-08-07,32.0
+Slovenia,Daily hospital occupancy,2021-08-08,31.0
+Slovenia,Daily hospital occupancy,2021-08-09,32.0
+Slovenia,Daily hospital occupancy,2021-08-10,36.0
+Slovenia,Daily hospital occupancy,2021-08-11,36.0
+Slovenia,Daily hospital occupancy,2021-08-12,40.0
+Slovenia,Daily hospital occupancy,2021-08-13,42.0
+Slovenia,Daily hospital occupancy,2021-08-14,42.0
+Slovenia,Daily hospital occupancy,2021-08-15,43.0
+Slovenia,Daily hospital occupancy,2021-08-16,45.0
+Slovenia,Daily hospital occupancy,2021-08-17,49.0
+Slovenia,Daily hospital occupancy,2021-08-18,57.0
+Slovenia,Daily hospital occupancy,2021-08-19,56.0
+Slovenia,Daily hospital occupancy,2021-08-20,54.0
+Slovenia,Daily hospital occupancy,2021-08-21,66.0
+Slovenia,Daily hospital occupancy,2021-08-22,66.0
+Slovenia,Daily hospital occupancy,2021-08-23,75.0
+Slovenia,Daily hospital occupancy,2021-08-24,86.0
+Slovenia,Daily hospital occupancy,2021-08-25,89.0
+Slovenia,Daily hospital occupancy,2021-08-26,105.0
+Slovenia,Daily hospital occupancy,2021-08-27,117.0
+Slovenia,Daily hospital occupancy,2021-08-28,121.0
+Slovenia,Daily hospital occupancy,2021-08-29,129.0
+Slovenia,Daily hospital occupancy,2021-08-30,141.0
+Slovenia,Daily hospital occupancy,2021-08-31,146.0
+Slovenia,Daily hospital occupancy,2021-09-01,159.0
+Slovenia,Daily hospital occupancy,2021-09-02,162.0
+Slovenia,Daily hospital occupancy,2021-09-03,180.0
+Slovenia,Daily hospital occupancy,2021-09-04,189.0
+Slovenia,Daily hospital occupancy,2021-09-05,209.0
+Slovenia,Daily hospital occupancy,2021-09-06,215.0
+Slovenia,Daily hospital occupancy,2021-09-07,229.0
+Slovenia,Daily hospital occupancy,2021-09-08,243.0
+Slovenia,Daily hospital occupancy,2021-09-09,269.0
+Slovenia,Daily hospital occupancy,2021-09-10,278.0
+Slovenia,Daily hospital occupancy,2021-09-11,274.0
+Slovenia,Daily hospital occupancy,2021-09-12,292.0
+Slovenia,Daily hospital occupancy,2021-09-13,312.0
+Slovenia,Daily hospital occupancy,2021-09-14,333.0
+Slovenia,Daily hospital occupancy,2021-09-15,347.0
+Slovenia,Daily hospital occupancy,2021-09-16,341.0
+Slovenia,Daily hospital occupancy,2021-09-17,348.0
+Slovenia,Daily hospital occupancy,2021-09-18,360.0
+Slovenia,Daily hospital occupancy,2021-09-19,360.0
+Slovenia,Daily hospital occupancy,2021-09-20,364.0
+Slovenia,Daily hospital occupancy,2021-09-21,378.0
+Slovenia,Daily hospital occupancy,2021-09-22,388.0
+Slovenia,Daily hospital occupancy,2021-09-23,391.0
+Slovenia,Daily hospital occupancy,2021-09-24,404.0
+Slovenia,Daily hospital occupancy,2021-09-25,381.0
+Slovenia,Daily hospital occupancy,2021-09-26,397.0
+Slovenia,Daily hospital occupancy,2021-09-27,426.0
+Slovenia,Daily hospital occupancy,2021-09-28,419.0
+Slovenia,Daily hospital occupancy,2021-09-29,403.0
+Slovenia,Daily hospital occupancy,2021-09-30,420.0
+Slovenia,Daily hospital occupancy,2021-10-01,419.0
+Slovenia,Daily hospital occupancy,2021-10-02,422.0
+Slovenia,Daily hospital occupancy,2021-10-03,424.0
+Slovenia,Daily hospital occupancy,2021-10-04,431.0
+Slovenia,Daily hospital occupancy,2021-10-05,426.0
+Slovenia,Daily hospital occupancy,2021-10-06,400.0
+Slovenia,Daily hospital occupancy,2021-10-07,413.0
+Slovenia,Daily hospital occupancy,2021-10-08,413.0
+Slovenia,Daily hospital occupancy,2021-10-09,423.0
+Slovenia,Daily hospital occupancy,2021-10-10,417.0
+Slovenia,Daily hospital occupancy,2021-10-11,422.0
+Slovenia,Daily hospital occupancy,2021-10-12,428.0
+Slovenia,Daily hospital occupancy,2021-10-13,420.0
+Slovenia,Daily hospital occupancy,2021-10-14,406.0
+Slovenia,Daily hospital occupancy,2021-10-15,403.0
+Slovenia,Daily hospital occupancy,2021-10-16,398.0
+Slovenia,Daily hospital occupancy,2021-10-17,411.0
+Slovenia,Daily hospital occupancy,2021-10-18,418.0
+Slovenia,Daily hospital occupancy,2021-10-19,421.0
+Slovenia,Daily hospital occupancy,2021-10-20,427.0
+Slovenia,Daily hospital occupancy,2021-10-21,421.0
+Slovenia,Daily hospital occupancy,2021-10-22,440.0
+Slovenia,Daily hospital occupancy,2021-10-23,455.0
+Slovenia,Daily hospital occupancy,2021-10-24,475.0
+Slovenia,Daily hospital occupancy,2021-10-25,493.0
+Slovenia,Daily hospital occupancy,2021-10-26,510.0
+Slovenia,Daily hospital occupancy,2021-10-27,526.0
+Slovenia,Daily hospital occupancy,2021-10-28,547.0
+Slovenia,Daily hospital occupancy,2021-10-29,558.0
+Slovenia,Daily hospital occupancy,2021-10-30,567.0
+Slovenia,Daily hospital occupancy,2021-10-31,577.0
+Slovenia,Daily hospital occupancy,2021-11-01,603.0
+Slovenia,Daily hospital occupancy,2021-11-02,634.0
+Slovenia,Daily hospital occupancy,2021-11-03,670.0
+Slovenia,Daily hospital occupancy,2021-11-04,735.0
+Slovenia,Daily hospital occupancy,2021-11-05,761.0
+Slovenia,Daily hospital occupancy,2021-11-06,748.0
+Slovenia,Daily hospital occupancy,2021-11-07,797.0
+Slovenia,Daily hospital occupancy,2021-11-08,843.0
+Slovenia,Daily hospital occupancy,2021-11-09,874.0
+Slovenia,Daily hospital occupancy,2021-11-10,889.0
+Slovenia,Daily hospital occupancy,2021-11-11,920.0
+Slovenia,Daily hospital occupancy,2021-11-12,954.0
+Slovenia,Daily hospital occupancy,2021-11-13,981.0
+Slovenia,Daily hospital occupancy,2021-11-14,990.0
+Slovenia,Daily hospital occupancy,2021-11-15,1008.0
+Slovenia,Daily hospital occupancy,2021-11-16,1074.0
+Slovenia,Daily hospital occupancy,2021-11-17,1095.0
+Slovenia,Daily hospital occupancy,2021-11-18,1104.0
+Slovenia,Daily hospital occupancy,2021-11-19,1127.0
+Slovenia,Daily hospital occupancy,2021-11-20,1106.0
+Slovenia,Daily hospital occupancy,2021-11-21,1126.0
+Slovenia,Daily hospital occupancy,2021-11-22,1162.0
+Slovenia,Daily hospital occupancy,2021-11-23,1153.0
+Slovenia,Daily hospital occupancy,2021-11-24,1168.0
+Slovenia,Daily hospital occupancy,2021-11-25,1145.0
+Slovenia,Daily hospital occupancy,2021-11-26,1137.0
+Slovenia,Daily hospital occupancy,2021-11-27,1120.0
+Slovenia,Daily hospital occupancy,2021-11-28,1140.0
+Slovenia,Daily hospital occupancy,2021-11-29,1156.0
+Slovenia,Daily hospital occupancy,2021-11-30,1128.0
+Slovenia,Daily hospital occupancy,2021-12-01,1107.0
+Slovenia,Daily hospital occupancy,2021-12-02,1087.0
+Slovenia,Daily hospital occupancy,2021-12-03,1059.0
+Slovenia,Daily hospital occupancy,2021-12-04,1029.0
+Slovenia,Daily hospital occupancy,2021-12-05,1034.0
+Slovenia,Daily hospital occupancy,2021-12-06,1050.0
+Slovenia,Daily hospital occupancy,2021-12-07,1005.0
+Slovenia,Daily hospital occupancy,2021-12-08,963.0
+Slovenia,Daily hospital occupancy,2021-12-09,948.0
+Slovenia,Daily hospital occupancy,2021-12-10,914.0
+Slovenia,Daily hospital occupancy,2021-12-11,909.0
+Slovenia,Daily hospital occupancy,2021-12-12,883.0
+Slovenia,Daily hospital occupancy,2021-12-13,874.0
+Slovenia,Daily hospital occupancy,2021-12-14,817.0
+Slovenia,Daily hospital occupancy,2021-12-15,804.0
+Slovenia,Daily hospital occupancy,2021-12-16,776.0
+Slovenia,Daily hospital occupancy,2021-12-17,746.0
+Slovenia,Daily hospital occupancy,2021-12-18,703.0
+Slovenia,Daily hospital occupancy,2021-12-19,701.0
+Slovenia,Daily hospital occupancy,2021-12-20,696.0
+Slovenia,Daily hospital occupancy,2021-12-21,665.0
+Slovenia,Daily hospital occupancy,2021-12-22,649.0
+Slovenia,Daily hospital occupancy,2021-12-23,624.0
+Slovenia,Daily hospital occupancy,2021-12-24,614.0
+Slovenia,Daily hospital occupancy,2021-12-25,580.0
+Slovenia,Daily hospital occupancy,2021-12-26,577.0
+Slovenia,Daily hospital occupancy,2021-12-27,592.0
+Slovenia,Daily hospital occupancy,2021-12-28,586.0
+Slovenia,Daily hospital occupancy,2021-12-29,572.0
+Slovenia,Daily hospital occupancy,2021-12-30,574.0
+Slovenia,Daily hospital occupancy,2021-12-31,553.0
+Slovenia,Daily hospital occupancy,2022-01-01,532.0
+Slovenia,Daily hospital occupancy,2022-01-02,533.0
+Slovenia,Daily hospital occupancy,2022-01-03,548.0
+Slovenia,Daily hospital occupancy,2022-01-04,531.0
+Slovenia,Daily hospital occupancy,2022-01-05,542.0
+Slovenia,Daily hospital occupancy,2022-01-06,550.0
+Slovenia,Daily hospital occupancy,2022-01-07,547.0
+Slovenia,Daily hospital occupancy,2022-01-08,538.0
+Slovenia,Daily hospital occupancy,2022-01-09,537.0
+Slovenia,Daily hospital occupancy,2022-01-10,572.0
+Slovenia,Daily hospital occupancy,2022-01-11,553.0
+Slovenia,Daily hospital occupancy,2022-01-12,538.0
+Slovenia,Daily hospital occupancy,2022-01-13,527.0
+Slovenia,Daily hospital occupancy,2022-01-14,524.0
+Slovenia,Daily hospital occupancy,2022-01-15,514.0
+Slovenia,Daily hospital occupancy,2022-01-16,549.0
+Slovenia,Daily hospital occupancy,2022-01-17,566.0
+Slovenia,Daily hospital occupancy,2022-01-18,575.0
+Slovenia,Daily hospital occupancy,2022-01-19,566.0
+Slovenia,Daily hospital occupancy,2022-01-20,580.0
+Slovenia,Daily hospital occupancy,2022-01-21,599.0
+Slovenia,Daily hospital occupancy,2022-01-22,601.0
+Slovenia,Daily hospital occupancy,2022-01-23,608.0
+Slovenia,Daily hospital occupancy,2022-01-24,619.0
+Slovenia,Daily hospital occupancy,2022-01-25,632.0
+Slovenia,Daily hospital occupancy,2022-01-26,656.0
+Slovenia,Daily hospital occupancy,2022-01-27,684.0
+Slovenia,Daily hospital occupancy,2022-01-28,693.0
+Slovenia,Daily hospital occupancy,2022-01-29,698.0
+Slovenia,Daily hospital occupancy,2022-01-30,711.0
+Slovenia,Daily hospital occupancy,2022-01-31,770.0
+Slovenia,Daily hospital occupancy,2022-02-01,772.0
+Slovenia,Daily hospital occupancy,2022-02-02,783.0
+Slovenia,Daily hospital occupancy,2022-02-03,781.0
+Slovenia,Daily hospital occupancy,2022-02-04,779.0
+Slovenia,Daily hospital occupancy,2022-02-05,746.0
+Slovenia,Daily hospital occupancy,2022-02-06,767.0
+Slovenia,Daily hospital occupancy,2022-02-07,780.0
+Slovenia,Daily hospital occupancy,2022-02-08,804.0
+Slovenia,Daily hospital occupancy,2022-02-09,812.0
+Slovenia,Daily hospital occupancy,2022-02-10,789.0
+Slovenia,Daily hospital occupancy,2022-02-11,791.0
+Slovenia,Daily hospital occupancy,2022-02-12,774.0
+Slovenia,Daily hospital occupancy,2022-02-13,782.0
+Slovenia,Daily hospital occupancy,2022-02-14,794.0
+Slovenia,Daily hospital occupancy,2022-02-15,770.0
+Slovenia,Daily hospital occupancy,2022-02-16,756.0
+Slovenia,Daily hospital occupancy,2022-02-17,736.0
+Slovenia,Daily hospital occupancy,2022-02-18,704.0
+Slovenia,Daily hospital occupancy,2022-02-19,689.0
+Slovenia,Daily hospital occupancy,2022-02-20,703.0
+Slovenia,Daily hospital occupancy,2022-02-21,702.0
+Slovenia,Daily hospital occupancy,2022-02-22,693.0
+Slovenia,Daily hospital occupancy,2022-02-23,662.0
+Slovenia,Daily hospital occupancy,2022-02-24,638.0
+Slovenia,Daily hospital occupancy,2022-02-25,595.0
+Slovenia,Daily hospital occupancy,2022-02-26,538.0
+Slovenia,Daily hospital occupancy,2022-02-27,526.0
+Slovenia,Daily hospital occupancy,2022-02-28,520.0
+Slovenia,Daily hospital occupancy,2022-03-01,489.0
+Slovenia,Daily hospital occupancy,2022-03-02,469.0
+Slovenia,Daily hospital occupancy,2022-03-03,433.0
+Slovenia,Daily hospital occupancy,2022-03-04,404.0
+Slovenia,Daily hospital occupancy,2022-03-05,369.0
+Slovenia,Daily hospital occupancy,2022-03-06,375.0
+Slovenia,Daily hospital occupancy,2022-03-07,383.0
+Slovenia,Daily hospital occupancy,2022-03-08,373.0
+Slovenia,Daily hospital occupancy,2022-03-09,358.0
+Slovenia,Daily hospital occupancy,2022-03-10,341.0
+Slovenia,Daily hospital occupancy,2022-03-11,332.0
+Slovenia,Daily hospital occupancy,2022-03-12,324.0
+Slovenia,Daily hospital occupancy,2022-03-13,326.0
+Slovenia,Daily hospital occupancy,2022-03-14,320.0
+Slovenia,Daily hospital occupancy,2022-03-15,303.0
+Slovenia,Daily hospital occupancy,2022-03-16,291.0
+Slovenia,Daily hospital occupancy,2022-03-17,280.0
+Slovenia,Daily hospital occupancy,2022-03-18,278.0
+Slovenia,Daily hospital occupancy,2022-03-19,283.0
+Slovenia,Daily hospital occupancy,2022-03-20,285.0
+Slovenia,Daily hospital occupancy,2022-03-21,297.0
+Slovenia,Daily hospital occupancy,2022-03-22,297.0
+Slovenia,Daily hospital occupancy,2022-03-23,287.0
+Slovenia,Daily hospital occupancy,2022-03-24,285.0
+Slovenia,Daily hospital occupancy,2022-03-25,292.0
+Slovenia,Daily hospital occupancy,2022-03-26,277.0
+Slovenia,Daily hospital occupancy,2022-03-27,295.0
+Slovenia,Daily hospital occupancy,2022-03-28,307.0
+Slovenia,Daily hospital occupancy,2022-03-29,303.0
+Slovenia,Daily hospital occupancy,2022-03-30,300.0
+Slovenia,Daily hospital occupancy,2022-03-31,301.0
+Slovenia,Daily hospital occupancy,2022-04-01,290.0
+Slovenia,Daily hospital occupancy,2022-04-02,265.0
+Slovenia,Daily hospital occupancy,2022-04-03,275.0
+Slovenia,Daily hospital occupancy,2022-04-04,291.0
+Slovenia,Daily hospital occupancy,2022-04-05,272.0
+Slovenia,Daily hospital occupancy,2022-04-06,270.0
+Slovenia,Daily hospital occupancy,2022-04-07,268.0
+Slovenia,Daily hospital occupancy,2022-04-08,272.0
+Slovenia,Daily hospital occupancy,2022-04-09,268.0
+Slovenia,Daily hospital occupancy,2022-04-10,276.0
+Slovenia,Daily hospital occupancy,2022-04-11,275.0
+Slovenia,Daily hospital occupancy,2022-04-12,243.0
+Slovenia,Daily hospital occupancy,2022-04-13,228.0
+Slovenia,Daily hospital occupancy,2022-04-14,223.0
+Slovenia,Daily hospital occupancy,2022-04-15,215.0
+Slovenia,Daily hospital occupancy,2022-04-16,204.0
+Slovenia,Daily hospital occupancy,2022-04-17,208.0
+Slovenia,Daily hospital occupancy,2022-04-18,202.0
+Slovenia,Daily hospital occupancy,2022-04-19,208.0
+Slovenia,Daily hospital occupancy,2022-04-20,201.0
+Slovenia,Daily hospital occupancy,2022-04-21,189.0
+Slovenia,Daily hospital occupancy,2022-04-22,180.0
+Slovenia,Daily hospital occupancy,2022-04-23,169.0
+Slovenia,Daily hospital occupancy,2022-04-24,168.0
+Slovenia,Daily hospital occupancy,2022-04-25,166.0
+Slovenia,Daily hospital occupancy,2022-04-26,171.0
+Slovenia,Daily hospital occupancy,2022-04-27,155.0
+Slovenia,Daily hospital occupancy,2022-04-28,160.0
+Slovenia,Daily hospital occupancy,2022-04-29,145.0
+Slovenia,Daily hospital occupancy,2022-04-30,148.0
+Slovenia,Daily hospital occupancy,2022-05-01,145.0
+Slovenia,Daily hospital occupancy,2022-05-02,153.0
+Slovenia,Daily hospital occupancy,2022-05-03,159.0
+Slovenia,Daily hospital occupancy,2022-05-04,156.0
+Slovenia,Daily hospital occupancy,2022-05-05,138.0
+Slovenia,Daily hospital occupancy,2022-05-06,127.0
+Slovenia,Daily hospital occupancy,2022-05-07,131.0
+Slovenia,Daily hospital occupancy,2022-05-08,133.0
+Slovenia,Daily hospital occupancy,2022-05-09,136.0
+Slovenia,Daily hospital occupancy,2022-05-10,131.0
+Slovenia,Daily hospital occupancy,2022-05-11,115.0
+Slovenia,Daily hospital occupancy,2022-05-12,111.0
+Slovenia,Daily hospital occupancy,2022-05-13,114.0
+Slovenia,Daily hospital occupancy,2022-05-14,97.0
+Slovenia,Daily hospital occupancy,2022-05-15,97.0
+Slovenia,Daily hospital occupancy,2022-05-16,97.0
+Slovenia,Daily hospital occupancy,2022-05-17,80.0
+Slovenia,Daily hospital occupancy,2022-05-18,71.0
+Slovenia,Daily hospital occupancy,2022-05-19,67.0
+Slovenia,Daily hospital occupancy,2022-05-20,61.0
+Slovenia,Daily hospital occupancy,2022-05-21,57.0
+Slovenia,Daily hospital occupancy,2022-05-22,60.0
+Slovenia,Daily hospital occupancy,2022-05-23,61.0
+Slovenia,Daily hospital occupancy,2022-05-24,59.0
+Slovenia,Daily hospital occupancy,2022-05-25,55.0
+Slovenia,Daily hospital occupancy,2022-05-26,50.0
+Slovenia,Daily hospital occupancy,2022-05-27,51.0
+Slovenia,Daily hospital occupancy,2022-05-28,55.0
+Slovenia,Daily hospital occupancy,2022-05-29,55.0
+Slovenia,Daily hospital occupancy,2022-05-30,58.0
+Slovenia,Daily hospital occupancy,2022-05-31,55.0
+Slovenia,Daily hospital occupancy,2022-06-01,55.0
+Slovenia,Daily hospital occupancy,2022-06-02,59.0
+Slovenia,Daily hospital occupancy,2022-06-03,48.0
+Slovenia,Daily hospital occupancy,2022-06-04,46.0
+Slovenia,Daily hospital occupancy,2022-06-05,47.0
+Slovenia,Daily hospital occupancy,2022-06-06,51.0
+Slovenia,Daily hospital occupancy,2022-06-07,42.0
+Slovenia,Daily hospital occupancy,2022-06-08,40.0
+Slovenia,Daily hospital occupancy,2022-06-09,45.0
+Slovenia,Daily hospital occupancy,2022-06-10,43.0
+Slovenia,Daily hospital occupancy,2022-06-11,42.0
+Slovenia,Daily hospital occupancy,2022-06-12,44.0
+Slovenia,Daily hospital occupancy,2022-06-13,46.0
+Slovenia,Daily hospital occupancy,2022-06-14,47.0
+Slovenia,Daily hospital occupancy,2022-06-15,50.0
+Slovenia,Daily hospital occupancy,2022-06-16,53.0
+Slovenia,Daily hospital occupancy,2022-06-17,53.0
+Slovenia,Daily hospital occupancy,2022-06-18,53.0
+Slovenia,Daily hospital occupancy,2022-06-19,53.0
+Slovenia,Daily hospital occupancy,2022-06-20,52.0
+Slovenia,Daily hospital occupancy,2022-06-21,49.0
+Slovenia,Daily hospital occupancy,2022-06-22,47.0
+Slovenia,Daily hospital occupancy,2022-06-23,53.0
+Slovenia,Daily hospital occupancy,2022-06-24,59.0
+Slovenia,Daily hospital occupancy,2022-06-25,62.0
+Slovenia,Daily hospital occupancy,2022-06-26,62.0
+Slovenia,Daily hospital occupancy,2022-06-27,59.0
+Slovenia,Daily hospital occupancy,2022-06-28,60.0
+Slovenia,Daily hospital occupancy,2022-06-29,58.0
+Slovenia,Daily hospital occupancy,2022-06-30,83.0
+Slovenia,Daily hospital occupancy,2022-07-01,86.0
+Slovenia,Daily hospital occupancy,2022-07-02,81.0
+Slovenia,Daily hospital occupancy,2022-07-03,82.0
+Slovenia,Daily hospital occupancy,2022-07-04,89.0
+Slovenia,Daily hospital occupancy,2022-07-05,93.0
+Slovenia,Daily hospital occupancy,2022-07-06,91.0
+Slovenia,Daily hospital occupancy,2022-07-07,105.0
+Slovenia,Daily hospital occupancy,2022-07-08,98.0
+Slovenia,Daily hospital occupancy,2022-07-09,93.0
+Slovenia,Daily hospital occupancy,2022-07-10,97.0
+Slovenia,Daily hospital occupancy,2022-07-11,109.0
+Slovenia,Daily hospital occupancy,2022-07-12,104.0
+Slovenia,Daily hospital occupancy,2022-07-13,133.0
+Slovenia,Daily hospital occupancy,2022-07-14,124.0
+Slovenia,Daily hospital occupancy,2022-07-15,131.0
+Slovenia,Daily hospital occupancy,2022-07-16,126.0
+Slovenia,Daily hospital occupancy,2022-07-17,145.0
+Slovenia,Daily hospital occupancy,2022-07-18,159.0
+Slovenia,Daily hospital occupancy,2022-07-19,155.0
+Slovenia,Daily hospital occupancy,2022-07-20,155.0
+Slovenia,Daily hospital occupancy,2022-07-21,142.0
+Slovenia,Daily hospital occupancy,2022-07-22,147.0
+Slovenia,Daily hospital occupancy,2022-07-23,143.0
+Slovenia,Daily hospital occupancy,2022-07-24,155.0
+Slovenia,Daily hospital occupancy,2022-07-25,160.0
+Slovenia,Daily hospital occupancy,2022-07-26,142.0
+Slovenia,Daily hospital occupancy,2022-07-27,149.0
+Slovenia,Daily hospital occupancy,2022-07-28,144.0
+Slovenia,Daily hospital occupancy,2022-07-29,142.0
+Slovenia,Daily hospital occupancy,2022-07-30,131.0
+Slovenia,Daily hospital occupancy,2022-07-31,129.0
+Slovenia,Daily hospital occupancy,2022-08-01,136.0
+Slovenia,Daily hospital occupancy,2022-08-02,140.0
+Slovenia,Daily hospital occupancy,2022-08-03,141.0
+Slovenia,Daily hospital occupancy,2022-08-04,141.0
+Slovenia,Daily hospital occupancy,2022-08-05,146.0
+Slovenia,Daily hospital occupancy,2022-08-06,144.0
+Slovenia,Daily hospital occupancy,2022-08-07,143.0
+Slovenia,Daily hospital occupancy,2022-08-08,150.0
+Slovenia,Daily hospital occupancy,2022-08-09,143.0
+Slovenia,Daily hospital occupancy,2022-08-10,140.0
+Slovenia,Daily hospital occupancy,2022-08-11,144.0
+Slovenia,Daily hospital occupancy,2022-08-12,150.0
+Slovenia,Daily hospital occupancy,2022-08-13,140.0
+Slovenia,Daily hospital occupancy,2022-08-14,141.0
+Slovenia,Daily hospital occupancy,2022-08-15,137.0
+Slovenia,Daily hospital occupancy,2022-08-16,149.0
+Slovenia,Daily hospital occupancy,2022-08-17,150.0
+Slovenia,Daily hospital occupancy,2022-08-18,142.0
+Slovenia,Daily hospital occupancy,2022-08-19,142.0
+Slovenia,Daily hospital occupancy,2022-08-20,141.0
+Slovenia,Daily hospital occupancy,2022-08-21,145.0
+Slovenia,Daily hospital occupancy,2022-08-22,142.0
+Slovenia,Daily hospital occupancy,2022-08-23,114.0
+Slovenia,Daily hospital occupancy,2022-08-24,114.0
+Slovenia,Daily hospital occupancy,2022-08-25,111.0
+Slovenia,Daily hospital occupancy,2022-08-26,111.0
+Slovenia,Daily hospital occupancy,2022-08-27,106.0
+Slovenia,Daily hospital occupancy,2022-08-28,107.0
+Slovenia,Daily hospital occupancy,2022-08-29,117.0
+Slovenia,Daily hospital occupancy,2022-08-30,118.0
+Slovenia,Daily hospital occupancy,2022-08-31,112.0
+Slovenia,Daily hospital occupancy,2022-09-01,112.0
+Slovenia,Daily hospital occupancy,2022-09-02,111.0
+Slovenia,Daily hospital occupancy,2022-09-03,106.0
+Slovenia,Daily hospital occupancy,2022-09-04,107.0
+Slovenia,Daily hospital occupancy,2022-09-05,110.0
+Slovenia,Daily hospital occupancy,2022-09-06,107.0
+Slovenia,Daily hospital occupancy,2022-09-07,102.0
+Slovenia,Daily hospital occupancy,2022-09-08,101.0
+Slovenia,Daily hospital occupancy,2022-09-09,97.0
+Slovenia,Daily hospital occupancy,2022-09-10,95.0
+Slovenia,Daily hospital occupancy,2022-09-11,104.0
+Slovenia,Daily hospital occupancy,2022-09-12,109.0
+Slovenia,Daily hospital occupancy,2022-09-13,111.0
+Slovenia,Daily hospital occupancy,2022-09-14,110.0
+Slovenia,Daily hospital occupancy,2022-09-15,105.0
+Slovenia,Daily hospital occupancy,2022-09-16,109.0
+Slovenia,Daily hospital occupancy,2022-09-17,108.0
+Slovenia,Daily hospital occupancy,2022-09-18,108.0
+Slovenia,Daily hospital occupancy,2022-09-19,110.0
+Slovenia,Daily hospital occupancy,2022-09-20,111.0
+Slovenia,Daily hospital occupancy,2022-09-21,105.0
+Slovenia,Daily hospital occupancy,2022-09-22,114.0
+Slovenia,Daily hospital occupancy,2022-09-23,107.0
+Slovenia,Daily hospital occupancy,2022-09-24,103.0
+Slovenia,Daily hospital occupancy,2022-09-25,108.0
+Slovenia,Daily hospital occupancy,2022-09-26,114.0
+Slovenia,Daily hospital occupancy,2022-09-27,122.0
+Slovenia,Daily hospital occupancy,2022-09-28,130.0
+Slovenia,Daily hospital occupancy,2022-09-29,132.0
+Slovenia,Daily hospital occupancy,2022-09-30,131.0
+Slovenia,Daily hospital occupancy,2022-10-01,141.0
+Slovenia,Daily hospital occupancy,2022-10-02,143.0
+Slovenia,Daily hospital occupancy,2022-10-03,149.0
+Slovenia,Daily hospital occupancy,2022-10-04,143.0
+Slovenia,Daily hospital occupancy,2022-10-05,143.0
+Slovenia,Daily hospital occupancy,2022-10-06,140.0
+Slovenia,Daily hospital occupancy,2022-10-07,145.0
+Slovenia,Daily hospital occupancy,2022-10-08,143.0
+Slovenia,Daily hospital occupancy,2022-10-09,147.0
+Slovenia,Daily hospital occupancy,2022-10-10,155.0
+Slovenia,Daily hospital occupancy,2022-10-11,160.0
+Slovenia,Daily hospital occupancy,2022-10-12,156.0
+Slovenia,Daily hospital occupancy,2022-10-13,154.0
+Slovenia,Daily hospital occupancy,2022-10-14,134.0
+Slovenia,Daily hospital occupancy,2022-10-15,136.0
+Slovenia,Daily hospital occupancy,2022-10-16,136.0
+Slovenia,Daily hospital occupancy,2022-10-17,139.0
+Slovenia,Daily hospital occupancy,2022-10-18,133.0
+Slovenia,Daily hospital occupancy,2022-10-19,125.0
+Slovenia,Daily hospital occupancy,2022-10-20,134.0
+Slovenia,Daily hospital occupancy,2022-10-21,119.0
+Slovenia,Daily hospital occupancy,2022-10-22,116.0
+Slovenia,Daily hospital occupancy,2022-10-23,120.0
+Slovenia,Daily hospital occupancy,2022-10-24,119.0
+Slovenia,Daily hospital occupancy,2022-10-25,126.0
+Slovenia,Daily hospital occupancy,2022-10-26,117.0
+Slovenia,Daily hospital occupancy,2022-10-27,124.0
+Slovenia,Daily hospital occupancy,2022-10-28,120.0
+Slovenia,Daily hospital occupancy,2022-10-29,109.0
+Slovenia,Daily hospital occupancy,2022-10-30,93.0
+Slovenia,Daily hospital occupancy,2022-10-31,87.0
+Slovenia,Daily hospital occupancy,2022-11-01,92.0
+Slovenia,Daily hospital occupancy,2022-11-02,94.0
+Slovenia,Daily hospital occupancy,2022-11-03,95.0
+Slovenia,Daily hospital occupancy,2022-11-04,100.0
+Slovenia,Daily hospital occupancy,2022-11-05,87.0
+Slovenia,Daily hospital occupancy,2022-11-06,97.0
+Slovenia,Daily hospital occupancy,2022-11-07,94.0
+Slovenia,Daily hospital occupancy,2022-11-08,85.0
+Slovenia,Daily hospital occupancy,2022-11-09,76.0
+Slovenia,Daily hospital occupancy,2022-11-10,78.0
+Slovenia,Daily hospital occupancy,2022-11-11,69.0
+Slovenia,Daily hospital occupancy,2022-11-12,73.0
+Slovenia,Daily hospital occupancy,2022-11-13,79.0
+Slovenia,Daily hospital occupancy,2022-11-14,83.0
+Slovenia,Daily hospital occupancy,2022-11-15,81.0
+Slovenia,Daily hospital occupancy,2022-11-16,83.0
+Slovenia,Daily hospital occupancy,2022-11-17,80.0
+Slovenia,Daily hospital occupancy,2022-11-18,83.0
+Slovenia,Daily hospital occupancy,2022-11-19,83.0
+Slovenia,Daily hospital occupancy,2022-11-20,83.0
+Slovenia,Daily hospital occupancy,2022-11-21,82.0
+Slovenia,Daily hospital occupancy,2022-11-22,73.0
+Slovenia,Daily hospital occupancy,2022-11-23,79.0
+Slovenia,Daily hospital occupancy,2022-11-24,76.0
+Slovenia,Daily hospital occupancy,2022-11-25,85.0
+Slovenia,Daily hospital occupancy,2022-11-26,88.0
+Slovenia,Daily hospital occupancy,2022-11-27,96.0
+Slovenia,Daily hospital occupancy,2022-11-28,93.0
+Slovenia,Daily hospital occupancy,2022-11-29,86.0
+Slovenia,Daily hospital occupancy,2022-11-30,91.0
+Slovenia,Daily hospital occupancy,2022-12-01,91.0
+Slovenia,Daily hospital occupancy,2022-12-02,94.0
+Slovenia,Daily hospital occupancy,2022-12-03,96.0
+Slovenia,Daily hospital occupancy,2022-12-04,106.0
+Slovenia,Daily hospital occupancy,2022-12-05,108.0
+Slovenia,Daily hospital occupancy,2022-12-06,109.0
+Slovenia,Daily hospital occupancy,2022-12-07,105.0
+Slovenia,Daily hospital occupancy,2022-12-08,108.0
+Slovenia,Daily hospital occupancy,2022-12-09,113.0
+Slovenia,Daily hospital occupancy,2022-12-10,112.0
+Slovenia,Daily hospital occupancy,2022-12-11,120.0
+Slovenia,Daily hospital occupancy,2022-12-12,119.0
+Slovenia,Daily hospital occupancy,2022-12-13,119.0
+Slovenia,Daily hospital occupancy,2022-12-14,116.0
+Slovenia,Daily hospital occupancy,2022-12-15,118.0
+Slovenia,Daily hospital occupancy,2022-12-16,127.0
+Slovenia,Daily hospital occupancy,2022-12-17,129.0
+Slovenia,Daily hospital occupancy,2022-12-18,125.0
+Slovenia,Daily hospital occupancy,2022-12-19,128.0
+Slovenia,Daily hospital occupancy,2022-12-20,120.0
+Slovenia,Daily hospital occupancy,2022-12-21,124.0
+Slovenia,Daily hospital occupancy,2022-12-22,122.0
+Slovenia,Daily hospital occupancy,2022-12-23,115.0
+Slovenia,Daily hospital occupancy,2022-12-24,105.0
+Slovenia,Daily hospital occupancy,2022-12-25,110.0
+Slovenia,Daily hospital occupancy,2022-12-26,110.0
+Slovenia,Daily hospital occupancy,2022-12-27,112.0
+Slovenia,Daily hospital occupancy,2022-12-28,109.0
+Slovenia,Daily hospital occupancy,2022-12-29,117.0
+Slovenia,Daily hospital occupancy,2022-12-30,119.0
+Slovenia,Daily hospital occupancy,2022-12-31,114.0
+Slovenia,Daily hospital occupancy,2023-01-01,111.0
+Slovenia,Daily hospital occupancy,2023-01-02,115.0
+Slovenia,Daily hospital occupancy,2023-01-03,116.0
+Slovenia,Daily hospital occupancy,2023-01-04,118.0
+Slovenia,Daily hospital occupancy,2023-01-05,113.0
+Slovenia,Daily hospital occupancy,2023-01-06,113.0
+Slovenia,Daily hospital occupancy,2023-01-07,111.0
+Slovenia,Daily hospital occupancy,2023-01-08,114.0
+Slovenia,Daily hospital occupancy,2023-01-09,116.0
+Slovenia,Daily hospital occupancy,2023-01-10,112.0
+Slovenia,Daily hospital occupancy,2023-01-11,110.0
+Slovenia,Daily hospital occupancy,2023-01-12,110.0
+Slovenia,Daily hospital occupancy,2023-01-13,98.0
+Slovenia,Daily hospital occupancy,2023-01-14,93.0
+Slovenia,Daily hospital occupancy,2023-01-15,93.0
+Slovenia,Daily hospital occupancy,2023-01-16,92.0
+Slovenia,Daily hospital occupancy,2023-01-17,91.0
+Slovenia,Daily hospital occupancy,2023-01-18,92.0
+Slovenia,Daily hospital occupancy,2023-01-19,83.0
+Slovenia,Daily hospital occupancy,2023-01-20,80.0
+Slovenia,Daily hospital occupancy,2023-01-21,79.0
+Slovenia,Daily hospital occupancy,2023-01-22,77.0
+Slovenia,Daily hospital occupancy,2023-01-23,78.0
+Slovenia,Daily hospital occupancy,2023-01-24,72.0
+Slovenia,Daily hospital occupancy,2023-01-25,70.0
+Slovenia,Daily hospital occupancy,2023-01-26,67.0
+Slovenia,Daily hospital occupancy,2023-01-27,57.0
+Slovenia,Daily hospital occupancy,2023-01-28,64.0
+Slovenia,Daily hospital occupancy,2023-01-29,64.0
+Slovenia,Daily hospital occupancy,2023-01-30,66.0
+Slovenia,Daily hospital occupancy,2023-01-31,54.0
+Slovenia,Daily hospital occupancy,2023-02-01,43.0
+Slovenia,Daily hospital occupancy,2023-02-02,45.0
+Slovenia,Daily hospital occupancy,2023-02-03,42.0
+Slovenia,Daily hospital occupancy,2023-02-04,36.0
+Slovenia,Daily hospital occupancy,2023-02-05,35.0
+Slovenia,Daily hospital occupancy,2023-02-06,33.0
+Slovenia,Daily hospital occupancy,2023-02-07,30.0
+Slovenia,Daily hospital occupancy,2023-02-08,29.0
+Slovenia,Daily hospital occupancy,2023-02-09,26.0
+Slovenia,Daily hospital occupancy,2023-02-10,25.0
+Slovenia,Daily hospital occupancy,2023-02-11,23.0
+Slovenia,Daily hospital occupancy,2023-02-12,23.0
+Slovenia,Daily hospital occupancy,2023-02-13,29.0
+Slovenia,Daily hospital occupancy,2023-02-14,31.0
+Slovenia,Daily hospital occupancy,2023-02-15,32.0
+Slovenia,Daily hospital occupancy,2023-02-16,28.0
+Slovenia,Daily hospital occupancy,2023-02-17,32.0
+Slovenia,Daily hospital occupancy,2023-02-18,31.0
+Slovenia,Daily hospital occupancy,2023-02-19,33.0
+Slovenia,Daily hospital occupancy,2023-02-20,34.0
+Slovenia,Daily hospital occupancy,2023-02-21,34.0
+Slovenia,Daily hospital occupancy,2023-02-22,33.0
+Slovenia,Daily hospital occupancy,2023-02-23,33.0
+Slovenia,Daily hospital occupancy,2023-02-24,29.0
+Slovenia,Daily hospital occupancy,2023-02-25,26.0
+Slovenia,Daily hospital occupancy,2023-02-26,27.0
+Slovenia,Daily hospital occupancy,2023-02-27,30.0
+Slovenia,Daily hospital occupancy,2023-02-28,30.0
+Slovenia,Daily hospital occupancy,2023-03-01,30.0
+Slovenia,Daily hospital occupancy,2023-03-02,32.0
+Slovenia,Daily hospital occupancy,2023-03-03,35.0
+Slovenia,Daily hospital occupancy,2023-03-04,35.0
+Slovenia,Daily hospital occupancy,2023-03-05,40.0
+Slovenia,Daily hospital occupancy,2023-03-06,41.0
+Slovenia,Daily hospital occupancy,2023-03-07,35.0
+Slovenia,Daily hospital occupancy,2023-03-08,34.0
+Slovenia,Daily hospital occupancy,2023-03-09,36.0
+Slovenia,Daily hospital occupancy,2023-03-10,39.0
+Slovenia,Daily hospital occupancy,2023-03-11,39.0
+Slovenia,Daily hospital occupancy,2023-03-12,40.0
+Slovenia,Daily hospital occupancy,2023-03-13,44.0
+Slovenia,Daily hospital occupancy,2023-03-14,37.0
+Slovenia,Daily hospital occupancy,2023-03-15,39.0
+Slovenia,Daily hospital occupancy,2023-03-16,41.0
+Slovenia,Daily hospital occupancy,2023-03-17,39.0
+Slovenia,Daily hospital occupancy,2023-03-18,37.0
+Slovenia,Daily hospital occupancy,2023-03-19,40.0
+Slovenia,Daily hospital occupancy,2023-03-20,44.0
+Slovenia,Daily hospital occupancy,2023-03-21,42.0
+Slovenia,Daily hospital occupancy,2023-03-22,44.0
+Slovenia,Daily hospital occupancy,2023-03-23,41.0
+Slovenia,Daily hospital occupancy,2023-03-24,42.0
+Slovenia,Daily hospital occupancy,2023-03-25,44.0
+Slovenia,Daily hospital occupancy,2023-03-26,47.0
+Slovenia,Daily hospital occupancy,2023-03-27,46.0
+Slovenia,Daily hospital occupancy,2023-03-28,45.0
+Slovenia,Daily hospital occupancy,2023-03-29,47.0
+Slovenia,Daily hospital occupancy,2023-03-30,49.0
+Slovenia,Daily hospital occupancy,2023-03-31,51.0
+Slovenia,Daily ICU occupancy,2020-03-10,1.0
+Slovenia,Daily ICU occupancy,2020-03-11,1.0
+Slovenia,Daily ICU occupancy,2020-03-12,2.0
+Slovenia,Daily ICU occupancy,2020-03-13,4.0
+Slovenia,Daily ICU occupancy,2020-03-14,4.0
+Slovenia,Daily ICU occupancy,2020-03-15,3.0
+Slovenia,Daily ICU occupancy,2020-03-16,5.0
+Slovenia,Daily ICU occupancy,2020-03-17,5.0
+Slovenia,Daily ICU occupancy,2020-03-18,5.0
+Slovenia,Daily ICU occupancy,2020-03-19,7.0
+Slovenia,Daily ICU occupancy,2020-03-20,8.0
+Slovenia,Daily ICU occupancy,2020-03-21,8.0
+Slovenia,Daily ICU occupancy,2020-03-22,11.0
+Slovenia,Daily ICU occupancy,2020-03-23,10.0
+Slovenia,Daily ICU occupancy,2020-03-24,11.0
+Slovenia,Daily ICU occupancy,2020-03-25,14.0
+Slovenia,Daily ICU occupancy,2020-03-26,16.0
+Slovenia,Daily ICU occupancy,2020-03-27,22.0
+Slovenia,Daily ICU occupancy,2020-03-28,23.0
+Slovenia,Daily ICU occupancy,2020-03-29,24.0
+Slovenia,Daily ICU occupancy,2020-03-30,29.0
+Slovenia,Daily ICU occupancy,2020-03-31,28.0
+Slovenia,Daily ICU occupancy,2020-04-01,31.0
+Slovenia,Daily ICU occupancy,2020-04-02,30.0
+Slovenia,Daily ICU occupancy,2020-04-03,30.0
+Slovenia,Daily ICU occupancy,2020-04-04,32.0
+Slovenia,Daily ICU occupancy,2020-04-05,31.0
+Slovenia,Daily ICU occupancy,2020-04-06,30.0
+Slovenia,Daily ICU occupancy,2020-04-07,32.0
+Slovenia,Daily ICU occupancy,2020-04-08,35.0
+Slovenia,Daily ICU occupancy,2020-04-09,34.0
+Slovenia,Daily ICU occupancy,2020-04-10,36.0
+Slovenia,Daily ICU occupancy,2020-04-11,35.0
+Slovenia,Daily ICU occupancy,2020-04-12,35.0
+Slovenia,Daily ICU occupancy,2020-04-13,33.0
+Slovenia,Daily ICU occupancy,2020-04-14,35.0
+Slovenia,Daily ICU occupancy,2020-04-15,34.0
+Slovenia,Daily ICU occupancy,2020-04-16,30.0
+Slovenia,Daily ICU occupancy,2020-04-17,28.0
+Slovenia,Daily ICU occupancy,2020-04-18,27.0
+Slovenia,Daily ICU occupancy,2020-04-19,26.0
+Slovenia,Daily ICU occupancy,2020-04-20,26.0
+Slovenia,Daily ICU occupancy,2020-04-21,25.0
+Slovenia,Daily ICU occupancy,2020-04-22,24.0
+Slovenia,Daily ICU occupancy,2020-04-23,23.0
+Slovenia,Daily ICU occupancy,2020-04-24,23.0
+Slovenia,Daily ICU occupancy,2020-04-25,23.0
+Slovenia,Daily ICU occupancy,2020-04-26,23.0
+Slovenia,Daily ICU occupancy,2020-04-27,22.0
+Slovenia,Daily ICU occupancy,2020-04-28,23.0
+Slovenia,Daily ICU occupancy,2020-04-29,22.0
+Slovenia,Daily ICU occupancy,2020-04-30,22.0
+Slovenia,Daily ICU occupancy,2020-05-01,21.0
+Slovenia,Daily ICU occupancy,2020-05-02,21.0
+Slovenia,Daily ICU occupancy,2020-05-03,20.0
+Slovenia,Daily ICU occupancy,2020-05-04,20.0
+Slovenia,Daily ICU occupancy,2020-05-05,16.0
+Slovenia,Daily ICU occupancy,2020-05-06,14.0
+Slovenia,Daily ICU occupancy,2020-05-07,13.0
+Slovenia,Daily ICU occupancy,2020-05-08,11.0
+Slovenia,Daily ICU occupancy,2020-05-09,10.0
+Slovenia,Daily ICU occupancy,2020-05-10,10.0
+Slovenia,Daily ICU occupancy,2020-05-11,10.0
+Slovenia,Daily ICU occupancy,2020-05-12,9.0
+Slovenia,Daily ICU occupancy,2020-05-13,9.0
+Slovenia,Daily ICU occupancy,2020-05-14,7.0
+Slovenia,Daily ICU occupancy,2020-05-15,7.0
+Slovenia,Daily ICU occupancy,2020-05-16,6.0
+Slovenia,Daily ICU occupancy,2020-05-17,5.0
+Slovenia,Daily ICU occupancy,2020-05-18,5.0
+Slovenia,Daily ICU occupancy,2020-05-19,5.0
+Slovenia,Daily ICU occupancy,2020-05-20,4.0
+Slovenia,Daily ICU occupancy,2020-05-21,3.0
+Slovenia,Daily ICU occupancy,2020-05-22,4.0
+Slovenia,Daily ICU occupancy,2020-05-23,3.0
+Slovenia,Daily ICU occupancy,2020-05-24,3.0
+Slovenia,Daily ICU occupancy,2020-05-25,3.0
+Slovenia,Daily ICU occupancy,2020-05-26,2.0
+Slovenia,Daily ICU occupancy,2020-05-27,2.0
+Slovenia,Daily ICU occupancy,2020-05-28,2.0
+Slovenia,Daily ICU occupancy,2020-05-29,2.0
+Slovenia,Daily ICU occupancy,2020-05-30,2.0
+Slovenia,Daily ICU occupancy,2020-05-31,2.0
+Slovenia,Daily ICU occupancy,2020-06-01,1.0
+Slovenia,Daily ICU occupancy,2020-06-02,1.0
+Slovenia,Daily ICU occupancy,2020-06-03,0.0
+Slovenia,Daily ICU occupancy,2020-06-04,0.0
+Slovenia,Daily ICU occupancy,2020-06-05,0.0
+Slovenia,Daily ICU occupancy,2020-06-06,0.0
+Slovenia,Daily ICU occupancy,2020-06-07,0.0
+Slovenia,Daily ICU occupancy,2020-06-08,0.0
+Slovenia,Daily ICU occupancy,2020-06-09,0.0
+Slovenia,Daily ICU occupancy,2020-06-10,0.0
+Slovenia,Daily ICU occupancy,2020-06-11,0.0
+Slovenia,Daily ICU occupancy,2020-06-12,0.0
+Slovenia,Daily ICU occupancy,2020-06-13,0.0
+Slovenia,Daily ICU occupancy,2020-06-14,0.0
+Slovenia,Daily ICU occupancy,2020-06-15,1.0
+Slovenia,Daily ICU occupancy,2020-06-16,1.0
+Slovenia,Daily ICU occupancy,2020-06-17,1.0
+Slovenia,Daily ICU occupancy,2020-06-18,1.0
+Slovenia,Daily ICU occupancy,2020-06-19,1.0
+Slovenia,Daily ICU occupancy,2020-06-20,1.0
+Slovenia,Daily ICU occupancy,2020-06-21,1.0
+Slovenia,Daily ICU occupancy,2020-06-22,1.0
+Slovenia,Daily ICU occupancy,2020-06-23,1.0
+Slovenia,Daily ICU occupancy,2020-06-24,2.0
+Slovenia,Daily ICU occupancy,2020-06-25,2.0
+Slovenia,Daily ICU occupancy,2020-06-26,1.0
+Slovenia,Daily ICU occupancy,2020-06-27,0.0
+Slovenia,Daily ICU occupancy,2020-06-28,0.0
+Slovenia,Daily ICU occupancy,2020-06-29,0.0
+Slovenia,Daily ICU occupancy,2020-06-30,0.0
+Slovenia,Daily ICU occupancy,2020-07-01,0.0
+Slovenia,Daily ICU occupancy,2020-07-02,0.0
+Slovenia,Daily ICU occupancy,2020-07-03,0.0
+Slovenia,Daily ICU occupancy,2020-07-04,0.0
+Slovenia,Daily ICU occupancy,2020-07-05,0.0
+Slovenia,Daily ICU occupancy,2020-07-06,0.0
+Slovenia,Daily ICU occupancy,2020-07-07,0.0
+Slovenia,Daily ICU occupancy,2020-07-08,0.0
+Slovenia,Daily ICU occupancy,2020-07-09,0.0
+Slovenia,Daily ICU occupancy,2020-07-10,0.0
+Slovenia,Daily ICU occupancy,2020-07-11,0.0
+Slovenia,Daily ICU occupancy,2020-07-12,1.0
+Slovenia,Daily ICU occupancy,2020-07-13,1.0
+Slovenia,Daily ICU occupancy,2020-07-14,1.0
+Slovenia,Daily ICU occupancy,2020-07-15,2.0
+Slovenia,Daily ICU occupancy,2020-07-16,1.0
+Slovenia,Daily ICU occupancy,2020-07-17,1.0
+Slovenia,Daily ICU occupancy,2020-07-18,2.0
+Slovenia,Daily ICU occupancy,2020-07-19,3.0
+Slovenia,Daily ICU occupancy,2020-07-20,3.0
+Slovenia,Daily ICU occupancy,2020-07-21,3.0
+Slovenia,Daily ICU occupancy,2020-07-22,2.0
+Slovenia,Daily ICU occupancy,2020-07-23,2.0
+Slovenia,Daily ICU occupancy,2020-07-24,2.0
+Slovenia,Daily ICU occupancy,2020-07-25,4.0
+Slovenia,Daily ICU occupancy,2020-07-26,4.0
+Slovenia,Daily ICU occupancy,2020-07-27,3.0
+Slovenia,Daily ICU occupancy,2020-07-28,3.0
+Slovenia,Daily ICU occupancy,2020-07-29,4.0
+Slovenia,Daily ICU occupancy,2020-07-30,5.0
+Slovenia,Daily ICU occupancy,2020-07-31,5.0
+Slovenia,Daily ICU occupancy,2020-08-01,5.0
+Slovenia,Daily ICU occupancy,2020-08-02,2.0
+Slovenia,Daily ICU occupancy,2020-08-03,1.0
+Slovenia,Daily ICU occupancy,2020-08-04,2.0
+Slovenia,Daily ICU occupancy,2020-08-05,3.0
+Slovenia,Daily ICU occupancy,2020-08-06,3.0
+Slovenia,Daily ICU occupancy,2020-08-07,4.0
+Slovenia,Daily ICU occupancy,2020-08-08,3.0
+Slovenia,Daily ICU occupancy,2020-08-09,3.0
+Slovenia,Daily ICU occupancy,2020-08-10,3.0
+Slovenia,Daily ICU occupancy,2020-08-11,2.0
+Slovenia,Daily ICU occupancy,2020-08-12,2.0
+Slovenia,Daily ICU occupancy,2020-08-13,3.0
+Slovenia,Daily ICU occupancy,2020-08-14,3.0
+Slovenia,Daily ICU occupancy,2020-08-15,3.0
+Slovenia,Daily ICU occupancy,2020-08-16,3.0
+Slovenia,Daily ICU occupancy,2020-08-17,3.0
+Slovenia,Daily ICU occupancy,2020-08-18,3.0
+Slovenia,Daily ICU occupancy,2020-08-19,3.0
+Slovenia,Daily ICU occupancy,2020-08-20,2.0
+Slovenia,Daily ICU occupancy,2020-08-21,0.0
+Slovenia,Daily ICU occupancy,2020-08-22,0.0
+Slovenia,Daily ICU occupancy,2020-08-23,0.0
+Slovenia,Daily ICU occupancy,2020-08-24,0.0
+Slovenia,Daily ICU occupancy,2020-08-25,0.0
+Slovenia,Daily ICU occupancy,2020-08-26,0.0
+Slovenia,Daily ICU occupancy,2020-08-27,1.0
+Slovenia,Daily ICU occupancy,2020-08-28,1.0
+Slovenia,Daily ICU occupancy,2020-08-29,2.0
+Slovenia,Daily ICU occupancy,2020-08-30,3.0
+Slovenia,Daily ICU occupancy,2020-08-31,3.0
+Slovenia,Daily ICU occupancy,2020-09-01,3.0
+Slovenia,Daily ICU occupancy,2020-09-02,4.0
+Slovenia,Daily ICU occupancy,2020-09-03,4.0
+Slovenia,Daily ICU occupancy,2020-09-04,3.0
+Slovenia,Daily ICU occupancy,2020-09-05,3.0
+Slovenia,Daily ICU occupancy,2020-09-06,3.0
+Slovenia,Daily ICU occupancy,2020-09-07,4.0
+Slovenia,Daily ICU occupancy,2020-09-08,4.0
+Slovenia,Daily ICU occupancy,2020-09-09,4.0
+Slovenia,Daily ICU occupancy,2020-09-10,5.0
+Slovenia,Daily ICU occupancy,2020-09-11,6.0
+Slovenia,Daily ICU occupancy,2020-09-12,6.0
+Slovenia,Daily ICU occupancy,2020-09-13,7.0
+Slovenia,Daily ICU occupancy,2020-09-14,9.0
+Slovenia,Daily ICU occupancy,2020-09-15,10.0
+Slovenia,Daily ICU occupancy,2020-09-16,11.0
+Slovenia,Daily ICU occupancy,2020-09-17,11.0
+Slovenia,Daily ICU occupancy,2020-09-18,11.0
+Slovenia,Daily ICU occupancy,2020-09-19,10.0
+Slovenia,Daily ICU occupancy,2020-09-20,13.0
+Slovenia,Daily ICU occupancy,2020-09-21,15.0
+Slovenia,Daily ICU occupancy,2020-09-22,13.0
+Slovenia,Daily ICU occupancy,2020-09-23,10.0
+Slovenia,Daily ICU occupancy,2020-09-24,13.0
+Slovenia,Daily ICU occupancy,2020-09-25,15.0
+Slovenia,Daily ICU occupancy,2020-09-26,17.0
+Slovenia,Daily ICU occupancy,2020-09-27,17.0
+Slovenia,Daily ICU occupancy,2020-09-28,16.0
+Slovenia,Daily ICU occupancy,2020-09-29,16.0
+Slovenia,Daily ICU occupancy,2020-09-30,16.0
+Slovenia,Daily ICU occupancy,2020-10-01,15.0
+Slovenia,Daily ICU occupancy,2020-10-02,15.0
+Slovenia,Daily ICU occupancy,2020-10-03,15.0
+Slovenia,Daily ICU occupancy,2020-10-04,16.0
+Slovenia,Daily ICU occupancy,2020-10-05,21.0
+Slovenia,Daily ICU occupancy,2020-10-06,20.0
+Slovenia,Daily ICU occupancy,2020-10-07,22.0
+Slovenia,Daily ICU occupancy,2020-10-08,21.0
+Slovenia,Daily ICU occupancy,2020-10-09,23.0
+Slovenia,Daily ICU occupancy,2020-10-10,21.0
+Slovenia,Daily ICU occupancy,2020-10-11,27.0
+Slovenia,Daily ICU occupancy,2020-10-12,26.0
+Slovenia,Daily ICU occupancy,2020-10-13,31.0
+Slovenia,Daily ICU occupancy,2020-10-14,35.0
+Slovenia,Daily ICU occupancy,2020-10-15,40.0
+Slovenia,Daily ICU occupancy,2020-10-16,43.0
+Slovenia,Daily ICU occupancy,2020-10-17,44.0
+Slovenia,Daily ICU occupancy,2020-10-18,50.0
+Slovenia,Daily ICU occupancy,2020-10-19,56.0
+Slovenia,Daily ICU occupancy,2020-10-20,55.0
+Slovenia,Daily ICU occupancy,2020-10-21,55.0
+Slovenia,Daily ICU occupancy,2020-10-22,62.0
+Slovenia,Daily ICU occupancy,2020-10-23,65.0
+Slovenia,Daily ICU occupancy,2020-10-24,66.0
+Slovenia,Daily ICU occupancy,2020-10-25,73.0
+Slovenia,Daily ICU occupancy,2020-10-26,82.0
+Slovenia,Daily ICU occupancy,2020-10-27,88.0
+Slovenia,Daily ICU occupancy,2020-10-28,102.0
+Slovenia,Daily ICU occupancy,2020-10-29,114.0
+Slovenia,Daily ICU occupancy,2020-10-30,123.0
+Slovenia,Daily ICU occupancy,2020-10-31,123.0
+Slovenia,Daily ICU occupancy,2020-11-01,131.0
+Slovenia,Daily ICU occupancy,2020-11-02,140.0
+Slovenia,Daily ICU occupancy,2020-11-03,146.0
+Slovenia,Daily ICU occupancy,2020-11-04,155.0
+Slovenia,Daily ICU occupancy,2020-11-05,165.0
+Slovenia,Daily ICU occupancy,2020-11-06,165.0
+Slovenia,Daily ICU occupancy,2020-11-07,174.0
+Slovenia,Daily ICU occupancy,2020-11-08,175.0
+Slovenia,Daily ICU occupancy,2020-11-09,189.0
+Slovenia,Daily ICU occupancy,2020-11-10,193.0
+Slovenia,Daily ICU occupancy,2020-11-11,198.0
+Slovenia,Daily ICU occupancy,2020-11-12,193.0
+Slovenia,Daily ICU occupancy,2020-11-13,200.0
+Slovenia,Daily ICU occupancy,2020-11-14,201.0
+Slovenia,Daily ICU occupancy,2020-11-15,198.0
+Slovenia,Daily ICU occupancy,2020-11-16,205.0
+Slovenia,Daily ICU occupancy,2020-11-17,206.0
+Slovenia,Daily ICU occupancy,2020-11-18,207.0
+Slovenia,Daily ICU occupancy,2020-11-19,197.0
+Slovenia,Daily ICU occupancy,2020-11-20,195.0
+Slovenia,Daily ICU occupancy,2020-11-21,193.0
+Slovenia,Daily ICU occupancy,2020-11-22,195.0
+Slovenia,Daily ICU occupancy,2020-11-23,201.0
+Slovenia,Daily ICU occupancy,2020-11-24,202.0
+Slovenia,Daily ICU occupancy,2020-11-25,199.0
+Slovenia,Daily ICU occupancy,2020-11-26,206.0
+Slovenia,Daily ICU occupancy,2020-11-27,195.0
+Slovenia,Daily ICU occupancy,2020-11-28,187.0
+Slovenia,Daily ICU occupancy,2020-11-29,192.0
+Slovenia,Daily ICU occupancy,2020-11-30,201.0
+Slovenia,Daily ICU occupancy,2020-12-01,208.0
+Slovenia,Daily ICU occupancy,2020-12-02,197.0
+Slovenia,Daily ICU occupancy,2020-12-03,195.0
+Slovenia,Daily ICU occupancy,2020-12-04,197.0
+Slovenia,Daily ICU occupancy,2020-12-05,191.0
+Slovenia,Daily ICU occupancy,2020-12-06,194.0
+Slovenia,Daily ICU occupancy,2020-12-07,191.0
+Slovenia,Daily ICU occupancy,2020-12-08,189.0
+Slovenia,Daily ICU occupancy,2020-12-09,196.0
+Slovenia,Daily ICU occupancy,2020-12-10,187.0
+Slovenia,Daily ICU occupancy,2020-12-11,193.0
+Slovenia,Daily ICU occupancy,2020-12-12,189.0
+Slovenia,Daily ICU occupancy,2020-12-13,197.0
+Slovenia,Daily ICU occupancy,2020-12-14,205.0
+Slovenia,Daily ICU occupancy,2020-12-15,201.0
+Slovenia,Daily ICU occupancy,2020-12-16,204.0
+Slovenia,Daily ICU occupancy,2020-12-17,202.0
+Slovenia,Daily ICU occupancy,2020-12-18,204.0
+Slovenia,Daily ICU occupancy,2020-12-19,200.0
+Slovenia,Daily ICU occupancy,2020-12-20,199.0
+Slovenia,Daily ICU occupancy,2020-12-21,206.0
+Slovenia,Daily ICU occupancy,2020-12-22,207.0
+Slovenia,Daily ICU occupancy,2020-12-23,205.0
+Slovenia,Daily ICU occupancy,2020-12-24,208.0
+Slovenia,Daily ICU occupancy,2020-12-25,200.0
+Slovenia,Daily ICU occupancy,2020-12-26,207.0
+Slovenia,Daily ICU occupancy,2020-12-27,205.0
+Slovenia,Daily ICU occupancy,2020-12-28,203.0
+Slovenia,Daily ICU occupancy,2020-12-29,201.0
+Slovenia,Daily ICU occupancy,2020-12-30,205.0
+Slovenia,Daily ICU occupancy,2020-12-31,191.0
+Slovenia,Daily ICU occupancy,2021-01-01,184.0
+Slovenia,Daily ICU occupancy,2021-01-02,184.0
+Slovenia,Daily ICU occupancy,2021-01-03,186.0
+Slovenia,Daily ICU occupancy,2021-01-04,191.0
+Slovenia,Daily ICU occupancy,2021-01-05,184.0
+Slovenia,Daily ICU occupancy,2021-01-06,187.0
+Slovenia,Daily ICU occupancy,2021-01-07,187.0
+Slovenia,Daily ICU occupancy,2021-01-08,188.0
+Slovenia,Daily ICU occupancy,2021-01-09,189.0
+Slovenia,Daily ICU occupancy,2021-01-10,200.0
+Slovenia,Daily ICU occupancy,2021-01-11,197.0
+Slovenia,Daily ICU occupancy,2021-01-12,189.0
+Slovenia,Daily ICU occupancy,2021-01-13,201.0
+Slovenia,Daily ICU occupancy,2021-01-14,196.0
+Slovenia,Daily ICU occupancy,2021-01-15,194.0
+Slovenia,Daily ICU occupancy,2021-01-16,189.0
+Slovenia,Daily ICU occupancy,2021-01-17,187.0
+Slovenia,Daily ICU occupancy,2021-01-18,180.0
+Slovenia,Daily ICU occupancy,2021-01-19,184.0
+Slovenia,Daily ICU occupancy,2021-01-20,178.0
+Slovenia,Daily ICU occupancy,2021-01-21,181.0
+Slovenia,Daily ICU occupancy,2021-01-22,183.0
+Slovenia,Daily ICU occupancy,2021-01-23,185.0
+Slovenia,Daily ICU occupancy,2021-01-24,184.0
+Slovenia,Daily ICU occupancy,2021-01-25,188.0
+Slovenia,Daily ICU occupancy,2021-01-26,181.0
+Slovenia,Daily ICU occupancy,2021-01-27,168.0
+Slovenia,Daily ICU occupancy,2021-01-28,169.0
+Slovenia,Daily ICU occupancy,2021-01-29,168.0
+Slovenia,Daily ICU occupancy,2021-01-30,161.0
+Slovenia,Daily ICU occupancy,2021-01-31,165.0
+Slovenia,Daily ICU occupancy,2021-02-01,171.0
+Slovenia,Daily ICU occupancy,2021-02-02,168.0
+Slovenia,Daily ICU occupancy,2021-02-03,163.0
+Slovenia,Daily ICU occupancy,2021-02-04,165.0
+Slovenia,Daily ICU occupancy,2021-02-05,161.0
+Slovenia,Daily ICU occupancy,2021-02-06,156.0
+Slovenia,Daily ICU occupancy,2021-02-07,157.0
+Slovenia,Daily ICU occupancy,2021-02-08,160.0
+Slovenia,Daily ICU occupancy,2021-02-09,159.0
+Slovenia,Daily ICU occupancy,2021-02-10,156.0
+Slovenia,Daily ICU occupancy,2021-02-11,155.0
+Slovenia,Daily ICU occupancy,2021-02-12,153.0
+Slovenia,Daily ICU occupancy,2021-02-13,146.0
+Slovenia,Daily ICU occupancy,2021-02-14,137.0
+Slovenia,Daily ICU occupancy,2021-02-15,134.0
+Slovenia,Daily ICU occupancy,2021-02-16,126.0
+Slovenia,Daily ICU occupancy,2021-02-17,127.0
+Slovenia,Daily ICU occupancy,2021-02-18,116.0
+Slovenia,Daily ICU occupancy,2021-02-19,115.0
+Slovenia,Daily ICU occupancy,2021-02-20,109.0
+Slovenia,Daily ICU occupancy,2021-02-21,103.0
+Slovenia,Daily ICU occupancy,2021-02-22,104.0
+Slovenia,Daily ICU occupancy,2021-02-23,107.0
+Slovenia,Daily ICU occupancy,2021-02-24,104.0
+Slovenia,Daily ICU occupancy,2021-02-25,103.0
+Slovenia,Daily ICU occupancy,2021-02-26,93.0
+Slovenia,Daily ICU occupancy,2021-02-27,95.0
+Slovenia,Daily ICU occupancy,2021-02-28,93.0
+Slovenia,Daily ICU occupancy,2021-03-01,91.0
+Slovenia,Daily ICU occupancy,2021-03-02,85.0
+Slovenia,Daily ICU occupancy,2021-03-03,82.0
+Slovenia,Daily ICU occupancy,2021-03-04,85.0
+Slovenia,Daily ICU occupancy,2021-03-05,84.0
+Slovenia,Daily ICU occupancy,2021-03-06,88.0
+Slovenia,Daily ICU occupancy,2021-03-07,88.0
+Slovenia,Daily ICU occupancy,2021-03-08,91.0
+Slovenia,Daily ICU occupancy,2021-03-09,90.0
+Slovenia,Daily ICU occupancy,2021-03-10,91.0
+Slovenia,Daily ICU occupancy,2021-03-11,89.0
+Slovenia,Daily ICU occupancy,2021-03-12,83.0
+Slovenia,Daily ICU occupancy,2021-03-13,84.0
+Slovenia,Daily ICU occupancy,2021-03-14,83.0
+Slovenia,Daily ICU occupancy,2021-03-15,87.0
+Slovenia,Daily ICU occupancy,2021-03-16,84.0
+Slovenia,Daily ICU occupancy,2021-03-17,83.0
+Slovenia,Daily ICU occupancy,2021-03-18,85.0
+Slovenia,Daily ICU occupancy,2021-03-19,88.0
+Slovenia,Daily ICU occupancy,2021-03-20,88.0
+Slovenia,Daily ICU occupancy,2021-03-21,93.0
+Slovenia,Daily ICU occupancy,2021-03-22,96.0
+Slovenia,Daily ICU occupancy,2021-03-23,97.0
+Slovenia,Daily ICU occupancy,2021-03-24,98.0
+Slovenia,Daily ICU occupancy,2021-03-25,106.0
+Slovenia,Daily ICU occupancy,2021-03-26,106.0
+Slovenia,Daily ICU occupancy,2021-03-27,104.0
+Slovenia,Daily ICU occupancy,2021-03-28,104.0
+Slovenia,Daily ICU occupancy,2021-03-29,110.0
+Slovenia,Daily ICU occupancy,2021-03-30,102.0
+Slovenia,Daily ICU occupancy,2021-03-31,108.0
+Slovenia,Daily ICU occupancy,2021-04-01,106.0
+Slovenia,Daily ICU occupancy,2021-04-02,116.0
+Slovenia,Daily ICU occupancy,2021-04-03,123.0
+Slovenia,Daily ICU occupancy,2021-04-04,123.0
+Slovenia,Daily ICU occupancy,2021-04-05,126.0
+Slovenia,Daily ICU occupancy,2021-04-06,133.0
+Slovenia,Daily ICU occupancy,2021-04-07,131.0
+Slovenia,Daily ICU occupancy,2021-04-08,129.0
+Slovenia,Daily ICU occupancy,2021-04-09,138.0
+Slovenia,Daily ICU occupancy,2021-04-10,140.0
+Slovenia,Daily ICU occupancy,2021-04-11,139.0
+Slovenia,Daily ICU occupancy,2021-04-12,141.0
+Slovenia,Daily ICU occupancy,2021-04-13,145.0
+Slovenia,Daily ICU occupancy,2021-04-14,153.0
+Slovenia,Daily ICU occupancy,2021-04-15,149.0
+Slovenia,Daily ICU occupancy,2021-04-16,152.0
+Slovenia,Daily ICU occupancy,2021-04-17,150.0
+Slovenia,Daily ICU occupancy,2021-04-18,152.0
+Slovenia,Daily ICU occupancy,2021-04-19,155.0
+Slovenia,Daily ICU occupancy,2021-04-20,156.0
+Slovenia,Daily ICU occupancy,2021-04-21,153.0
+Slovenia,Daily ICU occupancy,2021-04-22,154.0
+Slovenia,Daily ICU occupancy,2021-04-23,157.0
+Slovenia,Daily ICU occupancy,2021-04-24,159.0
+Slovenia,Daily ICU occupancy,2021-04-25,156.0
+Slovenia,Daily ICU occupancy,2021-04-26,156.0
+Slovenia,Daily ICU occupancy,2021-04-27,160.0
+Slovenia,Daily ICU occupancy,2021-04-28,154.0
+Slovenia,Daily ICU occupancy,2021-04-29,153.0
+Slovenia,Daily ICU occupancy,2021-04-30,152.0
+Slovenia,Daily ICU occupancy,2021-05-01,152.0
+Slovenia,Daily ICU occupancy,2021-05-02,151.0
+Slovenia,Daily ICU occupancy,2021-05-03,148.0
+Slovenia,Daily ICU occupancy,2021-05-04,143.0
+Slovenia,Daily ICU occupancy,2021-05-05,140.0
+Slovenia,Daily ICU occupancy,2021-05-06,140.0
+Slovenia,Daily ICU occupancy,2021-05-07,141.0
+Slovenia,Daily ICU occupancy,2021-05-08,127.0
+Slovenia,Daily ICU occupancy,2021-05-09,129.0
+Slovenia,Daily ICU occupancy,2021-05-10,132.0
+Slovenia,Daily ICU occupancy,2021-05-11,131.0
+Slovenia,Daily ICU occupancy,2021-05-12,127.0
+Slovenia,Daily ICU occupancy,2021-05-13,123.0
+Slovenia,Daily ICU occupancy,2021-05-14,124.0
+Slovenia,Daily ICU occupancy,2021-05-15,121.0
+Slovenia,Daily ICU occupancy,2021-05-16,120.0
+Slovenia,Daily ICU occupancy,2021-05-17,122.0
+Slovenia,Daily ICU occupancy,2021-05-18,113.0
+Slovenia,Daily ICU occupancy,2021-05-19,111.0
+Slovenia,Daily ICU occupancy,2021-05-20,111.0
+Slovenia,Daily ICU occupancy,2021-05-21,106.0
+Slovenia,Daily ICU occupancy,2021-05-22,98.0
+Slovenia,Daily ICU occupancy,2021-05-23,99.0
+Slovenia,Daily ICU occupancy,2021-05-24,96.0
+Slovenia,Daily ICU occupancy,2021-05-25,92.0
+Slovenia,Daily ICU occupancy,2021-05-26,85.0
+Slovenia,Daily ICU occupancy,2021-05-27,80.0
+Slovenia,Daily ICU occupancy,2021-05-28,79.0
+Slovenia,Daily ICU occupancy,2021-05-29,76.0
+Slovenia,Daily ICU occupancy,2021-05-30,77.0
+Slovenia,Daily ICU occupancy,2021-05-31,73.0
+Slovenia,Daily ICU occupancy,2021-06-01,68.0
+Slovenia,Daily ICU occupancy,2021-06-02,63.0
+Slovenia,Daily ICU occupancy,2021-06-03,62.0
+Slovenia,Daily ICU occupancy,2021-06-04,61.0
+Slovenia,Daily ICU occupancy,2021-06-05,53.0
+Slovenia,Daily ICU occupancy,2021-06-06,49.0
+Slovenia,Daily ICU occupancy,2021-06-07,51.0
+Slovenia,Daily ICU occupancy,2021-06-08,51.0
+Slovenia,Daily ICU occupancy,2021-06-09,47.0
+Slovenia,Daily ICU occupancy,2021-06-10,48.0
+Slovenia,Daily ICU occupancy,2021-06-11,46.0
+Slovenia,Daily ICU occupancy,2021-06-12,42.0
+Slovenia,Daily ICU occupancy,2021-06-13,44.0
+Slovenia,Daily ICU occupancy,2021-06-14,42.0
+Slovenia,Daily ICU occupancy,2021-06-15,40.0
+Slovenia,Daily ICU occupancy,2021-06-16,38.0
+Slovenia,Daily ICU occupancy,2021-06-17,37.0
+Slovenia,Daily ICU occupancy,2021-06-18,39.0
+Slovenia,Daily ICU occupancy,2021-06-19,37.0
+Slovenia,Daily ICU occupancy,2021-06-20,37.0
+Slovenia,Daily ICU occupancy,2021-06-21,35.0
+Slovenia,Daily ICU occupancy,2021-06-22,33.0
+Slovenia,Daily ICU occupancy,2021-06-23,29.0
+Slovenia,Daily ICU occupancy,2021-06-24,28.0
+Slovenia,Daily ICU occupancy,2021-06-25,26.0
+Slovenia,Daily ICU occupancy,2021-06-26,23.0
+Slovenia,Daily ICU occupancy,2021-06-27,22.0
+Slovenia,Daily ICU occupancy,2021-06-28,22.0
+Slovenia,Daily ICU occupancy,2021-06-29,19.0
+Slovenia,Daily ICU occupancy,2021-06-30,16.0
+Slovenia,Daily ICU occupancy,2021-07-01,15.0
+Slovenia,Daily ICU occupancy,2021-07-02,15.0
+Slovenia,Daily ICU occupancy,2021-07-03,15.0
+Slovenia,Daily ICU occupancy,2021-07-04,16.0
+Slovenia,Daily ICU occupancy,2021-07-05,15.0
+Slovenia,Daily ICU occupancy,2021-07-06,14.0
+Slovenia,Daily ICU occupancy,2021-07-07,10.0
+Slovenia,Daily ICU occupancy,2021-07-08,9.0
+Slovenia,Daily ICU occupancy,2021-07-09,9.0
+Slovenia,Daily ICU occupancy,2021-07-10,9.0
+Slovenia,Daily ICU occupancy,2021-07-11,9.0
+Slovenia,Daily ICU occupancy,2021-07-12,9.0
+Slovenia,Daily ICU occupancy,2021-07-13,10.0
+Slovenia,Daily ICU occupancy,2021-07-14,10.0
+Slovenia,Daily ICU occupancy,2021-07-15,10.0
+Slovenia,Daily ICU occupancy,2021-07-16,10.0
+Slovenia,Daily ICU occupancy,2021-07-17,10.0
+Slovenia,Daily ICU occupancy,2021-07-18,10.0
+Slovenia,Daily ICU occupancy,2021-07-19,10.0
+Slovenia,Daily ICU occupancy,2021-07-20,9.0
+Slovenia,Daily ICU occupancy,2021-07-21,8.0
+Slovenia,Daily ICU occupancy,2021-07-22,7.0
+Slovenia,Daily ICU occupancy,2021-07-23,8.0
+Slovenia,Daily ICU occupancy,2021-07-24,8.0
+Slovenia,Daily ICU occupancy,2021-07-25,8.0
+Slovenia,Daily ICU occupancy,2021-07-26,8.0
+Slovenia,Daily ICU occupancy,2021-07-27,7.0
+Slovenia,Daily ICU occupancy,2021-07-28,7.0
+Slovenia,Daily ICU occupancy,2021-07-29,8.0
+Slovenia,Daily ICU occupancy,2021-07-30,9.0
+Slovenia,Daily ICU occupancy,2021-07-31,9.0
+Slovenia,Daily ICU occupancy,2021-08-01,8.0
+Slovenia,Daily ICU occupancy,2021-08-02,9.0
+Slovenia,Daily ICU occupancy,2021-08-03,9.0
+Slovenia,Daily ICU occupancy,2021-08-04,8.0
+Slovenia,Daily ICU occupancy,2021-08-05,8.0
+Slovenia,Daily ICU occupancy,2021-08-06,7.0
+Slovenia,Daily ICU occupancy,2021-08-07,8.0
+Slovenia,Daily ICU occupancy,2021-08-08,7.0
+Slovenia,Daily ICU occupancy,2021-08-09,7.0
+Slovenia,Daily ICU occupancy,2021-08-10,7.0
+Slovenia,Daily ICU occupancy,2021-08-11,7.0
+Slovenia,Daily ICU occupancy,2021-08-12,7.0
+Slovenia,Daily ICU occupancy,2021-08-13,6.0
+Slovenia,Daily ICU occupancy,2021-08-14,7.0
+Slovenia,Daily ICU occupancy,2021-08-15,8.0
+Slovenia,Daily ICU occupancy,2021-08-16,9.0
+Slovenia,Daily ICU occupancy,2021-08-17,10.0
+Slovenia,Daily ICU occupancy,2021-08-18,8.0
+Slovenia,Daily ICU occupancy,2021-08-19,9.0
+Slovenia,Daily ICU occupancy,2021-08-20,11.0
+Slovenia,Daily ICU occupancy,2021-08-21,14.0
+Slovenia,Daily ICU occupancy,2021-08-22,16.0
+Slovenia,Daily ICU occupancy,2021-08-23,17.0
+Slovenia,Daily ICU occupancy,2021-08-24,18.0
+Slovenia,Daily ICU occupancy,2021-08-25,18.0
+Slovenia,Daily ICU occupancy,2021-08-26,18.0
+Slovenia,Daily ICU occupancy,2021-08-27,20.0
+Slovenia,Daily ICU occupancy,2021-08-28,20.0
+Slovenia,Daily ICU occupancy,2021-08-29,21.0
+Slovenia,Daily ICU occupancy,2021-08-30,24.0
+Slovenia,Daily ICU occupancy,2021-08-31,29.0
+Slovenia,Daily ICU occupancy,2021-09-01,34.0
+Slovenia,Daily ICU occupancy,2021-09-02,39.0
+Slovenia,Daily ICU occupancy,2021-09-03,42.0
+Slovenia,Daily ICU occupancy,2021-09-04,42.0
+Slovenia,Daily ICU occupancy,2021-09-05,41.0
+Slovenia,Daily ICU occupancy,2021-09-06,47.0
+Slovenia,Daily ICU occupancy,2021-09-07,50.0
+Slovenia,Daily ICU occupancy,2021-09-08,58.0
+Slovenia,Daily ICU occupancy,2021-09-09,60.0
+Slovenia,Daily ICU occupancy,2021-09-10,58.0
+Slovenia,Daily ICU occupancy,2021-09-11,60.0
+Slovenia,Daily ICU occupancy,2021-09-12,65.0
+Slovenia,Daily ICU occupancy,2021-09-13,66.0
+Slovenia,Daily ICU occupancy,2021-09-14,71.0
+Slovenia,Daily ICU occupancy,2021-09-15,71.0
+Slovenia,Daily ICU occupancy,2021-09-16,78.0
+Slovenia,Daily ICU occupancy,2021-09-17,84.0
+Slovenia,Daily ICU occupancy,2021-09-18,88.0
+Slovenia,Daily ICU occupancy,2021-09-19,94.0
+Slovenia,Daily ICU occupancy,2021-09-20,98.0
+Slovenia,Daily ICU occupancy,2021-09-21,101.0
+Slovenia,Daily ICU occupancy,2021-09-22,103.0
+Slovenia,Daily ICU occupancy,2021-09-23,101.0
+Slovenia,Daily ICU occupancy,2021-09-24,103.0
+Slovenia,Daily ICU occupancy,2021-09-25,102.0
+Slovenia,Daily ICU occupancy,2021-09-26,104.0
+Slovenia,Daily ICU occupancy,2021-09-27,106.0
+Slovenia,Daily ICU occupancy,2021-09-28,104.0
+Slovenia,Daily ICU occupancy,2021-09-29,112.0
+Slovenia,Daily ICU occupancy,2021-09-30,107.0
+Slovenia,Daily ICU occupancy,2021-10-01,114.0
+Slovenia,Daily ICU occupancy,2021-10-02,120.0
+Slovenia,Daily ICU occupancy,2021-10-03,121.0
+Slovenia,Daily ICU occupancy,2021-10-04,120.0
+Slovenia,Daily ICU occupancy,2021-10-05,120.0
+Slovenia,Daily ICU occupancy,2021-10-06,113.0
+Slovenia,Daily ICU occupancy,2021-10-07,113.0
+Slovenia,Daily ICU occupancy,2021-10-08,114.0
+Slovenia,Daily ICU occupancy,2021-10-09,115.0
+Slovenia,Daily ICU occupancy,2021-10-10,117.0
+Slovenia,Daily ICU occupancy,2021-10-11,117.0
+Slovenia,Daily ICU occupancy,2021-10-12,114.0
+Slovenia,Daily ICU occupancy,2021-10-13,121.0
+Slovenia,Daily ICU occupancy,2021-10-14,116.0
+Slovenia,Daily ICU occupancy,2021-10-15,116.0
+Slovenia,Daily ICU occupancy,2021-10-16,116.0
+Slovenia,Daily ICU occupancy,2021-10-17,121.0
+Slovenia,Daily ICU occupancy,2021-10-18,119.0
+Slovenia,Daily ICU occupancy,2021-10-19,120.0
+Slovenia,Daily ICU occupancy,2021-10-20,119.0
+Slovenia,Daily ICU occupancy,2021-10-21,118.0
+Slovenia,Daily ICU occupancy,2021-10-22,121.0
+Slovenia,Daily ICU occupancy,2021-10-23,117.0
+Slovenia,Daily ICU occupancy,2021-10-24,124.0
+Slovenia,Daily ICU occupancy,2021-10-25,124.0
+Slovenia,Daily ICU occupancy,2021-10-26,128.0
+Slovenia,Daily ICU occupancy,2021-10-27,130.0
+Slovenia,Daily ICU occupancy,2021-10-28,128.0
+Slovenia,Daily ICU occupancy,2021-10-29,130.0
+Slovenia,Daily ICU occupancy,2021-10-30,128.0
+Slovenia,Daily ICU occupancy,2021-10-31,136.0
+Slovenia,Daily ICU occupancy,2021-11-01,142.0
+Slovenia,Daily ICU occupancy,2021-11-02,155.0
+Slovenia,Daily ICU occupancy,2021-11-03,154.0
+Slovenia,Daily ICU occupancy,2021-11-04,165.0
+Slovenia,Daily ICU occupancy,2021-11-05,172.0
+Slovenia,Daily ICU occupancy,2021-11-06,174.0
+Slovenia,Daily ICU occupancy,2021-11-07,180.0
+Slovenia,Daily ICU occupancy,2021-11-08,184.0
+Slovenia,Daily ICU occupancy,2021-11-09,187.0
+Slovenia,Daily ICU occupancy,2021-11-10,186.0
+Slovenia,Daily ICU occupancy,2021-11-11,206.0
+Slovenia,Daily ICU occupancy,2021-11-12,209.0
+Slovenia,Daily ICU occupancy,2021-11-13,219.0
+Slovenia,Daily ICU occupancy,2021-11-14,222.0
+Slovenia,Daily ICU occupancy,2021-11-15,228.0
+Slovenia,Daily ICU occupancy,2021-11-16,236.0
+Slovenia,Daily ICU occupancy,2021-11-17,246.0
+Slovenia,Daily ICU occupancy,2021-11-18,253.0
+Slovenia,Daily ICU occupancy,2021-11-19,253.0
+Slovenia,Daily ICU occupancy,2021-11-20,264.0
+Slovenia,Daily ICU occupancy,2021-11-21,265.0
+Slovenia,Daily ICU occupancy,2021-11-22,276.0
+Slovenia,Daily ICU occupancy,2021-11-23,283.0
+Slovenia,Daily ICU occupancy,2021-11-24,280.0
+Slovenia,Daily ICU occupancy,2021-11-25,288.0
+Slovenia,Daily ICU occupancy,2021-11-26,289.0
+Slovenia,Daily ICU occupancy,2021-11-27,283.0
+Slovenia,Daily ICU occupancy,2021-11-28,284.0
+Slovenia,Daily ICU occupancy,2021-11-29,279.0
+Slovenia,Daily ICU occupancy,2021-11-30,277.0
+Slovenia,Daily ICU occupancy,2021-12-01,276.0
+Slovenia,Daily ICU occupancy,2021-12-02,274.0
+Slovenia,Daily ICU occupancy,2021-12-03,270.0
+Slovenia,Daily ICU occupancy,2021-12-04,264.0
+Slovenia,Daily ICU occupancy,2021-12-05,271.0
+Slovenia,Daily ICU occupancy,2021-12-06,266.0
+Slovenia,Daily ICU occupancy,2021-12-07,267.0
+Slovenia,Daily ICU occupancy,2021-12-08,259.0
+Slovenia,Daily ICU occupancy,2021-12-09,251.0
+Slovenia,Daily ICU occupancy,2021-12-10,241.0
+Slovenia,Daily ICU occupancy,2021-12-11,242.0
+Slovenia,Daily ICU occupancy,2021-12-12,240.0
+Slovenia,Daily ICU occupancy,2021-12-13,235.0
+Slovenia,Daily ICU occupancy,2021-12-14,236.0
+Slovenia,Daily ICU occupancy,2021-12-15,231.0
+Slovenia,Daily ICU occupancy,2021-12-16,234.0
+Slovenia,Daily ICU occupancy,2021-12-17,236.0
+Slovenia,Daily ICU occupancy,2021-12-18,220.0
+Slovenia,Daily ICU occupancy,2021-12-19,215.0
+Slovenia,Daily ICU occupancy,2021-12-20,215.0
+Slovenia,Daily ICU occupancy,2021-12-21,206.0
+Slovenia,Daily ICU occupancy,2021-12-22,206.0
+Slovenia,Daily ICU occupancy,2021-12-23,202.0
+Slovenia,Daily ICU occupancy,2021-12-24,202.0
+Slovenia,Daily ICU occupancy,2021-12-25,200.0
+Slovenia,Daily ICU occupancy,2021-12-26,195.0
+Slovenia,Daily ICU occupancy,2021-12-27,199.0
+Slovenia,Daily ICU occupancy,2021-12-28,199.0
+Slovenia,Daily ICU occupancy,2021-12-29,189.0
+Slovenia,Daily ICU occupancy,2021-12-30,187.0
+Slovenia,Daily ICU occupancy,2021-12-31,180.0
+Slovenia,Daily ICU occupancy,2022-01-01,172.0
+Slovenia,Daily ICU occupancy,2022-01-02,171.0
+Slovenia,Daily ICU occupancy,2022-01-03,171.0
+Slovenia,Daily ICU occupancy,2022-01-04,163.0
+Slovenia,Daily ICU occupancy,2022-01-05,157.0
+Slovenia,Daily ICU occupancy,2022-01-06,160.0
+Slovenia,Daily ICU occupancy,2022-01-07,155.0
+Slovenia,Daily ICU occupancy,2022-01-08,156.0
+Slovenia,Daily ICU occupancy,2022-01-09,159.0
+Slovenia,Daily ICU occupancy,2022-01-10,157.0
+Slovenia,Daily ICU occupancy,2022-01-11,160.0
+Slovenia,Daily ICU occupancy,2022-01-12,154.0
+Slovenia,Daily ICU occupancy,2022-01-13,153.0
+Slovenia,Daily ICU occupancy,2022-01-14,154.0
+Slovenia,Daily ICU occupancy,2022-01-15,153.0
+Slovenia,Daily ICU occupancy,2022-01-16,156.0
+Slovenia,Daily ICU occupancy,2022-01-17,156.0
+Slovenia,Daily ICU occupancy,2022-01-18,154.0
+Slovenia,Daily ICU occupancy,2022-01-19,154.0
+Slovenia,Daily ICU occupancy,2022-01-20,146.0
+Slovenia,Daily ICU occupancy,2022-01-21,143.0
+Slovenia,Daily ICU occupancy,2022-01-22,136.0
+Slovenia,Daily ICU occupancy,2022-01-23,136.0
+Slovenia,Daily ICU occupancy,2022-01-24,135.0
+Slovenia,Daily ICU occupancy,2022-01-25,130.0
+Slovenia,Daily ICU occupancy,2022-01-26,125.0
+Slovenia,Daily ICU occupancy,2022-01-27,124.0
+Slovenia,Daily ICU occupancy,2022-01-28,130.0
+Slovenia,Daily ICU occupancy,2022-01-29,127.0
+Slovenia,Daily ICU occupancy,2022-01-30,133.0
+Slovenia,Daily ICU occupancy,2022-01-31,137.0
+Slovenia,Daily ICU occupancy,2022-02-01,132.0
+Slovenia,Daily ICU occupancy,2022-02-02,130.0
+Slovenia,Daily ICU occupancy,2022-02-03,127.0
+Slovenia,Daily ICU occupancy,2022-02-04,133.0
+Slovenia,Daily ICU occupancy,2022-02-05,133.0
+Slovenia,Daily ICU occupancy,2022-02-06,134.0
+Slovenia,Daily ICU occupancy,2022-02-07,134.0
+Slovenia,Daily ICU occupancy,2022-02-08,141.0
+Slovenia,Daily ICU occupancy,2022-02-09,146.0
+Slovenia,Daily ICU occupancy,2022-02-10,141.0
+Slovenia,Daily ICU occupancy,2022-02-11,136.0
+Slovenia,Daily ICU occupancy,2022-02-12,134.0
+Slovenia,Daily ICU occupancy,2022-02-13,133.0
+Slovenia,Daily ICU occupancy,2022-02-14,136.0
+Slovenia,Daily ICU occupancy,2022-02-15,130.0
+Slovenia,Daily ICU occupancy,2022-02-16,125.0
+Slovenia,Daily ICU occupancy,2022-02-17,119.0
+Slovenia,Daily ICU occupancy,2022-02-18,113.0
+Slovenia,Daily ICU occupancy,2022-02-19,109.0
+Slovenia,Daily ICU occupancy,2022-02-20,110.0
+Slovenia,Daily ICU occupancy,2022-02-21,112.0
+Slovenia,Daily ICU occupancy,2022-02-22,111.0
+Slovenia,Daily ICU occupancy,2022-02-23,115.0
+Slovenia,Daily ICU occupancy,2022-02-24,112.0
+Slovenia,Daily ICU occupancy,2022-02-25,117.0
+Slovenia,Daily ICU occupancy,2022-02-26,106.0
+Slovenia,Daily ICU occupancy,2022-02-27,108.0
+Slovenia,Daily ICU occupancy,2022-02-28,104.0
+Slovenia,Daily ICU occupancy,2022-03-01,94.0
+Slovenia,Daily ICU occupancy,2022-03-02,89.0
+Slovenia,Daily ICU occupancy,2022-03-03,83.0
+Slovenia,Daily ICU occupancy,2022-03-04,80.0
+Slovenia,Daily ICU occupancy,2022-03-05,78.0
+Slovenia,Daily ICU occupancy,2022-03-06,81.0
+Slovenia,Daily ICU occupancy,2022-03-07,80.0
+Slovenia,Daily ICU occupancy,2022-03-08,85.0
+Slovenia,Daily ICU occupancy,2022-03-09,87.0
+Slovenia,Daily ICU occupancy,2022-03-10,86.0
+Slovenia,Daily ICU occupancy,2022-03-11,77.0
+Slovenia,Daily ICU occupancy,2022-03-12,71.0
+Slovenia,Daily ICU occupancy,2022-03-13,71.0
+Slovenia,Daily ICU occupancy,2022-03-14,67.0
+Slovenia,Daily ICU occupancy,2022-03-15,67.0
+Slovenia,Daily ICU occupancy,2022-03-16,61.0
+Slovenia,Daily ICU occupancy,2022-03-17,58.0
+Slovenia,Daily ICU occupancy,2022-03-18,62.0
+Slovenia,Daily ICU occupancy,2022-03-19,61.0
+Slovenia,Daily ICU occupancy,2022-03-20,58.0
+Slovenia,Daily ICU occupancy,2022-03-21,58.0
+Slovenia,Daily ICU occupancy,2022-03-22,56.0
+Slovenia,Daily ICU occupancy,2022-03-23,52.0
+Slovenia,Daily ICU occupancy,2022-03-24,50.0
+Slovenia,Daily ICU occupancy,2022-03-25,49.0
+Slovenia,Daily ICU occupancy,2022-03-26,50.0
+Slovenia,Daily ICU occupancy,2022-03-27,53.0
+Slovenia,Daily ICU occupancy,2022-03-28,55.0
+Slovenia,Daily ICU occupancy,2022-03-29,55.0
+Slovenia,Daily ICU occupancy,2022-03-30,50.0
+Slovenia,Daily ICU occupancy,2022-03-31,46.0
+Slovenia,Daily ICU occupancy,2022-04-01,44.0
+Slovenia,Daily ICU occupancy,2022-04-02,39.0
+Slovenia,Daily ICU occupancy,2022-04-03,40.0
+Slovenia,Daily ICU occupancy,2022-04-04,39.0
+Slovenia,Daily ICU occupancy,2022-04-05,37.0
+Slovenia,Daily ICU occupancy,2022-04-06,40.0
+Slovenia,Daily ICU occupancy,2022-04-07,38.0
+Slovenia,Daily ICU occupancy,2022-04-08,38.0
+Slovenia,Daily ICU occupancy,2022-04-09,37.0
+Slovenia,Daily ICU occupancy,2022-04-10,42.0
+Slovenia,Daily ICU occupancy,2022-04-11,39.0
+Slovenia,Daily ICU occupancy,2022-04-12,32.0
+Slovenia,Daily ICU occupancy,2022-04-13,31.0
+Slovenia,Daily ICU occupancy,2022-04-14,29.0
+Slovenia,Daily ICU occupancy,2022-04-15,29.0
+Slovenia,Daily ICU occupancy,2022-04-16,28.0
+Slovenia,Daily ICU occupancy,2022-04-17,30.0
+Slovenia,Daily ICU occupancy,2022-04-18,30.0
+Slovenia,Daily ICU occupancy,2022-04-19,30.0
+Slovenia,Daily ICU occupancy,2022-04-20,28.0
+Slovenia,Daily ICU occupancy,2022-04-21,29.0
+Slovenia,Daily ICU occupancy,2022-04-22,29.0
+Slovenia,Daily ICU occupancy,2022-04-23,30.0
+Slovenia,Daily ICU occupancy,2022-04-24,33.0
+Slovenia,Daily ICU occupancy,2022-04-25,30.0
+Slovenia,Daily ICU occupancy,2022-04-26,29.0
+Slovenia,Daily ICU occupancy,2022-04-27,28.0
+Slovenia,Daily ICU occupancy,2022-04-28,26.0
+Slovenia,Daily ICU occupancy,2022-04-29,23.0
+Slovenia,Daily ICU occupancy,2022-04-30,23.0
+Slovenia,Daily ICU occupancy,2022-05-01,24.0
+Slovenia,Daily ICU occupancy,2022-05-02,22.0
+Slovenia,Daily ICU occupancy,2022-05-03,22.0
+Slovenia,Daily ICU occupancy,2022-05-04,22.0
+Slovenia,Daily ICU occupancy,2022-05-05,21.0
+Slovenia,Daily ICU occupancy,2022-05-06,17.0
+Slovenia,Daily ICU occupancy,2022-05-07,18.0
+Slovenia,Daily ICU occupancy,2022-05-08,19.0
+Slovenia,Daily ICU occupancy,2022-05-09,21.0
+Slovenia,Daily ICU occupancy,2022-05-10,22.0
+Slovenia,Daily ICU occupancy,2022-05-11,19.0
+Slovenia,Daily ICU occupancy,2022-05-12,15.0
+Slovenia,Daily ICU occupancy,2022-05-13,14.0
+Slovenia,Daily ICU occupancy,2022-05-14,9.0
+Slovenia,Daily ICU occupancy,2022-05-15,9.0
+Slovenia,Daily ICU occupancy,2022-05-16,9.0
+Slovenia,Daily ICU occupancy,2022-05-17,9.0
+Slovenia,Daily ICU occupancy,2022-05-18,8.0
+Slovenia,Daily ICU occupancy,2022-05-19,8.0
+Slovenia,Daily ICU occupancy,2022-05-20,8.0
+Slovenia,Daily ICU occupancy,2022-05-21,6.0
+Slovenia,Daily ICU occupancy,2022-05-22,6.0
+Slovenia,Daily ICU occupancy,2022-05-23,7.0
+Slovenia,Daily ICU occupancy,2022-05-24,6.0
+Slovenia,Daily ICU occupancy,2022-05-25,6.0
+Slovenia,Daily ICU occupancy,2022-05-26,6.0
+Slovenia,Daily ICU occupancy,2022-05-27,6.0
+Slovenia,Daily ICU occupancy,2022-05-28,5.0
+Slovenia,Daily ICU occupancy,2022-05-29,5.0
+Slovenia,Daily ICU occupancy,2022-05-30,6.0
+Slovenia,Daily ICU occupancy,2022-05-31,7.0
+Slovenia,Daily ICU occupancy,2022-06-01,6.0
+Slovenia,Daily ICU occupancy,2022-06-02,6.0
+Slovenia,Daily ICU occupancy,2022-06-03,7.0
+Slovenia,Daily ICU occupancy,2022-06-04,7.0
+Slovenia,Daily ICU occupancy,2022-06-05,7.0
+Slovenia,Daily ICU occupancy,2022-06-06,7.0
+Slovenia,Daily ICU occupancy,2022-06-07,7.0
+Slovenia,Daily ICU occupancy,2022-06-08,6.0
+Slovenia,Daily ICU occupancy,2022-06-09,7.0
+Slovenia,Daily ICU occupancy,2022-06-10,6.0
+Slovenia,Daily ICU occupancy,2022-06-11,6.0
+Slovenia,Daily ICU occupancy,2022-06-12,6.0
+Slovenia,Daily ICU occupancy,2022-06-13,6.0
+Slovenia,Daily ICU occupancy,2022-06-14,7.0
+Slovenia,Daily ICU occupancy,2022-06-15,7.0
+Slovenia,Daily ICU occupancy,2022-06-16,7.0
+Slovenia,Daily ICU occupancy,2022-06-17,7.0
+Slovenia,Daily ICU occupancy,2022-06-18,6.0
+Slovenia,Daily ICU occupancy,2022-06-19,6.0
+Slovenia,Daily ICU occupancy,2022-06-20,6.0
+Slovenia,Daily ICU occupancy,2022-06-21,6.0
+Slovenia,Daily ICU occupancy,2022-06-22,8.0
+Slovenia,Daily ICU occupancy,2022-06-23,10.0
+Slovenia,Daily ICU occupancy,2022-06-24,10.0
+Slovenia,Daily ICU occupancy,2022-06-25,10.0
+Slovenia,Daily ICU occupancy,2022-06-26,11.0
+Slovenia,Daily ICU occupancy,2022-06-27,11.0
+Slovenia,Daily ICU occupancy,2022-06-28,12.0
+Slovenia,Daily ICU occupancy,2022-06-29,11.0
+Slovenia,Daily ICU occupancy,2022-06-30,11.0
+Slovenia,Daily ICU occupancy,2022-07-01,10.0
+Slovenia,Daily ICU occupancy,2022-07-02,11.0
+Slovenia,Daily ICU occupancy,2022-07-03,11.0
+Slovenia,Daily ICU occupancy,2022-07-04,12.0
+Slovenia,Daily ICU occupancy,2022-07-05,10.0
+Slovenia,Daily ICU occupancy,2022-07-06,10.0
+Slovenia,Daily ICU occupancy,2022-07-07,10.0
+Slovenia,Daily ICU occupancy,2022-07-08,12.0
+Slovenia,Daily ICU occupancy,2022-07-09,11.0
+Slovenia,Daily ICU occupancy,2022-07-10,13.0
+Slovenia,Daily ICU occupancy,2022-07-11,15.0
+Slovenia,Daily ICU occupancy,2022-07-12,14.0
+Slovenia,Daily ICU occupancy,2022-07-13,15.0
+Slovenia,Daily ICU occupancy,2022-07-14,12.0
+Slovenia,Daily ICU occupancy,2022-07-15,14.0
+Slovenia,Daily ICU occupancy,2022-07-16,15.0
+Slovenia,Daily ICU occupancy,2022-07-17,16.0
+Slovenia,Daily ICU occupancy,2022-07-18,20.0
+Slovenia,Daily ICU occupancy,2022-07-19,18.0
+Slovenia,Daily ICU occupancy,2022-07-20,19.0
+Slovenia,Daily ICU occupancy,2022-07-21,16.0
+Slovenia,Daily ICU occupancy,2022-07-22,15.0
+Slovenia,Daily ICU occupancy,2022-07-23,16.0
+Slovenia,Daily ICU occupancy,2022-07-24,18.0
+Slovenia,Daily ICU occupancy,2022-07-25,19.0
+Slovenia,Daily ICU occupancy,2022-07-26,19.0
+Slovenia,Daily ICU occupancy,2022-07-27,18.0
+Slovenia,Daily ICU occupancy,2022-07-28,17.0
+Slovenia,Daily ICU occupancy,2022-07-29,18.0
+Slovenia,Daily ICU occupancy,2022-07-30,16.0
+Slovenia,Daily ICU occupancy,2022-07-31,16.0
+Slovenia,Daily ICU occupancy,2022-08-01,17.0
+Slovenia,Daily ICU occupancy,2022-08-02,18.0
+Slovenia,Daily ICU occupancy,2022-08-03,17.0
+Slovenia,Daily ICU occupancy,2022-08-04,20.0
+Slovenia,Daily ICU occupancy,2022-08-05,17.0
+Slovenia,Daily ICU occupancy,2022-08-06,19.0
+Slovenia,Daily ICU occupancy,2022-08-07,16.0
+Slovenia,Daily ICU occupancy,2022-08-08,16.0
+Slovenia,Daily ICU occupancy,2022-08-09,17.0
+Slovenia,Daily ICU occupancy,2022-08-10,14.0
+Slovenia,Daily ICU occupancy,2022-08-11,13.0
+Slovenia,Daily ICU occupancy,2022-08-12,15.0
+Slovenia,Daily ICU occupancy,2022-08-13,16.0
+Slovenia,Daily ICU occupancy,2022-08-14,15.0
+Slovenia,Daily ICU occupancy,2022-08-15,17.0
+Slovenia,Daily ICU occupancy,2022-08-16,16.0
+Slovenia,Daily ICU occupancy,2022-08-17,18.0
+Slovenia,Daily ICU occupancy,2022-08-18,15.0
+Slovenia,Daily ICU occupancy,2022-08-19,17.0
+Slovenia,Daily ICU occupancy,2022-08-20,15.0
+Slovenia,Daily ICU occupancy,2022-08-21,15.0
+Slovenia,Daily ICU occupancy,2022-08-22,14.0
+Slovenia,Daily ICU occupancy,2022-08-23,19.0
+Slovenia,Daily ICU occupancy,2022-08-24,17.0
+Slovenia,Daily ICU occupancy,2022-08-25,16.0
+Slovenia,Daily ICU occupancy,2022-08-26,15.0
+Slovenia,Daily ICU occupancy,2022-08-27,16.0
+Slovenia,Daily ICU occupancy,2022-08-28,16.0
+Slovenia,Daily ICU occupancy,2022-08-29,16.0
+Slovenia,Daily ICU occupancy,2022-08-30,16.0
+Slovenia,Daily ICU occupancy,2022-08-31,14.0
+Slovenia,Daily ICU occupancy,2022-09-01,14.0
+Slovenia,Daily ICU occupancy,2022-09-02,13.0
+Slovenia,Daily ICU occupancy,2022-09-03,15.0
+Slovenia,Daily ICU occupancy,2022-09-04,15.0
+Slovenia,Daily ICU occupancy,2022-09-05,16.0
+Slovenia,Daily ICU occupancy,2022-09-06,15.0
+Slovenia,Daily ICU occupancy,2022-09-07,13.0
+Slovenia,Daily ICU occupancy,2022-09-08,13.0
+Slovenia,Daily ICU occupancy,2022-09-09,14.0
+Slovenia,Daily ICU occupancy,2022-09-10,15.0
+Slovenia,Daily ICU occupancy,2022-09-11,15.0
+Slovenia,Daily ICU occupancy,2022-09-12,16.0
+Slovenia,Daily ICU occupancy,2022-09-13,12.0
+Slovenia,Daily ICU occupancy,2022-09-14,12.0
+Slovenia,Daily ICU occupancy,2022-09-15,13.0
+Slovenia,Daily ICU occupancy,2022-09-16,14.0
+Slovenia,Daily ICU occupancy,2022-09-17,14.0
+Slovenia,Daily ICU occupancy,2022-09-18,14.0
+Slovenia,Daily ICU occupancy,2022-09-19,12.0
+Slovenia,Daily ICU occupancy,2022-09-20,9.0
+Slovenia,Daily ICU occupancy,2022-09-21,12.0
+Slovenia,Daily ICU occupancy,2022-09-22,14.0
+Slovenia,Daily ICU occupancy,2022-09-23,15.0
+Slovenia,Daily ICU occupancy,2022-09-24,17.0
+Slovenia,Daily ICU occupancy,2022-09-25,15.0
+Slovenia,Daily ICU occupancy,2022-09-26,16.0
+Slovenia,Daily ICU occupancy,2022-09-27,19.0
+Slovenia,Daily ICU occupancy,2022-09-28,18.0
+Slovenia,Daily ICU occupancy,2022-09-29,23.0
+Slovenia,Daily ICU occupancy,2022-09-30,22.0
+Slovenia,Daily ICU occupancy,2022-10-01,20.0
+Slovenia,Daily ICU occupancy,2022-10-02,23.0
+Slovenia,Daily ICU occupancy,2022-10-03,26.0
+Slovenia,Daily ICU occupancy,2022-10-04,29.0
+Slovenia,Daily ICU occupancy,2022-10-05,31.0
+Slovenia,Daily ICU occupancy,2022-10-06,26.0
+Slovenia,Daily ICU occupancy,2022-10-07,28.0
+Slovenia,Daily ICU occupancy,2022-10-08,25.0
+Slovenia,Daily ICU occupancy,2022-10-09,25.0
+Slovenia,Daily ICU occupancy,2022-10-10,25.0
+Slovenia,Daily ICU occupancy,2022-10-11,24.0
+Slovenia,Daily ICU occupancy,2022-10-12,27.0
+Slovenia,Daily ICU occupancy,2022-10-13,26.0
+Slovenia,Daily ICU occupancy,2022-10-14,20.0
+Slovenia,Daily ICU occupancy,2022-10-15,25.0
+Slovenia,Daily ICU occupancy,2022-10-16,26.0
+Slovenia,Daily ICU occupancy,2022-10-17,26.0
+Slovenia,Daily ICU occupancy,2022-10-18,25.0
+Slovenia,Daily ICU occupancy,2022-10-19,23.0
+Slovenia,Daily ICU occupancy,2022-10-20,22.0
+Slovenia,Daily ICU occupancy,2022-10-21,22.0
+Slovenia,Daily ICU occupancy,2022-10-22,20.0
+Slovenia,Daily ICU occupancy,2022-10-23,20.0
+Slovenia,Daily ICU occupancy,2022-10-24,20.0
+Slovenia,Daily ICU occupancy,2022-10-25,18.0
+Slovenia,Daily ICU occupancy,2022-10-26,19.0
+Slovenia,Daily ICU occupancy,2022-10-27,18.0
+Slovenia,Daily ICU occupancy,2022-10-28,19.0
+Slovenia,Daily ICU occupancy,2022-10-29,18.0
+Slovenia,Daily ICU occupancy,2022-10-30,15.0
+Slovenia,Daily ICU occupancy,2022-10-31,15.0
+Slovenia,Daily ICU occupancy,2022-11-01,17.0
+Slovenia,Daily ICU occupancy,2022-11-02,16.0
+Slovenia,Daily ICU occupancy,2022-11-03,15.0
+Slovenia,Daily ICU occupancy,2022-11-04,16.0
+Slovenia,Daily ICU occupancy,2022-11-05,17.0
+Slovenia,Daily ICU occupancy,2022-11-06,17.0
+Slovenia,Daily ICU occupancy,2022-11-07,18.0
+Slovenia,Daily ICU occupancy,2022-11-08,16.0
+Slovenia,Daily ICU occupancy,2022-11-09,16.0
+Slovenia,Daily ICU occupancy,2022-11-10,19.0
+Slovenia,Daily ICU occupancy,2022-11-11,19.0
+Slovenia,Daily ICU occupancy,2022-11-12,18.0
+Slovenia,Daily ICU occupancy,2022-11-13,20.0
+Slovenia,Daily ICU occupancy,2022-11-14,23.0
+Slovenia,Daily ICU occupancy,2022-11-15,20.0
+Slovenia,Daily ICU occupancy,2022-11-16,19.0
+Slovenia,Daily ICU occupancy,2022-11-17,20.0
+Slovenia,Daily ICU occupancy,2022-11-18,21.0
+Slovenia,Daily ICU occupancy,2022-11-19,20.0
+Slovenia,Daily ICU occupancy,2022-11-20,19.0
+Slovenia,Daily ICU occupancy,2022-11-21,19.0
+Slovenia,Daily ICU occupancy,2022-11-22,18.0
+Slovenia,Daily ICU occupancy,2022-11-23,17.0
+Slovenia,Daily ICU occupancy,2022-11-24,18.0
+Slovenia,Daily ICU occupancy,2022-11-25,18.0
+Slovenia,Daily ICU occupancy,2022-11-26,18.0
+Slovenia,Daily ICU occupancy,2022-11-27,20.0
+Slovenia,Daily ICU occupancy,2022-11-28,19.0
+Slovenia,Daily ICU occupancy,2022-11-29,19.0
+Slovenia,Daily ICU occupancy,2022-11-30,20.0
+Slovenia,Daily ICU occupancy,2022-12-01,19.0
+Slovenia,Daily ICU occupancy,2022-12-02,16.0
+Slovenia,Daily ICU occupancy,2022-12-03,17.0
+Slovenia,Daily ICU occupancy,2022-12-04,17.0
+Slovenia,Daily ICU occupancy,2022-12-05,18.0
+Slovenia,Daily ICU occupancy,2022-12-06,17.0
+Slovenia,Daily ICU occupancy,2022-12-07,16.0
+Slovenia,Daily ICU occupancy,2022-12-08,17.0
+Slovenia,Daily ICU occupancy,2022-12-09,16.0
+Slovenia,Daily ICU occupancy,2022-12-10,17.0
+Slovenia,Daily ICU occupancy,2022-12-11,20.0
+Slovenia,Daily ICU occupancy,2022-12-12,18.0
+Slovenia,Daily ICU occupancy,2022-12-13,17.0
+Slovenia,Daily ICU occupancy,2022-12-14,19.0
+Slovenia,Daily ICU occupancy,2022-12-15,22.0
+Slovenia,Daily ICU occupancy,2022-12-16,23.0
+Slovenia,Daily ICU occupancy,2022-12-17,22.0
+Slovenia,Daily ICU occupancy,2022-12-18,21.0
+Slovenia,Daily ICU occupancy,2022-12-19,25.0
+Slovenia,Daily ICU occupancy,2022-12-20,26.0
+Slovenia,Daily ICU occupancy,2022-12-21,28.0
+Slovenia,Daily ICU occupancy,2022-12-22,26.0
+Slovenia,Daily ICU occupancy,2022-12-23,27.0
+Slovenia,Daily ICU occupancy,2022-12-24,25.0
+Slovenia,Daily ICU occupancy,2022-12-25,24.0
+Slovenia,Daily ICU occupancy,2022-12-26,20.0
+Slovenia,Daily ICU occupancy,2022-12-27,22.0
+Slovenia,Daily ICU occupancy,2022-12-28,22.0
+Slovenia,Daily ICU occupancy,2022-12-29,21.0
+Slovenia,Daily ICU occupancy,2022-12-30,21.0
+Slovenia,Daily ICU occupancy,2022-12-31,23.0
+Slovenia,Daily ICU occupancy,2023-01-01,20.0
+Slovenia,Daily ICU occupancy,2023-01-02,21.0
+Slovenia,Daily ICU occupancy,2023-01-03,20.0
+Slovenia,Daily ICU occupancy,2023-01-04,26.0
+Slovenia,Daily ICU occupancy,2023-01-05,21.0
+Slovenia,Daily ICU occupancy,2023-01-06,22.0
+Slovenia,Daily ICU occupancy,2023-01-07,21.0
+Slovenia,Daily ICU occupancy,2023-01-08,22.0
+Slovenia,Daily ICU occupancy,2023-01-09,23.0
+Slovenia,Daily ICU occupancy,2023-01-10,21.0
+Slovenia,Daily ICU occupancy,2023-01-11,20.0
+Slovenia,Daily ICU occupancy,2023-01-12,24.0
+Slovenia,Daily ICU occupancy,2023-01-13,22.0
+Slovenia,Daily ICU occupancy,2023-01-14,21.0
+Slovenia,Daily ICU occupancy,2023-01-15,21.0
+Slovenia,Daily ICU occupancy,2023-01-16,18.0
+Slovenia,Daily ICU occupancy,2023-01-17,21.0
+Slovenia,Daily ICU occupancy,2023-01-18,21.0
+Slovenia,Daily ICU occupancy,2023-01-19,21.0
+Slovenia,Daily ICU occupancy,2023-01-20,18.0
+Slovenia,Daily ICU occupancy,2023-01-21,18.0
+Slovenia,Daily ICU occupancy,2023-01-22,15.0
+Slovenia,Daily ICU occupancy,2023-01-23,16.0
+Slovenia,Daily ICU occupancy,2023-01-24,17.0
+Slovenia,Daily ICU occupancy,2023-01-25,17.0
+Slovenia,Daily ICU occupancy,2023-01-26,17.0
+Slovenia,Daily ICU occupancy,2023-01-27,16.0
+Slovenia,Daily ICU occupancy,2023-01-28,16.0
+Slovenia,Daily ICU occupancy,2023-01-29,16.0
+Slovenia,Daily ICU occupancy,2023-01-30,15.0
+Slovenia,Daily ICU occupancy,2023-01-31,13.0
+Slovenia,Daily ICU occupancy,2023-02-01,11.0
+Slovenia,Daily ICU occupancy,2023-02-02,12.0
+Slovenia,Daily ICU occupancy,2023-02-03,10.0
+Slovenia,Daily ICU occupancy,2023-02-04,9.0
+Slovenia,Daily ICU occupancy,2023-02-05,8.0
+Slovenia,Daily ICU occupancy,2023-02-06,7.0
+Slovenia,Daily ICU occupancy,2023-02-07,6.0
+Slovenia,Daily ICU occupancy,2023-02-08,5.0
+Slovenia,Daily ICU occupancy,2023-02-09,4.0
+Slovenia,Daily ICU occupancy,2023-02-10,5.0
+Slovenia,Daily ICU occupancy,2023-02-11,4.0
+Slovenia,Daily ICU occupancy,2023-02-12,4.0
+Slovenia,Daily ICU occupancy,2023-02-13,4.0
+Slovenia,Daily ICU occupancy,2023-02-14,5.0
+Slovenia,Daily ICU occupancy,2023-02-15,5.0
+Slovenia,Daily ICU occupancy,2023-02-16,5.0
+Slovenia,Daily ICU occupancy,2023-02-17,5.0
+Slovenia,Daily ICU occupancy,2023-02-18,6.0
+Slovenia,Daily ICU occupancy,2023-02-19,6.0
+Slovenia,Daily ICU occupancy,2023-02-20,6.0
+Slovenia,Daily ICU occupancy,2023-02-21,5.0
+Slovenia,Daily ICU occupancy,2023-02-22,6.0
+Slovenia,Daily ICU occupancy,2023-02-23,4.0
+Slovenia,Daily ICU occupancy,2023-02-24,7.0
+Slovenia,Daily ICU occupancy,2023-02-25,5.0
+Slovenia,Daily ICU occupancy,2023-02-26,5.0
+Slovenia,Daily ICU occupancy,2023-02-27,6.0
+Slovenia,Daily ICU occupancy,2023-02-28,6.0
+Slovenia,Daily ICU occupancy,2023-03-01,5.0
+Slovenia,Daily ICU occupancy,2023-03-02,7.0
+Slovenia,Daily ICU occupancy,2023-03-03,8.0
+Slovenia,Daily ICU occupancy,2023-03-04,8.0
+Slovenia,Daily ICU occupancy,2023-03-05,8.0
+Slovenia,Daily ICU occupancy,2023-03-06,8.0
+Slovenia,Daily ICU occupancy,2023-03-07,5.0
+Slovenia,Daily ICU occupancy,2023-03-08,4.0
+Slovenia,Daily ICU occupancy,2023-03-09,5.0
+Slovenia,Daily ICU occupancy,2023-03-10,5.0
+Slovenia,Daily ICU occupancy,2023-03-11,4.0
+Slovenia,Daily ICU occupancy,2023-03-12,5.0
+Slovenia,Daily ICU occupancy,2023-03-13,5.0
+Slovenia,Daily ICU occupancy,2023-03-14,4.0
+Slovenia,Daily ICU occupancy,2023-03-15,4.0
+Slovenia,Daily ICU occupancy,2023-03-16,4.0
+Slovenia,Daily ICU occupancy,2023-03-17,5.0
+Slovenia,Daily ICU occupancy,2023-03-18,6.0
+Slovenia,Daily ICU occupancy,2023-03-19,6.0
+Slovenia,Daily ICU occupancy,2023-03-20,5.0
+Slovenia,Daily ICU occupancy,2023-03-21,6.0
+Slovenia,Daily ICU occupancy,2023-03-22,7.0
+Slovenia,Daily ICU occupancy,2023-03-23,6.0
+Slovenia,Daily ICU occupancy,2023-03-24,5.0
+Slovenia,Daily ICU occupancy,2023-03-25,6.0
+Slovenia,Daily ICU occupancy,2023-03-26,6.0
+Slovenia,Daily ICU occupancy,2023-03-27,6.0
+Slovenia,Daily ICU occupancy,2023-03-28,7.0
+Slovenia,Daily ICU occupancy,2023-03-29,8.0
+Slovenia,Daily ICU occupancy,2023-03-30,7.0
+Slovenia,Daily ICU occupancy,2023-03-31,8.0
+Slovenia,Weekly new hospital admissions,2020-03-15,34.20432141535132
+Slovenia,Weekly new hospital admissions,2020-03-22,41.246387589100124
+Slovenia,Weekly new ICU admissions,2020-03-22,8.048075627141488
+Slovenia,Weekly new hospital admissions,2020-03-29,77.46272791123681
+Slovenia,Weekly new ICU admissions,2020-03-29,18.108170161068347
+Slovenia,Weekly new hospital admissions,2020-04-05,52.31249157641967
+Slovenia,Weekly new ICU admissions,2020-04-05,13.078122894104917
+Slovenia,Weekly new hospital admissions,2020-04-12,56.33652938999041
+Slovenia,Weekly new ICU admissions,2020-04-12,13.078122894104917
+Slovenia,Weekly new hospital admissions,2020-04-19,45.27042540267087
+Slovenia,Weekly new ICU admissions,2020-04-19,8.048075627141488
+Slovenia,Weekly new hospital admissions,2020-04-26,24.144226881424462
+Slovenia,Weekly new ICU admissions,2020-04-26,4.024037813570743
+Slovenia,Weekly new hospital admissions,2020-05-03,18.108170161068347
+Slovenia,Weekly new ICU admissions,2020-05-03,4.024037813570743
+Slovenia,Weekly new hospital admissions,2020-05-10,7.0420661737488
+Slovenia,Weekly new ICU admissions,2020-05-10,0.0
+Slovenia,Weekly new hospital admissions,2020-05-24,0.0
+Slovenia,Weekly new ICU admissions,2020-05-24,1.0060094533926853
+Slovenia,Weekly new hospital admissions,2020-05-31,1.0060094533926853
+Slovenia,Weekly new ICU admissions,2020-05-31,0.0
+Slovenia,Weekly new hospital admissions,2020-06-07,1.0060094533926853
+Slovenia,Weekly new ICU admissions,2020-06-07,0.0
+Slovenia,Weekly new hospital admissions,2020-06-14,1.0060094533926853
+Slovenia,Weekly new ICU admissions,2020-06-14,0.0
+Slovenia,Weekly new hospital admissions,2020-06-21,3.0180283601780578
+Slovenia,Weekly new ICU admissions,2020-06-21,1.0060094533926853
+Slovenia,Weekly new hospital admissions,2020-06-28,3.0180283601780578
+Slovenia,Weekly new ICU admissions,2020-06-28,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2020-07-26,19.114179614461033
+Slovenia,Weekly new ICU admissions,2020-07-26,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2020-08-02,9.054085080534174
+Slovenia,Weekly new ICU admissions,2020-08-02,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2020-08-09,13.078122894104917
+Slovenia,Weekly new ICU admissions,2020-08-09,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2020-08-16,12.072113440712231
+Slovenia,Weekly new ICU admissions,2020-08-16,1.0060094533926853
+Slovenia,Weekly new hospital admissions,2020-08-23,11.066103987319547
+Slovenia,Weekly new ICU admissions,2020-08-23,0.0
+Slovenia,Weekly new hospital admissions,2020-08-30,15.090141800890288
+Slovenia,Weekly new ICU admissions,2020-08-30,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2020-09-06,17.10216070767566
+Slovenia,Weekly new ICU admissions,2020-09-06,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2020-09-13,30.180283601780577
+Slovenia,Weekly new ICU admissions,2020-09-13,4.024037813570743
+Slovenia,Weekly new hospital admissions,2020-09-20,54.324510483205046
+Slovenia,Weekly new ICU admissions,2020-09-20,11.066103987319547
+Slovenia,Weekly new hospital admissions,2020-09-27,72.43268064427339
+Slovenia,Weekly new ICU admissions,2020-09-27,14.084132347497603
+Slovenia,Weekly new hospital admissions,2020-10-04,85.51080353837831
+Slovenia,Weekly new ICU admissions,2020-10-04,6.0360567203561155
+Slovenia,Weekly new hospital admissions,2020-10-11,132.79324784783455
+Slovenia,Weekly new ICU admissions,2020-10-11,27.162255241602526
+Slovenia,Weekly new hospital admissions,2020-10-18,236.4122215472812
+Slovenia,Weekly new ICU admissions,2020-10-18,42.25239704249281
+Slovenia,Weekly new hospital admissions,2020-10-25,470.812424187777
+Slovenia,Weekly new ICU admissions,2020-10-25,57.3425388433831
+Slovenia,Weekly new hospital admissions,2020-11-01,706.2186362816656
+Slovenia,Weekly new ICU admissions,2020-11-01,113.67906823337351
+Slovenia,Weekly new hospital admissions,2020-11-08,912.4505742271663
+Slovenia,Weekly new ICU admissions,2020-11-08,127.76320058087111
+Slovenia,Weekly new hospital admissions,2020-11-15,894.3424040660979
+Slovenia,Weekly new ICU admissions,2020-11-15,128.7692100342638
+Slovenia,Weekly new hospital admissions,2020-11-22,741.4289671504094
+Slovenia,Weekly new ICU admissions,2020-11-22,124.74517222069306
+Slovenia,Weekly new hospital admissions,2020-11-29,865.1681299177097
+Slovenia,Weekly new ICU admissions,2020-11-29,120.7211344071223
+Slovenia,Weekly new hospital admissions,2020-12-06,826.9397706887879
+Slovenia,Weekly new ICU admissions,2020-12-06,121.72714386051501
+Slovenia,Weekly new hospital admissions,2020-12-13,859.1320731973537
+Slovenia,Weekly new ICU admissions,2020-12-13,135.81127620801263
+Slovenia,Weekly new hospital admissions,2020-12-20,732.3748820698754
+Slovenia,Weekly new ICU admissions,2020-12-20,109.65503041980276
+Slovenia,Weekly new hospital admissions,2020-12-27,693.1405133875606
+Slovenia,Weekly new ICU admissions,2020-12-27,111.66704932658814
+Slovenia,Weekly new hospital admissions,2021-01-03,755.5130994979071
+Slovenia,Weekly new ICU admissions,2021-01-03,106.6370020596247
+Slovenia,Weekly new hospital admissions,2021-01-10,748.4710333241584
+Slovenia,Weekly new ICU admissions,2021-01-10,111.66704932658814
+Slovenia,Weekly new hospital admissions,2021-01-17,752.495071137729
+Slovenia,Weekly new ICU admissions,2021-01-17,99.5949358858759
+Slovenia,Weekly new hospital admissions,2021-01-24,700.1825795613094
+Slovenia,Weekly new ICU admissions,2021-01-24,95.57089807230518
+Slovenia,Weekly new hospital admissions,2021-01-31,582.479473514365
+Slovenia,Weekly new ICU admissions,2021-01-31,80.48075627141488
+Slovenia,Weekly new hospital admissions,2021-02-07,500.9927077895576
+Slovenia,Weekly new ICU admissions,2021-02-07,71.42667119088071
+Slovenia,Weekly new hospital admissions,2021-02-14,372.2234977552938
+Slovenia,Weekly new ICU admissions,2021-02-14,56.33652938999041
+Slovenia,Weekly new hospital admissions,2021-02-21,280.67663749655935
+Slovenia,Weekly new ICU admissions,2021-02-21,46.27643485606355
+Slovenia,Weekly new hospital admissions,2021-02-28,318.9049967254814
+Slovenia,Weekly new ICU admissions,2021-02-28,57.3425388433831
+Slovenia,Weekly new hospital admissions,2021-03-07,318.9049967254814
+Slovenia,Weekly new ICU admissions,2021-03-07,37.22234977552938
+Slovenia,Weekly new hospital admissions,2021-03-14,269.6105335092399
+Slovenia,Weekly new ICU admissions,2021-03-14,53.31850102981235
+Slovenia,Weekly new hospital admissions,2021-03-21,327.9590818060156
+Slovenia,Weekly new ICU admissions,2021-03-21,52.31249157641967
+Slovenia,Weekly new hospital admissions,2021-03-28,372.2234977552938
+Slovenia,Weekly new ICU admissions,2021-03-28,62.37258611034653
+Slovenia,Weekly new hospital admissions,2021-04-04,400.391762450289
+Slovenia,Weekly new ICU admissions,2021-04-04,94.56488861891248
+Slovenia,Weekly new hospital admissions,2021-04-11,453.7102634801014
+Slovenia,Weekly new ICU admissions,2021-04-11,81.48676572480755
+Slovenia,Weekly new hospital admissions,2021-04-18,432.5840649588549
+Slovenia,Weekly new ICU admissions,2021-04-18,74.44469955105876
+Slovenia,Weekly new hospital admissions,2021-04-25,408.4398380774305
+Slovenia,Weekly new ICU admissions,2021-04-25,78.4687373646295
+Slovenia,Weekly new hospital admissions,2021-05-02,368.1994599417231
+Slovenia,Weekly new ICU admissions,2021-05-02,66.39662392391728
+Slovenia,Weekly new hospital admissions,2021-05-09,282.6886564033448
+Slovenia,Weekly new ICU admissions,2021-05-09,63.378595563739225
+Slovenia,Weekly new hospital admissions,2021-05-16,236.4122215472812
+Slovenia,Weekly new ICU admissions,2021-05-16,42.25239704249281
+Slovenia,Weekly new hospital admissions,2021-05-23,161.96752199622244
+Slovenia,Weekly new ICU admissions,2021-05-23,49.29446321624162
+Slovenia,Weekly new hospital admissions,2021-05-30,122.73315331390768
+Slovenia,Weekly new ICU admissions,2021-05-30,26.156245788209834
+Slovenia,Weekly new hospital admissions,2021-06-06,98.58892643248323
+Slovenia,Weekly new ICU admissions,2021-06-06,14.084132347497603
+Slovenia,Weekly new hospital admissions,2021-06-13,84.50479408498562
+Slovenia,Weekly new ICU admissions,2021-06-13,19.114179614461033
+Slovenia,Weekly new hospital admissions,2021-06-20,50.3004726696343
+Slovenia,Weekly new ICU admissions,2021-06-20,14.084132347497603
+Slovenia,Weekly new hospital admissions,2021-06-27,27.162255241602526
+Slovenia,Weekly new ICU admissions,2021-06-27,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2021-07-04,25.15023633481715
+Slovenia,Weekly new ICU admissions,2021-07-04,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2021-07-11,18.108170161068347
+Slovenia,Weekly new ICU admissions,2021-07-11,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2021-07-18,8.048075627141488
+Slovenia,Weekly new ICU admissions,2021-07-18,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2021-07-25,15.090141800890288
+Slovenia,Weekly new ICU admissions,2021-07-25,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2021-08-01,14.084132347497603
+Slovenia,Weekly new ICU admissions,2021-08-01,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2021-08-08,20.12018906785372
+Slovenia,Weekly new ICU admissions,2021-08-08,4.024037813570743
+Slovenia,Weekly new hospital admissions,2021-08-15,39.234368682314766
+Slovenia,Weekly new ICU admissions,2021-08-15,5.030047266963428
+Slovenia,Weekly new hospital admissions,2021-08-22,58.34854829677578
+Slovenia,Weekly new ICU admissions,2021-08-22,15.090141800890288
+Slovenia,Weekly new hospital admissions,2021-08-29,137.82329511479796
+Slovenia,Weekly new ICU admissions,2021-08-29,17.10216070767566
+Slovenia,Weekly new hospital admissions,2021-09-05,185.1057394242542
+Slovenia,Weekly new ICU admissions,2021-09-05,31.186293055173266
+Slovenia,Weekly new hospital admissions,2021-09-12,225.3461175599617
+Slovenia,Weekly new ICU admissions,2021-09-12,48.288453762848924
+Slovenia,Weekly new hospital admissions,2021-09-19,262.56846733549105
+Slovenia,Weekly new ICU admissions,2021-09-19,57.3425388433831
+Slovenia,Weekly new hospital admissions,2021-09-26,279.67062804316663
+Slovenia,Weekly new ICU admissions,2021-09-26,57.3425388433831
+Slovenia,Weekly new hospital admissions,2021-10-03,306.83288328476925
+Slovenia,Weekly new ICU admissions,2021-10-03,67.40263337730995
+Slovenia,Weekly new hospital admissions,2021-10-10,267.5985146024545
+Slovenia,Weekly new ICU admissions,2021-10-10,61.36657665695384
+Slovenia,Weekly new hospital admissions,2021-10-17,259.55043897531294
+Slovenia,Weekly new ICU admissions,2021-10-17,56.33652938999041
+Slovenia,Weekly new hospital admissions,2021-10-24,358.13936540779616
+Slovenia,Weekly new ICU admissions,2021-10-24,66.39662392391728
+Slovenia,Weekly new hospital admissions,2021-10-31,530.1669819379455
+Slovenia,Weekly new ICU admissions,2021-10-31,91.54686025873443
+Slovenia,Weekly new hospital admissions,2021-11-07,655.9181636120312
+Slovenia,Weekly new ICU admissions,2021-11-07,124.74517222069306
+Slovenia,Weekly new hospital admissions,2021-11-14,726.3388253495193
+Slovenia,Weekly new ICU admissions,2021-11-14,145.87137074193947
+Slovenia,Weekly new hospital admissions,2021-11-21,741.4289671504094
+Slovenia,Weekly new ICU admissions,2021-11-21,161.96752199622244
+Slovenia,Weekly new hospital admissions,2021-11-28,692.1345039341679
+Slovenia,Weekly new ICU admissions,2021-11-28,161.96752199622244
+Slovenia,Weekly new hospital admissions,2021-12-05,580.4674546075797
+Slovenia,Weekly new ICU admissions,2021-12-05,136.8172856614053
+Slovenia,Weekly new hospital admissions,2021-12-12,466.78838637420625
+Slovenia,Weekly new ICU admissions,2021-12-12,103.61897369944666
+Slovenia,Weekly new hospital admissions,2021-12-19,332.98912907297904
+Slovenia,Weekly new ICU admissions,2021-12-19,90.54085080534173
+Slovenia,Weekly new hospital admissions,2021-12-26,285.7066847635228
+Slovenia,Weekly new ICU admissions,2021-12-26,75.45070900445144
+Slovenia,Weekly new hospital admissions,2022-01-02,284.7006753101302
+Slovenia,Weekly new ICU admissions,2022-01-02,75.45070900445144
+Slovenia,Weekly new hospital admissions,2022-01-09,329.971100712801
+Slovenia,Weekly new ICU admissions,2022-01-09,77.46272791123681
+Slovenia,Weekly new hospital admissions,2022-01-16,379.26556392904257
+Slovenia,Weekly new ICU admissions,2022-01-16,67.40263337730995
+Slovenia,Weekly new hospital admissions,2022-01-23,455.7222823868868
+Slovenia,Weekly new ICU admissions,2022-01-23,58.34854829677578
+Slovenia,Weekly new hospital admissions,2022-01-30,603.6056720356116
+Slovenia,Weekly new ICU admissions,2022-01-30,87.52282244516367
+Slovenia,Weekly new hospital admissions,2022-02-06,671.0083054129216
+Slovenia,Weekly new ICU admissions,2022-02-06,88.52883189855638
+Slovenia,Weekly new hospital admissions,2022-02-13,684.0864283070265
+Slovenia,Weekly new ICU admissions,2022-02-13,91.54686025873443
+Slovenia,Weekly new hospital admissions,2022-02-20,580.4674546075797
+Slovenia,Weekly new ICU admissions,2022-02-20,62.37258611034653
+Slovenia,Weekly new hospital admissions,2022-02-27,354.1153275942255
+Slovenia,Weekly new ICU admissions,2022-02-27,59.35455775016847
+Slovenia,Weekly new hospital admissions,2022-03-06,253.51438225495687
+Slovenia,Weekly new ICU admissions,2022-03-06,26.156245788209834
+Slovenia,Weekly new hospital admissions,2022-03-13,226.35212701335433
+Slovenia,Weekly new ICU admissions,2022-03-13,39.234368682314766
+Slovenia,Weekly new hospital admissions,2022-03-20,203.21390958532257
+Slovenia,Weekly new ICU admissions,2022-03-20,22.132207974639094
+Slovenia,Weekly new hospital admissions,2022-03-27,224.34010810656898
+Slovenia,Weekly new ICU admissions,2022-03-27,37.22234977552938
+Slovenia,Weekly new hospital admissions,2022-04-03,221.32207974639093
+Slovenia,Weekly new ICU admissions,2022-04-03,16.096151254282976
+Slovenia,Weekly new hospital admissions,2022-04-10,207.2379473988933
+Slovenia,Weekly new ICU admissions,2022-04-10,30.180283601780577
+Slovenia,Weekly new hospital admissions,2022-04-17,141.84733292836873
+Slovenia,Weekly new ICU admissions,2022-04-17,14.084132347497603
+Slovenia,Weekly new hospital admissions,2022-04-24,133.79925730122724
+Slovenia,Weekly new ICU admissions,2022-04-24,17.10216070767566
+Slovenia,Weekly new hospital admissions,2022-05-01,132.79324784783455
+Slovenia,Weekly new ICU admissions,2022-05-01,15.090141800890288
+Slovenia,Weekly new hospital admissions,2022-05-08,99.5949358858759
+Slovenia,Weekly new ICU admissions,2022-05-08,14.084132347497603
+Slovenia,Weekly new hospital admissions,2022-05-15,62.37258611034653
+Slovenia,Weekly new ICU admissions,2022-05-15,10.06009453392686
+Slovenia,Weekly new hospital admissions,2022-05-22,35.21033086874401
+Slovenia,Weekly new ICU admissions,2022-05-22,5.030047266963428
+Slovenia,Weekly new hospital admissions,2022-05-29,32.19230250856595
+Slovenia,Weekly new ICU admissions,2022-05-29,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2022-06-05,34.20432141535132
+Slovenia,Weekly new ICU admissions,2022-06-05,5.030047266963428
+Slovenia,Weekly new hospital admissions,2022-06-12,29.17427414838789
+Slovenia,Weekly new ICU admissions,2022-06-12,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2022-06-19,30.180283601780577
+Slovenia,Weekly new ICU admissions,2022-06-19,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2022-06-26,44.26441594927819
+Slovenia,Weekly new ICU admissions,2022-06-26,7.0420661737488
+Slovenia,Weekly new hospital admissions,2022-07-03,85.51080353837831
+Slovenia,Weekly new ICU admissions,2022-07-03,4.024037813570743
+Slovenia,Weekly new hospital admissions,2022-07-10,84.50479408498562
+Slovenia,Weekly new ICU admissions,2022-07-10,8.048075627141488
+Slovenia,Weekly new hospital admissions,2022-07-17,150.9014180089029
+Slovenia,Weekly new ICU admissions,2022-07-17,12.072113440712231
+Slovenia,Weekly new hospital admissions,2022-07-24,139.83531402158334
+Slovenia,Weekly new ICU admissions,2022-07-24,20.12018906785372
+Slovenia,Weekly new hospital admissions,2022-07-31,107.64301151301741
+Slovenia,Weekly new ICU admissions,2022-07-31,12.072113440712231
+Slovenia,Weekly new hospital admissions,2022-08-07,120.7211344071223
+Slovenia,Weekly new ICU admissions,2022-08-07,12.072113440712231
+Slovenia,Weekly new hospital admissions,2022-08-14,123.73916276730037
+Slovenia,Weekly new ICU admissions,2022-08-14,10.06009453392686
+Slovenia,Weekly new hospital admissions,2022-08-21,104.62498315283933
+Slovenia,Weekly new ICU admissions,2022-08-21,13.078122894104917
+Slovenia,Weekly new hospital admissions,2022-08-28,94.56488861891248
+Slovenia,Weekly new ICU admissions,2022-08-28,13.078122894104917
+Slovenia,Weekly new hospital admissions,2022-09-04,101.60695479266128
+Slovenia,Weekly new ICU admissions,2022-09-04,6.0360567203561155
+Slovenia,Weekly new hospital admissions,2022-09-11,73.43869009766607
+Slovenia,Weekly new ICU admissions,2022-09-11,7.0420661737488
+Slovenia,Weekly new hospital admissions,2022-09-18,90.54085080534173
+Slovenia,Weekly new ICU admissions,2022-09-18,10.06009453392686
+Slovenia,Weekly new hospital admissions,2022-09-25,80.48075627141488
+Slovenia,Weekly new ICU admissions,2022-09-25,13.078122894104917
+Slovenia,Weekly new hospital admissions,2022-10-02,141.84733292836873
+Slovenia,Weekly new ICU admissions,2022-10-02,21.126198521246405
+Slovenia,Weekly new hospital admissions,2022-10-09,132.79324784783455
+Slovenia,Weekly new ICU admissions,2022-10-09,20.12018906785372
+Slovenia,Weekly new hospital admissions,2022-10-16,119.71512495372963
+Slovenia,Weekly new ICU admissions,2022-10-16,17.10216070767566
+Slovenia,Weekly new hospital admissions,2022-10-23,86.51681299177099
+Slovenia,Weekly new ICU admissions,2022-10-23,7.0420661737488
+Slovenia,Weekly new hospital admissions,2022-10-30,91.54686025873443
+Slovenia,Weekly new ICU admissions,2022-10-30,12.072113440712231
+Slovenia,Weekly new hospital admissions,2022-11-06,94.56488861891248
+Slovenia,Weekly new ICU admissions,2022-11-06,8.048075627141488
+Slovenia,Weekly new hospital admissions,2022-11-13,91.54686025873443
+Slovenia,Weekly new ICU admissions,2022-11-13,11.066103987319547
+Slovenia,Weekly new hospital admissions,2022-11-20,93.5588791655198
+Slovenia,Weekly new ICU admissions,2022-11-20,12.072113440712231
+Slovenia,Weekly new hospital admissions,2022-11-27,98.58892643248323
+Slovenia,Weekly new ICU admissions,2022-11-27,7.0420661737488
+Slovenia,Weekly new hospital admissions,2022-12-04,98.58892643248323
+Slovenia,Weekly new ICU admissions,2022-12-04,7.0420661737488
+Slovenia,Weekly new hospital admissions,2022-12-11,128.7692100342638
+Slovenia,Weekly new ICU admissions,2022-12-11,11.066103987319547
+Slovenia,Weekly new hospital admissions,2022-12-18,163.9795409030078
+Slovenia,Weekly new ICU admissions,2022-12-18,17.10216070767566
+Slovenia,Weekly new hospital admissions,2022-12-25,142.85334238176142
+Slovenia,Weekly new ICU admissions,2022-12-25,21.126198521246405
+Slovenia,Weekly new hospital admissions,2023-01-01,141.84733292836873
+Slovenia,Weekly new ICU admissions,2023-01-01,20.12018906785372
+Slovenia,Weekly new hospital admissions,2023-01-08,123.73916276730037
+Slovenia,Weekly new ICU admissions,2023-01-08,18.108170161068347
+Slovenia,Weekly new hospital admissions,2023-01-15,94.56488861891248
+Slovenia,Weekly new ICU admissions,2023-01-15,16.096151254282976
+Slovenia,Weekly new hospital admissions,2023-01-22,69.41465228409534
+Slovenia,Weekly new ICU admissions,2023-01-22,6.0360567203561155
+Slovenia,Weekly new hospital admissions,2023-01-29,45.27042540267087
+Slovenia,Weekly new ICU admissions,2023-01-29,5.030047266963428
+Slovenia,Weekly new hospital admissions,2023-02-05,35.21033086874401
+Slovenia,Weekly new ICU admissions,2023-02-05,2.0120189067853707
+Slovenia,Weekly new hospital admissions,2023-02-12,23.138217428031776
+Slovenia,Weekly new ICU admissions,2023-02-12,1.0060094533926853
+Slovenia,Weekly new hospital admissions,2023-02-19,34.20432141535132
+Slovenia,Weekly new ICU admissions,2023-02-19,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2023-02-26,35.21033086874401
+Slovenia,Weekly new ICU admissions,2023-02-26,5.030047266963428
+Slovenia,Weekly new hospital admissions,2023-03-05,56.33652938999041
+Slovenia,Weekly new ICU admissions,2023-03-05,6.0360567203561155
+Slovenia,Weekly new hospital admissions,2023-03-12,43.258406495885495
+Slovenia,Weekly new ICU admissions,2023-03-12,5.030047266963428
+Slovenia,Weekly new hospital admissions,2023-03-26,62.37258611034653
+Slovenia,Weekly new ICU admissions,2023-03-26,8.048075627141488
+Slovenia,Weekly new hospital admissions,2020-05-17,4.024037813570743
+Slovenia,Weekly new ICU admissions,2020-05-17,0.0
+Slovenia,Weekly new hospital admissions,2020-07-05,4.024037813570743
+Slovenia,Weekly new ICU admissions,2020-07-05,0.0
+Slovenia,Weekly new hospital admissions,2020-07-12,15.090141800890288
+Slovenia,Weekly new ICU admissions,2020-07-12,1.0060094533926853
+Slovenia,Weekly new hospital admissions,2020-07-19,11.066103987319547
+Slovenia,Weekly new ICU admissions,2020-07-19,3.0180283601780578
+Slovenia,Weekly new hospital admissions,2023-03-19,76.45671845784413
+Slovenia,Weekly new ICU admissions,2023-03-19,5.030047266963428
+Slovenia,Weekly new hospital admissions,2020-02-12,0.0
+Slovenia,Weekly new hospital admissions,2020-03-01,0.0
+Slovenia,Weekly new hospital admissions,2020-03-08,21.126198521246405

@@ -1,0 +1,3100 @@
+date,indicator,value,entity
+2020-03-01,Weekly new hospital admissions,24.0,Germany
+2020-03-02,Weekly new hospital admissions,29.0,Germany
+2020-03-03,Weekly new hospital admissions,47.0,Germany
+2020-03-04,Weekly new hospital admissions,66.0,Germany
+2020-03-05,Weekly new hospital admissions,79.0,Germany
+2020-03-06,Weekly new hospital admissions,94.0,Germany
+2020-03-07,Weekly new hospital admissions,135.0,Germany
+2020-03-08,Weekly new hospital admissions,151.0,Germany
+2020-03-09,Weekly new hospital admissions,162.0,Germany
+2020-03-10,Weekly new hospital admissions,184.0,Germany
+2020-03-11,Weekly new hospital admissions,223.0,Germany
+2020-03-12,Weekly new hospital admissions,264.0,Germany
+2020-03-13,Weekly new hospital admissions,323.0,Germany
+2020-03-14,Weekly new hospital admissions,397.0,Germany
+2020-03-15,Weekly new hospital admissions,455.0,Germany
+2020-03-16,Weekly new hospital admissions,529.0,Germany
+2020-03-17,Weekly new hospital admissions,690.0,Germany
+2020-03-18,Weekly new hospital admissions,861.0,Germany
+2020-03-19,Weekly new hospital admissions,1131.0,Germany
+2020-03-20,Weekly new hospital admissions,1404.0,Germany
+2020-03-21,Weekly new hospital admissions,1691.0,Germany
+2020-03-22,Weekly new hospital admissions,2019.0,Germany
+2020-03-23,Weekly new hospital admissions,2235.0,Germany
+2020-03-24,Weekly new hospital admissions,2537.0,Germany
+2020-03-25,Weekly new hospital admissions,3002.0,Germany
+2020-03-26,Weekly new hospital admissions,3493.0,Germany
+2020-03-27,Weekly new hospital admissions,3983.0,Germany
+2020-03-28,Weekly new hospital admissions,4471.0,Germany
+2020-03-29,Weekly new hospital admissions,4870.0,Germany
+2020-03-30,Weekly new hospital admissions,5152.0,Germany
+2020-03-31,Weekly new hospital admissions,5484.0,Germany
+2020-04-01,Weekly new hospital admissions,5911.0,Germany
+2020-04-02,Weekly new hospital admissions,6133.0,Germany
+2020-04-03,Weekly new hospital admissions,6263.0,Germany
+2020-04-04,Weekly new hospital admissions,6355.0,Germany
+2020-04-05,Weekly new hospital admissions,6239.0,Germany
+2020-04-06,Weekly new hospital admissions,6108.0,Germany
+2020-04-07,Weekly new hospital admissions,6037.0,Germany
+2020-04-08,Weekly new hospital admissions,5788.0,Germany
+2020-04-09,Weekly new hospital admissions,5629.0,Germany
+2020-04-10,Weekly new hospital admissions,5454.0,Germany
+2020-04-11,Weekly new hospital admissions,4986.0,Germany
+2020-04-12,Weekly new hospital admissions,4812.0,Germany
+2020-04-13,Weekly new hospital admissions,4748.0,Germany
+2020-04-14,Weekly new hospital admissions,4371.0,Germany
+2020-04-15,Weekly new hospital admissions,4077.0,Germany
+2020-04-16,Weekly new hospital admissions,3873.0,Germany
+2020-04-17,Weekly new hospital admissions,3660.0,Germany
+2020-04-18,Weekly new hospital admissions,3654.0,Germany
+2020-04-19,Weekly new hospital admissions,3514.0,Germany
+2020-04-20,Weekly new hospital admissions,3393.0,Germany
+2020-04-21,Weekly new hospital admissions,3426.0,Germany
+2020-04-22,Weekly new hospital admissions,3249.0,Germany
+2020-04-23,Weekly new hospital admissions,3004.0,Germany
+2020-04-24,Weekly new hospital admissions,2734.0,Germany
+2020-04-25,Weekly new hospital admissions,2529.0,Germany
+2020-04-26,Weekly new hospital admissions,2388.0,Germany
+2020-04-27,Weekly new hospital admissions,2237.0,Germany
+2020-04-28,Weekly new hospital admissions,2058.0,Germany
+2020-04-29,Weekly new hospital admissions,1967.0,Germany
+2020-04-30,Weekly new hospital admissions,1770.0,Germany
+2020-05-01,Weekly new hospital admissions,1714.0,Germany
+2020-05-02,Weekly new hospital admissions,1543.0,Germany
+2020-05-03,Weekly new hospital admissions,1415.0,Germany
+2020-05-04,Weekly new hospital admissions,1367.0,Germany
+2020-05-05,Weekly new hospital admissions,1291.0,Germany
+2020-05-06,Weekly new hospital admissions,1192.0,Germany
+2020-05-07,Weekly new hospital admissions,1165.0,Germany
+2020-05-08,Weekly new hospital admissions,1104.0,Germany
+2020-05-09,Weekly new hospital admissions,1111.0,Germany
+2020-05-10,Weekly new hospital admissions,1094.0,Germany
+2020-05-11,Weekly new hospital admissions,1083.0,Germany
+2020-05-12,Weekly new hospital admissions,1066.0,Germany
+2020-05-13,Weekly new hospital admissions,1006.0,Germany
+2020-05-14,Weekly new hospital admissions,921.0,Germany
+2020-05-15,Weekly new hospital admissions,841.0,Germany
+2020-05-16,Weekly new hospital admissions,811.0,Germany
+2020-05-17,Weekly new hospital admissions,781.0,Germany
+2020-05-18,Weekly new hospital admissions,763.0,Germany
+2020-05-19,Weekly new hospital admissions,688.0,Germany
+2020-05-20,Weekly new hospital admissions,651.0,Germany
+2020-05-21,Weekly new hospital admissions,626.0,Germany
+2020-05-22,Weekly new hospital admissions,560.0,Germany
+2020-05-23,Weekly new hospital admissions,529.0,Germany
+2020-05-24,Weekly new hospital admissions,520.0,Germany
+2020-05-25,Weekly new hospital admissions,515.0,Germany
+2020-05-26,Weekly new hospital admissions,522.0,Germany
+2020-05-27,Weekly new hospital admissions,489.0,Germany
+2020-05-28,Weekly new hospital admissions,456.0,Germany
+2020-05-29,Weekly new hospital admissions,479.0,Germany
+2020-05-30,Weekly new hospital admissions,445.0,Germany
+2020-05-31,Weekly new hospital admissions,435.0,Germany
+2020-06-01,Weekly new hospital admissions,419.0,Germany
+2020-06-02,Weekly new hospital admissions,366.0,Germany
+2020-06-03,Weekly new hospital admissions,337.0,Germany
+2020-06-04,Weekly new hospital admissions,340.0,Germany
+2020-06-05,Weekly new hospital admissions,317.0,Germany
+2020-06-06,Weekly new hospital admissions,308.0,Germany
+2020-06-07,Weekly new hospital admissions,307.0,Germany
+2020-06-08,Weekly new hospital admissions,306.0,Germany
+2020-06-09,Weekly new hospital admissions,311.0,Germany
+2020-06-10,Weekly new hospital admissions,300.0,Germany
+2020-06-11,Weekly new hospital admissions,284.0,Germany
+2020-06-12,Weekly new hospital admissions,266.0,Germany
+2020-06-13,Weekly new hospital admissions,283.0,Germany
+2020-06-14,Weekly new hospital admissions,278.0,Germany
+2020-06-15,Weekly new hospital admissions,293.0,Germany
+2020-06-16,Weekly new hospital admissions,298.0,Germany
+2020-06-17,Weekly new hospital admissions,319.0,Germany
+2020-06-18,Weekly new hospital admissions,310.0,Germany
+2020-06-19,Weekly new hospital admissions,327.0,Germany
+2020-06-20,Weekly new hospital admissions,327.0,Germany
+2020-06-21,Weekly new hospital admissions,332.0,Germany
+2020-06-22,Weekly new hospital admissions,323.0,Germany
+2020-06-23,Weekly new hospital admissions,327.0,Germany
+2020-06-24,Weekly new hospital admissions,319.0,Germany
+2020-06-25,Weekly new hospital admissions,322.0,Germany
+2020-06-26,Weekly new hospital admissions,326.0,Germany
+2020-06-27,Weekly new hospital admissions,323.0,Germany
+2020-06-28,Weekly new hospital admissions,309.0,Germany
+2020-06-29,Weekly new hospital admissions,297.0,Germany
+2020-06-30,Weekly new hospital admissions,304.0,Germany
+2020-07-01,Weekly new hospital admissions,293.0,Germany
+2020-07-02,Weekly new hospital admissions,280.0,Germany
+2020-07-03,Weekly new hospital admissions,268.0,Germany
+2020-07-04,Weekly new hospital admissions,263.0,Germany
+2020-07-05,Weekly new hospital admissions,262.0,Germany
+2020-07-06,Weekly new hospital admissions,262.0,Germany
+2020-07-07,Weekly new hospital admissions,254.0,Germany
+2020-07-08,Weekly new hospital admissions,249.0,Germany
+2020-07-09,Weekly new hospital admissions,267.0,Germany
+2020-07-10,Weekly new hospital admissions,261.0,Germany
+2020-07-11,Weekly new hospital admissions,250.0,Germany
+2020-07-12,Weekly new hospital admissions,257.0,Germany
+2020-07-13,Weekly new hospital admissions,258.0,Germany
+2020-07-14,Weekly new hospital admissions,261.0,Germany
+2020-07-15,Weekly new hospital admissions,264.0,Germany
+2020-07-16,Weekly new hospital admissions,272.0,Germany
+2020-07-17,Weekly new hospital admissions,292.0,Germany
+2020-07-18,Weekly new hospital admissions,309.0,Germany
+2020-07-19,Weekly new hospital admissions,313.0,Germany
+2020-07-20,Weekly new hospital admissions,322.0,Germany
+2020-07-21,Weekly new hospital admissions,332.0,Germany
+2020-07-22,Weekly new hospital admissions,343.0,Germany
+2020-07-23,Weekly new hospital admissions,342.0,Germany
+2020-07-24,Weekly new hospital admissions,331.0,Germany
+2020-07-25,Weekly new hospital admissions,334.0,Germany
+2020-07-26,Weekly new hospital admissions,347.0,Germany
+2020-07-27,Weekly new hospital admissions,335.0,Germany
+2020-07-28,Weekly new hospital admissions,343.0,Germany
+2020-07-29,Weekly new hospital admissions,346.0,Germany
+2020-07-30,Weekly new hospital admissions,358.0,Germany
+2020-07-31,Weekly new hospital admissions,370.0,Germany
+2020-08-01,Weekly new hospital admissions,371.0,Germany
+2020-08-02,Weekly new hospital admissions,366.0,Germany
+2020-08-03,Weekly new hospital admissions,387.0,Germany
+2020-08-04,Weekly new hospital admissions,385.0,Germany
+2020-08-05,Weekly new hospital admissions,411.0,Germany
+2020-08-06,Weekly new hospital admissions,403.0,Germany
+2020-08-07,Weekly new hospital admissions,403.0,Germany
+2020-08-08,Weekly new hospital admissions,412.0,Germany
+2020-08-09,Weekly new hospital admissions,418.0,Germany
+2020-08-10,Weekly new hospital admissions,406.0,Germany
+2020-08-11,Weekly new hospital admissions,427.0,Germany
+2020-08-12,Weekly new hospital admissions,408.0,Germany
+2020-08-13,Weekly new hospital admissions,424.0,Germany
+2020-08-14,Weekly new hospital admissions,441.0,Germany
+2020-08-15,Weekly new hospital admissions,448.0,Germany
+2020-08-16,Weekly new hospital admissions,437.0,Germany
+2020-08-17,Weekly new hospital admissions,446.0,Germany
+2020-08-18,Weekly new hospital admissions,446.0,Germany
+2020-08-19,Weekly new hospital admissions,457.0,Germany
+2020-08-20,Weekly new hospital admissions,444.0,Germany
+2020-08-21,Weekly new hospital admissions,442.0,Germany
+2020-08-22,Weekly new hospital admissions,439.0,Germany
+2020-08-23,Weekly new hospital admissions,446.0,Germany
+2020-08-24,Weekly new hospital admissions,435.0,Germany
+2020-08-25,Weekly new hospital admissions,426.0,Germany
+2020-08-26,Weekly new hospital admissions,411.0,Germany
+2020-08-27,Weekly new hospital admissions,397.0,Germany
+2020-08-28,Weekly new hospital admissions,395.0,Germany
+2020-08-29,Weekly new hospital admissions,383.0,Germany
+2020-08-30,Weekly new hospital admissions,372.0,Germany
+2020-08-31,Weekly new hospital admissions,376.0,Germany
+2020-09-01,Weekly new hospital admissions,367.0,Germany
+2020-09-02,Weekly new hospital admissions,377.0,Germany
+2020-09-03,Weekly new hospital admissions,377.0,Germany
+2020-09-04,Weekly new hospital admissions,371.0,Germany
+2020-09-05,Weekly new hospital admissions,377.0,Germany
+2020-09-06,Weekly new hospital admissions,398.0,Germany
+2020-09-07,Weekly new hospital admissions,405.0,Germany
+2020-09-08,Weekly new hospital admissions,406.0,Germany
+2020-09-09,Weekly new hospital admissions,405.0,Germany
+2020-09-10,Weekly new hospital admissions,428.0,Germany
+2020-09-11,Weekly new hospital admissions,445.0,Germany
+2020-09-12,Weekly new hospital admissions,449.0,Germany
+2020-09-13,Weekly new hospital admissions,458.0,Germany
+2020-09-14,Weekly new hospital admissions,474.0,Germany
+2020-09-15,Weekly new hospital admissions,503.0,Germany
+2020-09-16,Weekly new hospital admissions,547.0,Germany
+2020-09-17,Weekly new hospital admissions,578.0,Germany
+2020-09-18,Weekly new hospital admissions,642.0,Germany
+2020-09-19,Weekly new hospital admissions,686.0,Germany
+2020-09-20,Weekly new hospital admissions,684.0,Germany
+2020-09-21,Weekly new hospital admissions,686.0,Germany
+2020-09-22,Weekly new hospital admissions,716.0,Germany
+2020-09-23,Weekly new hospital admissions,713.0,Germany
+2020-09-24,Weekly new hospital admissions,748.0,Germany
+2020-09-25,Weekly new hospital admissions,756.0,Germany
+2020-09-26,Weekly new hospital admissions,754.0,Germany
+2020-09-27,Weekly new hospital admissions,780.0,Germany
+2020-09-28,Weekly new hospital admissions,787.0,Germany
+2020-09-29,Weekly new hospital admissions,797.0,Germany
+2020-09-30,Weekly new hospital admissions,826.0,Germany
+2020-10-01,Weekly new hospital admissions,837.0,Germany
+2020-10-02,Weekly new hospital admissions,830.0,Germany
+2020-10-03,Weekly new hospital admissions,848.0,Germany
+2020-10-04,Weekly new hospital admissions,881.0,Germany
+2020-10-05,Weekly new hospital admissions,891.0,Germany
+2020-10-06,Weekly new hospital admissions,960.0,Germany
+2020-10-07,Weekly new hospital admissions,1068.0,Germany
+2020-10-08,Weekly new hospital admissions,1212.0,Germany
+2020-10-09,Weekly new hospital admissions,1348.0,Germany
+2020-10-10,Weekly new hospital admissions,1484.0,Germany
+2020-10-11,Weekly new hospital admissions,1561.0,Germany
+2020-10-12,Weekly new hospital admissions,1620.0,Germany
+2020-10-13,Weekly new hospital admissions,1732.0,Germany
+2020-10-14,Weekly new hospital admissions,1786.0,Germany
+2020-10-15,Weekly new hospital admissions,1891.0,Germany
+2020-10-16,Weekly new hospital admissions,2029.0,Germany
+2020-10-17,Weekly new hospital admissions,2182.0,Germany
+2020-10-18,Weekly new hospital admissions,2266.0,Germany
+2020-10-19,Weekly new hospital admissions,2370.0,Germany
+2020-10-20,Weekly new hospital admissions,2539.0,Germany
+2020-10-21,Weekly new hospital admissions,2807.0,Germany
+2020-10-22,Weekly new hospital admissions,3114.0,Germany
+2020-10-23,Weekly new hospital admissions,3420.0,Germany
+2020-10-24,Weekly new hospital admissions,3712.0,Germany
+2020-10-25,Weekly new hospital admissions,3990.0,Germany
+2020-10-26,Weekly new hospital admissions,4177.0,Germany
+2020-10-27,Weekly new hospital admissions,4509.0,Germany
+2020-10-28,Weekly new hospital admissions,4862.0,Germany
+2020-10-29,Weekly new hospital admissions,5145.0,Germany
+2020-10-30,Weekly new hospital admissions,5389.0,Germany
+2020-10-31,Weekly new hospital admissions,5685.0,Germany
+2020-11-01,Weekly new hospital admissions,5855.0,Germany
+2020-11-02,Weekly new hospital admissions,6019.0,Germany
+2020-11-03,Weekly new hospital admissions,6263.0,Germany
+2020-11-04,Weekly new hospital admissions,6502.0,Germany
+2020-11-05,Weekly new hospital admissions,6645.0,Germany
+2020-11-06,Weekly new hospital admissions,6833.0,Germany
+2020-11-07,Weekly new hospital admissions,6894.0,Germany
+2020-11-08,Weekly new hospital admissions,6919.0,Germany
+2020-11-09,Weekly new hospital admissions,6945.0,Germany
+2020-11-10,Weekly new hospital admissions,6945.0,Germany
+2020-11-11,Weekly new hospital admissions,6953.0,Germany
+2020-11-12,Weekly new hospital admissions,7087.0,Germany
+2020-11-13,Weekly new hospital admissions,7288.0,Germany
+2020-11-14,Weekly new hospital admissions,7464.0,Germany
+2020-11-15,Weekly new hospital admissions,7660.0,Germany
+2020-11-16,Weekly new hospital admissions,7653.0,Germany
+2020-11-17,Weekly new hospital admissions,7793.0,Germany
+2020-11-18,Weekly new hospital admissions,8103.0,Germany
+2020-11-19,Weekly new hospital admissions,8152.0,Germany
+2020-11-20,Weekly new hospital admissions,8197.0,Germany
+2020-11-21,Weekly new hospital admissions,8271.0,Germany
+2020-11-22,Weekly new hospital admissions,8168.0,Germany
+2020-11-23,Weekly new hospital admissions,8215.0,Germany
+2020-11-24,Weekly new hospital admissions,8305.0,Germany
+2020-11-25,Weekly new hospital admissions,8216.0,Germany
+2020-11-26,Weekly new hospital admissions,8369.0,Germany
+2020-11-27,Weekly new hospital admissions,8358.0,Germany
+2020-11-28,Weekly new hospital admissions,8336.0,Germany
+2020-11-29,Weekly new hospital admissions,8440.0,Germany
+2020-11-30,Weekly new hospital admissions,8433.0,Germany
+2020-12-01,Weekly new hospital admissions,8414.0,Germany
+2020-12-02,Weekly new hospital admissions,8544.0,Germany
+2020-12-03,Weekly new hospital admissions,8625.0,Germany
+2020-12-04,Weekly new hospital admissions,8905.0,Germany
+2020-12-05,Weekly new hospital admissions,9122.0,Germany
+2020-12-06,Weekly new hospital admissions,9157.0,Germany
+2020-12-07,Weekly new hospital admissions,9279.0,Germany
+2020-12-08,Weekly new hospital admissions,9544.0,Germany
+2020-12-09,Weekly new hospital admissions,9867.0,Germany
+2020-12-10,Weekly new hospital admissions,10210.0,Germany
+2020-12-11,Weekly new hospital admissions,10552.0,Germany
+2020-12-12,Weekly new hospital admissions,10848.0,Germany
+2020-12-13,Weekly new hospital admissions,11200.0,Germany
+2020-12-14,Weekly new hospital admissions,11371.0,Germany
+2020-12-15,Weekly new hospital admissions,11607.0,Germany
+2020-12-16,Weekly new hospital admissions,11894.0,Germany
+2020-12-17,Weekly new hospital admissions,12153.0,Germany
+2020-12-18,Weekly new hospital admissions,12292.0,Germany
+2020-12-19,Weekly new hospital admissions,12579.0,Germany
+2020-12-20,Weekly new hospital admissions,12637.0,Germany
+2020-12-21,Weekly new hospital admissions,12693.0,Germany
+2020-12-22,Weekly new hospital admissions,12768.0,Germany
+2020-12-23,Weekly new hospital admissions,12991.0,Germany
+2020-12-24,Weekly new hospital admissions,13139.0,Germany
+2020-12-25,Weekly new hospital admissions,12292.0,Germany
+2020-12-26,Weekly new hospital admissions,11203.0,Germany
+2020-12-27,Weekly new hospital admissions,11008.0,Germany
+2020-12-28,Weekly new hospital admissions,11157.0,Germany
+2020-12-29,Weekly new hospital admissions,11189.0,Germany
+2020-12-30,Weekly new hospital admissions,11382.0,Germany
+2020-12-31,Weekly new hospital admissions,11255.0,Germany
+2021-01-01,Weekly new hospital admissions,11348.0,Germany
+2021-01-02,Weekly new hospital admissions,11219.0,Germany
+2021-01-03,Weekly new hospital admissions,11169.0,Germany
+2021-01-04,Weekly new hospital admissions,11084.0,Germany
+2021-01-05,Weekly new hospital admissions,10915.0,Germany
+2021-01-06,Weekly new hospital admissions,10557.0,Germany
+2021-01-07,Weekly new hospital admissions,10219.0,Germany
+2021-01-08,Weekly new hospital admissions,10743.0,Germany
+2021-01-09,Weekly new hospital admissions,11680.0,Germany
+2021-01-10,Weekly new hospital admissions,11671.0,Germany
+2021-01-11,Weekly new hospital admissions,11325.0,Germany
+2021-01-12,Weekly new hospital admissions,11071.0,Germany
+2021-01-13,Weekly new hospital admissions,10782.0,Germany
+2021-01-14,Weekly new hospital admissions,10680.0,Germany
+2021-01-15,Weekly new hospital admissions,10460.0,Germany
+2021-01-16,Weekly new hospital admissions,10212.0,Germany
+2021-01-17,Weekly new hospital admissions,10100.0,Germany
+2021-01-18,Weekly new hospital admissions,10080.0,Germany
+2021-01-19,Weekly new hospital admissions,9867.0,Germany
+2021-01-20,Weekly new hospital admissions,9679.0,Germany
+2021-01-21,Weekly new hospital admissions,9609.0,Germany
+2021-01-22,Weekly new hospital admissions,9386.0,Germany
+2021-01-23,Weekly new hospital admissions,9165.0,Germany
+2021-01-24,Weekly new hospital admissions,9127.0,Germany
+2021-01-25,Weekly new hospital admissions,8980.0,Germany
+2021-01-26,Weekly new hospital admissions,8853.0,Germany
+2021-01-27,Weekly new hospital admissions,8559.0,Germany
+2021-01-28,Weekly new hospital admissions,8373.0,Germany
+2021-01-29,Weekly new hospital admissions,8141.0,Germany
+2021-01-30,Weekly new hospital admissions,7933.0,Germany
+2021-01-31,Weekly new hospital admissions,7691.0,Germany
+2021-02-01,Weekly new hospital admissions,7604.0,Germany
+2021-02-02,Weekly new hospital admissions,7437.0,Germany
+2021-02-03,Weekly new hospital admissions,7270.0,Germany
+2021-02-04,Weekly new hospital admissions,6980.0,Germany
+2021-02-05,Weekly new hospital admissions,6905.0,Germany
+2021-02-06,Weekly new hospital admissions,6707.0,Germany
+2021-02-07,Weekly new hospital admissions,6635.0,Germany
+2021-02-08,Weekly new hospital admissions,6550.0,Germany
+2021-02-09,Weekly new hospital admissions,6332.0,Germany
+2021-02-10,Weekly new hospital admissions,6034.0,Germany
+2021-02-11,Weekly new hospital admissions,5849.0,Germany
+2021-02-12,Weekly new hospital admissions,5542.0,Germany
+2021-02-13,Weekly new hospital admissions,5412.0,Germany
+2021-02-14,Weekly new hospital admissions,5243.0,Germany
+2021-02-15,Weekly new hospital admissions,5263.0,Germany
+2021-02-16,Weekly new hospital admissions,5211.0,Germany
+2021-02-17,Weekly new hospital admissions,5231.0,Germany
+2021-02-18,Weekly new hospital admissions,5141.0,Germany
+2021-02-19,Weekly new hospital admissions,5168.0,Germany
+2021-02-20,Weekly new hospital admissions,5104.0,Germany
+2021-02-21,Weekly new hospital admissions,5214.0,Germany
+2021-02-22,Weekly new hospital admissions,5158.0,Germany
+2021-02-23,Weekly new hospital admissions,5149.0,Germany
+2021-02-24,Weekly new hospital admissions,5082.0,Germany
+2021-02-25,Weekly new hospital admissions,5077.0,Germany
+2021-02-26,Weekly new hospital admissions,4997.0,Germany
+2021-02-27,Weekly new hospital admissions,4980.0,Germany
+2021-02-28,Weekly new hospital admissions,4930.0,Germany
+2021-03-01,Weekly new hospital admissions,4877.0,Germany
+2021-03-02,Weekly new hospital admissions,4821.0,Germany
+2021-03-03,Weekly new hospital admissions,4780.0,Germany
+2021-03-04,Weekly new hospital admissions,4674.0,Germany
+2021-03-05,Weekly new hospital admissions,4566.0,Germany
+2021-03-06,Weekly new hospital admissions,4503.0,Germany
+2021-03-07,Weekly new hospital admissions,4480.0,Germany
+2021-03-08,Weekly new hospital admissions,4462.0,Germany
+2021-03-09,Weekly new hospital admissions,4402.0,Germany
+2021-03-10,Weekly new hospital admissions,4428.0,Germany
+2021-03-11,Weekly new hospital admissions,4463.0,Germany
+2021-03-12,Weekly new hospital admissions,4636.0,Germany
+2021-03-13,Weekly new hospital admissions,4732.0,Germany
+2021-03-14,Weekly new hospital admissions,4838.0,Germany
+2021-03-15,Weekly new hospital admissions,4950.0,Germany
+2021-03-16,Weekly new hospital admissions,5093.0,Germany
+2021-03-17,Weekly new hospital admissions,5249.0,Germany
+2021-03-18,Weekly new hospital admissions,5396.0,Germany
+2021-03-19,Weekly new hospital admissions,5496.0,Germany
+2021-03-20,Weekly new hospital admissions,5671.0,Germany
+2021-03-21,Weekly new hospital admissions,5706.0,Germany
+2021-03-22,Weekly new hospital admissions,5796.0,Germany
+2021-03-23,Weekly new hospital admissions,5909.0,Germany
+2021-03-24,Weekly new hospital admissions,6068.0,Germany
+2021-03-25,Weekly new hospital admissions,6331.0,Germany
+2021-03-26,Weekly new hospital admissions,6527.0,Germany
+2021-03-27,Weekly new hospital admissions,6699.0,Germany
+2021-03-28,Weekly new hospital admissions,6855.0,Germany
+2021-03-29,Weekly new hospital admissions,6918.0,Germany
+2021-03-30,Weekly new hospital admissions,7065.0,Germany
+2021-03-31,Weekly new hospital admissions,7160.0,Germany
+2021-04-01,Weekly new hospital admissions,7251.0,Germany
+2021-04-02,Weekly new hospital admissions,7283.0,Germany
+2021-04-03,Weekly new hospital admissions,7045.0,Germany
+2021-04-04,Weekly new hospital admissions,6968.0,Germany
+2021-04-05,Weekly new hospital admissions,6993.0,Germany
+2021-04-06,Weekly new hospital admissions,6757.0,Germany
+2021-04-07,Weekly new hospital admissions,6586.0,Germany
+2021-04-08,Weekly new hospital admissions,6811.0,Germany
+2021-04-09,Weekly new hospital admissions,7010.0,Germany
+2021-04-10,Weekly new hospital admissions,7428.0,Germany
+2021-04-11,Weekly new hospital admissions,7575.0,Germany
+2021-04-12,Weekly new hospital admissions,7655.0,Germany
+2021-04-13,Weekly new hospital admissions,7987.0,Germany
+2021-04-14,Weekly new hospital admissions,8289.0,Germany
+2021-04-15,Weekly new hospital admissions,8137.0,Germany
+2021-04-16,Weekly new hospital admissions,8007.0,Germany
+2021-04-17,Weekly new hospital admissions,7929.0,Germany
+2021-04-18,Weekly new hospital admissions,7925.0,Germany
+2021-04-19,Weekly new hospital admissions,7909.0,Germany
+2021-04-20,Weekly new hospital admissions,7987.0,Germany
+2021-04-21,Weekly new hospital admissions,8060.0,Germany
+2021-04-22,Weekly new hospital admissions,8035.0,Germany
+2021-04-23,Weekly new hospital admissions,8102.0,Germany
+2021-04-24,Weekly new hospital admissions,8125.0,Germany
+2021-04-25,Weekly new hospital admissions,8112.0,Germany
+2021-04-26,Weekly new hospital admissions,8040.0,Germany
+2021-04-27,Weekly new hospital admissions,7886.0,Germany
+2021-04-28,Weekly new hospital admissions,7626.0,Germany
+2021-04-29,Weekly new hospital admissions,7440.0,Germany
+2021-04-30,Weekly new hospital admissions,7184.0,Germany
+2021-05-01,Weekly new hospital admissions,6969.0,Germany
+2021-05-02,Weekly new hospital admissions,6869.0,Germany
+2021-05-03,Weekly new hospital admissions,6800.0,Germany
+2021-05-04,Weekly new hospital admissions,6645.0,Germany
+2021-05-05,Weekly new hospital admissions,6438.0,Germany
+2021-05-06,Weekly new hospital admissions,6263.0,Germany
+2021-05-07,Weekly new hospital admissions,6072.0,Germany
+2021-05-08,Weekly new hospital admissions,5878.0,Germany
+2021-05-09,Weekly new hospital admissions,5639.0,Germany
+2021-05-10,Weekly new hospital admissions,5530.0,Germany
+2021-05-11,Weekly new hospital admissions,5348.0,Germany
+2021-05-12,Weekly new hospital admissions,5188.0,Germany
+2021-05-13,Weekly new hospital admissions,4977.0,Germany
+2021-05-14,Weekly new hospital admissions,4553.0,Germany
+2021-05-15,Weekly new hospital admissions,4185.0,Germany
+2021-05-16,Weekly new hospital admissions,4116.0,Germany
+2021-05-17,Weekly new hospital admissions,4078.0,Germany
+2021-05-18,Weekly new hospital admissions,3932.0,Germany
+2021-05-19,Weekly new hospital admissions,3640.0,Germany
+2021-05-20,Weekly new hospital admissions,3367.0,Germany
+2021-05-21,Weekly new hospital admissions,3302.0,Germany
+2021-05-22,Weekly new hospital admissions,3239.0,Germany
+2021-05-23,Weekly new hospital admissions,3000.0,Germany
+2021-05-24,Weekly new hospital admissions,2804.0,Germany
+2021-05-25,Weekly new hospital admissions,2473.0,Germany
+2021-05-26,Weekly new hospital admissions,2195.0,Germany
+2021-05-27,Weekly new hospital admissions,2055.0,Germany
+2021-05-28,Weekly new hospital admissions,1934.0,Germany
+2021-05-29,Weekly new hospital admissions,1804.0,Germany
+2021-05-30,Weekly new hospital admissions,1744.0,Germany
+2021-05-31,Weekly new hospital admissions,1721.0,Germany
+2021-06-01,Weekly new hospital admissions,1757.0,Germany
+2021-06-02,Weekly new hospital admissions,1699.0,Germany
+2021-06-03,Weekly new hospital admissions,1504.0,Germany
+2021-06-04,Weekly new hospital admissions,1366.0,Germany
+2021-06-05,Weekly new hospital admissions,1232.0,Germany
+2021-06-06,Weekly new hospital admissions,1172.0,Germany
+2021-06-07,Weekly new hospital admissions,1144.0,Germany
+2021-06-08,Weekly new hospital admissions,1084.0,Germany
+2021-06-09,Weekly new hospital admissions,1017.0,Germany
+2021-06-10,Weekly new hospital admissions,951.0,Germany
+2021-06-11,Weekly new hospital admissions,935.0,Germany
+2021-06-12,Weekly new hospital admissions,910.0,Germany
+2021-06-13,Weekly new hospital admissions,841.0,Germany
+2021-06-14,Weekly new hospital admissions,810.0,Germany
+2021-06-15,Weekly new hospital admissions,772.0,Germany
+2021-06-16,Weekly new hospital admissions,693.0,Germany
+2021-06-17,Weekly new hospital admissions,645.0,Germany
+2021-06-18,Weekly new hospital admissions,591.0,Germany
+2021-06-19,Weekly new hospital admissions,553.0,Germany
+2021-06-20,Weekly new hospital admissions,549.0,Germany
+2021-06-21,Weekly new hospital admissions,529.0,Germany
+2021-06-22,Weekly new hospital admissions,499.0,Germany
+2021-06-23,Weekly new hospital admissions,478.0,Germany
+2021-06-24,Weekly new hospital admissions,446.0,Germany
+2021-06-25,Weekly new hospital admissions,423.0,Germany
+2021-06-26,Weekly new hospital admissions,399.0,Germany
+2021-06-27,Weekly new hospital admissions,379.0,Germany
+2021-06-28,Weekly new hospital admissions,367.0,Germany
+2021-06-29,Weekly new hospital admissions,347.0,Germany
+2021-06-30,Weekly new hospital admissions,330.0,Germany
+2021-07-01,Weekly new hospital admissions,325.0,Germany
+2021-07-02,Weekly new hospital admissions,332.0,Germany
+2021-07-03,Weekly new hospital admissions,331.0,Germany
+2021-07-04,Weekly new hospital admissions,321.0,Germany
+2021-07-05,Weekly new hospital admissions,321.0,Germany
+2021-07-06,Weekly new hospital admissions,330.0,Germany
+2021-07-07,Weekly new hospital admissions,335.0,Germany
+2021-07-08,Weekly new hospital admissions,330.0,Germany
+2021-07-09,Weekly new hospital admissions,315.0,Germany
+2021-07-10,Weekly new hospital admissions,337.0,Germany
+2021-07-11,Weekly new hospital admissions,364.0,Germany
+2021-07-12,Weekly new hospital admissions,364.0,Germany
+2021-07-13,Weekly new hospital admissions,368.0,Germany
+2021-07-14,Weekly new hospital admissions,376.0,Germany
+2021-07-15,Weekly new hospital admissions,393.0,Germany
+2021-07-16,Weekly new hospital admissions,396.0,Germany
+2021-07-17,Weekly new hospital admissions,398.0,Germany
+2021-07-18,Weekly new hospital admissions,396.0,Germany
+2021-07-19,Weekly new hospital admissions,415.0,Germany
+2021-07-20,Weekly new hospital admissions,449.0,Germany
+2021-07-21,Weekly new hospital admissions,472.0,Germany
+2021-07-22,Weekly new hospital admissions,503.0,Germany
+2021-07-23,Weekly new hospital admissions,541.0,Germany
+2021-07-24,Weekly new hospital admissions,571.0,Germany
+2021-07-25,Weekly new hospital admissions,594.0,Germany
+2021-07-26,Weekly new hospital admissions,588.0,Germany
+2021-07-27,Weekly new hospital admissions,577.0,Germany
+2021-07-28,Weekly new hospital admissions,638.0,Germany
+2021-07-29,Weekly new hospital admissions,687.0,Germany
+2021-07-30,Weekly new hospital admissions,715.0,Germany
+2021-07-31,Weekly new hospital admissions,753.0,Germany
+2021-08-01,Weekly new hospital admissions,761.0,Germany
+2021-08-02,Weekly new hospital admissions,790.0,Germany
+2021-08-03,Weekly new hospital admissions,864.0,Germany
+2021-08-04,Weekly new hospital admissions,887.0,Germany
+2021-08-05,Weekly new hospital admissions,890.0,Germany
+2021-08-06,Weekly new hospital admissions,932.0,Germany
+2021-08-07,Weekly new hospital admissions,961.0,Germany
+2021-08-08,Weekly new hospital admissions,1002.0,Germany
+2021-08-09,Weekly new hospital admissions,1011.0,Germany
+2021-08-10,Weekly new hospital admissions,1059.0,Germany
+2021-08-11,Weekly new hospital admissions,1162.0,Germany
+2021-08-12,Weekly new hospital admissions,1291.0,Germany
+2021-08-13,Weekly new hospital admissions,1416.0,Germany
+2021-08-14,Weekly new hospital admissions,1526.0,Germany
+2021-08-15,Weekly new hospital admissions,1607.0,Germany
+2021-08-16,Weekly new hospital admissions,1683.0,Germany
+2021-08-17,Weekly new hospital admissions,1809.0,Germany
+2021-08-18,Weekly new hospital admissions,1944.0,Germany
+2021-08-19,Weekly new hospital admissions,2058.0,Germany
+2021-08-20,Weekly new hospital admissions,2152.0,Germany
+2021-08-21,Weekly new hospital admissions,2233.0,Germany
+2021-08-22,Weekly new hospital admissions,2304.0,Germany
+2021-08-23,Weekly new hospital admissions,2367.0,Germany
+2021-08-24,Weekly new hospital admissions,2513.0,Germany
+2021-08-25,Weekly new hospital admissions,2701.0,Germany
+2021-08-26,Weekly new hospital admissions,2859.0,Germany
+2021-08-27,Weekly new hospital admissions,2967.0,Germany
+2021-08-28,Weekly new hospital admissions,3077.0,Germany
+2021-08-29,Weekly new hospital admissions,3184.0,Germany
+2021-08-30,Weekly new hospital admissions,3209.0,Germany
+2021-08-31,Weekly new hospital admissions,3181.0,Germany
+2021-09-01,Weekly new hospital admissions,3216.0,Germany
+2021-09-02,Weekly new hospital admissions,3220.0,Germany
+2021-09-03,Weekly new hospital admissions,3248.0,Germany
+2021-09-04,Weekly new hospital admissions,3294.0,Germany
+2021-09-05,Weekly new hospital admissions,3287.0,Germany
+2021-09-06,Weekly new hospital admissions,3290.0,Germany
+2021-09-07,Weekly new hospital admissions,3313.0,Germany
+2021-09-08,Weekly new hospital admissions,3311.0,Germany
+2021-09-09,Weekly new hospital admissions,3321.0,Germany
+2021-09-10,Weekly new hospital admissions,3355.0,Germany
+2021-09-11,Weekly new hospital admissions,3358.0,Germany
+2021-09-12,Weekly new hospital admissions,3339.0,Germany
+2021-09-13,Weekly new hospital admissions,3315.0,Germany
+2021-09-14,Weekly new hospital admissions,3303.0,Germany
+2021-09-15,Weekly new hospital admissions,3200.0,Germany
+2021-09-16,Weekly new hospital admissions,3143.0,Germany
+2021-09-17,Weekly new hospital admissions,3031.0,Germany
+2021-09-18,Weekly new hospital admissions,2929.0,Germany
+2021-09-19,Weekly new hospital admissions,2859.0,Germany
+2021-09-20,Weekly new hospital admissions,2802.0,Germany
+2021-09-21,Weekly new hospital admissions,2718.0,Germany
+2021-09-22,Weekly new hospital admissions,2641.0,Germany
+2021-09-23,Weekly new hospital admissions,2567.0,Germany
+2021-09-24,Weekly new hospital admissions,2560.0,Germany
+2021-09-25,Weekly new hospital admissions,2523.0,Germany
+2021-09-26,Weekly new hospital admissions,2489.0,Germany
+2021-09-27,Weekly new hospital admissions,2488.0,Germany
+2021-09-28,Weekly new hospital admissions,2506.0,Germany
+2021-09-29,Weekly new hospital admissions,2602.0,Germany
+2021-09-30,Weekly new hospital admissions,2633.0,Germany
+2021-10-01,Weekly new hospital admissions,2574.0,Germany
+2021-10-02,Weekly new hospital admissions,2565.0,Germany
+2021-10-03,Weekly new hospital admissions,2564.0,Germany
+2021-10-04,Weekly new hospital admissions,2556.0,Germany
+2021-10-05,Weekly new hospital admissions,2511.0,Germany
+2021-10-06,Weekly new hospital admissions,2420.0,Germany
+2021-10-07,Weekly new hospital admissions,2423.0,Germany
+2021-10-08,Weekly new hospital admissions,2474.0,Germany
+2021-10-09,Weekly new hospital admissions,2549.0,Germany
+2021-10-10,Weekly new hospital admissions,2605.0,Germany
+2021-10-11,Weekly new hospital admissions,2632.0,Germany
+2021-10-12,Weekly new hospital admissions,2726.0,Germany
+2021-10-13,Weekly new hospital admissions,2794.0,Germany
+2021-10-14,Weekly new hospital admissions,2814.0,Germany
+2021-10-15,Weekly new hospital admissions,2913.0,Germany
+2021-10-16,Weekly new hospital admissions,2966.0,Germany
+2021-10-17,Weekly new hospital admissions,3010.0,Germany
+2021-10-18,Weekly new hospital admissions,3072.0,Germany
+2021-10-19,Weekly new hospital admissions,3294.0,Germany
+2021-10-20,Weekly new hospital admissions,3657.0,Germany
+2021-10-21,Weekly new hospital admissions,3956.0,Germany
+2021-10-22,Weekly new hospital admissions,4206.0,Germany
+2021-10-23,Weekly new hospital admissions,4483.0,Germany
+2021-10-24,Weekly new hospital admissions,4697.0,Germany
+2021-10-25,Weekly new hospital admissions,4765.0,Germany
+2021-10-26,Weekly new hospital admissions,4896.0,Germany
+2021-10-27,Weekly new hospital admissions,5003.0,Germany
+2021-10-28,Weekly new hospital admissions,5333.0,Germany
+2021-10-29,Weekly new hospital admissions,5553.0,Germany
+2021-10-30,Weekly new hospital admissions,5724.0,Germany
+2021-10-31,Weekly new hospital admissions,5804.0,Germany
+2021-11-01,Weekly new hospital admissions,5922.0,Germany
+2021-11-02,Weekly new hospital admissions,5843.0,Germany
+2021-11-03,Weekly new hospital admissions,6057.0,Germany
+2021-11-04,Weekly new hospital admissions,6307.0,Germany
+2021-11-05,Weekly new hospital admissions,6594.0,Germany
+2021-11-06,Weekly new hospital admissions,6855.0,Germany
+2021-11-07,Weekly new hospital admissions,6979.0,Germany
+2021-11-08,Weekly new hospital admissions,7068.0,Germany
+2021-11-09,Weekly new hospital admissions,7530.0,Germany
+2021-11-10,Weekly new hospital admissions,7855.0,Germany
+2021-11-11,Weekly new hospital admissions,7968.0,Germany
+2021-11-12,Weekly new hospital admissions,8208.0,Germany
+2021-11-13,Weekly new hospital admissions,8416.0,Germany
+2021-11-14,Weekly new hospital admissions,8593.0,Germany
+2021-11-15,Weekly new hospital admissions,8804.0,Germany
+2021-11-16,Weekly new hospital admissions,9070.0,Germany
+2021-11-17,Weekly new hospital admissions,9467.0,Germany
+2021-11-18,Weekly new hospital admissions,9746.0,Germany
+2021-11-19,Weekly new hospital admissions,9947.0,Germany
+2021-11-20,Weekly new hospital admissions,10217.0,Germany
+2021-11-21,Weekly new hospital admissions,10274.0,Germany
+2021-11-22,Weekly new hospital admissions,10401.0,Germany
+2021-11-23,Weekly new hospital admissions,10643.0,Germany
+2021-11-24,Weekly new hospital admissions,10773.0,Germany
+2021-11-25,Weekly new hospital admissions,10944.0,Germany
+2021-11-26,Weekly new hospital admissions,11031.0,Germany
+2021-11-27,Weekly new hospital admissions,11027.0,Germany
+2021-11-28,Weekly new hospital admissions,11119.0,Germany
+2021-11-29,Weekly new hospital admissions,11036.0,Germany
+2021-11-30,Weekly new hospital admissions,10910.0,Germany
+2021-12-01,Weekly new hospital admissions,10646.0,Germany
+2021-12-02,Weekly new hospital admissions,10651.0,Germany
+2021-12-03,Weekly new hospital admissions,10588.0,Germany
+2021-12-04,Weekly new hospital admissions,10559.0,Germany
+2021-12-05,Weekly new hospital admissions,10579.0,Germany
+2021-12-06,Weekly new hospital admissions,10638.0,Germany
+2021-12-07,Weekly new hospital admissions,10725.0,Germany
+2021-12-08,Weekly new hospital admissions,10798.0,Germany
+2021-12-09,Weekly new hospital admissions,10607.0,Germany
+2021-12-10,Weekly new hospital admissions,10458.0,Germany
+2021-12-11,Weekly new hospital admissions,10213.0,Germany
+2021-12-12,Weekly new hospital admissions,10098.0,Germany
+2021-12-13,Weekly new hospital admissions,9842.0,Germany
+2021-12-14,Weekly new hospital admissions,9471.0,Germany
+2021-12-15,Weekly new hospital admissions,9268.0,Germany
+2021-12-16,Weekly new hospital admissions,8968.0,Germany
+2021-12-17,Weekly new hospital admissions,8663.0,Germany
+2021-12-18,Weekly new hospital admissions,8405.0,Germany
+2021-12-19,Weekly new hospital admissions,8167.0,Germany
+2021-12-20,Weekly new hospital admissions,8072.0,Germany
+2021-12-21,Weekly new hospital admissions,7840.0,Germany
+2021-12-22,Weekly new hospital admissions,7440.0,Germany
+2021-12-23,Weekly new hospital admissions,7048.0,Germany
+2021-12-24,Weekly new hospital admissions,6726.0,Germany
+2021-12-25,Weekly new hospital admissions,6089.0,Germany
+2021-12-26,Weekly new hospital admissions,5669.0,Germany
+2021-12-27,Weekly new hospital admissions,5572.0,Germany
+2021-12-28,Weekly new hospital admissions,5460.0,Germany
+2021-12-29,Weekly new hospital admissions,5354.0,Germany
+2021-12-30,Weekly new hospital admissions,5327.0,Germany
+2021-12-31,Weekly new hospital admissions,5328.0,Germany
+2022-01-01,Weekly new hospital admissions,5384.0,Germany
+2022-01-02,Weekly new hospital admissions,5386.0,Germany
+2022-01-03,Weekly new hospital admissions,5395.0,Germany
+2022-01-04,Weekly new hospital admissions,5456.0,Germany
+2022-01-05,Weekly new hospital admissions,5406.0,Germany
+2022-01-06,Weekly new hospital admissions,5344.0,Germany
+2022-01-07,Weekly new hospital admissions,5122.0,Germany
+2022-01-08,Weekly new hospital admissions,5332.0,Germany
+2022-01-09,Weekly new hospital admissions,5455.0,Germany
+2022-01-10,Weekly new hospital admissions,5399.0,Germany
+2022-01-11,Weekly new hospital admissions,5278.0,Germany
+2022-01-12,Weekly new hospital admissions,5061.0,Germany
+2022-01-13,Weekly new hospital admissions,5008.0,Germany
+2022-01-14,Weekly new hospital admissions,5107.0,Germany
+2022-01-15,Weekly new hospital admissions,5173.0,Germany
+2022-01-16,Weekly new hospital admissions,5227.0,Germany
+2022-01-17,Weekly new hospital admissions,5282.0,Germany
+2022-01-18,Weekly new hospital admissions,5467.0,Germany
+2022-01-19,Weekly new hospital admissions,5726.0,Germany
+2022-01-20,Weekly new hospital admissions,6037.0,Germany
+2022-01-21,Weekly new hospital admissions,6333.0,Germany
+2022-01-22,Weekly new hospital admissions,6695.0,Germany
+2022-01-23,Weekly new hospital admissions,6839.0,Germany
+2022-01-24,Weekly new hospital admissions,7064.0,Germany
+2022-01-25,Weekly new hospital admissions,7406.0,Germany
+2022-01-26,Weekly new hospital admissions,7745.0,Germany
+2022-01-27,Weekly new hospital admissions,7913.0,Germany
+2022-01-28,Weekly new hospital admissions,8121.0,Germany
+2022-01-29,Weekly new hospital admissions,8278.0,Germany
+2022-01-30,Weekly new hospital admissions,8464.0,Germany
+2022-01-31,Weekly new hospital admissions,8493.0,Germany
+2022-02-01,Weekly new hospital admissions,8620.0,Germany
+2022-02-02,Weekly new hospital admissions,8911.0,Germany
+2022-02-03,Weekly new hospital admissions,9325.0,Germany
+2022-02-04,Weekly new hospital admissions,9794.0,Germany
+2022-02-05,Weekly new hospital admissions,10101.0,Germany
+2022-02-06,Weekly new hospital admissions,10217.0,Germany
+2022-02-07,Weekly new hospital admissions,10311.0,Germany
+2022-02-08,Weekly new hospital admissions,10609.0,Germany
+2022-02-09,Weekly new hospital admissions,10889.0,Germany
+2022-02-10,Weekly new hospital admissions,10939.0,Germany
+2022-02-11,Weekly new hospital admissions,10866.0,Germany
+2022-02-12,Weekly new hospital admissions,10807.0,Germany
+2022-02-13,Weekly new hospital admissions,10709.0,Germany
+2022-02-14,Weekly new hospital admissions,10640.0,Germany
+2022-02-15,Weekly new hospital admissions,10540.0,Germany
+2022-02-16,Weekly new hospital admissions,10498.0,Germany
+2022-02-17,Weekly new hospital admissions,10540.0,Germany
+2022-02-18,Weekly new hospital admissions,10584.0,Germany
+2022-02-19,Weekly new hospital admissions,10565.0,Germany
+2022-02-20,Weekly new hospital admissions,10640.0,Germany
+2022-02-21,Weekly new hospital admissions,10707.0,Germany
+2022-02-22,Weekly new hospital admissions,10782.0,Germany
+2022-02-23,Weekly new hospital admissions,10670.0,Germany
+2022-02-24,Weekly new hospital admissions,10580.0,Germany
+2022-02-25,Weekly new hospital admissions,10434.0,Germany
+2022-02-26,Weekly new hospital admissions,10381.0,Germany
+2022-02-27,Weekly new hospital admissions,10373.0,Germany
+2022-02-28,Weekly new hospital admissions,10266.0,Germany
+2022-03-01,Weekly new hospital admissions,10068.0,Germany
+2022-03-02,Weekly new hospital admissions,9956.0,Germany
+2022-03-03,Weekly new hospital admissions,9915.0,Germany
+2022-03-04,Weekly new hospital admissions,9982.0,Germany
+2022-03-05,Weekly new hospital admissions,10000.0,Germany
+2022-03-06,Weekly new hospital admissions,9953.0,Germany
+2022-03-07,Weekly new hospital admissions,10017.0,Germany
+2022-03-08,Weekly new hospital admissions,10196.0,Germany
+2022-03-09,Weekly new hospital admissions,10571.0,Germany
+2022-03-10,Weekly new hospital admissions,10836.0,Germany
+2022-03-11,Weekly new hospital admissions,11100.0,Germany
+2022-03-12,Weekly new hospital admissions,11363.0,Germany
+2022-03-13,Weekly new hospital admissions,11537.0,Germany
+2022-03-14,Weekly new hospital admissions,11648.0,Germany
+2022-03-15,Weekly new hospital admissions,12159.0,Germany
+2022-03-16,Weekly new hospital admissions,12382.0,Germany
+2022-03-17,Weekly new hospital admissions,12581.0,Germany
+2022-03-18,Weekly new hospital admissions,12725.0,Germany
+2022-03-19,Weekly new hospital admissions,12801.0,Germany
+2022-03-20,Weekly new hospital admissions,12705.0,Germany
+2022-03-21,Weekly new hospital admissions,12633.0,Germany
+2022-03-22,Weekly new hospital admissions,12534.0,Germany
+2022-03-23,Weekly new hospital admissions,12564.0,Germany
+2022-03-24,Weekly new hospital admissions,12540.0,Germany
+2022-03-25,Weekly new hospital admissions,12425.0,Germany
+2022-03-26,Weekly new hospital admissions,12416.0,Germany
+2022-03-27,Weekly new hospital admissions,12452.0,Germany
+2022-03-28,Weekly new hospital admissions,12472.0,Germany
+2022-03-29,Weekly new hospital admissions,12459.0,Germany
+2022-03-30,Weekly new hospital admissions,12322.0,Germany
+2022-03-31,Weekly new hospital admissions,12108.0,Germany
+2022-04-01,Weekly new hospital admissions,11907.0,Germany
+2022-04-02,Weekly new hospital admissions,11472.0,Germany
+2022-04-03,Weekly new hospital admissions,11201.0,Germany
+2022-04-04,Weekly new hospital admissions,10991.0,Germany
+2022-04-05,Weekly new hospital admissions,10703.0,Germany
+2022-04-06,Weekly new hospital admissions,10283.0,Germany
+2022-04-07,Weekly new hospital admissions,10058.0,Germany
+2022-04-08,Weekly new hospital admissions,9804.0,Germany
+2022-04-09,Weekly new hospital admissions,9767.0,Germany
+2022-04-10,Weekly new hospital admissions,9700.0,Germany
+2022-04-11,Weekly new hospital admissions,9706.0,Germany
+2022-04-12,Weekly new hospital admissions,9663.0,Germany
+2022-04-13,Weekly new hospital admissions,9535.0,Germany
+2022-04-14,Weekly new hospital admissions,9233.0,Germany
+2022-04-15,Weekly new hospital admissions,9130.0,Germany
+2022-04-16,Weekly new hospital admissions,8244.0,Germany
+2022-04-17,Weekly new hospital admissions,8083.0,Germany
+2022-04-18,Weekly new hospital admissions,7929.0,Germany
+2022-04-19,Weekly new hospital admissions,6628.0,Germany
+2022-04-20,Weekly new hospital admissions,6924.0,Germany
+2022-04-21,Weekly new hospital admissions,7138.0,Germany
+2022-04-22,Weekly new hospital admissions,7077.0,Germany
+2022-04-23,Weekly new hospital admissions,7705.0,Germany
+2022-04-24,Weekly new hospital admissions,7669.0,Germany
+2022-04-25,Weekly new hospital admissions,7694.0,Germany
+2022-04-26,Weekly new hospital admissions,8671.0,Germany
+2022-04-27,Weekly new hospital admissions,7864.0,Germany
+2022-04-28,Weekly new hospital admissions,7280.0,Germany
+2022-04-29,Weekly new hospital admissions,6888.0,Germany
+2022-04-30,Weekly new hospital admissions,6615.0,Germany
+2022-05-01,Weekly new hospital admissions,6505.0,Germany
+2022-05-02,Weekly new hospital admissions,6377.0,Germany
+2022-05-03,Weekly new hospital admissions,6057.0,Germany
+2022-05-04,Weekly new hospital admissions,5939.0,Germany
+2022-05-05,Weekly new hospital admissions,5806.0,Germany
+2022-05-06,Weekly new hospital admissions,5715.0,Germany
+2022-05-07,Weekly new hospital admissions,5588.0,Germany
+2022-05-08,Weekly new hospital admissions,5527.0,Germany
+2022-05-09,Weekly new hospital admissions,5435.0,Germany
+2022-05-10,Weekly new hospital admissions,5449.0,Germany
+2022-05-11,Weekly new hospital admissions,5311.0,Germany
+2022-05-12,Weekly new hospital admissions,5155.0,Germany
+2022-05-13,Weekly new hospital admissions,5014.0,Germany
+2022-05-14,Weekly new hospital admissions,4897.0,Germany
+2022-05-15,Weekly new hospital admissions,4827.0,Germany
+2022-05-16,Weekly new hospital admissions,4788.0,Germany
+2022-05-17,Weekly new hospital admissions,4558.0,Germany
+2022-05-18,Weekly new hospital admissions,4359.0,Germany
+2022-05-19,Weekly new hospital admissions,4220.0,Germany
+2022-05-20,Weekly new hospital admissions,4021.0,Germany
+2022-05-21,Weekly new hospital admissions,3848.0,Germany
+2022-05-22,Weekly new hospital admissions,3819.0,Germany
+2022-05-23,Weekly new hospital admissions,3799.0,Germany
+2022-05-24,Weekly new hospital admissions,3573.0,Germany
+2022-05-25,Weekly new hospital admissions,3363.0,Germany
+2022-05-26,Weekly new hospital admissions,3179.0,Germany
+2022-05-27,Weekly new hospital admissions,2745.0,Germany
+2022-05-28,Weekly new hospital admissions,2754.0,Germany
+2022-05-29,Weekly new hospital admissions,2675.0,Germany
+2022-05-30,Weekly new hospital admissions,2656.0,Germany
+2022-05-31,Weekly new hospital admissions,2609.0,Germany
+2022-06-01,Weekly new hospital admissions,2631.0,Germany
+2022-06-02,Weekly new hospital admissions,2681.0,Germany
+2022-06-03,Weekly new hospital admissions,3067.0,Germany
+2022-06-04,Weekly new hospital admissions,3086.0,Germany
+2022-06-05,Weekly new hospital admissions,3140.0,Germany
+2022-06-06,Weekly new hospital admissions,3156.0,Germany
+2022-06-07,Weekly new hospital admissions,2641.0,Germany
+2022-06-08,Weekly new hospital admissions,3248.0,Germany
+2022-06-09,Weekly new hospital admissions,3579.0,Germany
+2022-06-10,Weekly new hospital admissions,3829.0,Germany
+2022-06-11,Weekly new hospital admissions,3973.0,Germany
+2022-06-12,Weekly new hospital admissions,4001.0,Germany
+2022-06-13,Weekly new hospital admissions,4070.0,Germany
+2022-06-14,Weekly new hospital admissions,5107.0,Germany
+2022-06-15,Weekly new hospital admissions,4879.0,Germany
+2022-06-16,Weekly new hospital admissions,4881.0,Germany
+2022-06-17,Weekly new hospital admissions,4545.0,Germany
+2022-06-18,Weekly new hospital admissions,4912.0,Germany
+2022-06-19,Weekly new hospital admissions,4989.0,Germany
+2022-06-20,Weekly new hospital admissions,5058.0,Germany
+2022-06-21,Weekly new hospital admissions,5584.0,Germany
+2022-06-22,Weekly new hospital admissions,5955.0,Germany
+2022-06-23,Weekly new hospital admissions,6254.0,Germany
+2022-06-24,Weekly new hospital admissions,6958.0,Germany
+2022-06-25,Weekly new hospital admissions,7022.0,Germany
+2022-06-26,Weekly new hospital admissions,7059.0,Germany
+2022-06-27,Weekly new hospital admissions,7119.0,Germany
+2022-06-28,Weekly new hospital admissions,7292.0,Germany
+2022-06-29,Weekly new hospital admissions,7421.0,Germany
+2022-06-30,Weekly new hospital admissions,7580.0,Germany
+2022-07-01,Weekly new hospital admissions,7628.0,Germany
+2022-07-02,Weekly new hospital admissions,7706.0,Germany
+2022-07-03,Weekly new hospital admissions,7712.0,Germany
+2022-07-04,Weekly new hospital admissions,7729.0,Germany
+2022-07-05,Weekly new hospital admissions,7766.0,Germany
+2022-07-06,Weekly new hospital admissions,7841.0,Germany
+2022-07-07,Weekly new hospital admissions,8015.0,Germany
+2022-07-08,Weekly new hospital admissions,8193.0,Germany
+2022-07-09,Weekly new hospital admissions,8286.0,Germany
+2022-07-10,Weekly new hospital admissions,8339.0,Germany
+2022-07-11,Weekly new hospital admissions,8407.0,Germany
+2022-07-12,Weekly new hospital admissions,8917.0,Germany
+2022-07-13,Weekly new hospital admissions,9175.0,Germany
+2022-07-14,Weekly new hospital admissions,9458.0,Germany
+2022-07-15,Weekly new hospital admissions,9791.0,Germany
+2022-07-16,Weekly new hospital admissions,10155.0,Germany
+2022-07-17,Weekly new hospital admissions,10195.0,Germany
+2022-07-18,Weekly new hospital admissions,10161.0,Germany
+2022-07-19,Weekly new hospital admissions,10245.0,Germany
+2022-07-20,Weekly new hospital admissions,10510.0,Germany
+2022-07-21,Weekly new hospital admissions,10616.0,Germany
+2022-07-22,Weekly new hospital admissions,10901.0,Germany
+2022-07-23,Weekly new hospital admissions,10871.0,Germany
+2022-07-24,Weekly new hospital admissions,10884.0,Germany
+2022-07-25,Weekly new hospital admissions,10944.0,Germany
+2022-07-26,Weekly new hospital admissions,11135.0,Germany
+2022-07-27,Weekly new hospital admissions,11026.0,Germany
+2022-07-28,Weekly new hospital admissions,10749.0,Germany
+2022-07-29,Weekly new hospital admissions,10243.0,Germany
+2022-07-30,Weekly new hospital admissions,9879.0,Germany
+2022-07-31,Weekly new hospital admissions,9782.0,Germany
+2022-08-01,Weekly new hospital admissions,9645.0,Germany
+2022-08-02,Weekly new hospital admissions,9057.0,Germany
+2022-08-03,Weekly new hospital admissions,8744.0,Germany
+2022-08-04,Weekly new hospital admissions,8483.0,Germany
+2022-08-05,Weekly new hospital admissions,8285.0,Germany
+2022-08-06,Weekly new hospital admissions,8210.0,Germany
+2022-08-07,Weekly new hospital admissions,8183.0,Germany
+2022-08-08,Weekly new hospital admissions,8156.0,Germany
+2022-08-09,Weekly new hospital admissions,7744.0,Germany
+2022-08-10,Weekly new hospital admissions,7346.0,Germany
+2022-08-11,Weekly new hospital admissions,7150.0,Germany
+2022-08-12,Weekly new hospital admissions,6925.0,Germany
+2022-08-13,Weekly new hospital admissions,6803.0,Germany
+2022-08-14,Weekly new hospital admissions,6747.0,Germany
+2022-08-15,Weekly new hospital admissions,6735.0,Germany
+2022-08-16,Weekly new hospital admissions,6532.0,Germany
+2022-08-17,Weekly new hospital admissions,6731.0,Germany
+2022-08-18,Weekly new hospital admissions,6683.0,Germany
+2022-08-19,Weekly new hospital admissions,6694.0,Germany
+2022-08-20,Weekly new hospital admissions,6530.0,Germany
+2022-08-21,Weekly new hospital admissions,6533.0,Germany
+2022-08-22,Weekly new hospital admissions,6471.0,Germany
+2022-08-23,Weekly new hospital admissions,6355.0,Germany
+2022-08-24,Weekly new hospital admissions,5932.0,Germany
+2022-08-25,Weekly new hospital admissions,5727.0,Germany
+2022-08-26,Weekly new hospital admissions,5456.0,Germany
+2022-08-27,Weekly new hospital admissions,5296.0,Germany
+2022-08-28,Weekly new hospital admissions,5262.0,Germany
+2022-08-29,Weekly new hospital admissions,5245.0,Germany
+2022-08-30,Weekly new hospital admissions,5022.0,Germany
+2022-08-31,Weekly new hospital admissions,4837.0,Germany
+2022-09-01,Weekly new hospital admissions,4673.0,Germany
+2022-09-02,Weekly new hospital admissions,4512.0,Germany
+2022-09-03,Weekly new hospital admissions,4414.0,Germany
+2022-09-04,Weekly new hospital admissions,4391.0,Germany
+2022-09-05,Weekly new hospital admissions,4402.0,Germany
+2022-09-06,Weekly new hospital admissions,4274.0,Germany
+2022-09-07,Weekly new hospital admissions,4254.0,Germany
+2022-09-08,Weekly new hospital admissions,4306.0,Germany
+2022-09-09,Weekly new hospital admissions,4349.0,Germany
+2022-09-10,Weekly new hospital admissions,4379.0,Germany
+2022-09-11,Weekly new hospital admissions,4351.0,Germany
+2022-09-12,Weekly new hospital admissions,4331.0,Germany
+2022-09-13,Weekly new hospital admissions,4447.0,Germany
+2022-09-14,Weekly new hospital admissions,4494.0,Germany
+2022-09-15,Weekly new hospital admissions,4514.0,Germany
+2022-09-16,Weekly new hospital admissions,4638.0,Germany
+2022-09-17,Weekly new hospital admissions,4703.0,Germany
+2022-09-18,Weekly new hospital admissions,4748.0,Germany
+2022-09-19,Weekly new hospital admissions,4779.0,Germany
+2022-09-20,Weekly new hospital admissions,5089.0,Germany
+2022-09-21,Weekly new hospital admissions,5349.0,Germany
+2022-09-22,Weekly new hospital admissions,5782.0,Germany
+2022-09-23,Weekly new hospital admissions,6136.0,Germany
+2022-09-24,Weekly new hospital admissions,6541.0,Germany
+2022-09-25,Weekly new hospital admissions,6695.0,Germany
+2022-09-26,Weekly new hospital admissions,6845.0,Germany
+2022-09-27,Weekly new hospital admissions,7877.0,Germany
+2022-09-28,Weekly new hospital admissions,8893.0,Germany
+2022-09-29,Weekly new hospital admissions,9565.0,Germany
+2022-09-30,Weekly new hospital admissions,10283.0,Germany
+2022-10-01,Weekly new hospital admissions,10886.0,Germany
+2022-10-02,Weekly new hospital admissions,10997.0,Germany
+2022-10-03,Weekly new hospital admissions,11156.0,Germany
+2022-10-04,Weekly new hospital admissions,9320.0,Germany
+2022-10-05,Weekly new hospital admissions,11728.0,Germany
+2022-10-06,Weekly new hospital admissions,13252.0,Germany
+2022-10-07,Weekly new hospital admissions,14329.0,Germany
+2022-10-08,Weekly new hospital admissions,15028.0,Germany
+2022-10-09,Weekly new hospital admissions,15191.0,Germany
+2022-10-10,Weekly new hospital admissions,15296.0,Germany
+2022-10-11,Weekly new hospital admissions,19213.0,Germany
+2022-10-12,Weekly new hospital admissions,18012.0,Germany
+2022-10-13,Weekly new hospital admissions,17781.0,Germany
+2022-10-14,Weekly new hospital admissions,17725.0,Germany
+2022-10-15,Weekly new hospital admissions,17916.0,Germany
+2022-10-16,Weekly new hospital admissions,17950.0,Germany
+2022-10-17,Weekly new hospital admissions,17951.0,Germany
+2022-10-18,Weekly new hospital admissions,18136.0,Germany
+2022-10-19,Weekly new hospital admissions,18319.0,Germany
+2022-10-20,Weekly new hospital admissions,17765.0,Germany
+2022-10-21,Weekly new hospital admissions,17318.0,Germany
+2022-10-22,Weekly new hospital admissions,16805.0,Germany
+2022-10-23,Weekly new hospital admissions,16655.0,Germany
+2022-10-24,Weekly new hospital admissions,16556.0,Germany
+2022-10-25,Weekly new hospital admissions,15382.0,Germany
+2022-10-26,Weekly new hospital admissions,14274.0,Germany
+2022-10-27,Weekly new hospital admissions,13587.0,Germany
+2022-10-28,Weekly new hospital admissions,12937.0,Germany
+2022-10-29,Weekly new hospital admissions,12282.0,Germany
+2022-10-30,Weekly new hospital admissions,12108.0,Germany
+2022-10-31,Weekly new hospital admissions,11976.0,Germany
+2022-11-01,Weekly new hospital admissions,10071.0,Germany
+2022-11-02,Weekly new hospital admissions,9130.0,Germany
+2022-11-03,Weekly new hospital admissions,9218.0,Germany
+2022-11-04,Weekly new hospital admissions,8987.0,Germany
+2022-11-05,Weekly new hospital admissions,8804.0,Germany
+2022-11-06,Weekly new hospital admissions,8799.0,Germany
+2022-11-07,Weekly new hospital admissions,8689.0,Germany
+2022-11-08,Weekly new hospital admissions,9090.0,Germany
+2022-11-09,Weekly new hospital admissions,9025.0,Germany
+2022-11-10,Weekly new hospital admissions,8260.0,Germany
+2022-11-11,Weekly new hospital admissions,7827.0,Germany
+2022-11-12,Weekly new hospital admissions,7630.0,Germany
+2022-11-13,Weekly new hospital admissions,7514.0,Germany
+2022-11-14,Weekly new hospital admissions,7515.0,Germany
+2022-11-15,Weekly new hospital admissions,7230.0,Germany
+2022-11-16,Weekly new hospital admissions,7119.0,Germany
+2022-11-17,Weekly new hospital admissions,6977.0,Germany
+2022-11-18,Weekly new hospital admissions,7035.0,Germany
+2022-11-19,Weekly new hospital admissions,7002.0,Germany
+2022-11-20,Weekly new hospital admissions,7025.0,Germany
+2022-11-21,Weekly new hospital admissions,6981.0,Germany
+2022-11-22,Weekly new hospital admissions,7178.0,Germany
+2022-11-23,Weekly new hospital admissions,7278.0,Germany
+2022-11-24,Weekly new hospital admissions,7367.0,Germany
+2022-11-25,Weekly new hospital admissions,7456.0,Germany
+2022-11-26,Weekly new hospital admissions,7629.0,Germany
+2022-11-27,Weekly new hospital admissions,7672.0,Germany
+2022-11-28,Weekly new hospital admissions,7745.0,Germany
+2022-11-29,Weekly new hospital admissions,8159.0,Germany
+2022-11-30,Weekly new hospital admissions,8502.0,Germany
+2022-12-01,Weekly new hospital admissions,8850.0,Germany
+2022-12-02,Weekly new hospital admissions,9121.0,Germany
+2022-12-03,Weekly new hospital admissions,9242.0,Germany
+2022-12-04,Weekly new hospital admissions,9248.0,Germany
+2022-12-05,Weekly new hospital admissions,9346.0,Germany
+2022-12-06,Weekly new hospital admissions,9602.0,Germany
+2022-12-07,Weekly new hospital admissions,9885.0,Germany
+2022-12-08,Weekly new hospital admissions,10108.0,Germany
+2022-12-09,Weekly new hospital admissions,10317.0,Germany
+2022-12-10,Weekly new hospital admissions,10677.0,Germany
+2022-12-11,Weekly new hospital admissions,10812.0,Germany
+2022-12-12,Weekly new hospital admissions,10829.0,Germany
+2022-12-13,Weekly new hospital admissions,11387.0,Germany
+2022-12-14,Weekly new hospital admissions,11859.0,Germany
+2022-12-15,Weekly new hospital admissions,12134.0,Germany
+2022-12-16,Weekly new hospital admissions,12379.0,Germany
+2022-12-17,Weekly new hospital admissions,12510.0,Germany
+2022-12-18,Weekly new hospital admissions,12558.0,Germany
+2022-12-19,Weekly new hospital admissions,12607.0,Germany
+2022-12-20,Weekly new hospital admissions,12860.0,Germany
+2022-12-21,Weekly new hospital admissions,13293.0,Germany
+2022-12-22,Weekly new hospital admissions,13632.0,Germany
+2022-12-23,Weekly new hospital admissions,13877.0,Germany
+2022-12-24,Weekly new hospital admissions,14015.0,Germany
+2022-12-25,Weekly new hospital admissions,13914.0,Germany
+2022-12-26,Weekly new hospital admissions,13813.0,Germany
+2022-12-27,Weekly new hospital admissions,10711.0,Germany
+2022-12-28,Weekly new hospital admissions,11115.0,Germany
+2022-12-29,Weekly new hospital admissions,11024.0,Germany
+2022-12-30,Weekly new hospital admissions,10798.0,Germany
+2022-12-31,Weekly new hospital admissions,10335.0,Germany
+2023-01-01,Weekly new hospital admissions,10305.0,Germany
+2023-01-02,Weekly new hospital admissions,10253.0,Germany
+2023-01-03,Weekly new hospital admissions,12626.0,Germany
+2023-01-04,Weekly new hospital admissions,11214.0,Germany
+2023-01-05,Weekly new hospital admissions,10502.0,Germany
+2023-01-06,Weekly new hospital admissions,9946.0,Germany
+2023-01-07,Weekly new hospital admissions,9343.0,Germany
+2023-01-08,Weekly new hospital admissions,9234.0,Germany
+2023-01-09,Weekly new hospital admissions,9119.0,Germany
+2023-01-10,Weekly new hospital admissions,8587.0,Germany
+2023-01-11,Weekly new hospital admissions,7965.0,Germany
+2023-01-12,Weekly new hospital admissions,7407.0,Germany
+2023-01-13,Weekly new hospital admissions,6846.0,Germany
+2023-01-14,Weekly new hospital admissions,6794.0,Germany
+2023-01-15,Weekly new hospital admissions,6713.0,Germany
+2023-01-16,Weekly new hospital admissions,6659.0,Germany
+2023-01-17,Weekly new hospital admissions,5941.0,Germany
+2023-01-18,Weekly new hospital admissions,5538.0,Germany
+2023-01-19,Weekly new hospital admissions,5252.0,Germany
+2023-01-20,Weekly new hospital admissions,5107.0,Germany
+2023-01-21,Weekly new hospital admissions,4899.0,Germany
+2023-01-22,Weekly new hospital admissions,4872.0,Germany
+2023-01-23,Weekly new hospital admissions,4875.0,Germany
+2023-01-24,Weekly new hospital admissions,4670.0,Germany
+2023-01-25,Weekly new hospital admissions,4750.0,Germany
+2023-01-26,Weekly new hospital admissions,4760.0,Germany
+2023-01-27,Weekly new hospital admissions,4904.0,Germany
+2023-01-28,Weekly new hospital admissions,5080.0,Germany
+2023-01-29,Weekly new hospital admissions,5104.0,Germany
+2023-01-30,Weekly new hospital admissions,5139.0,Germany
+2023-01-31,Weekly new hospital admissions,5319.0,Germany
+2023-02-01,Weekly new hospital admissions,5507.0,Germany
+2023-02-02,Weekly new hospital admissions,5767.0,Germany
+2023-02-03,Weekly new hospital admissions,5813.0,Germany
+2023-02-04,Weekly new hospital admissions,6045.0,Germany
+2023-02-05,Weekly new hospital admissions,6095.0,Germany
+2023-02-06,Weekly new hospital admissions,6120.0,Germany
+2023-02-07,Weekly new hospital admissions,6533.0,Germany
+2023-02-08,Weekly new hospital admissions,6698.0,Germany
+2023-02-09,Weekly new hospital admissions,6894.0,Germany
+2023-02-10,Weekly new hospital admissions,7159.0,Germany
+2023-02-11,Weekly new hospital admissions,7203.0,Germany
+2023-02-12,Weekly new hospital admissions,7264.0,Germany
+2023-02-13,Weekly new hospital admissions,7324.0,Germany
+2023-02-14,Weekly new hospital admissions,7777.0,Germany
+2023-02-15,Weekly new hospital admissions,8200.0,Germany
+2023-02-16,Weekly new hospital admissions,8598.0,Germany
+2023-02-17,Weekly new hospital admissions,8840.0,Germany
+2023-02-18,Weekly new hospital admissions,9126.0,Germany
+2023-02-19,Weekly new hospital admissions,9134.0,Germany
+2023-02-20,Weekly new hospital admissions,9226.0,Germany
+2023-02-21,Weekly new hospital admissions,9173.0,Germany
+2023-02-22,Weekly new hospital admissions,9457.0,Germany
+2023-02-23,Weekly new hospital admissions,9652.0,Germany
+2023-02-24,Weekly new hospital admissions,9804.0,Germany
+2023-02-25,Weekly new hospital admissions,9831.0,Germany
+2023-02-26,Weekly new hospital admissions,9878.0,Germany
+2023-02-27,Weekly new hospital admissions,9828.0,Germany
+2023-02-28,Weekly new hospital admissions,10200.0,Germany
+2023-03-01,Weekly new hospital admissions,9962.0,Germany
+2023-03-02,Weekly new hospital admissions,9538.0,Germany
+2023-03-03,Weekly new hospital admissions,9160.0,Germany
+2023-03-04,Weekly new hospital admissions,8875.0,Germany
+2023-03-05,Weekly new hospital admissions,8780.0,Germany
+2023-03-06,Weekly new hospital admissions,8709.0,Germany
+2023-03-07,Weekly new hospital admissions,8333.0,Germany
+2023-03-08,Weekly new hospital admissions,8172.0,Germany
+2023-03-09,Weekly new hospital admissions,8074.0,Germany
+2023-03-10,Weekly new hospital admissions,8316.0,Germany
+2023-03-11,Weekly new hospital admissions,8495.0,Germany
+2023-03-12,Weekly new hospital admissions,8552.0,Germany
+2023-03-13,Weekly new hospital admissions,8595.0,Germany
+2023-03-14,Weekly new hospital admissions,8917.0,Germany
+2023-03-15,Weekly new hospital admissions,9124.0,Germany
+2023-03-16,Weekly new hospital admissions,9335.0,Germany
+2023-03-17,Weekly new hospital admissions,9306.0,Germany
+2023-03-18,Weekly new hospital admissions,9248.0,Germany
+2023-03-19,Weekly new hospital admissions,9235.0,Germany
+2023-03-20,Weekly new hospital admissions,9198.0,Germany
+2023-03-21,Weekly new hospital admissions,8982.0,Germany
+2023-03-22,Weekly new hospital admissions,8653.0,Germany
+2023-03-23,Weekly new hospital admissions,8427.0,Germany
+2023-03-24,Weekly new hospital admissions,8112.0,Germany
+2023-03-25,Weekly new hospital admissions,7874.0,Germany
+2023-03-26,Weekly new hospital admissions,7762.0,Germany
+2023-03-27,Weekly new hospital admissions,7697.0,Germany
+2023-03-28,Weekly new hospital admissions,7141.0,Germany
+2023-03-29,Weekly new hospital admissions,6688.0,Germany
+2023-03-30,Weekly new hospital admissions,6343.0,Germany
+2023-03-31,Weekly new hospital admissions,6052.0,Germany
+2023-04-01,Weekly new hospital admissions,5801.0,Germany
+2023-04-02,Weekly new hospital admissions,5784.0,Germany
+2023-04-03,Weekly new hospital admissions,5742.0,Germany
+2023-04-04,Weekly new hospital admissions,5328.0,Germany
+2023-04-05,Weekly new hospital admissions,5190.0,Germany
+2023-04-06,Weekly new hospital admissions,4930.0,Germany
+2023-04-07,Weekly new hospital admissions,4716.0,Germany
+2023-04-08,Weekly new hospital admissions,4085.0,Germany
+2023-04-09,Weekly new hospital admissions,4068.0,Germany
+2023-04-10,Weekly new hospital admissions,4046.0,Germany
+2023-04-11,Weekly new hospital admissions,2702.0,Germany
+2023-04-12,Weekly new hospital admissions,3483.0,Germany
+2023-04-13,Weekly new hospital admissions,3544.0,Germany
+2023-04-14,Weekly new hospital admissions,3633.0,Germany
+2023-04-15,Weekly new hospital admissions,4074.0,Germany
+2023-04-16,Weekly new hospital admissions,4028.0,Germany
+2023-04-17,Weekly new hospital admissions,3992.0,Germany
+2023-04-18,Weekly new hospital admissions,4913.0,Germany
+2023-04-19,Weekly new hospital admissions,3893.0,Germany
+2023-04-20,Weekly new hospital admissions,3673.0,Germany
+2023-04-21,Weekly new hospital admissions,3482.0,Germany
+2023-04-22,Weekly new hospital admissions,3367.0,Germany
+2023-04-23,Weekly new hospital admissions,3340.0,Germany
+2023-04-24,Weekly new hospital admissions,3338.0,Germany
+2023-04-25,Weekly new hospital admissions,3170.0,Germany
+2023-04-26,Weekly new hospital admissions,3049.0,Germany
+2023-04-27,Weekly new hospital admissions,2951.0,Germany
+2023-04-28,Weekly new hospital admissions,2808.0,Germany
+2023-04-29,Weekly new hospital admissions,2746.0,Germany
+2023-04-30,Weekly new hospital admissions,2769.0,Germany
+2023-05-01,Weekly new hospital admissions,2753.0,Germany
+2023-05-02,Weekly new hospital admissions,1950.0,Germany
+2023-05-03,Weekly new hospital admissions,2299.0,Germany
+2023-05-04,Weekly new hospital admissions,2317.0,Germany
+2023-05-05,Weekly new hospital admissions,2334.0,Germany
+2023-05-06,Weekly new hospital admissions,2332.0,Germany
+2023-05-07,Weekly new hospital admissions,2311.0,Germany
+2023-05-08,Weekly new hospital admissions,2286.0,Germany
+2023-05-09,Weekly new hospital admissions,2865.0,Germany
+2023-05-10,Weekly new hospital admissions,2369.0,Germany
+2023-05-11,Weekly new hospital admissions,2200.0,Germany
+2023-05-12,Weekly new hospital admissions,2079.0,Germany
+2023-05-13,Weekly new hospital admissions,2015.0,Germany
+2023-05-14,Weekly new hospital admissions,2000.0,Germany
+2023-05-15,Weekly new hospital admissions,1987.0,Germany
+2023-05-16,Weekly new hospital admissions,1822.0,Germany
+2023-05-17,Weekly new hospital admissions,1681.0,Germany
+2023-05-18,Weekly new hospital admissions,1688.0,Germany
+2023-05-19,Weekly new hospital admissions,1450.0,Germany
+2023-05-20,Weekly new hospital admissions,1390.0,Germany
+2023-05-21,Weekly new hospital admissions,1383.0,Germany
+2023-05-22,Weekly new hospital admissions,1381.0,Germany
+2023-05-23,Weekly new hospital admissions,1415.0,Germany
+2023-05-24,Weekly new hospital admissions,1399.0,Germany
+2023-05-25,Weekly new hospital admissions,1333.0,Germany
+2023-05-26,Weekly new hospital admissions,1472.0,Germany
+2023-05-27,Weekly new hospital admissions,1394.0,Germany
+2023-05-28,Weekly new hospital admissions,1376.0,Germany
+2023-05-29,Weekly new hospital admissions,1361.0,Germany
+2023-05-30,Weekly new hospital admissions,856.0,Germany
+2023-05-31,Weekly new hospital admissions,941.0,Germany
+2023-06-01,Weekly new hospital admissions,893.0,Germany
+2023-06-02,Weekly new hospital admissions,885.0,Germany
+2023-06-03,Weekly new hospital admissions,857.0,Germany
+2023-06-04,Weekly new hospital admissions,849.0,Germany
+2023-06-05,Weekly new hospital admissions,850.0,Germany
+2023-06-06,Weekly new hospital admissions,1079.0,Germany
+2023-06-07,Weekly new hospital admissions,875.0,Germany
+2023-06-08,Weekly new hospital admissions,823.0,Germany
+2023-06-09,Weekly new hospital admissions,730.0,Germany
+2023-06-10,Weekly new hospital admissions,735.0,Germany
+2023-06-11,Weekly new hospital admissions,742.0,Germany
+2023-06-12,Weekly new hospital admissions,753.0,Germany
+2023-06-13,Weekly new hospital admissions,709.0,Germany
+2023-06-14,Weekly new hospital admissions,689.0,Germany
+2023-06-15,Weekly new hospital admissions,656.0,Germany
+2023-06-16,Weekly new hospital admissions,701.0,Germany
+2023-06-17,Weekly new hospital admissions,659.0,Germany
+2023-06-18,Weekly new hospital admissions,649.0,Germany
+2023-06-19,Weekly new hospital admissions,629.0,Germany
+2023-06-20,Weekly new hospital admissions,577.0,Germany
+2023-06-21,Weekly new hospital admissions,505.0,Germany
+2023-06-22,Weekly new hospital admissions,489.0,Germany
+2023-06-23,Weekly new hospital admissions,424.0,Germany
+2023-06-24,Weekly new hospital admissions,382.0,Germany
+2023-06-25,Weekly new hospital admissions,382.0,Germany
+2023-06-26,Weekly new hospital admissions,377.0,Germany
+2023-06-27,Weekly new hospital admissions,269.0,Germany
+2020-03-20,Daily ICU occupancy,200.0,Germany
+2020-03-21,Daily ICU occupancy,308.0,Germany
+2020-03-22,Daily ICU occupancy,364.0,Germany
+2020-03-23,Daily ICU occupancy,451.0,Germany
+2020-03-24,Daily ICU occupancy,616.0,Germany
+2020-03-25,Daily ICU occupancy,789.0,Germany
+2020-03-26,Daily ICU occupancy,824.0,Germany
+2020-03-27,Daily ICU occupancy,905.0,Germany
+2020-03-28,Daily ICU occupancy,1001.0,Germany
+2020-03-29,Daily ICU occupancy,1063.0,Germany
+2020-03-30,Daily ICU occupancy,1203.0,Germany
+2020-03-31,Daily ICU occupancy,1551.0,Germany
+2020-04-01,Daily ICU occupancy,1785.0,Germany
+2020-04-02,Daily ICU occupancy,2103.0,Germany
+2020-04-03,Daily ICU occupancy,2364.0,Germany
+2020-04-04,Daily ICU occupancy,2474.0,Germany
+2020-04-05,Daily ICU occupancy,2531.0,Germany
+2020-04-06,Daily ICU occupancy,2554.0,Germany
+2020-04-07,Daily ICU occupancy,2644.0,Germany
+2020-04-08,Daily ICU occupancy,2661.0,Germany
+2020-04-09,Daily ICU occupancy,2718.0,Germany
+2020-04-10,Daily ICU occupancy,2704.0,Germany
+2020-04-11,Daily ICU occupancy,2657.0,Germany
+2020-04-12,Daily ICU occupancy,2657.0,Germany
+2020-04-13,Daily ICU occupancy,2722.0,Germany
+2020-04-14,Daily ICU occupancy,2725.0,Germany
+2020-04-15,Daily ICU occupancy,2739.0,Germany
+2020-04-16,Daily ICU occupancy,2817.0,Germany
+2020-04-17,Daily ICU occupancy,2883.0,Germany
+2020-04-18,Daily ICU occupancy,2933.0,Germany
+2020-04-19,Daily ICU occupancy,2875.0,Germany
+2020-04-20,Daily ICU occupancy,2905.0,Germany
+2020-04-21,Daily ICU occupancy,2860.0,Germany
+2020-04-22,Daily ICU occupancy,2744.0,Germany
+2020-04-23,Daily ICU occupancy,2728.0,Germany
+2020-04-24,Daily ICU occupancy,2650.0,Germany
+2020-04-25,Daily ICU occupancy,2543.0,Germany
+2020-04-26,Daily ICU occupancy,2529.0,Germany
+2020-04-27,Daily ICU occupancy,2471.0,Germany
+2020-04-28,Daily ICU occupancy,2394.0,Germany
+2020-04-29,Daily ICU occupancy,2313.0,Germany
+2020-04-30,Daily ICU occupancy,2241.0,Germany
+2020-05-01,Daily ICU occupancy,2124.0,Germany
+2020-05-02,Daily ICU occupancy,2052.0,Germany
+2020-05-03,Daily ICU occupancy,2018.0,Germany
+2020-05-04,Daily ICU occupancy,1980.0,Germany
+2020-05-05,Daily ICU occupancy,1906.0,Germany
+2020-05-06,Daily ICU occupancy,1825.0,Germany
+2020-05-07,Daily ICU occupancy,1769.0,Germany
+2020-05-08,Daily ICU occupancy,1662.0,Germany
+2020-05-09,Daily ICU occupancy,1596.0,Germany
+2020-05-10,Daily ICU occupancy,1605.0,Germany
+2020-05-11,Daily ICU occupancy,1590.0,Germany
+2020-05-12,Daily ICU occupancy,1499.0,Germany
+2020-05-13,Daily ICU occupancy,1386.0,Germany
+2020-05-14,Daily ICU occupancy,1318.0,Germany
+2020-05-15,Daily ICU occupancy,1235.0,Germany
+2020-05-16,Daily ICU occupancy,1176.0,Germany
+2020-05-17,Daily ICU occupancy,1128.0,Germany
+2020-05-18,Daily ICU occupancy,1126.0,Germany
+2020-05-19,Daily ICU occupancy,1088.0,Germany
+2020-05-20,Daily ICU occupancy,1021.0,Germany
+2020-05-21,Daily ICU occupancy,1000.0,Germany
+2020-05-22,Daily ICU occupancy,975.0,Germany
+2020-05-23,Daily ICU occupancy,931.0,Germany
+2020-05-24,Daily ICU occupancy,900.0,Germany
+2020-05-25,Daily ICU occupancy,885.0,Germany
+2020-05-26,Daily ICU occupancy,816.0,Germany
+2020-05-27,Daily ICU occupancy,751.0,Germany
+2020-05-28,Daily ICU occupancy,726.0,Germany
+2020-05-29,Daily ICU occupancy,725.0,Germany
+2020-05-30,Daily ICU occupancy,716.0,Germany
+2020-05-31,Daily ICU occupancy,699.0,Germany
+2020-06-01,Daily ICU occupancy,698.0,Germany
+2020-06-02,Daily ICU occupancy,694.0,Germany
+2020-06-03,Daily ICU occupancy,635.0,Germany
+2020-06-04,Daily ICU occupancy,600.0,Germany
+2020-06-05,Daily ICU occupancy,588.0,Germany
+2020-06-06,Daily ICU occupancy,562.0,Germany
+2020-06-07,Daily ICU occupancy,567.0,Germany
+2020-06-08,Daily ICU occupancy,546.0,Germany
+2020-06-09,Daily ICU occupancy,522.0,Germany
+2020-06-10,Daily ICU occupancy,488.0,Germany
+2020-06-11,Daily ICU occupancy,453.0,Germany
+2020-06-12,Daily ICU occupancy,453.0,Germany
+2020-06-13,Daily ICU occupancy,442.0,Germany
+2020-06-14,Daily ICU occupancy,438.0,Germany
+2020-06-15,Daily ICU occupancy,434.0,Germany
+2020-06-16,Daily ICU occupancy,422.0,Germany
+2020-06-17,Daily ICU occupancy,409.0,Germany
+2020-06-18,Daily ICU occupancy,398.0,Germany
+2020-06-19,Daily ICU occupancy,377.0,Germany
+2020-06-20,Daily ICU occupancy,362.0,Germany
+2020-06-21,Daily ICU occupancy,353.0,Germany
+2020-06-22,Daily ICU occupancy,368.0,Germany
+2020-06-23,Daily ICU occupancy,362.0,Germany
+2020-06-24,Daily ICU occupancy,356.0,Germany
+2020-06-25,Daily ICU occupancy,361.0,Germany
+2020-06-26,Daily ICU occupancy,363.0,Germany
+2020-06-27,Daily ICU occupancy,345.0,Germany
+2020-06-28,Daily ICU occupancy,338.0,Germany
+2020-06-29,Daily ICU occupancy,332.0,Germany
+2020-06-30,Daily ICU occupancy,334.0,Germany
+2020-07-01,Daily ICU occupancy,327.0,Germany
+2020-07-02,Daily ICU occupancy,326.0,Germany
+2020-07-03,Daily ICU occupancy,319.0,Germany
+2020-07-04,Daily ICU occupancy,323.0,Germany
+2020-07-05,Daily ICU occupancy,301.0,Germany
+2020-07-06,Daily ICU occupancy,312.0,Germany
+2020-07-07,Daily ICU occupancy,297.0,Germany
+2020-07-08,Daily ICU occupancy,291.0,Germany
+2020-07-09,Daily ICU occupancy,278.0,Germany
+2020-07-10,Daily ICU occupancy,279.0,Germany
+2020-07-11,Daily ICU occupancy,254.0,Germany
+2020-07-12,Daily ICU occupancy,255.0,Germany
+2020-07-13,Daily ICU occupancy,264.0,Germany
+2020-07-14,Daily ICU occupancy,261.0,Germany
+2020-07-15,Daily ICU occupancy,247.0,Germany
+2020-07-16,Daily ICU occupancy,254.0,Germany
+2020-07-17,Daily ICU occupancy,248.0,Germany
+2020-07-18,Daily ICU occupancy,246.0,Germany
+2020-07-19,Daily ICU occupancy,253.0,Germany
+2020-07-20,Daily ICU occupancy,246.0,Germany
+2020-07-21,Daily ICU occupancy,253.0,Germany
+2020-07-22,Daily ICU occupancy,249.0,Germany
+2020-07-23,Daily ICU occupancy,238.0,Germany
+2020-07-24,Daily ICU occupancy,236.0,Germany
+2020-07-25,Daily ICU occupancy,248.0,Germany
+2020-07-26,Daily ICU occupancy,267.0,Germany
+2020-07-27,Daily ICU occupancy,258.0,Germany
+2020-07-28,Daily ICU occupancy,255.0,Germany
+2020-07-29,Daily ICU occupancy,257.0,Germany
+2020-07-30,Daily ICU occupancy,262.0,Germany
+2020-07-31,Daily ICU occupancy,261.0,Germany
+2020-08-01,Daily ICU occupancy,257.0,Germany
+2020-08-02,Daily ICU occupancy,269.0,Germany
+2020-08-03,Daily ICU occupancy,267.0,Germany
+2020-08-04,Daily ICU occupancy,260.0,Germany
+2020-08-05,Daily ICU occupancy,240.0,Germany
+2020-08-06,Daily ICU occupancy,237.0,Germany
+2020-08-07,Daily ICU occupancy,227.0,Germany
+2020-08-08,Daily ICU occupancy,229.0,Germany
+2020-08-09,Daily ICU occupancy,234.0,Germany
+2020-08-10,Daily ICU occupancy,228.0,Germany
+2020-08-11,Daily ICU occupancy,231.0,Germany
+2020-08-12,Daily ICU occupancy,221.0,Germany
+2020-08-13,Daily ICU occupancy,224.0,Germany
+2020-08-14,Daily ICU occupancy,230.0,Germany
+2020-08-15,Daily ICU occupancy,228.0,Germany
+2020-08-16,Daily ICU occupancy,225.0,Germany
+2020-08-17,Daily ICU occupancy,227.0,Germany
+2020-08-18,Daily ICU occupancy,220.0,Germany
+2020-08-19,Daily ICU occupancy,227.0,Germany
+2020-08-20,Daily ICU occupancy,230.0,Germany
+2020-08-21,Daily ICU occupancy,237.0,Germany
+2020-08-22,Daily ICU occupancy,232.0,Germany
+2020-08-23,Daily ICU occupancy,245.0,Germany
+2020-08-24,Daily ICU occupancy,245.0,Germany
+2020-08-25,Daily ICU occupancy,225.0,Germany
+2020-08-26,Daily ICU occupancy,227.0,Germany
+2020-08-27,Daily ICU occupancy,240.0,Germany
+2020-08-28,Daily ICU occupancy,236.0,Germany
+2020-08-29,Daily ICU occupancy,241.0,Germany
+2020-08-30,Daily ICU occupancy,244.0,Germany
+2020-08-31,Daily ICU occupancy,245.0,Germany
+2020-09-01,Daily ICU occupancy,234.0,Germany
+2020-09-02,Daily ICU occupancy,227.0,Germany
+2020-09-03,Daily ICU occupancy,222.0,Germany
+2020-09-04,Daily ICU occupancy,224.0,Germany
+2020-09-05,Daily ICU occupancy,222.0,Germany
+2020-09-06,Daily ICU occupancy,218.0,Germany
+2020-09-07,Daily ICU occupancy,228.0,Germany
+2020-09-08,Daily ICU occupancy,230.0,Germany
+2020-09-09,Daily ICU occupancy,227.0,Germany
+2020-09-10,Daily ICU occupancy,233.0,Germany
+2020-09-11,Daily ICU occupancy,220.0,Germany
+2020-09-12,Daily ICU occupancy,233.0,Germany
+2020-09-13,Daily ICU occupancy,236.0,Germany
+2020-09-14,Daily ICU occupancy,237.0,Germany
+2020-09-15,Daily ICU occupancy,236.0,Germany
+2020-09-16,Daily ICU occupancy,233.0,Germany
+2020-09-17,Daily ICU occupancy,238.0,Germany
+2020-09-18,Daily ICU occupancy,246.0,Germany
+2020-09-19,Daily ICU occupancy,257.0,Germany
+2020-09-20,Daily ICU occupancy,268.0,Germany
+2020-09-21,Daily ICU occupancy,267.0,Germany
+2020-09-22,Daily ICU occupancy,278.0,Germany
+2020-09-23,Daily ICU occupancy,293.0,Germany
+2020-09-24,Daily ICU occupancy,296.0,Germany
+2020-09-25,Daily ICU occupancy,301.0,Germany
+2020-09-26,Daily ICU occupancy,312.0,Germany
+2020-09-27,Daily ICU occupancy,325.0,Germany
+2020-09-28,Daily ICU occupancy,353.0,Germany
+2020-09-29,Daily ICU occupancy,352.0,Germany
+2020-09-30,Daily ICU occupancy,355.0,Germany
+2020-10-01,Daily ICU occupancy,362.0,Germany
+2020-10-02,Daily ICU occupancy,373.0,Germany
+2020-10-03,Daily ICU occupancy,403.0,Germany
+2020-10-04,Daily ICU occupancy,424.0,Germany
+2020-10-05,Daily ICU occupancy,446.0,Germany
+2020-10-06,Daily ICU occupancy,449.0,Germany
+2020-10-07,Daily ICU occupancy,470.0,Germany
+2020-10-08,Daily ICU occupancy,487.0,Germany
+2020-10-09,Daily ICU occupancy,510.0,Germany
+2020-10-10,Daily ICU occupancy,531.0,Germany
+2020-10-11,Daily ICU occupancy,545.0,Germany
+2020-10-12,Daily ICU occupancy,590.0,Germany
+2020-10-13,Daily ICU occupancy,618.0,Germany
+2020-10-14,Daily ICU occupancy,602.0,Germany
+2020-10-15,Daily ICU occupancy,655.0,Germany
+2020-10-16,Daily ICU occupancy,690.0,Germany
+2020-10-17,Daily ICU occupancy,731.0,Germany
+2020-10-18,Daily ICU occupancy,769.0,Germany
+2020-10-19,Daily ICU occupancy,851.0,Germany
+2020-10-20,Daily ICU occupancy,879.0,Germany
+2020-10-21,Daily ICU occupancy,943.0,Germany
+2020-10-22,Daily ICU occupancy,1030.0,Germany
+2020-10-23,Daily ICU occupancy,1121.0,Germany
+2020-10-24,Daily ICU occupancy,1200.0,Germany
+2020-10-25,Daily ICU occupancy,1294.0,Germany
+2020-10-26,Daily ICU occupancy,1360.0,Germany
+2020-10-27,Daily ICU occupancy,1468.0,Germany
+2020-10-28,Daily ICU occupancy,1569.0,Germany
+2020-10-29,Daily ICU occupancy,1696.0,Germany
+2020-10-30,Daily ICU occupancy,1839.0,Germany
+2020-10-31,Daily ICU occupancy,1944.0,Germany
+2020-11-01,Daily ICU occupancy,2061.0,Germany
+2020-11-02,Daily ICU occupancy,2243.0,Germany
+2020-11-03,Daily ICU occupancy,2380.0,Germany
+2020-11-04,Daily ICU occupancy,2546.0,Germany
+2020-11-05,Daily ICU occupancy,2653.0,Germany
+2020-11-06,Daily ICU occupancy,2753.0,Germany
+2020-11-07,Daily ICU occupancy,2839.0,Germany
+2020-11-08,Daily ICU occupancy,2905.0,Germany
+2020-11-09,Daily ICU occupancy,3007.0,Germany
+2020-11-10,Daily ICU occupancy,3058.0,Germany
+2020-11-11,Daily ICU occupancy,3124.0,Germany
+2020-11-12,Daily ICU occupancy,3185.0,Germany
+2020-11-13,Daily ICU occupancy,3298.0,Germany
+2020-11-14,Daily ICU occupancy,3324.0,Germany
+2020-11-15,Daily ICU occupancy,3385.0,Germany
+2020-11-16,Daily ICU occupancy,3435.0,Germany
+2020-11-17,Daily ICU occupancy,3517.0,Germany
+2020-11-18,Daily ICU occupancy,3561.0,Germany
+2020-11-19,Daily ICU occupancy,3593.0,Germany
+2020-11-20,Daily ICU occupancy,3615.0,Germany
+2020-11-21,Daily ICU occupancy,3632.0,Germany
+2020-11-22,Daily ICU occupancy,3709.0,Germany
+2020-11-23,Daily ICU occupancy,3740.0,Germany
+2020-11-24,Daily ICU occupancy,3767.0,Germany
+2020-11-25,Daily ICU occupancy,3778.0,Germany
+2020-11-26,Daily ICU occupancy,3826.0,Germany
+2020-11-27,Daily ICU occupancy,3855.0,Germany
+2020-11-28,Daily ICU occupancy,3888.0,Germany
+2020-11-29,Daily ICU occupancy,3899.0,Germany
+2020-11-30,Daily ICU occupancy,3926.0,Germany
+2020-12-01,Daily ICU occupancy,3921.0,Germany
+2020-12-02,Daily ICU occupancy,3958.0,Germany
+2020-12-03,Daily ICU occupancy,3980.0,Germany
+2020-12-04,Daily ICU occupancy,4011.0,Germany
+2020-12-05,Daily ICU occupancy,4051.0,Germany
+2020-12-06,Daily ICU occupancy,4108.0,Germany
+2020-12-07,Daily ICU occupancy,4181.0,Germany
+2020-12-08,Daily ICU occupancy,4255.0,Germany
+2020-12-09,Daily ICU occupancy,4278.0,Germany
+2020-12-10,Daily ICU occupancy,4339.0,Germany
+2020-12-11,Daily ICU occupancy,4432.0,Germany
+2020-12-12,Daily ICU occupancy,4491.0,Germany
+2020-12-13,Daily ICU occupancy,4553.0,Germany
+2020-12-14,Daily ICU occupancy,4675.0,Germany
+2020-12-15,Daily ICU occupancy,4735.0,Germany
+2020-12-16,Daily ICU occupancy,4834.0,Germany
+2020-12-17,Daily ICU occupancy,4855.0,Germany
+2020-12-18,Daily ICU occupancy,4904.0,Germany
+2020-12-19,Daily ICU occupancy,4941.0,Germany
+2020-12-20,Daily ICU occupancy,5029.0,Germany
+2020-12-21,Daily ICU occupancy,5168.0,Germany
+2020-12-22,Daily ICU occupancy,5217.0,Germany
+2020-12-23,Daily ICU occupancy,5241.0,Germany
+2020-12-24,Daily ICU occupancy,5346.0,Germany
+2020-12-25,Daily ICU occupancy,5381.0,Germany
+2020-12-26,Daily ICU occupancy,5536.0,Germany
+2020-12-27,Daily ICU occupancy,5562.0,Germany
+2020-12-28,Daily ICU occupancy,5600.0,Germany
+2020-12-29,Daily ICU occupancy,5649.0,Germany
+2020-12-30,Daily ICU occupancy,5647.0,Germany
+2020-12-31,Daily ICU occupancy,5638.0,Germany
+2021-01-01,Daily ICU occupancy,5604.0,Germany
+2021-01-02,Daily ICU occupancy,5724.0,Germany
+2021-01-03,Daily ICU occupancy,5761.0,Germany
+2021-01-04,Daily ICU occupancy,5744.0,Germany
+2021-01-05,Daily ICU occupancy,5671.0,Germany
+2021-01-06,Daily ICU occupancy,5572.0,Germany
+2021-01-07,Daily ICU occupancy,5492.0,Germany
+2021-01-08,Daily ICU occupancy,5486.0,Germany
+2021-01-09,Daily ICU occupancy,5414.0,Germany
+2021-01-10,Daily ICU occupancy,5320.0,Germany
+2021-01-11,Daily ICU occupancy,5288.0,Germany
+2021-01-12,Daily ICU occupancy,5230.0,Germany
+2021-01-13,Daily ICU occupancy,5185.0,Germany
+2021-01-14,Daily ICU occupancy,5126.0,Germany
+2021-01-15,Daily ICU occupancy,5074.0,Germany
+2021-01-16,Daily ICU occupancy,5015.0,Germany
+2021-01-17,Daily ICU occupancy,4972.0,Germany
+2021-01-18,Daily ICU occupancy,5005.0,Germany
+2021-01-19,Daily ICU occupancy,4947.0,Germany
+2021-01-20,Daily ICU occupancy,4835.0,Germany
+2021-01-21,Daily ICU occupancy,4787.0,Germany
+2021-01-22,Daily ICU occupancy,4769.0,Germany
+2021-01-23,Daily ICU occupancy,4657.0,Germany
+2021-01-24,Daily ICU occupancy,4624.0,Germany
+2021-01-25,Daily ICU occupancy,4620.0,Germany
+2021-01-26,Daily ICU occupancy,4571.0,Germany
+2021-01-27,Daily ICU occupancy,4501.0,Germany
+2021-01-28,Daily ICU occupancy,4438.0,Germany
+2021-01-29,Daily ICU occupancy,4376.0,Germany
+2021-01-30,Daily ICU occupancy,4351.0,Germany
+2021-01-31,Daily ICU occupancy,4346.0,Germany
+2021-02-01,Daily ICU occupancy,4322.0,Germany
+2021-02-02,Daily ICU occupancy,4263.0,Germany
+2021-02-03,Daily ICU occupancy,4222.0,Germany
+2021-02-04,Daily ICU occupancy,4178.0,Germany
+2021-02-05,Daily ICU occupancy,4072.0,Germany
+2021-02-06,Daily ICU occupancy,3965.0,Germany
+2021-02-07,Daily ICU occupancy,3932.0,Germany
+2021-02-08,Daily ICU occupancy,3956.0,Germany
+2021-02-09,Daily ICU occupancy,3847.0,Germany
+2021-02-10,Daily ICU occupancy,3738.0,Germany
+2021-02-11,Daily ICU occupancy,3675.0,Germany
+2021-02-12,Daily ICU occupancy,3551.0,Germany
+2021-02-13,Daily ICU occupancy,3485.0,Germany
+2021-02-14,Daily ICU occupancy,3424.0,Germany
+2021-02-15,Daily ICU occupancy,3436.0,Germany
+2021-02-16,Daily ICU occupancy,3354.0,Germany
+2021-02-17,Daily ICU occupancy,3248.0,Germany
+2021-02-18,Daily ICU occupancy,3178.0,Germany
+2021-02-19,Daily ICU occupancy,3121.0,Germany
+2021-02-20,Daily ICU occupancy,3081.0,Germany
+2021-02-21,Daily ICU occupancy,3056.0,Germany
+2021-02-22,Daily ICU occupancy,3058.0,Germany
+2021-02-23,Daily ICU occupancy,3037.0,Germany
+2021-02-24,Daily ICU occupancy,2956.0,Germany
+2021-02-25,Daily ICU occupancy,2899.0,Germany
+2021-02-26,Daily ICU occupancy,2848.0,Germany
+2021-02-27,Daily ICU occupancy,2826.0,Germany
+2021-02-28,Daily ICU occupancy,2840.0,Germany
+2021-03-01,Daily ICU occupancy,2869.0,Germany
+2021-03-02,Daily ICU occupancy,2855.0,Germany
+2021-03-03,Daily ICU occupancy,2823.0,Germany
+2021-03-04,Daily ICU occupancy,2814.0,Germany
+2021-03-05,Daily ICU occupancy,2765.0,Germany
+2021-03-06,Daily ICU occupancy,2755.0,Germany
+2021-03-07,Daily ICU occupancy,2787.0,Germany
+2021-03-08,Daily ICU occupancy,2865.0,Germany
+2021-03-09,Daily ICU occupancy,2785.0,Germany
+2021-03-10,Daily ICU occupancy,2736.0,Germany
+2021-03-11,Daily ICU occupancy,2758.0,Germany
+2021-03-12,Daily ICU occupancy,2755.0,Germany
+2021-03-13,Daily ICU occupancy,2719.0,Germany
+2021-03-14,Daily ICU occupancy,2773.0,Germany
+2021-03-15,Daily ICU occupancy,2833.0,Germany
+2021-03-16,Daily ICU occupancy,2852.0,Germany
+2021-03-17,Daily ICU occupancy,2859.0,Germany
+2021-03-18,Daily ICU occupancy,2895.0,Germany
+2021-03-19,Daily ICU occupancy,2951.0,Germany
+2021-03-20,Daily ICU occupancy,2958.0,Germany
+2021-03-21,Daily ICU occupancy,3056.0,Germany
+2021-03-22,Daily ICU occupancy,3150.0,Germany
+2021-03-23,Daily ICU occupancy,3168.0,Germany
+2021-03-24,Daily ICU occupancy,3207.0,Germany
+2021-03-25,Daily ICU occupancy,3261.0,Germany
+2021-03-26,Daily ICU occupancy,3333.0,Germany
+2021-03-27,Daily ICU occupancy,3390.0,Germany
+2021-03-28,Daily ICU occupancy,3455.0,Germany
+2021-03-29,Daily ICU occupancy,3571.0,Germany
+2021-03-30,Daily ICU occupancy,3599.0,Germany
+2021-03-31,Daily ICU occupancy,3680.0,Germany
+2021-04-01,Daily ICU occupancy,3730.0,Germany
+2021-04-02,Daily ICU occupancy,3850.0,Germany
+2021-04-03,Daily ICU occupancy,3917.0,Germany
+2021-04-04,Daily ICU occupancy,4060.0,Germany
+2021-04-05,Daily ICU occupancy,4164.0,Germany
+2021-04-06,Daily ICU occupancy,4357.0,Germany
+2021-04-07,Daily ICU occupancy,4443.0,Germany
+2021-04-08,Daily ICU occupancy,4477.0,Germany
+2021-04-09,Daily ICU occupancy,4515.0,Germany
+2021-04-10,Daily ICU occupancy,4535.0,Germany
+2021-04-11,Daily ICU occupancy,4585.0,Germany
+2021-04-12,Daily ICU occupancy,4662.0,Germany
+2021-04-13,Daily ICU occupancy,4692.0,Germany
+2021-04-14,Daily ICU occupancy,4680.0,Germany
+2021-04-15,Daily ICU occupancy,4684.0,Germany
+2021-04-16,Daily ICU occupancy,4740.0,Germany
+2021-04-17,Daily ICU occupancy,4786.0,Germany
+2021-04-18,Daily ICU occupancy,4844.0,Germany
+2021-04-19,Daily ICU occupancy,4932.0,Germany
+2021-04-20,Daily ICU occupancy,4968.0,Germany
+2021-04-21,Daily ICU occupancy,4988.0,Germany
+2021-04-22,Daily ICU occupancy,5050.0,Germany
+2021-04-23,Daily ICU occupancy,5054.0,Germany
+2021-04-24,Daily ICU occupancy,5025.0,Germany
+2021-04-25,Daily ICU occupancy,5052.0,Germany
+2021-04-26,Daily ICU occupancy,5120.0,Germany
+2021-04-27,Daily ICU occupancy,5064.0,Germany
+2021-04-28,Daily ICU occupancy,5046.0,Germany
+2021-04-29,Daily ICU occupancy,5033.0,Germany
+2021-04-30,Daily ICU occupancy,5024.0,Germany
+2021-05-01,Daily ICU occupancy,5009.0,Germany
+2021-05-02,Daily ICU occupancy,5028.0,Germany
+2021-05-03,Daily ICU occupancy,5007.0,Germany
+2021-05-04,Daily ICU occupancy,4954.0,Germany
+2021-05-05,Daily ICU occupancy,4839.0,Germany
+2021-05-06,Daily ICU occupancy,4766.0,Germany
+2021-05-07,Daily ICU occupancy,4672.0,Germany
+2021-05-08,Daily ICU occupancy,4607.0,Germany
+2021-05-09,Daily ICU occupancy,4583.0,Germany
+2021-05-10,Daily ICU occupancy,4582.0,Germany
+2021-05-11,Daily ICU occupancy,4460.0,Germany
+2021-05-12,Daily ICU occupancy,4374.0,Germany
+2021-05-13,Daily ICU occupancy,4255.0,Germany
+2021-05-14,Daily ICU occupancy,4179.0,Germany
+2021-05-15,Daily ICU occupancy,4090.0,Germany
+2021-05-16,Daily ICU occupancy,4065.0,Germany
+2021-05-17,Daily ICU occupancy,4015.0,Germany
+2021-05-18,Daily ICU occupancy,3877.0,Germany
+2021-05-19,Daily ICU occupancy,3707.0,Germany
+2021-05-20,Daily ICU occupancy,3593.0,Germany
+2021-05-21,Daily ICU occupancy,3473.0,Germany
+2021-05-22,Daily ICU occupancy,3358.0,Germany
+2021-05-23,Daily ICU occupancy,3303.0,Germany
+2021-05-24,Daily ICU occupancy,3234.0,Germany
+2021-05-25,Daily ICU occupancy,3179.0,Germany
+2021-05-26,Daily ICU occupancy,3000.0,Germany
+2021-05-27,Daily ICU occupancy,2836.0,Germany
+2021-05-28,Daily ICU occupancy,2702.0,Germany
+2021-05-29,Daily ICU occupancy,2594.0,Germany
+2021-05-30,Daily ICU occupancy,2517.0,Germany
+2021-05-31,Daily ICU occupancy,2451.0,Germany
+2021-06-01,Daily ICU occupancy,2289.0,Germany
+2021-06-02,Daily ICU occupancy,2148.0,Germany
+2021-06-03,Daily ICU occupancy,2035.0,Germany
+2021-06-04,Daily ICU occupancy,1969.0,Germany
+2021-06-05,Daily ICU occupancy,1896.0,Germany
+2021-06-06,Daily ICU occupancy,1853.0,Germany
+2021-06-07,Daily ICU occupancy,1795.0,Germany
+2021-06-08,Daily ICU occupancy,1699.0,Germany
+2021-06-09,Daily ICU occupancy,1598.0,Germany
+2021-06-10,Daily ICU occupancy,1507.0,Germany
+2021-06-11,Daily ICU occupancy,1420.0,Germany
+2021-06-12,Daily ICU occupancy,1343.0,Germany
+2021-06-13,Daily ICU occupancy,1337.0,Germany
+2021-06-14,Daily ICU occupancy,1281.0,Germany
+2021-06-15,Daily ICU occupancy,1208.0,Germany
+2021-06-16,Daily ICU occupancy,1135.0,Germany
+2021-06-17,Daily ICU occupancy,1069.0,Germany
+2021-06-18,Daily ICU occupancy,1010.0,Germany
+2021-06-19,Daily ICU occupancy,965.0,Germany
+2021-06-20,Daily ICU occupancy,931.0,Germany
+2021-06-21,Daily ICU occupancy,889.0,Germany
+2021-06-22,Daily ICU occupancy,850.0,Germany
+2021-06-23,Daily ICU occupancy,811.0,Germany
+2021-06-24,Daily ICU occupancy,779.0,Germany
+2021-06-25,Daily ICU occupancy,735.0,Germany
+2021-06-26,Daily ICU occupancy,716.0,Germany
+2021-06-27,Daily ICU occupancy,706.0,Germany
+2021-06-28,Daily ICU occupancy,689.0,Germany
+2021-06-29,Daily ICU occupancy,664.0,Germany
+2021-06-30,Daily ICU occupancy,614.0,Germany
+2021-07-01,Daily ICU occupancy,590.0,Germany
+2021-07-02,Daily ICU occupancy,565.0,Germany
+2021-07-03,Daily ICU occupancy,549.0,Germany
+2021-07-04,Daily ICU occupancy,548.0,Germany
+2021-07-05,Daily ICU occupancy,526.0,Germany
+2021-07-06,Daily ICU occupancy,509.0,Germany
+2021-07-07,Daily ICU occupancy,484.0,Germany
+2021-07-08,Daily ICU occupancy,470.0,Germany
+2021-07-09,Daily ICU occupancy,453.0,Germany
+2021-07-10,Daily ICU occupancy,435.0,Germany
+2021-07-11,Daily ICU occupancy,432.0,Germany
+2021-07-12,Daily ICU occupancy,435.0,Germany
+2021-07-13,Daily ICU occupancy,406.0,Germany
+2021-07-14,Daily ICU occupancy,398.0,Germany
+2021-07-15,Daily ICU occupancy,396.0,Germany
+2021-07-16,Daily ICU occupancy,379.0,Germany
+2021-07-17,Daily ICU occupancy,372.0,Germany
+2021-07-18,Daily ICU occupancy,371.0,Germany
+2021-07-19,Daily ICU occupancy,368.0,Germany
+2021-07-20,Daily ICU occupancy,361.0,Germany
+2021-07-21,Daily ICU occupancy,357.0,Germany
+2021-07-22,Daily ICU occupancy,354.0,Germany
+2021-07-23,Daily ICU occupancy,356.0,Germany
+2021-07-24,Daily ICU occupancy,354.0,Germany
+2021-07-25,Daily ICU occupancy,371.0,Germany
+2021-07-26,Daily ICU occupancy,369.0,Germany
+2021-07-27,Daily ICU occupancy,370.0,Germany
+2021-07-28,Daily ICU occupancy,356.0,Germany
+2021-07-29,Daily ICU occupancy,347.0,Germany
+2021-07-30,Daily ICU occupancy,352.0,Germany
+2021-07-31,Daily ICU occupancy,361.0,Germany
+2021-08-01,Daily ICU occupancy,364.0,Germany
+2021-08-02,Daily ICU occupancy,378.0,Germany
+2021-08-03,Daily ICU occupancy,378.0,Germany
+2021-08-04,Daily ICU occupancy,392.0,Germany
+2021-08-05,Daily ICU occupancy,387.0,Germany
+2021-08-06,Daily ICU occupancy,393.0,Germany
+2021-08-07,Daily ICU occupancy,416.0,Germany
+2021-08-08,Daily ICU occupancy,434.0,Germany
+2021-08-09,Daily ICU occupancy,456.0,Germany
+2021-08-10,Daily ICU occupancy,443.0,Germany
+2021-08-11,Daily ICU occupancy,454.0,Germany
+2021-08-12,Daily ICU occupancy,472.0,Germany
+2021-08-13,Daily ICU occupancy,480.0,Germany
+2021-08-14,Daily ICU occupancy,489.0,Germany
+2021-08-15,Daily ICU occupancy,517.0,Germany
+2021-08-16,Daily ICU occupancy,547.0,Germany
+2021-08-17,Daily ICU occupancy,576.0,Germany
+2021-08-18,Daily ICU occupancy,600.0,Germany
+2021-08-19,Daily ICU occupancy,623.0,Germany
+2021-08-20,Daily ICU occupancy,652.0,Germany
+2021-08-21,Daily ICU occupancy,682.0,Germany
+2021-08-22,Daily ICU occupancy,714.0,Germany
+2021-08-23,Daily ICU occupancy,776.0,Germany
+2021-08-24,Daily ICU occupancy,805.0,Germany
+2021-08-25,Daily ICU occupancy,836.0,Germany
+2021-08-26,Daily ICU occupancy,869.0,Germany
+2021-08-27,Daily ICU occupancy,925.0,Germany
+2021-08-28,Daily ICU occupancy,974.0,Germany
+2021-08-29,Daily ICU occupancy,1011.0,Germany
+2021-08-30,Daily ICU occupancy,1069.0,Germany
+2021-08-31,Daily ICU occupancy,1096.0,Germany
+2021-09-01,Daily ICU occupancy,1136.0,Germany
+2021-09-02,Daily ICU occupancy,1170.0,Germany
+2021-09-03,Daily ICU occupancy,1217.0,Germany
+2021-09-04,Daily ICU occupancy,1261.0,Germany
+2021-09-05,Daily ICU occupancy,1287.0,Germany
+2021-09-06,Daily ICU occupancy,1322.0,Germany
+2021-09-07,Daily ICU occupancy,1349.0,Germany
+2021-09-08,Daily ICU occupancy,1387.0,Germany
+2021-09-09,Daily ICU occupancy,1396.0,Germany
+2021-09-10,Daily ICU occupancy,1412.0,Germany
+2021-09-11,Daily ICU occupancy,1437.0,Germany
+2021-09-12,Daily ICU occupancy,1453.0,Germany
+2021-09-13,Daily ICU occupancy,1500.0,Germany
+2021-09-14,Daily ICU occupancy,1540.0,Germany
+2021-09-15,Daily ICU occupancy,1527.0,Germany
+2021-09-16,Daily ICU occupancy,1550.0,Germany
+2021-09-17,Daily ICU occupancy,1544.0,Germany
+2021-09-18,Daily ICU occupancy,1523.0,Germany
+2021-09-19,Daily ICU occupancy,1535.0,Germany
+2021-09-20,Daily ICU occupancy,1541.0,Germany
+2021-09-21,Daily ICU occupancy,1504.0,Germany
+2021-09-22,Daily ICU occupancy,1500.0,Germany
+2021-09-23,Daily ICU occupancy,1458.0,Germany
+2021-09-24,Daily ICU occupancy,1434.0,Germany
+2021-09-25,Daily ICU occupancy,1436.0,Germany
+2021-09-26,Daily ICU occupancy,1435.0,Germany
+2021-09-27,Daily ICU occupancy,1434.0,Germany
+2021-09-28,Daily ICU occupancy,1414.0,Germany
+2021-09-29,Daily ICU occupancy,1364.0,Germany
+2021-09-30,Daily ICU occupancy,1357.0,Germany
+2021-10-01,Daily ICU occupancy,1363.0,Germany
+2021-10-02,Daily ICU occupancy,1332.0,Germany
+2021-10-03,Daily ICU occupancy,1334.0,Germany
+2021-10-04,Daily ICU occupancy,1349.0,Germany
+2021-10-05,Daily ICU occupancy,1361.0,Germany
+2021-10-06,Daily ICU occupancy,1359.0,Germany
+2021-10-07,Daily ICU occupancy,1374.0,Germany
+2021-10-08,Daily ICU occupancy,1352.0,Germany
+2021-10-09,Daily ICU occupancy,1342.0,Germany
+2021-10-10,Daily ICU occupancy,1345.0,Germany
+2021-10-11,Daily ICU occupancy,1354.0,Germany
+2021-10-12,Daily ICU occupancy,1383.0,Germany
+2021-10-13,Daily ICU occupancy,1401.0,Germany
+2021-10-14,Daily ICU occupancy,1395.0,Germany
+2021-10-15,Daily ICU occupancy,1402.0,Germany
+2021-10-16,Daily ICU occupancy,1407.0,Germany
+2021-10-17,Daily ICU occupancy,1421.0,Germany
+2021-10-18,Daily ICU occupancy,1458.0,Germany
+2021-10-19,Daily ICU occupancy,1476.0,Germany
+2021-10-20,Daily ICU occupancy,1482.0,Germany
+2021-10-21,Daily ICU occupancy,1540.0,Germany
+2021-10-22,Daily ICU occupancy,1542.0,Germany
+2021-10-23,Daily ICU occupancy,1606.0,Germany
+2021-10-24,Daily ICU occupancy,1630.0,Germany
+2021-10-25,Daily ICU occupancy,1682.0,Germany
+2021-10-26,Daily ICU occupancy,1704.0,Germany
+2021-10-27,Daily ICU occupancy,1765.0,Germany
+2021-10-28,Daily ICU occupancy,1810.0,Germany
+2021-10-29,Daily ICU occupancy,1870.0,Germany
+2021-10-30,Daily ICU occupancy,1937.0,Germany
+2021-10-31,Daily ICU occupancy,1985.0,Germany
+2021-11-01,Daily ICU occupancy,2060.0,Germany
+2021-11-02,Daily ICU occupancy,2137.0,Germany
+2021-11-03,Daily ICU occupancy,2226.0,Germany
+2021-11-04,Daily ICU occupancy,2333.0,Germany
+2021-11-05,Daily ICU occupancy,2420.0,Germany
+2021-11-06,Daily ICU occupancy,2449.0,Germany
+2021-11-07,Daily ICU occupancy,2543.0,Germany
+2021-11-08,Daily ICU occupancy,2622.0,Germany
+2021-11-09,Daily ICU occupancy,2687.0,Germany
+2021-11-10,Daily ICU occupancy,2739.0,Germany
+2021-11-11,Daily ICU occupancy,2830.0,Germany
+2021-11-12,Daily ICU occupancy,2864.0,Germany
+2021-11-13,Daily ICU occupancy,2941.0,Germany
+2021-11-14,Daily ICU occupancy,3034.0,Germany
+2021-11-15,Daily ICU occupancy,3194.0,Germany
+2021-11-16,Daily ICU occupancy,3285.0,Germany
+2021-11-17,Daily ICU occupancy,3378.0,Germany
+2021-11-18,Daily ICU occupancy,3431.0,Germany
+2021-11-19,Daily ICU occupancy,3513.0,Germany
+2021-11-20,Daily ICU occupancy,3566.0,Germany
+2021-11-21,Daily ICU occupancy,3678.0,Germany
+2021-11-22,Daily ICU occupancy,3855.0,Germany
+2021-11-23,Daily ICU occupancy,3994.0,Germany
+2021-11-24,Daily ICU occupancy,4078.0,Germany
+2021-11-25,Daily ICU occupancy,4205.0,Germany
+2021-11-26,Daily ICU occupancy,4328.0,Germany
+2021-11-27,Daily ICU occupancy,4383.0,Germany
+2021-11-28,Daily ICU occupancy,4478.0,Germany
+2021-11-29,Daily ICU occupancy,4605.0,Germany
+2021-11-30,Daily ICU occupancy,4642.0,Germany
+2021-12-01,Daily ICU occupancy,4690.0,Germany
+2021-12-02,Daily ICU occupancy,4797.0,Germany
+2021-12-03,Daily ICU occupancy,4796.0,Germany
+2021-12-04,Daily ICU occupancy,4805.0,Germany
+2021-12-05,Daily ICU occupancy,4826.0,Germany
+2021-12-06,Daily ICU occupancy,4904.0,Germany
+2021-12-07,Daily ICU occupancy,4943.0,Germany
+2021-12-08,Daily ICU occupancy,4894.0,Germany
+2021-12-09,Daily ICU occupancy,4939.0,Germany
+2021-12-10,Daily ICU occupancy,4945.0,Germany
+2021-12-11,Daily ICU occupancy,4905.0,Germany
+2021-12-12,Daily ICU occupancy,4907.0,Germany
+2021-12-13,Daily ICU occupancy,4925.0,Germany
+2021-12-14,Daily ICU occupancy,4895.0,Germany
+2021-12-15,Daily ICU occupancy,4826.0,Germany
+2021-12-16,Daily ICU occupancy,4765.0,Germany
+2021-12-17,Daily ICU occupancy,4685.0,Germany
+2021-12-18,Daily ICU occupancy,4660.0,Germany
+2021-12-19,Daily ICU occupancy,4640.0,Germany
+2021-12-20,Daily ICU occupancy,4620.0,Germany
+2021-12-21,Daily ICU occupancy,4562.0,Germany
+2021-12-22,Daily ICU occupancy,4470.0,Germany
+2021-12-23,Daily ICU occupancy,4384.0,Germany
+2021-12-24,Daily ICU occupancy,4282.0,Germany
+2021-12-25,Daily ICU occupancy,4273.0,Germany
+2021-12-26,Daily ICU occupancy,4234.0,Germany
+2021-12-27,Daily ICU occupancy,4206.0,Germany
+2021-12-28,Daily ICU occupancy,4128.0,Germany
+2021-12-29,Daily ICU occupancy,4004.0,Germany
+2021-12-30,Daily ICU occupancy,3913.0,Germany
+2021-12-31,Daily ICU occupancy,3832.0,Germany
+2022-01-01,Daily ICU occupancy,3825.0,Germany
+2022-01-02,Daily ICU occupancy,3806.0,Germany
+2022-01-03,Daily ICU occupancy,3802.0,Germany
+2022-01-04,Daily ICU occupancy,3670.0,Germany
+2022-01-05,Daily ICU occupancy,3561.0,Germany
+2022-01-06,Daily ICU occupancy,3439.0,Germany
+2022-01-07,Daily ICU occupancy,3380.0,Germany
+2022-01-08,Daily ICU occupancy,3314.0,Germany
+2022-01-09,Daily ICU occupancy,3273.0,Germany
+2022-01-10,Daily ICU occupancy,3249.0,Germany
+2022-01-11,Daily ICU occupancy,3153.0,Germany
+2022-01-12,Daily ICU occupancy,3048.0,Germany
+2022-01-13,Daily ICU occupancy,2956.0,Germany
+2022-01-14,Daily ICU occupancy,2868.0,Germany
+2022-01-15,Daily ICU occupancy,2797.0,Germany
+2022-01-16,Daily ICU occupancy,2742.0,Germany
+2022-01-17,Daily ICU occupancy,2744.0,Germany
+2022-01-18,Daily ICU occupancy,2667.0,Germany
+2022-01-19,Daily ICU occupancy,2570.0,Germany
+2022-01-20,Daily ICU occupancy,2447.0,Germany
+2022-01-21,Daily ICU occupancy,2418.0,Germany
+2022-01-22,Daily ICU occupancy,2398.0,Germany
+2022-01-23,Daily ICU occupancy,2424.0,Germany
+2022-01-24,Daily ICU occupancy,2432.0,Germany
+2022-01-25,Daily ICU occupancy,2396.0,Germany
+2022-01-26,Daily ICU occupancy,2364.0,Germany
+2022-01-27,Daily ICU occupancy,2273.0,Germany
+2022-01-28,Daily ICU occupancy,2259.0,Germany
+2022-01-29,Daily ICU occupancy,2222.0,Germany
+2022-01-30,Daily ICU occupancy,2268.0,Germany
+2022-01-31,Daily ICU occupancy,2304.0,Germany
+2022-02-01,Daily ICU occupancy,2259.0,Germany
+2022-02-02,Daily ICU occupancy,2311.0,Germany
+2022-02-03,Daily ICU occupancy,2262.0,Germany
+2022-02-04,Daily ICU occupancy,2306.0,Germany
+2022-02-05,Daily ICU occupancy,2306.0,Germany
+2022-02-06,Daily ICU occupancy,2343.0,Germany
+2022-02-07,Daily ICU occupancy,2375.0,Germany
+2022-02-08,Daily ICU occupancy,2392.0,Germany
+2022-02-09,Daily ICU occupancy,2397.0,Germany
+2022-02-10,Daily ICU occupancy,2396.0,Germany
+2022-02-11,Daily ICU occupancy,2403.0,Germany
+2022-02-12,Daily ICU occupancy,2404.0,Germany
+2022-02-13,Daily ICU occupancy,2432.0,Germany
+2022-02-14,Daily ICU occupancy,2475.0,Germany
+2022-02-15,Daily ICU occupancy,2498.0,Germany
+2022-02-16,Daily ICU occupancy,2469.0,Germany
+2022-02-17,Daily ICU occupancy,2475.0,Germany
+2022-02-18,Daily ICU occupancy,2437.0,Germany
+2022-02-19,Daily ICU occupancy,2417.0,Germany
+2022-02-20,Daily ICU occupancy,2394.0,Germany
+2022-02-21,Daily ICU occupancy,2416.0,Germany
+2022-02-22,Daily ICU occupancy,2397.0,Germany
+2022-02-23,Daily ICU occupancy,2398.0,Germany
+2022-02-24,Daily ICU occupancy,2284.0,Germany
+2022-02-25,Daily ICU occupancy,2289.0,Germany
+2022-02-26,Daily ICU occupancy,2253.0,Germany
+2022-02-27,Daily ICU occupancy,2241.0,Germany
+2022-02-28,Daily ICU occupancy,2280.0,Germany
+2022-03-01,Daily ICU occupancy,2288.0,Germany
+2022-03-02,Daily ICU occupancy,2201.0,Germany
+2022-03-03,Daily ICU occupancy,2152.0,Germany
+2022-03-04,Daily ICU occupancy,2110.0,Germany
+2022-03-05,Daily ICU occupancy,2103.0,Germany
+2022-03-06,Daily ICU occupancy,2104.0,Germany
+2022-03-07,Daily ICU occupancy,2167.0,Germany
+2022-03-08,Daily ICU occupancy,2158.0,Germany
+2022-03-09,Daily ICU occupancy,2118.0,Germany
+2022-03-10,Daily ICU occupancy,2115.0,Germany
+2022-03-11,Daily ICU occupancy,2116.0,Germany
+2022-03-12,Daily ICU occupancy,2111.0,Germany
+2022-03-13,Daily ICU occupancy,2192.0,Germany
+2022-03-14,Daily ICU occupancy,2259.0,Germany
+2022-03-15,Daily ICU occupancy,2294.0,Germany
+2022-03-16,Daily ICU occupancy,2303.0,Germany
+2022-03-17,Daily ICU occupancy,2287.0,Germany
+2022-03-18,Daily ICU occupancy,2284.0,Germany
+2022-03-19,Daily ICU occupancy,2240.0,Germany
+2022-03-20,Daily ICU occupancy,2268.0,Germany
+2022-03-21,Daily ICU occupancy,2348.0,Germany
+2022-03-22,Daily ICU occupancy,2381.0,Germany
+2022-03-23,Daily ICU occupancy,2332.0,Germany
+2022-03-24,Daily ICU occupancy,2326.0,Germany
+2022-03-25,Daily ICU occupancy,2305.0,Germany
+2022-03-26,Daily ICU occupancy,2335.0,Germany
+2022-03-27,Daily ICU occupancy,2336.0,Germany
+2022-03-28,Daily ICU occupancy,2356.0,Germany
+2022-03-29,Daily ICU occupancy,2377.0,Germany
+2022-03-30,Daily ICU occupancy,2332.0,Germany
+2022-03-31,Daily ICU occupancy,2304.0,Germany
+2022-04-01,Daily ICU occupancy,2271.0,Germany
+2022-04-02,Daily ICU occupancy,2215.0,Germany
+2022-04-03,Daily ICU occupancy,2212.0,Germany
+2022-04-04,Daily ICU occupancy,2234.0,Germany
+2022-04-05,Daily ICU occupancy,2164.0,Germany
+2022-04-06,Daily ICU occupancy,2107.0,Germany
+2022-04-07,Daily ICU occupancy,2054.0,Germany
+2022-04-08,Daily ICU occupancy,2028.0,Germany
+2022-04-09,Daily ICU occupancy,1985.0,Germany
+2022-04-10,Daily ICU occupancy,1989.0,Germany
+2022-04-11,Daily ICU occupancy,1982.0,Germany
+2022-04-12,Daily ICU occupancy,1916.0,Germany
+2022-04-13,Daily ICU occupancy,1849.0,Germany
+2022-04-14,Daily ICU occupancy,1821.0,Germany
+2022-04-15,Daily ICU occupancy,1793.0,Germany
+2022-04-16,Daily ICU occupancy,1742.0,Germany
+2022-04-17,Daily ICU occupancy,1766.0,Germany
+2022-04-18,Daily ICU occupancy,1764.0,Germany
+2022-04-19,Daily ICU occupancy,1803.0,Germany
+2022-04-20,Daily ICU occupancy,1734.0,Germany
+2022-04-21,Daily ICU occupancy,1646.0,Germany
+2022-04-22,Daily ICU occupancy,1613.0,Germany
+2022-04-23,Daily ICU occupancy,1614.0,Germany
+2022-04-24,Daily ICU occupancy,1571.0,Germany
+2022-04-25,Daily ICU occupancy,1576.0,Germany
+2022-04-26,Daily ICU occupancy,1519.0,Germany
+2022-04-27,Daily ICU occupancy,1445.0,Germany
+2022-04-28,Daily ICU occupancy,1406.0,Germany
+2022-04-29,Daily ICU occupancy,1380.0,Germany
+2022-04-30,Daily ICU occupancy,1354.0,Germany
+2022-05-01,Daily ICU occupancy,1337.0,Germany
+2022-05-02,Daily ICU occupancy,1323.0,Germany
+2022-05-03,Daily ICU occupancy,1278.0,Germany
+2022-05-04,Daily ICU occupancy,1202.0,Germany
+2022-05-05,Daily ICU occupancy,1176.0,Germany
+2022-05-06,Daily ICU occupancy,1116.0,Germany
+2022-05-07,Daily ICU occupancy,1084.0,Germany
+2022-05-08,Daily ICU occupancy,1096.0,Germany
+2022-05-09,Daily ICU occupancy,1095.0,Germany
+2022-05-10,Daily ICU occupancy,1064.0,Germany
+2022-05-11,Daily ICU occupancy,1033.0,Germany
+2022-05-12,Daily ICU occupancy,1002.0,Germany
+2022-05-13,Daily ICU occupancy,978.0,Germany
+2022-05-14,Daily ICU occupancy,945.0,Germany
+2022-05-15,Daily ICU occupancy,923.0,Germany
+2022-05-16,Daily ICU occupancy,944.0,Germany
+2022-05-17,Daily ICU occupancy,945.0,Germany
+2022-05-18,Daily ICU occupancy,905.0,Germany
+2022-05-19,Daily ICU occupancy,875.0,Germany
+2022-05-20,Daily ICU occupancy,821.0,Germany
+2022-05-21,Daily ICU occupancy,802.0,Germany
+2022-05-22,Daily ICU occupancy,818.0,Germany
+2022-05-23,Daily ICU occupancy,788.0,Germany
+2022-05-24,Daily ICU occupancy,742.0,Germany
+2022-05-25,Daily ICU occupancy,719.0,Germany
+2022-05-26,Daily ICU occupancy,703.0,Germany
+2022-05-27,Daily ICU occupancy,702.0,Germany
+2022-05-28,Daily ICU occupancy,669.0,Germany
+2022-05-29,Daily ICU occupancy,656.0,Germany
+2022-05-30,Daily ICU occupancy,669.0,Germany
+2022-05-31,Daily ICU occupancy,683.0,Germany
+2022-06-01,Daily ICU occupancy,671.0,Germany
+2022-06-02,Daily ICU occupancy,648.0,Germany
+2022-06-03,Daily ICU occupancy,637.0,Germany
+2022-06-04,Daily ICU occupancy,617.0,Germany
+2022-06-05,Daily ICU occupancy,613.0,Germany
+2022-06-06,Daily ICU occupancy,632.0,Germany
+2022-06-07,Daily ICU occupancy,623.0,Germany
+2022-06-08,Daily ICU occupancy,622.0,Germany
+2022-06-09,Daily ICU occupancy,620.0,Germany
+2022-06-10,Daily ICU occupancy,626.0,Germany
+2022-06-11,Daily ICU occupancy,607.0,Germany
+2022-06-12,Daily ICU occupancy,621.0,Germany
+2022-06-13,Daily ICU occupancy,650.0,Germany
+2022-06-14,Daily ICU occupancy,674.0,Germany
+2022-06-15,Daily ICU occupancy,672.0,Germany
+2022-06-16,Daily ICU occupancy,684.0,Germany
+2022-06-17,Daily ICU occupancy,694.0,Germany
+2022-06-18,Daily ICU occupancy,684.0,Germany
+2022-06-19,Daily ICU occupancy,718.0,Germany
+2022-06-20,Daily ICU occupancy,747.0,Germany
+2022-06-21,Daily ICU occupancy,795.0,Germany
+2022-06-22,Daily ICU occupancy,782.0,Germany
+2022-06-23,Daily ICU occupancy,810.0,Germany
+2022-06-24,Daily ICU occupancy,799.0,Germany
+2022-06-25,Daily ICU occupancy,788.0,Germany
+2022-06-26,Daily ICU occupancy,836.0,Germany
+2022-06-27,Daily ICU occupancy,932.0,Germany
+2022-06-28,Daily ICU occupancy,981.0,Germany
+2022-06-29,Daily ICU occupancy,935.0,Germany
+2022-06-30,Daily ICU occupancy,932.0,Germany
+2022-07-01,Daily ICU occupancy,978.0,Germany
+2022-07-02,Daily ICU occupancy,982.0,Germany
+2022-07-03,Daily ICU occupancy,998.0,Germany
+2022-07-04,Daily ICU occupancy,1064.0,Germany
+2022-07-05,Daily ICU occupancy,1065.0,Germany
+2022-07-06,Daily ICU occupancy,1046.0,Germany
+2022-07-07,Daily ICU occupancy,1048.0,Germany
+2022-07-08,Daily ICU occupancy,1072.0,Germany
+2022-07-09,Daily ICU occupancy,1054.0,Germany
+2022-07-10,Daily ICU occupancy,1101.0,Germany
+2022-07-11,Daily ICU occupancy,1174.0,Germany
+2022-07-12,Daily ICU occupancy,1215.0,Germany
+2022-07-13,Daily ICU occupancy,1239.0,Germany
+2022-07-14,Daily ICU occupancy,1241.0,Germany
+2022-07-15,Daily ICU occupancy,1221.0,Germany
+2022-07-16,Daily ICU occupancy,1228.0,Germany
+2022-07-17,Daily ICU occupancy,1270.0,Germany
+2022-07-18,Daily ICU occupancy,1322.0,Germany
+2022-07-19,Daily ICU occupancy,1328.0,Germany
+2022-07-20,Daily ICU occupancy,1331.0,Germany
+2022-07-21,Daily ICU occupancy,1395.0,Germany
+2022-07-22,Daily ICU occupancy,1395.0,Germany
+2022-07-23,Daily ICU occupancy,1410.0,Germany
+2022-07-24,Daily ICU occupancy,1441.0,Germany
+2022-07-25,Daily ICU occupancy,1558.0,Germany
+2022-07-26,Daily ICU occupancy,1621.0,Germany
+2022-07-27,Daily ICU occupancy,1589.0,Germany
+2022-07-28,Daily ICU occupancy,1553.0,Germany
+2022-07-29,Daily ICU occupancy,1495.0,Germany
+2022-07-30,Daily ICU occupancy,1458.0,Germany
+2022-07-31,Daily ICU occupancy,1446.0,Germany
+2022-08-01,Daily ICU occupancy,1470.0,Germany
+2022-08-02,Daily ICU occupancy,1443.0,Germany
+2022-08-03,Daily ICU occupancy,1396.0,Germany
+2022-08-04,Daily ICU occupancy,1398.0,Germany
+2022-08-05,Daily ICU occupancy,1377.0,Germany
+2022-08-06,Daily ICU occupancy,1344.0,Germany
+2022-08-07,Daily ICU occupancy,1286.0,Germany
+2022-08-08,Daily ICU occupancy,1329.0,Germany
+2022-08-09,Daily ICU occupancy,1274.0,Germany
+2022-08-10,Daily ICU occupancy,1241.0,Germany
+2022-08-11,Daily ICU occupancy,1179.0,Germany
+2022-08-12,Daily ICU occupancy,1157.0,Germany
+2022-08-13,Daily ICU occupancy,1142.0,Germany
+2022-08-14,Daily ICU occupancy,1154.0,Germany
+2022-08-15,Daily ICU occupancy,1155.0,Germany
+2022-08-16,Daily ICU occupancy,1130.0,Germany
+2022-08-17,Daily ICU occupancy,1074.0,Germany
+2022-08-18,Daily ICU occupancy,1105.0,Germany
+2022-08-19,Daily ICU occupancy,1041.0,Germany
+2022-08-20,Daily ICU occupancy,988.0,Germany
+2022-08-21,Daily ICU occupancy,992.0,Germany
+2022-08-22,Daily ICU occupancy,987.0,Germany
+2022-08-23,Daily ICU occupancy,958.0,Germany
+2022-08-24,Daily ICU occupancy,897.0,Germany
+2022-08-25,Daily ICU occupancy,893.0,Germany
+2022-08-26,Daily ICU occupancy,877.0,Germany
+2022-08-27,Daily ICU occupancy,857.0,Germany
+2022-08-28,Daily ICU occupancy,847.0,Germany
+2022-08-29,Daily ICU occupancy,851.0,Germany
+2022-08-30,Daily ICU occupancy,828.0,Germany
+2022-08-31,Daily ICU occupancy,797.0,Germany
+2022-09-01,Daily ICU occupancy,767.0,Germany
+2022-09-02,Daily ICU occupancy,767.0,Germany
+2022-09-03,Daily ICU occupancy,753.0,Germany
+2022-09-04,Daily ICU occupancy,749.0,Germany
+2022-09-05,Daily ICU occupancy,766.0,Germany
+2022-09-06,Daily ICU occupancy,741.0,Germany
+2022-09-07,Daily ICU occupancy,722.0,Germany
+2022-09-08,Daily ICU occupancy,723.0,Germany
+2022-09-09,Daily ICU occupancy,715.0,Germany
+2022-09-10,Daily ICU occupancy,678.0,Germany
+2022-09-11,Daily ICU occupancy,674.0,Germany
+2022-09-12,Daily ICU occupancy,692.0,Germany
+2022-09-13,Daily ICU occupancy,726.0,Germany
+2022-09-14,Daily ICU occupancy,741.0,Germany
+2022-09-15,Daily ICU occupancy,718.0,Germany
+2022-09-16,Daily ICU occupancy,689.0,Germany
+2022-09-17,Daily ICU occupancy,660.0,Germany
+2022-09-18,Daily ICU occupancy,646.0,Germany
+2022-09-19,Daily ICU occupancy,670.0,Germany
+2022-09-20,Daily ICU occupancy,690.0,Germany
+2022-09-21,Daily ICU occupancy,706.0,Germany
+2022-09-22,Daily ICU occupancy,713.0,Germany
+2022-09-23,Daily ICU occupancy,730.0,Germany
+2022-09-24,Daily ICU occupancy,716.0,Germany
+2022-09-25,Daily ICU occupancy,730.0,Germany
+2022-09-26,Daily ICU occupancy,789.0,Germany
+2022-09-27,Daily ICU occupancy,850.0,Germany
+2022-09-28,Daily ICU occupancy,861.0,Germany
+2022-09-29,Daily ICU occupancy,889.0,Germany
+2022-09-30,Daily ICU occupancy,918.0,Germany
+2022-10-01,Daily ICU occupancy,948.0,Germany
+2022-10-02,Daily ICU occupancy,996.0,Germany
+2022-10-03,Daily ICU occupancy,1049.0,Germany
+2022-10-04,Daily ICU occupancy,1214.0,Germany
+2022-10-05,Daily ICU occupancy,1311.0,Germany
+2022-10-06,Daily ICU occupancy,1364.0,Germany
+2022-10-07,Daily ICU occupancy,1385.0,Germany
+2022-10-08,Daily ICU occupancy,1425.0,Germany
+2022-10-09,Daily ICU occupancy,1477.0,Germany
+2022-10-10,Daily ICU occupancy,1606.0,Germany
+2022-10-11,Daily ICU occupancy,1661.0,Germany
+2022-10-12,Daily ICU occupancy,1669.0,Germany
+2022-10-13,Daily ICU occupancy,1712.0,Germany
+2022-10-14,Daily ICU occupancy,1685.0,Germany
+2022-10-15,Daily ICU occupancy,1656.0,Germany
+2022-10-16,Daily ICU occupancy,1705.0,Germany
+2022-10-17,Daily ICU occupancy,1786.0,Germany
+2022-10-18,Daily ICU occupancy,1842.0,Germany
+2022-10-19,Daily ICU occupancy,1821.0,Germany
+2022-10-20,Daily ICU occupancy,1812.0,Germany
+2022-10-21,Daily ICU occupancy,1762.0,Germany
+2022-10-22,Daily ICU occupancy,1752.0,Germany
+2022-10-23,Daily ICU occupancy,1741.0,Germany
+2022-10-24,Daily ICU occupancy,1774.0,Germany
+2022-10-25,Daily ICU occupancy,1773.0,Germany
+2022-10-26,Daily ICU occupancy,1727.0,Germany
+2022-10-27,Daily ICU occupancy,1685.0,Germany
+2022-10-28,Daily ICU occupancy,1643.0,Germany
+2022-10-29,Daily ICU occupancy,1592.0,Germany
+2022-10-30,Daily ICU occupancy,1585.0,Germany
+2022-10-31,Daily ICU occupancy,1584.0,Germany
+2022-11-01,Daily ICU occupancy,1583.0,Germany
+2022-11-02,Daily ICU occupancy,1557.0,Germany
+2022-11-03,Daily ICU occupancy,1485.0,Germany
+2022-11-04,Daily ICU occupancy,1418.0,Germany
+2022-11-05,Daily ICU occupancy,1349.0,Germany
+2022-11-06,Daily ICU occupancy,1343.0,Germany
+2022-11-07,Daily ICU occupancy,1311.0,Germany
+2022-11-08,Daily ICU occupancy,1287.0,Germany
+2022-11-09,Daily ICU occupancy,1222.0,Germany
+2022-11-10,Daily ICU occupancy,1189.0,Germany
+2022-11-11,Daily ICU occupancy,1140.0,Germany
+2022-11-12,Daily ICU occupancy,1124.0,Germany
+2022-11-13,Daily ICU occupancy,1079.0,Germany
+2022-11-14,Daily ICU occupancy,1096.0,Germany
+2022-11-15,Daily ICU occupancy,1043.0,Germany
+2022-11-16,Daily ICU occupancy,1017.0,Germany
+2022-11-17,Daily ICU occupancy,954.0,Germany
+2022-11-18,Daily ICU occupancy,937.0,Germany
+2022-11-19,Daily ICU occupancy,902.0,Germany
+2022-11-20,Daily ICU occupancy,903.0,Germany
+2022-11-21,Daily ICU occupancy,919.0,Germany
+2022-11-22,Daily ICU occupancy,941.0,Germany
+2022-11-23,Daily ICU occupancy,925.0,Germany
+2022-11-24,Daily ICU occupancy,897.0,Germany
+2022-11-25,Daily ICU occupancy,887.0,Germany
+2022-11-26,Daily ICU occupancy,883.0,Germany
+2022-11-27,Daily ICU occupancy,897.0,Germany
+2022-11-28,Daily ICU occupancy,928.0,Germany
+2022-11-29,Daily ICU occupancy,895.0,Germany
+2022-11-30,Daily ICU occupancy,900.0,Germany
+2022-12-01,Daily ICU occupancy,882.0,Germany
+2022-12-02,Daily ICU occupancy,903.0,Germany
+2022-12-03,Daily ICU occupancy,926.0,Germany
+2022-12-04,Daily ICU occupancy,951.0,Germany
+2022-12-05,Daily ICU occupancy,970.0,Germany
+2022-12-06,Daily ICU occupancy,1013.0,Germany
+2022-12-07,Daily ICU occupancy,991.0,Germany
+2022-12-08,Daily ICU occupancy,969.0,Germany
+2022-12-09,Daily ICU occupancy,1002.0,Germany
+2022-12-10,Daily ICU occupancy,980.0,Germany
+2022-12-11,Daily ICU occupancy,987.0,Germany
+2022-12-12,Daily ICU occupancy,1068.0,Germany
+2022-12-13,Daily ICU occupancy,1105.0,Germany
+2022-12-14,Daily ICU occupancy,1073.0,Germany
+2022-12-15,Daily ICU occupancy,1078.0,Germany
+2022-12-16,Daily ICU occupancy,1123.0,Germany
+2022-12-17,Daily ICU occupancy,1104.0,Germany
+2022-12-18,Daily ICU occupancy,1136.0,Germany
+2022-12-19,Daily ICU occupancy,1175.0,Germany
+2022-12-20,Daily ICU occupancy,1196.0,Germany
+2022-12-21,Daily ICU occupancy,1231.0,Germany
+2022-12-22,Daily ICU occupancy,1243.0,Germany
+2022-12-23,Daily ICU occupancy,1270.0,Germany
+2022-12-24,Daily ICU occupancy,1245.0,Germany
+2022-12-25,Daily ICU occupancy,1268.0,Germany
+2022-12-26,Daily ICU occupancy,1312.0,Germany
+2022-12-27,Daily ICU occupancy,1384.0,Germany
+2022-12-28,Daily ICU occupancy,1387.0,Germany
+2022-12-29,Daily ICU occupancy,1386.0,Germany
+2022-12-30,Daily ICU occupancy,1398.0,Germany
+2022-12-31,Daily ICU occupancy,1366.0,Germany
+2023-01-01,Daily ICU occupancy,1376.0,Germany
+2023-01-02,Daily ICU occupancy,1394.0,Germany
+2023-01-03,Daily ICU occupancy,1389.0,Germany
+2023-01-04,Daily ICU occupancy,1349.0,Germany
+2023-01-05,Daily ICU occupancy,1310.0,Germany
+2023-01-06,Daily ICU occupancy,1296.0,Germany
+2023-01-07,Daily ICU occupancy,1276.0,Germany
+2023-01-08,Daily ICU occupancy,1281.0,Germany
+2023-01-09,Daily ICU occupancy,1284.0,Germany
+2023-01-10,Daily ICU occupancy,1214.0,Germany
+2023-01-11,Daily ICU occupancy,1151.0,Germany
+2023-01-12,Daily ICU occupancy,1104.0,Germany
+2023-01-13,Daily ICU occupancy,1059.0,Germany
+2023-01-14,Daily ICU occupancy,997.0,Germany
+2023-01-15,Daily ICU occupancy,994.0,Germany
+2023-01-16,Daily ICU occupancy,955.0,Germany
+2023-01-17,Daily ICU occupancy,897.0,Germany
+2023-01-18,Daily ICU occupancy,850.0,Germany
+2023-01-19,Daily ICU occupancy,825.0,Germany
+2023-01-20,Daily ICU occupancy,775.0,Germany
+2023-01-21,Daily ICU occupancy,720.0,Germany
+2023-01-22,Daily ICU occupancy,699.0,Germany
+2023-01-23,Daily ICU occupancy,672.0,Germany
+2023-01-24,Daily ICU occupancy,669.0,Germany
+2023-01-25,Daily ICU occupancy,672.0,Germany
+2023-01-26,Daily ICU occupancy,635.0,Germany
+2023-01-27,Daily ICU occupancy,613.0,Germany
+2023-01-28,Daily ICU occupancy,591.0,Germany
+2023-01-29,Daily ICU occupancy,597.0,Germany
+2023-01-30,Daily ICU occupancy,626.0,Germany
+2023-01-31,Daily ICU occupancy,597.0,Germany
+2023-02-01,Daily ICU occupancy,600.0,Germany
+2023-02-02,Daily ICU occupancy,615.0,Germany
+2023-02-03,Daily ICU occupancy,616.0,Germany
+2023-02-04,Daily ICU occupancy,603.0,Germany
+2023-02-05,Daily ICU occupancy,616.0,Germany
+2023-02-06,Daily ICU occupancy,640.0,Germany
+2023-02-07,Daily ICU occupancy,668.0,Germany
+2023-02-08,Daily ICU occupancy,687.0,Germany
+2023-02-09,Daily ICU occupancy,667.0,Germany
+2023-02-10,Daily ICU occupancy,669.0,Germany
+2023-02-11,Daily ICU occupancy,695.0,Germany
+2023-02-12,Daily ICU occupancy,713.0,Germany
+2023-02-13,Daily ICU occupancy,742.0,Germany
+2023-02-14,Daily ICU occupancy,762.0,Germany
+2023-02-15,Daily ICU occupancy,778.0,Germany
+2023-02-16,Daily ICU occupancy,837.0,Germany
+2023-02-17,Daily ICU occupancy,874.0,Germany
+2023-02-18,Daily ICU occupancy,848.0,Germany
+2023-02-19,Daily ICU occupancy,838.0,Germany
+2023-02-20,Daily ICU occupancy,929.0,Germany
+2023-02-21,Daily ICU occupancy,971.0,Germany
+2023-02-22,Daily ICU occupancy,1002.0,Germany
+2023-02-23,Daily ICU occupancy,1010.0,Germany
+2023-02-24,Daily ICU occupancy,1017.0,Germany
+2023-02-25,Daily ICU occupancy,1041.0,Germany
+2023-02-26,Daily ICU occupancy,1041.0,Germany
+2023-02-27,Daily ICU occupancy,1052.0,Germany
+2023-02-28,Daily ICU occupancy,1051.0,Germany
+2023-03-01,Daily ICU occupancy,1034.0,Germany
+2023-03-02,Daily ICU occupancy,999.0,Germany
+2023-03-03,Daily ICU occupancy,1002.0,Germany
+2023-03-04,Daily ICU occupancy,995.0,Germany
+2023-03-05,Daily ICU occupancy,1029.0,Germany
+2023-03-06,Daily ICU occupancy,1046.0,Germany
+2023-03-07,Daily ICU occupancy,1085.0,Germany
+2023-03-08,Daily ICU occupancy,1111.0,Germany
+2023-03-09,Daily ICU occupancy,1116.0,Germany
+2023-03-10,Daily ICU occupancy,1116.0,Germany
+2023-03-11,Daily ICU occupancy,1097.0,Germany
+2023-03-12,Daily ICU occupancy,1123.0,Germany
+2023-03-13,Daily ICU occupancy,1170.0,Germany
+2023-03-14,Daily ICU occupancy,1190.0,Germany
+2023-03-15,Daily ICU occupancy,1196.0,Germany
+2023-03-16,Daily ICU occupancy,1219.0,Germany
+2023-03-17,Daily ICU occupancy,1224.0,Germany
+2023-03-18,Daily ICU occupancy,1211.0,Germany
+2023-03-19,Daily ICU occupancy,1210.0,Germany
+2023-03-20,Daily ICU occupancy,1221.0,Germany
+2023-03-21,Daily ICU occupancy,1281.0,Germany
+2023-03-22,Daily ICU occupancy,1239.0,Germany
+2023-03-23,Daily ICU occupancy,1224.0,Germany
+2023-03-24,Daily ICU occupancy,1190.0,Germany
+2023-03-25,Daily ICU occupancy,1176.0,Germany
+2023-03-26,Daily ICU occupancy,1147.0,Germany
+2023-03-27,Daily ICU occupancy,1173.0,Germany
+2023-03-28,Daily ICU occupancy,1122.0,Germany
+2023-03-29,Daily ICU occupancy,1079.0,Germany
+2023-03-30,Daily ICU occupancy,1062.0,Germany
+2023-03-31,Daily ICU occupancy,1064.0,Germany
+2023-04-01,Daily ICU occupancy,1051.0,Germany
+2023-04-02,Daily ICU occupancy,1035.0,Germany
+2023-04-03,Daily ICU occupancy,987.0,Germany
+2023-04-04,Daily ICU occupancy,967.0,Germany
+2023-04-05,Daily ICU occupancy,930.0,Germany
+2023-04-06,Daily ICU occupancy,884.0,Germany
+2023-04-07,Daily ICU occupancy,843.0,Germany
+2023-04-08,Daily ICU occupancy,810.0,Germany
+2023-04-09,Daily ICU occupancy,817.0,Germany
+2023-04-10,Daily ICU occupancy,799.0,Germany
+2023-04-11,Daily ICU occupancy,808.0,Germany
+2023-04-12,Daily ICU occupancy,767.0,Germany
+2023-04-13,Daily ICU occupancy,745.0,Germany
+2023-04-14,Daily ICU occupancy,719.0,Germany
+2023-04-15,Daily ICU occupancy,709.0,Germany
+2023-04-16,Daily ICU occupancy,700.0,Germany
+2023-04-17,Daily ICU occupancy,700.0,Germany
+2023-04-18,Daily ICU occupancy,694.0,Germany
+2023-04-19,Daily ICU occupancy,662.0,Germany
+2023-04-20,Daily ICU occupancy,636.0,Germany
+2023-04-21,Daily ICU occupancy,626.0,Germany
+2023-04-22,Daily ICU occupancy,605.0,Germany
+2023-04-23,Daily ICU occupancy,609.0,Germany
+2023-04-24,Daily ICU occupancy,620.0,Germany
+2023-04-25,Daily ICU occupancy,589.0,Germany
+2023-04-26,Daily ICU occupancy,554.0,Germany
+2023-04-27,Daily ICU occupancy,545.0,Germany
+2023-04-28,Daily ICU occupancy,520.0,Germany
+2023-04-29,Daily ICU occupancy,516.0,Germany
+2023-04-30,Daily ICU occupancy,512.0,Germany
+2023-05-01,Daily ICU occupancy,516.0,Germany
+2023-05-02,Daily ICU occupancy,507.0,Germany
+2023-05-03,Daily ICU occupancy,471.0,Germany
+2023-05-04,Daily ICU occupancy,450.0,Germany
+2023-05-05,Daily ICU occupancy,450.0,Germany
+2023-05-06,Daily ICU occupancy,436.0,Germany
+2023-05-07,Daily ICU occupancy,417.0,Germany
+2023-05-08,Daily ICU occupancy,410.0,Germany
+2023-05-09,Daily ICU occupancy,387.0,Germany
+2023-05-10,Daily ICU occupancy,367.0,Germany
+2023-05-11,Daily ICU occupancy,347.0,Germany
+2023-05-12,Daily ICU occupancy,343.0,Germany
+2023-05-13,Daily ICU occupancy,339.0,Germany
+2023-05-14,Daily ICU occupancy,340.0,Germany
+2023-05-15,Daily ICU occupancy,337.0,Germany
+2023-05-16,Daily ICU occupancy,325.0,Germany
+2023-05-17,Daily ICU occupancy,305.0,Germany
+2023-05-18,Daily ICU occupancy,313.0,Germany
+2023-05-19,Daily ICU occupancy,308.0,Germany
+2023-05-20,Daily ICU occupancy,296.0,Germany
+2023-05-21,Daily ICU occupancy,309.0,Germany
+2023-05-22,Daily ICU occupancy,290.0,Germany
+2023-05-23,Daily ICU occupancy,277.0,Germany
+2023-05-24,Daily ICU occupancy,260.0,Germany
+2023-05-25,Daily ICU occupancy,229.0,Germany
+2023-05-26,Daily ICU occupancy,237.0,Germany
+2023-05-27,Daily ICU occupancy,254.0,Germany
+2023-05-28,Daily ICU occupancy,235.0,Germany
+2023-05-29,Daily ICU occupancy,234.0,Germany
+2023-05-30,Daily ICU occupancy,226.0,Germany
+2023-05-31,Daily ICU occupancy,218.0,Germany
+2023-06-01,Daily ICU occupancy,200.0,Germany
+2023-06-02,Daily ICU occupancy,199.0,Germany
+2023-06-03,Daily ICU occupancy,186.0,Germany
+2023-06-04,Daily ICU occupancy,190.0,Germany
+2023-06-05,Daily ICU occupancy,199.0,Germany
+2023-06-06,Daily ICU occupancy,193.0,Germany
+2023-06-07,Daily ICU occupancy,171.0,Germany
+2023-06-08,Daily ICU occupancy,158.0,Germany
+2023-06-09,Daily ICU occupancy,167.0,Germany
+2023-06-10,Daily ICU occupancy,171.0,Germany
+2023-06-11,Daily ICU occupancy,179.0,Germany
+2023-06-12,Daily ICU occupancy,173.0,Germany
+2023-06-13,Daily ICU occupancy,183.0,Germany
+2023-06-14,Daily ICU occupancy,181.0,Germany
+2023-06-15,Daily ICU occupancy,171.0,Germany
+2023-06-16,Daily ICU occupancy,152.0,Germany
+2023-06-17,Daily ICU occupancy,142.0,Germany
+2023-06-18,Daily ICU occupancy,133.0,Germany
+2023-06-19,Daily ICU occupancy,135.0,Germany
+2023-06-20,Daily ICU occupancy,124.0,Germany
+2023-06-21,Daily ICU occupancy,130.0,Germany
+2023-06-22,Daily ICU occupancy,128.0,Germany
+2023-06-23,Daily ICU occupancy,122.0,Germany
+2023-06-24,Daily ICU occupancy,117.0,Germany
+2023-06-25,Daily ICU occupancy,111.0,Germany
+2023-06-26,Daily ICU occupancy,100.0,Germany
+2021-08-04,Weekly new ICU admissions,171.0,Germany
+2021-08-05,Weekly new ICU admissions,180.0,Germany
+2021-08-06,Weekly new ICU admissions,175.0,Germany
+2021-08-07,Weekly new ICU admissions,173.0,Germany
+2021-08-08,Weekly new ICU admissions,179.0,Germany
+2021-08-09,Weekly new ICU admissions,191.0,Germany
+2021-08-10,Weekly new ICU admissions,197.0,Germany
+2021-08-11,Weekly new ICU admissions,216.0,Germany
+2021-08-12,Weekly new ICU admissions,230.0,Germany
+2021-08-13,Weekly new ICU admissions,244.0,Germany
+2021-08-14,Weekly new ICU admissions,261.0,Germany
+2021-08-15,Weekly new ICU admissions,277.0,Germany
+2021-08-16,Weekly new ICU admissions,298.0,Germany
+2021-08-17,Weekly new ICU admissions,316.0,Germany
+2021-08-18,Weekly new ICU admissions,329.0,Germany
+2021-08-19,Weekly new ICU admissions,344.0,Germany
+2021-08-20,Weekly new ICU admissions,364.0,Germany
+2021-08-21,Weekly new ICU admissions,373.0,Germany
+2021-08-22,Weekly new ICU admissions,403.0,Germany
+2021-08-23,Weekly new ICU admissions,422.0,Germany
+2021-08-24,Weekly new ICU admissions,437.0,Germany
+2021-08-25,Weekly new ICU admissions,449.0,Germany
+2021-08-26,Weekly new ICU admissions,488.0,Germany
+2021-08-27,Weekly new ICU admissions,503.0,Germany
+2021-08-28,Weekly new ICU admissions,517.0,Germany
+2021-08-29,Weekly new ICU admissions,525.0,Germany
+2021-08-30,Weekly new ICU admissions,548.0,Germany
+2021-08-31,Weekly new ICU admissions,578.0,Germany
+2021-09-01,Weekly new ICU admissions,611.0,Germany
+2021-09-02,Weekly new ICU admissions,620.0,Germany
+2021-09-03,Weekly new ICU admissions,641.0,Germany
+2021-09-04,Weekly new ICU admissions,656.0,Germany
+2021-09-05,Weekly new ICU admissions,681.0,Germany
+2021-09-06,Weekly new ICU admissions,705.0,Germany
+2021-09-07,Weekly new ICU admissions,721.0,Germany
+2021-09-08,Weekly new ICU admissions,713.0,Germany
+2021-09-09,Weekly new ICU admissions,704.0,Germany
+2021-09-10,Weekly new ICU admissions,702.0,Germany
+2021-09-11,Weekly new ICU admissions,710.0,Germany
+2021-09-12,Weekly new ICU admissions,709.0,Germany
+2021-09-13,Weekly new ICU admissions,720.0,Germany
+2021-09-14,Weekly new ICU admissions,692.0,Germany
+2021-09-15,Weekly new ICU admissions,709.0,Germany
+2021-09-16,Weekly new ICU admissions,710.0,Germany
+2021-09-17,Weekly new ICU admissions,690.0,Germany
+2021-09-18,Weekly new ICU admissions,685.0,Germany
+2021-09-19,Weekly new ICU admissions,650.0,Germany
+2021-09-20,Weekly new ICU admissions,600.0,Germany
+2021-09-21,Weekly new ICU admissions,595.0,Germany
+2021-09-22,Weekly new ICU admissions,555.0,Germany
+2021-09-23,Weekly new ICU admissions,545.0,Germany
+2021-09-24,Weekly new ICU admissions,550.0,Germany
+2021-09-25,Weekly new ICU admissions,534.0,Germany
+2021-09-26,Weekly new ICU admissions,555.0,Germany
+2021-09-27,Weekly new ICU admissions,565.0,Germany
+2021-09-28,Weekly new ICU admissions,560.0,Germany
+2021-09-29,Weekly new ICU admissions,572.0,Germany
+2021-09-30,Weekly new ICU admissions,563.0,Germany
+2021-10-01,Weekly new ICU admissions,555.0,Germany
+2021-10-02,Weekly new ICU admissions,541.0,Germany
+2021-10-03,Weekly new ICU admissions,527.0,Germany
+2021-10-04,Weekly new ICU admissions,517.0,Germany
+2021-10-05,Weekly new ICU admissions,524.0,Germany
+2021-10-06,Weekly new ICU admissions,527.0,Germany
+2021-10-07,Weekly new ICU admissions,543.0,Germany
+2021-10-08,Weekly new ICU admissions,538.0,Germany
+2021-10-09,Weekly new ICU admissions,546.0,Germany
+2021-10-10,Weekly new ICU admissions,566.0,Germany
+2021-10-11,Weekly new ICU admissions,589.0,Germany
+2021-10-12,Weekly new ICU admissions,576.0,Germany
+2021-10-13,Weekly new ICU admissions,589.0,Germany
+2021-10-14,Weekly new ICU admissions,576.0,Germany
+2021-10-15,Weekly new ICU admissions,599.0,Germany
+2021-10-16,Weekly new ICU admissions,609.0,Germany
+2021-10-17,Weekly new ICU admissions,616.0,Germany
+2021-10-18,Weekly new ICU admissions,635.0,Germany
+2021-10-19,Weekly new ICU admissions,686.0,Germany
+2021-10-20,Weekly new ICU admissions,689.0,Germany
+2021-10-21,Weekly new ICU admissions,731.0,Germany
+2021-10-22,Weekly new ICU admissions,761.0,Germany
+2021-10-23,Weekly new ICU admissions,783.0,Germany
+2021-10-24,Weekly new ICU admissions,816.0,Germany
+2021-10-25,Weekly new ICU admissions,839.0,Germany
+2021-10-26,Weekly new ICU admissions,885.0,Germany
+2021-10-27,Weekly new ICU admissions,927.0,Germany
+2021-10-28,Weekly new ICU admissions,965.0,Germany
+2021-10-29,Weekly new ICU admissions,996.0,Germany
+2021-10-30,Weekly new ICU admissions,1023.0,Germany
+2021-10-31,Weekly new ICU admissions,1045.0,Germany
+2021-11-01,Weekly new ICU admissions,1085.0,Germany
+2021-11-02,Weekly new ICU admissions,1121.0,Germany
+2021-11-03,Weekly new ICU admissions,1178.0,Germany
+2021-11-04,Weekly new ICU admissions,1213.0,Germany
+2021-11-05,Weekly new ICU admissions,1263.0,Germany
+2021-11-06,Weekly new ICU admissions,1319.0,Germany
+2021-11-07,Weekly new ICU admissions,1418.0,Germany
+2021-11-08,Weekly new ICU admissions,1481.0,Germany
+2021-11-09,Weekly new ICU admissions,1535.0,Germany
+2021-11-10,Weekly new ICU admissions,1586.0,Germany
+2021-11-11,Weekly new ICU admissions,1610.0,Germany
+2021-11-12,Weekly new ICU admissions,1687.0,Germany
+2021-11-13,Weekly new ICU admissions,1749.0,Germany
+2021-11-14,Weekly new ICU admissions,1762.0,Germany
+2021-11-15,Weekly new ICU admissions,1807.0,Germany
+2021-11-16,Weekly new ICU admissions,1858.0,Germany
+2021-11-17,Weekly new ICU admissions,1894.0,Germany
+2021-11-18,Weekly new ICU admissions,1980.0,Germany
+2021-11-19,Weekly new ICU admissions,1982.0,Germany
+2021-11-20,Weekly new ICU admissions,1975.0,Germany
+2021-11-21,Weekly new ICU admissions,2012.0,Germany
+2021-11-22,Weekly new ICU admissions,2075.0,Germany
+2021-11-23,Weekly new ICU admissions,2139.0,Germany
+2021-11-24,Weekly new ICU admissions,2220.0,Germany
+2021-11-25,Weekly new ICU admissions,2328.0,Germany
+2021-11-26,Weekly new ICU admissions,2364.0,Germany
+2021-11-27,Weekly new ICU admissions,2414.0,Germany
+2021-11-28,Weekly new ICU admissions,2445.0,Germany
+2021-11-29,Weekly new ICU admissions,2444.0,Germany
+2021-11-30,Weekly new ICU admissions,2399.0,Germany
+2021-12-01,Weekly new ICU admissions,2404.0,Germany
+2021-12-02,Weekly new ICU admissions,2313.0,Germany
+2021-12-03,Weekly new ICU admissions,2299.0,Germany
+2021-12-04,Weekly new ICU admissions,2246.0,Germany
+2021-12-05,Weekly new ICU admissions,2218.0,Germany
+2021-12-06,Weekly new ICU admissions,2207.0,Germany
+2021-12-07,Weekly new ICU admissions,2227.0,Germany
+2021-12-08,Weekly new ICU admissions,2208.0,Germany
+2021-12-09,Weekly new ICU admissions,2235.0,Germany
+2021-12-10,Weekly new ICU admissions,2217.0,Germany
+2021-12-11,Weekly new ICU admissions,2242.0,Germany
+2021-12-12,Weekly new ICU admissions,2236.0,Germany
+2021-12-13,Weekly new ICU admissions,2230.0,Germany
+2021-12-14,Weekly new ICU admissions,2231.0,Germany
+2021-12-15,Weekly new ICU admissions,2220.0,Germany
+2021-12-16,Weekly new ICU admissions,2179.0,Germany
+2021-12-17,Weekly new ICU admissions,2176.0,Germany
+2021-12-18,Weekly new ICU admissions,2121.0,Germany
+2021-12-19,Weekly new ICU admissions,2063.0,Germany
+2021-12-20,Weekly new ICU admissions,2022.0,Germany
+2021-12-21,Weekly new ICU admissions,1958.0,Germany
+2021-12-22,Weekly new ICU admissions,1894.0,Germany
+2021-12-23,Weekly new ICU admissions,1832.0,Germany
+2021-12-24,Weekly new ICU admissions,1769.0,Germany
+2021-12-25,Weekly new ICU admissions,1775.0,Germany
+2021-12-26,Weekly new ICU admissions,1747.0,Germany
+2021-12-27,Weekly new ICU admissions,1706.0,Germany
+2021-12-28,Weekly new ICU admissions,1644.0,Germany
+2021-12-29,Weekly new ICU admissions,1589.0,Germany
+2021-12-30,Weekly new ICU admissions,1548.0,Germany
+2021-12-31,Weekly new ICU admissions,1502.0,Germany
+2022-01-01,Weekly new ICU admissions,1491.0,Germany
+2022-01-02,Weekly new ICU admissions,1472.0,Germany
+2022-01-03,Weekly new ICU admissions,1431.0,Germany
+2022-01-04,Weekly new ICU admissions,1418.0,Germany
+2022-01-05,Weekly new ICU admissions,1401.0,Germany
+2022-01-06,Weekly new ICU admissions,1395.0,Germany
+2022-01-07,Weekly new ICU admissions,1425.0,Germany
+2022-01-08,Weekly new ICU admissions,1374.0,Germany
+2022-01-09,Weekly new ICU admissions,1339.0,Germany
+2022-01-10,Weekly new ICU admissions,1294.0,Germany
+2022-01-11,Weekly new ICU admissions,1252.0,Germany
+2022-01-12,Weekly new ICU admissions,1198.0,Germany
+2022-01-13,Weekly new ICU admissions,1179.0,Germany
+2022-01-14,Weekly new ICU admissions,1120.0,Germany
+2022-01-15,Weekly new ICU admissions,1095.0,Germany
+2022-01-16,Weekly new ICU admissions,1091.0,Germany
+2022-01-17,Weekly new ICU admissions,1060.0,Germany
+2022-01-18,Weekly new ICU admissions,1044.0,Germany
+2022-01-19,Weekly new ICU admissions,1036.0,Germany
+2022-01-20,Weekly new ICU admissions,1023.0,Germany
+2022-01-21,Weekly new ICU admissions,1034.0,Germany
+2022-01-22,Weekly new ICU admissions,1053.0,Germany
+2022-01-23,Weekly new ICU admissions,1048.0,Germany
+2022-01-24,Weekly new ICU admissions,1108.0,Germany
+2022-01-25,Weekly new ICU admissions,1161.0,Germany
+2022-01-26,Weekly new ICU admissions,1189.0,Germany
+2022-01-27,Weekly new ICU admissions,1207.0,Germany
+2022-01-28,Weekly new ICU admissions,1222.0,Germany
+2022-01-29,Weekly new ICU admissions,1251.0,Germany
+2022-01-30,Weekly new ICU admissions,1298.0,Germany
+2022-01-31,Weekly new ICU admissions,1338.0,Germany
+2022-02-01,Weekly new ICU admissions,1381.0,Germany
+2022-02-02,Weekly new ICU admissions,1415.0,Germany
+2022-02-03,Weekly new ICU admissions,1478.0,Germany
+2022-02-04,Weekly new ICU admissions,1543.0,Germany
+2022-02-05,Weekly new ICU admissions,1565.0,Germany
+2022-02-06,Weekly new ICU admissions,1604.0,Germany
+2022-02-07,Weekly new ICU admissions,1629.0,Germany
+2022-02-08,Weekly new ICU admissions,1640.0,Germany
+2022-02-09,Weekly new ICU admissions,1689.0,Germany
+2022-02-10,Weekly new ICU admissions,1681.0,Germany
+2022-02-11,Weekly new ICU admissions,1684.0,Germany
+2022-02-12,Weekly new ICU admissions,1676.0,Germany
+2022-02-13,Weekly new ICU admissions,1678.0,Germany
+2022-02-14,Weekly new ICU admissions,1698.0,Germany
+2022-02-15,Weekly new ICU admissions,1688.0,Germany
+2022-02-16,Weekly new ICU admissions,1678.0,Germany
+2022-02-17,Weekly new ICU admissions,1685.0,Germany
+2022-02-18,Weekly new ICU admissions,1659.0,Germany
+2022-02-19,Weekly new ICU admissions,1646.0,Germany
+2022-02-20,Weekly new ICU admissions,1605.0,Germany
+2022-02-21,Weekly new ICU admissions,1579.0,Germany
+2022-02-22,Weekly new ICU admissions,1602.0,Germany
+2022-02-23,Weekly new ICU admissions,1568.0,Germany
+2022-02-24,Weekly new ICU admissions,1558.0,Germany
+2022-02-25,Weekly new ICU admissions,1539.0,Germany
+2022-02-26,Weekly new ICU admissions,1544.0,Germany
+2022-02-27,Weekly new ICU admissions,1567.0,Germany
+2022-02-28,Weekly new ICU admissions,1573.0,Germany
+2022-03-01,Weekly new ICU admissions,1525.0,Germany
+2022-03-02,Weekly new ICU admissions,1557.0,Germany
+2022-03-03,Weekly new ICU admissions,1550.0,Germany
+2022-03-04,Weekly new ICU admissions,1585.0,Germany
+2022-03-05,Weekly new ICU admissions,1573.0,Germany
+2022-03-06,Weekly new ICU admissions,1576.0,Germany
+2022-03-07,Weekly new ICU admissions,1592.0,Germany
+2022-03-08,Weekly new ICU admissions,1590.0,Germany
+2022-03-09,Weekly new ICU admissions,1583.0,Germany
+2022-03-10,Weekly new ICU admissions,1590.0,Germany
+2022-03-11,Weekly new ICU admissions,1573.0,Germany
+2022-03-12,Weekly new ICU admissions,1649.0,Germany
+2022-03-13,Weekly new ICU admissions,1672.0,Germany
+2022-03-14,Weekly new ICU admissions,1697.0,Germany
+2022-03-15,Weekly new ICU admissions,1772.0,Germany
+2022-03-16,Weekly new ICU admissions,1841.0,Germany
+2022-03-17,Weekly new ICU admissions,1896.0,Germany
+2022-03-18,Weekly new ICU admissions,1931.0,Germany
+2022-03-19,Weekly new ICU admissions,1891.0,Germany
+2022-03-20,Weekly new ICU admissions,1897.0,Germany
+2022-03-21,Weekly new ICU admissions,1943.0,Germany
+2022-03-22,Weekly new ICU admissions,1920.0,Germany
+2022-03-23,Weekly new ICU admissions,1960.0,Germany
+2022-03-24,Weekly new ICU admissions,1956.0,Germany
+2022-03-25,Weekly new ICU admissions,2015.0,Germany
+2022-03-26,Weekly new ICU admissions,2062.0,Germany
+2022-03-27,Weekly new ICU admissions,2047.0,Germany
+2022-03-28,Weekly new ICU admissions,2013.0,Germany
+2022-03-29,Weekly new ICU admissions,2011.0,Germany
+2022-03-30,Weekly new ICU admissions,1965.0,Germany
+2022-03-31,Weekly new ICU admissions,1930.0,Germany
+2022-04-01,Weekly new ICU admissions,1846.0,Germany
+2022-04-02,Weekly new ICU admissions,1805.0,Germany
+2022-04-03,Weekly new ICU admissions,1806.0,Germany
+2022-04-04,Weekly new ICU admissions,1720.0,Germany
+2022-04-05,Weekly new ICU admissions,1701.0,Germany
+2022-04-06,Weekly new ICU admissions,1673.0,Germany
+2022-04-07,Weekly new ICU admissions,1642.0,Germany
+2022-04-08,Weekly new ICU admissions,1641.0,Germany
+2022-04-09,Weekly new ICU admissions,1591.0,Germany
+2022-04-10,Weekly new ICU admissions,1536.0,Germany
+2022-04-11,Weekly new ICU admissions,1533.0,Germany
+2022-04-12,Weekly new ICU admissions,1513.0,Germany
+2022-04-13,Weekly new ICU admissions,1472.0,Germany
+2022-04-14,Weekly new ICU admissions,1426.0,Germany
+2022-04-15,Weekly new ICU admissions,1352.0,Germany
+2022-04-16,Weekly new ICU admissions,1366.0,Germany
+2022-04-17,Weekly new ICU admissions,1306.0,Germany
+2022-04-18,Weekly new ICU admissions,1263.0,Germany
+2022-04-19,Weekly new ICU admissions,1226.0,Germany
+2022-04-20,Weekly new ICU admissions,1174.0,Germany
+2022-04-21,Weekly new ICU admissions,1176.0,Germany
+2022-04-22,Weekly new ICU admissions,1218.0,Germany
+2022-04-23,Weekly new ICU admissions,1166.0,Germany
+2022-04-24,Weekly new ICU admissions,1175.0,Germany
+2022-04-25,Weekly new ICU admissions,1165.0,Germany
+2022-04-26,Weekly new ICU admissions,1131.0,Germany
+2022-04-27,Weekly new ICU admissions,1102.0,Germany
+2022-04-28,Weekly new ICU admissions,1092.0,Germany
+2022-04-29,Weekly new ICU admissions,1040.0,Germany
+2022-04-30,Weekly new ICU admissions,1045.0,Germany
+2022-05-01,Weekly new ICU admissions,1044.0,Germany
+2022-05-02,Weekly new ICU admissions,1030.0,Germany
+2022-05-03,Weekly new ICU admissions,1012.0,Germany
+2022-05-04,Weekly new ICU admissions,1014.0,Germany
+2022-05-05,Weekly new ICU admissions,972.0,Germany
+2022-05-06,Weekly new ICU admissions,949.0,Germany
+2022-05-07,Weekly new ICU admissions,919.0,Germany
+2022-05-08,Weekly new ICU admissions,895.0,Germany
+2022-05-09,Weekly new ICU admissions,852.0,Germany
+2022-05-10,Weekly new ICU admissions,828.0,Germany
+2022-05-11,Weekly new ICU admissions,787.0,Germany
+2022-05-12,Weekly new ICU admissions,770.0,Germany
+2022-05-13,Weekly new ICU admissions,768.0,Germany
+2022-05-14,Weekly new ICU admissions,749.0,Germany
+2022-05-15,Weekly new ICU admissions,736.0,Germany
+2022-05-16,Weekly new ICU admissions,739.0,Germany
+2022-05-17,Weekly new ICU admissions,718.0,Germany
+2022-05-18,Weekly new ICU admissions,711.0,Germany
+2022-05-19,Weekly new ICU admissions,692.0,Germany
+2022-05-20,Weekly new ICU admissions,660.0,Germany
+2022-05-21,Weekly new ICU admissions,662.0,Germany
+2022-05-22,Weekly new ICU admissions,635.0,Germany
+2022-05-23,Weekly new ICU admissions,597.0,Germany
+2022-05-24,Weekly new ICU admissions,566.0,Germany
+2022-05-25,Weekly new ICU admissions,530.0,Germany
+2022-05-26,Weekly new ICU admissions,486.0,Germany
+2022-05-27,Weekly new ICU admissions,466.0,Germany
+2022-05-28,Weekly new ICU admissions,457.0,Germany
+2022-05-29,Weekly new ICU admissions,454.0,Germany
+2022-05-30,Weekly new ICU admissions,461.0,Germany
+2022-05-31,Weekly new ICU admissions,471.0,Germany
+2022-06-01,Weekly new ICU admissions,462.0,Germany
+2022-06-02,Weekly new ICU admissions,490.0,Germany
+2022-06-03,Weekly new ICU admissions,500.0,Germany
+2022-06-04,Weekly new ICU admissions,505.0,Germany
+2022-06-05,Weekly new ICU admissions,499.0,Germany
+2022-06-06,Weekly new ICU admissions,488.0,Germany
+2022-06-07,Weekly new ICU admissions,488.0,Germany
+2022-06-08,Weekly new ICU admissions,518.0,Germany
+2022-06-09,Weekly new ICU admissions,520.0,Germany
+2022-06-10,Weekly new ICU admissions,517.0,Germany
+2022-06-11,Weekly new ICU admissions,510.0,Germany
+2022-06-12,Weekly new ICU admissions,528.0,Germany
+2022-06-13,Weekly new ICU admissions,548.0,Germany
+2022-06-14,Weekly new ICU admissions,566.0,Germany
+2022-06-15,Weekly new ICU admissions,569.0,Germany
+2022-06-16,Weekly new ICU admissions,587.0,Germany
+2022-06-17,Weekly new ICU admissions,618.0,Germany
+2022-06-18,Weekly new ICU admissions,643.0,Germany
+2022-06-19,Weekly new ICU admissions,681.0,Germany
+2022-06-20,Weekly new ICU admissions,720.0,Germany
+2022-06-21,Weekly new ICU admissions,747.0,Germany
+2022-06-22,Weekly new ICU admissions,800.0,Germany
+2022-06-23,Weekly new ICU admissions,850.0,Germany
+2022-06-24,Weekly new ICU admissions,863.0,Germany
+2022-06-25,Weekly new ICU admissions,873.0,Germany
+2022-06-26,Weekly new ICU admissions,900.0,Germany
+2022-06-27,Weekly new ICU admissions,930.0,Germany
+2022-06-28,Weekly new ICU admissions,932.0,Germany
+2022-06-29,Weekly new ICU admissions,913.0,Germany
+2022-06-30,Weekly new ICU admissions,933.0,Germany
+2022-07-01,Weekly new ICU admissions,950.0,Germany
+2022-07-02,Weekly new ICU admissions,952.0,Germany
+2022-07-03,Weekly new ICU admissions,962.0,Germany
+2022-07-04,Weekly new ICU admissions,954.0,Germany
+2022-07-05,Weekly new ICU admissions,979.0,Germany
+2022-07-06,Weekly new ICU admissions,1013.0,Germany
+2022-07-07,Weekly new ICU admissions,1023.0,Germany
+2022-07-08,Weekly new ICU admissions,1022.0,Germany
+2022-07-09,Weekly new ICU admissions,1052.0,Germany
+2022-07-10,Weekly new ICU admissions,1098.0,Germany
+2022-07-11,Weekly new ICU admissions,1151.0,Germany
+2022-07-12,Weekly new ICU admissions,1202.0,Germany
+2022-07-13,Weekly new ICU admissions,1241.0,Germany
+2022-07-14,Weekly new ICU admissions,1276.0,Germany
+2022-07-15,Weekly new ICU admissions,1324.0,Germany
+2022-07-16,Weekly new ICU admissions,1355.0,Germany
+2022-07-17,Weekly new ICU admissions,1341.0,Germany
+2022-07-18,Weekly new ICU admissions,1345.0,Germany
+2022-07-19,Weekly new ICU admissions,1363.0,Germany
+2022-07-20,Weekly new ICU admissions,1382.0,Germany
+2022-07-21,Weekly new ICU admissions,1381.0,Germany
+2022-07-22,Weekly new ICU admissions,1392.0,Germany
+2022-07-23,Weekly new ICU admissions,1380.0,Germany
+2022-07-24,Weekly new ICU admissions,1416.0,Germany
+2022-07-25,Weekly new ICU admissions,1469.0,Germany
+2022-07-26,Weekly new ICU admissions,1460.0,Germany
+2022-07-27,Weekly new ICU admissions,1464.0,Germany
+2022-07-28,Weekly new ICU admissions,1441.0,Germany
+2022-07-29,Weekly new ICU admissions,1401.0,Germany
+2022-07-30,Weekly new ICU admissions,1365.0,Germany
+2022-07-31,Weekly new ICU admissions,1296.0,Germany
+2022-08-01,Weekly new ICU admissions,1208.0,Germany
+2022-08-02,Weekly new ICU admissions,1166.0,Germany
+2022-08-03,Weekly new ICU admissions,1110.0,Germany
+2022-08-04,Weekly new ICU admissions,1102.0,Germany
+2022-08-05,Weekly new ICU admissions,1106.0,Germany
+2022-08-06,Weekly new ICU admissions,1094.0,Germany
+2022-08-07,Weekly new ICU admissions,1108.0,Germany
+2022-08-08,Weekly new ICU admissions,1076.0,Germany
+2022-08-09,Weekly new ICU admissions,1059.0,Germany
+2022-08-10,Weekly new ICU admissions,1017.0,Germany
+2022-08-11,Weekly new ICU admissions,994.0,Germany
+2022-08-12,Weekly new ICU admissions,962.0,Germany
+2022-08-13,Weekly new ICU admissions,964.0,Germany
+2022-08-14,Weekly new ICU admissions,933.0,Germany
+2022-08-15,Weekly new ICU admissions,928.0,Germany
+2022-08-16,Weekly new ICU admissions,902.0,Germany
+2022-08-17,Weekly new ICU admissions,913.0,Germany
+2022-08-18,Weekly new ICU admissions,884.0,Germany
+2022-08-19,Weekly new ICU admissions,852.0,Germany
+2022-08-20,Weekly new ICU admissions,831.0,Germany
+2022-08-21,Weekly new ICU admissions,808.0,Germany
+2022-08-22,Weekly new ICU admissions,778.0,Germany
+2022-08-23,Weekly new ICU admissions,753.0,Germany
+2022-08-24,Weekly new ICU admissions,738.0,Germany
+2022-08-25,Weekly new ICU admissions,739.0,Germany
+2022-08-26,Weekly new ICU admissions,745.0,Germany
+2022-08-27,Weekly new ICU admissions,739.0,Germany
+2022-08-28,Weekly new ICU admissions,723.0,Germany
+2022-08-29,Weekly new ICU admissions,710.0,Germany
+2022-08-30,Weekly new ICU admissions,706.0,Germany
+2022-08-31,Weekly new ICU admissions,680.0,Germany
+2022-09-01,Weekly new ICU admissions,656.0,Germany
+2022-09-02,Weekly new ICU admissions,654.0,Germany
+2022-09-03,Weekly new ICU admissions,643.0,Germany
+2022-09-04,Weekly new ICU admissions,640.0,Germany
+2022-09-05,Weekly new ICU admissions,637.0,Germany
+2022-09-06,Weekly new ICU admissions,640.0,Germany
+2022-09-07,Weekly new ICU admissions,653.0,Germany
+2022-09-08,Weekly new ICU admissions,647.0,Germany
+2022-09-09,Weekly new ICU admissions,634.0,Germany
+2022-09-10,Weekly new ICU admissions,627.0,Germany
+2022-09-11,Weekly new ICU admissions,615.0,Germany
+2022-09-12,Weekly new ICU admissions,635.0,Germany
+2022-09-13,Weekly new ICU admissions,644.0,Germany
+2022-09-14,Weekly new ICU admissions,627.0,Germany
+2022-09-15,Weekly new ICU admissions,621.0,Germany
+2022-09-16,Weekly new ICU admissions,625.0,Germany
+2022-09-17,Weekly new ICU admissions,622.0,Germany
+2022-09-18,Weekly new ICU admissions,624.0,Germany
+2022-09-19,Weekly new ICU admissions,615.0,Germany
+2022-09-20,Weekly new ICU admissions,632.0,Germany
+2022-09-21,Weekly new ICU admissions,637.0,Germany
+2022-09-22,Weekly new ICU admissions,665.0,Germany
+2022-09-23,Weekly new ICU admissions,671.0,Germany
+2022-09-24,Weekly new ICU admissions,699.0,Germany
+2022-09-25,Weekly new ICU admissions,747.0,Germany
+2022-09-26,Weekly new ICU admissions,791.0,Germany
+2022-09-27,Weekly new ICU admissions,817.0,Germany
+2022-09-28,Weekly new ICU admissions,885.0,Germany
+2022-09-29,Weekly new ICU admissions,940.0,Germany
+2022-09-30,Weekly new ICU admissions,992.0,Germany
+2022-10-01,Weekly new ICU admissions,1037.0,Germany
+2022-10-02,Weekly new ICU admissions,1035.0,Germany
+2022-10-03,Weekly new ICU admissions,1126.0,Germany
+2022-10-04,Weekly new ICU admissions,1244.0,Germany
+2022-10-05,Weekly new ICU admissions,1340.0,Germany
+2022-10-06,Weekly new ICU admissions,1399.0,Germany
+2022-10-07,Weekly new ICU admissions,1466.0,Germany
+2022-10-08,Weekly new ICU admissions,1495.0,Germany
+2022-10-09,Weekly new ICU admissions,1621.0,Germany
+2022-10-10,Weekly new ICU admissions,1671.0,Germany
+2022-10-11,Weekly new ICU admissions,1653.0,Germany
+2022-10-12,Weekly new ICU admissions,1673.0,Germany
+2022-10-13,Weekly new ICU admissions,1692.0,Germany
+2022-10-14,Weekly new ICU admissions,1685.0,Germany
+2022-10-15,Weekly new ICU admissions,1717.0,Germany
+2022-10-16,Weekly new ICU admissions,1678.0,Germany
+2022-10-17,Weekly new ICU admissions,1682.0,Germany
+2022-10-18,Weekly new ICU admissions,1677.0,Germany
+2022-10-19,Weekly new ICU admissions,1640.0,Germany
+2022-10-20,Weekly new ICU admissions,1643.0,Germany
+2022-10-21,Weekly new ICU admissions,1636.0,Germany
+2022-10-22,Weekly new ICU admissions,1600.0,Germany
+2022-10-23,Weekly new ICU admissions,1587.0,Germany
+2022-10-24,Weekly new ICU admissions,1518.0,Germany
+2022-10-25,Weekly new ICU admissions,1514.0,Germany
+2022-10-26,Weekly new ICU admissions,1500.0,Germany
+2022-10-27,Weekly new ICU admissions,1451.0,Germany
+2022-10-28,Weekly new ICU admissions,1415.0,Germany
+2022-10-29,Weekly new ICU admissions,1399.0,Germany
+2022-10-30,Weekly new ICU admissions,1338.0,Germany
+2022-10-31,Weekly new ICU admissions,1266.0,Germany
+2022-11-01,Weekly new ICU admissions,1225.0,Germany
+2022-11-02,Weekly new ICU admissions,1154.0,Germany
+2022-11-03,Weekly new ICU admissions,1091.0,Germany
+2022-11-04,Weekly new ICU admissions,1047.0,Germany
+2022-11-05,Weekly new ICU admissions,1020.0,Germany
+2022-11-06,Weekly new ICU admissions,1030.0,Germany
+2022-11-07,Weekly new ICU admissions,1023.0,Germany
+2022-11-08,Weekly new ICU admissions,944.0,Germany
+2022-11-09,Weekly new ICU admissions,925.0,Germany
+2022-11-10,Weekly new ICU admissions,908.0,Germany
+2022-11-11,Weekly new ICU admissions,919.0,Germany
+2022-11-12,Weekly new ICU admissions,889.0,Germany
+2022-11-13,Weekly new ICU admissions,858.0,Germany
+2022-11-14,Weekly new ICU admissions,822.0,Germany
+2022-11-15,Weekly new ICU admissions,815.0,Germany
+2022-11-16,Weekly new ICU admissions,780.0,Germany
+2022-11-17,Weekly new ICU admissions,769.0,Germany
+2022-11-18,Weekly new ICU admissions,723.0,Germany
+2022-11-19,Weekly new ICU admissions,717.0,Germany
+2022-11-20,Weekly new ICU admissions,718.0,Germany
+2022-11-21,Weekly new ICU admissions,730.0,Germany
+2022-11-22,Weekly new ICU admissions,744.0,Germany
+2022-11-23,Weekly new ICU admissions,756.0,Germany
+2022-11-24,Weekly new ICU admissions,766.0,Germany
+2022-11-25,Weekly new ICU admissions,798.0,Germany
+2022-11-26,Weekly new ICU admissions,798.0,Germany
+2022-11-27,Weekly new ICU admissions,802.0,Germany
+2022-11-28,Weekly new ICU admissions,787.0,Germany
+2022-11-29,Weekly new ICU admissions,774.0,Germany
+2022-11-30,Weekly new ICU admissions,770.0,Germany
+2022-12-01,Weekly new ICU admissions,788.0,Germany
+2022-12-02,Weekly new ICU admissions,795.0,Germany
+2022-12-03,Weekly new ICU admissions,835.0,Germany
+2022-12-04,Weekly new ICU admissions,848.0,Germany
+2022-12-05,Weekly new ICU admissions,896.0,Germany
+2022-12-06,Weekly new ICU admissions,917.0,Germany
+2022-12-07,Weekly new ICU admissions,939.0,Germany
+2022-12-08,Weekly new ICU admissions,956.0,Germany
+2022-12-09,Weekly new ICU admissions,945.0,Germany
+2022-12-10,Weekly new ICU admissions,919.0,Germany
+2022-12-11,Weekly new ICU admissions,931.0,Germany
+2022-12-12,Weekly new ICU admissions,936.0,Germany
+2022-12-13,Weekly new ICU admissions,948.0,Germany
+2022-12-14,Weekly new ICU admissions,967.0,Germany
+2022-12-15,Weekly new ICU admissions,991.0,Germany
+2022-12-16,Weekly new ICU admissions,1003.0,Germany
+2022-12-17,Weekly new ICU admissions,1031.0,Germany
+2022-12-18,Weekly new ICU admissions,1023.0,Germany
+2022-12-19,Weekly new ICU admissions,1052.0,Germany
+2022-12-20,Weekly new ICU admissions,1097.0,Germany
+2022-12-21,Weekly new ICU admissions,1131.0,Germany
+2022-12-22,Weekly new ICU admissions,1129.0,Germany
+2022-12-23,Weekly new ICU admissions,1153.0,Germany
+2022-12-24,Weekly new ICU admissions,1171.0,Germany
+2022-12-25,Weekly new ICU admissions,1150.0,Germany
+2022-12-26,Weekly new ICU admissions,1140.0,Germany
+2022-12-27,Weekly new ICU admissions,1131.0,Germany
+2022-12-28,Weekly new ICU admissions,1123.0,Germany
+2022-12-29,Weekly new ICU admissions,1134.0,Germany
+2022-12-30,Weekly new ICU admissions,1137.0,Germany
+2022-12-31,Weekly new ICU admissions,1108.0,Germany
+2023-01-01,Weekly new ICU admissions,1137.0,Germany
+2023-01-02,Weekly new ICU admissions,1150.0,Germany
+2023-01-03,Weekly new ICU admissions,1116.0,Germany
+2023-01-04,Weekly new ICU admissions,1084.0,Germany
+2023-01-05,Weekly new ICU admissions,1031.0,Germany
+2023-01-06,Weekly new ICU admissions,1001.0,Germany
+2023-01-07,Weekly new ICU admissions,990.0,Germany
+2023-01-08,Weekly new ICU admissions,952.0,Germany
+2023-01-09,Weekly new ICU admissions,875.0,Germany
+2023-01-10,Weekly new ICU admissions,843.0,Germany
+2023-01-11,Weekly new ICU admissions,805.0,Germany
+2023-01-12,Weekly new ICU admissions,763.0,Germany
+2023-01-13,Weekly new ICU admissions,718.0,Germany
+2023-01-14,Weekly new ICU admissions,697.0,Germany
+2023-01-15,Weekly new ICU admissions,663.0,Germany
+2023-01-16,Weekly new ICU admissions,628.0,Germany
+2023-01-17,Weekly new ICU admissions,588.0,Germany
+2023-01-18,Weekly new ICU admissions,567.0,Germany
+2023-01-19,Weekly new ICU admissions,545.0,Germany
+2023-01-20,Weekly new ICU admissions,538.0,Germany
+2023-01-21,Weekly new ICU admissions,509.0,Germany
+2023-01-22,Weekly new ICU admissions,484.0,Germany
+2023-01-23,Weekly new ICU admissions,492.0,Germany
+2023-01-24,Weekly new ICU admissions,496.0,Germany
+2023-01-25,Weekly new ICU admissions,473.0,Germany
+2023-01-26,Weekly new ICU admissions,469.0,Germany
+2023-01-27,Weekly new ICU admissions,477.0,Germany
+2023-01-28,Weekly new ICU admissions,489.0,Germany
+2023-01-29,Weekly new ICU admissions,514.0,Germany
+2023-01-30,Weekly new ICU admissions,493.0,Germany
+2023-01-31,Weekly new ICU admissions,503.0,Germany
+2023-02-01,Weekly new ICU admissions,531.0,Germany
+2023-02-02,Weekly new ICU admissions,559.0,Germany
+2023-02-03,Weekly new ICU admissions,575.0,Germany
+2023-02-04,Weekly new ICU admissions,591.0,Germany
+2023-02-05,Weekly new ICU admissions,596.0,Germany
+2023-02-06,Weekly new ICU admissions,638.0,Germany
+2023-02-07,Weekly new ICU admissions,663.0,Germany
+2023-02-08,Weekly new ICU admissions,659.0,Germany
+2023-02-09,Weekly new ICU admissions,666.0,Germany
+2023-02-10,Weekly new ICU admissions,681.0,Germany
+2023-02-11,Weekly new ICU admissions,703.0,Germany
+2023-02-12,Weekly new ICU admissions,717.0,Germany
+2023-02-13,Weekly new ICU admissions,732.0,Germany
+2023-02-14,Weekly new ICU admissions,730.0,Germany
+2023-02-15,Weekly new ICU admissions,781.0,Germany
+2023-02-16,Weekly new ICU admissions,832.0,Germany
+2023-02-17,Weekly new ICU admissions,853.0,Germany
+2023-02-18,Weekly new ICU admissions,855.0,Germany
+2023-02-19,Weekly new ICU admissions,902.0,Germany
+2023-02-20,Weekly new ICU admissions,921.0,Germany
+2023-02-21,Weekly new ICU admissions,977.0,Germany
+2023-02-22,Weekly new ICU admissions,976.0,Germany
+2023-02-23,Weekly new ICU admissions,961.0,Germany
+2023-02-24,Weekly new ICU admissions,976.0,Germany
+2023-02-25,Weekly new ICU admissions,988.0,Germany
+2023-02-26,Weekly new ICU admissions,981.0,Germany
+2023-02-27,Weekly new ICU admissions,982.0,Germany
+2023-02-28,Weekly new ICU admissions,962.0,Germany
+2023-03-01,Weekly new ICU admissions,965.0,Germany
+2023-03-02,Weekly new ICU admissions,966.0,Germany
+2023-03-03,Weekly new ICU admissions,934.0,Germany
+2023-03-04,Weekly new ICU admissions,920.0,Germany
+2023-03-05,Weekly new ICU admissions,906.0,Germany
+2023-03-06,Weekly new ICU admissions,926.0,Germany
+2023-03-07,Weekly new ICU admissions,917.0,Germany
+2023-03-08,Weekly new ICU admissions,893.0,Germany
+2023-03-09,Weekly new ICU admissions,901.0,Germany
+2023-03-10,Weekly new ICU admissions,924.0,Germany
+2023-03-11,Weekly new ICU admissions,929.0,Germany
+2023-03-12,Weekly new ICU admissions,940.0,Germany
+2023-03-13,Weekly new ICU admissions,937.0,Germany
+2023-03-14,Weekly new ICU admissions,951.0,Germany
+2023-03-15,Weekly new ICU admissions,1003.0,Germany
+2023-03-16,Weekly new ICU admissions,1006.0,Germany
+2023-03-17,Weekly new ICU admissions,989.0,Germany
+2023-03-18,Weekly new ICU admissions,981.0,Germany
+2023-03-19,Weekly new ICU admissions,987.0,Germany
+2023-03-20,Weekly new ICU admissions,988.0,Germany
+2023-03-21,Weekly new ICU admissions,972.0,Germany
+2023-03-22,Weekly new ICU admissions,952.0,Germany
+2023-03-23,Weekly new ICU admissions,939.0,Germany
+2023-03-24,Weekly new ICU admissions,937.0,Germany
+2023-03-25,Weekly new ICU admissions,922.0,Germany
+2023-03-26,Weekly new ICU admissions,913.0,Germany
+2023-03-27,Weekly new ICU admissions,880.0,Germany
+2023-03-28,Weekly new ICU admissions,851.0,Germany
+2023-03-29,Weekly new ICU admissions,807.0,Germany
+2023-03-30,Weekly new ICU admissions,777.0,Germany
+2023-03-31,Weekly new ICU admissions,758.0,Germany
+2023-04-01,Weekly new ICU admissions,762.0,Germany
+2023-04-02,Weekly new ICU admissions,704.0,Germany
+2023-04-03,Weekly new ICU admissions,668.0,Germany
+2023-04-04,Weekly new ICU admissions,653.0,Germany
+2023-04-05,Weekly new ICU admissions,627.0,Germany
+2023-04-06,Weekly new ICU admissions,575.0,Germany
+2023-04-07,Weekly new ICU admissions,547.0,Germany
+2023-04-08,Weekly new ICU admissions,550.0,Germany
+2023-04-09,Weekly new ICU admissions,522.0,Germany
+2023-04-10,Weekly new ICU admissions,487.0,Germany
+2023-04-11,Weekly new ICU admissions,469.0,Germany
+2023-04-12,Weekly new ICU admissions,455.0,Germany
+2023-04-13,Weekly new ICU admissions,461.0,Germany
+2023-04-14,Weekly new ICU admissions,465.0,Germany
+2023-04-15,Weekly new ICU admissions,439.0,Germany
+2023-04-16,Weekly new ICU admissions,463.0,Germany
+2023-04-17,Weekly new ICU admissions,469.0,Germany
+2023-04-18,Weekly new ICU admissions,455.0,Germany
+2023-04-19,Weekly new ICU admissions,443.0,Germany
+2023-04-20,Weekly new ICU admissions,444.0,Germany
+2023-04-21,Weekly new ICU admissions,426.0,Germany
+2023-04-22,Weekly new ICU admissions,412.0,Germany
+2023-04-23,Weekly new ICU admissions,408.0,Germany
+2023-04-24,Weekly new ICU admissions,386.0,Germany
+2023-04-25,Weekly new ICU admissions,368.0,Germany
+2023-04-26,Weekly new ICU admissions,373.0,Germany
+2023-04-27,Weekly new ICU admissions,353.0,Germany
+2023-04-28,Weekly new ICU admissions,353.0,Germany
+2023-04-29,Weekly new ICU admissions,350.0,Germany
+2023-04-30,Weekly new ICU admissions,307.0,Germany
+2023-05-01,Weekly new ICU admissions,309.0,Germany
+2023-05-02,Weekly new ICU admissions,315.0,Germany
+2023-05-03,Weekly new ICU admissions,293.0,Germany
+2023-05-04,Weekly new ICU admissions,287.0,Germany
+2023-05-05,Weekly new ICU admissions,280.0,Germany
+2023-05-06,Weekly new ICU admissions,269.0,Germany
+2023-05-07,Weekly new ICU admissions,284.0,Germany
+2023-05-08,Weekly new ICU admissions,272.0,Germany
+2023-05-09,Weekly new ICU admissions,257.0,Germany
+2023-05-10,Weekly new ICU admissions,255.0,Germany
+2023-05-11,Weekly new ICU admissions,248.0,Germany
+2023-05-12,Weekly new ICU admissions,237.0,Germany
+2023-05-13,Weekly new ICU admissions,243.0,Germany
+2023-05-14,Weekly new ICU admissions,227.0,Germany
+2023-05-15,Weekly new ICU admissions,223.0,Germany
+2023-05-16,Weekly new ICU admissions,206.0,Germany
+2023-05-17,Weekly new ICU admissions,198.0,Germany
+2023-05-18,Weekly new ICU admissions,190.0,Germany
+2023-05-19,Weekly new ICU admissions,184.0,Germany
+2023-05-20,Weekly new ICU admissions,178.0,Germany
+2023-05-21,Weekly new ICU admissions,173.0,Germany
+2023-05-22,Weekly new ICU admissions,162.0,Germany
+2023-05-23,Weekly new ICU admissions,156.0,Germany
+2023-05-24,Weekly new ICU admissions,142.0,Germany
+2023-05-25,Weekly new ICU admissions,137.0,Germany
+2023-05-26,Weekly new ICU admissions,141.0,Germany
+2023-05-27,Weekly new ICU admissions,126.0,Germany
+2023-05-28,Weekly new ICU admissions,122.0,Germany
+2023-05-29,Weekly new ICU admissions,122.0,Germany
+2023-05-30,Weekly new ICU admissions,116.0,Germany
+2023-05-31,Weekly new ICU admissions,121.0,Germany
+2023-06-01,Weekly new ICU admissions,114.0,Germany
+2023-06-02,Weekly new ICU admissions,110.0,Germany
+2023-06-03,Weekly new ICU admissions,115.0,Germany
+2023-06-04,Weekly new ICU admissions,115.0,Germany
+2023-06-05,Weekly new ICU admissions,112.0,Germany
+2023-06-06,Weekly new ICU admissions,109.0,Germany
+2023-06-07,Weekly new ICU admissions,103.0,Germany
+2023-06-08,Weekly new ICU admissions,110.0,Germany
+2023-06-09,Weekly new ICU admissions,105.0,Germany
+2023-06-10,Weekly new ICU admissions,108.0,Germany
+2023-06-11,Weekly new ICU admissions,103.0,Germany
+2023-06-12,Weekly new ICU admissions,104.0,Germany
+2023-06-13,Weekly new ICU admissions,111.0,Germany
+2023-06-14,Weekly new ICU admissions,106.0,Germany
+2023-06-15,Weekly new ICU admissions,94.0,Germany
+2023-06-16,Weekly new ICU admissions,98.0,Germany
+2023-06-17,Weekly new ICU admissions,89.0,Germany
+2023-06-18,Weekly new ICU admissions,85.0,Germany
+2023-06-19,Weekly new ICU admissions,76.0,Germany
+2023-06-20,Weekly new ICU admissions,80.0,Germany
+2023-06-21,Weekly new ICU admissions,76.0,Germany
+2023-06-22,Weekly new ICU admissions,73.0,Germany
+2023-06-23,Weekly new ICU admissions,64.0,Germany
+2023-06-24,Weekly new ICU admissions,63.0,Germany
+2023-06-25,Weekly new ICU admissions,59.0,Germany

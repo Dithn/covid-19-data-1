@@ -1,0 +1,27 @@
+name: "Sync to Cloudflare R2"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Install rclone
+        run: sudo apt-get install rclone
+
+      - name: Upload to R2
+        run: rclone sync ./public/ :s3://covid-19 --s3-acl=public-read --checksum --progress
+        env:
+          RCLONE_S3_PROVIDER: Cloudflare
+          RCLONE_S3_ENDPOINT: https://078fcdfed9955087315dd86792e71a7e.r2.cloudflarestorage.com
+          RCLONE_S3_REGION: auto
+          RCLONE_S3_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          RCLONE_S3_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}

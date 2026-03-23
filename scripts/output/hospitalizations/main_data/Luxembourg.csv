@@ -1,0 +1,2552 @@
+entity,indicator,date,value
+Luxembourg,Daily hospital occupancy,2020-03-16,0.0
+Luxembourg,Daily hospital occupancy,2020-03-17,0.0
+Luxembourg,Daily hospital occupancy,2020-03-18,0.0
+Luxembourg,Daily hospital occupancy,2020-03-19,1.0
+Luxembourg,Daily hospital occupancy,2020-03-20,21.0
+Luxembourg,Daily hospital occupancy,2020-03-21,62.0
+Luxembourg,Daily hospital occupancy,2020-03-22,65.0
+Luxembourg,Daily hospital occupancy,2020-03-23,73.0
+Luxembourg,Daily hospital occupancy,2020-03-24,99.0
+Luxembourg,Daily hospital occupancy,2020-03-25,142.0
+Luxembourg,Daily hospital occupancy,2020-03-26,140.0
+Luxembourg,Daily hospital occupancy,2020-03-27,148.0
+Luxembourg,Daily hospital occupancy,2020-03-28,175.0
+Luxembourg,Daily hospital occupancy,2020-03-29,181.0
+Luxembourg,Daily hospital occupancy,2020-03-30,174.0
+Luxembourg,Daily hospital occupancy,2020-03-31,179.0
+Luxembourg,Daily hospital occupancy,2020-04-01,181.0
+Luxembourg,Daily hospital occupancy,2020-04-02,201.0
+Luxembourg,Daily hospital occupancy,2020-04-03,202.0
+Luxembourg,Daily hospital occupancy,2020-04-04,206.0
+Luxembourg,Daily hospital occupancy,2020-04-05,193.0
+Luxembourg,Daily hospital occupancy,2020-04-06,191.0
+Luxembourg,Daily hospital occupancy,2020-04-07,190.0
+Luxembourg,Daily hospital occupancy,2020-04-08,201.0
+Luxembourg,Daily hospital occupancy,2020-04-09,192.0
+Luxembourg,Daily hospital occupancy,2020-04-10,193.0
+Luxembourg,Daily hospital occupancy,2020-04-11,180.0
+Luxembourg,Daily hospital occupancy,2020-04-12,192.0
+Luxembourg,Daily hospital occupancy,2020-04-13,172.0
+Luxembourg,Daily hospital occupancy,2020-04-14,174.0
+Luxembourg,Daily hospital occupancy,2020-04-15,159.0
+Luxembourg,Daily hospital occupancy,2020-04-16,170.0
+Luxembourg,Daily hospital occupancy,2020-04-17,154.0
+Luxembourg,Daily hospital occupancy,2020-04-18,167.0
+Luxembourg,Daily hospital occupancy,2020-04-19,162.0
+Luxembourg,Daily hospital occupancy,2020-04-20,161.0
+Luxembourg,Daily hospital occupancy,2020-04-21,157.0
+Luxembourg,Daily hospital occupancy,2020-04-22,153.0
+Luxembourg,Daily hospital occupancy,2020-04-23,136.0
+Luxembourg,Daily hospital occupancy,2020-04-24,134.0
+Luxembourg,Daily hospital occupancy,2020-04-25,121.0
+Luxembourg,Daily hospital occupancy,2020-04-26,120.0
+Luxembourg,Daily hospital occupancy,2020-04-27,109.0
+Luxembourg,Daily hospital occupancy,2020-04-28,114.0
+Luxembourg,Daily hospital occupancy,2020-04-29,102.0
+Luxembourg,Daily hospital occupancy,2020-04-30,91.0
+Luxembourg,Daily hospital occupancy,2020-05-01,104.0
+Luxembourg,Daily hospital occupancy,2020-05-02,98.0
+Luxembourg,Daily hospital occupancy,2020-05-03,96.0
+Luxembourg,Daily hospital occupancy,2020-05-04,93.0
+Luxembourg,Daily hospital occupancy,2020-05-05,101.0
+Luxembourg,Daily hospital occupancy,2020-05-06,96.0
+Luxembourg,Daily hospital occupancy,2020-05-07,83.0
+Luxembourg,Daily hospital occupancy,2020-05-08,90.0
+Luxembourg,Daily hospital occupancy,2020-05-09,82.0
+Luxembourg,Daily hospital occupancy,2020-05-10,77.0
+Luxembourg,Daily hospital occupancy,2020-05-11,78.0
+Luxembourg,Daily hospital occupancy,2020-05-12,79.0
+Luxembourg,Daily hospital occupancy,2020-05-13,70.0
+Luxembourg,Daily hospital occupancy,2020-05-14,74.0
+Luxembourg,Daily hospital occupancy,2020-05-15,65.0
+Luxembourg,Daily hospital occupancy,2020-05-16,55.0
+Luxembourg,Daily hospital occupancy,2020-05-17,46.0
+Luxembourg,Daily hospital occupancy,2020-05-18,52.0
+Luxembourg,Daily hospital occupancy,2020-05-19,49.0
+Luxembourg,Daily hospital occupancy,2020-05-20,54.0
+Luxembourg,Daily hospital occupancy,2020-05-21,41.0
+Luxembourg,Daily hospital occupancy,2020-05-22,45.0
+Luxembourg,Daily hospital occupancy,2020-05-23,34.0
+Luxembourg,Daily hospital occupancy,2020-05-24,32.0
+Luxembourg,Daily hospital occupancy,2020-05-25,35.0
+Luxembourg,Daily hospital occupancy,2020-05-26,42.0
+Luxembourg,Daily hospital occupancy,2020-05-27,33.0
+Luxembourg,Daily hospital occupancy,2020-05-28,29.0
+Luxembourg,Daily hospital occupancy,2020-05-29,28.0
+Luxembourg,Daily hospital occupancy,2020-05-30,26.0
+Luxembourg,Daily hospital occupancy,2020-05-31,28.0
+Luxembourg,Daily hospital occupancy,2020-06-01,25.0
+Luxembourg,Daily hospital occupancy,2020-06-02,22.0
+Luxembourg,Daily hospital occupancy,2020-06-03,21.0
+Luxembourg,Daily hospital occupancy,2020-06-04,19.0
+Luxembourg,Daily hospital occupancy,2020-06-05,19.0
+Luxembourg,Daily hospital occupancy,2020-06-06,13.0
+Luxembourg,Daily hospital occupancy,2020-06-07,18.0
+Luxembourg,Daily hospital occupancy,2020-06-08,20.0
+Luxembourg,Daily hospital occupancy,2020-06-09,17.0
+Luxembourg,Daily hospital occupancy,2020-06-10,17.0
+Luxembourg,Daily hospital occupancy,2020-06-11,15.0
+Luxembourg,Daily hospital occupancy,2020-06-12,16.0
+Luxembourg,Daily hospital occupancy,2020-06-13,13.0
+Luxembourg,Daily hospital occupancy,2020-06-14,11.0
+Luxembourg,Daily hospital occupancy,2020-06-15,15.0
+Luxembourg,Daily hospital occupancy,2020-06-16,15.0
+Luxembourg,Daily hospital occupancy,2020-06-17,12.0
+Luxembourg,Daily hospital occupancy,2020-06-18,14.0
+Luxembourg,Daily hospital occupancy,2020-06-19,12.0
+Luxembourg,Daily hospital occupancy,2020-06-20,13.0
+Luxembourg,Daily hospital occupancy,2020-06-21,16.0
+Luxembourg,Daily hospital occupancy,2020-06-22,15.0
+Luxembourg,Daily hospital occupancy,2020-06-23,11.0
+Luxembourg,Daily hospital occupancy,2020-06-24,13.0
+Luxembourg,Daily hospital occupancy,2020-06-25,13.0
+Luxembourg,Daily hospital occupancy,2020-06-26,9.0
+Luxembourg,Daily hospital occupancy,2020-06-27,13.0
+Luxembourg,Daily hospital occupancy,2020-06-28,11.0
+Luxembourg,Daily hospital occupancy,2020-06-29,16.0
+Luxembourg,Daily hospital occupancy,2020-06-30,18.0
+Luxembourg,Daily hospital occupancy,2020-07-01,16.0
+Luxembourg,Daily hospital occupancy,2020-07-02,22.0
+Luxembourg,Daily hospital occupancy,2020-07-03,17.0
+Luxembourg,Daily hospital occupancy,2020-07-04,24.0
+Luxembourg,Daily hospital occupancy,2020-07-05,20.0
+Luxembourg,Daily hospital occupancy,2020-07-06,22.0
+Luxembourg,Daily hospital occupancy,2020-07-07,24.0
+Luxembourg,Daily hospital occupancy,2020-07-08,26.0
+Luxembourg,Daily hospital occupancy,2020-07-09,27.0
+Luxembourg,Daily hospital occupancy,2020-07-10,31.0
+Luxembourg,Daily hospital occupancy,2020-07-11,36.0
+Luxembourg,Daily hospital occupancy,2020-07-12,38.0
+Luxembourg,Daily hospital occupancy,2020-07-13,47.0
+Luxembourg,Daily hospital occupancy,2020-07-14,38.0
+Luxembourg,Daily hospital occupancy,2020-07-15,42.0
+Luxembourg,Daily hospital occupancy,2020-07-16,40.0
+Luxembourg,Daily hospital occupancy,2020-07-17,42.0
+Luxembourg,Daily hospital occupancy,2020-07-18,48.0
+Luxembourg,Daily hospital occupancy,2020-07-19,54.0
+Luxembourg,Daily hospital occupancy,2020-07-20,55.0
+Luxembourg,Daily hospital occupancy,2020-07-21,60.0
+Luxembourg,Daily hospital occupancy,2020-07-22,58.0
+Luxembourg,Daily hospital occupancy,2020-07-23,52.0
+Luxembourg,Daily hospital occupancy,2020-07-24,48.0
+Luxembourg,Daily hospital occupancy,2020-07-25,54.0
+Luxembourg,Daily hospital occupancy,2020-07-26,61.0
+Luxembourg,Daily hospital occupancy,2020-07-27,55.0
+Luxembourg,Daily hospital occupancy,2020-07-28,59.0
+Luxembourg,Daily hospital occupancy,2020-07-29,63.0
+Luxembourg,Daily hospital occupancy,2020-07-30,55.0
+Luxembourg,Daily hospital occupancy,2020-07-31,53.0
+Luxembourg,Daily hospital occupancy,2020-08-01,57.0
+Luxembourg,Daily hospital occupancy,2020-08-02,61.0
+Luxembourg,Daily hospital occupancy,2020-08-03,59.0
+Luxembourg,Daily hospital occupancy,2020-08-04,47.0
+Luxembourg,Daily hospital occupancy,2020-08-05,51.0
+Luxembourg,Daily hospital occupancy,2020-08-06,48.0
+Luxembourg,Daily hospital occupancy,2020-08-07,49.0
+Luxembourg,Daily hospital occupancy,2020-08-08,47.0
+Luxembourg,Daily hospital occupancy,2020-08-09,41.0
+Luxembourg,Daily hospital occupancy,2020-08-10,45.0
+Luxembourg,Daily hospital occupancy,2020-08-11,44.0
+Luxembourg,Daily hospital occupancy,2020-08-12,38.0
+Luxembourg,Daily hospital occupancy,2020-08-13,38.0
+Luxembourg,Daily hospital occupancy,2020-08-14,44.0
+Luxembourg,Daily hospital occupancy,2020-08-15,32.0
+Luxembourg,Daily hospital occupancy,2020-08-16,37.0
+Luxembourg,Daily hospital occupancy,2020-08-17,32.0
+Luxembourg,Daily hospital occupancy,2020-08-18,33.0
+Luxembourg,Daily hospital occupancy,2020-08-19,34.0
+Luxembourg,Daily hospital occupancy,2020-08-20,40.0
+Luxembourg,Daily hospital occupancy,2020-08-21,27.0
+Luxembourg,Daily hospital occupancy,2020-08-22,32.0
+Luxembourg,Daily hospital occupancy,2020-08-23,31.0
+Luxembourg,Daily hospital occupancy,2020-08-24,32.0
+Luxembourg,Daily hospital occupancy,2020-08-25,33.0
+Luxembourg,Daily hospital occupancy,2020-08-26,27.0
+Luxembourg,Daily hospital occupancy,2020-08-27,30.0
+Luxembourg,Daily hospital occupancy,2020-08-28,25.0
+Luxembourg,Daily hospital occupancy,2020-08-29,23.0
+Luxembourg,Daily hospital occupancy,2020-08-30,27.0
+Luxembourg,Daily hospital occupancy,2020-08-31,28.0
+Luxembourg,Daily hospital occupancy,2020-09-01,16.0
+Luxembourg,Daily hospital occupancy,2020-09-02,16.0
+Luxembourg,Daily hospital occupancy,2020-09-03,11.0
+Luxembourg,Daily hospital occupancy,2020-09-04,10.0
+Luxembourg,Daily hospital occupancy,2020-09-05,10.0
+Luxembourg,Daily hospital occupancy,2020-09-06,15.0
+Luxembourg,Daily hospital occupancy,2020-09-07,20.0
+Luxembourg,Daily hospital occupancy,2020-09-08,23.0
+Luxembourg,Daily hospital occupancy,2020-09-09,21.0
+Luxembourg,Daily hospital occupancy,2020-09-10,21.0
+Luxembourg,Daily hospital occupancy,2020-09-11,17.0
+Luxembourg,Daily hospital occupancy,2020-09-12,18.0
+Luxembourg,Daily hospital occupancy,2020-09-13,16.0
+Luxembourg,Daily hospital occupancy,2020-09-14,19.0
+Luxembourg,Daily hospital occupancy,2020-09-15,22.0
+Luxembourg,Daily hospital occupancy,2020-09-16,23.0
+Luxembourg,Daily hospital occupancy,2020-09-17,18.0
+Luxembourg,Daily hospital occupancy,2020-09-18,16.0
+Luxembourg,Daily hospital occupancy,2020-09-19,22.0
+Luxembourg,Daily hospital occupancy,2020-09-20,21.0
+Luxembourg,Daily hospital occupancy,2020-09-21,20.0
+Luxembourg,Daily hospital occupancy,2020-09-22,23.0
+Luxembourg,Daily hospital occupancy,2020-09-23,26.0
+Luxembourg,Daily hospital occupancy,2020-09-24,19.0
+Luxembourg,Daily hospital occupancy,2020-09-25,25.0
+Luxembourg,Daily hospital occupancy,2020-09-26,30.0
+Luxembourg,Daily hospital occupancy,2020-09-27,36.0
+Luxembourg,Daily hospital occupancy,2020-09-28,34.0
+Luxembourg,Daily hospital occupancy,2020-09-29,30.0
+Luxembourg,Daily hospital occupancy,2020-09-30,30.0
+Luxembourg,Daily hospital occupancy,2020-10-01,20.0
+Luxembourg,Daily hospital occupancy,2020-10-02,20.0
+Luxembourg,Daily hospital occupancy,2020-10-03,21.0
+Luxembourg,Daily hospital occupancy,2020-10-04,21.0
+Luxembourg,Daily hospital occupancy,2020-10-05,22.0
+Luxembourg,Daily hospital occupancy,2020-10-06,21.0
+Luxembourg,Daily hospital occupancy,2020-10-07,22.0
+Luxembourg,Daily hospital occupancy,2020-10-08,24.0
+Luxembourg,Daily hospital occupancy,2020-10-09,34.0
+Luxembourg,Daily hospital occupancy,2020-10-10,34.0
+Luxembourg,Daily hospital occupancy,2020-10-11,36.0
+Luxembourg,Daily hospital occupancy,2020-10-12,40.0
+Luxembourg,Daily hospital occupancy,2020-10-13,46.0
+Luxembourg,Daily hospital occupancy,2020-10-14,44.0
+Luxembourg,Daily hospital occupancy,2020-10-15,41.0
+Luxembourg,Daily hospital occupancy,2020-10-16,49.0
+Luxembourg,Daily hospital occupancy,2020-10-17,53.0
+Luxembourg,Daily hospital occupancy,2020-10-18,57.0
+Luxembourg,Daily hospital occupancy,2020-10-19,61.0
+Luxembourg,Daily hospital occupancy,2020-10-20,68.0
+Luxembourg,Daily hospital occupancy,2020-10-21,69.0
+Luxembourg,Daily hospital occupancy,2020-10-22,86.0
+Luxembourg,Daily hospital occupancy,2020-10-23,88.0
+Luxembourg,Daily hospital occupancy,2020-10-24,103.0
+Luxembourg,Daily hospital occupancy,2020-10-25,114.0
+Luxembourg,Daily hospital occupancy,2020-10-26,114.0
+Luxembourg,Daily hospital occupancy,2020-10-27,132.0
+Luxembourg,Daily hospital occupancy,2020-10-28,140.0
+Luxembourg,Daily hospital occupancy,2020-10-29,150.0
+Luxembourg,Daily hospital occupancy,2020-10-30,169.0
+Luxembourg,Daily hospital occupancy,2020-10-31,168.0
+Luxembourg,Daily hospital occupancy,2020-11-01,179.0
+Luxembourg,Daily hospital occupancy,2020-11-02,203.0
+Luxembourg,Daily hospital occupancy,2020-11-03,224.0
+Luxembourg,Daily hospital occupancy,2020-11-04,215.0
+Luxembourg,Daily hospital occupancy,2020-11-05,208.0
+Luxembourg,Daily hospital occupancy,2020-11-06,208.0
+Luxembourg,Daily hospital occupancy,2020-11-07,204.0
+Luxembourg,Daily hospital occupancy,2020-11-08,198.0
+Luxembourg,Daily hospital occupancy,2020-11-09,207.0
+Luxembourg,Daily hospital occupancy,2020-11-10,219.0
+Luxembourg,Daily hospital occupancy,2020-11-11,215.0
+Luxembourg,Daily hospital occupancy,2020-11-12,220.0
+Luxembourg,Daily hospital occupancy,2020-11-13,208.0
+Luxembourg,Daily hospital occupancy,2020-11-14,206.0
+Luxembourg,Daily hospital occupancy,2020-11-15,211.0
+Luxembourg,Daily hospital occupancy,2020-11-16,236.0
+Luxembourg,Daily hospital occupancy,2020-11-17,247.0
+Luxembourg,Daily hospital occupancy,2020-11-18,221.0
+Luxembourg,Daily hospital occupancy,2020-11-19,222.0
+Luxembourg,Daily hospital occupancy,2020-11-20,224.0
+Luxembourg,Daily hospital occupancy,2020-11-21,226.0
+Luxembourg,Daily hospital occupancy,2020-11-22,242.0
+Luxembourg,Daily hospital occupancy,2020-11-23,237.0
+Luxembourg,Daily hospital occupancy,2020-11-24,225.0
+Luxembourg,Daily hospital occupancy,2020-11-25,224.0
+Luxembourg,Daily hospital occupancy,2020-11-26,221.0
+Luxembourg,Daily hospital occupancy,2020-11-27,206.0
+Luxembourg,Daily hospital occupancy,2020-11-28,203.0
+Luxembourg,Daily hospital occupancy,2020-11-29,214.0
+Luxembourg,Daily hospital occupancy,2020-11-30,212.0
+Luxembourg,Daily hospital occupancy,2020-12-01,210.0
+Luxembourg,Daily hospital occupancy,2020-12-02,202.0
+Luxembourg,Daily hospital occupancy,2020-12-03,194.0
+Luxembourg,Daily hospital occupancy,2020-12-04,190.0
+Luxembourg,Daily hospital occupancy,2020-12-05,191.0
+Luxembourg,Daily hospital occupancy,2020-12-06,203.0
+Luxembourg,Daily hospital occupancy,2020-12-07,203.0
+Luxembourg,Daily hospital occupancy,2020-12-08,210.0
+Luxembourg,Daily hospital occupancy,2020-12-09,217.0
+Luxembourg,Daily hospital occupancy,2020-12-10,217.0
+Luxembourg,Daily hospital occupancy,2020-12-11,221.0
+Luxembourg,Daily hospital occupancy,2020-12-12,226.0
+Luxembourg,Daily hospital occupancy,2020-12-13,240.0
+Luxembourg,Daily hospital occupancy,2020-12-14,239.0
+Luxembourg,Daily hospital occupancy,2020-12-15,235.0
+Luxembourg,Daily hospital occupancy,2020-12-16,230.0
+Luxembourg,Daily hospital occupancy,2020-12-17,226.0
+Luxembourg,Daily hospital occupancy,2020-12-18,218.0
+Luxembourg,Daily hospital occupancy,2020-12-19,214.0
+Luxembourg,Daily hospital occupancy,2020-12-20,207.0
+Luxembourg,Daily hospital occupancy,2020-12-21,193.0
+Luxembourg,Daily hospital occupancy,2020-12-22,192.0
+Luxembourg,Daily hospital occupancy,2020-12-23,171.0
+Luxembourg,Daily hospital occupancy,2020-12-24,167.0
+Luxembourg,Daily hospital occupancy,2020-12-25,165.0
+Luxembourg,Daily hospital occupancy,2020-12-26,166.0
+Luxembourg,Daily hospital occupancy,2020-12-27,150.0
+Luxembourg,Daily hospital occupancy,2020-12-28,157.0
+Luxembourg,Daily hospital occupancy,2020-12-29,147.0
+Luxembourg,Daily hospital occupancy,2020-12-30,132.0
+Luxembourg,Daily hospital occupancy,2020-12-31,136.0
+Luxembourg,Daily hospital occupancy,2021-01-01,125.0
+Luxembourg,Daily hospital occupancy,2021-01-02,125.0
+Luxembourg,Daily hospital occupancy,2021-01-03,125.0
+Luxembourg,Daily hospital occupancy,2021-01-04,123.0
+Luxembourg,Daily hospital occupancy,2021-01-05,104.0
+Luxembourg,Daily hospital occupancy,2021-01-06,104.0
+Luxembourg,Daily hospital occupancy,2021-01-07,100.0
+Luxembourg,Daily hospital occupancy,2021-01-08,91.0
+Luxembourg,Daily hospital occupancy,2021-01-09,93.0
+Luxembourg,Daily hospital occupancy,2021-01-10,92.0
+Luxembourg,Daily hospital occupancy,2021-01-11,93.0
+Luxembourg,Daily hospital occupancy,2021-01-12,92.0
+Luxembourg,Daily hospital occupancy,2021-01-13,91.0
+Luxembourg,Daily hospital occupancy,2021-01-14,90.0
+Luxembourg,Daily hospital occupancy,2021-01-15,84.0
+Luxembourg,Daily hospital occupancy,2021-01-16,91.0
+Luxembourg,Daily hospital occupancy,2021-01-17,88.0
+Luxembourg,Daily hospital occupancy,2021-01-18,88.0
+Luxembourg,Daily hospital occupancy,2021-01-19,85.0
+Luxembourg,Daily hospital occupancy,2021-01-20,73.0
+Luxembourg,Daily hospital occupancy,2021-01-21,77.0
+Luxembourg,Daily hospital occupancy,2021-01-22,78.0
+Luxembourg,Daily hospital occupancy,2021-01-23,73.0
+Luxembourg,Daily hospital occupancy,2021-01-24,71.0
+Luxembourg,Daily hospital occupancy,2021-01-25,76.0
+Luxembourg,Daily hospital occupancy,2021-01-26,70.0
+Luxembourg,Daily hospital occupancy,2021-01-27,63.0
+Luxembourg,Daily hospital occupancy,2021-01-28,65.0
+Luxembourg,Daily hospital occupancy,2021-01-29,69.0
+Luxembourg,Daily hospital occupancy,2021-01-30,66.0
+Luxembourg,Daily hospital occupancy,2021-01-31,66.0
+Luxembourg,Daily hospital occupancy,2021-02-01,68.0
+Luxembourg,Daily hospital occupancy,2021-02-02,71.0
+Luxembourg,Daily hospital occupancy,2021-02-03,58.0
+Luxembourg,Daily hospital occupancy,2021-02-04,57.0
+Luxembourg,Daily hospital occupancy,2021-02-05,58.0
+Luxembourg,Daily hospital occupancy,2021-02-06,64.0
+Luxembourg,Daily hospital occupancy,2021-02-07,65.0
+Luxembourg,Daily hospital occupancy,2021-02-08,68.0
+Luxembourg,Daily hospital occupancy,2021-02-09,65.0
+Luxembourg,Daily hospital occupancy,2021-02-10,62.0
+Luxembourg,Daily hospital occupancy,2021-02-11,67.0
+Luxembourg,Daily hospital occupancy,2021-02-12,68.0
+Luxembourg,Daily hospital occupancy,2021-02-13,69.0
+Luxembourg,Daily hospital occupancy,2021-02-14,73.0
+Luxembourg,Daily hospital occupancy,2021-02-15,75.0
+Luxembourg,Daily hospital occupancy,2021-02-16,72.0
+Luxembourg,Daily hospital occupancy,2021-02-17,74.0
+Luxembourg,Daily hospital occupancy,2021-02-18,75.0
+Luxembourg,Daily hospital occupancy,2021-02-19,74.0
+Luxembourg,Daily hospital occupancy,2021-02-20,69.0
+Luxembourg,Daily hospital occupancy,2021-02-21,78.0
+Luxembourg,Daily hospital occupancy,2021-02-22,82.0
+Luxembourg,Daily hospital occupancy,2021-02-23,79.0
+Luxembourg,Daily hospital occupancy,2021-02-24,78.0
+Luxembourg,Daily hospital occupancy,2021-02-25,81.0
+Luxembourg,Daily hospital occupancy,2021-02-26,86.0
+Luxembourg,Daily hospital occupancy,2021-02-27,93.0
+Luxembourg,Daily hospital occupancy,2021-02-28,98.0
+Luxembourg,Daily hospital occupancy,2021-03-01,100.0
+Luxembourg,Daily hospital occupancy,2021-03-02,104.0
+Luxembourg,Daily hospital occupancy,2021-03-03,109.0
+Luxembourg,Daily hospital occupancy,2021-03-04,106.0
+Luxembourg,Daily hospital occupancy,2021-03-05,106.0
+Luxembourg,Daily hospital occupancy,2021-03-06,111.0
+Luxembourg,Daily hospital occupancy,2021-03-07,113.0
+Luxembourg,Daily hospital occupancy,2021-03-08,117.0
+Luxembourg,Daily hospital occupancy,2021-03-09,122.0
+Luxembourg,Daily hospital occupancy,2021-03-10,124.0
+Luxembourg,Daily hospital occupancy,2021-03-11,128.0
+Luxembourg,Daily hospital occupancy,2021-03-12,120.0
+Luxembourg,Daily hospital occupancy,2021-03-13,118.0
+Luxembourg,Daily hospital occupancy,2021-03-14,120.0
+Luxembourg,Daily hospital occupancy,2021-03-15,128.0
+Luxembourg,Daily hospital occupancy,2021-03-16,113.0
+Luxembourg,Daily hospital occupancy,2021-03-17,120.0
+Luxembourg,Daily hospital occupancy,2021-03-18,118.0
+Luxembourg,Daily hospital occupancy,2021-03-19,119.0
+Luxembourg,Daily hospital occupancy,2021-03-20,121.0
+Luxembourg,Daily hospital occupancy,2021-03-21,122.0
+Luxembourg,Daily hospital occupancy,2021-03-22,130.0
+Luxembourg,Daily hospital occupancy,2021-03-23,123.0
+Luxembourg,Daily hospital occupancy,2021-03-24,125.0
+Luxembourg,Daily hospital occupancy,2021-03-25,124.0
+Luxembourg,Daily hospital occupancy,2021-03-26,124.0
+Luxembourg,Daily hospital occupancy,2021-03-27,136.0
+Luxembourg,Daily hospital occupancy,2021-03-28,130.0
+Luxembourg,Daily hospital occupancy,2021-03-29,137.0
+Luxembourg,Daily hospital occupancy,2021-03-30,143.0
+Luxembourg,Daily hospital occupancy,2021-03-31,145.0
+Luxembourg,Daily hospital occupancy,2021-04-01,141.0
+Luxembourg,Daily hospital occupancy,2021-04-02,142.0
+Luxembourg,Daily hospital occupancy,2021-04-03,135.0
+Luxembourg,Daily hospital occupancy,2021-04-04,134.0
+Luxembourg,Daily hospital occupancy,2021-04-05,137.0
+Luxembourg,Daily hospital occupancy,2021-04-06,139.0
+Luxembourg,Daily hospital occupancy,2021-04-07,140.0
+Luxembourg,Daily hospital occupancy,2021-04-08,132.0
+Luxembourg,Daily hospital occupancy,2021-04-09,133.0
+Luxembourg,Daily hospital occupancy,2021-04-10,130.0
+Luxembourg,Daily hospital occupancy,2021-04-11,129.0
+Luxembourg,Daily hospital occupancy,2021-04-12,136.0
+Luxembourg,Daily hospital occupancy,2021-04-13,122.0
+Luxembourg,Daily hospital occupancy,2021-04-14,117.0
+Luxembourg,Daily hospital occupancy,2021-04-15,110.0
+Luxembourg,Daily hospital occupancy,2021-04-16,116.0
+Luxembourg,Daily hospital occupancy,2021-04-17,108.0
+Luxembourg,Daily hospital occupancy,2021-04-18,116.0
+Luxembourg,Daily hospital occupancy,2021-04-19,121.0
+Luxembourg,Daily hospital occupancy,2021-04-20,114.0
+Luxembourg,Daily hospital occupancy,2021-04-21,112.0
+Luxembourg,Daily hospital occupancy,2021-04-22,105.0
+Luxembourg,Daily hospital occupancy,2021-04-23,105.0
+Luxembourg,Daily hospital occupancy,2021-04-24,98.0
+Luxembourg,Daily hospital occupancy,2021-04-25,94.0
+Luxembourg,Daily hospital occupancy,2021-04-26,91.0
+Luxembourg,Daily hospital occupancy,2021-04-27,90.0
+Luxembourg,Daily hospital occupancy,2021-04-28,95.0
+Luxembourg,Daily hospital occupancy,2021-04-29,87.0
+Luxembourg,Daily hospital occupancy,2021-04-30,91.0
+Luxembourg,Daily hospital occupancy,2021-05-01,93.0
+Luxembourg,Daily hospital occupancy,2021-05-02,95.0
+Luxembourg,Daily hospital occupancy,2021-05-03,97.0
+Luxembourg,Daily hospital occupancy,2021-05-04,88.0
+Luxembourg,Daily hospital occupancy,2021-05-05,86.0
+Luxembourg,Daily hospital occupancy,2021-05-06,86.0
+Luxembourg,Daily hospital occupancy,2021-05-07,86.0
+Luxembourg,Daily hospital occupancy,2021-05-08,87.0
+Luxembourg,Daily hospital occupancy,2021-05-09,84.0
+Luxembourg,Daily hospital occupancy,2021-05-10,82.0
+Luxembourg,Daily hospital occupancy,2021-05-11,84.0
+Luxembourg,Daily hospital occupancy,2021-05-12,75.0
+Luxembourg,Daily hospital occupancy,2021-05-13,67.0
+Luxembourg,Daily hospital occupancy,2021-05-14,71.0
+Luxembourg,Daily hospital occupancy,2021-05-15,63.0
+Luxembourg,Daily hospital occupancy,2021-05-16,63.0
+Luxembourg,Daily hospital occupancy,2021-05-17,61.0
+Luxembourg,Daily hospital occupancy,2021-05-18,59.0
+Luxembourg,Daily hospital occupancy,2021-05-19,51.0
+Luxembourg,Daily hospital occupancy,2021-05-20,45.0
+Luxembourg,Daily hospital occupancy,2021-05-21,40.0
+Luxembourg,Daily hospital occupancy,2021-05-22,40.0
+Luxembourg,Daily hospital occupancy,2021-05-23,36.0
+Luxembourg,Daily hospital occupancy,2021-05-24,34.0
+Luxembourg,Daily hospital occupancy,2021-05-25,34.0
+Luxembourg,Daily hospital occupancy,2021-05-26,32.0
+Luxembourg,Daily hospital occupancy,2021-05-27,32.0
+Luxembourg,Daily hospital occupancy,2021-05-28,32.0
+Luxembourg,Daily hospital occupancy,2021-05-29,32.0
+Luxembourg,Daily hospital occupancy,2021-05-30,27.0
+Luxembourg,Daily hospital occupancy,2021-05-31,24.0
+Luxembourg,Daily hospital occupancy,2021-06-01,21.0
+Luxembourg,Daily hospital occupancy,2021-06-02,16.0
+Luxembourg,Daily hospital occupancy,2021-06-03,17.0
+Luxembourg,Daily hospital occupancy,2021-06-04,18.0
+Luxembourg,Daily hospital occupancy,2021-06-05,17.0
+Luxembourg,Daily hospital occupancy,2021-06-06,16.0
+Luxembourg,Daily hospital occupancy,2021-06-07,18.0
+Luxembourg,Daily hospital occupancy,2021-06-08,20.0
+Luxembourg,Daily hospital occupancy,2021-06-09,13.0
+Luxembourg,Daily hospital occupancy,2021-06-10,12.0
+Luxembourg,Daily hospital occupancy,2021-06-11,14.0
+Luxembourg,Daily hospital occupancy,2021-06-12,10.0
+Luxembourg,Daily hospital occupancy,2021-06-13,9.0
+Luxembourg,Daily hospital occupancy,2021-06-14,10.0
+Luxembourg,Daily hospital occupancy,2021-06-15,8.0
+Luxembourg,Daily hospital occupancy,2021-06-16,10.0
+Luxembourg,Daily hospital occupancy,2021-06-17,9.0
+Luxembourg,Daily hospital occupancy,2021-06-18,7.0
+Luxembourg,Daily hospital occupancy,2021-06-19,5.0
+Luxembourg,Daily hospital occupancy,2021-06-20,5.0
+Luxembourg,Daily hospital occupancy,2021-06-21,5.0
+Luxembourg,Daily hospital occupancy,2021-06-22,4.0
+Luxembourg,Daily hospital occupancy,2021-06-23,5.0
+Luxembourg,Daily hospital occupancy,2021-06-24,5.0
+Luxembourg,Daily hospital occupancy,2021-06-25,4.0
+Luxembourg,Daily hospital occupancy,2021-06-26,7.0
+Luxembourg,Daily hospital occupancy,2021-06-27,5.0
+Luxembourg,Daily hospital occupancy,2021-06-28,5.0
+Luxembourg,Daily hospital occupancy,2021-06-29,6.0
+Luxembourg,Daily hospital occupancy,2021-06-30,4.0
+Luxembourg,Daily hospital occupancy,2021-07-01,3.0
+Luxembourg,Daily hospital occupancy,2021-07-02,2.0
+Luxembourg,Daily hospital occupancy,2021-07-03,3.0
+Luxembourg,Daily hospital occupancy,2021-07-04,4.0
+Luxembourg,Daily hospital occupancy,2021-07-05,5.0
+Luxembourg,Daily hospital occupancy,2021-07-06,5.0
+Luxembourg,Daily hospital occupancy,2021-07-07,5.0
+Luxembourg,Daily hospital occupancy,2021-07-08,6.0
+Luxembourg,Daily hospital occupancy,2021-07-09,7.0
+Luxembourg,Daily hospital occupancy,2021-07-10,11.0
+Luxembourg,Daily hospital occupancy,2021-07-11,14.0
+Luxembourg,Daily hospital occupancy,2021-07-12,13.0
+Luxembourg,Daily hospital occupancy,2021-07-13,10.0
+Luxembourg,Daily hospital occupancy,2021-07-14,11.0
+Luxembourg,Daily hospital occupancy,2021-07-15,11.0
+Luxembourg,Daily hospital occupancy,2021-07-16,13.0
+Luxembourg,Daily hospital occupancy,2021-07-17,15.0
+Luxembourg,Daily hospital occupancy,2021-07-18,13.0
+Luxembourg,Daily hospital occupancy,2021-07-19,19.0
+Luxembourg,Daily hospital occupancy,2021-07-20,17.0
+Luxembourg,Daily hospital occupancy,2021-07-21,17.0
+Luxembourg,Daily hospital occupancy,2021-07-22,20.0
+Luxembourg,Daily hospital occupancy,2021-07-23,22.0
+Luxembourg,Daily hospital occupancy,2021-07-24,27.0
+Luxembourg,Daily hospital occupancy,2021-07-25,26.0
+Luxembourg,Daily hospital occupancy,2021-07-26,26.0
+Luxembourg,Daily hospital occupancy,2021-07-27,22.0
+Luxembourg,Daily hospital occupancy,2021-07-28,23.0
+Luxembourg,Daily hospital occupancy,2021-07-29,22.0
+Luxembourg,Daily hospital occupancy,2021-07-30,24.0
+Luxembourg,Daily hospital occupancy,2021-07-31,24.0
+Luxembourg,Daily hospital occupancy,2021-08-01,25.0
+Luxembourg,Daily hospital occupancy,2021-08-02,25.0
+Luxembourg,Daily hospital occupancy,2021-08-03,26.0
+Luxembourg,Daily hospital occupancy,2021-08-04,20.0
+Luxembourg,Daily hospital occupancy,2021-08-05,22.0
+Luxembourg,Daily hospital occupancy,2021-08-06,21.0
+Luxembourg,Daily hospital occupancy,2021-08-07,21.0
+Luxembourg,Daily hospital occupancy,2021-08-08,21.0
+Luxembourg,Daily hospital occupancy,2021-08-09,21.0
+Luxembourg,Daily hospital occupancy,2021-08-10,17.0
+Luxembourg,Daily hospital occupancy,2021-08-11,19.0
+Luxembourg,Daily hospital occupancy,2021-08-12,21.0
+Luxembourg,Daily hospital occupancy,2021-08-13,20.0
+Luxembourg,Daily hospital occupancy,2021-08-14,20.0
+Luxembourg,Daily hospital occupancy,2021-08-15,25.0
+Luxembourg,Daily hospital occupancy,2021-08-16,27.0
+Luxembourg,Daily hospital occupancy,2021-08-17,27.0
+Luxembourg,Daily hospital occupancy,2021-08-18,25.0
+Luxembourg,Daily hospital occupancy,2021-08-19,21.0
+Luxembourg,Daily hospital occupancy,2021-08-20,20.0
+Luxembourg,Daily hospital occupancy,2021-08-21,15.0
+Luxembourg,Daily hospital occupancy,2021-08-22,20.0
+Luxembourg,Daily hospital occupancy,2021-08-23,23.0
+Luxembourg,Daily hospital occupancy,2021-08-24,22.0
+Luxembourg,Daily hospital occupancy,2021-08-25,26.0
+Luxembourg,Daily hospital occupancy,2021-08-26,35.0
+Luxembourg,Daily hospital occupancy,2021-08-27,30.0
+Luxembourg,Daily hospital occupancy,2021-08-28,28.0
+Luxembourg,Daily hospital occupancy,2021-08-29,25.0
+Luxembourg,Daily hospital occupancy,2021-08-30,25.0
+Luxembourg,Daily hospital occupancy,2021-08-31,29.0
+Luxembourg,Daily hospital occupancy,2021-09-01,27.0
+Luxembourg,Daily hospital occupancy,2021-09-02,33.0
+Luxembourg,Daily hospital occupancy,2021-09-03,31.0
+Luxembourg,Daily hospital occupancy,2021-09-04,32.0
+Luxembourg,Daily hospital occupancy,2021-09-05,39.0
+Luxembourg,Daily hospital occupancy,2021-09-06,40.0
+Luxembourg,Daily hospital occupancy,2021-09-07,38.0
+Luxembourg,Daily hospital occupancy,2021-09-08,37.0
+Luxembourg,Daily hospital occupancy,2021-09-09,40.0
+Luxembourg,Daily hospital occupancy,2021-09-10,41.0
+Luxembourg,Daily hospital occupancy,2021-09-11,40.0
+Luxembourg,Daily hospital occupancy,2021-09-12,37.0
+Luxembourg,Daily hospital occupancy,2021-09-13,37.0
+Luxembourg,Daily hospital occupancy,2021-09-14,32.0
+Luxembourg,Daily hospital occupancy,2021-09-15,27.0
+Luxembourg,Daily hospital occupancy,2021-09-16,25.0
+Luxembourg,Daily hospital occupancy,2021-09-17,28.0
+Luxembourg,Daily hospital occupancy,2021-09-18,29.0
+Luxembourg,Daily hospital occupancy,2021-09-19,29.0
+Luxembourg,Daily hospital occupancy,2021-09-20,30.0
+Luxembourg,Daily hospital occupancy,2021-09-21,27.0
+Luxembourg,Daily hospital occupancy,2021-09-22,24.0
+Luxembourg,Daily hospital occupancy,2021-09-23,24.0
+Luxembourg,Daily hospital occupancy,2021-09-24,21.0
+Luxembourg,Daily hospital occupancy,2021-09-25,23.0
+Luxembourg,Daily hospital occupancy,2021-09-26,20.0
+Luxembourg,Daily hospital occupancy,2021-09-27,22.0
+Luxembourg,Daily hospital occupancy,2021-09-28,25.0
+Luxembourg,Daily hospital occupancy,2021-09-29,26.0
+Luxembourg,Daily hospital occupancy,2021-09-30,26.0
+Luxembourg,Daily hospital occupancy,2021-10-01,23.0
+Luxembourg,Daily hospital occupancy,2021-10-02,24.0
+Luxembourg,Daily hospital occupancy,2021-10-03,25.0
+Luxembourg,Daily hospital occupancy,2021-10-04,23.0
+Luxembourg,Daily hospital occupancy,2021-10-05,20.0
+Luxembourg,Daily hospital occupancy,2021-10-06,19.0
+Luxembourg,Daily hospital occupancy,2021-10-07,21.0
+Luxembourg,Daily hospital occupancy,2021-10-08,19.0
+Luxembourg,Daily hospital occupancy,2021-10-09,17.0
+Luxembourg,Daily hospital occupancy,2021-10-10,19.0
+Luxembourg,Daily hospital occupancy,2021-10-11,22.0
+Luxembourg,Daily hospital occupancy,2021-10-12,21.0
+Luxembourg,Daily hospital occupancy,2021-10-13,20.0
+Luxembourg,Daily hospital occupancy,2021-10-14,19.0
+Luxembourg,Daily hospital occupancy,2021-10-15,16.0
+Luxembourg,Daily hospital occupancy,2021-10-16,18.0
+Luxembourg,Daily hospital occupancy,2021-10-17,18.0
+Luxembourg,Daily hospital occupancy,2021-10-18,22.0
+Luxembourg,Daily hospital occupancy,2021-10-19,23.0
+Luxembourg,Daily hospital occupancy,2021-10-20,21.0
+Luxembourg,Daily hospital occupancy,2021-10-21,22.0
+Luxembourg,Daily hospital occupancy,2021-10-22,25.0
+Luxembourg,Daily hospital occupancy,2021-10-23,25.0
+Luxembourg,Daily hospital occupancy,2021-10-24,27.0
+Luxembourg,Daily hospital occupancy,2021-10-25,30.0
+Luxembourg,Daily hospital occupancy,2021-10-26,37.0
+Luxembourg,Daily hospital occupancy,2021-10-27,36.0
+Luxembourg,Daily hospital occupancy,2021-10-28,33.0
+Luxembourg,Daily hospital occupancy,2021-10-29,33.0
+Luxembourg,Daily hospital occupancy,2021-10-30,38.0
+Luxembourg,Daily hospital occupancy,2021-10-31,33.0
+Luxembourg,Daily hospital occupancy,2021-11-01,39.0
+Luxembourg,Daily hospital occupancy,2021-11-02,38.0
+Luxembourg,Daily hospital occupancy,2021-11-03,44.0
+Luxembourg,Daily hospital occupancy,2021-11-04,43.0
+Luxembourg,Daily hospital occupancy,2021-11-05,49.0
+Luxembourg,Daily hospital occupancy,2021-11-06,43.0
+Luxembourg,Daily hospital occupancy,2021-11-07,40.0
+Luxembourg,Daily hospital occupancy,2021-11-08,43.0
+Luxembourg,Daily hospital occupancy,2021-11-09,41.0
+Luxembourg,Daily hospital occupancy,2021-11-10,38.0
+Luxembourg,Daily hospital occupancy,2021-11-11,40.0
+Luxembourg,Daily hospital occupancy,2021-11-12,42.0
+Luxembourg,Daily hospital occupancy,2021-11-13,54.0
+Luxembourg,Daily hospital occupancy,2021-11-14,57.0
+Luxembourg,Daily hospital occupancy,2021-11-15,54.0
+Luxembourg,Daily hospital occupancy,2021-11-16,45.0
+Luxembourg,Daily hospital occupancy,2021-11-17,48.0
+Luxembourg,Daily hospital occupancy,2021-11-18,51.0
+Luxembourg,Daily hospital occupancy,2021-11-19,50.0
+Luxembourg,Daily hospital occupancy,2021-11-20,46.0
+Luxembourg,Daily hospital occupancy,2021-11-21,46.0
+Luxembourg,Daily hospital occupancy,2021-11-22,49.0
+Luxembourg,Daily hospital occupancy,2021-11-23,48.0
+Luxembourg,Daily hospital occupancy,2021-11-24,53.0
+Luxembourg,Daily hospital occupancy,2021-11-25,53.0
+Luxembourg,Daily hospital occupancy,2021-11-26,55.0
+Luxembourg,Daily hospital occupancy,2021-11-27,58.0
+Luxembourg,Daily hospital occupancy,2021-11-28,60.0
+Luxembourg,Daily hospital occupancy,2021-11-29,64.0
+Luxembourg,Daily hospital occupancy,2021-11-30,64.0
+Luxembourg,Daily hospital occupancy,2021-12-01,63.0
+Luxembourg,Daily hospital occupancy,2021-12-02,66.0
+Luxembourg,Daily hospital occupancy,2021-12-03,70.0
+Luxembourg,Daily hospital occupancy,2021-12-04,66.0
+Luxembourg,Daily hospital occupancy,2021-12-05,70.0
+Luxembourg,Daily hospital occupancy,2021-12-06,72.0
+Luxembourg,Daily hospital occupancy,2021-12-07,72.0
+Luxembourg,Daily hospital occupancy,2021-12-08,76.0
+Luxembourg,Daily hospital occupancy,2021-12-09,80.0
+Luxembourg,Daily hospital occupancy,2021-12-10,78.0
+Luxembourg,Daily hospital occupancy,2021-12-11,82.0
+Luxembourg,Daily hospital occupancy,2021-12-12,87.0
+Luxembourg,Daily hospital occupancy,2021-12-13,87.0
+Luxembourg,Daily hospital occupancy,2021-12-14,82.0
+Luxembourg,Daily hospital occupancy,2021-12-15,79.0
+Luxembourg,Daily hospital occupancy,2021-12-16,81.0
+Luxembourg,Daily hospital occupancy,2021-12-17,79.0
+Luxembourg,Daily hospital occupancy,2021-12-18,76.0
+Luxembourg,Daily hospital occupancy,2021-12-19,71.0
+Luxembourg,Daily hospital occupancy,2021-12-20,70.0
+Luxembourg,Daily hospital occupancy,2021-12-21,72.0
+Luxembourg,Daily hospital occupancy,2021-12-22,69.0
+Luxembourg,Daily hospital occupancy,2021-12-23,63.0
+Luxembourg,Daily hospital occupancy,2021-12-24,62.0
+Luxembourg,Daily hospital occupancy,2021-12-25,58.0
+Luxembourg,Daily hospital occupancy,2021-12-26,68.0
+Luxembourg,Daily hospital occupancy,2021-12-27,65.0
+Luxembourg,Daily hospital occupancy,2021-12-28,66.0
+Luxembourg,Daily hospital occupancy,2021-12-29,66.0
+Luxembourg,Daily hospital occupancy,2021-12-30,67.0
+Luxembourg,Daily hospital occupancy,2021-12-31,67.0
+Luxembourg,Daily hospital occupancy,2022-01-01,68.0
+Luxembourg,Daily hospital occupancy,2022-01-02,69.0
+Luxembourg,Daily hospital occupancy,2022-01-03,69.0
+Luxembourg,Daily hospital occupancy,2022-01-04,69.0
+Luxembourg,Daily hospital occupancy,2022-01-05,67.0
+Luxembourg,Daily hospital occupancy,2022-01-06,72.0
+Luxembourg,Daily hospital occupancy,2022-01-07,73.0
+Luxembourg,Daily hospital occupancy,2022-01-08,70.0
+Luxembourg,Daily hospital occupancy,2022-01-09,68.0
+Luxembourg,Daily hospital occupancy,2022-01-10,65.0
+Luxembourg,Daily hospital occupancy,2022-01-11,65.0
+Luxembourg,Daily hospital occupancy,2022-01-12,69.0
+Luxembourg,Daily hospital occupancy,2022-01-13,63.0
+Luxembourg,Daily hospital occupancy,2022-01-14,66.0
+Luxembourg,Daily hospital occupancy,2022-01-15,74.0
+Luxembourg,Daily hospital occupancy,2022-01-16,71.0
+Luxembourg,Daily hospital occupancy,2022-01-17,76.0
+Luxembourg,Daily hospital occupancy,2022-01-18,72.0
+Luxembourg,Daily hospital occupancy,2022-01-19,74.0
+Luxembourg,Daily hospital occupancy,2022-01-20,69.0
+Luxembourg,Daily hospital occupancy,2022-01-21,71.0
+Luxembourg,Daily hospital occupancy,2022-01-22,73.0
+Luxembourg,Daily hospital occupancy,2022-01-23,70.0
+Luxembourg,Daily hospital occupancy,2022-01-24,70.0
+Luxembourg,Daily hospital occupancy,2022-01-25,70.0
+Luxembourg,Daily hospital occupancy,2022-01-26,70.0
+Luxembourg,Daily hospital occupancy,2022-01-27,71.0
+Luxembourg,Daily hospital occupancy,2022-01-28,76.0
+Luxembourg,Daily hospital occupancy,2022-01-29,74.0
+Luxembourg,Daily hospital occupancy,2022-01-30,79.0
+Luxembourg,Daily hospital occupancy,2022-01-31,81.0
+Luxembourg,Daily hospital occupancy,2022-02-01,83.0
+Luxembourg,Daily hospital occupancy,2022-02-02,82.0
+Luxembourg,Daily hospital occupancy,2022-02-03,84.0
+Luxembourg,Daily hospital occupancy,2022-02-04,88.0
+Luxembourg,Daily hospital occupancy,2022-02-05,84.0
+Luxembourg,Daily hospital occupancy,2022-02-06,83.0
+Luxembourg,Daily hospital occupancy,2022-02-07,82.0
+Luxembourg,Daily hospital occupancy,2022-02-08,80.0
+Luxembourg,Daily hospital occupancy,2022-02-09,81.0
+Luxembourg,Daily hospital occupancy,2022-02-10,73.0
+Luxembourg,Daily hospital occupancy,2022-02-11,74.0
+Luxembourg,Daily hospital occupancy,2022-02-12,66.0
+Luxembourg,Daily hospital occupancy,2022-02-13,63.0
+Luxembourg,Daily hospital occupancy,2022-02-14,67.0
+Luxembourg,Daily hospital occupancy,2022-02-15,57.0
+Luxembourg,Daily hospital occupancy,2022-02-16,63.0
+Luxembourg,Daily hospital occupancy,2022-02-17,60.0
+Luxembourg,Daily hospital occupancy,2022-02-18,41.0
+Luxembourg,Daily hospital occupancy,2022-02-19,35.0
+Luxembourg,Daily hospital occupancy,2022-02-20,36.0
+Luxembourg,Daily hospital occupancy,2022-02-21,33.0
+Luxembourg,Daily hospital occupancy,2022-02-22,31.0
+Luxembourg,Daily hospital occupancy,2022-02-23,27.0
+Luxembourg,Daily hospital occupancy,2022-02-24,28.0
+Luxembourg,Daily hospital occupancy,2022-02-25,29.0
+Luxembourg,Daily hospital occupancy,2022-02-26,27.0
+Luxembourg,Daily hospital occupancy,2022-02-27,26.0
+Luxembourg,Daily hospital occupancy,2022-02-28,27.0
+Luxembourg,Daily hospital occupancy,2022-03-01,31.0
+Luxembourg,Daily hospital occupancy,2022-03-02,30.0
+Luxembourg,Daily hospital occupancy,2022-03-03,30.0
+Luxembourg,Daily hospital occupancy,2022-03-04,33.0
+Luxembourg,Daily hospital occupancy,2022-03-05,28.0
+Luxembourg,Daily hospital occupancy,2022-03-06,31.0
+Luxembourg,Daily hospital occupancy,2022-03-07,32.0
+Luxembourg,Daily hospital occupancy,2022-03-08,32.0
+Luxembourg,Daily hospital occupancy,2022-03-09,32.0
+Luxembourg,Daily hospital occupancy,2022-03-10,38.0
+Luxembourg,Daily hospital occupancy,2022-03-11,37.0
+Luxembourg,Daily hospital occupancy,2022-03-12,33.0
+Luxembourg,Daily hospital occupancy,2022-03-13,31.0
+Luxembourg,Daily hospital occupancy,2022-03-14,32.0
+Luxembourg,Daily hospital occupancy,2022-03-15,39.0
+Luxembourg,Daily hospital occupancy,2022-03-16,41.0
+Luxembourg,Daily hospital occupancy,2022-03-17,42.0
+Luxembourg,Daily hospital occupancy,2022-03-18,43.0
+Luxembourg,Daily hospital occupancy,2022-03-19,37.0
+Luxembourg,Daily hospital occupancy,2022-03-20,42.0
+Luxembourg,Daily hospital occupancy,2022-03-21,42.0
+Luxembourg,Daily hospital occupancy,2022-03-22,37.0
+Luxembourg,Daily hospital occupancy,2022-03-23,39.0
+Luxembourg,Daily hospital occupancy,2022-03-24,37.0
+Luxembourg,Daily hospital occupancy,2022-03-25,36.0
+Luxembourg,Daily hospital occupancy,2022-03-26,33.0
+Luxembourg,Daily hospital occupancy,2022-03-27,25.0
+Luxembourg,Daily hospital occupancy,2022-03-28,24.0
+Luxembourg,Daily hospital occupancy,2022-03-29,25.0
+Luxembourg,Daily hospital occupancy,2022-03-30,25.0
+Luxembourg,Daily hospital occupancy,2022-03-31,29.0
+Luxembourg,Daily hospital occupancy,2022-04-01,27.0
+Luxembourg,Daily hospital occupancy,2022-04-02,29.0
+Luxembourg,Daily hospital occupancy,2022-04-03,33.0
+Luxembourg,Daily hospital occupancy,2022-04-04,29.0
+Luxembourg,Daily hospital occupancy,2022-04-05,32.0
+Luxembourg,Daily hospital occupancy,2022-04-06,35.0
+Luxembourg,Daily hospital occupancy,2022-04-07,28.0
+Luxembourg,Daily hospital occupancy,2022-04-08,32.0
+Luxembourg,Daily hospital occupancy,2022-04-09,32.0
+Luxembourg,Daily hospital occupancy,2022-04-10,34.0
+Luxembourg,Daily hospital occupancy,2022-04-11,35.0
+Luxembourg,Daily hospital occupancy,2022-04-12,40.0
+Luxembourg,Daily hospital occupancy,2022-04-13,30.0
+Luxembourg,Daily hospital occupancy,2022-04-14,30.0
+Luxembourg,Daily hospital occupancy,2022-04-15,29.0
+Luxembourg,Daily hospital occupancy,2022-04-16,28.0
+Luxembourg,Daily hospital occupancy,2022-04-17,29.0
+Luxembourg,Daily hospital occupancy,2022-04-18,30.0
+Luxembourg,Daily hospital occupancy,2022-04-19,28.0
+Luxembourg,Daily hospital occupancy,2022-04-20,25.0
+Luxembourg,Daily hospital occupancy,2022-04-21,26.0
+Luxembourg,Daily hospital occupancy,2022-04-22,24.0
+Luxembourg,Daily hospital occupancy,2022-04-23,25.0
+Luxembourg,Daily hospital occupancy,2022-04-24,23.0
+Luxembourg,Daily hospital occupancy,2022-04-25,22.0
+Luxembourg,Daily hospital occupancy,2022-04-26,18.0
+Luxembourg,Daily hospital occupancy,2022-04-27,19.0
+Luxembourg,Daily hospital occupancy,2022-04-28,15.0
+Luxembourg,Daily hospital occupancy,2022-04-29,15.0
+Luxembourg,Daily hospital occupancy,2022-04-30,13.0
+Luxembourg,Daily hospital occupancy,2022-05-01,15.0
+Luxembourg,Daily hospital occupancy,2022-05-02,16.0
+Luxembourg,Daily hospital occupancy,2022-05-03,17.0
+Luxembourg,Daily hospital occupancy,2022-05-04,16.0
+Luxembourg,Daily hospital occupancy,2022-05-05,17.0
+Luxembourg,Daily hospital occupancy,2022-05-06,17.0
+Luxembourg,Daily hospital occupancy,2022-05-07,18.0
+Luxembourg,Daily hospital occupancy,2022-05-08,18.0
+Luxembourg,Daily hospital occupancy,2022-05-09,17.0
+Luxembourg,Daily hospital occupancy,2022-05-10,15.0
+Luxembourg,Daily hospital occupancy,2022-05-11,17.0
+Luxembourg,Daily hospital occupancy,2022-05-12,15.0
+Luxembourg,Daily hospital occupancy,2022-05-13,12.0
+Luxembourg,Daily hospital occupancy,2022-05-14,11.0
+Luxembourg,Daily hospital occupancy,2022-05-15,12.0
+Luxembourg,Daily hospital occupancy,2022-05-16,14.0
+Luxembourg,Daily hospital occupancy,2022-05-17,14.0
+Luxembourg,Daily hospital occupancy,2022-05-18,12.0
+Luxembourg,Daily hospital occupancy,2022-05-19,16.0
+Luxembourg,Daily hospital occupancy,2022-05-20,16.0
+Luxembourg,Daily hospital occupancy,2022-05-21,11.0
+Luxembourg,Daily hospital occupancy,2022-05-22,10.0
+Luxembourg,Daily hospital occupancy,2022-05-23,8.0
+Luxembourg,Daily hospital occupancy,2022-05-24,8.0
+Luxembourg,Daily hospital occupancy,2022-05-25,8.0
+Luxembourg,Daily hospital occupancy,2022-05-26,8.0
+Luxembourg,Daily hospital occupancy,2022-05-27,6.0
+Luxembourg,Daily hospital occupancy,2022-05-28,5.0
+Luxembourg,Daily hospital occupancy,2022-05-29,4.0
+Luxembourg,Daily hospital occupancy,2022-05-30,3.0
+Luxembourg,Daily hospital occupancy,2022-05-31,4.0
+Luxembourg,Daily hospital occupancy,2022-06-01,5.0
+Luxembourg,Daily hospital occupancy,2022-06-02,5.0
+Luxembourg,Daily hospital occupancy,2022-06-03,4.0
+Luxembourg,Daily hospital occupancy,2022-06-04,5.0
+Luxembourg,Daily hospital occupancy,2022-06-05,4.0
+Luxembourg,Daily hospital occupancy,2022-06-06,5.0
+Luxembourg,Daily hospital occupancy,2022-06-07,7.0
+Luxembourg,Daily hospital occupancy,2022-06-08,6.0
+Luxembourg,Daily hospital occupancy,2022-06-09,9.0
+Luxembourg,Daily hospital occupancy,2022-06-10,8.0
+Luxembourg,Daily hospital occupancy,2022-06-11,8.0
+Luxembourg,Daily hospital occupancy,2022-06-12,12.0
+Luxembourg,Daily hospital occupancy,2022-06-13,13.0
+Luxembourg,Daily hospital occupancy,2022-06-14,16.0
+Luxembourg,Daily hospital occupancy,2022-06-15,14.0
+Luxembourg,Daily hospital occupancy,2022-06-16,15.0
+Luxembourg,Daily hospital occupancy,2022-06-17,20.0
+Luxembourg,Daily hospital occupancy,2022-06-18,21.0
+Luxembourg,Daily hospital occupancy,2022-06-19,22.0
+Luxembourg,Daily hospital occupancy,2022-06-20,18.0
+Luxembourg,Daily hospital occupancy,2022-06-21,18.0
+Luxembourg,Daily hospital occupancy,2022-06-22,14.0
+Luxembourg,Daily hospital occupancy,2022-06-23,14.0
+Luxembourg,Daily hospital occupancy,2022-06-24,13.0
+Luxembourg,Daily hospital occupancy,2022-06-25,14.0
+Luxembourg,Daily hospital occupancy,2022-06-26,15.0
+Luxembourg,Daily hospital occupancy,2022-06-27,18.0
+Luxembourg,Daily hospital occupancy,2022-06-28,22.0
+Luxembourg,Daily hospital occupancy,2022-06-29,19.0
+Luxembourg,Daily hospital occupancy,2022-06-30,17.0
+Luxembourg,Daily hospital occupancy,2022-07-01,21.0
+Luxembourg,Daily hospital occupancy,2022-07-02,21.0
+Luxembourg,Daily hospital occupancy,2022-07-03,24.0
+Luxembourg,Daily hospital occupancy,2022-07-04,27.0
+Luxembourg,Daily hospital occupancy,2022-07-05,26.0
+Luxembourg,Daily hospital occupancy,2022-07-06,30.0
+Luxembourg,Daily hospital occupancy,2022-07-07,28.0
+Luxembourg,Daily hospital occupancy,2022-07-08,29.0
+Luxembourg,Daily hospital occupancy,2022-07-09,27.0
+Luxembourg,Daily hospital occupancy,2022-07-10,32.0
+Luxembourg,Daily hospital occupancy,2022-07-11,34.0
+Luxembourg,Daily hospital occupancy,2022-07-12,31.0
+Luxembourg,Daily hospital occupancy,2022-07-13,27.0
+Luxembourg,Daily hospital occupancy,2022-07-14,34.0
+Luxembourg,Daily hospital occupancy,2022-07-15,38.0
+Luxembourg,Daily hospital occupancy,2022-07-16,19.0
+Luxembourg,Daily hospital occupancy,2022-07-17,18.0
+Luxembourg,Daily hospital occupancy,2022-07-18,18.0
+Luxembourg,Daily hospital occupancy,2022-07-19,30.0
+Luxembourg,Daily hospital occupancy,2022-07-20,26.0
+Luxembourg,Daily hospital occupancy,2022-07-21,23.0
+Luxembourg,Daily hospital occupancy,2022-07-22,26.0
+Luxembourg,Daily hospital occupancy,2022-07-23,22.0
+Luxembourg,Daily hospital occupancy,2022-07-24,21.0
+Luxembourg,Daily hospital occupancy,2022-07-25,24.0
+Luxembourg,Daily hospital occupancy,2022-07-26,22.0
+Luxembourg,Daily hospital occupancy,2022-07-27,21.0
+Luxembourg,Daily hospital occupancy,2022-07-28,21.0
+Luxembourg,Daily hospital occupancy,2022-07-29,20.0
+Luxembourg,Daily hospital occupancy,2022-07-30,17.0
+Luxembourg,Daily hospital occupancy,2022-07-31,15.0
+Luxembourg,Daily hospital occupancy,2022-08-01,15.0
+Luxembourg,Daily hospital occupancy,2022-08-02,15.0
+Luxembourg,Daily hospital occupancy,2022-08-03,15.0
+Luxembourg,Daily hospital occupancy,2022-08-04,17.0
+Luxembourg,Daily hospital occupancy,2022-08-05,18.0
+Luxembourg,Daily hospital occupancy,2022-08-06,16.0
+Luxembourg,Daily hospital occupancy,2022-08-07,16.0
+Luxembourg,Daily hospital occupancy,2022-08-08,15.0
+Luxembourg,Daily hospital occupancy,2022-08-09,18.0
+Luxembourg,Daily hospital occupancy,2022-08-10,14.0
+Luxembourg,Daily hospital occupancy,2022-08-11,11.0
+Luxembourg,Daily hospital occupancy,2022-08-12,13.0
+Luxembourg,Daily hospital occupancy,2022-08-13,10.0
+Luxembourg,Daily hospital occupancy,2022-08-14,9.0
+Luxembourg,Daily hospital occupancy,2022-08-15,9.0
+Luxembourg,Daily hospital occupancy,2022-08-16,9.0
+Luxembourg,Daily hospital occupancy,2022-08-17,10.0
+Luxembourg,Daily hospital occupancy,2022-08-18,11.0
+Luxembourg,Daily hospital occupancy,2022-08-19,12.0
+Luxembourg,Daily hospital occupancy,2022-08-20,10.0
+Luxembourg,Daily hospital occupancy,2022-08-21,9.0
+Luxembourg,Daily hospital occupancy,2022-08-22,13.0
+Luxembourg,Daily hospital occupancy,2022-08-23,12.0
+Luxembourg,Daily hospital occupancy,2022-08-24,10.0
+Luxembourg,Daily hospital occupancy,2022-08-25,12.0
+Luxembourg,Daily hospital occupancy,2022-08-26,7.0
+Luxembourg,Daily hospital occupancy,2022-08-27,5.0
+Luxembourg,Daily hospital occupancy,2022-08-28,5.0
+Luxembourg,Daily hospital occupancy,2022-08-29,4.0
+Luxembourg,Daily hospital occupancy,2022-08-30,2.0
+Luxembourg,Daily hospital occupancy,2022-08-31,2.0
+Luxembourg,Daily hospital occupancy,2022-09-01,5.0
+Luxembourg,Daily hospital occupancy,2022-09-02,6.0
+Luxembourg,Daily hospital occupancy,2022-09-03,8.0
+Luxembourg,Daily hospital occupancy,2022-09-04,7.0
+Luxembourg,Daily hospital occupancy,2022-09-05,7.0
+Luxembourg,Daily hospital occupancy,2022-09-06,7.0
+Luxembourg,Daily hospital occupancy,2022-09-07,5.0
+Luxembourg,Daily hospital occupancy,2022-09-08,5.0
+Luxembourg,Daily hospital occupancy,2022-09-09,6.0
+Luxembourg,Daily hospital occupancy,2022-09-10,3.0
+Luxembourg,Daily hospital occupancy,2022-09-11,4.0
+Luxembourg,Daily hospital occupancy,2022-09-12,4.0
+Luxembourg,Daily hospital occupancy,2022-09-13,5.0
+Luxembourg,Daily hospital occupancy,2022-09-14,6.0
+Luxembourg,Daily hospital occupancy,2022-09-15,8.0
+Luxembourg,Daily hospital occupancy,2022-09-16,10.0
+Luxembourg,Daily hospital occupancy,2022-09-17,7.0
+Luxembourg,Daily hospital occupancy,2022-09-18,8.0
+Luxembourg,Daily hospital occupancy,2022-09-19,13.0
+Luxembourg,Daily hospital occupancy,2022-09-20,12.0
+Luxembourg,Daily hospital occupancy,2022-09-21,14.0
+Luxembourg,Daily hospital occupancy,2022-09-22,11.0
+Luxembourg,Daily hospital occupancy,2022-09-23,11.0
+Luxembourg,Daily hospital occupancy,2022-09-24,9.0
+Luxembourg,Daily hospital occupancy,2022-09-25,9.0
+Luxembourg,Daily hospital occupancy,2022-09-26,11.0
+Luxembourg,Daily hospital occupancy,2022-09-27,12.0
+Luxembourg,Daily hospital occupancy,2022-09-28,13.0
+Luxembourg,Daily hospital occupancy,2022-09-29,15.0
+Luxembourg,Daily hospital occupancy,2022-09-30,17.0
+Luxembourg,Daily hospital occupancy,2022-10-01,19.0
+Luxembourg,Daily hospital occupancy,2022-10-02,19.0
+Luxembourg,Daily hospital occupancy,2022-10-03,26.0
+Luxembourg,Daily hospital occupancy,2022-10-04,24.0
+Luxembourg,Daily hospital occupancy,2022-10-05,28.0
+Luxembourg,Daily hospital occupancy,2022-10-06,29.0
+Luxembourg,Daily hospital occupancy,2022-10-07,29.0
+Luxembourg,Daily hospital occupancy,2022-10-08,31.0
+Luxembourg,Daily hospital occupancy,2022-10-09,30.0
+Luxembourg,Daily hospital occupancy,2022-10-10,30.0
+Luxembourg,Daily hospital occupancy,2022-10-11,29.0
+Luxembourg,Daily hospital occupancy,2022-10-12,31.0
+Luxembourg,Daily hospital occupancy,2022-10-13,32.0
+Luxembourg,Daily hospital occupancy,2022-10-14,30.0
+Luxembourg,Daily hospital occupancy,2022-10-15,28.0
+Luxembourg,Daily hospital occupancy,2022-10-16,27.0
+Luxembourg,Daily hospital occupancy,2022-10-17,31.0
+Luxembourg,Daily hospital occupancy,2022-10-18,29.0
+Luxembourg,Daily hospital occupancy,2022-10-19,33.0
+Luxembourg,Daily hospital occupancy,2022-10-20,36.0
+Luxembourg,Daily hospital occupancy,2022-10-21,39.0
+Luxembourg,Daily hospital occupancy,2022-10-22,36.0
+Luxembourg,Daily hospital occupancy,2022-10-23,33.0
+Luxembourg,Daily hospital occupancy,2022-10-24,34.0
+Luxembourg,Daily hospital occupancy,2022-10-25,32.0
+Luxembourg,Daily hospital occupancy,2022-10-26,31.0
+Luxembourg,Daily hospital occupancy,2022-10-27,30.0
+Luxembourg,Daily hospital occupancy,2022-10-28,28.0
+Luxembourg,Daily hospital occupancy,2022-10-29,30.0
+Luxembourg,Daily hospital occupancy,2022-10-30,31.0
+Luxembourg,Daily hospital occupancy,2022-10-31,31.0
+Luxembourg,Daily hospital occupancy,2022-11-01,26.0
+Luxembourg,Daily hospital occupancy,2022-11-02,29.0
+Luxembourg,Daily hospital occupancy,2022-11-03,25.0
+Luxembourg,Daily hospital occupancy,2022-11-04,23.0
+Luxembourg,Daily hospital occupancy,2022-11-05,13.0
+Luxembourg,Daily hospital occupancy,2022-11-06,13.0
+Luxembourg,Daily hospital occupancy,2022-11-07,10.0
+Luxembourg,Daily hospital occupancy,2022-11-08,12.0
+Luxembourg,Daily hospital occupancy,2022-11-09,13.0
+Luxembourg,Daily hospital occupancy,2022-11-10,15.0
+Luxembourg,Daily hospital occupancy,2022-11-11,17.0
+Luxembourg,Daily hospital occupancy,2022-11-12,19.0
+Luxembourg,Daily hospital occupancy,2022-11-13,17.0
+Luxembourg,Daily hospital occupancy,2022-11-14,19.0
+Luxembourg,Daily hospital occupancy,2022-11-15,14.0
+Luxembourg,Daily hospital occupancy,2022-11-16,18.0
+Luxembourg,Daily hospital occupancy,2022-11-17,20.0
+Luxembourg,Daily hospital occupancy,2022-11-18,22.0
+Luxembourg,Daily hospital occupancy,2022-11-19,22.0
+Luxembourg,Daily hospital occupancy,2022-11-20,23.0
+Luxembourg,Daily hospital occupancy,2022-11-21,24.0
+Luxembourg,Daily hospital occupancy,2022-11-22,26.0
+Luxembourg,Daily hospital occupancy,2022-11-23,25.0
+Luxembourg,Daily hospital occupancy,2022-11-24,26.0
+Luxembourg,Daily hospital occupancy,2022-11-25,24.0
+Luxembourg,Daily hospital occupancy,2022-11-26,21.0
+Luxembourg,Daily hospital occupancy,2022-11-27,24.0
+Luxembourg,Daily hospital occupancy,2022-11-28,24.0
+Luxembourg,Daily hospital occupancy,2022-11-29,27.0
+Luxembourg,Daily hospital occupancy,2022-11-30,28.0
+Luxembourg,Daily hospital occupancy,2022-12-01,22.0
+Luxembourg,Daily hospital occupancy,2022-12-02,26.0
+Luxembourg,Daily hospital occupancy,2022-12-03,21.0
+Luxembourg,Daily hospital occupancy,2022-12-04,19.0
+Luxembourg,Daily hospital occupancy,2022-12-05,22.0
+Luxembourg,Daily hospital occupancy,2022-12-06,22.0
+Luxembourg,Daily hospital occupancy,2022-12-07,28.0
+Luxembourg,Daily hospital occupancy,2022-12-08,34.0
+Luxembourg,Daily hospital occupancy,2022-12-09,32.0
+Luxembourg,Daily hospital occupancy,2022-12-10,31.0
+Luxembourg,Daily hospital occupancy,2022-12-11,35.0
+Luxembourg,Daily hospital occupancy,2022-12-12,38.0
+Luxembourg,Daily hospital occupancy,2022-12-13,37.0
+Luxembourg,Daily hospital occupancy,2022-12-14,37.0
+Luxembourg,Daily hospital occupancy,2022-12-15,40.0
+Luxembourg,Daily hospital occupancy,2022-12-16,44.0
+Luxembourg,Daily hospital occupancy,2022-12-17,40.0
+Luxembourg,Daily hospital occupancy,2022-12-18,44.0
+Luxembourg,Daily hospital occupancy,2022-12-19,42.0
+Luxembourg,Daily hospital occupancy,2022-12-20,45.0
+Luxembourg,Daily hospital occupancy,2022-12-21,39.0
+Luxembourg,Daily hospital occupancy,2022-12-22,44.0
+Luxembourg,Daily hospital occupancy,2022-12-23,38.0
+Luxembourg,Daily hospital occupancy,2022-12-24,35.0
+Luxembourg,Daily hospital occupancy,2022-12-25,32.0
+Luxembourg,Daily hospital occupancy,2022-12-26,33.0
+Luxembourg,Daily hospital occupancy,2022-12-27,32.0
+Luxembourg,Daily hospital occupancy,2022-12-28,29.0
+Luxembourg,Daily hospital occupancy,2022-12-29,33.0
+Luxembourg,Daily hospital occupancy,2022-12-30,33.0
+Luxembourg,Daily hospital occupancy,2022-12-31,32.0
+Luxembourg,Daily hospital occupancy,2023-01-01,30.0
+Luxembourg,Daily hospital occupancy,2023-01-02,32.0
+Luxembourg,Daily hospital occupancy,2023-01-03,28.0
+Luxembourg,Daily hospital occupancy,2023-01-04,25.0
+Luxembourg,Daily hospital occupancy,2023-01-05,24.0
+Luxembourg,Daily hospital occupancy,2023-01-06,25.0
+Luxembourg,Daily hospital occupancy,2023-01-07,30.0
+Luxembourg,Daily hospital occupancy,2023-01-08,31.0
+Luxembourg,Daily hospital occupancy,2023-01-09,32.0
+Luxembourg,Daily hospital occupancy,2023-01-10,32.0
+Luxembourg,Daily hospital occupancy,2023-01-11,28.0
+Luxembourg,Daily hospital occupancy,2023-01-12,19.0
+Luxembourg,Daily hospital occupancy,2023-01-13,21.0
+Luxembourg,Daily hospital occupancy,2023-01-14,15.0
+Luxembourg,Daily hospital occupancy,2023-01-15,14.0
+Luxembourg,Daily hospital occupancy,2023-01-16,15.0
+Luxembourg,Daily hospital occupancy,2023-01-17,13.0
+Luxembourg,Daily hospital occupancy,2023-01-18,12.0
+Luxembourg,Daily hospital occupancy,2023-01-19,14.0
+Luxembourg,Daily hospital occupancy,2023-01-20,11.0
+Luxembourg,Daily hospital occupancy,2023-01-21,8.0
+Luxembourg,Daily hospital occupancy,2023-01-22,9.0
+Luxembourg,Daily hospital occupancy,2023-01-23,10.0
+Luxembourg,Daily hospital occupancy,2023-01-24,9.0
+Luxembourg,Daily hospital occupancy,2023-01-25,6.0
+Luxembourg,Daily hospital occupancy,2023-01-26,5.0
+Luxembourg,Daily hospital occupancy,2023-01-27,2.0
+Luxembourg,Daily hospital occupancy,2023-01-28,2.0
+Luxembourg,Daily hospital occupancy,2023-01-29,3.0
+Luxembourg,Daily hospital occupancy,2023-01-30,3.0
+Luxembourg,Daily hospital occupancy,2023-01-31,6.0
+Luxembourg,Daily hospital occupancy,2023-02-01,7.0
+Luxembourg,Daily hospital occupancy,2023-02-02,5.0
+Luxembourg,Daily hospital occupancy,2023-02-03,6.0
+Luxembourg,Daily hospital occupancy,2023-02-04,6.0
+Luxembourg,Daily hospital occupancy,2023-02-05,8.0
+Luxembourg,Daily hospital occupancy,2023-02-06,9.0
+Luxembourg,Daily hospital occupancy,2023-02-07,14.0
+Luxembourg,Daily hospital occupancy,2023-02-08,17.0
+Luxembourg,Daily hospital occupancy,2023-02-09,16.0
+Luxembourg,Daily hospital occupancy,2023-02-10,12.0
+Luxembourg,Daily hospital occupancy,2023-02-11,11.0
+Luxembourg,Daily hospital occupancy,2023-02-12,11.0
+Luxembourg,Daily hospital occupancy,2023-02-13,11.0
+Luxembourg,Daily hospital occupancy,2023-02-14,18.0
+Luxembourg,Daily hospital occupancy,2023-02-15,11.0
+Luxembourg,Daily hospital occupancy,2023-02-16,10.0
+Luxembourg,Daily hospital occupancy,2023-02-17,12.0
+Luxembourg,Daily hospital occupancy,2023-02-18,10.0
+Luxembourg,Daily hospital occupancy,2023-02-19,11.0
+Luxembourg,Daily hospital occupancy,2023-02-20,10.0
+Luxembourg,Daily hospital occupancy,2023-02-21,10.0
+Luxembourg,Daily hospital occupancy,2023-02-22,11.0
+Luxembourg,Daily hospital occupancy,2023-02-23,8.0
+Luxembourg,Daily hospital occupancy,2023-02-24,16.0
+Luxembourg,Daily hospital occupancy,2023-02-25,11.0
+Luxembourg,Daily hospital occupancy,2023-02-26,12.0
+Luxembourg,Daily hospital occupancy,2023-02-27,11.0
+Luxembourg,Daily hospital occupancy,2023-02-28,14.0
+Luxembourg,Daily hospital occupancy,2023-03-01,12.0
+Luxembourg,Daily hospital occupancy,2023-03-02,16.0
+Luxembourg,Daily hospital occupancy,2023-03-03,19.0
+Luxembourg,Daily hospital occupancy,2023-03-04,23.0
+Luxembourg,Daily hospital occupancy,2023-03-05,23.0
+Luxembourg,Daily hospital occupancy,2023-03-06,25.0
+Luxembourg,Daily hospital occupancy,2023-03-07,22.0
+Luxembourg,Daily hospital occupancy,2023-03-08,23.0
+Luxembourg,Daily hospital occupancy,2023-03-09,21.0
+Luxembourg,Daily hospital occupancy,2023-03-10,20.0
+Luxembourg,Daily hospital occupancy,2023-03-11,18.0
+Luxembourg,Daily hospital occupancy,2023-03-12,17.0
+Luxembourg,Daily hospital occupancy,2023-03-13,16.0
+Luxembourg,Daily hospital occupancy,2023-03-14,17.0
+Luxembourg,Daily hospital occupancy,2023-03-15,17.0
+Luxembourg,Daily hospital occupancy,2023-03-16,17.0
+Luxembourg,Daily hospital occupancy,2023-03-17,17.0
+Luxembourg,Daily hospital occupancy,2023-03-18,18.0
+Luxembourg,Daily hospital occupancy,2023-03-19,18.0
+Luxembourg,Daily hospital occupancy,2023-03-20,19.0
+Luxembourg,Daily hospital occupancy,2023-03-21,19.0
+Luxembourg,Daily hospital occupancy,2023-03-22,22.0
+Luxembourg,Daily hospital occupancy,2023-03-23,21.0
+Luxembourg,Daily hospital occupancy,2023-03-24,23.0
+Luxembourg,Daily hospital occupancy,2023-03-25,18.0
+Luxembourg,Daily hospital occupancy,2023-03-26,17.0
+Luxembourg,Daily hospital occupancy,2023-03-27,14.0
+Luxembourg,Daily hospital occupancy,2023-03-28,17.0
+Luxembourg,Daily hospital occupancy,2023-03-29,19.0
+Luxembourg,Daily hospital occupancy,2023-03-30,22.0
+Luxembourg,Daily ICU occupancy,2020-02-24,0.0
+Luxembourg,Daily ICU occupancy,2020-02-25,0.0
+Luxembourg,Daily ICU occupancy,2020-02-26,0.0
+Luxembourg,Daily ICU occupancy,2020-02-27,0.0
+Luxembourg,Daily ICU occupancy,2020-02-28,0.0
+Luxembourg,Daily ICU occupancy,2020-02-29,0.0
+Luxembourg,Daily ICU occupancy,2020-03-01,0.0
+Luxembourg,Daily ICU occupancy,2020-03-02,0.0
+Luxembourg,Daily ICU occupancy,2020-03-03,0.0
+Luxembourg,Daily ICU occupancy,2020-03-04,0.0
+Luxembourg,Daily ICU occupancy,2020-03-05,0.0
+Luxembourg,Daily ICU occupancy,2020-03-06,0.0
+Luxembourg,Daily ICU occupancy,2020-03-07,0.0
+Luxembourg,Daily ICU occupancy,2020-03-08,0.0
+Luxembourg,Daily ICU occupancy,2020-03-09,0.0
+Luxembourg,Daily ICU occupancy,2020-03-10,0.0
+Luxembourg,Daily ICU occupancy,2020-03-11,0.0
+Luxembourg,Daily ICU occupancy,2020-03-12,0.0
+Luxembourg,Daily ICU occupancy,2020-03-13,0.0
+Luxembourg,Daily ICU occupancy,2020-03-14,0.0
+Luxembourg,Daily ICU occupancy,2020-03-15,0.0
+Luxembourg,Daily ICU occupancy,2020-03-16,0.0
+Luxembourg,Daily ICU occupancy,2020-03-17,0.0
+Luxembourg,Daily ICU occupancy,2020-03-18,0.0
+Luxembourg,Daily ICU occupancy,2020-03-19,0.0
+Luxembourg,Daily ICU occupancy,2020-03-20,3.0
+Luxembourg,Daily ICU occupancy,2020-03-21,6.0
+Luxembourg,Daily ICU occupancy,2020-03-22,2.0
+Luxembourg,Daily ICU occupancy,2020-03-23,2.0
+Luxembourg,Daily ICU occupancy,2020-03-24,2.0
+Luxembourg,Daily ICU occupancy,2020-03-25,14.0
+Luxembourg,Daily ICU occupancy,2020-03-26,20.0
+Luxembourg,Daily ICU occupancy,2020-03-27,20.0
+Luxembourg,Daily ICU occupancy,2020-03-28,23.0
+Luxembourg,Daily ICU occupancy,2020-03-29,21.0
+Luxembourg,Daily ICU occupancy,2020-03-30,24.0
+Luxembourg,Daily ICU occupancy,2020-03-31,26.0
+Luxembourg,Daily ICU occupancy,2020-04-01,27.0
+Luxembourg,Daily ICU occupancy,2020-04-02,30.0
+Luxembourg,Daily ICU occupancy,2020-04-03,35.0
+Luxembourg,Daily ICU occupancy,2020-04-04,33.0
+Luxembourg,Daily ICU occupancy,2020-04-05,33.0
+Luxembourg,Daily ICU occupancy,2020-04-06,31.0
+Luxembourg,Daily ICU occupancy,2020-04-07,31.0
+Luxembourg,Daily ICU occupancy,2020-04-08,33.0
+Luxembourg,Daily ICU occupancy,2020-04-09,29.0
+Luxembourg,Daily ICU occupancy,2020-04-10,28.0
+Luxembourg,Daily ICU occupancy,2020-04-11,30.0
+Luxembourg,Daily ICU occupancy,2020-04-12,31.0
+Luxembourg,Daily ICU occupancy,2020-04-13,33.0
+Luxembourg,Daily ICU occupancy,2020-04-14,34.0
+Luxembourg,Daily ICU occupancy,2020-04-15,35.0
+Luxembourg,Daily ICU occupancy,2020-04-16,32.0
+Luxembourg,Daily ICU occupancy,2020-04-17,30.0
+Luxembourg,Daily ICU occupancy,2020-04-18,31.0
+Luxembourg,Daily ICU occupancy,2020-04-19,30.0
+Luxembourg,Daily ICU occupancy,2020-04-20,31.0
+Luxembourg,Daily ICU occupancy,2020-04-21,31.0
+Luxembourg,Daily ICU occupancy,2020-04-22,28.0
+Luxembourg,Daily ICU occupancy,2020-04-23,24.0
+Luxembourg,Daily ICU occupancy,2020-04-24,25.0
+Luxembourg,Daily ICU occupancy,2020-04-25,23.0
+Luxembourg,Daily ICU occupancy,2020-04-26,20.0
+Luxembourg,Daily ICU occupancy,2020-04-27,20.0
+Luxembourg,Daily ICU occupancy,2020-04-28,22.0
+Luxembourg,Daily ICU occupancy,2020-04-29,24.0
+Luxembourg,Daily ICU occupancy,2020-04-30,24.0
+Luxembourg,Daily ICU occupancy,2020-05-01,25.0
+Luxembourg,Daily ICU occupancy,2020-05-02,24.0
+Luxembourg,Daily ICU occupancy,2020-05-03,23.0
+Luxembourg,Daily ICU occupancy,2020-05-04,22.0
+Luxembourg,Daily ICU occupancy,2020-05-05,20.0
+Luxembourg,Daily ICU occupancy,2020-05-06,21.0
+Luxembourg,Daily ICU occupancy,2020-05-07,16.0
+Luxembourg,Daily ICU occupancy,2020-05-08,15.0
+Luxembourg,Daily ICU occupancy,2020-05-09,14.0
+Luxembourg,Daily ICU occupancy,2020-05-10,18.0
+Luxembourg,Daily ICU occupancy,2020-05-11,22.0
+Luxembourg,Daily ICU occupancy,2020-05-12,22.0
+Luxembourg,Daily ICU occupancy,2020-05-13,11.0
+Luxembourg,Daily ICU occupancy,2020-05-14,11.0
+Luxembourg,Daily ICU occupancy,2020-05-15,15.0
+Luxembourg,Daily ICU occupancy,2020-05-16,13.0
+Luxembourg,Daily ICU occupancy,2020-05-17,8.0
+Luxembourg,Daily ICU occupancy,2020-05-18,10.0
+Luxembourg,Daily ICU occupancy,2020-05-19,6.0
+Luxembourg,Daily ICU occupancy,2020-05-20,6.0
+Luxembourg,Daily ICU occupancy,2020-05-21,5.0
+Luxembourg,Daily ICU occupancy,2020-05-22,8.0
+Luxembourg,Daily ICU occupancy,2020-05-23,7.0
+Luxembourg,Daily ICU occupancy,2020-05-24,4.0
+Luxembourg,Daily ICU occupancy,2020-05-25,5.0
+Luxembourg,Daily ICU occupancy,2020-05-26,4.0
+Luxembourg,Daily ICU occupancy,2020-05-27,4.0
+Luxembourg,Daily ICU occupancy,2020-05-28,4.0
+Luxembourg,Daily ICU occupancy,2020-05-29,3.0
+Luxembourg,Daily ICU occupancy,2020-05-30,3.0
+Luxembourg,Daily ICU occupancy,2020-05-31,4.0
+Luxembourg,Daily ICU occupancy,2020-06-01,4.0
+Luxembourg,Daily ICU occupancy,2020-06-02,2.0
+Luxembourg,Daily ICU occupancy,2020-06-03,3.0
+Luxembourg,Daily ICU occupancy,2020-06-04,1.0
+Luxembourg,Daily ICU occupancy,2020-06-05,1.0
+Luxembourg,Daily ICU occupancy,2020-06-06,1.0
+Luxembourg,Daily ICU occupancy,2020-06-07,2.0
+Luxembourg,Daily ICU occupancy,2020-06-08,2.0
+Luxembourg,Daily ICU occupancy,2020-06-09,1.0
+Luxembourg,Daily ICU occupancy,2020-06-10,1.0
+Luxembourg,Daily ICU occupancy,2020-06-11,0.0
+Luxembourg,Daily ICU occupancy,2020-06-12,0.0
+Luxembourg,Daily ICU occupancy,2020-06-13,1.0
+Luxembourg,Daily ICU occupancy,2020-06-14,1.0
+Luxembourg,Daily ICU occupancy,2020-06-15,2.0
+Luxembourg,Daily ICU occupancy,2020-06-16,1.0
+Luxembourg,Daily ICU occupancy,2020-06-17,2.0
+Luxembourg,Daily ICU occupancy,2020-06-18,2.0
+Luxembourg,Daily ICU occupancy,2020-06-19,1.0
+Luxembourg,Daily ICU occupancy,2020-06-20,1.0
+Luxembourg,Daily ICU occupancy,2020-06-21,2.0
+Luxembourg,Daily ICU occupancy,2020-06-22,1.0
+Luxembourg,Daily ICU occupancy,2020-06-23,0.0
+Luxembourg,Daily ICU occupancy,2020-06-24,0.0
+Luxembourg,Daily ICU occupancy,2020-06-25,1.0
+Luxembourg,Daily ICU occupancy,2020-06-26,1.0
+Luxembourg,Daily ICU occupancy,2020-06-27,1.0
+Luxembourg,Daily ICU occupancy,2020-06-28,2.0
+Luxembourg,Daily ICU occupancy,2020-06-29,2.0
+Luxembourg,Daily ICU occupancy,2020-06-30,2.0
+Luxembourg,Daily ICU occupancy,2020-07-01,2.0
+Luxembourg,Daily ICU occupancy,2020-07-02,3.0
+Luxembourg,Daily ICU occupancy,2020-07-03,3.0
+Luxembourg,Daily ICU occupancy,2020-07-04,3.0
+Luxembourg,Daily ICU occupancy,2020-07-05,3.0
+Luxembourg,Daily ICU occupancy,2020-07-06,3.0
+Luxembourg,Daily ICU occupancy,2020-07-07,1.0
+Luxembourg,Daily ICU occupancy,2020-07-08,2.0
+Luxembourg,Daily ICU occupancy,2020-07-09,3.0
+Luxembourg,Daily ICU occupancy,2020-07-10,2.0
+Luxembourg,Daily ICU occupancy,2020-07-11,3.0
+Luxembourg,Daily ICU occupancy,2020-07-12,4.0
+Luxembourg,Daily ICU occupancy,2020-07-13,3.0
+Luxembourg,Daily ICU occupancy,2020-07-14,4.0
+Luxembourg,Daily ICU occupancy,2020-07-15,5.0
+Luxembourg,Daily ICU occupancy,2020-07-16,4.0
+Luxembourg,Daily ICU occupancy,2020-07-17,6.0
+Luxembourg,Daily ICU occupancy,2020-07-18,6.0
+Luxembourg,Daily ICU occupancy,2020-07-19,7.0
+Luxembourg,Daily ICU occupancy,2020-07-20,5.0
+Luxembourg,Daily ICU occupancy,2020-07-21,5.0
+Luxembourg,Daily ICU occupancy,2020-07-22,1.0
+Luxembourg,Daily ICU occupancy,2020-07-23,3.0
+Luxembourg,Daily ICU occupancy,2020-07-24,4.0
+Luxembourg,Daily ICU occupancy,2020-07-25,4.0
+Luxembourg,Daily ICU occupancy,2020-07-26,6.0
+Luxembourg,Daily ICU occupancy,2020-07-27,5.0
+Luxembourg,Daily ICU occupancy,2020-07-28,4.0
+Luxembourg,Daily ICU occupancy,2020-07-29,6.0
+Luxembourg,Daily ICU occupancy,2020-07-30,7.0
+Luxembourg,Daily ICU occupancy,2020-07-31,6.0
+Luxembourg,Daily ICU occupancy,2020-08-01,6.0
+Luxembourg,Daily ICU occupancy,2020-08-02,7.0
+Luxembourg,Daily ICU occupancy,2020-08-03,7.0
+Luxembourg,Daily ICU occupancy,2020-08-04,5.0
+Luxembourg,Daily ICU occupancy,2020-08-05,9.0
+Luxembourg,Daily ICU occupancy,2020-08-06,6.0
+Luxembourg,Daily ICU occupancy,2020-08-07,8.0
+Luxembourg,Daily ICU occupancy,2020-08-08,8.0
+Luxembourg,Daily ICU occupancy,2020-08-09,6.0
+Luxembourg,Daily ICU occupancy,2020-08-10,4.0
+Luxembourg,Daily ICU occupancy,2020-08-11,3.0
+Luxembourg,Daily ICU occupancy,2020-08-12,1.0
+Luxembourg,Daily ICU occupancy,2020-08-13,3.0
+Luxembourg,Daily ICU occupancy,2020-08-14,4.0
+Luxembourg,Daily ICU occupancy,2020-08-15,3.0
+Luxembourg,Daily ICU occupancy,2020-08-16,3.0
+Luxembourg,Daily ICU occupancy,2020-08-17,4.0
+Luxembourg,Daily ICU occupancy,2020-08-18,3.0
+Luxembourg,Daily ICU occupancy,2020-08-19,3.0
+Luxembourg,Daily ICU occupancy,2020-08-20,3.0
+Luxembourg,Daily ICU occupancy,2020-08-21,1.0
+Luxembourg,Daily ICU occupancy,2020-08-22,1.0
+Luxembourg,Daily ICU occupancy,2020-08-23,1.0
+Luxembourg,Daily ICU occupancy,2020-08-24,1.0
+Luxembourg,Daily ICU occupancy,2020-08-25,2.0
+Luxembourg,Daily ICU occupancy,2020-08-26,2.0
+Luxembourg,Daily ICU occupancy,2020-08-27,2.0
+Luxembourg,Daily ICU occupancy,2020-08-28,4.0
+Luxembourg,Daily ICU occupancy,2020-08-29,3.0
+Luxembourg,Daily ICU occupancy,2020-08-30,2.0
+Luxembourg,Daily ICU occupancy,2020-08-31,2.0
+Luxembourg,Daily ICU occupancy,2020-09-01,1.0
+Luxembourg,Daily ICU occupancy,2020-09-02,2.0
+Luxembourg,Daily ICU occupancy,2020-09-03,0.0
+Luxembourg,Daily ICU occupancy,2020-09-04,0.0
+Luxembourg,Daily ICU occupancy,2020-09-05,0.0
+Luxembourg,Daily ICU occupancy,2020-09-06,0.0
+Luxembourg,Daily ICU occupancy,2020-09-07,0.0
+Luxembourg,Daily ICU occupancy,2020-09-08,0.0
+Luxembourg,Daily ICU occupancy,2020-09-09,0.0
+Luxembourg,Daily ICU occupancy,2020-09-10,1.0
+Luxembourg,Daily ICU occupancy,2020-09-11,0.0
+Luxembourg,Daily ICU occupancy,2020-09-12,0.0
+Luxembourg,Daily ICU occupancy,2020-09-13,1.0
+Luxembourg,Daily ICU occupancy,2020-09-14,0.0
+Luxembourg,Daily ICU occupancy,2020-09-15,0.0
+Luxembourg,Daily ICU occupancy,2020-09-16,0.0
+Luxembourg,Daily ICU occupancy,2020-09-17,1.0
+Luxembourg,Daily ICU occupancy,2020-09-18,0.0
+Luxembourg,Daily ICU occupancy,2020-09-19,2.0
+Luxembourg,Daily ICU occupancy,2020-09-20,1.0
+Luxembourg,Daily ICU occupancy,2020-09-21,1.0
+Luxembourg,Daily ICU occupancy,2020-09-22,1.0
+Luxembourg,Daily ICU occupancy,2020-09-23,3.0
+Luxembourg,Daily ICU occupancy,2020-09-24,1.0
+Luxembourg,Daily ICU occupancy,2020-09-25,1.0
+Luxembourg,Daily ICU occupancy,2020-09-26,3.0
+Luxembourg,Daily ICU occupancy,2020-09-27,3.0
+Luxembourg,Daily ICU occupancy,2020-09-28,4.0
+Luxembourg,Daily ICU occupancy,2020-09-29,5.0
+Luxembourg,Daily ICU occupancy,2020-09-30,5.0
+Luxembourg,Daily ICU occupancy,2020-10-01,3.0
+Luxembourg,Daily ICU occupancy,2020-10-02,3.0
+Luxembourg,Daily ICU occupancy,2020-10-03,2.0
+Luxembourg,Daily ICU occupancy,2020-10-04,2.0
+Luxembourg,Daily ICU occupancy,2020-10-05,1.0
+Luxembourg,Daily ICU occupancy,2020-10-06,2.0
+Luxembourg,Daily ICU occupancy,2020-10-07,2.0
+Luxembourg,Daily ICU occupancy,2020-10-08,1.0
+Luxembourg,Daily ICU occupancy,2020-10-09,1.0
+Luxembourg,Daily ICU occupancy,2020-10-10,2.0
+Luxembourg,Daily ICU occupancy,2020-10-11,2.0
+Luxembourg,Daily ICU occupancy,2020-10-12,2.0
+Luxembourg,Daily ICU occupancy,2020-10-13,3.0
+Luxembourg,Daily ICU occupancy,2020-10-14,4.0
+Luxembourg,Daily ICU occupancy,2020-10-15,4.0
+Luxembourg,Daily ICU occupancy,2020-10-16,4.0
+Luxembourg,Daily ICU occupancy,2020-10-17,3.0
+Luxembourg,Daily ICU occupancy,2020-10-18,4.0
+Luxembourg,Daily ICU occupancy,2020-10-19,5.0
+Luxembourg,Daily ICU occupancy,2020-10-20,7.0
+Luxembourg,Daily ICU occupancy,2020-10-21,8.0
+Luxembourg,Daily ICU occupancy,2020-10-22,10.0
+Luxembourg,Daily ICU occupancy,2020-10-23,11.0
+Luxembourg,Daily ICU occupancy,2020-10-24,12.0
+Luxembourg,Daily ICU occupancy,2020-10-25,12.0
+Luxembourg,Daily ICU occupancy,2020-10-26,16.0
+Luxembourg,Daily ICU occupancy,2020-10-27,16.0
+Luxembourg,Daily ICU occupancy,2020-10-28,21.0
+Luxembourg,Daily ICU occupancy,2020-10-29,24.0
+Luxembourg,Daily ICU occupancy,2020-10-30,26.0
+Luxembourg,Daily ICU occupancy,2020-10-31,27.0
+Luxembourg,Daily ICU occupancy,2020-11-01,29.0
+Luxembourg,Daily ICU occupancy,2020-11-02,29.0
+Luxembourg,Daily ICU occupancy,2020-11-03,30.0
+Luxembourg,Daily ICU occupancy,2020-11-04,36.0
+Luxembourg,Daily ICU occupancy,2020-11-05,37.0
+Luxembourg,Daily ICU occupancy,2020-11-06,41.0
+Luxembourg,Daily ICU occupancy,2020-11-07,36.0
+Luxembourg,Daily ICU occupancy,2020-11-08,40.0
+Luxembourg,Daily ICU occupancy,2020-11-09,42.0
+Luxembourg,Daily ICU occupancy,2020-11-10,38.0
+Luxembourg,Daily ICU occupancy,2020-11-11,39.0
+Luxembourg,Daily ICU occupancy,2020-11-12,41.0
+Luxembourg,Daily ICU occupancy,2020-11-13,43.0
+Luxembourg,Daily ICU occupancy,2020-11-14,46.0
+Luxembourg,Daily ICU occupancy,2020-11-15,46.0
+Luxembourg,Daily ICU occupancy,2020-11-16,48.0
+Luxembourg,Daily ICU occupancy,2020-11-17,48.0
+Luxembourg,Daily ICU occupancy,2020-11-18,44.0
+Luxembourg,Daily ICU occupancy,2020-11-19,43.0
+Luxembourg,Daily ICU occupancy,2020-11-20,41.0
+Luxembourg,Daily ICU occupancy,2020-11-21,45.0
+Luxembourg,Daily ICU occupancy,2020-11-22,47.0
+Luxembourg,Daily ICU occupancy,2020-11-23,46.0
+Luxembourg,Daily ICU occupancy,2020-11-24,43.0
+Luxembourg,Daily ICU occupancy,2020-11-25,44.0
+Luxembourg,Daily ICU occupancy,2020-11-26,43.0
+Luxembourg,Daily ICU occupancy,2020-11-27,41.0
+Luxembourg,Daily ICU occupancy,2020-11-28,42.0
+Luxembourg,Daily ICU occupancy,2020-11-29,42.0
+Luxembourg,Daily ICU occupancy,2020-11-30,42.0
+Luxembourg,Daily ICU occupancy,2020-12-01,41.0
+Luxembourg,Daily ICU occupancy,2020-12-02,41.0
+Luxembourg,Daily ICU occupancy,2020-12-03,41.0
+Luxembourg,Daily ICU occupancy,2020-12-04,40.0
+Luxembourg,Daily ICU occupancy,2020-12-05,40.0
+Luxembourg,Daily ICU occupancy,2020-12-06,39.0
+Luxembourg,Daily ICU occupancy,2020-12-07,43.0
+Luxembourg,Daily ICU occupancy,2020-12-08,46.0
+Luxembourg,Daily ICU occupancy,2020-12-09,47.0
+Luxembourg,Daily ICU occupancy,2020-12-10,47.0
+Luxembourg,Daily ICU occupancy,2020-12-11,47.0
+Luxembourg,Daily ICU occupancy,2020-12-12,46.0
+Luxembourg,Daily ICU occupancy,2020-12-13,50.0
+Luxembourg,Daily ICU occupancy,2020-12-14,48.0
+Luxembourg,Daily ICU occupancy,2020-12-15,48.0
+Luxembourg,Daily ICU occupancy,2020-12-16,47.0
+Luxembourg,Daily ICU occupancy,2020-12-17,43.0
+Luxembourg,Daily ICU occupancy,2020-12-18,39.0
+Luxembourg,Daily ICU occupancy,2020-12-19,38.0
+Luxembourg,Daily ICU occupancy,2020-12-20,38.0
+Luxembourg,Daily ICU occupancy,2020-12-21,39.0
+Luxembourg,Daily ICU occupancy,2020-12-22,40.0
+Luxembourg,Daily ICU occupancy,2020-12-23,39.0
+Luxembourg,Daily ICU occupancy,2020-12-24,35.0
+Luxembourg,Daily ICU occupancy,2020-12-25,35.0
+Luxembourg,Daily ICU occupancy,2020-12-26,39.0
+Luxembourg,Daily ICU occupancy,2020-12-27,32.0
+Luxembourg,Daily ICU occupancy,2020-12-28,32.0
+Luxembourg,Daily ICU occupancy,2020-12-29,31.0
+Luxembourg,Daily ICU occupancy,2020-12-30,31.0
+Luxembourg,Daily ICU occupancy,2020-12-31,33.0
+Luxembourg,Daily ICU occupancy,2021-01-01,32.0
+Luxembourg,Daily ICU occupancy,2021-01-02,30.0
+Luxembourg,Daily ICU occupancy,2021-01-03,34.0
+Luxembourg,Daily ICU occupancy,2021-01-04,32.0
+Luxembourg,Daily ICU occupancy,2021-01-05,28.0
+Luxembourg,Daily ICU occupancy,2021-01-06,26.0
+Luxembourg,Daily ICU occupancy,2021-01-07,23.0
+Luxembourg,Daily ICU occupancy,2021-01-08,22.0
+Luxembourg,Daily ICU occupancy,2021-01-09,21.0
+Luxembourg,Daily ICU occupancy,2021-01-10,23.0
+Luxembourg,Daily ICU occupancy,2021-01-11,24.0
+Luxembourg,Daily ICU occupancy,2021-01-12,21.0
+Luxembourg,Daily ICU occupancy,2021-01-13,23.0
+Luxembourg,Daily ICU occupancy,2021-01-14,21.0
+Luxembourg,Daily ICU occupancy,2021-01-15,18.0
+Luxembourg,Daily ICU occupancy,2021-01-16,19.0
+Luxembourg,Daily ICU occupancy,2021-01-17,20.0
+Luxembourg,Daily ICU occupancy,2021-01-18,20.0
+Luxembourg,Daily ICU occupancy,2021-01-19,17.0
+Luxembourg,Daily ICU occupancy,2021-01-20,14.0
+Luxembourg,Daily ICU occupancy,2021-01-21,14.0
+Luxembourg,Daily ICU occupancy,2021-01-22,14.0
+Luxembourg,Daily ICU occupancy,2021-01-23,15.0
+Luxembourg,Daily ICU occupancy,2021-01-24,14.0
+Luxembourg,Daily ICU occupancy,2021-01-25,15.0
+Luxembourg,Daily ICU occupancy,2021-01-26,15.0
+Luxembourg,Daily ICU occupancy,2021-01-27,14.0
+Luxembourg,Daily ICU occupancy,2021-01-28,12.0
+Luxembourg,Daily ICU occupancy,2021-01-29,11.0
+Luxembourg,Daily ICU occupancy,2021-01-30,11.0
+Luxembourg,Daily ICU occupancy,2021-01-31,11.0
+Luxembourg,Daily ICU occupancy,2021-02-01,13.0
+Luxembourg,Daily ICU occupancy,2021-02-02,14.0
+Luxembourg,Daily ICU occupancy,2021-02-03,12.0
+Luxembourg,Daily ICU occupancy,2021-02-04,11.0
+Luxembourg,Daily ICU occupancy,2021-02-05,12.0
+Luxembourg,Daily ICU occupancy,2021-02-06,14.0
+Luxembourg,Daily ICU occupancy,2021-02-07,14.0
+Luxembourg,Daily ICU occupancy,2021-02-08,15.0
+Luxembourg,Daily ICU occupancy,2021-02-09,12.0
+Luxembourg,Daily ICU occupancy,2021-02-10,13.0
+Luxembourg,Daily ICU occupancy,2021-02-11,14.0
+Luxembourg,Daily ICU occupancy,2021-02-12,10.0
+Luxembourg,Daily ICU occupancy,2021-02-13,11.0
+Luxembourg,Daily ICU occupancy,2021-02-14,13.0
+Luxembourg,Daily ICU occupancy,2021-02-15,16.0
+Luxembourg,Daily ICU occupancy,2021-02-16,17.0
+Luxembourg,Daily ICU occupancy,2021-02-17,17.0
+Luxembourg,Daily ICU occupancy,2021-02-18,15.0
+Luxembourg,Daily ICU occupancy,2021-02-19,13.0
+Luxembourg,Daily ICU occupancy,2021-02-20,13.0
+Luxembourg,Daily ICU occupancy,2021-02-21,15.0
+Luxembourg,Daily ICU occupancy,2021-02-22,16.0
+Luxembourg,Daily ICU occupancy,2021-02-23,15.0
+Luxembourg,Daily ICU occupancy,2021-02-24,15.0
+Luxembourg,Daily ICU occupancy,2021-02-25,17.0
+Luxembourg,Daily ICU occupancy,2021-02-26,19.0
+Luxembourg,Daily ICU occupancy,2021-02-27,20.0
+Luxembourg,Daily ICU occupancy,2021-02-28,21.0
+Luxembourg,Daily ICU occupancy,2021-03-01,20.0
+Luxembourg,Daily ICU occupancy,2021-03-02,20.0
+Luxembourg,Daily ICU occupancy,2021-03-03,22.0
+Luxembourg,Daily ICU occupancy,2021-03-04,22.0
+Luxembourg,Daily ICU occupancy,2021-03-05,23.0
+Luxembourg,Daily ICU occupancy,2021-03-06,21.0
+Luxembourg,Daily ICU occupancy,2021-03-07,21.0
+Luxembourg,Daily ICU occupancy,2021-03-08,24.0
+Luxembourg,Daily ICU occupancy,2021-03-09,24.0
+Luxembourg,Daily ICU occupancy,2021-03-10,30.0
+Luxembourg,Daily ICU occupancy,2021-03-11,32.0
+Luxembourg,Daily ICU occupancy,2021-03-12,27.0
+Luxembourg,Daily ICU occupancy,2021-03-13,25.0
+Luxembourg,Daily ICU occupancy,2021-03-14,25.0
+Luxembourg,Daily ICU occupancy,2021-03-15,26.0
+Luxembourg,Daily ICU occupancy,2021-03-16,25.0
+Luxembourg,Daily ICU occupancy,2021-03-17,23.0
+Luxembourg,Daily ICU occupancy,2021-03-18,17.0
+Luxembourg,Daily ICU occupancy,2021-03-19,19.0
+Luxembourg,Daily ICU occupancy,2021-03-20,20.0
+Luxembourg,Daily ICU occupancy,2021-03-21,20.0
+Luxembourg,Daily ICU occupancy,2021-03-22,21.0
+Luxembourg,Daily ICU occupancy,2021-03-23,18.0
+Luxembourg,Daily ICU occupancy,2021-03-24,21.0
+Luxembourg,Daily ICU occupancy,2021-03-25,19.0
+Luxembourg,Daily ICU occupancy,2021-03-26,21.0
+Luxembourg,Daily ICU occupancy,2021-03-27,23.0
+Luxembourg,Daily ICU occupancy,2021-03-28,22.0
+Luxembourg,Daily ICU occupancy,2021-03-29,25.0
+Luxembourg,Daily ICU occupancy,2021-03-30,25.0
+Luxembourg,Daily ICU occupancy,2021-03-31,30.0
+Luxembourg,Daily ICU occupancy,2021-04-01,30.0
+Luxembourg,Daily ICU occupancy,2021-04-02,31.0
+Luxembourg,Daily ICU occupancy,2021-04-03,30.0
+Luxembourg,Daily ICU occupancy,2021-04-04,30.0
+Luxembourg,Daily ICU occupancy,2021-04-05,32.0
+Luxembourg,Daily ICU occupancy,2021-04-06,31.0
+Luxembourg,Daily ICU occupancy,2021-04-07,32.0
+Luxembourg,Daily ICU occupancy,2021-04-08,30.0
+Luxembourg,Daily ICU occupancy,2021-04-09,27.0
+Luxembourg,Daily ICU occupancy,2021-04-10,28.0
+Luxembourg,Daily ICU occupancy,2021-04-11,29.0
+Luxembourg,Daily ICU occupancy,2021-04-12,32.0
+Luxembourg,Daily ICU occupancy,2021-04-13,33.0
+Luxembourg,Daily ICU occupancy,2021-04-14,33.0
+Luxembourg,Daily ICU occupancy,2021-04-15,32.0
+Luxembourg,Daily ICU occupancy,2021-04-16,31.0
+Luxembourg,Daily ICU occupancy,2021-04-17,36.0
+Luxembourg,Daily ICU occupancy,2021-04-18,37.0
+Luxembourg,Daily ICU occupancy,2021-04-19,38.0
+Luxembourg,Daily ICU occupancy,2021-04-20,38.0
+Luxembourg,Daily ICU occupancy,2021-04-21,34.0
+Luxembourg,Daily ICU occupancy,2021-04-22,33.0
+Luxembourg,Daily ICU occupancy,2021-04-23,36.0
+Luxembourg,Daily ICU occupancy,2021-04-24,34.0
+Luxembourg,Daily ICU occupancy,2021-04-25,37.0
+Luxembourg,Daily ICU occupancy,2021-04-26,37.0
+Luxembourg,Daily ICU occupancy,2021-04-27,36.0
+Luxembourg,Daily ICU occupancy,2021-04-28,36.0
+Luxembourg,Daily ICU occupancy,2021-04-29,34.0
+Luxembourg,Daily ICU occupancy,2021-04-30,34.0
+Luxembourg,Daily ICU occupancy,2021-05-01,33.0
+Luxembourg,Daily ICU occupancy,2021-05-02,29.0
+Luxembourg,Daily ICU occupancy,2021-05-03,32.0
+Luxembourg,Daily ICU occupancy,2021-05-04,34.0
+Luxembourg,Daily ICU occupancy,2021-05-05,33.0
+Luxembourg,Daily ICU occupancy,2021-05-06,32.0
+Luxembourg,Daily ICU occupancy,2021-05-07,31.0
+Luxembourg,Daily ICU occupancy,2021-05-08,31.0
+Luxembourg,Daily ICU occupancy,2021-05-09,31.0
+Luxembourg,Daily ICU occupancy,2021-05-10,30.0
+Luxembourg,Daily ICU occupancy,2021-05-11,30.0
+Luxembourg,Daily ICU occupancy,2021-05-12,30.0
+Luxembourg,Daily ICU occupancy,2021-05-13,29.0
+Luxembourg,Daily ICU occupancy,2021-05-14,29.0
+Luxembourg,Daily ICU occupancy,2021-05-15,28.0
+Luxembourg,Daily ICU occupancy,2021-05-16,28.0
+Luxembourg,Daily ICU occupancy,2021-05-17,29.0
+Luxembourg,Daily ICU occupancy,2021-05-18,21.0
+Luxembourg,Daily ICU occupancy,2021-05-19,18.0
+Luxembourg,Daily ICU occupancy,2021-05-20,17.0
+Luxembourg,Daily ICU occupancy,2021-05-21,17.0
+Luxembourg,Daily ICU occupancy,2021-05-22,17.0
+Luxembourg,Daily ICU occupancy,2021-05-23,17.0
+Luxembourg,Daily ICU occupancy,2021-05-24,17.0
+Luxembourg,Daily ICU occupancy,2021-05-25,17.0
+Luxembourg,Daily ICU occupancy,2021-05-26,15.0
+Luxembourg,Daily ICU occupancy,2021-05-27,12.0
+Luxembourg,Daily ICU occupancy,2021-05-28,12.0
+Luxembourg,Daily ICU occupancy,2021-05-29,11.0
+Luxembourg,Daily ICU occupancy,2021-05-30,8.0
+Luxembourg,Daily ICU occupancy,2021-05-31,7.0
+Luxembourg,Daily ICU occupancy,2021-06-01,5.0
+Luxembourg,Daily ICU occupancy,2021-06-02,3.0
+Luxembourg,Daily ICU occupancy,2021-06-03,3.0
+Luxembourg,Daily ICU occupancy,2021-06-04,3.0
+Luxembourg,Daily ICU occupancy,2021-06-05,2.0
+Luxembourg,Daily ICU occupancy,2021-06-06,2.0
+Luxembourg,Daily ICU occupancy,2021-06-07,2.0
+Luxembourg,Daily ICU occupancy,2021-06-08,3.0
+Luxembourg,Daily ICU occupancy,2021-06-09,2.0
+Luxembourg,Daily ICU occupancy,2021-06-10,1.0
+Luxembourg,Daily ICU occupancy,2021-06-11,1.0
+Luxembourg,Daily ICU occupancy,2021-06-12,1.0
+Luxembourg,Daily ICU occupancy,2021-06-13,1.0
+Luxembourg,Daily ICU occupancy,2021-06-14,2.0
+Luxembourg,Daily ICU occupancy,2021-06-15,2.0
+Luxembourg,Daily ICU occupancy,2021-06-16,2.0
+Luxembourg,Daily ICU occupancy,2021-06-17,2.0
+Luxembourg,Daily ICU occupancy,2021-06-18,2.0
+Luxembourg,Daily ICU occupancy,2021-06-19,2.0
+Luxembourg,Daily ICU occupancy,2021-06-20,2.0
+Luxembourg,Daily ICU occupancy,2021-06-21,2.0
+Luxembourg,Daily ICU occupancy,2021-06-22,2.0
+Luxembourg,Daily ICU occupancy,2021-06-23,2.0
+Luxembourg,Daily ICU occupancy,2021-06-24,2.0
+Luxembourg,Daily ICU occupancy,2021-06-25,1.0
+Luxembourg,Daily ICU occupancy,2021-06-26,1.0
+Luxembourg,Daily ICU occupancy,2021-06-27,1.0
+Luxembourg,Daily ICU occupancy,2021-06-28,1.0
+Luxembourg,Daily ICU occupancy,2021-06-29,1.0
+Luxembourg,Daily ICU occupancy,2021-06-30,1.0
+Luxembourg,Daily ICU occupancy,2021-07-01,1.0
+Luxembourg,Daily ICU occupancy,2021-07-02,1.0
+Luxembourg,Daily ICU occupancy,2021-07-03,1.0
+Luxembourg,Daily ICU occupancy,2021-07-04,1.0
+Luxembourg,Daily ICU occupancy,2021-07-05,1.0
+Luxembourg,Daily ICU occupancy,2021-07-06,1.0
+Luxembourg,Daily ICU occupancy,2021-07-07,1.0
+Luxembourg,Daily ICU occupancy,2021-07-08,1.0
+Luxembourg,Daily ICU occupancy,2021-07-09,1.0
+Luxembourg,Daily ICU occupancy,2021-07-10,1.0
+Luxembourg,Daily ICU occupancy,2021-07-11,2.0
+Luxembourg,Daily ICU occupancy,2021-07-12,2.0
+Luxembourg,Daily ICU occupancy,2021-07-13,3.0
+Luxembourg,Daily ICU occupancy,2021-07-14,4.0
+Luxembourg,Daily ICU occupancy,2021-07-15,5.0
+Luxembourg,Daily ICU occupancy,2021-07-16,4.0
+Luxembourg,Daily ICU occupancy,2021-07-17,5.0
+Luxembourg,Daily ICU occupancy,2021-07-18,5.0
+Luxembourg,Daily ICU occupancy,2021-07-19,6.0
+Luxembourg,Daily ICU occupancy,2021-07-20,6.0
+Luxembourg,Daily ICU occupancy,2021-07-21,6.0
+Luxembourg,Daily ICU occupancy,2021-07-22,5.0
+Luxembourg,Daily ICU occupancy,2021-07-23,3.0
+Luxembourg,Daily ICU occupancy,2021-07-24,3.0
+Luxembourg,Daily ICU occupancy,2021-07-25,2.0
+Luxembourg,Daily ICU occupancy,2021-07-26,3.0
+Luxembourg,Daily ICU occupancy,2021-07-27,3.0
+Luxembourg,Daily ICU occupancy,2021-07-28,3.0
+Luxembourg,Daily ICU occupancy,2021-07-29,5.0
+Luxembourg,Daily ICU occupancy,2021-07-30,6.0
+Luxembourg,Daily ICU occupancy,2021-07-31,6.0
+Luxembourg,Daily ICU occupancy,2021-08-01,7.0
+Luxembourg,Daily ICU occupancy,2021-08-02,7.0
+Luxembourg,Daily ICU occupancy,2021-08-03,5.0
+Luxembourg,Daily ICU occupancy,2021-08-04,5.0
+Luxembourg,Daily ICU occupancy,2021-08-05,5.0
+Luxembourg,Daily ICU occupancy,2021-08-06,6.0
+Luxembourg,Daily ICU occupancy,2021-08-07,6.0
+Luxembourg,Daily ICU occupancy,2021-08-08,7.0
+Luxembourg,Daily ICU occupancy,2021-08-09,6.0
+Luxembourg,Daily ICU occupancy,2021-08-10,6.0
+Luxembourg,Daily ICU occupancy,2021-08-11,6.0
+Luxembourg,Daily ICU occupancy,2021-08-12,6.0
+Luxembourg,Daily ICU occupancy,2021-08-13,6.0
+Luxembourg,Daily ICU occupancy,2021-08-14,6.0
+Luxembourg,Daily ICU occupancy,2021-08-15,6.0
+Luxembourg,Daily ICU occupancy,2021-08-16,6.0
+Luxembourg,Daily ICU occupancy,2021-08-17,5.0
+Luxembourg,Daily ICU occupancy,2021-08-18,5.0
+Luxembourg,Daily ICU occupancy,2021-08-19,3.0
+Luxembourg,Daily ICU occupancy,2021-08-20,3.0
+Luxembourg,Daily ICU occupancy,2021-08-21,4.0
+Luxembourg,Daily ICU occupancy,2021-08-22,5.0
+Luxembourg,Daily ICU occupancy,2021-08-23,5.0
+Luxembourg,Daily ICU occupancy,2021-08-24,5.0
+Luxembourg,Daily ICU occupancy,2021-08-25,5.0
+Luxembourg,Daily ICU occupancy,2021-08-26,5.0
+Luxembourg,Daily ICU occupancy,2021-08-27,8.0
+Luxembourg,Daily ICU occupancy,2021-08-28,6.0
+Luxembourg,Daily ICU occupancy,2021-08-29,6.0
+Luxembourg,Daily ICU occupancy,2021-08-30,7.0
+Luxembourg,Daily ICU occupancy,2021-08-31,8.0
+Luxembourg,Daily ICU occupancy,2021-09-01,8.0
+Luxembourg,Daily ICU occupancy,2021-09-02,9.0
+Luxembourg,Daily ICU occupancy,2021-09-03,10.0
+Luxembourg,Daily ICU occupancy,2021-09-04,11.0
+Luxembourg,Daily ICU occupancy,2021-09-05,10.0
+Luxembourg,Daily ICU occupancy,2021-09-06,10.0
+Luxembourg,Daily ICU occupancy,2021-09-07,10.0
+Luxembourg,Daily ICU occupancy,2021-09-08,10.0
+Luxembourg,Daily ICU occupancy,2021-09-09,10.0
+Luxembourg,Daily ICU occupancy,2021-09-10,10.0
+Luxembourg,Daily ICU occupancy,2021-09-11,10.0
+Luxembourg,Daily ICU occupancy,2021-09-12,9.0
+Luxembourg,Daily ICU occupancy,2021-09-13,9.0
+Luxembourg,Daily ICU occupancy,2021-09-14,8.0
+Luxembourg,Daily ICU occupancy,2021-09-15,9.0
+Luxembourg,Daily ICU occupancy,2021-09-16,9.0
+Luxembourg,Daily ICU occupancy,2021-09-17,10.0
+Luxembourg,Daily ICU occupancy,2021-09-18,9.0
+Luxembourg,Daily ICU occupancy,2021-09-19,9.0
+Luxembourg,Daily ICU occupancy,2021-09-20,8.0
+Luxembourg,Daily ICU occupancy,2021-09-21,8.0
+Luxembourg,Daily ICU occupancy,2021-09-22,8.0
+Luxembourg,Daily ICU occupancy,2021-09-23,8.0
+Luxembourg,Daily ICU occupancy,2021-09-24,8.0
+Luxembourg,Daily ICU occupancy,2021-09-25,7.0
+Luxembourg,Daily ICU occupancy,2021-09-26,8.0
+Luxembourg,Daily ICU occupancy,2021-09-27,9.0
+Luxembourg,Daily ICU occupancy,2021-09-28,9.0
+Luxembourg,Daily ICU occupancy,2021-09-29,8.0
+Luxembourg,Daily ICU occupancy,2021-09-30,9.0
+Luxembourg,Daily ICU occupancy,2021-10-01,8.0
+Luxembourg,Daily ICU occupancy,2021-10-02,8.0
+Luxembourg,Daily ICU occupancy,2021-10-03,8.0
+Luxembourg,Daily ICU occupancy,2021-10-04,7.0
+Luxembourg,Daily ICU occupancy,2021-10-05,7.0
+Luxembourg,Daily ICU occupancy,2021-10-06,6.0
+Luxembourg,Daily ICU occupancy,2021-10-07,5.0
+Luxembourg,Daily ICU occupancy,2021-10-08,4.0
+Luxembourg,Daily ICU occupancy,2021-10-09,3.0
+Luxembourg,Daily ICU occupancy,2021-10-10,3.0
+Luxembourg,Daily ICU occupancy,2021-10-11,3.0
+Luxembourg,Daily ICU occupancy,2021-10-12,2.0
+Luxembourg,Daily ICU occupancy,2021-10-13,4.0
+Luxembourg,Daily ICU occupancy,2021-10-14,3.0
+Luxembourg,Daily ICU occupancy,2021-10-15,4.0
+Luxembourg,Daily ICU occupancy,2021-10-16,7.0
+Luxembourg,Daily ICU occupancy,2021-10-17,7.0
+Luxembourg,Daily ICU occupancy,2021-10-18,7.0
+Luxembourg,Daily ICU occupancy,2021-10-19,7.0
+Luxembourg,Daily ICU occupancy,2021-10-20,5.0
+Luxembourg,Daily ICU occupancy,2021-10-21,5.0
+Luxembourg,Daily ICU occupancy,2021-10-22,7.0
+Luxembourg,Daily ICU occupancy,2021-10-23,7.0
+Luxembourg,Daily ICU occupancy,2021-10-24,8.0
+Luxembourg,Daily ICU occupancy,2021-10-25,9.0
+Luxembourg,Daily ICU occupancy,2021-10-26,9.0
+Luxembourg,Daily ICU occupancy,2021-10-27,10.0
+Luxembourg,Daily ICU occupancy,2021-10-28,11.0
+Luxembourg,Daily ICU occupancy,2021-10-29,12.0
+Luxembourg,Daily ICU occupancy,2021-10-30,11.0
+Luxembourg,Daily ICU occupancy,2021-10-31,9.0
+Luxembourg,Daily ICU occupancy,2021-11-01,12.0
+Luxembourg,Daily ICU occupancy,2021-11-02,13.0
+Luxembourg,Daily ICU occupancy,2021-11-03,13.0
+Luxembourg,Daily ICU occupancy,2021-11-04,14.0
+Luxembourg,Daily ICU occupancy,2021-11-05,14.0
+Luxembourg,Daily ICU occupancy,2021-11-06,12.0
+Luxembourg,Daily ICU occupancy,2021-11-07,12.0
+Luxembourg,Daily ICU occupancy,2021-11-08,14.0
+Luxembourg,Daily ICU occupancy,2021-11-09,15.0
+Luxembourg,Daily ICU occupancy,2021-11-10,15.0
+Luxembourg,Daily ICU occupancy,2021-11-11,13.0
+Luxembourg,Daily ICU occupancy,2021-11-12,12.0
+Luxembourg,Daily ICU occupancy,2021-11-13,15.0
+Luxembourg,Daily ICU occupancy,2021-11-14,12.0
+Luxembourg,Daily ICU occupancy,2021-11-15,12.0
+Luxembourg,Daily ICU occupancy,2021-11-16,10.0
+Luxembourg,Daily ICU occupancy,2021-11-17,9.0
+Luxembourg,Daily ICU occupancy,2021-11-18,9.0
+Luxembourg,Daily ICU occupancy,2021-11-19,10.0
+Luxembourg,Daily ICU occupancy,2021-11-20,10.0
+Luxembourg,Daily ICU occupancy,2021-11-21,10.0
+Luxembourg,Daily ICU occupancy,2021-11-22,13.0
+Luxembourg,Daily ICU occupancy,2021-11-23,11.0
+Luxembourg,Daily ICU occupancy,2021-11-24,11.0
+Luxembourg,Daily ICU occupancy,2021-11-25,10.0
+Luxembourg,Daily ICU occupancy,2021-11-26,11.0
+Luxembourg,Daily ICU occupancy,2021-11-27,10.0
+Luxembourg,Daily ICU occupancy,2021-11-28,10.0
+Luxembourg,Daily ICU occupancy,2021-11-29,12.0
+Luxembourg,Daily ICU occupancy,2021-11-30,13.0
+Luxembourg,Daily ICU occupancy,2021-12-01,12.0
+Luxembourg,Daily ICU occupancy,2021-12-02,17.0
+Luxembourg,Daily ICU occupancy,2021-12-03,17.0
+Luxembourg,Daily ICU occupancy,2021-12-04,17.0
+Luxembourg,Daily ICU occupancy,2021-12-05,22.0
+Luxembourg,Daily ICU occupancy,2021-12-06,23.0
+Luxembourg,Daily ICU occupancy,2021-12-07,21.0
+Luxembourg,Daily ICU occupancy,2021-12-08,21.0
+Luxembourg,Daily ICU occupancy,2021-12-09,23.0
+Luxembourg,Daily ICU occupancy,2021-12-10,24.0
+Luxembourg,Daily ICU occupancy,2021-12-11,24.0
+Luxembourg,Daily ICU occupancy,2021-12-12,25.0
+Luxembourg,Daily ICU occupancy,2021-12-13,26.0
+Luxembourg,Daily ICU occupancy,2021-12-14,26.0
+Luxembourg,Daily ICU occupancy,2021-12-15,24.0
+Luxembourg,Daily ICU occupancy,2021-12-16,22.0
+Luxembourg,Daily ICU occupancy,2021-12-17,19.0
+Luxembourg,Daily ICU occupancy,2021-12-18,17.0
+Luxembourg,Daily ICU occupancy,2021-12-19,18.0
+Luxembourg,Daily ICU occupancy,2021-12-20,19.0
+Luxembourg,Daily ICU occupancy,2021-12-21,19.0
+Luxembourg,Daily ICU occupancy,2021-12-22,19.0
+Luxembourg,Daily ICU occupancy,2021-12-23,18.0
+Luxembourg,Daily ICU occupancy,2021-12-24,19.0
+Luxembourg,Daily ICU occupancy,2021-12-25,19.0
+Luxembourg,Daily ICU occupancy,2021-12-26,20.0
+Luxembourg,Daily ICU occupancy,2021-12-27,19.0
+Luxembourg,Daily ICU occupancy,2021-12-28,19.0
+Luxembourg,Daily ICU occupancy,2021-12-29,19.0
+Luxembourg,Daily ICU occupancy,2021-12-30,21.0
+Luxembourg,Daily ICU occupancy,2021-12-31,19.0
+Luxembourg,Daily ICU occupancy,2022-01-01,19.0
+Luxembourg,Daily ICU occupancy,2022-01-02,21.0
+Luxembourg,Daily ICU occupancy,2022-01-03,20.0
+Luxembourg,Daily ICU occupancy,2022-01-04,19.0
+Luxembourg,Daily ICU occupancy,2022-01-05,20.0
+Luxembourg,Daily ICU occupancy,2022-01-06,22.0
+Luxembourg,Daily ICU occupancy,2022-01-07,22.0
+Luxembourg,Daily ICU occupancy,2022-01-08,20.0
+Luxembourg,Daily ICU occupancy,2022-01-09,20.0
+Luxembourg,Daily ICU occupancy,2022-01-10,18.0
+Luxembourg,Daily ICU occupancy,2022-01-11,19.0
+Luxembourg,Daily ICU occupancy,2022-01-12,20.0
+Luxembourg,Daily ICU occupancy,2022-01-13,18.0
+Luxembourg,Daily ICU occupancy,2022-01-14,18.0
+Luxembourg,Daily ICU occupancy,2022-01-15,21.0
+Luxembourg,Daily ICU occupancy,2022-01-16,20.0
+Luxembourg,Daily ICU occupancy,2022-01-17,19.0
+Luxembourg,Daily ICU occupancy,2022-01-18,15.0
+Luxembourg,Daily ICU occupancy,2022-01-19,15.0
+Luxembourg,Daily ICU occupancy,2022-01-20,13.0
+Luxembourg,Daily ICU occupancy,2022-01-21,12.0
+Luxembourg,Daily ICU occupancy,2022-01-22,14.0
+Luxembourg,Daily ICU occupancy,2022-01-23,11.0
+Luxembourg,Daily ICU occupancy,2022-01-24,11.0
+Luxembourg,Daily ICU occupancy,2022-01-25,12.0
+Luxembourg,Daily ICU occupancy,2022-01-26,13.0
+Luxembourg,Daily ICU occupancy,2022-01-27,10.0
+Luxembourg,Daily ICU occupancy,2022-01-28,8.0
+Luxembourg,Daily ICU occupancy,2022-01-29,8.0
+Luxembourg,Daily ICU occupancy,2022-01-30,8.0
+Luxembourg,Daily ICU occupancy,2022-01-31,9.0
+Luxembourg,Daily ICU occupancy,2022-02-01,13.0
+Luxembourg,Daily ICU occupancy,2022-02-02,12.0
+Luxembourg,Daily ICU occupancy,2022-02-03,11.0
+Luxembourg,Daily ICU occupancy,2022-02-04,10.0
+Luxembourg,Daily ICU occupancy,2022-02-05,9.0
+Luxembourg,Daily ICU occupancy,2022-02-06,11.0
+Luxembourg,Daily ICU occupancy,2022-02-07,10.0
+Luxembourg,Daily ICU occupancy,2022-02-08,8.0
+Luxembourg,Daily ICU occupancy,2022-02-09,9.0
+Luxembourg,Daily ICU occupancy,2022-02-10,9.0
+Luxembourg,Daily ICU occupancy,2022-02-11,11.0
+Luxembourg,Daily ICU occupancy,2022-02-12,11.0
+Luxembourg,Daily ICU occupancy,2022-02-13,12.0
+Luxembourg,Daily ICU occupancy,2022-02-14,11.0
+Luxembourg,Daily ICU occupancy,2022-02-15,9.0
+Luxembourg,Daily ICU occupancy,2022-02-16,10.0
+Luxembourg,Daily ICU occupancy,2022-02-17,8.0
+Luxembourg,Daily ICU occupancy,2022-02-18,8.0
+Luxembourg,Daily ICU occupancy,2022-02-19,9.0
+Luxembourg,Daily ICU occupancy,2022-02-20,9.0
+Luxembourg,Daily ICU occupancy,2022-02-21,9.0
+Luxembourg,Daily ICU occupancy,2022-02-22,9.0
+Luxembourg,Daily ICU occupancy,2022-02-23,6.0
+Luxembourg,Daily ICU occupancy,2022-02-24,8.0
+Luxembourg,Daily ICU occupancy,2022-02-25,6.0
+Luxembourg,Daily ICU occupancy,2022-02-26,6.0
+Luxembourg,Daily ICU occupancy,2022-02-27,6.0
+Luxembourg,Daily ICU occupancy,2022-02-28,6.0
+Luxembourg,Daily ICU occupancy,2022-03-01,6.0
+Luxembourg,Daily ICU occupancy,2022-03-02,6.0
+Luxembourg,Daily ICU occupancy,2022-03-03,5.0
+Luxembourg,Daily ICU occupancy,2022-03-04,6.0
+Luxembourg,Daily ICU occupancy,2022-03-05,5.0
+Luxembourg,Daily ICU occupancy,2022-03-06,5.0
+Luxembourg,Daily ICU occupancy,2022-03-07,5.0
+Luxembourg,Daily ICU occupancy,2022-03-08,5.0
+Luxembourg,Daily ICU occupancy,2022-03-09,5.0
+Luxembourg,Daily ICU occupancy,2022-03-10,4.0
+Luxembourg,Daily ICU occupancy,2022-03-11,3.0
+Luxembourg,Daily ICU occupancy,2022-03-12,3.0
+Luxembourg,Daily ICU occupancy,2022-03-13,3.0
+Luxembourg,Daily ICU occupancy,2022-03-14,3.0
+Luxembourg,Daily ICU occupancy,2022-03-15,4.0
+Luxembourg,Daily ICU occupancy,2022-03-16,4.0
+Luxembourg,Daily ICU occupancy,2022-03-17,4.0
+Luxembourg,Daily ICU occupancy,2022-03-18,4.0
+Luxembourg,Daily ICU occupancy,2022-03-19,2.0
+Luxembourg,Daily ICU occupancy,2022-03-20,3.0
+Luxembourg,Daily ICU occupancy,2022-03-21,4.0
+Luxembourg,Daily ICU occupancy,2022-03-22,4.0
+Luxembourg,Daily ICU occupancy,2022-03-23,3.0
+Luxembourg,Daily ICU occupancy,2022-03-24,3.0
+Luxembourg,Daily ICU occupancy,2022-03-25,4.0
+Luxembourg,Daily ICU occupancy,2022-03-26,5.0
+Luxembourg,Daily ICU occupancy,2022-03-27,4.0
+Luxembourg,Daily ICU occupancy,2022-03-28,3.0
+Luxembourg,Daily ICU occupancy,2022-03-29,4.0
+Luxembourg,Daily ICU occupancy,2022-03-30,4.0
+Luxembourg,Daily ICU occupancy,2022-03-31,3.0
+Luxembourg,Daily ICU occupancy,2022-04-01,3.0
+Luxembourg,Daily ICU occupancy,2022-04-02,3.0
+Luxembourg,Daily ICU occupancy,2022-04-03,3.0
+Luxembourg,Daily ICU occupancy,2022-04-04,3.0
+Luxembourg,Daily ICU occupancy,2022-04-05,5.0
+Luxembourg,Daily ICU occupancy,2022-04-06,4.0
+Luxembourg,Daily ICU occupancy,2022-04-07,4.0
+Luxembourg,Daily ICU occupancy,2022-04-08,5.0
+Luxembourg,Daily ICU occupancy,2022-04-09,3.0
+Luxembourg,Daily ICU occupancy,2022-04-10,3.0
+Luxembourg,Daily ICU occupancy,2022-04-11,3.0
+Luxembourg,Daily ICU occupancy,2022-04-12,3.0
+Luxembourg,Daily ICU occupancy,2022-04-13,3.0
+Luxembourg,Daily ICU occupancy,2022-04-14,4.0
+Luxembourg,Daily ICU occupancy,2022-04-15,3.0
+Luxembourg,Daily ICU occupancy,2022-04-16,2.0
+Luxembourg,Daily ICU occupancy,2022-04-17,2.0
+Luxembourg,Daily ICU occupancy,2022-04-18,2.0
+Luxembourg,Daily ICU occupancy,2022-04-19,2.0
+Luxembourg,Daily ICU occupancy,2022-04-20,1.0
+Luxembourg,Daily ICU occupancy,2022-04-21,1.0
+Luxembourg,Daily ICU occupancy,2022-04-22,1.0
+Luxembourg,Daily ICU occupancy,2022-04-23,1.0
+Luxembourg,Daily ICU occupancy,2022-04-24,2.0
+Luxembourg,Daily ICU occupancy,2022-04-25,2.0
+Luxembourg,Daily ICU occupancy,2022-04-26,1.0
+Luxembourg,Daily ICU occupancy,2022-04-27,3.0
+Luxembourg,Daily ICU occupancy,2022-04-28,3.0
+Luxembourg,Daily ICU occupancy,2022-04-29,3.0
+Luxembourg,Daily ICU occupancy,2022-04-30,2.0
+Luxembourg,Daily ICU occupancy,2022-05-01,2.0
+Luxembourg,Daily ICU occupancy,2022-05-02,2.0
+Luxembourg,Daily ICU occupancy,2022-05-03,1.0
+Luxembourg,Daily ICU occupancy,2022-05-04,1.0
+Luxembourg,Daily ICU occupancy,2022-05-05,1.0
+Luxembourg,Daily ICU occupancy,2022-05-06,1.0
+Luxembourg,Daily ICU occupancy,2022-05-07,1.0
+Luxembourg,Daily ICU occupancy,2022-05-08,2.0
+Luxembourg,Daily ICU occupancy,2022-05-09,2.0
+Luxembourg,Daily ICU occupancy,2022-05-10,0.0
+Luxembourg,Daily ICU occupancy,2022-05-11,0.0
+Luxembourg,Daily ICU occupancy,2022-05-12,0.0
+Luxembourg,Daily ICU occupancy,2022-05-13,1.0
+Luxembourg,Daily ICU occupancy,2022-05-14,1.0
+Luxembourg,Daily ICU occupancy,2022-05-15,1.0
+Luxembourg,Daily ICU occupancy,2022-05-16,1.0
+Luxembourg,Daily ICU occupancy,2022-05-17,1.0
+Luxembourg,Daily ICU occupancy,2022-05-18,1.0
+Luxembourg,Daily ICU occupancy,2022-05-19,1.0
+Luxembourg,Daily ICU occupancy,2022-05-20,3.0
+Luxembourg,Daily ICU occupancy,2022-05-21,2.0
+Luxembourg,Daily ICU occupancy,2022-05-22,2.0
+Luxembourg,Daily ICU occupancy,2022-05-23,1.0
+Luxembourg,Daily ICU occupancy,2022-05-24,1.0
+Luxembourg,Daily ICU occupancy,2022-05-25,1.0
+Luxembourg,Daily ICU occupancy,2022-05-26,1.0
+Luxembourg,Daily ICU occupancy,2022-05-27,1.0
+Luxembourg,Daily ICU occupancy,2022-05-28,1.0
+Luxembourg,Daily ICU occupancy,2022-05-29,1.0
+Luxembourg,Daily ICU occupancy,2022-05-30,1.0
+Luxembourg,Daily ICU occupancy,2022-05-31,1.0
+Luxembourg,Daily ICU occupancy,2022-06-01,1.0
+Luxembourg,Daily ICU occupancy,2022-06-02,1.0
+Luxembourg,Daily ICU occupancy,2022-06-03,1.0
+Luxembourg,Daily ICU occupancy,2022-06-04,1.0
+Luxembourg,Daily ICU occupancy,2022-06-05,1.0
+Luxembourg,Daily ICU occupancy,2022-06-06,1.0
+Luxembourg,Daily ICU occupancy,2022-06-07,1.0
+Luxembourg,Daily ICU occupancy,2022-06-08,1.0
+Luxembourg,Daily ICU occupancy,2022-06-09,1.0
+Luxembourg,Daily ICU occupancy,2022-06-10,2.0
+Luxembourg,Daily ICU occupancy,2022-06-11,2.0
+Luxembourg,Daily ICU occupancy,2022-06-12,2.0
+Luxembourg,Daily ICU occupancy,2022-06-13,2.0
+Luxembourg,Daily ICU occupancy,2022-06-14,2.0
+Luxembourg,Daily ICU occupancy,2022-06-15,2.0
+Luxembourg,Daily ICU occupancy,2022-06-16,2.0
+Luxembourg,Daily ICU occupancy,2022-06-17,2.0
+Luxembourg,Daily ICU occupancy,2022-06-18,2.0
+Luxembourg,Daily ICU occupancy,2022-06-19,2.0
+Luxembourg,Daily ICU occupancy,2022-06-20,2.0
+Luxembourg,Daily ICU occupancy,2022-06-21,1.0
+Luxembourg,Daily ICU occupancy,2022-06-22,1.0
+Luxembourg,Daily ICU occupancy,2022-06-23,2.0
+Luxembourg,Daily ICU occupancy,2022-06-24,3.0
+Luxembourg,Daily ICU occupancy,2022-06-25,3.0
+Luxembourg,Daily ICU occupancy,2022-06-26,3.0
+Luxembourg,Daily ICU occupancy,2022-06-27,3.0
+Luxembourg,Daily ICU occupancy,2022-06-28,3.0
+Luxembourg,Daily ICU occupancy,2022-06-29,2.0
+Luxembourg,Daily ICU occupancy,2022-06-30,1.0
+Luxembourg,Daily ICU occupancy,2022-07-01,0.0
+Luxembourg,Daily ICU occupancy,2022-07-02,0.0
+Luxembourg,Daily ICU occupancy,2022-07-03,0.0
+Luxembourg,Daily ICU occupancy,2022-07-04,0.0
+Luxembourg,Daily ICU occupancy,2022-07-05,0.0
+Luxembourg,Daily ICU occupancy,2022-07-06,0.0
+Luxembourg,Daily ICU occupancy,2022-07-07,0.0
+Luxembourg,Daily ICU occupancy,2022-07-08,0.0
+Luxembourg,Daily ICU occupancy,2022-07-09,0.0
+Luxembourg,Daily ICU occupancy,2022-07-10,0.0
+Luxembourg,Daily ICU occupancy,2022-07-11,0.0
+Luxembourg,Daily ICU occupancy,2022-07-12,0.0
+Luxembourg,Daily ICU occupancy,2022-07-13,0.0
+Luxembourg,Daily ICU occupancy,2022-07-14,1.0
+Luxembourg,Daily ICU occupancy,2022-07-15,1.0
+Luxembourg,Daily ICU occupancy,2022-07-16,1.0
+Luxembourg,Daily ICU occupancy,2022-07-17,1.0
+Luxembourg,Daily ICU occupancy,2022-07-18,2.0
+Luxembourg,Daily ICU occupancy,2022-07-19,3.0
+Luxembourg,Daily ICU occupancy,2022-07-20,4.0
+Luxembourg,Daily ICU occupancy,2022-07-21,3.0
+Luxembourg,Daily ICU occupancy,2022-07-22,3.0
+Luxembourg,Daily ICU occupancy,2022-07-23,4.0
+Luxembourg,Daily ICU occupancy,2022-07-24,3.0
+Luxembourg,Daily ICU occupancy,2022-07-25,3.0
+Luxembourg,Daily ICU occupancy,2022-07-26,3.0
+Luxembourg,Daily ICU occupancy,2022-07-27,3.0
+Luxembourg,Daily ICU occupancy,2022-07-28,3.0
+Luxembourg,Daily ICU occupancy,2022-07-29,2.0
+Luxembourg,Daily ICU occupancy,2022-07-30,2.0
+Luxembourg,Daily ICU occupancy,2022-07-31,3.0
+Luxembourg,Daily ICU occupancy,2022-08-01,3.0
+Luxembourg,Daily ICU occupancy,2022-08-02,3.0
+Luxembourg,Daily ICU occupancy,2022-08-03,2.0
+Luxembourg,Daily ICU occupancy,2022-08-04,2.0
+Luxembourg,Daily ICU occupancy,2022-08-05,2.0
+Luxembourg,Daily ICU occupancy,2022-08-06,0.0
+Luxembourg,Daily ICU occupancy,2022-08-07,2.0
+Luxembourg,Daily ICU occupancy,2022-08-08,2.0
+Luxembourg,Daily ICU occupancy,2022-08-09,3.0
+Luxembourg,Daily ICU occupancy,2022-08-10,1.0
+Luxembourg,Daily ICU occupancy,2022-08-11,0.0
+Luxembourg,Daily ICU occupancy,2022-08-12,0.0
+Luxembourg,Daily ICU occupancy,2022-08-13,0.0
+Luxembourg,Daily ICU occupancy,2022-08-14,0.0
+Luxembourg,Daily ICU occupancy,2022-08-15,0.0
+Luxembourg,Daily ICU occupancy,2022-08-16,0.0
+Luxembourg,Daily ICU occupancy,2022-08-17,1.0
+Luxembourg,Daily ICU occupancy,2022-08-18,1.0
+Luxembourg,Daily ICU occupancy,2022-08-19,1.0
+Luxembourg,Daily ICU occupancy,2022-08-20,1.0
+Luxembourg,Daily ICU occupancy,2022-08-21,2.0
+Luxembourg,Daily ICU occupancy,2022-08-22,1.0
+Luxembourg,Daily ICU occupancy,2022-08-23,1.0
+Luxembourg,Daily ICU occupancy,2022-08-24,1.0
+Luxembourg,Daily ICU occupancy,2022-08-25,2.0
+Luxembourg,Daily ICU occupancy,2022-08-26,1.0
+Luxembourg,Daily ICU occupancy,2022-08-27,1.0
+Luxembourg,Daily ICU occupancy,2022-08-28,1.0
+Luxembourg,Daily ICU occupancy,2022-08-29,1.0
+Luxembourg,Daily ICU occupancy,2022-08-30,1.0
+Luxembourg,Daily ICU occupancy,2022-08-31,1.0
+Luxembourg,Daily ICU occupancy,2022-09-01,1.0
+Luxembourg,Daily ICU occupancy,2022-09-02,1.0
+Luxembourg,Daily ICU occupancy,2022-09-03,1.0
+Luxembourg,Daily ICU occupancy,2022-09-04,1.0
+Luxembourg,Daily ICU occupancy,2022-09-05,0.0
+Luxembourg,Daily ICU occupancy,2022-09-06,0.0
+Luxembourg,Daily ICU occupancy,2022-09-07,0.0
+Luxembourg,Daily ICU occupancy,2022-09-08,0.0
+Luxembourg,Daily ICU occupancy,2022-09-09,0.0
+Luxembourg,Daily ICU occupancy,2022-09-10,1.0
+Luxembourg,Daily ICU occupancy,2022-09-11,1.0
+Luxembourg,Daily ICU occupancy,2022-09-12,1.0
+Luxembourg,Daily ICU occupancy,2022-09-13,1.0
+Luxembourg,Daily ICU occupancy,2022-09-14,1.0
+Luxembourg,Daily ICU occupancy,2022-09-15,1.0
+Luxembourg,Daily ICU occupancy,2022-09-16,1.0
+Luxembourg,Daily ICU occupancy,2022-09-17,1.0
+Luxembourg,Daily ICU occupancy,2022-09-18,1.0
+Luxembourg,Daily ICU occupancy,2022-09-19,1.0
+Luxembourg,Daily ICU occupancy,2022-09-20,1.0
+Luxembourg,Daily ICU occupancy,2022-09-21,1.0
+Luxembourg,Daily ICU occupancy,2022-09-22,1.0
+Luxembourg,Daily ICU occupancy,2022-09-23,1.0
+Luxembourg,Daily ICU occupancy,2022-09-24,0.0
+Luxembourg,Daily ICU occupancy,2022-09-25,0.0
+Luxembourg,Daily ICU occupancy,2022-09-26,1.0
+Luxembourg,Daily ICU occupancy,2022-09-27,1.0
+Luxembourg,Daily ICU occupancy,2022-09-28,1.0
+Luxembourg,Daily ICU occupancy,2022-09-29,1.0
+Luxembourg,Daily ICU occupancy,2022-09-30,1.0
+Luxembourg,Daily ICU occupancy,2022-10-01,2.0
+Luxembourg,Daily ICU occupancy,2022-10-02,2.0
+Luxembourg,Daily ICU occupancy,2022-10-03,2.0
+Luxembourg,Daily ICU occupancy,2022-10-04,1.0
+Luxembourg,Daily ICU occupancy,2022-10-05,1.0
+Luxembourg,Daily ICU occupancy,2022-10-06,1.0
+Luxembourg,Daily ICU occupancy,2022-10-07,1.0
+Luxembourg,Daily ICU occupancy,2022-10-08,2.0
+Luxembourg,Daily ICU occupancy,2022-10-09,2.0
+Luxembourg,Daily ICU occupancy,2022-10-10,2.0
+Luxembourg,Daily ICU occupancy,2022-10-11,2.0
+Luxembourg,Daily ICU occupancy,2022-10-12,2.0
+Luxembourg,Daily ICU occupancy,2022-10-13,2.0
+Luxembourg,Daily ICU occupancy,2022-10-14,4.0
+Luxembourg,Daily ICU occupancy,2022-10-15,3.0
+Luxembourg,Daily ICU occupancy,2022-10-16,3.0
+Luxembourg,Daily ICU occupancy,2022-10-17,4.0
+Luxembourg,Daily ICU occupancy,2022-10-18,5.0
+Luxembourg,Daily ICU occupancy,2022-10-19,5.0
+Luxembourg,Daily ICU occupancy,2022-10-20,5.0
+Luxembourg,Daily ICU occupancy,2022-10-21,3.0
+Luxembourg,Daily ICU occupancy,2022-10-22,2.0
+Luxembourg,Daily ICU occupancy,2022-10-23,1.0
+Luxembourg,Daily ICU occupancy,2022-10-24,0.0
+Luxembourg,Daily ICU occupancy,2022-10-25,0.0
+Luxembourg,Daily ICU occupancy,2022-10-26,0.0
+Luxembourg,Daily ICU occupancy,2022-10-27,1.0
+Luxembourg,Daily ICU occupancy,2022-10-28,1.0
+Luxembourg,Daily ICU occupancy,2022-10-29,1.0
+Luxembourg,Daily ICU occupancy,2022-10-30,1.0
+Luxembourg,Daily ICU occupancy,2022-10-31,1.0
+Luxembourg,Daily ICU occupancy,2022-11-01,1.0
+Luxembourg,Daily ICU occupancy,2022-11-02,2.0
+Luxembourg,Daily ICU occupancy,2022-11-03,1.0
+Luxembourg,Daily ICU occupancy,2022-11-04,1.0
+Luxembourg,Daily ICU occupancy,2022-11-05,1.0
+Luxembourg,Daily ICU occupancy,2022-11-06,2.0
+Luxembourg,Daily ICU occupancy,2022-11-07,1.0
+Luxembourg,Daily ICU occupancy,2022-11-08,0.0
+Luxembourg,Daily ICU occupancy,2022-11-09,1.0
+Luxembourg,Daily ICU occupancy,2022-11-10,1.0
+Luxembourg,Daily ICU occupancy,2022-11-11,1.0
+Luxembourg,Daily ICU occupancy,2022-11-12,1.0
+Luxembourg,Daily ICU occupancy,2022-11-13,1.0
+Luxembourg,Daily ICU occupancy,2022-11-14,2.0
+Luxembourg,Daily ICU occupancy,2022-11-15,1.0
+Luxembourg,Daily ICU occupancy,2022-11-16,3.0
+Luxembourg,Daily ICU occupancy,2022-11-17,4.0
+Luxembourg,Daily ICU occupancy,2022-11-18,3.0
+Luxembourg,Daily ICU occupancy,2022-11-19,2.0
+Luxembourg,Daily ICU occupancy,2022-11-20,2.0
+Luxembourg,Daily ICU occupancy,2022-11-21,2.0
+Luxembourg,Daily ICU occupancy,2022-11-22,4.0
+Luxembourg,Daily ICU occupancy,2022-11-23,1.0
+Luxembourg,Daily ICU occupancy,2022-11-24,1.0
+Luxembourg,Daily ICU occupancy,2022-11-25,2.0
+Luxembourg,Daily ICU occupancy,2022-11-26,1.0
+Luxembourg,Daily ICU occupancy,2022-11-27,1.0
+Luxembourg,Daily ICU occupancy,2022-11-28,1.0
+Luxembourg,Daily ICU occupancy,2022-11-29,1.0
+Luxembourg,Daily ICU occupancy,2022-11-30,1.0
+Luxembourg,Daily ICU occupancy,2022-12-01,1.0
+Luxembourg,Daily ICU occupancy,2022-12-02,2.0
+Luxembourg,Daily ICU occupancy,2022-12-03,2.0
+Luxembourg,Daily ICU occupancy,2022-12-04,2.0
+Luxembourg,Daily ICU occupancy,2022-12-05,4.0
+Luxembourg,Daily ICU occupancy,2022-12-06,3.0
+Luxembourg,Daily ICU occupancy,2022-12-07,3.0
+Luxembourg,Daily ICU occupancy,2022-12-08,3.0
+Luxembourg,Daily ICU occupancy,2022-12-09,3.0
+Luxembourg,Daily ICU occupancy,2022-12-10,2.0
+Luxembourg,Daily ICU occupancy,2022-12-11,2.0
+Luxembourg,Daily ICU occupancy,2022-12-12,2.0
+Luxembourg,Daily ICU occupancy,2022-12-13,2.0
+Luxembourg,Daily ICU occupancy,2022-12-14,1.0
+Luxembourg,Daily ICU occupancy,2022-12-15,1.0
+Luxembourg,Daily ICU occupancy,2022-12-16,1.0
+Luxembourg,Daily ICU occupancy,2022-12-17,1.0
+Luxembourg,Daily ICU occupancy,2022-12-18,2.0
+Luxembourg,Daily ICU occupancy,2022-12-19,2.0
+Luxembourg,Daily ICU occupancy,2022-12-20,1.0
+Luxembourg,Daily ICU occupancy,2022-12-21,1.0
+Luxembourg,Daily ICU occupancy,2022-12-22,2.0
+Luxembourg,Daily ICU occupancy,2022-12-23,2.0
+Luxembourg,Daily ICU occupancy,2022-12-24,2.0
+Luxembourg,Daily ICU occupancy,2022-12-25,2.0
+Luxembourg,Daily ICU occupancy,2022-12-26,1.0
+Luxembourg,Daily ICU occupancy,2022-12-27,1.0
+Luxembourg,Daily ICU occupancy,2022-12-28,1.0
+Luxembourg,Daily ICU occupancy,2022-12-29,2.0
+Luxembourg,Daily ICU occupancy,2022-12-30,3.0
+Luxembourg,Daily ICU occupancy,2022-12-31,3.0
+Luxembourg,Daily ICU occupancy,2023-01-01,4.0
+Luxembourg,Daily ICU occupancy,2023-01-02,5.0
+Luxembourg,Daily ICU occupancy,2023-01-03,4.0
+Luxembourg,Daily ICU occupancy,2023-01-04,4.0
+Luxembourg,Daily ICU occupancy,2023-01-05,3.0
+Luxembourg,Daily ICU occupancy,2023-01-06,6.0
+Luxembourg,Daily ICU occupancy,2023-01-07,6.0
+Luxembourg,Daily ICU occupancy,2023-01-08,6.0
+Luxembourg,Daily ICU occupancy,2023-01-09,6.0
+Luxembourg,Daily ICU occupancy,2023-01-10,4.0
+Luxembourg,Daily ICU occupancy,2023-01-11,2.0
+Luxembourg,Daily ICU occupancy,2023-01-12,1.0
+Luxembourg,Daily ICU occupancy,2023-01-13,0.0
+Luxembourg,Daily ICU occupancy,2023-01-14,0.0
+Luxembourg,Daily ICU occupancy,2023-01-15,0.0
+Luxembourg,Daily ICU occupancy,2023-01-16,0.0
+Luxembourg,Daily ICU occupancy,2023-01-17,0.0
+Luxembourg,Daily ICU occupancy,2023-01-18,0.0
+Luxembourg,Daily ICU occupancy,2023-01-19,0.0
+Luxembourg,Daily ICU occupancy,2023-01-20,0.0
+Luxembourg,Daily ICU occupancy,2023-01-21,0.0
+Luxembourg,Daily ICU occupancy,2023-01-22,0.0
+Luxembourg,Daily ICU occupancy,2023-01-23,1.0
+Luxembourg,Daily ICU occupancy,2023-01-24,1.0
+Luxembourg,Daily ICU occupancy,2023-01-25,1.0
+Luxembourg,Daily ICU occupancy,2023-01-26,1.0
+Luxembourg,Daily ICU occupancy,2023-01-27,1.0
+Luxembourg,Daily ICU occupancy,2023-01-28,1.0
+Luxembourg,Daily ICU occupancy,2023-01-29,1.0
+Luxembourg,Daily ICU occupancy,2023-01-30,1.0
+Luxembourg,Daily ICU occupancy,2023-01-31,1.0
+Luxembourg,Daily ICU occupancy,2023-02-01,1.0
+Luxembourg,Daily ICU occupancy,2023-02-02,1.0
+Luxembourg,Daily ICU occupancy,2023-02-03,1.0
+Luxembourg,Daily ICU occupancy,2023-02-04,1.0
+Luxembourg,Daily ICU occupancy,2023-02-05,0.0
+Luxembourg,Daily ICU occupancy,2023-02-06,0.0
+Luxembourg,Daily ICU occupancy,2023-02-07,0.0
+Luxembourg,Daily ICU occupancy,2023-02-08,0.0
+Luxembourg,Daily ICU occupancy,2023-02-09,0.0
+Luxembourg,Daily ICU occupancy,2023-02-10,0.0
+Luxembourg,Daily ICU occupancy,2023-02-11,0.0
+Luxembourg,Daily ICU occupancy,2023-02-12,0.0
+Luxembourg,Daily ICU occupancy,2023-02-13,0.0
+Luxembourg,Daily ICU occupancy,2023-02-14,1.0
+Luxembourg,Daily ICU occupancy,2023-02-15,0.0
+Luxembourg,Daily ICU occupancy,2023-02-16,0.0
+Luxembourg,Daily ICU occupancy,2023-02-17,0.0
+Luxembourg,Daily ICU occupancy,2023-02-18,1.0
+Luxembourg,Daily ICU occupancy,2023-02-19,1.0
+Luxembourg,Daily ICU occupancy,2023-02-20,1.0
+Luxembourg,Daily ICU occupancy,2023-02-21,1.0
+Luxembourg,Daily ICU occupancy,2023-02-22,0.0
+Luxembourg,Daily ICU occupancy,2023-02-23,1.0
+Luxembourg,Daily ICU occupancy,2023-02-24,1.0
+Luxembourg,Daily ICU occupancy,2023-02-25,1.0
+Luxembourg,Daily ICU occupancy,2023-02-26,1.0
+Luxembourg,Daily ICU occupancy,2023-02-27,0.0
+Luxembourg,Daily ICU occupancy,2023-02-28,0.0
+Luxembourg,Daily ICU occupancy,2023-03-01,0.0
+Luxembourg,Daily ICU occupancy,2023-03-02,0.0
+Luxembourg,Daily ICU occupancy,2023-03-03,1.0
+Luxembourg,Daily ICU occupancy,2023-03-04,1.0
+Luxembourg,Daily ICU occupancy,2023-03-05,1.0
+Luxembourg,Daily ICU occupancy,2023-03-06,3.0
+Luxembourg,Daily ICU occupancy,2023-03-07,2.0
+Luxembourg,Daily ICU occupancy,2023-03-08,1.0
+Luxembourg,Daily ICU occupancy,2023-03-09,1.0
+Luxembourg,Daily ICU occupancy,2023-03-10,1.0
+Luxembourg,Daily ICU occupancy,2023-03-11,1.0
+Luxembourg,Daily ICU occupancy,2023-03-12,1.0
+Luxembourg,Daily ICU occupancy,2023-03-13,1.0
+Luxembourg,Daily ICU occupancy,2023-03-14,0.0
+Luxembourg,Daily ICU occupancy,2023-03-15,0.0
+Luxembourg,Daily ICU occupancy,2023-03-16,0.0
+Luxembourg,Daily ICU occupancy,2023-03-17,0.0
+Luxembourg,Daily ICU occupancy,2023-03-18,0.0
+Luxembourg,Daily ICU occupancy,2023-03-19,1.0
+Luxembourg,Daily ICU occupancy,2023-03-20,1.0
+Luxembourg,Daily ICU occupancy,2023-03-21,1.0
+Luxembourg,Daily ICU occupancy,2023-03-22,2.0
+Luxembourg,Daily ICU occupancy,2023-03-23,1.0
+Luxembourg,Daily ICU occupancy,2023-03-24,1.0
+Luxembourg,Daily ICU occupancy,2023-03-25,0.0
+Luxembourg,Daily ICU occupancy,2023-03-26,0.0
+Luxembourg,Daily ICU occupancy,2023-03-27,0.0
+Luxembourg,Daily ICU occupancy,2023-03-28,0.0
+Luxembourg,Daily ICU occupancy,2023-03-29,0.0
+Luxembourg,Daily ICU occupancy,2023-03-30,0.0
+Luxembourg,Weekly new hospital admissions,2020-03-15,20.0682990469432
+Luxembourg,Weekly new ICU admissions,2020-03-15,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2020-03-22,87.29710085420292
+Luxembourg,Weekly new ICU admissions,2020-03-22,11.03756447581876
+Luxembourg,Weekly new hospital admissions,2020-03-29,134.45760361451943
+Luxembourg,Weekly new ICU admissions,2020-03-29,14.04780933286024
+Luxembourg,Weekly new hospital admissions,2020-04-05,97.33125037767451
+Luxembourg,Weekly new ICU admissions,2020-04-05,10.0341495234716
+Luxembourg,Weekly new hospital admissions,2020-04-12,65.2219719025654
+Luxembourg,Weekly new ICU admissions,2020-04-12,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2020-04-19,67.22880180725973
+Luxembourg,Weekly new ICU admissions,2020-04-19,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2020-04-26,47.16050276031652
+Luxembourg,Weekly new ICU admissions,2020-04-26,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2020-05-03,19.06488409459604
+Luxembourg,Weekly new ICU admissions,2020-05-03,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2020-05-10,14.04780933286024
+Luxembourg,Weekly new ICU admissions,2020-05-10,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2020-05-24,10.0341495234716
+Luxembourg,Weekly new hospital admissions,2020-05-31,3.0102448570414797
+Luxembourg,Weekly new ICU admissions,2020-05-31,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-06-07,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2020-06-14,4.013659809388639
+Luxembourg,Weekly new ICU admissions,2020-06-14,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-06-21,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-06-28,7.02390466643012
+Luxembourg,Weekly new ICU admissions,2020-06-28,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-07-26,36.12293828449776
+Luxembourg,Weekly new ICU admissions,2020-07-26,6.020489714082959
+Luxembourg,Weekly new hospital admissions,2020-08-02,31.105863522761965
+Luxembourg,Weekly new ICU admissions,2020-08-02,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-08-09,29.09903361806764
+Luxembourg,Weekly new ICU admissions,2020-08-09,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-08-16,15.0512242852074
+Luxembourg,Weekly new ICU admissions,2020-08-16,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-08-23,8.027319618777279
+Luxembourg,Weekly new ICU admissions,2020-08-23,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-08-30,10.0341495234716
+Luxembourg,Weekly new ICU admissions,2020-08-30,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-09-06,8.027319618777279
+Luxembourg,Weekly new ICU admissions,2020-09-06,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-09-13,11.03756447581876
+Luxembourg,Weekly new hospital admissions,2020-09-20,7.02390466643012
+Luxembourg,Weekly new ICU admissions,2020-09-20,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-09-27,19.06488409459604
+Luxembourg,Weekly new ICU admissions,2020-09-27,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2020-10-04,27.09220371337332
+Luxembourg,Weekly new ICU admissions,2020-10-04,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2020-10-11,32.109278475109114
+Luxembourg,Weekly new ICU admissions,2020-10-11,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2020-10-18,55.1878223790938
+Luxembourg,Weekly new ICU admissions,2020-10-18,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2020-10-25,132.4507737098251
+Luxembourg,Weekly new ICU admissions,2020-10-25,22.07512895163752
+Luxembourg,Weekly new hospital admissions,2020-11-01,180.61469142248876
+Luxembourg,Weekly new ICU admissions,2020-11-01,28.09561866572048
+Luxembourg,Weekly new hospital admissions,2020-11-08,123.42003913870067
+Luxembourg,Weekly new ICU admissions,2020-11-08,21.07171399929036
+Luxembourg,Weekly new hospital admissions,2020-11-15,142.4849232332967
+Luxembourg,Weekly new ICU admissions,2020-11-15,20.0682990469432
+Luxembourg,Weekly new hospital admissions,2020-11-22,125.426869043395
+Luxembourg,Weekly new ICU admissions,2020-11-22,21.07171399929036
+Luxembourg,Weekly new hospital admissions,2020-11-29,121.41320923400635
+Luxembourg,Weekly new ICU admissions,2020-11-29,20.0682990469432
+Luxembourg,Weekly new hospital admissions,2020-12-06,124.42345409104786
+Luxembourg,Weekly new ICU admissions,2020-12-06,15.0512242852074
+Luxembourg,Weekly new hospital admissions,2020-12-13,156.5327325661569
+Luxembourg,Weekly new ICU admissions,2020-12-13,19.06488409459604
+Luxembourg,Weekly new hospital admissions,2020-12-20,104.35515504410463
+Luxembourg,Weekly new ICU admissions,2020-12-20,13.04439438051308
+Luxembourg,Weekly new hospital admissions,2020-12-27,80.2731961877728
+Luxembourg,Weekly new ICU admissions,2020-12-27,6.020489714082959
+Luxembourg,Weekly new hospital admissions,2021-01-03,27.09220371337332
+Luxembourg,Weekly new ICU admissions,2021-01-03,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2021-01-10,56.19123733144096
+Luxembourg,Weekly new ICU admissions,2021-01-10,9.03073457112444
+Luxembourg,Weekly new hospital admissions,2021-01-17,50.170747617358
+Luxembourg,Weekly new ICU admissions,2021-01-17,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2021-01-24,48.163917712663675
+Luxembourg,Weekly new ICU admissions,2021-01-24,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2021-01-31,48.163917712663675
+Luxembourg,Weekly new ICU admissions,2021-01-31,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2021-02-07,53.180992474399474
+Luxembourg,Weekly new ICU admissions,2021-02-07,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2021-02-14,51.17416256970516
+Luxembourg,Weekly new ICU admissions,2021-02-14,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2021-02-21,71.24246161664836
+Luxembourg,Weekly new ICU admissions,2021-02-21,9.03073457112444
+Luxembourg,Weekly new hospital admissions,2021-02-28,76.25953637838414
+Luxembourg,Weekly new ICU admissions,2021-02-28,9.03073457112444
+Luxembourg,Weekly new hospital admissions,2021-03-07,100.341495234716
+Luxembourg,Weekly new ICU admissions,2021-03-07,19.06488409459604
+Luxembourg,Weekly new hospital admissions,2021-03-14,84.28685599716144
+Luxembourg,Weekly new ICU admissions,2021-03-14,12.040979428165919
+Luxembourg,Weekly new hospital admissions,2021-03-21,85.2902709495086
+Luxembourg,Weekly new ICU admissions,2021-03-21,11.03756447581876
+Luxembourg,Weekly new hospital admissions,2021-03-28,91.31076066359154
+Luxembourg,Weekly new ICU admissions,2021-03-28,14.04780933286024
+Luxembourg,Weekly new hospital admissions,2021-04-04,106.36198494879895
+Luxembourg,Weekly new ICU admissions,2021-04-04,24.081958856331838
+Luxembourg,Weekly new hospital admissions,2021-04-11,109.37222980584045
+Luxembourg,Weekly new ICU admissions,2021-04-11,21.07171399929036
+Luxembourg,Weekly new hospital admissions,2021-04-18,81.27661114011997
+Luxembourg,Weekly new ICU admissions,2021-04-18,16.054639237554557
+Luxembourg,Weekly new hospital admissions,2021-04-25,81.27661114011997
+Luxembourg,Weekly new ICU admissions,2021-04-25,11.03756447581876
+Luxembourg,Weekly new hospital admissions,2021-05-02,60.204897140829594
+Luxembourg,Weekly new ICU admissions,2021-05-02,15.0512242852074
+Luxembourg,Weekly new hospital admissions,2021-05-09,59.201482188482444
+Luxembourg,Weekly new ICU admissions,2021-05-09,9.03073457112444
+Luxembourg,Weekly new hospital admissions,2021-05-16,50.170747617358
+Luxembourg,Weekly new ICU admissions,2021-05-16,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2021-05-23,16.054639237554557
+Luxembourg,Weekly new ICU admissions,2021-05-23,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2021-05-30,18.06146914224888
+Luxembourg,Weekly new ICU admissions,2021-05-30,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2021-06-06,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2021-06-06,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2021-06-13,10.0341495234716
+Luxembourg,Weekly new ICU admissions,2021-06-13,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2021-06-20,3.0102448570414797
+Luxembourg,Weekly new ICU admissions,2021-06-20,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2021-06-27,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2021-07-04,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2021-07-11,10.0341495234716
+Luxembourg,Weekly new ICU admissions,2021-07-11,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2021-07-18,18.06146914224888
+Luxembourg,Weekly new ICU admissions,2021-07-18,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2021-07-25,25.085373808679
+Luxembourg,Weekly new ICU admissions,2021-07-25,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2021-08-01,23.07854390398468
+Luxembourg,Weekly new ICU admissions,2021-08-01,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2021-08-08,13.04439438051308
+Luxembourg,Weekly new ICU admissions,2021-08-08,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2021-08-15,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2021-08-15,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2021-08-22,18.06146914224888
+Luxembourg,Weekly new ICU admissions,2021-08-22,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2021-08-29,32.109278475109114
+Luxembourg,Weekly new ICU admissions,2021-08-29,6.020489714082959
+Luxembourg,Weekly new hospital admissions,2021-09-05,25.085373808679
+Luxembourg,Weekly new ICU admissions,2021-09-05,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2021-09-12,25.085373808679
+Luxembourg,Weekly new ICU admissions,2021-09-12,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2021-09-19,14.04780933286024
+Luxembourg,Weekly new ICU admissions,2021-09-19,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2021-09-26,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2021-09-26,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2021-10-03,16.054639237554557
+Luxembourg,Weekly new ICU admissions,2021-10-03,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2021-10-10,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2021-10-10,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2021-10-17,10.0341495234716
+Luxembourg,Weekly new ICU admissions,2021-10-17,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2021-10-24,20.0682990469432
+Luxembourg,Weekly new ICU admissions,2021-10-24,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2021-10-31,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2021-10-31,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2021-11-07,31.105863522761965
+Luxembourg,Weekly new ICU admissions,2021-11-07,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2021-11-14,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2021-11-14,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2021-11-21,39.133183141539234
+Luxembourg,Weekly new ICU admissions,2021-11-21,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2021-11-28,43.146842950927876
+Luxembourg,Weekly new ICU admissions,2021-11-28,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2021-12-05,58.19806723613528
+Luxembourg,Weekly new ICU admissions,2021-12-05,16.054639237554557
+Luxembourg,Weekly new hospital admissions,2021-12-12,54.18440742674664
+Luxembourg,Weekly new ICU admissions,2021-12-12,14.04780933286024
+Luxembourg,Weekly new hospital admissions,2021-12-19,58.19806723613528
+Luxembourg,Weekly new ICU admissions,2021-12-19,10.0341495234716
+Luxembourg,Weekly new hospital admissions,2021-12-26,40.1365980938864
+Luxembourg,Weekly new ICU admissions,2021-12-26,9.03073457112444
+Luxembourg,Weekly new hospital admissions,2022-01-02,52.17757752205232
+Luxembourg,Weekly new ICU admissions,2022-01-02,14.04780933286024
+Luxembourg,Weekly new hospital admissions,2022-01-09,56.19123733144096
+Luxembourg,Weekly new ICU admissions,2022-01-09,8.027319618777279
+Luxembourg,Weekly new hospital admissions,2022-01-16,54.18440742674664
+Luxembourg,Weekly new ICU admissions,2022-01-16,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2022-01-23,57.194652283788116
+Luxembourg,Weekly new ICU admissions,2022-01-23,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2022-01-30,56.19123733144096
+Luxembourg,Weekly new ICU admissions,2022-01-30,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-02-06,58.19806723613528
+Luxembourg,Weekly new ICU admissions,2022-02-06,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2022-02-13,49.16733266501083
+Luxembourg,Weekly new ICU admissions,2022-02-13,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2022-02-20,31.105863522761965
+Luxembourg,Weekly new ICU admissions,2022-02-20,6.020489714082959
+Luxembourg,Weekly new hospital admissions,2022-02-27,22.07512895163752
+Luxembourg,Weekly new ICU admissions,2022-02-27,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-03-06,25.085373808679
+Luxembourg,Weekly new ICU admissions,2022-03-06,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-03-13,28.09561866572048
+Luxembourg,Weekly new ICU admissions,2022-03-13,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-03-20,32.109278475109114
+Luxembourg,Weekly new ICU admissions,2022-03-20,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-03-27,27.09220371337332
+Luxembourg,Weekly new ICU admissions,2022-03-27,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2022-04-03,29.09903361806764
+Luxembourg,Weekly new ICU admissions,2022-04-03,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-04-10,29.09903361806764
+Luxembourg,Weekly new ICU admissions,2022-04-10,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2022-04-17,28.09561866572048
+Luxembourg,Weekly new ICU admissions,2022-04-17,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2022-04-24,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2022-04-24,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-05-01,13.04439438051308
+Luxembourg,Weekly new ICU admissions,2022-05-01,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-05-08,21.07171399929036
+Luxembourg,Weekly new hospital admissions,2022-05-15,15.0512242852074
+Luxembourg,Weekly new ICU admissions,2022-05-15,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-05-22,14.04780933286024
+Luxembourg,Weekly new ICU admissions,2022-05-22,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-05-29,10.0341495234716
+Luxembourg,Weekly new hospital admissions,2022-06-05,3.0102448570414797
+Luxembourg,Weekly new ICU admissions,2022-06-05,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-06-12,15.0512242852074
+Luxembourg,Weekly new ICU admissions,2022-06-12,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-06-19,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2022-06-19,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-06-26,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2022-06-26,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-07-03,22.07512895163752
+Luxembourg,Weekly new hospital admissions,2022-07-10,33.11269342745628
+Luxembourg,Weekly new ICU admissions,2022-07-10,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-07-17,31.105863522761965
+Luxembourg,Weekly new ICU admissions,2022-07-17,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-07-24,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2022-07-24,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-07-31,20.0682990469432
+Luxembourg,Weekly new ICU admissions,2022-07-31,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-08-07,15.0512242852074
+Luxembourg,Weekly new ICU admissions,2022-08-07,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-08-14,14.04780933286024
+Luxembourg,Weekly new ICU admissions,2022-08-14,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-08-21,16.054639237554557
+Luxembourg,Weekly new ICU admissions,2022-08-21,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-08-28,8.027319618777279
+Luxembourg,Weekly new ICU admissions,2022-08-28,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-09-04,15.0512242852074
+Luxembourg,Weekly new ICU admissions,2022-09-04,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-09-11,5.0170747617358
+Luxembourg,Weekly new ICU admissions,2022-09-11,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-09-18,13.04439438051308
+Luxembourg,Weekly new hospital admissions,2022-09-25,14.04780933286024
+Luxembourg,Weekly new hospital admissions,2022-10-02,26.08878876102616
+Luxembourg,Weekly new ICU admissions,2022-10-02,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2022-10-09,28.09561866572048
+Luxembourg,Weekly new ICU admissions,2022-10-09,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-10-16,27.09220371337332
+Luxembourg,Weekly new ICU admissions,2022-10-16,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-10-23,34.11610837980344
+Luxembourg,Weekly new ICU admissions,2022-10-23,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2022-10-30,26.08878876102616
+Luxembourg,Weekly new ICU admissions,2022-10-30,4.013659809388639
+Luxembourg,Weekly new hospital admissions,2022-11-06,11.03756447581876
+Luxembourg,Weekly new hospital admissions,2022-11-13,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2022-11-13,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2022-11-20,23.07854390398468
+Luxembourg,Weekly new ICU admissions,2022-11-20,5.0170747617358
+Luxembourg,Weekly new hospital admissions,2022-11-27,20.0682990469432
+Luxembourg,Weekly new ICU admissions,2022-11-27,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2022-12-04,20.0682990469432
+Luxembourg,Weekly new ICU admissions,2022-12-04,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-12-11,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2022-12-11,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-12-18,46.15708780796936
+Luxembourg,Weekly new ICU admissions,2022-12-18,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2022-12-25,28.09561866572048
+Luxembourg,Weekly new ICU admissions,2022-12-25,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2023-01-01,17.058054189901718
+Luxembourg,Weekly new ICU admissions,2023-01-01,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2023-01-08,22.07512895163752
+Luxembourg,Weekly new ICU admissions,2023-01-08,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2023-01-15,13.04439438051308
+Luxembourg,Weekly new ICU admissions,2023-01-15,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2023-01-22,11.03756447581876
+Luxembourg,Weekly new ICU admissions,2023-01-22,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2023-01-29,6.020489714082959
+Luxembourg,Weekly new ICU admissions,2023-01-29,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2023-02-05,17.058054189901718
+Luxembourg,Weekly new ICU admissions,2023-02-05,0.0
+Luxembourg,Weekly new hospital admissions,2023-02-12,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2023-02-12,0.0
+Luxembourg,Weekly new hospital admissions,2023-02-19,13.04439438051308
+Luxembourg,Weekly new ICU admissions,2023-02-19,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2023-02-26,21.07171399929036
+Luxembourg,Weekly new ICU admissions,2023-02-26,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2023-03-05,24.081958856331838
+Luxembourg,Weekly new ICU admissions,2023-03-05,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2023-03-12,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2023-03-12,0.0
+Luxembourg,Weekly new hospital admissions,2023-03-26,19.06488409459604
+Luxembourg,Weekly new ICU admissions,2023-03-26,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-05-17,12.040979428165919
+Luxembourg,Weekly new ICU admissions,2020-05-17,2.006829904694319
+Luxembourg,Weekly new hospital admissions,2020-07-05,17.058054189901718
+Luxembourg,Weekly new ICU admissions,2020-07-05,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-07-12,30.1024485704148
+Luxembourg,Weekly new ICU admissions,2020-07-12,7.02390466643012
+Luxembourg,Weekly new hospital admissions,2020-07-19,26.08878876102616
+Luxembourg,Weekly new ICU admissions,2020-07-19,3.0102448570414797
+Luxembourg,Weekly new hospital admissions,2023-03-19,15.0512242852074
+Luxembourg,Weekly new ICU admissions,2023-03-19,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-02-12,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-03-01,2.006829904694319
+Luxembourg,Weekly new ICU admissions,2020-03-01,1.0034149523471596
+Luxembourg,Weekly new hospital admissions,2020-03-08,7.02390466643012

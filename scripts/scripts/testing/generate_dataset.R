@@ -20,19 +20,11 @@ Sys.setlocale("LC_TIME", "en_US")
 # Utils
 source("smoother.R")
 
-# Create timestamps
-now_uk <- now(tzone = "Europe/London")
-ts <- now_uk %>% str_replace_all("[-:]", "") %>% str_replace_all(" ", "-")
-update_time <- floor_date(now(tzone = "Europe/London"), unit = "hours") %>%
-    format.Date("%B %e, %Y %H:%M") %>%
-    str_squish()
-
 # Offset date for grapher dataset
 origin_date <- ymd("2020-01-21")
 
 population <- fread("../../input/un/population_latest.csv")
 population <- population[, .(Country = entity, Population = population)]
-world_population <- population[Country == "World", Population]
 
 # Find sheets marked as Collate = TRUE in METADATA
 gs4_auth(email = CONFIG$google_credentials_email)
@@ -55,9 +47,6 @@ confirmed_cases <- fread("https://covid.ourworldindata.org/data/owid-covid-data.
 setnames(confirmed_cases, c("date", "location"), c("Date", "Country"))
 confirmed_cases[, Date := ymd(Date)]
 
-# Exclude countries from positive rate calculations
-positive_rate_exclusions <- c("Brazil")
-
 # Process each country's data
 parse_country <- function(sheet_name) {
     message(sheet_name)
@@ -65,7 +54,7 @@ parse_country <- function(sheet_name) {
     stopifnot(length(is_automated) == 1)
 
     if (is_automated) {
-        filepath <- sprintf("automated_sheets/%s.csv", sheet_name)
+        filepath <- sprintf("../../output/testing/main_data/%s.csv", sheet_name)
         collated <- suppressMessages(read_csv(filepath))
         stopifnot(all(!is.na(collated$Date)))
     } else {
@@ -75,10 +64,6 @@ parse_country <- function(sheet_name) {
             max_tries = 10,
             interval = 20
         )
-    }
-
-    if ("Testing type" %in% names(collated)) {
-        stop(sprintf("The `Testing type` column is deprecated. Remove it from the %s data.", sheet_name))
     }
     
     stopifnot(length(table(collated$Units)) == 1)
@@ -156,38 +141,35 @@ parse_country <- function(sheet_name) {
     }
 
     # Add number of observations per country
-    collated <- collated %>%
-        mutate(`Number of observations` = 1:nrow(collated))
+    collated <- collated %>% mutate(`Number of observations` = 1:nrow(collated))
 
     collated <- add_smoothed_series(collated)
 
     setDT(collated)
 
-    if (!collated$Country[1] %in% positive_rate_exclusions) {
-        collated <- merge(collated, confirmed_cases, by = c("Country", "Date"), all.x = TRUE)
+    collated <- merge(collated, confirmed_cases, by = c("Country", "Date"), all.x = TRUE)
 
-        if ("Positive rate" %in% names(collated)) {
-            collated$pr_method <- "official"
-            setnames(collated, "Positive rate", "Short-term positive rate")
-            stopifnot(min(collated$`Short-term positive rate`, na.rm = TRUE) >= 0)
-            stopifnot(max(collated$`Short-term positive rate`, na.rm = TRUE) <= 1)
-        } else {
-            collated$pr_method <- "OWID"
-            collated[, `Short-term positive rate` := new_cases_smoothed / `7-day smoothed daily change`]
-            collated[`Short-term positive rate` < 0 | `Short-term positive rate` > 1, `Short-term positive rate` := NA]
-        }
-
-        # Tests per case = inverse of positive rate
-        collated[, `Short-term tests per case` := ifelse(`Short-term positive rate` > 0, round(1 / `Short-term positive rate`, 1), NA_integer_)]
-        collated[, `Short-term positive rate` := round(`Short-term positive rate`, 3)]
-
-        # Cumulative versions based on JHU data
-        collated[, `Cumulative positive rate` := round(total_cases / `Cumulative total`, 3)]
-        collated[`Cumulative positive rate` < 0 | `Cumulative positive rate` > 1, `Cumulative positive rate` := NA]
-        collated[, `Cumulative tests per case` := ifelse(`Cumulative positive rate` > 0, round(1 / `Cumulative positive rate`, 1), NA_integer_)]
-
-        collated[, c("total_cases", "new_cases_smoothed") := NULL]
+    if ("Positive rate" %in% names(collated)) {
+        collated$pr_method <- "official"
+        setnames(collated, "Positive rate", "Short-term positive rate")
+        stopifnot(min(collated$`Short-term positive rate`, na.rm = TRUE) >= 0)
+        stopifnot(max(collated$`Short-term positive rate`, na.rm = TRUE) <= 1)
+    } else {
+        collated$pr_method <- "OWID"
+        collated[, `Short-term positive rate` := new_cases_smoothed / `7-day smoothed daily change`]
+        collated[`Short-term positive rate` < 0 | `Short-term positive rate` > 1, `Short-term positive rate` := NA]
     }
+
+    # Tests per case = inverse of positive rate
+    collated[, `Short-term tests per case` := ifelse(`Short-term positive rate` > 0, round(1 / `Short-term positive rate`, 1), NA_integer_)]
+    collated[, `Short-term positive rate` := round(`Short-term positive rate`, 4)]
+
+    # Cumulative versions based on JHU data
+    collated[, `Cumulative positive rate` := round(total_cases / `Cumulative total`, 3)]
+    collated[`Cumulative positive rate` < 0 | `Cumulative positive rate` > 1, `Cumulative positive rate` := NA]
+    collated[, `Cumulative tests per case` := ifelse(`Cumulative positive rate` > 0, round(1 / `Cumulative positive rate`, 1), NA_integer_)]
+
+    collated[, c("total_cases", "new_cases_smoothed") := NULL]
 
     # Sanity checks
     if (any(collated$`Daily change in cumulative total` == 0, na.rm = TRUE)) {
@@ -215,21 +197,6 @@ source("testing_data_corrections.R")
 # Prepare data for post-processing
 collated[, Entity := paste(Country, "-", Units)]
 setorder(collated, Country, Units, Date)
-
-# Calculate population coverage
-pop_df <- collated[, .(update_date = max(Date)), c("Country", "Population")]
-world_population_covered_1d <- (100 * sum(pop_df[update_date >= today() - 1, Population]) / world_population) %>%
-    round() %>% as.character()
-world_population_covered_7d <- (100 * sum(pop_df[update_date >= today() - 7, Population]) / world_population) %>%
-    round() %>% as.character()
-world_population_covered_anytime <- (100 * sum(pop_df[, Population]) / world_population) %>%
-    round() %>% as.character()
-collated[, Population := NULL]
-date_1d <- format.Date(today() - 1, "%e %B %Y") %>% str_squish()
-date_7d <- format.Date(today() - 7, "%e %B %Y") %>% str_squish()
-
-# Change URLs and Notes based on audit
-source("replace_audited_metadata.R")
 
 # Add ISO codes
 add_iso_codes <- function(df) {
@@ -259,51 +226,21 @@ grapher <- collated[, .(
     testing_observations = `Number of observations`
 )]
 
-# How many days old is the observation
-# For each country-date it subtracts the date of the observation
-# from the date of the most recent observation in the dataset.
-most_recent_obs_date <- grapher[, max(date)]
-grapher[!is.na(total_tests) | !is.na(new_tests), days_since_observation := as.integer(most_recent_obs_date - date)]
-
-# Add attempted countries
-source("attempts.R")
-
-# Observations found, with zero for attempted countries
-grapher[, observations_found := testing_observations]
-grapher <- rbindlist(list(
-    grapher,
-    data.table(
-        country = attempts$Entity,
-        date = max(grapher$date),
-        observations_found = 0
-    )
-), use.names = TRUE, fill = TRUE)
-
 # Convert date to fake year format for OWID grapher
 grapher[, date := as.integer(difftime(date, origin_date, units = "days"))]
 setnames(grapher, c("date", "country"), c("Year", "Country"))
 
-# Remove secondary series
-secondary_series <- fread("../../input/owid/secondary_testing_series.csv")
-for (i in 1:nrow(secondary_series)) {
-    sec_country <- secondary_series[i, location]
-    sec_annotation <- secondary_series[i, tests_units]
-    concatenated <- sprintf("%s, %s", sec_country, sec_annotation)
-    grapher[Country == sec_country & annotation == sec_annotation, Country := concatenated]
-    grapher[Country == concatenated, annotation := NA_character_]
-}
-
 copy_paste_annotation <- unique(grapher[!is.na(annotation), .(Country, annotation)])
 copy_paste_annotation <- paste(copy_paste_annotation$Country, copy_paste_annotation$annotation, sep = ": ")
-writeLines(copy_paste_annotation, "grapher_annotations.txt")
+writeLines(copy_paste_annotation, "../../output/testing/grapher_annotations.txt")
 
 # Write grapher file
 fwrite(grapher, "../../grapher/COVID testing time series data.csv")
 
 # Make public version
 public <- copy(collated)
-public[, c("Country", "Units") := NULL]
-public_latest <- merge(public, metadata)
+public[, c("Country", "Units", "Population") := NULL]
+public_latest <- merge(public, metadata, all.x = TRUE)
 public_latest[, c("Sheet", "Ready for review", "Collate") := NULL]
 setorder(public_latest, Entity, -Date)
 public_latest <- public_latest[, .SD[1], Entity]
@@ -328,18 +265,6 @@ rio::export(public_latest, "../../../public/data/testing/covid-testing-latest-da
 fwrite(public, "../../../public/data/testing/covid-testing-all-observations.csv")
 rio::export(public, "../../../public/data/testing/covid-testing-all-observations.xlsx", overwrite=TRUE)
 
-# Make sanity check graph
-sanity_plot <- ggplot(data = public[!is.na(`Cumulative total`)],
-       aes(x = Date, y = `Cumulative total`, group = Entity)) +
-    geom_line(alpha = 0.5, color="black") +
-    scale_y_log10()
-print(sanity_plot)
-
 # Timestamp
-tm <- as.POSIXlt(Sys.time(), "UTC")
-tm <- strftime(tm, "%Y-%m-%dT%H:%M:%S")
-writeLines(tm, "../../../public/data/internal/timestamp/owid-covid-data-last-updated-timestamp-test.txt")
-
-message("-----")
-message(update_time)
-if (any(public_latest$`Short-term positive rate` > 0.9, na.rm = TRUE)) warning("POSITIVE RATE ABOVE >90%")
+ts <- strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")
+writeLines(ts, "../../../public/data/internal/timestamp/owid-covid-data-last-updated-timestamp-test.txt")

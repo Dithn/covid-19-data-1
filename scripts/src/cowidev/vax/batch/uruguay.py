@@ -1,8 +1,8 @@
 import re
+import numpy as np
 import pandas as pd
 
-from cowidev.vax.utils.files import export_metadata_age, export_metadata_manufacturer
-from cowidev.utils import paths
+from cowidev.vax.utils.base import CountryVaxBase
 
 
 vaccines_mapping = {
@@ -12,7 +12,7 @@ vaccines_mapping = {
 }
 
 
-class Uruguay:
+class Uruguay(CountryVaxBase):
     def __init__(self):
         self.source_url = "https://raw.githubusercontent.com/3dgiordano/covid-19-uy-vacc-data/main/data/Uruguay.csv"
         self.source_url_age = "https://raw.githubusercontent.com/3dgiordano/covid-19-uy-vacc-data/main/data/Age.csv"
@@ -23,7 +23,7 @@ class Uruguay:
         df = pd.read_csv(self.source_url)
         # Load age data
         regex = r"(date|coverage_(people|fully)_\d+_\d+)"
-        df_age = df_age = pd.read_csv(self.source_url_age, usecols=lambda x: re.match(regex, x))
+        df_age = pd.read_csv(self.source_url_age, usecols=lambda x: re.match(regex, x))
         return df, df_age
 
     def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
@@ -32,7 +32,7 @@ class Uruguay:
         last_people_vaccinated = df.sort_values("date").people_vaccinated.values[-1]
         df = df[df.people_vaccinated <= last_people_vaccinated]
 
-        return df[
+        df = df[
             [
                 "location",
                 "date",
@@ -44,6 +44,12 @@ class Uruguay:
                 "total_boosters",
             ]
         ]
+
+        # Remove outliers
+        df = df[~df["date"].isin(["2023-03-11"])]
+
+        df = df.pipe(self.make_monotonic)
+        return df
 
     def pipeline_manufacturer(self, df: pd.DataFrame) -> pd.DataFrame:
         return (
@@ -116,32 +122,30 @@ class Uruguay:
             .sort_values(["location", "date", "age_group_min"])
         )
 
-    def to_csv(self):
+    def export(self):
         # Load data
-        df, df_age = self.read()
+        df_base, df_age = self.read()
         # Export main
-        df.pipe(self.pipeline).to_csv(paths.out_vax(self.location), index=False)
-        # Export manufacturer data
-        df_man = df.pipe(self.pipeline_manufacturer)
-        df_man.to_csv(paths.out_vax(self.location, manufacturer=True), index=False)
-        export_metadata_manufacturer(
-            df_man,
-            "Ministry of Health via vacuna.uy",
-            self.source_url,
-        )
-        # Export age data
+        df = df_base.pipe(self.pipeline)
+        # Manufacturer data
+        df_man = df_base.pipe(self.pipeline_manufacturer)
+        # Age data
         df_age = df_age.pipe(self.pipeline_age)
-        df_age.to_csv(paths.out_vax(self.location, age=True), index=False)
-        export_metadata_age(
-            df_age,
-            "Ministry of Health via vacuna.uy",
-            self.source_url_age,
+        # Export
+        self.export_datafile(
+            df=df,
+            df_manufacturer=df_man,
+            df_age=df_age,
+            meta_age={
+                "source_name": "Ministry of Health via vacuna.uy",
+                "source_url": self.source_url_age,
+            },
+            meta_manufacturer={
+                "source_name": "Ministry of Health via vacuna.uy",
+                "source_url": self.source_url,
+            },
         )
 
 
 def main():
-    Uruguay().to_csv()
-
-
-if __name__ == "__main__":
-    main()
+    Uruguay().export()

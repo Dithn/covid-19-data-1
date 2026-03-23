@@ -3,11 +3,9 @@ import json
 
 import pandas as pd
 
-from cowidev.utils.clean import clean_count, clean_date_series
-from cowidev.utils.web import get_soup
+from cowidev.utils import get_soup, clean_count, clean_date_series
 from cowidev.vax.utils.incremental import increment
-from cowidev.vax.utils.files import export_metadata_manufacturer
-from cowidev.utils import paths
+from cowidev.vax.utils.base import CountryVaxBase
 
 
 VACCINE_PROTOCOLS = {
@@ -25,7 +23,7 @@ VACCINE_MAPPING = {
 }
 
 
-class Iceland:
+class Iceland(CountryVaxBase):
     location: str = "Iceland"
     source_url: str = "https://e.infogram.com/c3bc3569-c86d-48a7-9d4c-377928f102bf"
     source_url_ref: str = "https://www.covid.is/tolulegar-upplysingar-boluefni"
@@ -97,7 +95,7 @@ class Iceland:
         data, df_manuf = self.read()
         # Main
         increment(
-            location="Iceland",
+            location=self.location,
             total_vaccinations=data["total_vaccinations"],
             people_vaccinated=data["people_vaccinated"],
             people_fully_vaccinated=data["people_fully_vaccinated"],
@@ -107,14 +105,15 @@ class Iceland:
             vaccine=", ".join(sorted(VACCINE_MAPPING.values())),
         )
         # By manufacturer
-        df_manuf = df_manuf.pipe(self.pipeline_manufacturer)
-        df_manuf.to_csv(paths.out_vax("Iceland", manufacturer=True), index=False)
-        export_metadata_manufacturer(df_manuf, "Ministry of Health", self.source_url)
+        df_manuf = df_manuf.pipe(self.pipeline_manufacturer).dropna(subset=["date"])
+        self.export_datafile(
+            df_manufacturer=df_manuf,
+            meta_manufacturer={
+                "source_name": "Ministry of Health",
+                "source_url": self.source_url,
+            },
+        )
 
 
 def main():
     Iceland().export()
-
-
-if __name__ == "__main__":
-    main()

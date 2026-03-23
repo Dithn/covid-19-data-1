@@ -4,7 +4,6 @@ from pathlib import Path
 
 import pandas as pd
 from bs4 import UnicodeDammit
-from cowidev.utils import paths
 
 
 STATIC_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "_static"))
@@ -71,14 +70,6 @@ def load_data(data_filename: str, file_ext: str = "csv"):
     return df
 
 
-def export_metadata_manufacturer(df: pd.DataFrame, source_name: str, source_url: str):
-    export_metadata(df, source_name, source_url, paths.SCRIPTS.OUTPUT_VAX_META_MANUFACT)
-
-
-def export_metadata_age(df: pd.DataFrame, source_name: str, source_url: str):
-    export_metadata(df, source_name, source_url, paths.SCRIPTS.OUTPUT_VAX_META_AGE)
-
-
 def export_metadata(df: pd.DataFrame, source_name: str, source_url: str, output_path: str):
     if "location" not in df or "date" not in df:
         raise ValueError("df must have columns `location` and `date`.")
@@ -97,7 +88,6 @@ def export_metadata(df: pd.DataFrame, source_name: str, source_url: str, output_
         df_current = pd.read_csv(output_path)
         df_current = df_current.loc[~df_current.location.isin(df.location)]
         df = pd.concat([df_current, df])
-
     df.sort_values("location")[["location", "last_observation_date", "source_name", "source_url"]].to_csv(
         output_path, index=False
     )

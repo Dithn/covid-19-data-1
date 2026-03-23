@@ -1,8 +1,10 @@
+from dataclasses import dataclass, field
 from datetime import datetime
-from dataclasses import dataclass
 from typing import Callable
 
 import pandas as pd
+
+from cowidev.utils.s3 import obj_from_s3
 
 
 @dataclass
@@ -17,6 +19,7 @@ class Grapheriser:
     suffixes: list = None
     function_input: Callable = lambda x: x
     function_output: Callable = lambda x: x
+    columns_non_fillna_0: list = field(default_factory=lambda: [])
 
     @property
     def columns_metadata(self) -> list:
@@ -42,11 +45,16 @@ class Grapheriser:
             suffizes = [self.suffixes]
         return ["" if s is None else s for s in suffizes]
 
+    @property
+    def do_pivot(self):
+        return self.pivot_column is not None and self.pivot_values is not None
+
     def columns_data(self, df: pd.DataFrame) -> list:
         return [col for col in df.columns if col not in self.columns_metadata]
 
     def pipe_pivot(self, df: pd.DataFrame) -> pd.DataFrame:
-        if self.pivot_column is not None and self.pivot_values is not None:
+        """Pivot values of columns of interest."""
+        if self.do_pivot:
             return df.pivot(
                 index=[self.location, self.date],
                 columns=self.pivot_column,
@@ -55,6 +63,7 @@ class Grapheriser:
         return df
 
     def pipe_metadata_columns(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Rename columns and convert date to Year grapher metric."""
         df = (
             df.rename(
                 columns={
@@ -67,6 +76,13 @@ class Grapheriser:
         return df
 
     def pipe_normalize_columns(self, df):
+        """Normalize column names.
+
+        If columns are multiindex (of length 2), use first and second positions to create new column name.
+
+        This only applies if pivot has been done, i.e. `pivot_column` and `pivot_values` are not None.
+        """
+
         def _normalize_column(column):
             if len(column) != 2:
                 raise ValueError("Column is expected to have length 2")
@@ -76,10 +92,15 @@ class Grapheriser:
                 column_new = column[0]
             return column_new
 
-        df.columns = [_normalize_column(xx) for xx in df.columns]
+        if self.do_pivot:
+            df.columns = [_normalize_column(xx) for xx in df.columns]
         return df
 
     def pipe_order_columns(self, df: pd.DataFrame) -> pd.DataFrame:
+        """Re-order the columns of the dataframe.
+
+        First columns are [Country, Year]
+        """
         col_order = self.columns_metadata + self.columns_data(df)
         df = df[col_order].sort_values(col_order)
         return df
@@ -89,12 +110,14 @@ class Grapheriser:
         if self.fillna:
             df[columns_data] = df.groupby(["Country"])[columns_data].fillna(method="ffill")
         if self.fillna_0:
-            df[columns_data] = df[columns_data].fillna(0)
+            cols_fillna0 = [c for c in columns_data if c not in self.columns_non_fillna_0]
+            df[cols_fillna0] = df[cols_fillna0].fillna(0)
         return df
 
     def read(self, input_path: str):
-        df = pd.read_csv(input_path, parse_dates=[self.date])
-        return df
+        if input_path.startswith("s3://"):
+            return obj_from_s3(input_path, parse_dates=[self.date])
+        return pd.read_csv(input_path, parse_dates=[self.date])
 
     def pipeline(self, df: pd.DataFrame):
         df = (

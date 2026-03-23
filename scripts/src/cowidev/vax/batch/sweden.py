@@ -1,202 +1,112 @@
-import datetime
-import requests
+
 
 import pandas as pd
 
-from cowidev.utils.clean import clean_count, clean_date
-from cowidev.vax.utils.utils import make_monotonic
-from cowidev.utils import paths
+from cowidev.utils import get_soup
+from cowidev.utils.clean import clean_date, clean_date_series
+from cowidev.vax.utils.base import CountryVaxBase
+from cowidev.vax.utils.utils import build_vaccine_timeline, make_monotonic
+from cowidev.utils.web.download import read_xlsx_from_url
 
 
-class Sweden(object):
+# TODO: change source: https://www.fohm.se/folkhalsorapportering-statistik/statistikdatabaser-och-visualisering/vaccinationsstatistik/statistik-for-vaccination-mot-covid-19/
+class Sweden(CountryVaxBase):
     def __init__(self):
         """Constructor."""
-        self.source_url_daily = (
-            "https://fohm.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/"
-            "statistik-over-registrerade-vaccinationer-covid-19/"
-        )
-        self.source_url_weekly = (
-            "https://fohm.maps.arcgis.com/sharing/rest/content/items/fc749115877443d29c2a49ea9eca77e9/data"
-        )
+        self.source_url = "https://www.fohm.se/folkhalsorapportering-statistik/statistikdatabaser-och-visualisering/vaccinationsstatistik/statistik-for-vaccination-mot-covid-19/"
+        self._base_url = "https://www.fohm.se"
         self.location = "Sweden"
         self.columns_rename = None
 
+    def get_file_url(self):
+        soup = get_soup(self.source_url)
+        # Find html element with downloadable url
+        elem_xlsx = soup.find_all(class_="xlsx")
+        assert len(elem_xlsx) == 1, "More than one downloadable XLSX file was found!"
+        # Build URL
+        suffix = elem_xlsx[0].get("href")
+        url_file = f"{self._base_url}{suffix}"
+        return url_file
+
     def read(self) -> pd.DataFrame:
-        daily = self._read_daily_data()
-        weekly = self._read_weekly_data()
-        weekly = weekly[weekly["date"] < daily["date"].min()]
-        return pd.concat([daily, weekly]).sort_values("date").reset_index(drop=True)
+        url = self.get_file_url()
+        dfs = read_xlsx_from_url(url, sheet_name=None)
+        return dfs["1. Vaccinationer tidsserie"]
 
-    def pipe_columns(self, df: pd.DataFrame) -> pd.DataFrame:
-        return df.assign(location=self.location, source_url=self.source_url_daily)
-
-    def pipe_vaccine(self, df: pd.DataFrame) -> pd.DataFrame:
-        return df.assign(vaccine="Moderna, Oxford/AstraZeneca, Pfizer/BioNTech")
 
     def pipeline(self, df: pd.DataFrame) -> pd.DataFrame:
         return (
-            df.pipe(self.pipe_vaccine)
+            df.pipe(self.pipe_date)
+            .pipe(self.pipe_vaccine)
+            .pipe(self.pipe_filter_rows)
             .pipe(self.pipe_columns)
-            .pipe(self.pipe_out_columns)
-            .pipe(self.pipe_add_boosters)
+            # .pipe(self.pipe_out_columns)
+            # .pipe(self.pipe_add_boosters)
+            .pipe(self.pipe_merge_with_archived)
             .pipe(make_monotonic)
             .drop_duplicates(subset=["date"], keep=False)
         )
 
-    def _read_weekly_data_doses(self, dfs) -> pd.DataFrame:
-        """Read weekly data for number of vaccinations administered."""
-        # DOSES
-        df = dfs["Vaccinationer tidsserie"]
-        # Filter rows and columns of interest
-        df_doses = df.loc[df.Region == "| Sverige |", ["Vecka", "År", "Antal vaccinationer"]]
-        df_doses = df_doses.rename(columns={"Antal vaccinationer": "total_vaccinations"})
-
-        boosters = dfs["Dos 3 per åldersgrupp"]
-        self.latest_boosters = boosters.loc[
-            (boosters.Region == "| Sverige |") & (boosters["Åldersgrupp"] == "Totalt"), "Antal vaccinerade"
-        ].item()
-
-        return df_doses
-
-    def _read_weekly_data_people(self, dfs) -> pd.DataFrame:
-        """Read weekly data for number of vaccinated people."""
-        # PEOPLE VAX
-        df = dfs["Vaccinerade tidsserie"]
-        # Filter rows and columns of interest
-        df_people = df.loc[df.Region == "| Sverige |", ["Vecka", "År", "Antal vaccinerade", "Vaccinationsstatus"]]
-        # Pivot & rename columns
-        cols_wrong = set(df_people.Vaccinationsstatus).difference({"Minst 1 dos", "Minst 2 doser"})
-        if cols_wrong:
-            raise ValueError(f"Unknown columns: {cols_wrong}")
-        df_people = (
-            df_people.pivot(index=["Vecka", "År"], columns="Vaccinationsstatus", values="Antal vaccinerade")
-            .reset_index()
-            .rename(
-                columns={
-                    "Minst 1 dos": "people_vaccinated",
-                    "Minst 2 doser": "people_fully_vaccinated",
-                }
-            )
-        )
-        return df_people
-
-    def _read_weekly_data(self) -> pd.DataFrame:
+    def pipe_date(self, df: pd.DataFrame) -> pd.DataFrame:
         """Read weekly data
 
         This data is loaded from an excel. It contains very clean (but sparse, i.e. weekly) data.
         """
-        dfs = pd.read_excel(self.source_url_weekly, sheet_name=None)
-        # Read data
-        df_doses = self._read_weekly_data_doses(dfs)
-        df_people = self._read_weekly_data_people(dfs)
-        # Merge
-        df = df_doses.merge(df_people, on=["År", "Vecka"])
-        # Date
-        ds = df["År"].astype(str) + "-W" + df["Vecka"].astype(str) + "+0"
-        df["date"] = ds.apply(lambda x: clean_date(x, "%Y-W%W+%w"))
-        # Prepare output
+        # Get date
+        df["date"] = df["År"].astype(str) + "W" + df["Vecka"].astype(str)
+        df["date"] = clean_date_series(df["date"] + "+1", "%GW%V+%w")
+        # Drop unused columns
         df = df.drop(columns=["Vecka", "År"]).sort_values("date")
         # print(df)
         return df
 
-    def _read_daily_data(self) -> pd.DataFrame:
-        """Read daily data (latest) from HTML page."""
-        text = requests.get(self.source_url_daily, verify=False).content
-        dfs = pd.read_html(text, encoding="utf-8")
-        df = self._get_df_daily(dfs[1])
-        df_doses = self._get_df_doses_daily(dfs[0])
-        df = self._merge_tables_daily(df, df_doses)
+    def pipe_vaccine(self, df: pd.DataFrame) -> pd.DataFrame:
+        # Source: https://www.ecdc.europa.eu/en/publications-data/data-covid-19-vaccination-eu-eea
+        return build_vaccine_timeline(
+            df,
+            {
+                "Pfizer/BioNTech": "2021-01-01",
+                "Moderna": "2021-01-15",
+                "Oxford/AstraZeneca": "2021-02-12",
+                "Novavax": "2022-03-11",
+            },
+        )
+
+    def pipe_filter_rows(self, df: pd.DataFrame) -> pd.DataFrame:
+        df = df[df["Region"]=="| Sverige |"]
         return df
 
-    def _read_daily_data_age_split(self) -> pd.DataFrame:
-        """Read daily data (latest) from HTML page with two tables.
 
-        One table with adult numbers, the other one with teen numbers (12-15 yo)."""
-        text = requests.get(self.source_url_daily, verify=False).content
-        dfs = pd.read_html(text, encoding="utf-8")
-        df_adults = self._get_df_daily(dfs[1])
-        df_teens = self._get_df_teens_daily(dfs[2])
-        df_doses = self._get_df_doses_daily(dfs[0])
-        df = self._merge_tables_daily_split(df_adults, df_teens, df_doses)
-        return df
+    def pipe_columns(self, df: pd.DataFrame) -> pd.DataFrame:
+        df["total_vaccinations"] = df.sort_values("date")["Antal vaccinationer"]
+        df = df.drop(columns=["Region", "Antal vaccinationer"])
+        return df.assign(location=self.location, source_url=self.source_url)
 
-    def _get_df_daily(self, df):
-        return df.assign(
-            people_vaccinated=df["Antal vaccinerademed minst 1 dos*"].apply(clean_count),
-            people_fully_vaccinated=df["Antal vaccinerademed minst 2 doser"].apply(clean_count),
-        )
-
-    def _get_df_teens_daily(self, df):
-        # People vaccinated < 16 yo
-        # df_teens = df.pivot("Datum", "Status", "Antal vaccinerade födda 2003-2005").reset_index()
-        return df.assign(
-            people_vaccinated=df["Antal vaccinerade med minst 1 dos"].apply(clean_count),
-            # people_fully_vaccinated=df_teens["2 doser"].apply(clean_count),
-        )
-
-    def _get_df_doses_daily(self, df):
-        # Total vaccinations
-        return df.assign(
-            total_vaccinations=df["Antal vaccinationer"].apply(clean_count),
-        )
-
-    def _merge_tables_daily(self, df, df_doses):
-        # Merge
-        df = df.merge(df_doses, on="Datum").rename(
-            columns={
-                "Datum": "date",
-            }
-        )
-        df[["people_vaccinated", "people_fully_vaccinated"]] = df[
-            ["people_vaccinated", "people_fully_vaccinated"]
-        ].astype("Int64")
-        df = df[["date", "total_vaccinations", "people_vaccinated", "people_fully_vaccinated"]]
-        return df
-
-    def _merge_tables_daily_split(self, df_adults, df_teens, df_doses):
-        # Merge people metrics
-        df = df_adults.merge(df_teens, on="Datum", how="left")
-        df = df.assign(
-            people_vaccinated=df.filter(regex="people_vaccinated_*").sum(axis=1),
-            people_fully_vaccinated=df.filter(regex="people_fully_vaccinated_*").sum(axis=1),
-        )
-        # Merge
-        df = df.merge(df_doses, on="Datum").rename(
-            columns={
-                "Datum": "date",
-            }
-        )
-        df[["people_vaccinated", "people_fully_vaccinated"]] = df[
-            ["people_vaccinated", "people_fully_vaccinated"]
-        ].astype("Int64")
-        df = df[["date", "total_vaccinations", "people_vaccinated", "people_fully_vaccinated"]]
+    def pipe_merge_with_archived(self, df: pd.DataFrame) -> pd.DataFrame:
+        df_archived = self.load_archived_data()
+        df = df[df["date"] > df_archived["date"].max()]
+        df = pd.concat([df_archived, df], ignore_index=True).sort_values(["date"])
         return df
 
     def pipe_out_columns(self, df: pd.DataFrame):
         return df[
             [
                 "date",
-                "people_vaccinated",
-                "people_fully_vaccinated",
-                "total_vaccinations",
-                "vaccine",
                 "location",
                 "source_url",
+                "vaccine",
+                "total_vaccinations",
+                "people_vaccinated",
+                "people_fully_vaccinated",
+                "total_boosters",
             ]
         ]
 
-    def pipe_add_boosters(self, df: pd.DataFrame):
-        # The existing data only allows us to know the latest value of total_boosters. Ideally at
-        # some point we'll get a full time series, but for now we assign this value to the last day
-        # of the time series, so that it can at least be shown on bar charts and maps.
-        df = df[df.date <= str(datetime.date.today() - datetime.timedelta(days=1))]
-        df.loc[df.date == df.date.max(), "total_boosters"] = self.latest_boosters
-        return df
 
     def export(self):
         """Generalized."""
         df = self.read().pipe(self.pipeline)
-        df.to_csv(paths.out_vax(self.location), index=False)
+        self.export_datafile(df)
 
 
 def main():
